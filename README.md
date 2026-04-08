@@ -6,6 +6,10 @@ Public workbench for a cleaned-up, restructured markdown manuscript of
 *Tales of the Old West* — a gritty tabletop RPG set in the American frontier
 of the 1870s.
 
+<p align="center">
+  <img src="corebook/00-cover.jpg" alt="Tales of the Old West 2E cover" width="90%" />
+</p>
+
 ## Overview
 
 This repository contains:
