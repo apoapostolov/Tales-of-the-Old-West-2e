@@ -264,6 +264,84 @@ If the outlaw gangs provide the quarry, the men who hunted them provide the purs
 
 The **Wells Fargo detective** was a different breed. Wells Fargo’s express division maintained its own force of investigators, shotgun messengers, and special agents dedicated to protecting shipments and tracking down robbers. James B. Hume served as Wells Fargo’s chief detective for over thirty years and was one of the most capable investigators in the West. Hume built a systematic approach to criminal investigation that was decades ahead of most law enforcement: he maintained detailed records, studied criminal methods, and used what we’d now call profiling. He personally tracked Black Bart across 28 stagecoach robberies. The Wells Fargo detectives operated in a grey area—private agents enforcing corporate interests, but also providing genuine law enforcement in areas where no one else would.
 
+### Roles to Fill in the West
+
+The outlaw, the bounty hunter, and the farmer are well-worn archetypes—but the frontier was full of people who fit none of those categories and whose lives generated just as much drama. These are the overlooked roles: the characters who navigated the West's middle ground, who were neither completely lawless nor entirely respectable, and who saw the era from angles the dime novels never considered.
+
+### The Con Artist and the Snake Oil Trade
+
+Travelling medicine shows were a fixture of frontier life in the 1870s. A showman would roll into town in a brightly painted wagon, set up a stage, and spend two or three days performing—magic tricks, music, testimonials, comedy—before selling his patent medicines, elixirs, and guaranteed cures at premium prices. The shows were entertainment in a world with almost none, and crowds turned out eagerly. The medicines were almost universally fraudulent, containing whiskey, opium, cocaine, glycerine, and whatever else was cheap and produced a satisfying sensation. Clark Stanley's Snake Liniment, when actually tested by the federal government in 1917, was found to contain no snake oil whatsoever—just mineral oil, beef fat, red pepper, and turpentine.
+
+The confidence man was a more sophisticated operator. The long con—a multi-day or multi-week fraud involving planted conspirators, fake opportunities, and the deliberate cultivation of a victim's greed—was practiced across the West. "Land fraud" was particularly common: selling deeds to land the seller didn't own, often to recent immigrants who couldn't read English. Mining claim fraud, stock fraud, and gold brick scams—selling painted lead bricks as gold—were widespread enough that the US Post Office established a mail fraud division specifically in response.
+
+Jefferson "Soapy" Smith ran the most sophisticated criminal operation in Skagway, Alaska, including a fake telegraph office that charged customers for sending "messages" on a wire connected to nothing. He was shot dead in 1898 by a vigilante committee that had finally run out of patience. His story is the arc of the con artist's life compressed into a single biography: brilliant, profitable, and lethal.
+
+For a campaign, the medicine show as a travelling party base—moving from town to town, performing, selling, gathering information, and staying one step ahead of angry former customers—is an excellent structure. The party may include a con artist or work as one. They may be hired to expose a fraud, run one, or find themselves the target of a long con they didn't see coming.
+
+### The Frontier Press
+
+Every town of any size had at least one newspaper, often two or three competing for readers and political patronage. Frontier editors wielded enormous influence: they shaped public opinion, backed political candidates, printed wanted notices, whipped up mob sentiment, and occasionally got shot for their opinions. The editor's office was frequently targeted by those he criticized—presses were smashed, editors were horsewhipped, and at least a few were murdered.
+
+Yellow journalism was emerging in this period: the deliberate exaggeration, fabrication, or sensationalization of news to drive circulation. The James gang's sympathetic press coverage was a direct product of this environment—editor John Newman Edwards of the Kansas City Times practically invented Jesse James as a romantic outlaw, turning a violent bank robber into a folk hero through the power of print. A party working with or against a yellow journalist creates fascinating moral questions about truth, narrative, and consequences.
+
+The newspaper editor as a patron NPC or party role is underused. He knows everything that happens in town—people come to him with tips, rumors, complaints, and grievances. He needs stories investigated, witnesses tracked down, and evidence gathered. He can print revelations that change the political landscape of a campaign in a single issue—or be silenced before he does. A reporter has been murdered before publishing a story. A rival paper is running a smear campaign that is destroying a fair election. A newspaper editor discovers that the town's most respected citizen is a wanted man. Each is a campaign engine.
+
+### The Frontier Lawyer
+
+Legal practice on the frontier was radically variable. Some frontier lawyers were genuine professionals who had read law in Eastern offices and passed bar examinations. Others had read a single law book and called themselves attorneys. The distinction was difficult to assess from the outside, and many a client was represented by someone who barely understood the proceedings.
+
+Territorial courts were a political battleground. Federal judges were patronage appointments, often going to friends and allies rather than qualified jurists. A judge in the pocket of the railroad, the cattle barons, or the local political ring could destroy lives with impunity. Judge Roy Bean, "the law west of the Pecos," held court in his saloon and administered a charming, idiosyncratic, and occasionally arbitrary justice that is half comedy and half horror.
+
+Land title litigation was one of the most consequential legal battles of the era. The Cartwright Land Grant cases in New Mexico, the California Land Act battles, the disputes over railroad grants—these were fought in courts and often decided as much by bribery and fraud as by evidence and law. A party retained to gather evidence for a land case, protect a witness, or serve a summons across hostile territory has a natural adventure framework rooted in real history. The lawyer as a party member sees the world through a different lens—seeking information, building arguments, identifying leverage. The lawyer who is crooked can be the campaign's most effective villain. The one who is honest is probably the most endangered person in the story.
+
+### The Frontier Photographer
+
+Photography was transformative in the 1870s West, and the frontier photographer is a wildly underused campaign archetype.
+
+The technology was cumbersome: glass plate negatives coated with wet collodion emulsion had to be exposed and developed within minutes of preparation. This meant photographers traveled with a darkroom wagon—a rolling chemical laboratory weighing hundreds of pounds. Getting a photograph required coating the plate, rushing to take the exposure, and rushing back to develop before the emulsion dried. Working under these constraints in desert heat, winter cold, on precarious mountain ledges required physical courage as much as technical skill.
+
+**William Henry Jackson** photographed the Hayden Survey and produced the first photographs of Yellowstone that helped convince Congress to protect it—images that literally changed history. **Timothy O'Sullivan** documented the geological surveys of the Southwest, producing haunting photographs of landscapes that few white Americans had ever seen. An expedition photographer is a party role that gets characters into remote, dangerous territory with a clear institutional patron.
+
+The photographer's evidence was uniquely powerful in an era with no other form of objective documentation. A photograph of a massacre site, a corrupt official, or a stolen brand could be worth more than any testimony—and that made frontier photographers targets for anyone with something to hide. A photographer has images that prove a powerful man committed a crime. Getting those plates to a city newspaper alive is the mission. An expedition photographer discovers ruins in a remote canyon that don't fit any known history. A photographer's studio is broken into and every image of a particular subject has been taken or destroyed. Each is a ready campaign hook.
+
+### The Army Scout and Guide
+
+By the 1870s, the civilian scout and guide occupied one of the most respected and most morally complex positions on the frontier. The Army could not operate effectively without men who knew the terrain, could track, could communicate with Native languages and customs, and could survive in the wilderness indefinitely. These scouts were almost never regular soldiers: they were hunters, trappers, former mountain men, mixed-heritage frontiersmen, and a significant number of Native Americans scouting against rival tribes.
+
+**Native American scouts** were used extensively throughout the Indian Wars, and their role is profoundly uncomfortable. Apache scouts helped track other Apaches. Crow scouts guided the Army against the Lakota. Pawnee scouts worked with the Army against the Sioux. These men had their own reasons—tribal rivalries, economic necessity, personal grievances—but the image of Native men helping the Army destroy Native resistance is one of the frontier's sharpest moral ironies.
+
+**Kit Carson**, by the 1870s already a legendary figure in his own lifetime, spent his career as a trapper, scout, Army guide, and agent. His record was mixed: he was genuinely capable, genuinely respected, and he personally oversaw the forced removal of the Navajo on the Long Walk—burning crops, destroying orchards, killing livestock to force surrender. A scout's loyalties were always divided, their morality always tested. The scout-guide as a party role is the group's interface with the wilderness: he knows where the water is, which passes are guarded, and what the signs on the trail mean. He knows people on both sides of every conflict. He is invaluable, and he is permanently at risk.
+
+### The Circuit Preacher and the Revival
+
+The circuit preacher rode a regular route through scattered communities, performing baptisms, marriages, funerals, and Sunday services for communities too small and poor to support a full-time minister. These men were tough, pragmatic, and often remarkable—riding hundreds of miles a month in all weathers, carrying their church in their saddlebags. Some were genuine men of faith; some were frauds; most were somewhere in between.
+
+**Camp meetings and revivals** were among the most significant social events on the frontier. A revival could draw crowds of thousands to a rural clearing, camping for days in a temporary city of tents. The emotional intensity—the preaching, the singing, the public confessions, the mass conversions—could border on mass hysteria. Critics documented seizures, involuntary shouting, rolling in the dirt ("the jerks"), and what they described as sexual licentiousness that followed the religious ecstasy.
+
+Religious conflict was substantial. Methodists, Baptists, Presbyterians, Catholics, Mormons, and numerous smaller sects competed fiercely for souls, church buildings, political influence, and the allegiance of communities. The Mormon question was politically explosive throughout the 1870s—federal attempts to suppress polygamy pitting constitutional interpretation against religious freedom. Anti-Catholic sentiment, imported from the East, occasionally erupted in violence against Irish and Mexican communities.
+
+A charismatic revival preacher is drawing enormous crowds and enormous donations—is he a genuine man of faith, a fraud, or something more sinister? A dying man confesses a crime to the circuit preacher during last rites. The minister possesses information that could save an innocent man and condemn a guilty one, and he needs help resolving it without violating his conscience. A small town is being torn apart by a religious feud between two congregations that has turned violent. Each is a complete adventure.
+
+### The Surveyor and the Land Rush
+
+The government surveyor was one of the most consequential figures in the West—and one of the most hated by Native peoples, Mexicans, and settlers who understood what a surveyor's arrival meant. Surveyors worked across the West for the General Land Office, running baselines and meridians, establishing township and section lines that divided the landscape into the geometric grid visible from the air today. Their work made the Homestead Act possible. Native communities understood that the surveyor's chains were the precursor to dispossession—when the surveyors came, the soldiers and settlers followed. Surveyors were attacked, kidnapped, and killed.
+
+Land fraud was rampant. Surveyors who could be bribed filed false surveys awarding rich land to political allies. The Desert Land Act of 1877 and the Timber Culture Act were systematically defrauded by cattle barons and railroad companies. Dummy homestead entries—filed in the names of fictional or paid individuals—were how large interests assembled vast holdings against the intent of the law. A surveyor who couldn't be bribed, or who stumbled onto evidence of fraud, was a problem to be solved.
+
+The **land rush**—the dramatic opening of territory to settlers racing to file claims—is one of the West's great spectacle events. The Oklahoma Land Rush of 1889 was the largest: settlers lined up along the border and raced at a gunshot to stake claims on 160-acre homesteads. "Sooners" who had sneaked into the territory early to claim the best ground gave their name to the state's football team. The competitive, legally complex, and physically dangerous scramble for land is natural adventure territory.
+
+### The Immigrant in the West
+
+The West of the 1870s was one of the most ethnically diverse places in North America, and the immigrant communities who built it are underrepresented as player archetypes.
+
+**Irish immigrants**, many driven by the famine and subsequent economic collapse, dominated the labor force of the Union Pacific Railroad and the urban working class. The Irish were simultaneously discriminated against—"No Irish Need Apply" signs appeared in Eastern cities—and, being nominally white, given access to opportunities denied to Black and Asian workers. Irish communities in San Francisco, Denver, and Butte were tight-knit, politically powerful, and often in violent conflict with other immigrant groups.
+
+**German immigrants** were the largest non-English immigrant group in the country by the 1870s. German political refugees from the failed 1848 revolutions—the "Forty-Eighters"—brought radical democratic and socialist ideas that would eventually fuel the American labor movement. German communities maintained their language, their culture, their beer gardens, and their political traditions with fierce pride.
+
+**Scandinavian immigrants** settled heavily in the Dakotas and Minnesota, farming the northern plains. Norwegian, Swedish, and Danish communities established churches and community organizations that maintained their languages for generations. Their experience—isolated on the vast northern prairie, maintaining cultural identity against assimilation pressure—is a rich campaign background.
+
+An immigrant character brings specific pressures to a game: language barriers, cultural isolation, suspicious neighbors, the difficulty of navigating legal systems they don't understand, and the constant tension between assimilation and identity. They also bring the motivation of someone who has sacrificed everything to be here and is not inclined to walk away from a fight.
+
 ### The Frontier Town: Boomtown to Ghost Town
 
 Understanding the life cycle of a Western town is essential for any campaign, because the town is not just a backdrop—it’s a character.
@@ -314,6 +392,38 @@ There was no written “Code of the West,” but there were unwritten rules that
 
 These unwritten rules coexisted with the violence and exploitation documented throughout this chapter. They didn’t redeem the West, but they did make it livable. For a campaign, the Code provides a framework for social interaction: a set of expectations that every character understands, that creates consequences when violated, and that gives the game world a sense of lived-in authenticity.
 
+### Secret Societies and Fraternal Organizations
+
+Secret societies were a major feature of 1870s American life, and the West was no exception—they provided mutual aid, political networks, and sometimes dangerous power.
+
+The **Freemasons** were present in virtually every Western town of any size. Masonic membership provided social network, business connections, mutual aid, and a brotherhood that transcended local divisions. Many Western lawmen, politicians, and businessmen were Masons—Wyatt Earp was, as were numerous governors, judges, and generals. The Masons were not sinister in themselves, but their influence was real: a Mason who needed help found it among fellow Masons, and a non-Mason navigating a Masonic-dominated establishment was playing with a hand tied behind his back.
+
+The **Knights of Labor**, founded in 1869, was the first major American labor organization, accepting workers regardless of craft, race, or gender. By the early 1880s it had over 700,000 members. In the mining West, KOL organizing produced strikes, confrontations with Pinkerton agents, and violent suppression by company-hired enforcers. The conflict between organized labor and corporate power played out in mining camps and railroad towns across the West in ways that make compelling campaign territory: a labor organizer is exactly as dangerous as an outlaw to the right kind of powerful man.
+
+**Anti-Chinese tongs** and Chinese secret societies controlled much of the economic and social life of Chinese communities. Rival tongs conducted "tong wars"—assassinations, organized brawls, and commercial warfare—over control of gambling, prostitution, and business in Chinatowns. For outsiders, navigating Chinese community politics meant navigating tong structures; ignoring them was dangerous. A Chinese party member who has a history with one tong finds that history following him across the West.
+
+The **Ku Klux Klan** and its successors—the White League, the Red Shirts—were active in the former Confederate states and extended their influence into parts of the West. Their capacity for organized violence, and the total inability of most local law enforcement to stop them, made them effective instruments of terror. The Klan is not a mystery or a secret in this period—its membership was often known and its political activities were open. It was a political organization that used murder as a policy tool, and it operated openly because the law was afraid of it.
+
+### Utopian Communities and the Mormon Question
+
+The 1870s West attracted not only individuals looking for opportunity but entire communities seeking to build alternative societies—and their grand experiments were fascinating, sometimes heroic, and often catastrophic.
+
+**Mormon Utah** was the most successful and most controversial. Founded by Brigham Young in the Salt Lake Valley in 1847, the Utah Territory by the 1870s was a functioning theocratic community: the LDS Church controlled politics, economics, and social life. Polygamy—the "Principle"—was openly practiced and became the central flashpoint with the federal government. The Edmunds Act of 1882 criminalized polygamy and unleashed a wave of federal prosecution that drove polygamist families into hiding and exile. Federal marshals hunted polygamists across the territory; communities protected their own. A campaign set in Utah Territory in this period is set in a community that is simultaneously devout, self-sufficient, paranoid, and under siege—a pressure cooker with its own internal conflicts and a federal enemy bearing down from outside.
+
+**Utopian secular communities** also proliferated: cooperative farming settlements, free-love communities, anarchist communes. Most failed within a few years. The collision between idealistic communal visions and the harsh pragmatics of frontier survival produced either transformation or collapse. A campaign involving a utopian community—its internal conflicts, its external enemies, and the question of what it is actually willing to compromise to survive—is rich territory. The community's founding ideals may be genuine; so may the failure of those ideals under pressure.
+
+### Natural Disasters as Campaign Events
+
+The frontier West was subject to natural violence of a scale that modern Americans rarely experience, and these events are underused as campaign catalysts.
+
+**Prairie fires** killed people and livestock, destroyed homesteads, and could consume thousands of square miles in hours. They moved faster than a horse could run in some conditions. Frontier communities had organized fire-fighting systems—plowing firebreaks, burning back-fires—that required community cooperation and could still fail catastrophically. A prairie fire threatening a town, with suspected arson behind it, is the Western equivalent of a dungeon on fire: urgent, dangerous, and freighted with political consequences once the immediate crisis passes.
+
+**The locust plagues** of 1874 to 1877 devastated the Great Plains. Clouds of Rocky Mountain locusts—sometimes covering thousands of square miles—descended and consumed everything green: crops, grass, wooden tool handles, leather harnesses, wool clothing. Farmers who had worked for years to build homesteads found them stripped bare in hours. The economic devastation was catastrophic and drove a massive exodus from the plains. A community staring down a plague of locusts, making decisions about whether to stay or go, is a campaign situation with no heroes and no clean answers.
+
+**The Blizzard of 1886-87**—the "Great Die-Up"—destroyed the open range cattle industry and killed hundreds of people. Entire herds froze or starved. Ranch hands were caught on the range and died. Survivors found a changed landscape: the era of the open range was over, the cattle corporations were bankrupt, and an entire way of life had ended in a single winter. A campaign set in the aftermath of this disaster—people trying to survive, collect on debts, find missing persons, and salvage something from the wreck—writes itself.
+
+**Flash floods and river floods** in the canyon lands and river bottoms regularly wiped out towns, ranches, and mining operations. The Missouri, the Kansas, and the Arkansas rivers all flooded catastrophically during this period. A flood as a campaign event—a town in danger, difficult choices about what to defend and who to save, the aftermath of wreckage—is a proven scenario structure that works at any level.
+
 ### Vigilante Justice
 
 Where formal law enforcement was absent, weak, or corrupt, vigilantes filled the void—and created new horrors. Vigilance committees sprang up across the West, claiming to bring order where there was none. Sometimes they were right. Often they became the very thing they claimed to oppose.
@@ -347,6 +457,42 @@ Railroad companies wielded political power like feudal lords. They bribed territ
 The human cost of building the railroads was enormous and largely ignored. Chinese laborers on the Central Pacific died in hundreds from avalanches, nitroglycerin explosions, and brutal working conditions. Irish laborers on the Union Pacific faced their own dangers and exploitation. Workers of all backgrounds were injured or killed in wrecks, coupling accidents (coupling freight cars was one of the most dangerous jobs in America—brakemen lost fingers and hands so commonly it was considered an occupational inevitability), and track maintenance. The companies fought every attempt at safety regulation and paid claims grudgingly or not at all.
 
 For adventurers in the 1870s West, the railroads are everywhere—and they are as likely to be the villain as the convenience. Railroad agents evicting settlers, Pinkerton enforcers breaking labor organizing, company surveyors staking claims through Native land guaranteeed by treaty, and executives buying judges and sheriffs: this is the world the railroad built.
+
+### Territorial Politics and Statehood
+
+The question of whether a territory would become a state was one of the most consequential political battles of the era—and it was fought dirty.
+
+Statehood meant self-governance: an elected governor instead of a federal appointee, elected judges, representation in Congress, and control over public land within state borders. The party in Washington had enormous financial and political incentive to delay statehood for territories they didn't control and to rush it for those they did. **Territorial rings**—the corrupt networks of officials, businessmen, and political allies who ran territories like private fiefdoms—were most powerful precisely because territories lacked the democratic oversight that states possessed. The Santa Fe Ring in New Mexico, the Whiskey Ring nationally, and the Star Route fraud in the postal system were all products of this environment. A party working to expose or bring down a territorial ring has a multi-session campaign framework with built-in escalation.
+
+**Election fraud** was brazen. Ballot stuffing, voter intimidation, the voting of dead men, and the "repeater"—a man who voted under multiple names at multiple polling places—were standard practice. Armed men at polling places prevented certain voters from casting ballots. Election judges were bribed to certify fraudulent results. A pivotal election in a territory or state—with a corrupt machine on one side, reformers and their enemies on the other—is a natural campaign fulcrum.
+
+### The Panic of 1873 and Economic Collapse
+
+The Panic of 1873 was one of the most severe financial crises in American history, and its effects on the West were devastating and long-lasting.
+
+The collapse of banking house Jay Cooke & Company in September 1873, which had overextended itself financing the Northern Pacific Railroad, triggered a bank run that closed the New York Stock Exchange for ten days. What followed was the "Long Depression"—a contraction that lasted until 1879. Banks foreclosed on farms and ranches. Unemployment in the cities reached 25%. Wages were cut repeatedly; workers who resisted were replaced. The depression drove waves of desperate men West, fueling both settlement and crime. Many of the outlaws of the late 1870s—the desperados filling Indian Territory and the mining camps—were men broken by the economic collapse who had nothing left to lose.
+
+The **cattle market collapse** of the early 1880s compounded the misery. Overproduction, drought, the catastrophic winter of 1886-87, and falling beef prices destroyed the open range cattle industry. Ranch owners went bankrupt. Cowboys found themselves unemployed by the thousands. The economic despair that produced the range wars and the drift toward outlaw life was not a character flaw—it was the predictable result of an economic system that had collapsed on the people at the bottom of it.
+
+For a campaign, the Panic of 1873 provides context for why so many people are desperate, angry, and willing to break the law. A boom-era bank calling in loans spawns a wave of foreclosures. A town whose economy was built on cattle finds itself ruined in a single bad winter. A desperate man who was a decent farmer three years ago becomes an outlaw because there is no other option. The economics of the period are a campaign engine.
+
+### Water Wars
+
+In the arid West, water was more valuable than gold—and who controlled it determined who survived.
+
+**Prior appropriation**—the legal doctrine that established water rights based on first use rather than land ownership—created a permanent source of conflict. The man who arrived first and diverted a stream had the right to that water even against a downstream landowner. This drove upstream diversions, dam building, and the deliberate monopolization of water sources by those with the knowledge and resources to act first. Cattle barons who controlled the only water for twenty miles controlled everything around it.
+
+**Irrigation disputes** in Arizona, New Mexico, and California produced their own violence. The acequia systems—communal irrigation networks built by Hispanic and Pueblo communities centuries before Anglo arrival—were targeted by speculators and settlers who wanted the water rights. Communities that had maintained these systems for generations found them legally stripped away or physically damaged by upstream diverters.
+
+**Sheep and cattle** were another water-war fault line, distinct from the cattle baron versus nester conflicts. Sheep ate grass down to the root and fouled water sources in ways that cattle ranchers considered catastrophic. Cattlemen dynamited sheep herds in canyon passes. Sheepmen were run off range by armed riders. The violence was not just economic—it carried a class contempt, since in the culture of the open range, sheep were considered beneath cattle, and sheepmen beneath cattlemen. A water dispute or sheep-versus-cattle range conflict is an ideal short adventure: concrete stakes, clear antagonists, and a community whose survival literally depends on resolution.
+
+### The Temperance Wars
+
+The temperance movement—the campaign against alcohol—was one of the most powerful political forces of the 1870s West, and it generated fierce, sometimes violent conflict.
+
+The **Women's Christian Temperance Union**, founded in 1874, rapidly became one of the most effective political organizations in the country—remarkable given that women couldn't vote in most places. WCTU members organized, lobbied, and demonstrated. Carry Nation, the most famous temperance activist, conducted "hatchetations"—entering saloons with a hatchet and destroying the bottles and fixtures—across Kansas. She was jailed dozens of times and treated imprisonment as an honor. Kansas enacted the first statewide prohibition law in 1880, and the battles over prohibition in individual towns and counties—saloons defying the law, sheriffs either enforcing or ignoring it based on who paid their salary, and temperance advocates taking matters into their own hands—are natural adventure settings.
+
+The conflict was not simply moral; it was economic and ethnic. Saloon owners, gambling interests, and the "sporting" economy had enormous political power. Immigrant communities—Irish, German—saw drinking as cultural practice and viewed temperance as ethnic targeting dressed up as reform. Towns profiting from the vice economy fought back hard. Dry towns and wet towns in the same county meant that men rode long distances for a drink, that counties became battlegrounds over the question, and that the sheriff of a dry town who tried to close down a saloon backed by the most powerful men in the county was measuring his life expectancy in weeks.
 
 ### Addiction, Whiskey, and Patent Medicine
 
@@ -817,10 +963,41 @@ The dime novels omitted the crying. Men on the frontier cried. Cowboys cried fro
 
 ### Further Reading
 
-_The Cheyenne Indians_ by George Bird Grinnell _Bury My Heart at Wounded Knee_ by Dee Brown _Blood and Thunder_ by Hampton Sides _Empire of the Summer Moon_ by S.C. Gwynne _The Real Deadwood_ by John Edward Ames _Dodge City_ by Tom Clavin _Gunfighters, Highwaymen and Vigilantes_ by Roger D. McGrath _The Worst Hard Time_ by Timothy Egan _Lonesome Dove_ by Larry McMurtry _(fiction, but more honest about cowboy life than most history books)_ _Roughing It_ by Mark Twain _Killers of the Flower Moon_ by David Grann _The Indifferent Stars Above_ by Daniel James Brown _(on the Donner Party)_ _Massacre at Mountain Meadows_ by Walker, Turley, and Leonard _One Vast Winter Count_ by Colin G. Calloway _Driven Out_ by Jean Pfaelzer _(on anti-Chinese violence)_ _The Devil in the White City_ by Erik Larson _(Gilded Age context)_ _Slavery by Another Name_ by Douglas A. Blackmon _(on convict leasing)_ _1491_ by Charles C. Mann _Impressions of an Indian Childhood_ by Zitkala Sa _The Earth is Weeping_ by Peter Cozzens _Black Elk Speaks_ as told through John Neihardt by Nicholas Black Elk _The Rediscovery of America_ by Ned Blackhawk _And Still The Waters Run_ by Angie Debo _The Mammoth Book of Native Americans_ edited by Jon E. Lewis _New Mexico, A History_ by Sanchez, Spude and Gomez
+- _The Cheyenne Indians_ by George Bird Grinnell — A dense ethnographic study of Cheyenne culture, kinship, warfare, ceremony, and daily life by a man who lived among them. Essential for GMs portraying Cheyenne characters or running campaigns in Cheyenne territory.
+- _Bury My Heart at Wounded Knee_ by Dee Brown — The defining account of the systematic destruction of Native American civilisations from the Native perspective. Every GM running any story involving Native peoples should read this first.
+- _Blood and Thunder_ by Hampton Sides — Kit Carson, the conquest of the Southwest, and the collision between the US Army and the Navajo and Apache nations. Vivid, balanced, and essential for New Mexico campaigns.
+- _Empire of the Summer Moon_ by S.C. Gwynne — The rise and fall of the Comanche Empire, told through the story of Quanah Parker. The most readable account of Comanche power, raiding culture, and the brutal end of their dominance of the southern plains.
+- _The Real Deadwood_ by John Edward Ames — The actual history behind the legends of Deadwood: the mining camp, the characters, the violence, and the economics that drove it. Good grounding before any Black Hills campaign.
+- _Dodge City_ by Tom Clavin — The cattle town at its wildest, following Wyatt Earp, Bat Masterson, Doc Holliday, and the full cast of Dodge's glory years. Useful for players and GMs wanting to understand what a trail-end cow town actually felt and operated like.
+- _Gunfighters, Highwaymen and Vigilantes_ by Roger D. McGrath — A scholarly examination of violence in frontier California mining towns that challenges popular myths. GMs will find its data on actual crime rates, vigilante behaviour, and frontier justice mechanics invaluable.
+- _The Worst Hard Time_ by Timothy Egan — The Great Plains through drought and the Dust Bowl. Though set in the 1930s, it is the best account of what the land does to the people who try to farm it — essential for understanding homesteader campaigns.
+- _Lonesome Dove_ by Larry McMurtry — Fiction, and the finest novel ever written about the West. A cattle drive from Texas to Montana that captures cowboy life, friendship, violence, and the cost of the frontier dream with more honesty than most history books. Read it for tone.
+- _Roughing It_ by Mark Twain — Twain’s autobiographical account of his time in Nevada and the West in the 1860s — funny, sharp, and revelatory about mining camps, stagecoaches, con men, and the texture of frontier society. Excellent for capturing the era’s voice.
+- _Killers of the Flower Moon_ by David Grann — The Osage murders of the 1920s and the systematic theft of Osage oil wealth through a campaign of assassination. Reveals how legal and extralegal systems combined to dispossess a people who had done everything right.
+- _The Indifferent Stars Above_ by Daniel James Brown — The Donner Party in forensic, harrowing detail. Essential reading for any GM running a trail west scenario or wanting to understand what true frontier survival looked like at its worst.
+- _Massacre at Mountain Meadows_ by Walker, Turley, and Leonard — The definitive scholarly account of the 1857 massacre of a wagon train by Mormon militiamen. Important for understanding religious violence, frontier justice, and the Mormon question in territorial America.
+- _One Vast Winter Count_ by Colin G. Calloway — A comprehensive history of the Native American West from pre-contact through the nineteenth century, covering dozens of nations. The broadest and most balanced single-volume scholarship on the subject.
+- _Driven Out_ by Jean Pfaelzer — The systematic expulsion of Chinese communities from Western towns and cities through organised violence, arson, and legislation. Essential for GMs running any story involving Chinese characters or anti-Chinese conflict.
+- _The Devil in the White City_ by Erik Larson — Chicago’s 1893 World’s Fair alongside a serial killer operating within it. Gilded Age America rendered in extraordinary detail — useful context for the economic ambition and social rot of the era.
+- _Slavery by Another Name_ by Douglas A. Blackmon — How convict leasing and the Black Codes recreated slavery in everything but name after the Civil War. Required reading for any campaign involving Black characters navigating life in the post-war South or West.
+- _1491_ by Charles C. Mann — What the Americas were like before European contact — complex, populous, sophisticated civilisations largely erased from popular understanding. Reframes Native American history from the ground up.
+- _Impressions of an Indian Childhood_ by Zitkala Sa — A memoir by a Yankton Sioux woman about growing up on a reservation and being taken to a boarding school. First-hand, literary, devastating. The only voice in this list that is both primary source and literature.
+- _The Earth is Weeping_ by Peter Cozzens — The most comprehensive single-volume history of the Indian Wars from both sides, covering every major campaign. GMs running military or Native resistance scenarios will find it indispensable.
+- _Black Elk Speaks_ as told through John Neihardt by Nicholas Black Elk — The spiritual autobiography of an Oglala Lakota holy man. Essential for understanding Lakota cosmology, the Ghost Dance, and the inner life of a people facing the destruction of their world.
+- _The Rediscovery of America_ by Ned Blackhawk — An award-winning retelling of Native American history from the Native perspective, spanning centuries and challenging the standard colonial narrative at every turn.
+- _And Still The Waters Run_ by Angie Debo — The dispossession of the Five Civilised Tribes in Oklahoma through the allotment process — a meticulous account of legal fraud on a massive scale. Essential for Indian Territory campaigns.
+- _The Mammoth Book of Native Americans_ edited by Jon E. Lewis — A wide-ranging anthology of primary sources, first-hand accounts, and essays covering many tribes and periods. Good for dipping into specific nations or events without committing to a single scholarly work.
+- _New Mexico, A History_ by Sanchez, Spude and Gomez — Regional history of New Mexico from Spanish colonial times through US territorial period and statehood. Essential for the New Mexico Campaign chapter and any Nuevomexicano storylines.
+- _The Historical Atlas of Native Americans_ by Dr. Ian Barnes — Maps, timelines, and visual reference for tribal territories, migration patterns, and historical events across North America. Invaluable for GMs who think spatially.
+- _River of Blood_ edited by Richard Cahan & Michael Williams — A photographic and documentary record of racial violence in America. Confronting and necessary context for any campaign that deals honestly with this history.
+- _American Slavery_ by Peter Kolchin — A comprehensive scholarly overview of American slavery from colonial origins through the Civil War. Provides the economic, legal, and human framework that explains much of what drives conflict in the post-war West.
+- _Uncle Tom’s Story of His Life_ by Josiah Henson — The autobiography that partly inspired _Uncle Tom’s Cabin_. A first-hand account of slavery, escape, and survival that grounds the history in a single life lived through it.
+- _Black Cowboys in the American West_ edited by Glasrud and Searles — Essays on the history of Black cowboys, who made up roughly a quarter of all trail hands. Challenges the whitewashed mythology and gives players and GMs a richer picture of who actually rode the range.
+- _The Wild West_ by Frederick Nolan — A broad, well-illustrated overview of the Wild West era covering outlaws, lawmen, range wars, and key events. A good general reference and starting point.
+- _Cult of Glory — the Bold and Brutal History of the Texas Rangers_ by Doug J. Swanson — A forensic account of the Texas Rangers’ actual history, including their systematic violence against Mexican Americans and Native peoples. Essential for any Texas campaign that wants to use the Rangers as more than cardboard heroes.
+- _Mexicanos_ by Manuel G. Gonzalez — A history of Mexican Americans from the colonial era through the twentieth century. Required reading for campaigns involving Tejano, Nuevomexicano, or California vaquero characters and communities.
+- The Cherokee Nation YouTube channel (https://www.youtube.com/channel/UCRX-8MCNvhzPMejv4oi_FRA) — Primary source videos produced by the Cherokee Nation covering their history, culture, and ongoing sovereignty. Accessible, authoritative, and free.
 
 ### States of the West
 
 > _And their dates of incorporation: • Texas—1845 • California—1850 • Oregon—1859 • Kansas—1861 • Nevada—1864 • Nebraska—1867 • Colorado—1876 • Dakota—1889 • Montana—1889 • Washington State—1889 • Idaho—1890 • Wyoming—1890 • Utah—1896 • Oklahoma—1907 • Arizona—1912 • New Mexico—1912_
-
-_The Historical Atlas of Native Americans_ by Dr. Ian Barnes _River of Blood_ edited by Richard Cahan & Michael Williams _American Slavery_ by Peter Kolchin _Uncle Tom’s Story of His Life_ —An Autobiography of Reverend Josiah Henson by Josiah Henson _Black Cowboys in the American West_ edited by Glasrud and Searles _The Wild West_ by Frederick Nolan _Cult of Glory—the Bold and Brutal History of the Texas Rangers_ by Doug J. Swanson _Mexicanos_ by Manuel G Gonzalez The Cherokee Nation Youtube: https://www. youtube.com/channel/UCRX-8MCNvhzPMejv4oi_FRA
