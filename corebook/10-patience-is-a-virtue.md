@@ -308,10 +308,6 @@ As soon as Rockcliffe hears that Patience is back he professes his joy and relie
 
 > _She wants their help. Her father intends to see Maxwell Kinnear dead for his impudence, but Patience loves him. The player characters must spirit Kinnear out of town, take him to El Paso to the southeast and ensure he takes the stagecoach for San Antonio in Texas, where he will be safe. But they must move fast, as even now her father is secretly contracting bounty hunters from out of town to run down and murder her beau._
 
-**Need a Chapter spread here??? Will blend into Chapter 10 otherwise...**
-
-Appendix: your tale begins
-
 > *“HAVE YOU ANY IDEA OF WHAT A MAN MUST ENDURE WHO LEADS SUCH A LIFE? NO, YOU CANNOT. NO ONE CAN UNLESS HE LIVES IT FOR HIMSELF.”*
 
 > — THE OUTLAW FRANK JAMES
@@ -350,7 +346,7 @@ If you want your character to be older, and perhaps wiser, they can take on a se
 
 ### Step 6: Your Character’s Third Living.
 
-If you wish to play an older character, you take a third, and final, Living. As with the previous Livings, you make the necessary rolls for the Living and the outcome of that Living. Again, your character gains two new ability points and one more talent, chosen from the options listed. However, as they have aged even more you must lose another attribute point of Appendix: your tale begins your choice, but no attribute can go below 2. Your character completes this Living at an age of over 40 years old.
+If you wish to play an older character, you take a third, and final, Living. As with the previous Livings, you make the necessary rolls for the Living and the outcome of that Living. Again, your character gains two new ability points and one more talent, chosen from the options listed. However, as they have aged even more you must lose another attribute point of your choice, but no attribute can go below 2. Your character completes this Living at an age of over 40 years old.
 
 ### Step 7: The Final Touches.
 
@@ -370,8 +366,7 @@ Which of the motley crew you hang around with is the one guy or gal you depend o
 
 At the end of this story your character should embark upon their tale with the following, based on the number of Livings they undertook:
 
-|**Livings**|**Age range**|**Attribute points**|**Ability points**|**Talents**|
-|---|---|---|---|---|
+**Livings**
 
 ### Where Were You Born?
 
@@ -385,8 +380,6 @@ The Old West was a melting pot of different people from many places and diverse 
 | and Northern Great Plains heritage. | tana, and Washington territories. Can be of European, Canadian, US, or Native |
 | 5 The Great lakes and | Including Michigan, Wisconsin, Ohio, Indiana, and Illinois. Likely to be of |
 | Midwest, including “Indian Territory” 6 Europe United Kingdom, Ireland, the Netherlands, Germany, Poland, France, Italy, Spain, Portugal, Greece, Norway, Denmark (including Iceland and Greenland), Sweden, Finland, and the Russian Empire. | European heritage or Native. |
-
-Appendix: your tale begins
 
 7 The Northeast Including New England, New York, New Jersey, and Pennsylvania. Can be of European, African or Native heritage.
 8 Southeast Florida, Louisiana, Virginia, the Carolinas, Kentucky, Tennessee, Georgia, Ala- bama, Mississippi. Likely to be of European or African descent, or from Native American remnant communities.
@@ -405,42 +398,207 @@ Roll D6 on the relevant table from the tables on pages 276 to 283 to learn about
 
 > _The backgrounds we have included represent some of the iconic tropes of western fiction and regional history, but can never be fully representative of that culture or part of the world. If you have a different idea about who your family were and how you were raised, allocate 15 points to the four attributes (ensuring that none are below 3 at this stage), and spend six points on at least three abilities, ensuring that no ability is more than 2 at this stage._
 
-### pire, the Middle East and North Africa The Ottoman Em
+**The Ottoman Empire, the Middle East and North Africa**
 
-|**Te Ottoman Empire, the Middle East and North Africa**|**Te Ottoman Empire, the Middle East and North Africa**|**Te Ottoman Empire, the Middle East and North Africa**|**Te Ottoman Empire, the Middle East and North Africa**|
-|---|---|---|---|
+**4.** Your father was a soldier who saw active service. In the end he was invalided out, but you learned a lot from him.
+  *Attributes:* Grit 5, Quick 4, Cunning 3, Docity 3
+  *Abilities:* FIGHTIN' 1, RESILIENCE 1, SHOOTIN' 2, HAWKEYE 2
 
-Appendix: your tale begins
+**5.** Your family raced horses across the sands. You grew up around herds of horses and occasionally camels too.
+  *Attributes:* Grit 3, Quick 4, Cunning 5, Docity 3
+  *Abilities:* SHOOTIN' 1, NATURE 2, ANIMAL HANDLIN' 2, DOCTORIN' 1
 
-4 Your father was a soldier who saw active service. In the end  Grit 5 FIGHTIN’ 1 he was invalided out, but you learned a lot from him. Quick 4  RESILIENCE 1 Cunning 3 SHOOTIN’ 2 Docity 3 HAWKEYE 2 5 Your family raced horses across the sands. You grew up  Grit 3 SHOOTIN’ 1 around herds of horses and occasionally camels too. Quick 4 NATURE 2 Cunning 5 ANIMAL HANDLIN’ 2 Docity 3 DOCTORIN’ 1 6 Your mother was a campaigner for women’s rights in the  Grit 4 PRESENCE 1 time of the Tanzimat reforms of the Ottoman Empire. She  Quick 4 FIGHTIN’ 1 encouraged you to see the world. Gain +1 on your first Living  Cunning 3 OPERATE 1 roll. Docity 4 INSIGHT 1 PERFORMIN’ 1 BOOKLEARNIN’ 1 British North America 1 You grew up in a gambling den and you learned a thing or  Grit 3  LIGHT-FINGERED 2 two. Quick 4  HAWKEYE 1 Cunning 5  INSIGHT 1 Docity 3 PERFORMIN’ 2 2 Fishing the cold waters of the North Atlantic for cod made  Grit 4 LABOR 1 your family resilient and cooperative. Quick 4  RESILIENCE 2 Cunning 3 MOVE 1 Docity 4 OPERATE 1 NATURE 1 3 You grew up in a logging community, a hard life in the forest  Grit 5 LABOR 1 and by the river. The logs went to Quebec city and from there  Quick 4  FIGHTIN’ 1 to Britain. You grew up strong. Cunning 3 RESILIENCE 1 Docity 3 MOVE 1 OPERATE 1 NATURE 1 4 Your parents were trappers, and you grew up hardly seeing  Grit 4 LABOR 1 other people but learning a lot about nature. Quick 4  RESILIENCE 1 Cunning 4 SHOOTIN’ 1 Docity 3 HAWKEYE 1 NATURE 2 5 White men tried to keep your people in one place, but you  Grit 4 RESILIENCE 1 grew up in the traditional way, following the seasons and  Quick 5  MOVE 1 keeping on the move for the best fishing, foraging, and hunt- Cunning 3 SHOOTIN’ 1 ing. Docity 3 HAWKEYE 2 NATURE 1 6 Your family fortune came from working, and owning shares,  Grit 3 MOVE 1 in the Hudson Bay company. You went to the best schools.  Quick 4  SHOOTIN’ 1 You gain +1 to your first Living roll, and +1 point of Capital Cunning 4 INSIGHT 1 Docity 4 PERFORMIN’ 1 BOOKLEARNIN’ 2 Appendix: your tale begins
+**6.** Your mother was a campaigner for women’s rights in the time of the Tanzimat reforms of the Ottoman Empire. She encouraged you to see the world. Gain +1 on your first Living roll.
+  *Attributes:* Grit 4, Quick 4, Cunning 3, Docity 4
+  *Abilities:* PRESENCE 1, FIGHTIN' 1, OPERATE 1, INSIGHT 1, PERFORMIN' 1, BOOKLEARNIN' 1
 
-|**Continental Northwest and the Great Northern Plains**|**Continental Northwest and the Great Northern Plains**|**Continental Northwest and the Great Northern Plains**|**Continental Northwest and the Great Northern Plains**|
-|---|---|---|---|
+**1.** You grew up in a gambling den and you learned a thing or two.
+  *Attributes:* Grit 3, Quick 4, Cunning 5, Docity 3
+  *Abilities:* LIGHT-FINGERED 2, HAWKEYE 1, INSIGHT 1, PERFORMIN' 2
 
-|**Te Great Lakes and Midwest, including Te Six Nations and  “Indian Territory”**|**Te Great Lakes and Midwest, including Te Six Nations and  “Indian Territory”**|**Te Great Lakes and Midwest, including Te Six Nations and  “Indian Territory”**|**Te Great Lakes and Midwest, including Te Six Nations and  “Indian Territory”**|
-|---|---|---|---|
+**2.** Fishing the cold waters of the North Atlantic for cod made your family resilient and cooperative.
+  *Attributes:* Grit 4, Quick 4, Cunning 3, Docity 4
+  *Abilities:* LABOR 1, RESILIENCE 2, MOVE 1, OPERATE 1, NATURE 1
 
-Appendix: your tale begins
+**3.** You grew up in a logging community, a hard life in the forest and by the river. The logs went to Quebec city and from there to Britain. You grew up strong.
+  *Attributes:* Grit 5, Quick 4, Cunning 3, Docity 3
+  *Abilities:* LABOR 1, FIGHTIN' 1, RESILIENCE 1, MOVE 1, OPERATE 1, NATURE 1
 
-4 Your family ran a mail and freight business between the many  Grit 5  LABOR 1 growing settlements of the Midwest. Quick 3   RESILIENCE 2 Cunning 4  OPERATE 1 Docity 3 ANIMAL HANDLIN’ 1 BOOKLEARNIN’ 1 5 Your parents ran a livery stable. You grew up around horses,  Grit 4  LABOR 2 watching your father shoe them. Quick 5  ANIMAL HANDLIN’ 2 Cunning 3  MAKIN’ 2 Docity 3 6 Your family farmed these lands for generations before the  Grit 4  PRESENCE 1 settlers came in their thousands. Your father was a leader of  Quick 3  FIGHTIN’ 1 men and an able negotiator. Cunning 3  SHOOTIN’ 1 Gain +1 on your first Living roll. Docity 5 INSIGHT 2 PERFORMIN’ 1 Europe 1 Your family were always poor, taking whatever work they  Grit 4 FIGHTIN’ 1 could and finding shelter in the most rotten slums. How you  Quick 4 RESILIENCE 1 got across the Atlantic you won’t say. Cunning 4 MOVE 1 Docity 3 LIGHT-FINGERED 1 HAWKEYE 2 2 Your parents were non-conformists and took advantage of  Grit 4 LABOR 1 America’s reputation for religious freedom. Quick 3 PRESENCE 2 Cunning 4 INSIGHT 1 Docity 4 PERFORMIN’ 1 DOCTORIN’ 1 3 Your father was a miner pulling tin and silver from the rugged  Grit 5 LABOR 2 coast, skills that are much in demand in the new world. Quick 3 FIGHTIN’ 1 Cunning 3 RESILIENCE 1 Docity 4 MOVE 1 OPERATE 1 4 You come from a nation, and indeed from a family, of shop- Grit 3 LIGHT-FINGERED 1 keepers. Quick 4 OPERATE 1 Cunning 5 INSIGHT 2 Docity 3 PERFORMIN’ 1 BOOKLEARNIN’ 1 5 Your father was a successful lawyer and through his connec- Grit 3 PRESENCE 1 tions sent you to America to find professional employment.  Quick 3 SHOOTIN’ 1 Gain +1 to your first Living roll. Cunning 4 INSIGHT 1 Docity 5 PERFORMIN’ 1 BOOKLEARNIN’ 2 6 Grit 4 PRESENCE 1 You have turned your back on your aristocratic family to fight for the rights of the working man, in the land built upon the  Quick 3 FIGHTIN’ 1 principles of Thomas Paine. But that didn’t stop you using  Cunning 3 SHOOTIN’ 1 your family’s wealth. Gain +2 Capital. Docity 5 INSIGHT 1 PERFORMIN’ 1 BOOKLEARNIN’ 1 Appendix: your tale begins
+**4.** Your parents were trappers, and you grew up hardly seeing other people but learning a lot about nature.
+  *Attributes:* Grit 4, Quick 4, Cunning 4, Docity 3
+  *Abilities:* LABOR 1, RESILIENCE 1, SHOOTIN' 1, HAWKEYE 1, NATURE 2
 
-The Northeast 1 Your father was a metropolitan policeman, keeping the peace  Grit 4 PRESENCE 1 (and sometimes taking bribes) in the big city. Quick 4  FIGHTIN’ 2 Cunning 4 SHOOTIN’ 2 Docity 3 ANIMAL HANDLIN’ 1 2 Your parents were talented musicians, feted in a theatrical  Grit 3 PRESENCE 1 world where no one cared about the color of their skin. Quick 4  MOVE 1 Cunning 4 LIGHT-FINGERED 1 Docity 4 PERFORMIN’ 2 MAKIN’ 1 3 Your mother knew how to forage for herbs and heal many  Grit 3   NATURE 1 illnesses and injuries. People traveled from surrounding com- Quick 3   INSIGHT 1 munities to benefit from her wisdom. Cunning 4   PERFORMIN’ 1 Docity 5 DOCTORIN’ 3 4 Your parents found employment in the industrial economy,  Grit 4 LABOR 1 working in one of the fish canning factories. Quick 5 FIGHTIN’ 1 Cunning 3 LIGHT-FINGERED 2 Docity 3 OPERATE 1 MAKIN’ 1 5 Your father was an engineer on a railway. You loved watching  Grit 4 LABOR 1 the steaming machines roll by.  Quick 5  FIGHTIN’ 1 Cunning 3 MOVE 1 Docity 3 OPERATE 1 MAKIN’ 2 6 Grit 3 PRESENCE 1 The offspring of a rising political family, you have learned a little about how people think. Gain +1 on your first Living  Quick 3 INSIGHT 2 roll.  Cunning 4 PERFORMIN’ 2 Docity 5 BOOKLEARNIN’ 1
+**5.** White men tried to keep your people in one place, but you grew up in the traditional way, following the seasons and keeping on the move for the best fishing, foraging, and hunting.
+  *Attributes:* Grit 4, Quick 5, Cunning 3, Docity 3
+  *Abilities:* RESILIENCE 1, MOVE 1, SHOOTIN' 1, HAWKEYE 2, NATURE 1
 
-|**Southeast**|**Southeast**|**Southeast**|**Southeast**|
-|---|---|---|---|
+**6.** Your family fortune came from working, and owning shares, in the Hudson Bay company. You went to the best schools. You gain +1 to your first Living roll, and +1 point of Capital
+  *Attributes:* Grit 3, Quick 4, Cunning 4, Docity 4
+  *Abilities:* MOVE 1, SHOOTIN' 1, INSIGHT 1, PERFORMIN' 1, BOOKLEARNIN' 2
 
-Appendix: your tale begins
+**Continental Northwest and the Great Northern Plains**
 
-4 Your parents found strength and salvation in bringing the  Grit 3 LABOR 1 word of god to the common folk as preachers. They did well  Quick 3  PRESENCE 2 off tithes and donations. You gain +1 on your first Living roll. Cunning 4 INSIGHT 1 Docity 5 PERFORMIN’ 2 5 Your father was an overseer on a large plantation.  Grit 4 LABOR 1 Quick 4  PRESENCE 1 Cunning 4 FIGHTIN’ 2 Docity 3 SHOOTIN’ 1 INSIGHT 1 6 Your parents were farmers involved in Democratic politics,  Grit 3 PRESENCE 1 and although the civil war ruined their aspirations, they came  Quick 3  INSIGHT 2 out of it well enough in the end.  Gain +1 to your first Living  Cunning 5 PERFORMIN’ 2 roll.   Docity 4 BOOKLEARNIN’ 1 , Southern Great Plains, Mexico and South America The South 1 You grew up as an aguador. Water carrying was hard work  Grit 5 LABOR 2 and poorly paid, but honest.  Quick 4  FIGHTIN’ 1 Cunning 3 RESILIENCE 2 Docity 3 MOVE 1 2 Your father was a ne’er-do-well who came to Texas as a hired  Grit 5  FIGHTIN’ 2 gun and was a veteran of the Mexican–American war. Your  Quick 3  SHOOTIN’ 2 mother is the Mexican woman he fell in love with. Cunning 4  HAWKEYE 1 Docity 3 ANIMAL HANDLIN’ 1 3 Down here, people who herd cattle are called Vaqueros. It was  Grit 4  LABOR 1 a hard life and your father was often away but you grew up  Quick 4  HAWKEYE 1 learning the trade. Cunning 4  SHOOTIN’ 2 Docity 3 ANIMAL HANDLIN’ 2 4 Grit 3 LABOR 1 Your mother was a domestic servant in a fine house. You never knew your father.  Quick 4  PRESENCE 1 Cunning 3 LIGHT-FINGERED 1 Docity 5 INSIGHT 2 PERFORMIN’ 1 5 You come from a hardworking farming family using milpa—a  Grit 4 LABOR 2 traditional method of agriculture dating back further than the  Quick 4  NATURE 2 first European settlers. Cunning 3 ANIMAL HANDLIN’ 1 Docity 4 MAKIN’ 1 6 Grit 3 LABOR 1 You grew up on a family-owned ranch, which definitely gave you a head start here in the west. Gain +1 to your first Living  Quick 4  SHOOTIN’ 2 roll, and +1 point of Capital. Cunning 5 NATURE 1 Docity 3 ANIMAL HANDLIN’ 1 INSIGHT 1 Appendix: your tale begins
+**The Great Lakes and Midwest, including The Six Nations and  “Indian Territory”**
 
-West Coast and Great Basin 1 Your parents were slick con artists and more than a little  Grit 3  PRESENCE 2 rubbed off on you. Gain +1 to your first Living roll. Quick 3  PERFORMIN’ 2 Cunning 5  INSIGHT 2 Docity 4 2 Your father worked the docks as a stevedore in San Francisco  Grit 5 LABOR 2 or a similar port, and you grew up strong and not afraid of  Quick 4 FIGHTIN’ 1 work. Cunning 3 RESILIENCE 1 Docity 3 MOVE 1 OPERATE 1 3 Your parents came west seeking silver and gold. Like many  Grit 4 LABOR 1 they found very little, but they managed to pay their way, if  Quick 3  RESILIENCE 1 not get rich.  Cunning 5 MOVE 1 Docity 3 OPERATE 1 HAWKEYE 1 NATURE 1 4 You grew up in a bordello, but as the child of the owner rath- Grit 3 PRESENCE 1 er than one of the working girls. It’s given you a good head  Quick 3 FIGHTIN’ 1 start in life. Gain +1 on your first Living roll.  Cunning 5 LIGHT-FINGERED 1 Docity 4 INSIGHT 2 DOCTORIN’ 1 5 The child of a mining engineer, you learned a little of the  Grit 3 LABOR 1 skills that are still in demand in this part of the world. Gain  Quick 4 MOVE 1 +1 on your first Living roll. Cunning 3 OPERATE 1 Docity 5 NATURE 1 MAKIN’ 1 BOOKLEARNIN’ 1 6 Your family have lived in the south of the region for gener- Grit 4 PRESENCE 1 ations, long before the Anglos “discovered” it. Considered  Quick 3  FIGHTIN’ 1 aristocracia, you have an exalted position in your community.  Cunning 3 SHOOTIN’ 1 Gain +1 on your first Living roll, and +1 point of Capital. Docity 5 INSIGHT 1 PERFORMIN’ 1 BOOKLEARNIN’ 1
+**4.** Your family ran a mail and freight business between the many growing settlements of the Midwest.
+  *Attributes:* Grit 5, Quick 3, Cunning 4, Docity 3
+  *Abilities:* LABOR 1, RESILIENCE 2, OPERATE 1, ANIMAL HANDLIN' 1, BOOKLEARNIN' 1
 
-|**East Asia and the Pacifc**|**East Asia and the Pacifc**|**East Asia and the Pacifc**|**East Asia and the Pacifc**|
-|---|---|---|---|
+**5.** Your parents ran a livery stable. You grew up around horses, watching your father shoe them.
+  *Attributes:* Grit 4, Quick 5, Cunning 3, Docity 3
+  *Abilities:* LABOR 2, ANIMAL HANDLIN' 2, MAKIN' 2
 
-Appendix: your tale begins
+**6.** Your family farmed these lands for generations before the settlers came in their thousands. Your father was a leader of men and an able negotiator. Gain +1 on your first Living roll.
+  *Attributes:* Grit 4, Quick 3, Cunning 3, Docity 5
+  *Abilities:* PRESENCE 1, FIGHTIN' 1, SHOOTIN' 1, INSIGHT 2, PERFORMIN' 1
 
-4 Your family were farmers, and you grew up on the farm, har- Grit 4  LABOR 1 vesting the crops and tending to the chickens and pigs. Quick 4  RESILIENCE 1 Cunning 4  NATURE 2 Docity 3 ANIMAL HANDLIN’ 2 5 You come from an old sea-faring family. It is said your fore- Grit 4  FIGHTIN’ 1 fathers traded across the Pacific long before the Europeans  Quick 3  MOVE 1 discovered that coast. If it’s true, it made them rich. Gain +1  Cunning 4  SHOOTIN’ 1 point of Capital. Docity 4 NATURE 1 INSIGHT 1 MAKIN’ 1 6 Your parents were apothecaries, selling remedies and cures. Grit 3  NATURE 2 Quick 3  INSIGHT 2 Cunning 4  DOCTORIN’ 2 Docity 5 India, and Equatorial and Southern Africa 1 Your family were coastal pirates, taking advantage of unwary  Grit 4  FIGHTIN’ 1 or unprotected travelers. Quick 5  SHOOTIN’ 2 Cunning 3  MOVE 1 Docity 3 LIGHT-FINGERED 1 MAKIN’ 1 2 Your parents made their living arranging things for rich white  Grit 5  MOVE 1 hunters, and though still a child you were valued as a scout. Quick 4  SHOOTIN’ 1 Cunning 3  HAWKEYE 2 Docity 3 NATURE 2 3 Your parents were deeply religious and traveled the continent  Grit 4 LABOR 1 preaching the truth.  Quick 3 RESILIENCE 1 Cunning 5 INSIGHT 1 Docity 4 PERFORMIN’ 1 DOCTORIN’ 1 BOOKLEARNIN’ 1 4 Your family are traditional farmers and you have always been  Grit 4 LABOR 1 around livestock. Quick 4  RESILIENCE 1 Cunning 3 MOVE 1 Docity 4 NATURE 1 ANIMAL HANDLIN’ 2 5 Your family was part of the colonial administration. It gave  Grit 3 PRESENCE 1 you contacts and some education. Gain +1 on your first  Quick 5 FIGHTIN’ 1 Living roll. Cunning 3 SHOOTIN’ 2 Docity 4 INSIGHT 1 BOOKLEARNIN’ 1 6 Your mother was what Europeans might call a queen and you  Grit 4  PRESENCE 1 have traveled to America with some wealth. Gain +1 Capital. Quick 3  FIGHTIN’ 1 Cunning 4  SHOOTIN’ 1 Docity 4 INSIGHT 2 PERFORMIN’ 1 Appendix: your tale begins
+**1.** Your family were always poor, taking whatever work they could and finding shelter in the most rotten slums. How you got across the Atlantic you won’t say.
+  *Attributes:* Grit 4, Quick 4, Cunning 4, Docity 3
+  *Abilities:* FIGHTIN' 1, RESILIENCE 1, MOVE 1, LIGHT-FINGERED 1, HAWKEYE 2
+
+**2.** Your parents were non-conformists and took advantage of America’s reputation for religious freedom.
+  *Attributes:* Grit 4, Quick 3, Cunning 4, Docity 4
+  *Abilities:* LABOR 1, PRESENCE 2, INSIGHT 1, PERFORMIN' 1, DOCTORIN' 1
+
+**3.** Your father was a miner pulling tin and silver from the rugged coast, skills that are much in demand in the new world.
+  *Attributes:* Grit 5, Quick 3, Cunning 3, Docity 4
+  *Abilities:* LABOR 2, FIGHTIN' 1, RESILIENCE 1, MOVE 1, OPERATE 1
+
+**4.** You come from a nation, and indeed from a family, of shopkeepers.
+  *Attributes:* Grit 3, Quick 4, Cunning 5, Docity 3
+  *Abilities:* LIGHT-FINGERED 1, OPERATE 1, INSIGHT 2, PERFORMIN' 1, BOOKLEARNIN' 1
+
+**5.** Your father was a successful lawyer and through his connections sent you to America to find professional employment. Gain +1 to your first Living roll.
+  *Attributes:* Grit 3, Quick 3, Cunning 4, Docity 5
+  *Abilities:* PRESENCE 1, SHOOTIN' 1, INSIGHT 1, PERFORMIN' 1, BOOKLEARNIN' 2
+
+**6.** You have turned your back on your aristocratic family to fight for the rights of the working man, in the land built upon the principles of Thomas Paine. But that didn’t stop you using your family’s wealth. Gain +2 Capital.
+  *Attributes:* Grit 4, Quick 3, Cunning 3, Docity 5
+  *Abilities:* PRESENCE 1, FIGHTIN' 1, SHOOTIN' 1, INSIGHT 1, PERFORMIN' 1, BOOKLEARNIN' 1
+
+**1.** Your father was a metropolitan policeman, keeping the peace (and sometimes taking bribes) in the big city.
+  *Attributes:* Grit 4, Quick 4, Cunning 4, Docity 3
+  *Abilities:* PRESENCE 1, FIGHTIN' 2, SHOOTIN' 2, ANIMAL HANDLIN' 1
+
+**2.** Your parents were talented musicians, feted in a theatrical world where no one cared about the color of their skin.
+  *Attributes:* Grit 3, Quick 4, Cunning 4, Docity 4
+  *Abilities:* PRESENCE 1, MOVE 1, LIGHT-FINGERED 1, PERFORMIN' 2, MAKIN' 1
+
+**3.** Your mother knew how to forage for herbs and heal many illnesses and injuries. People traveled from surrounding communities to benefit from her wisdom.
+  *Attributes:* Grit 3, Quick 3, Cunning 4, Docity 5
+  *Abilities:* NATURE 1, INSIGHT 1, PERFORMIN' 1, DOCTORIN' 3
+
+**4.** Your parents found employment in the industrial economy, working in one of the fish canning factories.
+  *Attributes:* Grit 4, Quick 5, Cunning 3, Docity 3
+  *Abilities:* LABOR 1, FIGHTIN' 1, LIGHT-FINGERED 2, OPERATE 1, MAKIN' 1
+
+**5.** Your father was an engineer on a railway. You loved watching the steaming machines roll by.
+  *Attributes:* Grit 4, Quick 5, Cunning 3, Docity 3
+  *Abilities:* LABOR 1, FIGHTIN' 1, MOVE 1, OPERATE 1, MAKIN' 2
+
+**6.** The offspring of a rising political family, you have learned a little about how people think. Gain +1 on your first Living roll.
+  *Attributes:* Grit 3, Quick 3, Cunning 4, Docity 5
+  *Abilities:* PRESENCE 1, INSIGHT 2, PERFORMIN' 2, BOOKLEARNIN' 1
+
+**Southeast**
+
+**4.** Your parents found strength and salvation in bringing the word of god to the common folk as preachers. They did well off tithes and donations. You gain +1 on your first Living roll.
+  *Attributes:* Grit 3, Quick 3, Cunning 4, Docity 5
+  *Abilities:* LABOR 1, PRESENCE 2, INSIGHT 1, PERFORMIN' 2
+
+**5.** Your father was an overseer on a large plantation.
+  *Attributes:* Grit 4, Quick 4, Cunning 4, Docity 3
+  *Abilities:* LABOR 1, PRESENCE 1, FIGHTIN' 2, SHOOTIN' 1, INSIGHT 1
+
+**6.** Your parents were farmers involved in Democratic politics, and although the civil war ruined their aspirations, they came out of it well enough in the end. Gain +1 to your first Living roll.
+  *Attributes:* Grit 3, Quick 3, Cunning 5, Docity 4
+  *Abilities:* PRESENCE 1, INSIGHT 2, PERFORMIN' 2, BOOKLEARNIN' 1
+
+**1.** You grew up as an aguador. Water carrying was hard work and poorly paid, but honest.
+  *Attributes:* Grit 5, Quick 4, Cunning 3, Docity 3
+  *Abilities:* LABOR 2, FIGHTIN' 1, RESILIENCE 2, MOVE 1
+
+**2.** Your father was a ne’er-do-well who came to Texas as a hired gun and was a veteran of the Mexican–American war. Your mother is the Mexican woman he fell in love with.
+  *Attributes:* Grit 5, Quick 3, Cunning 4, Docity 3
+  *Abilities:* FIGHTIN' 2, SHOOTIN' 2, HAWKEYE 1, ANIMAL HANDLIN' 1
+
+**3.** Down here, people who herd cattle are called Vaqueros. It was a hard life and your father was often away but you grew up learning the trade.
+  *Attributes:* Grit 4, Quick 4, Cunning 4, Docity 3
+  *Abilities:* LABOR 1, HAWKEYE 1, SHOOTIN' 2, ANIMAL HANDLIN' 2
+
+**4.** Your mother was a domestic servant in a fine house. You never knew your father.
+  *Attributes:* Grit 3, Quick 4, Cunning 3, Docity 5
+  *Abilities:* LABOR 1, PRESENCE 1, LIGHT-FINGERED 1, INSIGHT 2, PERFORMIN' 1
+
+**5.** You come from a hardworking farming family using milpa—a traditional method of agriculture dating back further than the first European settlers.
+  *Attributes:* Grit 4, Quick 4, Cunning 3, Docity 4
+  *Abilities:* LABOR 2, NATURE 2, ANIMAL HANDLIN' 1, MAKIN' 1
+
+**6.** You grew up on a family-owned ranch, which definitely gave you a head start here in the west. Gain +1 to your first Living roll, and +1 point of Capital.
+  *Attributes:* Grit 3, Quick 4, Cunning 5, Docity 3
+  *Abilities:* LABOR 1, SHOOTIN' 2, NATURE 1, ANIMAL HANDLIN' 1, INSIGHT 1
+
+**1.** Your parents were slick con artists and more than a little rubbed off on you. Gain +1 to your first Living roll.
+  *Attributes:* Grit 3, Quick 3, Cunning 5, Docity 4
+  *Abilities:* PRESENCE 2, PERFORMIN' 2, INSIGHT 2
+
+**2.** Your father worked the docks as a stevedore in San Francisco or a similar port, and you grew up strong and not afraid of work.
+  *Attributes:* Grit 5, Quick 4, Cunning 3, Docity 3
+  *Abilities:* LABOR 2, FIGHTIN' 1, RESILIENCE 1, MOVE 1, OPERATE 1
+
+**3.** Your parents came west seeking silver and gold. Like many they found very little, but they managed to pay their way, if not get rich.
+  *Attributes:* Grit 4, Quick 3, Cunning 5, Docity 3
+  *Abilities:* LABOR 1, RESILIENCE 1, MOVE 1, OPERATE 1, HAWKEYE 1, NATURE 1
+
+**4.** You grew up in a bordello, but as the child of the owner rather than one of the working girls. It’s given you a good head start in life. Gain +1 on your first Living roll.
+  *Attributes:* Grit 3, Quick 3, Cunning 5, Docity 4
+  *Abilities:* PRESENCE 1, FIGHTIN' 1, LIGHT-FINGERED 1, INSIGHT 2, DOCTORIN' 1
+
+**5.** The child of a mining engineer, you learned a little of the skills that are still in demand in this part of the world. Gain +1 on your first Living roll.
+  *Attributes:* Grit 3, Quick 4, Cunning 3, Docity 5
+  *Abilities:* LABOR 1, MOVE 1, OPERATE 1, NATURE 1, MAKIN' 1, BOOKLEARNIN' 1
+
+**6.** Your family have lived in the south of the region for generations, long before the Anglos “discovered” it. Considered aristocracia, you have an exalted position in your community. Gain +1 on your first Living roll, and +1 point of Capital.
+  *Attributes:* Grit 4, Quick 3, Cunning 3, Docity 5
+  *Abilities:* PRESENCE 1, FIGHTIN' 1, SHOOTIN' 1, INSIGHT 1, PERFORMIN' 1, BOOKLEARNIN' 1
+
+**East Asia and the Pacific**
+
+**4.** Your family were farmers, and you grew up on the farm, harvesting the crops and tending to the chickens and pigs.
+  *Attributes:* Grit 4, Quick 4, Cunning 4, Docity 3
+  *Abilities:* LABOR 1, RESILIENCE 1, NATURE 2, ANIMAL HANDLIN' 2
+
+**5.** You come from an old sea-faring family. It is said your forefathers traded across the Pacific long before the Europeans discovered that coast. If it’s true, it made them rich. Gain +1 point of Capital.
+  *Attributes:* Grit 4, Quick 3, Cunning 4, Docity 4
+  *Abilities:* FIGHTIN' 1, MOVE 1, SHOOTIN' 1, NATURE 1, INSIGHT 1, MAKIN' 1
+
+**6.** Your parents were apothecaries, selling remedies and cures.
+  *Attributes:* Grit 3, Quick 3, Cunning 4, Docity 5
+  *Abilities:* NATURE 2, INSIGHT 2, DOCTORIN' 2
+
+**1.** Your family were coastal pirates, taking advantage of unwary or unprotected travelers.
+  *Attributes:* Grit 4, Quick 5, Cunning 3, Docity 3
+  *Abilities:* FIGHTIN' 1, SHOOTIN' 2, MOVE 1, LIGHT-FINGERED 1, MAKIN' 1
+
+**2.** Your parents made their living arranging things for rich white hunters, and though still a child you were valued as a scout.
+  *Attributes:* Grit 5, Quick 4, Cunning 3, Docity 3
+  *Abilities:* MOVE 1, SHOOTIN' 1, HAWKEYE 2, NATURE 2
+
+**3.** Your parents were deeply religious and traveled the continent preaching the truth.
+  *Attributes:* Grit 4, Quick 3, Cunning 5, Docity 4
+  *Abilities:* LABOR 1, RESILIENCE 1, INSIGHT 1, PERFORMIN' 1, DOCTORIN' 1, BOOKLEARNIN' 1
+
+**4.** Your family are traditional farmers and you have always been around livestock.
+  *Attributes:* Grit 4, Quick 4, Cunning 3, Docity 4
+  *Abilities:* LABOR 1, RESILIENCE 1, MOVE 1, NATURE 1, ANIMAL HANDLIN' 2
+
+**5.** Your family was part of the colonial administration. It gave you contacts and some education. Gain +1 on your first Living roll.
+  *Attributes:* Grit 3, Quick 5, Cunning 3, Docity 4
+  *Abilities:* PRESENCE 1, FIGHTIN' 1, SHOOTIN' 2, INSIGHT 1, BOOKLEARNIN' 1
+
+**6.** Your mother was what Europeans might call a queen and you have traveled to America with some wealth. Gain +1 Capital.
+  *Attributes:* Grit 4, Quick 3, Cunning 4, Docity 4
+  *Abilities:* PRESENCE 1, FIGHTIN' 1, SHOOTIN' 1, INSIGHT 2, PERFORMIN' 1
 
 ### What of the Family You Left Behind?
 
@@ -464,8 +622,7 @@ There is no one left but 3 Your family was big until the curse. Death, madness a
 
 Once you have determined what your Upbringing has given you, you head west to become the master
 
-|**FINDING A LIVING**|**FINDING A LIVING**|**FINDING A LIVING**|
-|---|---|---|
+**FINDING A LIVING**
 
 |**2-3**|OUTLAW|Page 286|
 |**4-5**|GRIFTER|Page 287|
@@ -482,8 +639,6 @@ of your own destiny. Roll 2D6, apply any bonus mentioned on your Upbringing, and
 
 When you have determined your first Living, roll D6 on the appropriate Living Outcome Table. This roll tells you a little about your time working that Living and gives you two extra ability points (which are cumulative to any points you already have in that ability). You also gain one talent at the Basic rank and some gear. You can complete your lifepath at this point and join the game as a youngster, no older than your early twenties, with the meager rewards you have acquired so far. But you don’t have to stop there.
 
-Appendix: your tale begins
-
 ### Your Second Living - What Did You Do in Your 20s and 30s?
 
 ### The Outcome of your Living
@@ -495,8 +650,6 @@ If you want to play a tested, adult character in your mid twenties to late thirt
 ### A Third and Final Living Before Starting Play?
 
 If you want to play an older veteran character (age 40 upwards) you must take another point off any attribute of your choice—remembering you cannot take the attribute value below 2—and then make a third and final Living roll. As before, if your second Living directed you to move to a new Living then you must roll on that Living Outcome Table, otherwise you can keep to your second Living or roll on the Find A Living Table once again. You gain two more ability points, one talent, and the listed bonuses and benefits.
-
-Appendix: your tale begins
 
 ### Outlaw
 
@@ -520,8 +673,7 @@ There but for the grace of god, go you. You ain’t outside the law, but only be
 
 Roll D6 to see how you do. Modify your roll by +1 if you have LIGHT-FINGERED at level 1 or more.
 
-|**LIVING OUTCOME TABLE - GRIFTER**|**LIVING OUTCOME TABLE - GRIFTER**|**LIVING OUTCOME TABLE - GRIFTER**|**LIVING OUTCOME TABLE - GRIFTER**|**LIVING OUTCOME TABLE - GRIFTER**|
-|---|---|---|---|---|
+**LIVING OUTCOME TABLE - GRIFTER**
 |**Roll**|**Formative event**|**Abilities**|**Talents**|**Gear**|
 
 ### Appendix: Your Tale Begins
@@ -554,8 +706,6 @@ Roll D6 on the table below, modifying the result by +1 if your NATURE ability is
 | 6+ You used to come into town just to | MAKIN’ 1 animal hunter | or | Knife |  |
 | sell your furs. But it’s warmer to sit | HAWKEYE 1 knife fighter Outfit: Store with 1 |  |  |  |
 | and sew those furs. So now you sell clothes for the discerning outdoors- 3D6 × $1 man. Make your next Living roll on the Trader Living Outcome Table | Capital |  |  |  |
-
-Appendix: your tale begins
 
 ### Ranch Hand
 
@@ -598,8 +748,7 @@ Of course, instead of being a miner, quarryman or lumberjack, you want to be an 
 
 Roll D6 on the table below to see how you did, adding a +1 modifier if you have OPERATE at level 1 or more.
 
-|**LIVING OUTCOME TABLE - LABORER**|**LIVING OUTCOME TABLE - LABORER**|**LIVING OUTCOME TABLE - LABORER**|**LIVING OUTCOME TABLE - LABORER**|**LIVING OUTCOME TABLE - LABORER**|
-|---|---|---|---|---|
+**LIVING OUTCOME TABLE - LABORER**
 |**Roll**|**Formative event**|**Abilities**|**Talents**|**Gear**|
 
 ### Appendix: Your Tale Begins
@@ -610,8 +759,7 @@ The homesteader’s life is the dream of many who come west—land of your own, 
 
 Roll on this table with a +1 modifier if you have LABOR level 1 or higher.
 
-|**LIVING OUTCOME TABLE - HOMESTEADER**|**LIVING OUTCOME TABLE - HOMESTEADER**|**LIVING OUTCOME TABLE - HOMESTEADER**|**LIVING OUTCOME TABLE - HOMESTEADER**|**LIVING OUTCOME TABLE - HOMESTEADER**|
-|---|---|---|---|---|
+**LIVING OUTCOME TABLE - HOMESTEADER**
 |**Roll**|**Formative event**|**Abilities**|**Talents**|**Gear**|
 
 ### Appendix: Your Tale Begins
@@ -622,11 +770,8 @@ Traders take many forms, but most of them settle in towns. A few set up trading 
 
 Roll D6 on this table with a +1 modifier if you have MAKIN’ at level 1 or more.
 
-|**LIVING OUTCOME TABLE - TRADER**|**LIVING OUTCOME TABLE - TRADER**|**LIVING OUTCOME TABLE - TRADER**|**LIVING OUTCOME TABLE - TRADER**|**LIVING OUTCOME TABLE - TRADER**|
-|---|---|---|---|---|
+**LIVING OUTCOME TABLE - TRADER**
 |**Roll**|**Formative event**|**Abilities**|**Talents**|**Gear**|
-
-Appendix: your tale begins
 
 ### Gentlefolk
 
@@ -634,11 +779,8 @@ Some (but not all) gentlefolk don’t have to work for a living. They rely on in
 
 Roll D6 on this table, adding 1 to the result if you have BOOKLEARNIN’ at level 1 or more.
 
-|**LIVING OUTCOME TABLE - GENTLEFOLK**|**LIVING OUTCOME TABLE - GENTLEFOLK**|**LIVING OUTCOME TABLE - GENTLEFOLK**|**LIVING OUTCOME TABLE - GENTLEFOLK**|**LIVING OUTCOME TABLE - GENTLEFOLK**|
-|---|---|---|---|---|
+**LIVING OUTCOME TABLE - GENTLEFOLK**
 |**Roll**|**Formative event**|**Abilities**|**Talents**|**Gear**|
-
-Appendix: your tale begins
 
 ### Your Acquisitions
 

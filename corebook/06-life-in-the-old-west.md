@@ -192,9 +192,9 @@ Your property is categorized by its Status, from 0 (no property at all, you’re
 | by the best artisan builders. The inside is opulent, with fine carpets and rugs, excellent furniture and tasteful décor. +2 Reputation. An extravagant and opulent mansion or a huge ranch. 8 20 Capital. 16 Capital and | three seasons. |  |
 | Only the very richest can afford a place like this. +3 Reputation. | four seasons. |  |
 
-L oc at ion The location of your property can be important, depending on the property’s purpose: if it’s simply a dwelling you may wish to be on the sunny side of a nearby hill, but close enough so it’s just a short walk into town; if it’s a saloon, hotel or outfit selling your
+### Location
 
-wares to passers-by you’ll want it to be in the thick of it, in the middle of town; if it’s a farm or ranch you’ll need plenty of space and good land to help your business thrive.
+The location of your property can be important, depending on the property’s purpose: if it’s simply a dwelling you may wish to be on the sunny side of a nearby hill, but close enough so it’s just a short walk into town; if it’s a saloon, hotel or outfit selling your wares to passers-by you’ll want it to be in the thick of it, in the middle of town; if it’s a farm or ranch you’ll need plenty of space and good land to help your business thrive.
 
 Locations are categorized by Type, which reflects that location’s general availability in the Old West.
 

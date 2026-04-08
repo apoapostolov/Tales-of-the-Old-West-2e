@@ -650,7 +650,7 @@ At the Turn of the Season a preacher who has been active during the previous sea
 
 The number of successes on this PERFORMIN’ roll determines the level of donations received during that season—you roll 1D6 per success (to a maximum of 5D6) and multiply the total by the current Prosperity Level of the town. The result is the total of donations in dollars received that season. If the preacher fails their roll they still get a few ‘pity’ donations, equal to the current Prosperity of the town in dollars—even a rubbish preacher will get something from the most faithful in the town.
 
-### Father Car Mody Goes to Work
+### Father Carmody Goes to Work
 
 > _Father Brayton Carmody has been speaking the word of the Lord from the old wooden church in the town of Steaming Rock. The town is new and struggling, and has a low Prosperity score of just 12. Carmody has a PERFORMIN’ ability of 6 dice in total. He gains a +1 bonus for the church, and +1 bonus for the help of John the Purser, his usually drunk compadre. He’s also favored by the pre-eminent Rockcliffe family and gains another +1 bonus for their patronage. He’s the only preacher in town, so gains a +2 bonus from the lack of competition. Adding all that up he has a total of 11 dice. He rolls and gains two successes. His seasonal donations equals 1D6 per success (i.e., 2D6) multiplied by the Prosperity of the town (12). He rolls a 3 and a 4, for a total of 7, and earns in donations a total of 7×12=$84. Had he rolled no successes he would still have received $12 (the town’s current Prosperity in dollars). Life is hard in a little town like Steaming Rock, even for the preacher._
 
@@ -852,8 +852,6 @@ The atmosphere in town is thick with a blend of sorrow and joy. Marta Quintero h
 Secrets lurk beneath the grief and preparation. Who killed Fernando, a charming and popular man? Everyone has blamed Huhui for the crime, but the local lawman, Cahill, is not so sure. He seeks aid from those free from the prejudices of the locals who all too easily blame the Native.
 
 With the Quince Años looming, and everyone gathered from near and far for the celebration, the player characters find themselves entangled in a race against time. Can they uncover the truth behind Fernando’s death, protect the innocent, and bring justice to those responsible, all while navigating the treacherous waters of family loyalty, forbidden love, and justice in this part of the unforgiving desert? The fate of a family, even a whole community, rests in their hands.
-
-### Originals in
 
 ### Background
 

@@ -379,17 +379,17 @@ The Fletchers are a farming family, except for Jon who happily stepped into the 
 
 ### Obedience Whitley
 
-V e da  m on r oe Obedience was once enslaved in Louisiana, and she still bears the scars of repeated whippings. The offending cat-o-nine-tails hangs on the wall in her barbershop, and rumor says the overseer who made her life a misery died under its lashes. She **runs** the barbershop with her husband, Rossiter. They **want** to gain acceptance in the community and **need** to expand their clientele to the most important folk in town—already they attend to Samuel Bertrand, who has a regular shave and trim every Sunday right before church. Having been through all that they have, Obedience and Rossiter **fear** nothing anymore.
+Obedience was once enslaved in Louisiana, and she still bears the scars of repeated whippings. The offending cat-o-nine-tails hangs on the wall in her barbershop, and rumor says the overseer who made her life a misery died under its lashes. She **runs** the barbershop with her husband, Rossiter. They **want** to gain acceptance in the community and **need** to expand their clientele to the most important folk in town—already they attend to Samuel Bertrand, who has a regular shave and trim every Sunday right before church. Having been through all that they have, Obedience and Rossiter **fear** nothing anymore.
 
-### Erika Ga
+### Erikaga
 
 A young Native American brave from the Indé (Apache) tribe Erikaga, unlike many of his Native American counterparts, has thrown himself into the life of the town. He **wants** to improve relations between his people and the settlers, and **needs** to make friends within Steaming Rock. To get by he does odd jobs for Thomas Vaughn and William Moyer, and has become, if not well-liked around the town, then well-tolerated. He is well aware that some in his tribe resent the spread of the white settlers, and the poor trade deals they are able to strike. He **fears** that more hardship may be coming, but is **determined** to forge amicable relations between all those living in this part of the world.
 
-### Father Brayton Car Mody
+### Father Brayton Carmody
 
 A young preacher who quickly took possession of the half-built church building on arrival, Carmody used his persuasive personality to charm his way into the town’s good favors. His reputation was further sealed when he single-handedly beat a robber to death with a shovel. He **wants** to forge a place as a leading light in the community, and **needs** to cultivate the indulgence of the likes of Bertrand and McGraw. He **fears** that his true, self-serving and venal, character will come out in an unguarded moment. He is **in charge of** the first—and unofficial—“town council” that meets in William Moyer’s Homestead Inn. The leading lights of the town have indulged Carmody so far, even though the father’s council includes those who wouldn’t be considered “respectable”, like the former slave and sleazy saloon owner Moyer himself.
 
-### Francisco Castellano S
+### Francisco Castellanos
 
 Castellanos claims to have journeyed from Mexico City with his wife and children, although the truth is he was a Comanchero, trading stolen horses from Comanche warriors, before he was run out of Carson’s Folly in the far northeast of New Mexico. Be that as it may, he has become an institution in Steaming Rock. Not only does he **own** and run the Mexico City saloon but he has quietly put money into many of the smaller businesses in town, including the laundry and the livery. He **wants** to make himself essential to the townsfolk, as he **fears** being run out of town again as a bad sort. He **needs** to gently intimidate the other tradesfolk, but he fell out badly with Obedience Whitley, in large part because she wouldn’t accept Castellanos’ “generosity”.
 

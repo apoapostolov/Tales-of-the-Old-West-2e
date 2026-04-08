@@ -243,7 +243,7 @@ When you have to dig a grave, lift a cart to put a wheel back on, carry a wounde
 
 ### Presence (Grit)
 
-There are times when the way you carry yourself says more than words could—if you are looking to demonstrate your authority, intimidate someone, make them back down or add weight to your teach-
+There are times when the way you carry yourself says more than words could—if you are looking to demonstrate your authority, intimidate someone, make them back down or add weight to your teachings, you make a PRESENCE roll.
 
 **Failure** : Your adversary won’t listen and won’t do what you want. They might start to dislike you, or even attack you if provoked.
 

@@ -571,8 +571,6 @@ The force of an explosion is measured in Blast Power. One stick of dynamite has 
 
 Falling on a hard surface automatically inflicts an amount of damage equal to the height of the fall (in meters) divided by 2, rounding all fractions down. In a controlled jump, roll MOVE—each success reduces the damage by one. Depending on the circumstances the GM may call for a critical injury as a result of the fall.
 
-ability. To resist the poison you need to get as many successes as the Potency rating of the poison. If you fail the roll you suffer the full effect. If you succeed, you only suffer the limited effect of the poison.
-
 ### Falling from your Horse
 
 Falling from a bucking, fast moving or jumping horse counts as an 8 dice attack (damage 1, Crit 2), although the falling rider gets a MOVE roll to reduce the successes inflicted by the fall by half (round up).
@@ -587,7 +585,9 @@ Venom and other poisons are measured by Potency—how deadly or effective they a
 
 ### Potency
 
-A poison’s Potency is either 1, 2 or 3—very rarely would a poison have a Potency of 4 or more. Normally, poisons have a Potency of 1, although a strong poison has Potency 2, and an extremely potent poison can have Potency 3. If you are bitten by a rattler or a widow spider, or ingest poison in some manner, you must roll your RESILIENCE L e t h a l po i so n
+A poison’s Potency is either 1, 2 or 3—very rarely would a poison have a Potency of 4 or more. Normally, poisons have a Potency of 1, although a strong poison has Potency 2, and an extremely potent poison can have Potency 3. If you are bitten by a rattler or a widow spider, or ingest poison in some manner, you must roll your RESILIENCE ability. To resist the poison you need to get as many successes as the Potency rating of the poison. If you fail the roll you suffer the full effect. If you succeed, you only suffer the limited effect of the poison.
+
+### Lethal Poison
 
 **Full Effect** : You take 1 point of Hurts each Round, Turn or Shift (depending on how fast acting the poison or venom is) until you are Broken. Roll a critical injury if the poison is still in effect one Turn after you were Broken—the GM should narrate the result to account for the poison’s effect. A successful DOCTORIN’ roll will halt the effect of the poison, but only one attempt can be made. If you can find and drink an antidote in time, the effect of the poison is halted.
 
@@ -605,7 +605,7 @@ A poison’s Potency is either 1, 2 or 3—very rarely would a poison have a Pot
 
 unconscious for one Shift. You don’t suffer a critical injury. A successful DOCTORIN’ roll will halt the effect of the poison, but only one attempt can be made. If you can find and drink an antidote in time, the effect of the poison is halted.
 
-### Limited Effect** : You take 1 point of Vexes.
+**Limited Effect** : You take 1 point of Vexes.
 
 ### Hallucinogenic Substances
 
