@@ -1,6 +1,6 @@
 ## Chapter 5 - Conflict & Damage
 
-> *“KILLING MEN IS MY SPECIALTY. I LOOK AT IT AS A BUSINESS PROPOSITION, AND I THINK I HAVE A CORNER ON THE MARKET.”*
+> _“KILLING MEN IS MY SPECIALTY. I LOOK AT IT AS A BUSINESS PROPOSITION, AND I THINK I HAVE A CORNER ON THE MARKET.”_
 
 > — THOMAS HORN JR., EXECUTED ON NOVEMBER 20TH 1903 FOR THE MURDER OF WILLIE NICKELL
 
@@ -16,11 +16,11 @@ and determine when another Round, Turn or Shift has passed.
 
 The distance between you and your opponent is divided into six range categories, as described in the table on page 67.
 
-|**Unit**|**Duration**|**Primary use**|
-|---|---|---|
-|Round|5-10 seconds|Combat|
-|Turn|5-10 minutes|Exploration|
-|Shift|6 hours|Recovery|
+| **Unit** | **Duration** | **Primary use** |
+| -------- | ------------ | --------------- |
+| Round    | 5-10 seconds | Combat          |
+| Turn     | 5-10 minutes | Exploration     |
+| Shift    | 6 hours      | Recovery        |
 
 Social conflicts make use of the PERFORMIN’, PRESENCE and INSIGHT abilities. This includes persuading people to your way of thinking, romantically courting someone, facing someone down, or resisting similar attempts against you.
 
@@ -64,25 +64,38 @@ In _Tales of the Old West_ we do not measure exact distances for movement, but l
 
 ### Slow Actions
 
-| Action Prerequisite Skill Crawl You are Prone - Melee attack - FIGHTIN’ Shoot Range weapon SHOOTIN’ |  |
-| --- | --- |
-| First Aid Broken or dying victim | DOCTORIN’ |
-| Persuade Your opponent can hear you or PRESENCE | PERFORMIN’ |
-| Horse or Mount Wagon HANDLIN’ Start engine Vehicle OPERATE | ANIMAL |
+| Action               | Prerequisite               | Skill                  |
+| -------------------- | -------------------------- | ---------------------- |
+| Crawl                | You are Prone              | -                      |
+| Melee attack         | -                          | FIGHTIN'               |
+| Shoot                | Range weapon               | SHOOTIN'               |
+| First Aid            | Broken or dying victim     | DOCTORIN'              |
+| Persuade             | Your opponent can hear you | PERFORMIN' or PRESENCE |
+| Horse or Mount       | -                          | ANIMAL HANDLIN'        |
+| Wagon                | -                          | ANIMAL HANDLIN'        |
+| Start engine Vehicle | -                          | OPERATE                |
 
 ### Fast Actions
 
-| Action Prerequisite Skill |  |  |
+| Action | Prerequisite | Skill |
 | --- | --- | --- |
-| Run Not In Tussle Get Up You are Prone - Draw weapon - - - | MOVE |  |
-| Prepare a weapon weapon Quick shot Range weapon SHOOTIN’ Aim Range weapon SHOOTIN’ | An appropriate |  |
-| All-Out Attack Arm’s Length | Fighting at | FIGHTIN’ |
-| Block Fighting at Arm’s Length | FIGHTIN’ |  |
-| Fighting at Dodge Arm’s Length | MOVE |  |
-| Initiate a Grapple Arm’s Length | Fighting at | FIGHTIN’ |
-| Maintain a Grapple opponent | Grappled an | LABOR |
-| Back Out In a Tussle with an enemy Seek Cover Cover available - ANIMAL Ride Horse HANDLIN’ | MOVE |  |
-| Drive Wagon (or train) HANDLIN’ or OPERATE Use Item Varies Varies Reload Firearm - | ANIMAL |  |
+| Run | Not In Tussle | MOVE |
+| Get Up | You are Prone | - |
+| Draw weapon | - | - |
+| Prepare a weapon | An appropriate weapon | - |
+| Quick shot | Range weapon | SHOOTIN' |
+| Aim | Range weapon | SHOOTIN' |
+| All-Out Attack | Fighting at Arm's Length | FIGHTIN' |
+| Block | Fighting at Arm's Length | FIGHTIN' |
+| Dodge | Fighting at Arm's Length | MOVE |
+| Initiate a Grapple | Fighting at Arm's Length | FIGHTIN' |
+| Maintain a Grapple | Grappled an opponent | LABOR |
+| Back Out | In a Tussle with an enemy | MOVE |
+| Seek Cover | Cover available | - |
+| Ride Horse | - | ANIMAL HANDLIN' |
+| Drive Wagon (or train) | - | ANIMAL HANDLIN' or OPERATE |
+| Use Item | Varies | Varies |
+| Reload Firearm | - | - |
 
 in a few seconds. No roll is required to run, unless the GM decrees the action needs a roll.
 
@@ -216,7 +229,7 @@ All the actions of the duel play out within the space of one Round, and effectiv
 
 ### Conflict Modifications
 
-Factor Modification Aimed shot / All-out attack +2 Called Shot / Strike -3 Aiming / All-out attack on  +1 Called Shot / Strike Quick Shot -2 Active Target at Arm’s Length -3 Inactive Target at Arm’s Length +3 Near range +1 Short range 0 Medium range -1 Long range -2 Distant range -3 Target in Partial Cover -1 Target in Good Cover -2 Called Shots Target in Heavy Cover only Large target +2 Small target -2 Dim light -1 Darkness -3 Initiated the grapple +2
+Factor Modification Aimed shot / All-out attack +2 Called Shot / Strike -3 Aiming / All-out attack on +1 Called Shot / Strike Quick Shot -2 Active Target at Arm’s Length -3 Inactive Target at Arm’s Length +3 Near range +1 Short range 0 Medium range -1 Long range -2 Distant range -3 Target in Partial Cover -1 Target in Good Cover -2 Called Shots Target in Heavy Cover only Large target +2 Small target -2 Dim light -1 Darkness -3 Initiated the grapple +2
 
 **Go for Your Guns** : The gunfighters make an opposed LIGHT-FINGERED roll to Draw their guns, with the following modifications to their dice pools:
 
@@ -418,51 +431,44 @@ Immediate critical effects cannot be healed other
 
 ### Critical Injury Table
 
-| Roll Location Injury Fatal Healing Time Twisted D6 11 LOWER LEG No -1 to MOVE & FIGHTIN’ None ankle days | Immediate Effect Long-term Effect |  |  |  |
-| --- | --- | --- | --- | --- |
-| Broken 12 LOWER LEG No -1 to MOVE, cannot RUN None foot days | 3D6 |  |  |  |
-| 13 LOWER LEG Broken knee weeks Walks at half pace with a limp | No D6 | Cannot run or MOVE. | 33% chance of walking |  |
-| 14 LOWER LEG [Torn achil-] No 4D6 les tendon weeks Cannot run with a limp Stunned for 1 Round. | -1 to MOVE & FIGHTIN’ | 66% chance of walking |  |  |
-| Fractured 15 LOWER LEG No Cannot Run or MOVE. ankle weeks random Quick ability Walks at half pace Stunned for 2 Rounds. | D6 | 33% chance of -1 to a |  |  |
-| Shattered | 2D6 |  |  |  |
-| 16 LOWER LEG shin bone No weeks Cannot Ride, Run or MOVE. Walks at half pace | Lose the lower leg |  |  |  |
-| Numbed 21 UPPER LEG No -1 to MOVE None leg Turns | D6 |  |  |  |
-| Flesh 22 UPPER LEG No -1 to RESILIENCE None wound days Torn ham- D6 23 UPPER LEG No -1 to MOVE. Cannot Run None string weeks | 2D6 |  |  |  |
-| 24 UPPER LEG Cracked knee days Walks at half pace with a limp | No 3D6 | Cannot run or MOVE. | 66% chance of walking |  |
-| Broken 25 UPPER LEG No thigh weeks -2 to any physical task random Quick ability | D6 | Stunned for 2 Rounds | 33% chance of -1 to a |  |
-| Arterial 26 UPPER LEG Lose the leg bleed Rounds days -3 to any physical task | Yes -1/D6 | 3D6 | Stunned for 2 Rounds |  |
-| Numb 31 ARM No -1 to SHOOTIN’ None arm weeks | 4D6 |  |  |  |
-| Flesh 32 ARM No None wound weeks FIGHTIN’ | 4D6 | -1 to SHOOTIN’ & |  |  |
-| 33 ARM Impaled shoulder weeks require the use of two hands | No 4D6 | Cannot take actions that | None |  |
-| Elbow 34 ARM No chipped weeks require the use of two hands random Quick ability Stunned for 1 Round. | 4D6 | Cannot take actions that | 33% chance of -1 to a |  |
-| 35 ARM Hand hit weeks require the use of two hands losing a finger or thumb Stunned for 2 Rounds. | No 4D6 | Cannot take actions that | 33% chance of randomly |  |
-| 36 ARM Compound fracture Rounds weeks require the use of two hands | Yes / 2D6 | 4D6 | Cannot take actions that | Lose the arm |
-
-### Critical Injury Table
-
-| Roll Location Injury Fatal Healing Time | Immediate Effect Long-term Effect |  |  |  |
-| --- | --- | --- | --- | --- |
-| Sucker 41 GUT No -1 to MOVE None punched Rounds | 2D6 |  |  |  |
-| 42 GUT Kidney blow days | No D6 | -1 to physical tasks None |  |  |
-| 43 GUT Skewered groin days FIGHTIN’ roll your ability to have kids Stunned for 1 Round. -1 to | No 3D6 | Suffer 1 damage for every LABOR, MOVE or | 33% chance of losing |  |
-| 44 GUT Ruptured spleen days days RESILIENCE | Yes / D6 | 4D6 | any physical task and -2 to | None |
-| 45 GUT shotGut MOVE or FIGHTIN’ | Yes / D6 Turns days4D6 | Stunned for 2 Rounds. Suffer 1 damage for every LABOR, | gets +1 to the Units DieAll future GUT crits |  |
-| Yes -1/ | Stunned for 3 Rounds. -3 to |  |  |  |
-| Lacerated | 2D6 | 33% chance of -1 to |  |  |
-| 46 GUT intestines 2D6 Rounds for every physical action 2D6 51 CHEST Winded No -1 to MOVE None Rounds | weeks any physical task. 1 damage | random Grit ability |  |  |
-| Bruised 52 CHEST No -2 to MOVE None ribs days | 2D6 |  |  |  |
-| Broken 53 CHEST No Cannot Run or MOVE None collarbone days | 6D6 |  |  |  |
-| 54 CHEST Punctured lung days weeks any physical task | Yes / D6 | D6 | Stunned for 1 Round, -1 to | None |
-| Shattered 55 CHEST ribs D6 Turns weeks -2 to any physical task random Grit ability | Yes -1/ | D6 | Stunned for 2 Rounds | 33% chance of -1 to |
-| 56 CHEST Cut through the heart Instant one more time | Yes / | --- --- Your heart beats just |  |  |
-| 2D6 | You have a |  |  |  |
-| 61 HEAD Nasty flesh wound days permanent scar | No -1 to PERFORMIN’ |  |  |  |
-| 62 HEAD Broken nose days “broken-nose” look | No D6 | -1 to LABOR You have a permanent |  |  |
-| 63 HEAD Gouged eye Turns days HAWKEYE one eye 33% chance of -1 to a | No / 2D6 | 3D6 | -2 to SHOOTIN’ & | Permanent blindness in |
-| Fractured 64 HEAD skull Turns weeks -2 to all tasks random Cunning or Docity ability Yes | Yes / D6 | 2D6 | Stunned for 3 Rounds. |  |
-| 65 HEAD Slashed throat days -2 to all tasks nent vocal impairment Rounds | -1/ D6 | 3D6 | Stunned for 3 Rounds. | 33% chance of perma- |
-| 66 HEAD Terrible hit to the head Instant | Yes / | --- --- You are very dead |  |  |
-
+| Roll | Location | Injury | Fatal | Healing Time | Immediate Effect | Long-term Effect |
+| --- | --- | --- | --- | --- | --- | --- |
+| 11 | LOWER LEG | Twisted ankle | No | D6 days | -1 to MOVE & FIGHTIN' | None |
+| 12 | LOWER LEG | Broken foot | No | 3D6 days | -1 to MOVE, cannot RUN | None |
+| 13 | LOWER LEG | Broken knee | No | D6 weeks | Cannot run or MOVE. Walks at half pace with a limp | 33% chance of walking with a limp |
+| 14 | LOWER LEG | Torn achilles tendon | No | 4D6 weeks | Stunned for 1 Round. -1 to MOVE & FIGHTIN'. Cannot run | 66% chance of walking with a limp |
+| 15 | LOWER LEG | Fractured ankle | No | D6 weeks | Stunned for 2 Rounds. Cannot Run or MOVE. Walks at half pace | 33% chance of -1 to a random Quick ability |
+| 16 | LOWER LEG | Shattered shin bone | No | 2D6 weeks | Cannot Ride, Run or MOVE. Walks at half pace | Lose the lower leg |
+| 21 | UPPER LEG | Numbed leg | No | D6 Turns | -1 to MOVE | None |
+| 22 | UPPER LEG | Flesh wound | No | 2D6 days | -1 to RESILIENCE | None |
+| 23 | UPPER LEG | Torn hamstring | No | D6 weeks | -1 to MOVE. Cannot Run | None |
+| 24 | UPPER LEG | Cracked knee | No | 3D6 days | Cannot run or MOVE. Walks at half pace with a limp | 66% chance of walking with a limp |
+| 25 | UPPER LEG | Broken thigh | No | D6 weeks | Stunned for 2 Rounds. -2 to any physical task | 33% chance of -1 to a random Quick ability |
+| 26 | UPPER LEG | Arterial bleed | Yes -1/D6 Rounds | 3D6 days | Stunned for 2 Rounds. -3 to any physical task | Lose the leg |
+| 31 | ARM | Numb arm | No | 4D6 weeks | -1 to SHOOTIN' | None |
+| 32 | ARM | Flesh wound | No | 4D6 weeks | -1 to SHOOTIN' & FIGHTIN' | None |
+| 33 | ARM | Impaled shoulder | No | 4D6 weeks | Cannot take actions that require the use of two hands | None |
+| 34 | ARM | Elbow chipped | No | 4D6 weeks | Stunned for 1 Round. Cannot take actions that require the use of two hands | 33% chance of -1 to a random Quick ability |
+| 35 | ARM | Hand hit | No | 4D6 weeks | Stunned for 2 Rounds. Cannot take actions that require the use of two hands | 33% chance of randomly losing a finger or thumb |
+| 36 | ARM | Compound fracture | Yes / 2D6 Rounds | 4D6 weeks | Cannot take actions that require the use of two hands | Lose the arm |
+| 41 | GUT | Sucker punched | No | 2D6 Rounds | -1 to MOVE | None |
+| 42 | GUT | Kidney blow | No | D6 days | -1 to physical tasks | None |
+| 43 | GUT | Skewered groin | No | 3D6 days | Stunned for 1 Round. -1 to FIGHTIN' | Suffer 1 damage for every LABOR, MOVE or FIGHTIN' roll. 33% chance of losing your ability to have kids |
+| 44 | GUT | Ruptured spleen | Yes / D6 days | 4D6 days | -2 to any physical task and -2 to RESILIENCE | None |
+| 45 | GUT | Gut shot | Yes / D6 Turns | 4D6 days | Stunned for 2 Rounds. Suffer 1 damage for every LABOR, MOVE or FIGHTIN' | All future GUT crits get +1 to the Units Die |
+| 46 | GUT | Lacerated intestines | Yes -1/2D6 Rounds | 2D6 weeks | Stunned for 3 Rounds. -3 to any physical task. 1 damage for every physical action | 33% chance of -1 to a random Grit ability |
+| 51 | CHEST | Winded | No | 2D6 Rounds | -1 to MOVE | None |
+| 52 | CHEST | Bruised ribs | No | 2D6 days | -2 to MOVE | None |
+| 53 | CHEST | Broken collarbone | No | 6D6 days | Cannot Run or MOVE | None |
+| 54 | CHEST | Punctured lung | Yes / D6 days | D6 weeks | Stunned for 1 Round, -1 to any physical task | None |
+| 55 | CHEST | Shattered ribs | Yes -1/D6 Turns | D6 weeks | Stunned for 2 Rounds. -2 to any physical task | 33% chance of -1 to a random Grit ability |
+| 56 | CHEST | Cut through the heart | Yes / Instant | --- | Your heart beats just one more time | --- |
+| 61 | HEAD | Nasty flesh wound | No | 2D6 days | -1 to PERFORMIN' | You have a permanent scar |
+| 62 | HEAD | Broken nose | No | D6 days | -1 to LABOR | You have a permanent "broken-nose" look |
+| 63 | HEAD | Gouged eye | No | 3D6 days | -2 to SHOOTIN' & HAWKEYE | Permanent blindness in one eye. 33% chance of -1 to a random ability |
+| 64 | HEAD | Fractured skull | Yes / D6 Turns | 2D6 weeks | Stunned for 3 Rounds. -2 to all tasks | -1 to a random Cunning or Docity ability |
+| 65 | HEAD | Slashed throat | Yes -1/D6 Rounds | 3D6 days | Stunned for 3 Rounds. -2 to all tasks | 33% chance of permanent vocal impairment |
+| 66 | HEAD | Terrible hit to the head | Yes / Instant | --- | You are very dead | --- |
 ### Dehydrated
 
 You must drink a ration of water at least once per day. After a day without water, you become Dehydrated. This has several effects:

@@ -76,7 +76,14 @@ For folks in the Old West their town or settlement is of critical importance. It
 
 All aspects of a brand new town start at rank 1, with a tally score of 1. When an aspect earns enough tally points it gains a rank, as shown in the table below.
 
-Aspect rank Tally points Rank 1 1-2 Rank 2 3-6 Rank 3 7-12 Rank 4  13-18 Rank 5 19-26 Rank 6 27+
+| Aspect rank | Tally points |
+| --- | --- |
+| Rank 1 | 1-2 |
+| Rank 2 | 3-6 |
+| Rank 3 | 7-12 |
+| Rank 4 | 13-18 |
+| Rank 5 | 19-26 |
+| Rank 6 | 27+ |
 
 ### Farming
 
@@ -110,30 +117,15 @@ The town’s Prosperity gives an overall indication of the town’s level of dev
 
 ### Town Prosperity Table
 
-| Prosperity total Description Turn of the season modifier | Population |  |
-| --- | --- | --- |
-| 6–10 The settlement is new or | -2 to the Tens die on the | Just a few settlers and |
-| is struggling to make any Trading Post | Town Fortune roll. frontier families. No |  |
-| progress. It’s as bad as it | more than a couple of |  |
-| gets. | hundred souls. |  |
-| 11–14 There are signs of | -1 to the Tens die on the | It’s growing as more |
-| progress and shoots of | Town Fortune roll. people set up home, but |  |
-| Camp growth, but it’s hard | still no more than 500 |  |
-| going. | folks at the most. |  |
-| 15–18 -3 on the Units die on Things are beginning to | More than 500 but fewer |  |
-| improve, and people and Shanty businesses are starting to single this place out. | the Town Fortune roll. than 1,000. |  |
-| 19–23 No modifier to Town The town has grown | Somewhere around |  |
-| beyond its early struggles Village and looks like it may have a future. | Fortune rolls. 1,000 people. |  |
-| 24–27 The community seems to | +3 to the Units Die on | The community has |
-| Town have turned a corner, and | Town Fortune rolls. grown to somewhere |  |
-| the town is really starting | between 1,500 and 2,000 |  |
-| to develop. | folks. |  |
-| 28–31 The settlement is | +1 to the Tens die on | There’s more than 2,500 |
-| growing into a thriving | Town Fortune rolls. folks who call this place |  |
-| Large town community and should have a great future. | home. |  |
-| 32–36 The town is booming | +2 to the Tens die on | The population may be |
-| and developing into a City sustainable community with the brightest of futures. | Town Fortune rolls. 5,000 souls or more. |  |
-
+| Prosperity total | Description | Turn of the season modifier | Population |
+| --- | --- | --- | --- |
+| 6–10 | Trading Post - The settlement is new or is struggling to make any progress. It's as bad as it gets. | -2 to the Tens die on the Town Fortune roll. | Just a few settlers and frontier families. No more than a couple of hundred souls. |
+| 11–14 | Camp - There are signs of progress and shoots of growth, but it's hard going. | -1 to the Tens die on the Town Fortune roll. | It's growing as more people set up home, but still no more than 500 folks at the most. |
+| 15–18 | Shanty - Things are beginning to improve, and people and businesses are starting to single this place out. | -3 on the Units die on the Town Fortune roll. | More than 500 but fewer than 1,000. |
+| 19–23 | Village - The town has grown beyond its early struggles and looks like it may have a future. | No modifier to Town Fortune rolls. | Somewhere around 1,000 people. |
+| 24–27 | Town - The community seems to have turned a corner, and the town is really starting to develop. | +3 to the Units Die on Town Fortune rolls. | The community has grown to somewhere between 1,500 and 2,000 folks. |
+| 28–31 | Large town - The settlement is growing into a thriving community and should have a great future. | +1 to the Tens die on Town Fortune rolls. | There's more than 2,500 folks who call this place home. |
+| 32–36 | City - The town is booming and developing into a sustainable community with the brightest of futures. | +2 to the Tens die on Town Fortune rolls. | The population may be 5,000 souls or more. |
 ### Amenities
 
 For a town to grow it must develop, and to do this the town must make amenities. These come in several forms:
@@ -178,16 +170,87 @@ An amenity always takes one season to complete, and each amenity can only be cho
 
 ### Amenities - Natural Riches
 
+| Min Civic Rank | Amenity | Farming | Mercantile | Natural Riches | Law | Civic | Welfare |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Clay Pits | | | 2 | | 1 | |
+| 1 | Fishing Rights | | 1 | 2 | | | |
+| 1 | Fur Trapping | | 1 | 2 | | | |
+| 1 | Gold Rush | | 2 | 2 | −1 | | |
+| 1 | Mines | | 1 | 3 | −1 | | |
+| 1 | Panning Claims | | 1 | 2 | | | |
+| 1 | Prospecting | | 1 | 2 | | 1 | −1 |
+| 1 | Timber Mill | | 1 | 2 | | | |
+| 3 | Gem Cutters | | 1 | 2 | −1 | 1 | |
+| 3 | Mining Cooperatives | | | 2 | | 1 | |
+| 3 | Quarry | | | 2 | | 1 | |
+| 3 | Town Expansion* | | | 2 | | | |
+| 4 | Coke Smokers | | 1 | 3 | −1 | | |
+| 4 | County Appraiser's Office | | | 3 | | | |
+| 5 | Oil Strike | | | 4 | | | |
+
 ### Amenities - Law
 
-Min  Min Amenity Amenity Civic  Civic Rank Rank 1 Clay Pits 2 1 1 Bounty Hunters 1 3 −1 1 Fishing Rights 1 2 1 Community  2 Spirit* 1 Fur Trapping 1 2 1 Gallows 2 1 1 Gold Rush 2 2 −1 1 Hunting Dogs 1 3 −1 1 Mines 1 3 −1 1 Posses 2 1 1 Panning Claims 1 2 1 Sheriff ’s Office 2 1 1 Prospecting 1 2 1 −1 1 Wanted Posters 1 1 2 −1 1 Timber Mill 1 2 3 1 2 Attorney’s Office 3 Gem Cutters 1 2 −1 1 3 Courthouse 2 1 3 Mining   2 1 3 Land Claim  1 2 Cooperatives Office 3 Quarry 2 1 3 Prison 2 2 −1 3 Town Expansion* 2 3 Sheriff Elections −1 2 1 1 4 Coke Smokers 1 3 −1 4 Employment Office 2 1 4 County Apprais-er’s Office 3 4 Federal Marshal’s Office 3 5 Oil Strike 4 5 County Court  4 House Farming Mercantile Natural Riches Law Civic Welfare Farming Mercantile Natural Riches Law Civic Welfare
+| Min Civic Rank | Amenity | Farming | Mercantile | Natural Riches | Law | Civic | Welfare |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Bounty Hunters | | 1 | | 3 | −1 | |
+| 1 | Community Spirit* | | | | 2 | | |
+| 1 | Gallows | | | | 2 | 1 | |
+| 1 | Hunting Dogs | | 1 | | 3 | −1 | |
+| 1 | Posses | | | | 2 | 1 | |
+| 1 | Sheriff's Office | | | | 2 | 1 | |
+| 1 | Wanted Posters | | 1 | | 1 | 2 | −1 |
+| 2 | Attorney's Office | | | | 3 | 1 | |
+| 3 | Courthouse | | | | 2 | 1 | |
+| 3 | Land Claim Office | | | 1 | 2 | | |
+| 3 | Prison | | | | 2 | 2 | −1 |
+| 3 | Sheriff Elections | −1 | | | 2 | 1 | 1 |
+| 4 | Employment Office | | | | 2 | 1 | |
+| 4 | Federal Marshal's Office | | | | 3 | | |
+| 5 | County Court House | | | | 4 | | |
 
 ### Amenities - Civic
 
+| Min Civic Rank | Amenity | Farming | Mercantile | Natural Riches | Law | Civic | Welfare |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Boardwalks | | 1 | | | 2 | |
+| 1 | Citizenry Meetings | | | | 2 | 1 | |
+| 1 | Community Projects | | 1 | | | 2 | |
+| 1 | Festivals | | 1 | | −1 | 3 | |
+| 1 | Maintained Tracks | 1 | 1 | 1 | −1 | 2 | |
+| 1 | Town Hall | | 1 | | | 2 | |
+| 1 | Warning Bells | −1 | | 1 | 2 | 1 | |
+| 1 | Welcoming Spirit | | 1 | 1 | −1 | 2 | |
+| 3 | Crafting Cooperatives | | 1 | | | 2 | |
+| 3 | Mayoral Elections | −1 | | 1 | | 3 | |
+| 3 | Newspaper** | - | - | - | - | - | - |
+| 3 | Public Library | | | 1 | | 2 | |
+| 3 | Theater / Opera House | | 1 | −1 | | 1 | 2 |
+| 3 | Schools | | | | | 2 | 1 |
+| 3 | Seasonal Fairs | | 1 | | 1 | −1 | 2 |
+| 3 | Town Council* | | | | | 2 | |
+| 4 | County Hall | | | | | 3 | |
+| 4 | Circus | | 1 | | −1 | 3 | |
+| 5 | Railroad Station | | | | | 4 | |
+
 ### Amenities - Welfare
 
-Min  Min Amenity Amenity Civic  Civic Rank Rank 1 Boardwalks 1 2 1 Bathhouse −1 1 1 2 1 Citizenry Meet- 2 1 1 Cemetery 1 2 ings 1 Community  1 2 1 Church** - - - - - - Projects 1 Festivals 1 −1 3 1 Horse Troughs 1 2 Maintained 1 Laundry 1 2 1 1 1 −1 2 Tracks 1 Town Hall 1 2 1 Public Latrines 1 2 1 Warning Bells −1 1 2 1 1 Stables 1 2 1 Welcoming  1 1 −1 2 1 Wells* 1 −1 2 Spirit 3 Crafting Cooper- 1 2 3 Apothecary 1 2 atives 3 Mayoral Elec- −1 1 3 3 Doctor 1 2 tions 3 Newspaper** - - - - - - 3 Firehouse 1 2 3 Public Library 1 2 3 Theater / Opera  1 −1 1 2 House 3 Schools 2 1 3 Undertaker 1 2 3 Seasonal Fairs 1 1 −1 2 4 Orphanage 1 2 3 Town Council* 2 4 Circus 1 −1 3 4 Telegraph 1 −1 3 5 Hospital 4 4 County Hall 3 5 Railroad Station 4 Farming Mercantile Natural Riches Law Civic Welfare Farming Mercantile Natural Riches Law Civic Welfare
-
+| Min Civic Rank | Amenity | Farming | Mercantile | Natural Riches | Law | Civic | Welfare |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Bathhouse | −1 | | 1 | | 1 | 2 |
+| 1 | Cemetery | | 1 | | | | 2 |
+| 1 | Church** | - | - | - | - | - | - |
+| 1 | Horse Troughs | | 1 | | | | 2 |
+| 1 | Laundry | | 1 | | 2 | 1 | |
+| 1 | Public Latrines | | 1 | | | | 2 |
+| 1 | Stables | | 1 | | | | 2 |
+| 1 | Wells* | | 1 | −1 | | | 2 |
+| 3 | Apothecary | | | | 1 | | 2 |
+| 3 | Doctor | | | | 1 | | 2 |
+| 3 | Firehouse | | | 1 | | | 2 |
+| 3 | Undertaker | | | 1 | | | 2 |
+| 4 | Orphanage | | | | 1 | | 2 |
+| 4 | Telegraph | | | 1 | −1 | | 3 |
+| 5 | Hospital | | | | | | 4 |
 ### Amenity Descriptions
 
 **Animal Culls** : Rank 1. The settlement comes together to rid the vicinity of dangerous wolves, bears, prairie dogs or other animals. They might take advantage of a passing buffalo herd, too, if the opportunity comes up.
@@ -549,43 +612,19 @@ The Season Business roll is like any other, except it cannot be pushed and you d
 - If the roll achieves one success the business is steady, all the seasonal expenses and running costs have been paid and the proprietor and employees can all draw their wages (without any additional cost to the owners).
 - If the roll achieves more than one success the business has done very well indeed. Roll once on the Business Bonus table, with each extra success beyond the first giving a +1 bonus to the Tens die. Any bonanza gained in this way is divided among the investors as they see fit.
 
-| D66 Business Bonus Business Penalty |  |
-| --- | --- |
-| Business has been brisk and you get a bonus of 11-16 $6D6 in cash. should count your lucky stars—you don’t have any extra losses over what you’re already suffered. It’s been an ok season, and you’ve a little bonus cash left over. You still gotta pay the wages though, and those folks don’t look mighty happy about it. | Despite how badly business has been going you |
-| Business has been very brisk and you get a bonus 21-23 of $6D6 × your total Business Capital. additional outstanding debts of $6D6. | You’ve not done as well as you should. You have |
-| It’s been a good season and your pockets are stuffed with lovely dollar bills! turning away from you and your competitors are talking you down in the saloon and on the streets. You’ve not done as well as you should. You have 24-26 Your competitors can’t fight against your busi- | You’re no good, your outfit is no good. People are |
-| ness, and you get +1 to your Competition Rating (max positive of +2. If this is already at the maxi- must be paid. mum this becomes a result of 31–33). Are there some irate people out for recompense for | additional outstanding debts of 1D3 × $25 that |
-| Is this just because your competitors are weak, or do they think you’ve been up to no good? they right? Or is there something fishy going on? People don’t like your business or the way you 31-33 Your wares are flying off the shelves and word | what they claim is your bad faith or negligence? Are |
-| of mouth is bringing more customers to your | do business. Your Fame increases by 1 but your |
-| door. You gain $6D6 in bonus cash, and get a +2 bonus to your next Season Business roll. What is it about your business that’s turned people | Reputation is reduced by D3 steps. |
-| Why have things gone so well? Some may think your | against you? Is it something you did, or is some |
-| success is not all above-board, and can only be down to corruption and sharp practice. Your business is so good that word has gotten 34-36 Competition hots up, and you suffer −1 to your | competitor blackening your name? |
-| around. An important person from out of town | business’s Competition rating (to the maximum |
-| comes by to see it for themselves. Your Fame increases by 2 and Reputation moves 2 steps up. becomes a result of 41–43). | negative of −2. If this is already at that level this |
-| Well, don’t word get around? You’re getting famous because what you’re peddling just ain’t no good. for what you do. That can only be good for business. What are you going to do about it? | Someone has stolen your idea or moved into town |
-| Everyone loves your business and the way you 41-43 | You’ve not done as well as you should and have |
-| do it. Your Fame increases by 1, your Reputation | incurred greater losses. Your business owes an |
-| moves 1 step up, and people flock to work for you—gain a new compadre. make good this debt. | additional D6 × $25. It’s up to the investors to |
-| Does everyone love your business? Maybe some | People look down on you—you’re not successful and |
-| are envious of your success, or think you’re cheating somehow? | it don’t look like you’re gonna make it. |
-
-| D66 Business Bonus Business Penalty |  |
-| --- | --- |
-| You have some famous customers who can’t 44-46 | One or more employees are so angry with you |
-| speak highly enough of your business. You gain | that they quit, holding a terrible grudge, regard- |
-| a bonus of $6D6 × 2, and get a +3 bonus to your next Season Business roll. or not. If this is a compadre they walk out on the player character and become an enemy. Your business is the talk of the town and this makes | less of whether you manage to pay their wages |
-| some people very angry. How angry might they become? burned they stay burned. | Keepin’ folk happy ain’t easy—when the bridges are |
-| Business has been brisk and you gain +1 bonus 51-56 point of Capital that must be immediately liqui- like mad this season, and owes an extra 2D6 × | Disaster! Your business has been shipping money |
-| dated. The profits are shared by the shareholders as a dividend. You’re wasting money hand over fist, and the bills | $25. The outfit’s investors need to cover this loss. |
-| Some may be envious of your success, or may want | are piling up. Word of your troubles is spreading fast, |
-| to steal your wares for themselves. Either way you’re making a name for yourself in town. | and your customers are starting to walk on by. |
-| What a season! Gain 2 bonus points of Capital 61-63 | Business has been very bad. Your business has |
-| that must be immediately liquidated. The profits are shared by the shareholders as a dividend. investors need to deal with the problem. You may be slapping yourself on the back in celebra- People are sizing up your assets for the fire sale they | additional debts equal to 3D6 × $25, and the |
-| tion, but others in town gripe and grumble about your success. Why can’t folks just be happy for you? way out after a season like this. | think is on its way, as surely your business is on the |
-| Business has been outstanding. Gain 1D3+1 64-66 bonus points of Capital that must be immedi- a number of dice equal to the business’s total | It’s a disaster! You have lost so much money. Roll |
-| ately liquidated. The profits are shared by the shareholders as a dividend. this total by $25—this is the extra debt your investors must pay off. Many seem envious of your success and want to tear | Capital, add the results together and multiply |
-| you down. But you don’t care—your outfit is going from strength to strength. paltry amounts to take your assets off your hands, others just wait for the inevitable fire sale for a bargain. Bonanza time! You gain bonus Capital equal to 71+ half your outfit’s pool of Capital, rounded up. These must be immediately liquidated. The prof- its are shared by the shareholders as a dividend. - Feted by the best folk of the town, your success is unprecedented. Everyone wants what you’re selling, and suddenly you’re the center of attention. But that attracts bad elements too. | Everyone assumes you’re done. Some might offer you |
-
+| D66 | Business Bonus | Business Penalty |
+| --- | --- | --- |
+| 11-16 | Business has been brisk and you get a bonus of $6D6 in cash. | Despite how badly business has been going you should count your lucky stars—you don't have any extra losses over what you're already suffered. It's been an ok season, and you've a little bonus cash left over. You still gotta pay the wages though, and those folks don't look mighty happy about it. |
+| 21-23 | Business has been very brisk and you get a bonus of $6D6 × your total Business Capital. | You've not done as well as you should. You have additional outstanding debts of $6D6. |
+| 24-26 | It's been a good season and your pockets are stuffed with lovely dollar bills! Your competitors can't fight against your business, and you get +1 to your Competition Rating (max positive of +2. If this is already at the maximum this becomes a result of 31–33). | You're no good, your outfit is no good. People are turning away from you and your competitors are talking you down in the saloon and on the streets. You have additional outstanding debts of 1D3 × $25 that must be paid. |
+| 31-33 | Your wares are flying off the shelves and word of mouth is bringing more customers to your door. You gain $6D6 in bonus cash, and get a +2 bonus to your next Season Business roll. Why have things gone so well? Some may think your success is not all above-board, and can only be down to corruption and sharp practice. | Is there some irate people out for recompense for what they claim is your bad faith or negligence? Are they right? Or is there something fishy going on? People don't like your business or the way you do business. Your Fame increases by 1 but your Reputation is reduced by D3 steps. What is it about your business that's turned people against you? Is it something you did, or is some competitor blackening your name? |
+| 34-36 | Your business is so good that word has gotten around. An important person from out of town comes by to see it for themselves. Your Fame increases by 2 and Reputation moves 2 steps up. Well, don't word get around? You're getting famous for what you do. That can only be good for business. | Competition hots up, and you suffer −1 to your business's Competition rating (to the maximum negative of −2. If this is already at that level this becomes a result of 41–43). Someone has stolen your idea or moved into town. What are you going to do about it? |
+| 41-43 | Everyone loves your business and the way you do it. Your Fame increases by 1, your Reputation moves 1 step up, and people flock to work for you—gain a new compadre. Does everyone love your business? Maybe some are envious of your success, or think you're cheating somehow? | You've not done as well as you should and have incurred greater losses. Your business owes an additional D6 × $25. It's up to the investors to make good this debt. People look down on you—you're not successful and it don't look like you're gonna make it. |
+| 44-46 | You have some famous customers who can't speak highly enough of your business. You gain a bonus of $6D6 × 2, and get a +3 bonus to your next Season Business roll. Your business is the talk of the town and this makes some people very angry. How angry might they become? | One or more employees are so angry with you that they quit, holding a terrible grudge, regardless of whether you manage to pay their wages or not. If this is a compadre they walk out on the player character and become an enemy. Keepin' folk happy ain't easy—when the bridges are burned they stay burned. |
+| 51-56 | Business has been brisk and you gain +1 bonus point of Capital that must be immediately liquidated. The profits are shared by the shareholders as a dividend. Some may be envious of your success, or may want to steal your wares for themselves. Either way you're making a name for yourself in town. | Disaster! Your business has been shipping money like mad this season, and owes an extra 2D6 × $25. The outfit's investors need to cover this loss. You're wasting money hand over fist, and the bills are piling up. Word of your troubles is spreading fast, and your customers are starting to walk on by. |
+| 61-63 | What a season! Gain 2 bonus points of Capital that must be immediately liquidated. The profits are shared by the shareholders as a dividend. You may be slapping yourself on the back in celebration, but others in town gripe and grumble about your success. Why can't folks just be happy for you? | Business has been very bad. Your business has additional debts equal to 3D6 × $25, and the investors need to deal with the problem. People are sizing up your assets for the fire sale they think is on its way, as surely your business is on the way out after a season like this. |
+| 64-66 | Business has been outstanding. Gain 1D3+1 bonus points of Capital that must be immediately liquidated. The profits are shared by the shareholders as a dividend. Many seem envious of your success and want to tear you down. But you don't care—your outfit is going from strength to strength. | It's a disaster! You have lost so much money. Roll a number of dice equal to the business's total Capital, add the results together and multiply this total by $25—this is the extra debt your investors must pay off. Everyone assumes you're done. Some might offer you paltry amounts to take your assets off your hands, others just wait for the inevitable fire sale for a bargain. |
+| 71+ | Bonanza time! You gain bonus Capital equal to half your outfit's pool of Capital, rounded up. These must be immediately liquidated. The profits are shared by the shareholders as a dividend. Feted by the best folk of the town, your success is unprecedented. Everyone wants what you're selling, and suddenly you're the center of attention. But that attracts bad elements too. | — |
 ### A Business in Action
 
 > _Working at the livery earns a salary equivalent to that of a Handyman, so Arthur, Beth, Colm and Drew should all draw a base wage of $75 every season. However, with their investment of three Capital, they add 10% to the base wage (+5% per point of Capital invested after the first), so this seasonal wage increases to $82.50. This is the wage they will earn if their Turn of the Season Business roll gains at least one success. Beth is the proprietor, so makes that roll, and does well, with two successes. She rolls for the Business Bonus that the second success has earned—they gain an extra $90 this season. As Arthur and Drew are only employees they have no entitlement to this bonus so they have to be content with their wages. Only Beth and Colm have a right to this bonus as they own the Capital invested in the outfit. They could, of course, give some of this dividend to Arthur and Drew as a bonus, but they don’t. They agree a straight division based on the 2 to 1 Capital ratio, so Beth takes $60 and Colm takes $30, over and above their $82.50 salary for that season._
@@ -637,10 +676,15 @@ The players always choose one new amenity for their settlement every season, for
 
 Once you have chosen your lifestyle for the next season, you apply the relevant lifestyle modifiers to Fame and Reputation. Note that the Fame and Reputation modifiers for a player character’s lifestyle only apply for the season during which that lifestyle can be afforded, and are not cumulative over time. At the end of the season the modifiers are removed, and new modifiers—for the lifestyle afforded for the next season—are applied.
 
-| Seasonal Lifestyle Table Cost Modifier Modifier DESTITUTE: You have nothing, you want nothing, it costs you $0 0 −3 nothing. You may have a hovel or a tent to sleep in but you’re little more than a vagrant. You hunt and gather (or steal) to eat, occasionally scrap- ing up the coin to have a bath and get your clothes laundered. But not often. Most good folk look down on you, if they even notice you at all. VERY POOR: You try your best but you have little. A small cabin $50 0 −2 maybe, that needs (or gets) little care. You have no extravagance in your life at all. Surviving is all you can manage, and that’s not always a surety. Your clothes are threadbare. They smell too. You eat the most basic foods, all you can afford. SCRAPING BY: You aren’t on the poverty line but you have no swag- $100 0 −1 ger, no pretense at any kind of an easy life. Every day is a struggle, and while you might think you’re respectable, you aren’t really respected. You’re still just too poor. MANAGING: You are doing ok, if not well. You have enough to eat | Fame | Reputation |
-| --- | --- | --- |
-| and your clothes, if a little threadbare, are of sufficient quality to keep you warm, cool and dry. Your home is as good as all the other normal folk, and you live a decent, if simple, life. COMFORTABLE: You have good clothes, decent food, and you | $150 0 0 |  |
-| never run out of firewood. Your home is nicely appointed and the good people nod hello to you in the street. You are respectable. You might even get asked your opinion on civic matters, but not always. And they don’t always listen to your view. WELL-OFF: Your lifestyle is opulent compared to everyone else in $350 +2 +2 the town. You wear the best quality clothes, you buy the best food from the stalls and markets, you have your place in the best saloon in town. Everyone knows who you are. They all nod good morning, and your opinion is sought. RICH: You are the best of the best. You are so rich that nothing both- $500 +4 +3 ers you. Everyone in town knows who you are and nothing is decided without your view being sought. They are all envious, and would gladly do anything to swap places with you. People of your caliber run the world, and you want to keep it that way. | $200 +1 +1 |  |
+| Lifestyle | Cost | Fame | Reputation |
+| --- | --- | --- | --- |
+| **DESTITUTE:** You have nothing, you want nothing, it costs you nothing. You may have a hovel or a tent to sleep in but you’re little more than a vagrant. You hunt and gather (or steal) to eat, occasionally scraping up the coin to have a bath and get your clothes laundered. But not often. Most good folk look down on you, if they even notice you at all. | $0 | 0 | −3 |
+| **VERY POOR:** You try your best but you have little. A small cabin maybe, that needs (or gets) little care. You have no extravagance in your life at all. Surviving is all you can manage, and that’s not always a surety. Your clothes are threadbare. They smell too. You eat the most basic foods, all you can afford. | $50 | 0 | −2 |
+| **SCRAPING BY:** You aren’t on the poverty line but you have no swagger, no pretense at any kind of an easy life. Every day is a struggle, and while you might think you’re respectable, you aren’t really respected. You’re still just too poor. | $100 | 0 | −1 |
+| **MANAGING:** You are doing ok, if not well. You have enough to eat and your clothes, if a little threadbare, are of sufficient quality to keep you warm, cool and dry. Your home is as good as all the other normal folk, and you live a decent, if simple, life. | $150 | 0 | 0 |
+| **COMFORTABLE:** You have good clothes, decent food, and you never run out of firewood. Your home is nicely appointed and the good people nod hello to you in the street. You are respectable. You might even get asked your opinion on civic matters, but not always. And they don’t always listen to your view. | $200 | +1 | +1 |
+| **WELL-OFF:** Your lifestyle is opulent compared to everyone else in the town. You wear the best quality clothes, you buy the best food from the stalls and markets, you have your place in the best saloon in town. Everyone knows who you are. They all nod good morning, and your opinion is sought. | $350 | +2 | +2 |
+| **RICH:** You are the best of the best. You are so rich that nothing bothers you. Everyone in town knows who you are and nothing is decided without your view being sought. They are all envious, and would gladly do anything to swap places with you. People of your caliber run the world, and you want to keep it that way. | $500 | +4 | +3 |
 
 ### Personal Fortune Rolls
 
@@ -653,59 +697,56 @@ To determine their character’s Personal Fortune for this season, each player s
 
 **Jackpots and Calamities** : A naturally-rolled result of 66 ( Jackpot!) or 11 (Calamity!) always counts as that result, regardless of any modifications that may be applied to the roll. In this way even those who live in a town with a poor Welfare aspect can hope to gain a Jackpot! (which they otherwise would not be able to), and those who live in a town with a very good Welfare aspect might still suffer a Calamity!
 
-| D66 Personal Fortunes |  |
+| D66 | Personal Fortunes |
 | --- | --- |
-| 01 Death in the Family | - A family tragedy. |
-| 02 A Friend is Dead | - Someone close or important to you is found dead. |
-| 03 A Rival is Dead ger of blame will inevitably point your way. circumstances. The fin | - Someone you have crossed, an enemy or a rival, has been found dead under suspicious |
-| 04 Disease in the Family hangs in the balance. | - A family member or compadre is seriously ill. They are not dead yet, but their life |
-| 05 Scandal one, or just sleeping with the wrong p erson. The GM decides. | - Someone close to you has disgraced you and your name. It might be a criminal act, or a beastly |
-| 06 Gossip in Town your Reputation moves 3 steps in a negative direction (at the GM’s discretion). | - People have been gossiping about you, and it’s not good. Your Fame increases by 1, but |
-| 11 Calamity! 12 Broken Hearts - Someone you love deeply loves you no more. This should be a romantic lover or a close friend. They spurn your affections. Have they just fallen out of love, or have you done something to drive them away? Have they been unfaithful, or lured by the affections of another? The GM decides. | - Roll D66 again, but the Tens die result is automatically 0. |
-| 13 Contested Property mands you hand it over. It might be a family heirloom, a house or property, a claim to a mine, or an exp person has a strong claim, and others believe them. ensive animal. This | - Someone claims ownership of a much beloved or valuable possession, and de- |
-| 14 Terrible Illness y lose 1 point from a random attribute. contracted it. The | - One of your compadres gets very ill—the GM decides on the disease and how they |
-| 15 Loyalty? why). They might make life a misery for you, or even leave your side, unless you can identify and resolve this problem. | - A random compadre becomes disillusioned with you or otherwise unhappy (the GM decides |
-| 16 Rabid Animal responsible. The town is angry, and the family of the victim is out for blood—maybe your animal’s, maybe yours, perhaps both. | - Someone has been killed in town, and it seems your horse, dog, or other animal was |
-
-| D66 Personal Fortunes |  |
-| --- | --- |
-| 21 Your Animal Companion Dies accident, illness or old age, or do you suspect that someone who hates you killed the animal out of spite? The GM decides. | - Your horse, dog, or other animal (not livestock) dies. This may be an |
-| 22 Lost Something to someone else, but losing it is a very bad thing. It could just be a loss of cash (3D6 × $10), maybe money you were collecting from the town for a club or the church fund. Decide with the GM which. | - You misplace something important, or has it been stolen? It might be yours or belong |
-| 23 A Friend No More than one. It could be a natural death, illness or accident, or maybe there were suspicious circumstances? | - One of your compadres or employees will die. Choose randomly if there is more |
-| 24 Leaking Roof wind and rain is now getting in. Pay $3D6 and get it fixed, or something inside is ruined by the rain (GM to decide). People sneer at your lack of attention, and whisper that if this is how you present your home what does it say about the kind of person you are? 25 | - You know that work you’ve been putting off? Well, it’s come back to bite you and the |
-| More Than Just a Spring Clean needs a complete overhaul to keep it spick and span. Spend 2D6 × $10 by the end of the season to fix it all up, or your home’s Status is reduced by 1. | - The wind has battered your home and your windows are rattling. It |
-| 26 Idle Chatter a negative direction. | - People have been gossiping about you, and it’s not good. Your Reputation moves 1 step in |
-| 31 A New Enemy be a complete mystery to you. But nonetheless, someone about town is bad-mouthing you. | - For some reason someone has taken a dislike to you. You may know for why, or it might |
-| 32 Scarred / Marked have fallen out, or gone white prematurely, or you are pock-marked or visibly scarred. People look at you y now—is this a bad omen? differentl | - You survive an illness or minor accident, but you’ve been left marked. Your hair may |
-| 33 Mistaken Identity? and people can’t help but tar you with the same brush. | - You bear a passing resemblance to someone disliked, notorious or even outlawed, |
-| 34 Argumentative with someone, or stressed about something, and you’ve taken it out on others. 35 | - You have let your temper get the better of you one time too often. Maybe you’re angry |
-| Brush With The Law compadre. Are they in trouble, suspected of a crime, or are they in danger from someone else? | - A sheriff or marshal from out of town turns up, looking for a family member or |
-| 36 Helping the Law outlaw or outlaw gang, and can give information to help apprehend them. The marshal might be right, or perhaps not. What do you do, and how can you convince the marshal you’re not hiding something? | - A marshal arrives in town and seeks you out, certain you are an associate of a wanted |
-| 41 A Helping Hand This reputation may or may not be well deserved, but either way you get a lot of friendly slaps on the back. 42 Peacemaker - You break up a bar fight that was getting nasty, and have gained greater respect from the locals. How those who were fighting feel about your intervention, and who they are, is another matter. | - You were seen to get involved in recent town festivals, and people think you’re a good sort. |
-| 43 Good Samaritan choice to risk yourself to save them, or leave them to their fates. What do you decide? | - You get the chance to rescue some strangers from a terrible danger. You have the |
-| 44 Idle Banter | - You are being talked about in town, and people are saying nice things. Gain +1 Reputation. |
-| 45 An Exciting Find get of ore, a special plant, $2D6 in ancient coins, a young animal pup, etc). Agree with the GM what it is. | - You find something that you like, want or find exciting. It could be anything (a nug- |
-| 46 A Friend in a High Place should decide who this is, and why they are taking notice of you. | - Someone important takes notice of you for some reason. The player and GM |
-
-| D66 Personal Fortunes 51 Love Blossoms - Someone has expressed their love for you. It might be an old flame or someone new. It might be welcome or a complete pain in the ass. But nonetheless, this person seems to love you. |  |
-| --- | --- |
-| 52 An Unexpected Legacy deeds to some unlikely claim, or a family heirloom or treasure. The GM decides. | - You have been left a legacy from an unexpected source. It may be money or title |
-| 53 Hard working respectful nods in the street. | - You work hard at whatever it is you do with your time, and people have noticed. You get |
-| 54 Touched by God People in the town are saying that you’re touched by the Lord Almighty, and the angels are watching over you. | - You escape a near-miss accident or suffer lightly from what should be a terrible illness. |
-| 55 Handy with a Hammer passers-by. Maybe it’ll bring good things, or even work your way. | - Your place is beautifully kept and draws the positive attention of visitors and |
-| 56 Frisky Animals birth, or someone has given you a gift of a new animal. | - You gain a new horse, dog, or other animal. An animal you already own may have given |
-| 61 A Miraculous Rescue wolves or mountain lions. Their courage reflects well on you, and the town shows its gratitude. | - Your horse, dog, or compadre saves the life of a child under threat from snakes, |
-| 62 A Happy Worker is a Good Worker loyal to you than ever. They fall over themselves to help you out. | - Your compadres / outfit employees are a happy crew, and seem more |
-| 63 Your Reputation Precedes You going price for the first 6 months (GM decides). Gain a new compadre, but are they truly trustworthy? | - A random NPC approaches you and offers you their services at half the |
-| 64 A Repentant Rival ship between you, and professing their future fidelity and trust. This is a good development, but can they be trusted? | - An enemy or deadly rival comes to you, expressing their unhappiness at the relation- |
-| 65 Never Too Late to Learn themselves. One of your compadres adds +2 to one ability, and +1 to two others. Agree which abilities with your GM, or roll randomly. | - A compadre has been hard at work, practicing, learning, or otherwise bettering |
-| 66 Jackpot! | - Roll again, but the Tens die is automatically 7. |
-| 71 Talk of the Town points and your Reputation moves 3 steps in a direction of your choice | - Everyone is talking about you, and they are talking you up. Your Fame increases by 2 |
-| 72 The Perfect Horse your herd just stood out. Roll a random stallion or mare. This horse gains a bonus quality, THE PER- FECT HORSE. | - You have come into possession of a new horse, either by purchase, gift, or one from |
-| 73 An Unexpected Windfall and why they’ve gifted you this windfall is up to the GM. The amount is equal to 3D6 × $25. | - Someone, somewhere, has given you, or left you, some money. Who they are |
-| 74 A Blessing | - A child is born into your family, or to one of your compadres. |
-| 75 Long-lost Family existed. They are overjoyed to be reunited with you. Gain a new compadre. | - A member of your family appears, who you thought long dead or never even knew |
-| 76 Home is Where the Heart Is During the next season, when you are at home with your family or in a family gathering, you regain 3 Faith Points instead of 1. | - Your home and family really are the comforting haven you always wanted. |
+| 01 | Death in the Family - A family tragedy. |
+| 02 | A Friend is Dead - Someone close or important to you is found dead. |
+| 03 | A Rival is Dead - Someone you have crossed, an enemy or a rival, has been found dead under suspicious circumstances. The finger of blame will inevitably point your way. |
+| 04 | Disease in the Family - A family member or compadre is seriously ill. They are not dead yet, but their life hangs in the balance. |
+| 05 | Scandal - Someone close to you has disgraced you and your name. It might be a criminal act, or a beastly one, or just sleeping with the wrong person. The GM decides. |
+| 06 | Gossip in Town - People have been gossiping about you, and it’s not good. Your Fame increases by 1, but your Reputation moves 3 steps in a negative direction (at the GM’s discretion). |
+| 11 | Calamity! - Roll D66 again, but the Tens die result is automatically 0. |
+| 12 | Broken Hearts - Someone you love deeply loves you no more. This should be a romantic lover or a close friend. They spurn your affections. Have they just fallen out of love, or have you done something to drive them away? Have they been unfaithful, or lured by the affections of another? The GM decides. |
+| 13 | Contested Property - Someone claims ownership of a much beloved or valuable possession, and demands you hand it over. It might be a family heirloom, a house or property, a claim to a mine, or an expensive animal. This person has a strong claim, and others believe them. |
+| 14 | Terrible Illness - One of your compadres gets very ill—the GM decides on the disease and how they contracted it. They lose 1 point from a random attribute. |
+| 15 | Loyalty? - A random compadre becomes disillusioned with you or otherwise unhappy (the GM decides why). They might make life a misery for you, or even leave your side, unless you can identify and resolve this problem. |
+| 16 | Rabid Animal - Someone has been killed in town, and it seems your horse, dog, or other animal was responsible. The town is angry, and the family of the victim is out for blood—maybe your animal’s, maybe yours, perhaps both. |
+| 21 | Your Animal Companion Dies - Your horse, dog, or other animal (not livestock) dies. This may be an accident, illness or old age, or do you suspect that someone who hates you killed the animal out of spite? The GM decides. |
+| 22 | Lost Something - You misplace something important, or has it been stolen? It might be yours or belong to someone else, but losing it is a very bad thing. It could just be a loss of cash (3D6 × $10), maybe money you were collecting from the town for a club or the church fund. Decide with the GM which. |
+| 23 | A Friend No More - One of your compadres or employees will die. Choose randomly if there is more than one. It could be a natural death, illness or accident, or maybe there were suspicious circumstances? |
+| 24 | Leaking Roof - You know that work you’ve been putting off? Well, it’s come back to bite you and the wind and rain is now getting in. Pay $3D6 and get it fixed, or something inside is ruined by the rain (GM to decide). People sneer at your lack of attention, and whisper that if this is how you present your home what does it say about the kind of person you are? |
+| | 25 | More Than Just a Spring Clean - The wind has battered your home and your windows are rattling. It needs a complete overhaul to keep it spick and span. Spend 2D6 × $10 by the end of the season to fix it all up, or your home’s Status is reduced by 1. |
+| 26 | Idle Chatter - People have been gossiping about you, and it’s not good. Your Reputation moves 1 step in a negative direction. |
+| 31 | A New Enemy - For some reason someone has taken a dislike to you. You may know for why, or it might be a complete mystery to you. But nonetheless, someone about town is bad-mouthing you. |
+| 32 | Scarred / Marked - You survive an illness or minor accident, but you’ve been left marked. Your hair may have fallen out, or gone white prematurely, or you are pock-marked or visibly scarred. People look at you differently now—is this a bad omen? |
+| 33 | Mistaken Identity? - You bear a passing resemblance to someone disliked, notorious or even outlawed, and people can’t help but tar you with the same brush. |
+| 34 | Argumentative - You have let your temper get the better of you one time too often. Maybe you’re angry with someone, or stressed about something, and you’ve taken it out on others. |
+| | 35 | Brush With The Law - A sheriff or marshal from out of town turns up, looking for a family member or compadre. Are they in trouble, suspected of a crime, or are they in danger from someone else? |
+| 36 | Helping the Law - A marshal arrives in town and seeks you out, certain you are an associate of a wanted outlaw or outlaw gang, and can give information to help apprehend them. The marshal might be right, or perhaps not. What do you do, and how can you convince the marshal you’re not hiding something? |
+| 41 | A Helping Hand - You were seen to get involved in recent town festivals, and people think you’re a good sort. This reputation may or may not be well deserved, but either way you get a lot of friendly slaps on the back. |
+| 42 | Peacemaker - You break up a bar fight that was getting nasty, and have gained greater respect from the locals. How those who were fighting feel about your intervention, and who they are, is another matter. |
+| 43 | Good Samaritan - You get the chance to rescue some strangers from a terrible danger. You have the choice to risk yourself to save them, or leave them to their fates. What do you decide? |
+| 44 | Idle Banter - You are being talked about in town, and people are saying nice things. Gain +1 Reputation. |
+| 45 | An Exciting Find - You find something that you like, want or find exciting. It could be anything (a nugget of ore, a special plant, $2D6 in ancient coins, a young animal pup, etc). Agree with the GM what it is. |
+| 46 | A Friend in a High Place - Someone important takes notice of you for some reason. The player and GM should decide who this is, and why they are taking notice of you. |
+| 51 | Love Blossoms - Someone has expressed their love for you. It might be an old flame or someone new. It might be welcome or a complete pain in the ass. But nonetheless, this person seems to love you. |
+| 52 | An Unexpected Legacy - You have been left a legacy from an unexpected source. It may be money or title deeds to some unlikely claim, or a family heirloom or treasure. The GM decides. |
+| 53 | Hard working - You work hard at whatever it is you do with your time, and people have noticed. You get respectful nods in the street. |
+| 54 | Touched by God - You escape a near-miss accident or suffer lightly from what should be a terrible illness. People in the town are saying that you’re touched by the Lord Almighty, and the angels are watching over you. |
+| 55 | Handy with a Hammer - Your place is beautifully kept and draws the positive attention of visitors and passers-by. Maybe it’ll bring good things, or even work your way. |
+| 56 | Frisky Animals - You gain a new horse, dog, or other animal. An animal you already own may have given birth, or someone has given you a gift of a new animal. |
+| 61 | A Miraculous Rescue - Your horse, dog, or compadre saves the life of a child under threat from snakes, wolves or mountain lions. Their courage reflects well on you, and the town shows its gratitude. |
+| 62 | A Happy Worker is a Good Worker - Your compadres / outfit employees are a happy crew, and seem more loyal to you than ever. They fall over themselves to help you out. |
+| 63 | Your Reputation Precedes You - A random NPC approaches you and offers you their services at half the going price for the first 6 months (GM decides). Gain a new compadre, but are they truly trustworthy? |
+| 64 | A Repentant Rival - An enemy or deadly rival comes to you, expressing their unhappiness at the relationship between you, and professing their future fidelity and trust. This is a good development, but can they be trusted? |
+| 65 | Never Too Late to Learn - A compadre has been hard at work, practicing, learning, or otherwise bettering themselves. One of your compadres adds +2 to one ability, and +1 to two others. Agree which abilities with your GM, or roll randomly. |
+| 66 | Jackpot! - Roll again, but the Tens die is automatically 7. |
+| 71 | Talk of the Town - Everyone is talking about you, and they are talking you up. Your Fame increases by 2 points and your Reputation moves 3 steps in a direction of your choice. |
+| 72 | The Perfect Horse - You have come into possession of a new horse, either by purchase, gift, or one from your herd just stood out. Roll a random stallion or mare. This horse gains a bonus quality, THE PERFECT HORSE. |
+| 73 | An Unexpected Windfall - Someone, somewhere, has given you, or left you, some money. Who they are and why they’ve gifted you this windfall is up to the GM. The amount is equal to 3D6 × $25. |
+| 74 | A Blessing - A child is born into your family, or to one of your compadres. |
+| 75 | Long-lost Family - A member of your family appears, who you thought long dead or never even knew existed. They are overjoyed to be reunited with you. Gain a new compadre. |
+| 76 | Home is Where the Heart Is - Your home and family really are the comforting haven you always wanted. During the next season, when you are at home with your family or in a family gathering, you regain 3 Faith Points instead of 1. |
 
 ### Town Fortune Rolls
 
@@ -713,9 +754,15 @@ The Town Fortune roll determines an event relating to your town, that might add 
 
 **Jackpots and Calamities** : A naturally-rolled result of 66 ( Jackpot!) or 11 (Calamity!) always counts as that result, regardless of any modifications that may be applied to the roll. In this way even towns with a low Prosperity can gain a Jackpot! (which they otherwise would not be able to), and those with a high Prosperity can suffer a Calamity!
 
-Prosperity Modification to the town fortune roll 10 or less -2 to Tens die 11 to 14 -1 to Tens die 15 to 18 -3 to Unit die (to a minimum of 1)
-24 to 27 +3 to Unit die (to a maximum of 6)
-28 to 31 +1 to Tens die 32 or more +2 to Tens die
+| Prosperity | Modification |
+| --- | --- |
+| 10 or less | −2 to Tens die |
+| 11 to 14 | −1 to Tens die |
+| 15 to 18 | −3 to Unit die (to a minimum of 1) |
+| 19 to 23 | No modification |
+| 24 to 27 | +3 to Unit die (to a maximum of 6) |
+| 28 to 31 | +1 to Tens die |
+| 32 or more | +2 to Tens die |
 
 ### Fortunes in Play
 
@@ -723,45 +770,56 @@ Prosperity Modification to the town fortune roll 10 or less -2 to Tens die 11 to
 
 > _For example, the players roll for their Town Fortune, and roll 15—more and more drunken cowboys and outlaws are making the town a dangerous place to be. It’s unlikely the player characters can completely solve the problem, but if during the course of an adventure they help the sheriff deal with some troublemakers, then you should reduce the impact of the event on the Law and Civic aspects. The Personal and Town Fortune rolls are intended to generate great adventure hooks and story ideas, and provide inspiration to delve more deeply into the lives of the player characters. We encourage you to make the most of the opportunities they offer for your campaign, and see where these tales take you._
 
-| D66 Town Fortunes 01 Fool’s Gold - The resources around the town are nowhere near as good as everyone thought. The town’s Natural Riches aspect’s maximum possible rank is reduced by 2. |  |
+| D66 | Town Fortunes |
 | --- | --- |
-| 02 Farmer’s Folly keep g aspect’s maximum possible rank is reduced by 2. . The town’s Farmin | - Farming at this place is a fool’s errand, as the land is poor and livestock impossible to |
-| 03 No Boom, Just Bust pect’s maximum possible rank is reduced by 2. here. The town’s Mercantile as | - The town is poorly placed, trade passes you by and businesses struggle to grow |
-| 04 Danger Town with deadly pect’s maximum possible rank is reduced by 2. creatures. The town’s Welfare as 05 Terminal Decline - One of the town’s aspects has gone into terminal and fatal decline. The aspect loses 1 tally point immediately and a further 1 tally point during each of the following three seasons. Roll D6: 1–2 : Farming—running a Farming outfit here just doesn’t work anymore. There’s better farming land else- where and people aren’t buying what little you’re managing to produce. 3–4 : Mercantile—the town has been bypassed or the goods traded here just aren’t any good. Business here will come to an end soon enough. 5–6 : Natural Riches—this place is tapped out, the mines are empty, the timber is poor, there’s no point gging a dead horse. flo | - The town is more dangerous than you thought—disease abounds or the ground swarms |
-| 06 Terrible Disaster 1 : Farming—the climate has shifted and farming here is becoming impossible. The Farming aspect is immediately reduced by 4 tally points. 2 : Mercantile—business is suddenly passing your town by, and trade has dried up. The Mercantile aspect is immediately reduced by 4 tally points. 3 : Natural Riches—those mines have tapped out, or the claims have been seen to be false. The Natural Riches aspect is immediately reduced by 4 tally points. 4 : Law—the town has been flooded with bad men and troublemakers. The Law aspect is immediately reduced by 4 tally points. 5 : Civic—the community spirit has been shattered by strife and feuds. The Civic aspect is immediately reduced by 4 tally points. 6 : Welfare—the dangers of the town have become terrible. It may be a landslide or earthquake or a plague, but this place is not safe any pect is immediately reduced by 4 tally points. more. The Welfare as | - Roll D6 |
-| 11 Calamity! | - Roll D66 again, but the Tens die result is automatically 0. |
-| 12 Disease Outbreak The settlement loses 2 tally points from a random aspect. 13 Town Fires! - There have been a couple of close calls, but if we ain’t careful fire could spell disaster! But why are there so many fires right now? Lose 1 tally point from both Mercantile & Welfare. | - Some terrible disease is sweeping the county. Hope the Lord don’t let it come here. |
-| 14 Torrential Rains and flooding nights. Lose 1 tally point from both Farming & Natural Riches. | - It’s been raining a lot, and some are talking about forty days and forty |
-| 15 Lawlessness in Town making the town a dangerous place to be. Lose 1 tally point from both Law & Civic. | - It seems to be getting worse—more and more drunken cowboys and outlaws are |
-| 16 Deep Freeze (Winter or Spring) | - Will this terrible winter ever end? |
-| Drought (Summer or Autumn) animals, and then the people, will die of thirst. The town loses 1D3 Settlement Points to a minimum of 0. 21 Terrible Storms - The weather is angry, and the old-timers say it’s set to get worse. Lose 1 tally point from either Mercantile or Welfare. 22 Insect Infestations - From insect swarms eating the fields, to midges and mites spoiling the crops in the barns, to roaches spreading disease and them poisonous spiders—it’s almost a biblical disaster. The town cannot start any amenities this season. | - It looks set to be hot as hell. If it gets bad nothing will grow and the |
-
-| D66 Town Fortunes |  |
-| --- | --- |
-| 23 Wolves they work. Lose 1 tally point from either Farming or Natural Riches. 24 Outlaws Abound - There are outlaws roaming the land, trying to survive. Maybe a famous gang is ru- mored to have entered this here territory. Lose 1 tally point from either Law or Civic. 25 | - Starving wolf packs have been roaming nearby, attacking livestock and bothering people while |
-| Wildfires threaten the whole community. Lose 1 tally point from either Farming, Natural Riches or Welfare. | - Wildfires have been breaking out. Let’s hope the weather keeps them in check as these can |
-| 26 Religious Trouble no sign of it in the town—yet. Lose 1 tally point from either Law, Civic or Mercantile. 31 Vermin Infestation - They have been getting worse all over the town, and you doubt the ratters can cope. The place could be overrun and if it’s not dealt with soon disease will start to spread. Characters running a Merchant or Trading outfit suffer a −1 penalty to their Business roll at the end of the season. 32 Cattle Rustlers - Darned outlaws turned rustlers, driving stolen herds through plowed fields and crops. Characters running a Farming business suffer a −1 penalty to their Business roll at the end of the season. | - There are rumors of religious intolerance breaking out into violence, but there’s been |
-| 33 Border Disputes wanting to draw the line around your fine natural riches. It ain’t come to blows yet, but who knows. Char- acters running penalty to their Business roll at the end of the season. a Resources outfit suffer a –1 | - You hear stories of trouble over the state or territorial border, with your neighbors |
-| 34 Native Anger to raid some goods, or riding against the cavalry out of fear or vengeance. | - A local nation has been rumored to be gathering, maybe driven by cold and hunger, out |
-| 35 An Important Official is coming should get busy making itself look good for the visit. 36 Homestead Claims - There’s been a lot of friction, and some say the local Homestead Claims officials are corrupt. It seems like trouble may be brewing. 41 Pinkertons in Town - They ain’t causing no trouble, and have money to spend, but there’s gotta be a reason why the Pinkerton investigators have stopped here. | - Rumor has it some big-wig from the east is coming. Maybe the town |
-| 42 Deadly Feud true but fear it could spread and end up here. | - You’ve heard stories of a deadly feud in a town or county nearby. You don’t know if it’s |
-| 43 The Traveling Theatre Troupe break from it all. But what else will these traveling folk bring? 44 Perfect Conditions - The winds are good, the rains are just right, the sun is shining, and the pests and vermin are nowhere to be seen. It’s great being a farmer when the Lord sends conditions like these! Char- acters running a Farming business get a +1 bonus to their Business roll at the end of the season. 45 | - Entertainment is the salve of a hardworking heart, and it’s good to take a |
-| The Army is Coming Whatever the reason, the army brings money—both an opportunity and a threat to the local town. Char- acters running a Merchant or Trading get a +1 bonus to their Business roll at the end of the season. outfit | - There’s rumors that the army is heading this way, but no one knows for why. |
-| 46 Big Claims big claims cheap to anyone that can pay. Sounds too good to be true... Characters running a Resources get a +1 bonus to their Business roll at the end of the next season. outfit 51 New Preacher in Town - There’s always more space for God in the life of the town, so maybe this new preacher man is a good thing! The town can buy the Church amenity for 3 Settlement Points, but only if they buy it this season. 52 Cattle Drive - There’s rumors of a cattle drive coming this way. Maybe a chance for some work, or an opportunity to take possession of a nice steer or two. Add 1 tally point to either Farming, Mercantile or Natural Riches. | - Rumors abound that this place is onto something big. New folks are in town selling these |
-| 53 Doctors and Apothecaries in Town to have new medicines and remedies to try, if he ain’t no quack. Add 1 tally point to either Law, Civic or Welfare. | - There’s a fella gone to calling himself Doctor, but it’s always good |
-
-| D66 Town Fortunes 54 Unseasonal Rains - The weather is wet. It’s good for the crops but everyone gets sick of the damp, and worries about what all this downpour is doing to the headwaters of the local rivers. Add 1 tally point to either Farming or Natural Riches. |  |
-| --- | --- |
-| 55 Federal Marshal in Town them bad guys, but why does the marshal keep coming by this way? Add 1 tally point to either Law or Welfare. 56 Festivals! - The town has been bustling with talk of the upcoming excitement and debauchery of this season’s festivals. Add 1 tally point to either Mercantile or Civic. 61 Native Trade - Many might distrust the Native Americans but they have some fine things for trade. And when you deal fair with them they are darned fair back to y’all too. Add 1 tally point to both Mercantile and Welfare. | - It’s always good to have a tough man of the law in town keeping a lid on all |
-| 62 Population Boom good for business! The town gains an extra 1D3 Settlement Points. | - It started as a trickle and where they all came from you don’t know, but it’s damn |
-| 63 Booming Market Days in Town everyone up and is good for business. Add 1 tally point to both Civic and Law. | - It’s always good to have a market and festival day in town. It cheers |
-| 64 Nature’s Bounty hunters and the destitute who rely on forage to get by, but not so good for careless travelers. Add 1 tally point to both Farming and Natural Riches. 65 Perfect Weather - The weather’s set to be as good as it gets for the time of year—it’s good to be alive. Add 2 tally points to a random aspect. | - There are more berries, fruits and wild animals than anyone can remember, great for |
-| 66 Jackpot! | - Roll D66 again but the Tens die result is automatically 7. |
-| 71 Pay Dirt! ing about the find come flocking to seek their fortunes. Roll D6: 1–4 : A rich new seam of silver has been found. 5–6 : A panner has come into town with huge nuggets of gold! | - Rumors abound that someone’s made it big and there’s a new claim in the area. People hear- |
-| 72 Town is Growing Like a Weed the most of it! One aspect immediately gains 1 tally point and will automatically gain another tally point during each of the next three seasons. Roll D6: 1–2 : Farming—running a farming outfit here just got easy! The land is fertile and animals thrive. 3–4 : Mercantile—the town’s economy has gone mad, with traders and businesses coming here in droves to make money. 5–6 : Natural Riches—this place is rich in natural resources, and new seams are found almost every day. | - One aspect of the town is thriving so well that people flock to make |
-| 73 By God’s Grace has changed, or the water level in the nearby creek washes away all the dirt of the town. The Welfare aspect immediately gains 2 tally points. 74 Boom Time - People flock to the town for the strength of its trading and businesses. The Mercantile aspect immediately gains 2 tally points. 75 | - Something has shifted that makes this place a safer place to live. Maybe the climate |
-| The Lord’s Fertility success is assured for a hardworking farmer. The Farming aspect immediately gains 2 tally points. 76 | - The farming and grazing land around town is found to be so rich and fertile that |
-| The One in a Million Find be set forever! The Natural Riches aspect immediately gains 2 tally points. | - A prospector has found a huge bounty of natural resources. The town must |
+| 01 | Fool’s Gold - The resources around the town are nowhere near as good as everyone thought. The town’s Natural Riches aspect’s maximum possible rank is reduced by 2. |
+| 02 | Farmer’s Folly - Farming at this place is a fool’s errand, as the land is poor and livestock impossible to keep. The town’s Farming aspect’s maximum possible rank is reduced by 2. |
+| 03 | No Boom, Just Bust - The town is poorly placed, trade passes you by and businesses struggle to grow here. The town’s Mercantile aspect’s maximum possible rank is reduced by 2. |
+| 04 | Danger Town - The town is more dangerous than you thought—disease abounds or the ground swarms with deadly creatures. The town’s Welfare aspect’s maximum possible rank is reduced by 2. |
+| 05 | Terminal Decline - One of the town’s aspects has gone into terminal and fatal decline. The aspect loses 1 tally point immediately and a further 1 tally point during each of the following three seasons. Roll D6: 1–2: Farming—running a Farming outfit here just doesn’t work anymore. There’s better farming land elsewhere and people aren’t buying what little you’re managing to produce. 3–4: Mercantile—the town has been bypassed or the goods traded here just aren’t any good. Business here will come to an end soon enough. 5–6: Natural Riches—this place is tapped out, the mines are empty, the timber is poor, there’s no point flogging a dead horse. |
+| 06 | Terrible Disaster - Roll D6: 1: Farming—the climate has shifted and farming here is becoming impossible. The Farming aspect is immediately reduced by 4 tally points. 2: Mercantile—business is suddenly passing your town by, and trade has dried up. The Mercantile aspect is immediately reduced by 4 tally points. 3: Natural Riches—those mines have tapped out, or the claims have been seen to be false. The Natural Riches aspect is immediately reduced by 4 tally points. 4: Law—the town has been flooded with bad men and troublemakers. The Law aspect is immediately reduced by 4 tally points. 5: Civic—the community spirit has been shattered by strife and feuds. The Civic aspect is immediately reduced by 4 tally points. 6: Welfare—the dangers of the town have become terrible. It may be a landslide or earthquake or a plague, but this place is not safe anymore. The Welfare aspect is immediately reduced by 4 tally points. |
+| 11 | Calamity! - Roll D66 again, but the Tens die result is automatically 0. |
+| 12 | Disease Outbreak - Some terrible disease is sweeping the county. Hope the Lord don’t let it come here. The settlement loses 2 tally points from a random aspect. |
+| 13 | Town Fires! - There have been a couple of close calls, but if we ain’t careful fire could spell disaster! But why are there so many fires right now? Lose 1 tally point from both Mercantile & Welfare. |
+| 14 | Torrential Rains - It’s been raining a lot, and some are talking about forty days and forty nights. Lose 1 tally point from both Farming & Natural Riches. |
+| 15 | Lawlessness in Town - It seems to be getting worse—more and more drunken cowboys and outlaws are making the town a dangerous place to be. Lose 1 tally point from both Law & Civic. |
+| 16 | Deep Freeze (Winter or Spring) / Drought (Summer or Autumn) - Will this terrible winter ever end? / It looks set to be hot as hell. If it gets bad nothing will grow and the animals, and then the people, will die of thirst. The town loses 1D3 Settlement Points to a minimum of 0. |
+| 21 | Terrible Storms - The weather is angry, and the old-timers say it’s set to get worse. Lose 1 tally point from either Mercantile or Welfare. |
+| 22 | Insect Infestations - From insect swarms eating the fields, to midges and mites spoiling the crops in the barns, to roaches spreading disease and them poisonous spiders—it’s almost a biblical disaster. The town cannot start any amenities this season. |
+| 23 | Wolves - Starving wolf packs have been roaming nearby, attacking livestock and bothering people while they work. Lose 1 tally point from either Farming or Natural Riches. |
+| 24 | Outlaws Abound - There are outlaws roaming the land, trying to survive. Maybe a famous gang is rumored to have entered this here territory. Lose 1 tally point from either Law or Civic. |
+| | 25 | Wildfires - Wildfires have been breaking out. Let’s hope the weather keeps them in check as these can threaten the whole community. Lose 1 tally point from either Farming, Natural Riches or Welfare. |
+| 26 | Religious Trouble - There are rumors of religious intolerance breaking out into violence, but there’s been no sign of it in the town—yet. Lose 1 tally point from either Law, Civic or Mercantile. |
+| 31 | Vermin Infestation - They have been getting worse all over the town, and you doubt the ratters can cope. The place could be overrun and if it’s not dealt with soon disease will start to spread. Characters running a Merchant or Trading outfit suffer a −1 penalty to their Business roll at the end of the season. |
+| 32 | Cattle Rustlers - Darned outlaws turned rustlers, driving stolen herds through plowed fields and crops. Characters running a Farming business suffer a −1 penalty to their Business roll at the end of the season. |
+| 33 | Border Disputes - You hear stories of trouble over the state or territorial border, with your neighbors wanting to draw the line around your fine natural riches. It ain’t come to blows yet, but who knows. Characters running a Resources outfit suffer a −1 penalty to their Business roll at the end of the season. |
+| 34 | Native Anger - A local nation has been rumored to be gathering, maybe driven by cold and hunger, out to raid some goods, or riding against the cavalry out of fear or vengeance. |
+| 35 | An Important Official is coming - Rumor has it some big-wig from the east is coming. Maybe the town should get busy making itself look good for the visit. |
+| 36 | Homestead Claims - There’s been a lot of friction, and some say the local Homestead Claims officials are corrupt. It seems like trouble may be brewing. |
+| 41 | Pinkertons in Town - They ain’t causing no trouble, and have money to spend, but there’s gotta be a reason why the Pinkerton investigators have stopped here. |
+| 42 | Deadly Feud - You’ve heard stories of a deadly feud in a town or county nearby. You don’t know if it’s true but fear it could spread and end up here. |
+| 43 | The Traveling Theatre Troupe - Entertainment is the salve of a hardworking heart, and it’s good to take a break from it all. But what else will these traveling folk bring? |
+| 44 | Perfect Conditions - The winds are good, the rains are just right, the sun is shining, and the pests and vermin are nowhere to be seen. It’s great being a farmer when the Lord sends conditions like these! Characters running a Farming business get a +1 bonus to their Business roll at the end of the season. |
+| | 45 | The Army is Coming - There’s rumors that the army is heading this way, but no one knows for why. Whatever the reason, the army brings money—both an opportunity and a threat to the local town. Characters running a Merchant or Trading outfit get a +1 bonus to their Business roll at the end of the season. |
+| 46 | Big Claims - Rumors abound that this place is onto something big. New folks are in town selling these big claims cheap to anyone that can pay. Sounds too good to be true... Characters running a Resources outfit get a +1 bonus to their Business roll at the end of the next season. |
+| 51 | New Preacher in Town - There’s always more space for God in the life of the town, so maybe this new preacher man is a good thing! The town can buy the Church amenity for 3 Settlement Points, but only if they buy it this season. |
+| 52 | Cattle Drive - There’s rumors of a cattle drive coming this way. Maybe a chance for some work, or an opportunity to take possession of a nice steer or two. Add 1 tally point to either Farming, Mercantile or Natural Riches. |
+| 53 | Doctors and Apothecaries in Town - There’s a fella gone to calling himself Doctor, but it’s always good to have new medicines and remedies to try, if he ain’t no quack. Add 1 tally point to either Law, Civic or Welfare. |
+| 54 | Unseasonal Rains - The weather is wet. It’s good for the crops but everyone gets sick of the damp, and worries about what all this downpour is doing to the headwaters of the local rivers. Add 1 tally point to either Farming or Natural Riches. |
+| 55 | Federal Marshal in Town - It’s always good to have a tough man of the law in town keeping a lid on all them bad guys, but why does the marshal keep coming by this way? Add 1 tally point to either Law or Welfare. |
+| 56 | Festivals! - The town has been bustling with talk of the upcoming excitement and debauchery of this season’s festivals. Add 1 tally point to either Mercantile or Civic. |
+| 61 | Native Trade - Many might distrust the Native Americans but they have some fine things for trade. And when you deal fair with them they are darned fair back to y’all too. Add 1 tally point to both Mercantile and Welfare. |
+| 62 | Population Boom - It started as a trickle and where they all came from you don’t know, but it’s damn good for business! The town gains an extra 1D3 Settlement Points. |
+| 63 | Booming Market Days in Town - It’s always good to have a market and festival day in town. It cheers everyone up and is good for business. Add 1 tally point to both Civic and Law. |
+| 64 | Nature’s Bounty - There are more berries, fruits and wild animals than anyone can remember, great for hunters and the destitute who rely on forage to get by, but not so good for careless travelers. Add 1 tally point to both Farming and Natural Riches. |
+| 65 | Perfect Weather - The weather’s set to be as good as it gets for the time of year—it’s good to be alive. Add 2 tally points to a random aspect. |
+| 66 | Jackpot! - Roll D66 again but the Tens die result is automatically 7. |
+| 71 | Pay Dirt! - Rumors abound that someone’s made it big and there’s a new claim in the area. People hearing about the find come flocking to seek their fortunes. Roll D6: 1–4: A rich new seam of silver has been found. 5–6: A panner has come into town with huge nuggets of gold! |
+| 72 | Town is Growing Like a Weed - One aspect of the town is thriving so well that people flock to make the most of it! One aspect immediately gains 1 tally point and will automatically gain another tally point during each of the next three seasons. Roll D6: 1–2: Farming—running a farming outfit here just got easy! The land is fertile and animals thrive. 3–4: Mercantile—the town’s economy has gone mad, with traders and businesses coming here in droves to make money. 5–6: Natural Riches—this place is rich in natural resources, and new seams are found almost every day. |
+| 73 | By God’s Grace - Something has shifted that makes this place a safer place to live. Maybe the climate has changed, or the water level in the nearby creek washes away all the dirt of the town. The Welfare aspect immediately gains 2 tally points. |
+| 74 | Boom Time - People flock to the town for the strength of its trading and businesses. The Mercantile aspect immediately gains 2 tally points. |
+| 75 | The Lord’s Fertility - The farming and grazing land around town is found to be so rich and fertile that success is assured for a hardworking farmer. The Farming aspect immediately gains 2 tally points. |
+| 76 | The One in a Million Find - A prospector has found a huge bounty of natural resources. The town must be set forever! The Natural Riches aspect immediately gains 2 tally points. |
 
 ### Example Town Tracker
 

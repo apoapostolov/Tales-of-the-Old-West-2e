@@ -1,6 +1,6 @@
 ## Chapter 2 - Your Player Character
 
-> *“IT’S NEVER TOO LATE TO BECOME WHO YOU WANT TO BE. I HOPE YOU LIVE A LIFE THAT YOU’RE PROUD OF, AND IF YOU FIND THAT YOU’RE NOT, I HOPE YOU HAVE THE STRENGTH TO START OVER.”*
+> _“IT’S NEVER TOO LATE TO BECOME WHO YOU WANT TO BE. I HOPE YOU LIVE A LIFE THAT YOU’RE PROUD OF, AND IF YOU FIND THAT YOU’RE NOT, I HOPE YOU HAVE THE STRENGTH TO START OVER.”_
 
 > — F. SCOTT FITZGERALD
 
@@ -308,11 +308,11 @@ Each archetype comes with a base level of attributes and abilities—make a note
 
 **Player Character Age Table** - Choose your age:
 
-|**Age**|**Attributepoints**|**Ability points**|**Talents**|
-|---|---|---|---|
-|Greenhorn 15-20|6|2|1|
-|Tested 21-40|5|4|2|
-|Old-timer 41+|4|6|3|
+| **Age**         | **Attribute points** | **Ability points** | **Talents** |
+| --------------- | -------------------- | ------------------ | ----------- |
+| Greenhorn 15-20 | 6                    | 2                  | 1           |
+| Tested 21-40    | 5                    | 4                  | 2           |
+| Old-timer 41+   | 4                    | 6                  | 3           |
 
 Add these additional points to the base scores for your attributes and abilities as you see fit, with these caveats: no more than two extra attribute points can be applied to any one attribute; and you can assign multiple points to a single ability, but no ability score can be higher than 3 at character creation.
 
@@ -342,12 +342,13 @@ As camps become communities, and communities become towns, they attract a differ
 
 **Attributes:** Grit 2, Quick 2, Cunning 2, Docity 3
 
-| Grit | | Quick | | Cunning | | Docity | |
-|---|---|---|---|---|---|---|---|
-| Fightin' | — | Light-Fingered | — | Animal Handlin' | — | Booklearnin' | 2 |
-| Labor | — | Move | — | Hawkeye | — | Doctorin' | 1 |
-| Presence | 1 | Operate | 1 | Insight | 2 | Makin' | — |
-| Resilience | — | Shootin' | — | Nature | — | Performin' | 1 |
+| Grit       |     | Quick          |     | Cunning         |     | Docity       |     |
+| ---------- | --- | -------------- | --- | --------------- | --- | ------------ | --- |
+| Fightin'   | —   | Light-Fingered | —   | Animal Handlin' | —   | Booklearnin' | 2   |
+| Labor      | —   | Move           | —   | Hawkeye         | —   | Doctorin'    | 1   |
+| Presence   | 1   | Operate        | 1   | Insight         | 2   | Makin'       | —   |
+| Resilience | —   | Shootin'       | —   | Nature          | —   | Performin'   | 1   |
+
 Choose between one and three of these talents, depending on your age:
 
 - **calming manner** . You reassure troubled minds just with the calm in your voice. With a successful PRESENCE test you can calm those around you, and even yourself, healing 1 point of Vexes or Doubts for every success. This talent also allows you to help a DOCTORIN’ roll without having that ability.
@@ -379,12 +380,13 @@ Not all criminals were outlaws and shootists ambushing travelers and trains—th
 
 **Attributes:** Grit 2, Quick 2, Cunning 3, Docity 2
 
-| Grit | | Quick | | Cunning | | Docity | |
-|---|---|---|---|---|---|---|---|
-| Fightin' | — | Light-Fingered | 2 | Animal Handlin' | — | Booklearnin' | — |
-| Labor | — | Move | — | Hawkeye | — | Doctorin' | — |
-| Presence | — | Operate | — | Insight | 2 | Makin' | — |
-| Resilience | 1 | Shootin' | 1 | Nature | — | Performin' | 2 |
+| Grit       |     | Quick          |     | Cunning         |     | Docity       |     |
+| ---------- | --- | -------------- | --- | --------------- | --- | ------------ | --- |
+| Fightin'   | —   | Light-Fingered | 2   | Animal Handlin' | —   | Booklearnin' | —   |
+| Labor      | —   | Move           | —   | Hawkeye         | —   | Doctorin'    | —   |
+| Presence   | —   | Operate        | —   | Insight         | 2   | Makin'       | —   |
+| Resilience | 1   | Shootin'       | 1   | Nature          | —   | Performin'   | 2   |
+
 Choose between one and three of these talents, depending on your age:
 
 - **swindler** . You are a cheat and a swindler. You gain a +1 bonus for any tests when scamming or cheating someone. This includes cheating while gambling.
@@ -417,12 +419,13 @@ If you work the land for five years and build a house with glass in the windows,
 
 **Attributes:** Grit 3, Quick 2, Cunning 2, Docity 2
 
-| Grit | | Quick | | Cunning | | Docity | |
-|---|---|---|---|---|---|---|---|
-| Fightin' | — | Light-Fingered | — | Animal Handlin' | 2 | Booklearnin' | — |
-| Labor | 2 | Move | — | Hawkeye | — | Doctorin' | 1 |
-| Presence | — | Operate | — | Insight | — | Makin' | — |
-| Resilience | — | Shootin' | 1 | Nature | 2 | Performin' | — |
+| Grit       |     | Quick          |     | Cunning         |     | Docity       |     |
+| ---------- | --- | -------------- | --- | --------------- | --- | ------------ | --- |
+| Fightin'   | —   | Light-Fingered | —   | Animal Handlin' | 2   | Booklearnin' | —   |
+| Labor      | 2   | Move           | —   | Hawkeye         | —   | Doctorin'    | 1   |
+| Presence   | —   | Operate        | —   | Insight         | —   | Makin'       | —   |
+| Resilience | —   | Shootin'       | 1   | Nature          | 2   | Performin'   | —   |
+
 Choose between one and three of these talents, depending on your age:
 
 - **companion** . Your horse is your closest companion (when it dies you lose this talent, but can take it again at half price when you get a new horse). Your horse gains the LOYAL quality and will stand by your side and defend you if you’re Broken (this can take your horse’s total qualities over the normal maximum).
@@ -455,12 +458,13 @@ America is built upon the strength of your back and the sweat of your brow. You 
 
 **Attributes:** Grit 3, Quick 2, Cunning 2, Docity 2
 
-| Grit | | Quick | | Cunning | | Docity | |
-|---|---|---|---|---|---|---|---|
-| Fightin' | 1 | Light-Fingered | — | Animal Handlin' | — | Booklearnin' | — |
-| Labor | 2 | Move | — | Hawkeye | — | Doctorin' | — |
-| Presence | — | Operate | 2 | Insight | — | Makin' | 2 |
-| Resilience | 1 | Shootin' | — | Nature | — | Performin' | — |
+| Grit       |     | Quick          |     | Cunning         |     | Docity       |     |
+| ---------- | --- | -------------- | --- | --------------- | --- | ------------ | --- |
+| Fightin'   | 1   | Light-Fingered | —   | Animal Handlin' | —   | Booklearnin' | —   |
+| Labor      | 2   | Move           | —   | Hawkeye         | —   | Doctorin'    | —   |
+| Presence   | —   | Operate        | 2   | Insight         | —   | Makin'       | 2   |
+| Resilience | 1   | Shootin'       | —   | Nature          | —   | Performin'   | —   |
+
 Choose between one and three of these talents, depending on your age:
 
 - **miner 49er** . You are experienced in handling dangerous explosives. You can recognize sweating dynamite and other danger signs. Treat Trouble on dynamite ability rolls as normal (unlike the rule on page 83 the Trouble is not activated unless the roll is pushed).
@@ -493,12 +497,13 @@ There’s a thin line between outlaw and lawman. Whose law are you enforcing? Di
 
 **Attributes:** Grit 3, Quick 2, Cunning 2, Docity 2
 
-| Grit | | Quick | | Cunning | | Docity | |
-|---|---|---|---|---|---|---|---|
-| Fightin' | 2 | Light-Fingered | — | Animal Handlin' | 1 | Booklearnin' | — |
-| Labor | — | Move | 1 | Hawkeye | — | Doctorin' | — |
-| Presence | 2 | Operate | — | Insight | — | Makin' | — |
-| Resilience | — | Shootin' | 2 | Nature | — | Performin' | — |
+| Grit       |     | Quick          |     | Cunning         |     | Docity       |     |
+| ---------- | --- | -------------- | --- | --------------- | --- | ------------ | --- |
+| Fightin'   | 2   | Light-Fingered | —   | Animal Handlin' | 1   | Booklearnin' | —   |
+| Labor      | —   | Move           | 1   | Hawkeye         | —   | Doctorin'    | —   |
+| Presence   | 2   | Operate        | —   | Insight         | —   | Makin'       | —   |
+| Resilience | —   | Shootin'       | 2   | Nature          | —   | Performin'   | —   |
+
 Choose between one and three of these talents, depending on your age:
 
 - **authority** . You have the weight of authority on your side, whether from the law, the big man in town or just your own personality. You gain a +1 bonus to PRESENCE tests.
@@ -510,15 +515,15 @@ Choose between one and three of these talents, depending on your age:
 
 - You want nothing more than a few acres of land, a family, and a life of peace.
 - You will not rest until every lawbreaker has
-   - been driven from your town.
+  - been driven from your town.
 - You came west to escape the law back east, so it’s ironic that all you want is to enforce the law here.
 
 **Faith** - choose from the following or come up with a core belief for your character:
 
 - As a Quaker I am uplifted by my Society of
-   - Friends.
+  - Friends.
 - The wide open plain and the river give me
-   - everything I need.
+  - everything I need.
 - I live by the avenging hand of St Michael, and the iron of my gun.
 
 **Gear** - choose two of the starting items below. You also get 2D6 × $10 in cash:
@@ -534,12 +539,13 @@ The west can be a lawless place where it is easy to make your living taking from
 
 **Attributes:** Grit 2, Quick 3, Cunning 2, Docity 2
 
-| Grit | | Quick | | Cunning | | Docity | |
-|---|---|---|---|---|---|---|---|
-| Fightin' | 2 | Light-Fingered | — | Animal Handlin' | 2 | Booklearnin' | — |
-| Labor | — | Move | 1 | Hawkeye | — | Doctorin' | — |
-| Presence | — | Operate | 1 | Insight | — | Makin' | — |
-| Resilience | — | Shootin' | 2 | Nature | — | Performin' | — |
+| Grit       |     | Quick          |     | Cunning         |     | Docity       |     |
+| ---------- | --- | -------------- | --- | --------------- | --- | ------------ | --- |
+| Fightin'   | 2   | Light-Fingered | —   | Animal Handlin' | 2   | Booklearnin' | —   |
+| Labor      | —   | Move           | 1   | Hawkeye         | —   | Doctorin'    | —   |
+| Presence   | —   | Operate        | 1   | Insight         | —   | Makin'       | —   |
+| Resilience | —   | Shootin'       | 2   | Nature          | —   | Performin'   | —   |
+
 Choose between one and three of these talents, depending on your age:
 
 - **cold blooded** . You are completely callous and can kill defenseless enemies without so much as a second’s hesitation. You can perform a coup de grace without needing to make a Docity test, but you still lose a point of Docity.
@@ -572,12 +578,13 @@ You can see something others can’t—the riches in the ground. Well, you can�
 
 **Attributes:** Grit 2, Quick 2, Cunning 3, Docity 2
 
-| Grit | | Quick | | Cunning | | Docity | |
-|---|---|---|---|---|---|---|---|
-| Fightin' | — | Light-Fingered | — | Animal Handlin' | — | Booklearnin' | 1 |
-| Labor | 2 | Move | — | Hawkeye | — | Doctorin' | — |
-| Presence | — | Operate | 1 | Insight | — | Makin' | 2 |
-| Resilience | — | Shootin' | — | Nature | 2 | Performin' | — |
+| Grit       |     | Quick          |     | Cunning         |     | Docity       |     |
+| ---------- | --- | -------------- | --- | --------------- | --- | ------------ | --- |
+| Fightin'   | —   | Light-Fingered | —   | Animal Handlin' | —   | Booklearnin' | 1   |
+| Labor      | 2   | Move           | —   | Hawkeye         | —   | Doctorin'    | —   |
+| Presence   | —   | Operate        | 1   | Insight         | —   | Makin'       | 2   |
+| Resilience | —   | Shootin'       | —   | Nature          | 2   | Performin'   | —   |
+
 Choose between one and three of these talents, depending on your age:
 
 - **brawler** . You don’t need weapons to bring down your enemies. All your unarmed attacks and blocks have a +1 bonus.
@@ -610,12 +617,13 @@ You have found a life in the saddle. You might be working in a stockyard or as a
 
 **Attributes:** Grit 2, Quick 3, Cunning 2, Docity 2
 
-| Grit | | Quick | | Cunning | | Docity | |
-|---|---|---|---|---|---|---|---|
-| Fightin' | 1 | Light-Fingered | 2 | Animal Handlin' | 2 | Booklearnin' | — |
-| Labor | 2 | Move | — | Hawkeye | — | Doctorin' | — |
-| Presence | — | Operate | — | Insight | — | Makin' | — |
-| Resilience | — | Shootin' | 1 | Nature | — | Performin' | — |
+| Grit       |     | Quick          |     | Cunning         |     | Docity       |     |
+| ---------- | --- | -------------- | --- | --------------- | --- | ------------ | --- |
+| Fightin'   | 1   | Light-Fingered | 2   | Animal Handlin' | 2   | Booklearnin' | —   |
+| Labor      | 2   | Move           | —   | Hawkeye         | —   | Doctorin'    | —   |
+| Presence   | —   | Operate        | —   | Insight         | —   | Makin'       | —   |
+| Resilience | —   | Shootin'       | 1   | Nature          | —   | Performin'   | —   |
+
 Choose between one and three of these talents, depending on your age:
 
 - **born in the saddle** . Riding comes as naturally to you as breathing does to the rest of them. You get +1 bonus to all ANIMAL HANDLING rolls that relate to horses.
@@ -627,7 +635,7 @@ Choose between one and three of these talents, depending on your age:
 
 - Brought up in the saddle, you aim to prove a woman is just as capable as any man, if not more.
 - For generations your people have lived and worked this land—you must protect it from
-   - the settlers and pass it on to future generations.
+  - the settlers and pass it on to future generations.
 - Your dreams are only as big as the next town, where you aim to get drunk, win at cards, and make love.
 
 **Faith** - choose from the following or come up with a core belief for your character:
@@ -649,12 +657,13 @@ You love the big open sky and can tolerate the weather that it throws at you bet
 
 **Attributes:** Grit 2, Quick 2, Cunning 3, Docity 2
 
-| Grit | | Quick | | Cunning | | Docity | |
-|---|---|---|---|---|---|---|---|
-| Fightin' | — | Light-Fingered | 1 | Animal Handlin' | — | Booklearnin' | — |
-| Labor | — | Move | — | Hawkeye | 2 | Doctorin' | — |
-| Presence | — | Operate | — | Insight | — | Makin' | — |
-| Resilience | 2 | Shootin' | 1 | Nature | 2 | Performin' | — |
+| Grit       |     | Quick          |     | Cunning         |     | Docity       |     |
+| ---------- | --- | -------------- | --- | --------------- | --- | ------------ | --- |
+| Fightin'   | —   | Light-Fingered | 1   | Animal Handlin' | —   | Booklearnin' | —   |
+| Labor      | —   | Move           | —   | Hawkeye         | 2   | Doctorin'    | —   |
+| Presence   | —   | Operate        | —   | Insight         | —   | Makin'       | —   |
+| Resilience | 2   | Shootin'       | 1   | Nature          | 2   | Performin'   | —   |
+
 Choose between one and three of these talents, depending on your age:
 
 - **light-footed** . You walk like the spirits, and leave no trail behind you. You gain +1 bonus to your NATURE roll when you’re trying to avoid someone tracking you.
@@ -675,10 +684,10 @@ Choose between one and three of these talents, depending on your age:
 
 **Gear** - choose two of the starting items below. You also get 2D6 × $1 in cash:
 
-   - Camping Gear (Weight 2): bedrolls, canvas for shelter, a tinder box and pan for frying. Gives a +1 bonus to NATURE rolls when making camp for the night.
-   - Winchester 1868 and 2D6 rounds.
-   - Pinto horse and tack.
-   - Knife.
+- Camping Gear (Weight 2): bedrolls, canvas for shelter, a tinder box and pan for frying. Gives a +1 bonus to NATURE rolls when making camp for the night.
+- Winchester 1868 and 2D6 rounds.
+- Pinto horse and tack.
+- Knife.
 - You dream of never having to speak to another person again.
 
 ### Trader
@@ -687,12 +696,13 @@ You are the engine that drives the westward expansion. There is money to be made
 
 **Attributes:** Grit 2, Quick 2, Cunning 3, Docity 2
 
-| Grit | | Quick | | Cunning | | Docity | |
-|---|---|---|---|---|---|---|---|
-| Fightin' | — | Light-Fingered | — | Animal Handlin' | — | Booklearnin' | 1 |
-| Labor | 1 | Move | — | Hawkeye | — | Doctorin' | — |
-| Presence | — | Operate | — | Insight | 2 | Makin' | 2 |
-| Resilience | — | Shootin' | — | Nature | — | Performin' | 2 |
+| Grit       |     | Quick          |     | Cunning         |     | Docity       |     |
+| ---------- | --- | -------------- | --- | --------------- | --- | ------------ | --- |
+| Fightin'   | —   | Light-Fingered | —   | Animal Handlin' | —   | Booklearnin' | 1   |
+| Labor      | 1   | Move           | —   | Hawkeye         | —   | Doctorin'    | —   |
+| Presence   | —   | Operate        | —   | Insight         | 2   | Makin'       | 2   |
+| Resilience | —   | Shootin'       | —   | Nature          | —   | Performin'   | 2   |
+
 Choose between one and three of these talents, depending on your age:
 
 - **business minded** . Business is in your blood. You have great business acumen, and through your business strategy, good salesmanship or bad-mouthing the competition your business always does well. Your modifier for Competition is always +1 better than it should be, up to a maximum of +3.

@@ -336,21 +336,19 @@ At the end of this story your character should embark upon their tale with the f
 
 The Old West was a melting pot of different people from many places and diverse cultures and heritage. Roll 2D6 on the table below to see where you were born, and into what heritage and culture. The table offers suggestions for your heritage for each given region, but these are not exhaustive—don’t feel limited by the listed results if you have a better idea.
 
-| Roll Region Heritage |  |
-| --- | --- |
-| 2 The Ottoman Empire, | Turkey, the Ottoman Empire including Serbia, Wallachia and Moldavia, the |
-| the Middle East and North Africa Likely to be of Native or colonial heritage (colonial powers in the region includ- ed Britain, France, Turkey and Spain). 3 British North America Provinces of Canada (including Quebec), New Brunswick, Nova Scotia, Prince Edward Island, Rupert’s Land. You will likely be of British, French or Native American heritage. | Levant, Persia, Arabia, Syria, Egypt, Libya, Morocco, Tunisia, and Algeria. |
-| 4 Continental Northwest | British Columbia, North Western Territory, or Dakota, Idaho, Wyoming, Mon- |
-| and Northern Great Plains heritage. | tana, and Washington territories. Can be of European, Canadian, US, or Native |
-| 5 The Great lakes and | Including Michigan, Wisconsin, Ohio, Indiana, and Illinois. Likely to be of |
-| Midwest, including “Indian Territory” 6 Europe United Kingdom, Ireland, the Netherlands, Germany, Poland, France, Italy, Spain, Portugal, Greece, Norway, Denmark (including Iceland and Greenland), Sweden, Finland, and the Russian Empire. | European heritage or Native. |
-
-7 The Northeast Including New England, New York, New Jersey, and Pennsylvania. Can be of European, African or Native heritage.
-8 Southeast Florida, Louisiana, Virginia, the Carolinas, Kentucky, Tennessee, Georgia, Ala- bama, Mississippi. Likely to be of European or African descent, or from Native American remnant communities.
-9 The South, Southern  Including Texas, New Mexico, Arizona, Colorado and Kansas. Likely to be of Great Plains,  Mexico  US, Mexican or Native heritage, or you may have traveled through Mexico from and South America further south.
-10 West Coast and Great  California, Oregon, Nevada and Utah. Likely to be of European, American, Basin Mexican, Chinese or Native heritage.
-11 East Asia and the Pacific Most likely Asian heritage, for example Chinese, Korean, and Japanese, but  also possibly , Australian, or New Zealander.
-Pacific islander 12 India, and Equatorial  West Africa, Nigeria, Niger, Angola, German East Africa, Mozambique, and Southern Africa Rhodesia, or South African Republic. Likely to be of Native or colonial heritage (colonial powers including Britain, Portugal and Germany).
+| Roll | Region | Heritage |
+| --- | --- | --- |
+| 2 | The Ottoman Empire, the Middle East and North Africa | Turkey, the Ottoman Empire including Serbia, Wallachia and Moldavia, the Levant, Persia, Arabia, Syria, Egypt, Libya, Morocco, Tunisia, and Algeria. Likely to be of Native or colonial heritage (colonial powers in the region included Britain, France, Turkey and Spain). |
+| 3 | British North America | Provinces of Canada (including Quebec), New Brunswick, Nova Scotia, Prince Edward Island, Rupert’s Land. You will likely be of British, French or Native American heritage. |
+| 4 | Continental Northwest and Northern Great Plains | British Columbia, North Western Territory, or Dakota, Idaho, Wyoming, Montana, and Washington territories. Can be of European, Canadian, US, or Native heritage. |
+| 5 | The Great Lakes and Midwest, including “Indian Territory” | Including Michigan, Wisconsin, Ohio, Indiana, and Illinois. Likely to be of European heritage or Native. |
+| 6 | Europe | United Kingdom, Ireland, the Netherlands, Germany, Poland, France, Italy, Spain, Portugal, Greece, Norway, Denmark (including Iceland and Greenland), Sweden, Finland, and the Russian Empire. |
+| 7 | The Northeast | Including New England, New York, New Jersey, and Pennsylvania. Can be of European, African or Native heritage. |
+| 8 | Southeast | Florida, Louisiana, Virginia, the Carolinas, Kentucky, Tennessee, Georgia, Alabama, Mississippi. Likely to be of European or African descent, or from Native American remnant communities. |
+| 9 | The South, Southern Great Plains, Mexico and South America | Including Texas, New Mexico, Arizona, Colorado and Kansas. Likely to be of US, Mexican or Native heritage, or you may have traveled through Mexico from further south. |
+| 10 | West Coast and Great Basin | California, Oregon, Nevada and Utah. Likely to be of European, American, Mexican, Chinese or Native heritage. |
+| 11 | East Asia and the Pacific | Most likely Asian heritage, for example Chinese, Korean, and Japanese, but also possibly Pacific islander, Australian, or New Zealander. |
+| 12 | India, and Equatorial and Southern Africa | West Africa, Nigeria, Niger, Angola, German East Africa, Mozambique, Rhodesia, or South African Republic. Likely to be of Native or colonial heritage (colonial powers including Britain, Portugal and Germany). |
 
 ### What Was Your Upbringing?
 
@@ -570,17 +568,19 @@ Before you embark on your life in the Old West, roll to discover what family con
 
 Roll 2D6 and total them, or if you have a better idea for the story of your family, make a note of that.
 
-2D6 Family Background 2 you. Everyone you loved is long lost, dead, or far, far away.
-There is no one left but 3 Your family was big until the curse. Death, madness and foolishness reduced them all to ruins, and you had no choice but to leave those who still survived behind.
-4 You have lived alone as long as you can remember. Your family lies somewhere in your past and you don’t really miss them.
-5 Your family ain’t big—just you and a few scattered relatives. You don’t always see eye to eye but for the most part you get on. Blood is blood, after all.
-6 There’s only you and one surviving relative left. Why you stick together neither of you knows, but everyone else is gone and you only have each other, even if you can’t stand them (you gain a compadre).
-7 You come from a huge extended family. But they hate you and cast you out. They may be local or far away, but they will chase you away if they ever see you again. Except for one sibling.
-8 Your family is small but your folks are alive and maybe there’s a younger sibling who lives with them. You don’t always get on but that’s family, ain’t it?
-9 You have a decent family, and feel part of a clan. One of your parents is still alive and your siblings have families of their own.
-10 Your family is large but since Grandma died your Pa and your uncles have been at each other’s throats over who heads the family.
-11 Your family is tiny—just you and one parent who has come to live with you (gain a compadre).
-12 Your folks are dead and you’re the eldest. The others look up to you to lead the family: maybe you want to, maybe you don’t (you gain 1D2 compadres).
+| 2D6 | Family Background |
+| --- | --- |
+| 2 | There is no one left but you. Everyone you loved is long lost, dead, or far, far away. |
+| 3 | Your family was big until the curse. Death, madness and foolishness reduced them all to ruins, and you had no choice but to leave those who still survived behind. |
+| 4 | You have lived alone as long as you can remember. Your family lies somewhere in your past and you don’t really miss them. |
+| 5 | Your family ain’t big—just you and a few scattered relatives. You don’t always see eye to eye but for the most part you get on. Blood is blood, after all. |
+| 6 | There’s only you and one surviving relative left. Why you stick together neither of you knows, but everyone else is gone and you only have each other, even if you can’t stand them (you gain a compadre). |
+| 7 | You come from a huge extended family. But they hate you and cast you out. They may be local or far away, but they will chase you away if they ever see you again. Except for one sibling. |
+| 8 | Your family is small but your folks are alive and maybe there’s a younger sibling who lives with them. You don’t always get on but that’s family, ain’t it? |
+| 9 | You have a decent family, and feel part of a clan. One of your parents is still alive and your siblings have families of their own. |
+| 10 | Your family is large but since Grandma died your Pa and your uncles have been at each other’s throats over who heads the family. |
+| 11 | Your family is tiny—just you and one parent who has come to live with you (gain a compadre). |
+| 12 | Your folks are dead and you’re the eldest. The others look up to you to lead the family: maybe you want to, maybe you don’t (you gain 1D2 compadres). |
 
 ### Finding a Living
 
@@ -621,13 +621,16 @@ Outlaws might be fugitives from a crime they didn’t commit, or unfortunates wh
 
 Roll D6 on the table below to see how life beyond the law turns out. Modify the result by +1 if you have SHOOTIN’ at level 1 or more.
 
-LIVING OUTCOME TABLE - OUTLAW Roll Formative event Abilities Talents Gear 1 You shoot a bank clerk in the back  SHOOTIN’ 1 cold blooded  or  Colt 45 Peacemaker & when you don’t need to. You are not  MOVE 1  fast shooter 2D6 rounds only a killer, but a coward. Thrown  3D6 × $1 out of the gang, your next roll on the  +1 Fame Living -2 Reputation s table has a -1 modifier.
-2 You kill a man in a fair fight, you  FIGHTIN’ 1  brawler  or   Colt 1860 New Army have the respect of your peers. SHOOTIN’ 1 pugilist & 3D6 rounds 4D6 x $1 +1 Fame
--1 Reputation
-3 You fight the gang leader and take  FIGHTIN’ 1 warcry  or   Colt Walker pistol & him down, you are the leader now. PRESENCE 1 authority 2D6 rounds 2D6 x $1 +2 compadres +1 Fame +1 Reputation 4 PRESENCE 1  lockpicker  or  Pair of Smith and You rob the union train. They will write up your short life in a dime  ANIMAL   sneak Wesson Model 3 pis- novel. HANDLIN’ 1 tols & 4D6 rounds 3D6 x $25 + 1 compadre +1 Fame
--1 Reputation
-5 Set a thief to catch a thief. A law- HAWKEYE 1 two gun  or  A pair of Cooper pis- man from the nearby town turns you  INSIGHT 1 light-footed tols & 3D6 rounds against your gang, and you betray  American Quarter them. If you choose to progress to  Horse another Living, make your next roll  2D6 × $1 on the Ranch Hand Living Out- come Table.
-6+ After shooting down a rival who was  PRESENCE 1  quick draw  or  Sheriff badge terrorizing a local town , the towns- PERFORMIN’ 1 lightning fast Manhattan Navy & folk elect you as their sheriff. Make  2D6 rounds your next Living roll on the Trader  Hartford Coach Gun or Gentlefolk Table. & D6 Cartridges American Saddlebred Horse 3D6 × $1
+**LIVING OUTCOME TABLE - OUTLAW**
+
+| Roll | Formative event | Abilities | Talents | Gear |
+| --- | --- | --- | --- | --- |
+| 1 | You shoot a bank clerk in the back when you don’t need to. You are not only a killer, but a coward. Thrown out of the gang, your next roll on the Livings table has a −1 modifier. +1 Fame, −2 Reputation | SHOOTIN’ 1, MOVE 1 | cold blooded or fast shooter | Colt 45 Peacemaker & 2D6 rounds, 3D6 × $1 |
+| 2 | You kill a man in a fair fight, you have the respect of your peers. +1 Fame, −1 Reputation | FIGHTIN’ 1, SHOOTIN’ 1 | brawler or pugilist | Colt 1860 New Army & 3D6 rounds, 4D6 × $1 |
+| 3 | You fight the gang leader and take him down, you are the leader now. +2 compadres, +1 Fame, +1 Reputation | FIGHTIN’ 1, PRESENCE 1 | warcry or authority | Colt Walker pistol & 2D6 rounds, 2D6 × $1 |
+| 4 | You rob the union train. They will write up your short life in a dime novel. +1 compadre, +1 Fame, −1 Reputation | PRESENCE 1, ANIMAL HANDLIN’ 1 | lockpicker or sneak | Pair of Smith and Wesson Model 3 pistols & 4D6 rounds, 3D6 × $25 |
+| 5 | Set a thief to catch a thief. A lawman from the nearby town turns you against your gang, and you betray them. If you choose to progress to another Living, make your next roll on the Ranch Hand Living Outcome Table. | HAWKEYE 1, INSIGHT 1 | two gun or light-footed | A pair of Cooper pistols & 3D6 rounds, American Quarter Horse, 2D6 × $1 |
+| 6+ | After shooting down a rival who was terrorizing a local town, the townsfolk elect you as their sheriff. Make your next Living roll on the Trader or Gentlefolk Table. | PRESENCE 1, PERFORMIN’ 1 | quick draw or lightning fast | Sheriff badge, Manhattan Navy & 2D6 rounds, Hartford Coach Gun & D6 Cartridges, American Saddlebred Horse, 3D6 × $1 |
 
 ### Appendix: Your Tale Begins
 
@@ -648,28 +651,17 @@ You don’t like people much, and prefer to find a living out in the big country
 
 Roll D6 on the table below, modifying the result by +1 if your NATURE ability is 1 or more.
 
-### LIVING OUTCOME TABLE - FRONTIER FOLK
+**LIVING OUTCOME TABLE - FRONTIER FOLK**
 
-| Roll Formative event Abilities Talents Gear |  |  |  |  |
+| Roll | Formative event | Abilities | Talents | Gear |
 | --- | --- | --- | --- | --- |
-| 1 Attacked by a bear you fight like a | NATURE 1 lucky | or | Spencer Carbine & |  |
-| lion but are inevitably left for dead, | RESILIENCE 1 hard to hit 2D6 rounds |  |  |  |
-| only to be found and saved by local Natives. Wild rations D6 × $1 | Knife |  |  |  |
-| 2 Your journeys across lakes and up | HAWKEYE 1 survivor | or | Canoe |  |
-| rivers and taking meals with Native tribes has given you a broad knowl- 1868 & 3D6 rounds | NATURE 1 bow master Winchester Model |  |  |  |
-| edge that you doubt any east coast university student can match. | 3D6 × $1 |  |  |  |
-| 3 You become a scout with the US Army. HAWKEYE 1 light-footed 1873 & 2D6 rounds Morgan Horse Sleeping roll Tobacco 6D6 × $1 | SHOOTIN’ 1 tracker | or | Winchester Model |  |
-| 4 You have spent so long wandering the trails and exploring the wilder- HANDLIN’ 1 born in the saddle Small tent | ANIMAL | companion | or | Astrolabe |
-| ness that your horse has become | MAKIN’ 1 Survey equipment |  |  |  |
-| your best friend and your maps of | Missouri Fox Trotter |  |  |  |
-| the area are well regarded. 2D6 × $10 | horse |  |  |  |
-| 5 One particularly cold winter you are | FIGHTIN’ 1 man’s best friend | or | Spencer Carbine & |  |
-| attacked by a pack of wolves. Your | ANIMAL | guard dog 4D6 rounds |  |  |
-| loyal dog saves you and together you | HANDLIN’ 1 Dog |  |  |  |
-| drive the wolves away. 3D6 × $1 | Sleeping roll |  |  |  |
-| 6+ You used to come into town just to | MAKIN’ 1 animal hunter | or | Knife |  |
-| sell your furs. But it’s warmer to sit | HAWKEYE 1 knife fighter Outfit: Store with 1 |  |  |  |
-| and sew those furs. So now you sell clothes for the discerning outdoors- 3D6 × $1 man. Make your next Living roll on the Trader Living Outcome Table | Capital |  |  |  |
+| 1 | Attacked by a bear you fight like a lion but are inevitably left for dead, only to be found and saved by local Natives. | NATURE 1, RESILIENCE 1 | lucky or hard to hit | Spencer Carbine & 2D6 rounds, Knife, Wild rations, D6 × $1 |
+| 2 | Your journeys across lakes and up rivers and taking meals with Native tribes has given you a broad knowledge that you doubt any east coast university student can match. | HAWKEYE 1, NATURE 1 | survivor or bow master | Canoe, Winchester Model 1868 & 3D6 rounds, 3D6 × $1 |
+| 3 | You become a scout with the US Army. | SHOOTIN’ 1, HAWKEYE 1 | light-footed or tracker | Winchester Model 1873 & 2D6 rounds, Morgan Horse, Sleeping roll, Tobacco, 6D6 × $1 |
+| 4 | You have spent so long wandering the trails and exploring the wilderness that your horse has become your best friend and your maps of the area are well regarded. | ANIMAL HANDLIN’ 1, MAKIN’ 1 | companion or born in the saddle | Astrolabe, Small tent, Survey equipment, Missouri Fox Trotter horse, 2D6 × $10 |
+| 5 | One particularly cold winter you are attacked by a pack of wolves. Your loyal dog saves you and together you drive the wolves away. | FIGHTIN’ 1, ANIMAL HANDLIN’ 1 | man’s best friend or guard dog | Spencer Carbine & 4D6 rounds, Dog, Sleeping roll, 3D6 × $1 |
+| 6+ | You used to come into town just to sell your furs. But it’s warmer to sit and sew those furs. So now you sell clothes for the discerning outdoorsman. Make your next Living roll on the Trader Living Outcome Table. | MAKIN’ 1, HAWKEYE 1 | animal hunter or knife fighter | Knife, Outfit: Store with 1 Capital, 3D6 × $1 |
+
 
 ### Ranch Hand
 
@@ -677,32 +669,16 @@ Working as a ranch hand is likely the easiest work to get. But it ain’t just d
 
 Roll D6 to see how you get on, modifying your roll by +1 if you have ANIMAL HANDLIN’ level 1 or more.
 
-### LIVING OUTCOME TABLE - RANCH HAND
+**LIVING OUTCOME TABLE - RANCH HAND**
 
-| Roll Formative event Abilities Talents Gear |  |  |  |  |
+| Roll | Formative event | Abilities | Talents | Gear |
 | --- | --- | --- | --- | --- |
-| 1 One drunken night at the end of | ANIMAL | hay-maker | or | Webley British Bull- |
-| cattle drive, you get into a violent | HANDLIN’ | 1 brawler dog & 2D6 rounds |  |  |
-| argument and kill a man with your | FIGHTIN’ 1 Club |  |  |  |
-| bare hands. Make your next roll on the Outlaw Living Outcome Table. +1 Fame −1 Reputation | 3D6 × $1 |  |  |  |
-| 2 You get involved in a range war, | FIGHTIN’ 1 | sharpshooter | or | Winchester Model |
-| and your boss is killed. If you want another Living you’ll have to get an- Pistol & 3D6 rounds | SHOOTIN’ 1 expert fanning 1868 & D6 rounds |  |  |  |
-| other job: roll again on the Livings table with a −1 modifier. +1 Fame | 6D6 × $1 |  |  |  |
-| 3 You become a wrangler looking after | ANIMAL | bronc buster | or | Lasso |
-| the spare horses on the trail and learn to bust the broncos. NATURE 1 2D6 rounds Sleeping roll Mustang horse 4D6 × $1 | HANDLIN’ 1 horse warrior Colt Peacemaker & |  |  |  |
-| 4 You are put in charge of the chuck | MAKIN’ 1 charming | or | Wagon & Missouri |  |
-| wagon, a well-respected role which | DOCTORIN’ 1 authority Fox Trotter |  |  |  |
-| feeds and cares for the other hands | Sleeping roll |  |  |  |
-| on the long cattle drives to the | 6D6 × $1 |  |  |  |
-| railway. The boys listen out for your booming voice calling them to chow down. | +1 compadre |  |  |  |
-| 5 You bring a big herd to the railhead, | RESILIENCE 1 born in the saddle | or | Lasso |  |
-| earning a decent reward and a few nights on the town. HANDLIN’ 1 Horse Sleeping roll 2D6 × $10 | ANIMAL | roper American Quarter |  |  |
-| 6+ It’s time to strike out, set up your | LABOR 1 horse warrior | or | Lasso |  |
-| own ranch and make the money | NATURE 1 defender Winchester Model |  |  |  |
-| rather than work for them others. If | 1873 & 2d6 rounds |  |  |  |
-| you have another Living make your | Outfit: Ranch with 1 |  |  |  |
-| next roll on the Homesteader Living | Capital |  |  |  |
-| Outcome Table. horse +1 compadre | American Saddlebred |  |  |  |
+| 1 | One drunken night at the end of cattle drive, you get into a violent argument and kill a man with your bare hands. Make your next roll on the Outlaw Living Outcome Table. +1 Fame, −1 Reputation | ANIMAL HANDLIN’ 1, FIGHTIN’ 1 | hay-maker or brawler | Webley British Bulldog & 2D6 rounds, Club, 3D6 × $1 |
+| 2 | You get involved in a range war, and your boss is killed. If you want another Living you’ll have to get another job: roll again on the Livings table with a −1 modifier. +1 Fame | FIGHTIN’ 1, SHOOTIN’ 1 | sharpshooter or expert fanning | Winchester Model 1868 & D6 rounds, Pistol & 3D6 rounds, 6D6 × $1 |
+| 3 | You become a wrangler looking after the spare horses on the trail and learn to bust the broncos. | ANIMAL HANDLIN’ 1, NATURE 1 | bronc buster or horse warrior | Lasso, Colt Peacemaker & 2D6 rounds, Sleeping roll, Mustang horse, 4D6 × $1 |
+| 4 | You are put in charge of the chuck wagon, a well-respected role which feeds and cares for the other hands on the long cattle drives to the railway. The boys listen out for your booming voice calling them to chow down. +1 compadre | MAKIN’ 1, DOCTORIN’ 1 | charming or authority | Wagon & Missouri Fox Trotter, Sleeping roll, 6D6 × $1 |
+| 5 | You bring a big herd to the railhead, earning a decent reward and a few nights on the town. | RESILIENCE 1, ANIMAL HANDLIN’ 1 | born in the saddle or roper | Lasso, American Quarter Horse, Sleeping roll, 2D6 × $10 |
+| 6+ | It’s time to strike out, set up your own ranch and make the money rather than work for them others. If you have another Living make your next roll on the Homesteader Living Outcome Table. +1 compadre | LABOR 1, NATURE 1 | horse warrior or defender | Lasso, Winchester Model 1873 & 2D6 rounds, Outfit: Ranch with 1 Capital, American Saddlebred horse |
 
 ### Appendix: Your Tale Begins
 
@@ -750,9 +726,17 @@ Roll D6 on this table, adding 1 to the result if you have BOOKLEARNIN’ at leve
 
 Once you have completed the necessary rolls for your Livings you need to accumulate the gear and other items you have acquired over your life so far.
 
-| Cash Roll the relevant number of dice to see how much cash you have in your pocket at the start of the game. Capital Total your Capital to see how much, if any, Capital you have. You must either immediately invest it in an outfit or property, or liquidate it into cold, hard cash (page 88). Fame Total up any Fame bonuses and add them to your base Fame score (page 101-102). Reputation Total up any negative and positive Reputation bonuses, and apply them to your place on the Reputation Table on page 102. Weapons If you have acquired a weapon go to page 110 to find its details. Roll the number of dice speci- you have on your belt. fied to see how much ammo Horse If you gain a horse go to page 120 to determine its stats, qualities and flaws. It comes with all the necessary equipment needed to ride it. If y g y page 92. Outfit ou have an Outfit refer to the rules on buildin our Outfits on |  |
+| Item | Details |
 | --- | --- |
-| NPC Compadres pag e 103 to find out more about them. Other Gear Write anything else on your equipment list. | Your backstory will help you work out who your compadres are, and then follow the rules on |
+| Cash | Roll the relevant number of dice to see how much cash you have in your pocket at the start of the game. |
+| Capital | Total your Capital to see how much, if any, Capital you have. You must either immediately invest it in an outfit or property, or liquidate it into cold, hard cash (page 88). |
+| Fame | Total up any Fame bonuses and add them to your base Fame score (page 101–102). |
+| Reputation | Total up any negative and positive Reputation bonuses, and apply them to your place on the Reputation Table on page 102. |
+| Weapons | If you have acquired a weapon go to page 110 to find its details. Roll the number of dice specified to see how much ammo you have on your belt. |
+| Horse | If you gain a horse go to page 120 to determine its stats, qualities and flaws. It comes with all the necessary equipment needed to ride it. |
+| Outfit | If you have an Outfit refer to the rules on building your Outfits on page 92. |
+| NPC Compadres | Your backstory will help you work out who your compadres are, and then follow the rules on page 103 to find out more about them. |
+| Other Gear | Write anything else on your equipment list. |
 
 ### The Final Touches
 

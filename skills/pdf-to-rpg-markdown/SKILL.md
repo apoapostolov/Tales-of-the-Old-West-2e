@@ -207,6 +207,7 @@ After running the pipeline, verify:
 - [ ] Attributions are blockquote em-dash: `> — NAME`
 - [ ] Sidebar text is in blockquotes
 - [ ] Tables are proper pipe tables with header and alignment rows
+- [ ] No multi-row compression in table cells (each entry = one row)
 - [ ] Paragraphs flow naturally with no mid-sentence breaks
 - [ ] No `<br>` tags remain in body text
 - [ ] No `**==> picture` placeholders remain
@@ -247,7 +248,9 @@ for idx, (start, num, title) in enumerate(chapters):
 
 - **Complex multi-span tables** (merged cells, nested headers)
   often extract as run-together text. Manual table reconstruction
-  may be needed for the most complex tables.
+  is needed for most tables — see Category 8 (Broken Pipe Tables)
+  in the Manual AI Polish section for detection patterns and
+  fix strategies.
 - **Decorative fonts** used for single words or short phrases may
   not be detected as headings by pymupdf4llm.
 - **Right-to-left text, vertical text, and rotated elements** are
@@ -363,7 +366,7 @@ quotes (U+2019).
 ### Rockcliffe S Lie       → ### Rockcliffe's Lie
 ```
 
-**Pattern:** When a heading contains ` S ` (space-S-space) or
+**Pattern:** When a heading contains `S` (space-S-space) or
 ` S` at end, the `S` is almost always a possessive `'s` that
 was extracted as a separate token.
 
@@ -571,7 +574,7 @@ leaving them in the narrative text.
 - `|**Te ` → `|**The ` (article truncation in table headers)
 - `Pacifc` → `Pacific` (OCR-style typo)
 - `**Te ` → `**The ` (bold text article truncation)
-- ` Te ` → ` The ` (mid-sentence article truncation)
+- `Te` → `The` (mid-sentence article truncation)
 - Duplicate-column table headers (same header repeated in
   adjacent pipe cells) collapsed to a single header
 - Remaining standalone `Appendix: your tale begins` lines
@@ -579,7 +582,221 @@ leaving them in the narrative text.
 
 ---
 
-### Category 8: Loose Bullet Lists
+### Category 8: Broken Pipe Tables
+
+The most pervasive post-extraction issue. PDF tables with 3+
+columns routinely extract as garbled markdown tables where
+multiple data rows are compressed into a single cell, column
+data is misaligned, description text is split between columns,
+or the table is plain text instead of a markdown pipe table.
+
+#### Identifying Broken Tables
+
+**Automated detection patterns** (search across all chapters):
+
+```python
+# Rows where the first cell contains multiple logical entries
+# (D66 numbers, roll results, or named items crammed together)
+r'\| \d+ .{50,}\| -'           # Description text split: "| 03 Name garbled | - Real description |"
+r'\| .{200,} \|'               # Single cell over 200 chars (likely multiple rows merged)
+r'^\d+ .*\d+ .*\d+ '           # Plain text with 3+ numbers on one line (should be table rows)
+r'\| [A-Z].* \| \$\d+ .* \|'  # Table data leaking across columns
+```
+
+**Visual indicators** (when reading the file):
+
+1. **Multi-row compression**: A table cell contains what should
+   be 5-10 separate rows, identifiable by multiple D66 roll
+   numbers (11, 12, 13...) or multiple item names in a single
+   cell
+2. **Split descriptions**: The entry name is in column 1 but the
+   description starting with "- " is in column 2, with garbled
+   words at the end of column 1 (PDF column-break mid-word)
+3. **Broken words at cell boundaries**: Words split across cells
+   like `"de-\n| mands"` or `"flo\ngging"` from PDF line wraps
+4. **Plain text tables**: Data that should be in pipe-table
+   format but is just formatted text with spaces between columns
+5. **Merged section headers**: Table continuation headers
+   (repeating column headers on a new PDF page) extracted as
+   data rows, often with the first data entry merged into the
+   header row: `"| D66 Personal Fortunes 51 Love Blossoms... |"`
+6. **Multiple table fragments**: One logical table split into 2-4
+   separate markdown tables (each with its own header/separator
+   row) because the PDF table spanned multiple pages
+
+#### Common Broken Table Patterns
+
+**Pattern A — Column-swapped descriptions:**
+
+The PDF's two-column table layout causes pymupdf4llm to read
+across columns, putting the end of description text in the
+first cell and the beginning in the second:
+
+```markdown
+# BROKEN:
+
+| 03 A Rival is Dead ger of blame... circumstances. The fin | - Someone you have crossed... |
+
+# FIXED:
+
+| 03 | A Rival is Dead - Someone you have crossed, an enemy or a rival, has been found dead under suspicious circumstances. The finger of blame will inevitably point your way. |
+```
+
+**Pattern B — Multiple entries merged into one row:**
+
+Two or more table rows extracted as a single row, usually
+because they shared a PDF table cell or spanned a page break:
+
+```markdown
+# BROKEN:
+
+| 11 Calamity! 12 Broken Hearts - Someone you love... | - Roll D66 again... |
+
+# FIXED:
+
+| 11 | Calamity! - Roll D66 again, but the Tens die result is automatically 0. |
+| 12 | Broken Hearts - Someone you love deeply loves you no more... |
+```
+
+**Pattern C — Data in header row:**
+
+When a table continues on a new PDF page, the first data entry
+gets merged with the repeated column header:
+
+```markdown
+# BROKEN:
+
+| D66 Personal Fortunes 51 Love Blossoms - Someone has expressed... |     |
+| ----------------------------------------------------------------- | --- |
+
+# FIXED:
+
+| D66 | Personal Fortunes                                           |
+| --- | ----------------------------------------------------------- |
+| 51  | Love Blossoms - Someone has expressed their love for you... |
+```
+
+**Pattern D — Plain text that should be a table:**
+
+Data presented as formatted text instead of pipe tables:
+
+```markdown
+# BROKEN:
+
+2D6 Family Background 2 you. Everyone you loved is long lost...
+There is no one left but 3 Your family was big until the curse...
+4 You have lived alone...
+
+# FIXED:
+
+| 2D6 | Family Background                                                                      |
+| --- | -------------------------------------------------------------------------------------- |
+| 2   | There is no one left but you. Everyone you loved is long lost, dead, or far, far away. |
+| 3   | Your family was big until the curse...                                                 |
+| 4   | You have lived alone...                                                                |
+```
+
+**Pattern E — Multi-column RPG stat tables:**
+
+Weapon tables, equipment tables, and similar data with many
+narrow columns (8-11 columns) extract particularly badly.
+Numeric values hop between the wrong columns:
+
+```markdown
+# BROKEN:
+
+| Revolvers and Pistols Draw Attack Weapon Type Action... Colt 45 Peacemaker Single -1... |
+| --------------------------------------------------------------------------------------- |
+
+# FIXED:
+
+| Weapon             | Type     | Action | Draw Mod | Attack Mod | Damage | Critical | Range  | Ammo |
+| ------------------ | -------- | ------ | -------- | ---------- | ------ | -------- | ------ | ---- |
+| Colt 45 Peacemaker | Revolver | Single | −1       | +1         | 3      | 1        | Medium | 6    |
+```
+
+**Pattern F — Lifestyle/description tables:**
+
+Tables where one column contains long prose descriptions mixed
+with numeric values from other columns:
+
+```markdown
+# BROKEN:
+
+| Seasonal Lifestyle Table Cost Modifier DESTITUTE: You have nothing $0 0 −3... VERY POOR: $50 0 −2... | Fame | Reputation |
+
+# FIXED:
+
+| Lifestyle                           | Cost | Fame | Reputation |
+| ----------------------------------- | ---- | ---- | ---------- |
+| **DESTITUTE:** You have nothing...  | $0   | 0    | −3         |
+| **VERY POOR:** You try your best... | $50  | 0    | −2         |
+```
+
+#### Fix Strategy
+
+1. **Read the entire file into memory** (Python or PowerShell).
+   Complex table fixes require multi-line context that
+   line-by-line tools struggle with.
+
+2. **Identify old text boundaries** using `str.find()` /
+   `IndexOf()` on unique anchor strings near the table start
+   and end. Avoid matching on the full garbled text directly —
+   whitespace and encoding differences cause match failures.
+
+3. **Reconstruct the table by cross-referencing the PDF.**
+   The garbled text contains all the data — it is just in the
+   wrong structure. Read the original PDF to determine the
+   intended column layout and row boundaries, then reassemble.
+
+4. **Use `str.replace()`** to swap old text for new. Write the
+   modified content back to disk.
+
+5. **Verify with `str.contains()` / `in`** checks on key
+   phrases from the new table to confirm the replacement took
+   effect.
+
+**Tool choice for complex tables:**
+
+- `replace_string_in_file` works for simple 1-3 row fixes
+- For tables with 10+ rows, special characters (smart quotes,
+  em-dashes, minus signs), or whitespace-sensitive content, use
+  **Python scripts via terminal**. The edit tool's whitespace
+  matching is too brittle for large multi-line replacements.
+- PowerShell `Get-Content -Raw` + `.Replace()` +
+  `WriteAllText()` also works well for in-memory bulk edits.
+
+**Unicode characters to preserve:**
+
+- U+2019 `'` — right single quotation mark (possessives, FIGHTIN')
+- U+2014 `—` — em dash (narrative text)
+- U+2013 `–` — en dash (page ranges)
+- U+2212 `−` — minus sign (stat modifiers like −1, −2)
+- U+00D7 `×` — multiplication sign (dice notation like 3D6 × $25)
+- U+00E9 `é` — e-acute (compadré etc.)
+
+Use `\u2019`, `\u2014`, etc. in Python strings. In PowerShell,
+use `` `u{2019} `` syntax or paste the literal character.
+
+#### Broken Table Checklist
+
+After fixing tables, verify:
+
+- [ ] Every table has a header row and `| --- |` separator row
+- [ ] Each logical entry occupies exactly one table row
+- [ ] No data values appear in description/name columns
+- [ ] No description text appears in numeric columns
+- [ ] No broken words (split across cells or lines)
+- [ ] Multi-page tables are merged into a single continuous table
+      (duplicate header rows from page breaks removed)
+- [ ] Section header rows contain only column labels, not data
+- [ ] Unicode special characters are preserved (not replaced
+      with ASCII approximations)
+- [ ] Spot-check 3-5 rows against the original PDF
+
+---
+
+### Category 9: Loose Bullet Lists
 
 PDF extraction often introduces blank lines between bullet list
 items, creating "loose" lists. Markdown renderers treat loose
@@ -619,6 +836,9 @@ added to the automated pipeline as Pass 10.
    - Known running header text as substrings
    - `^- ` followed by blank line followed by `^- `
      (loose bullet lists)
+   - `\| .{200,} \|` (cells over 200 chars — likely merged rows)
+   - `\| \d+ \w+ .* \| -` (split descriptions across columns)
+   - Plain text with 3+ numbers on one line (should be table)
 2. **Write targeted fix scripts** in `scripts/`: Python scripts
    with exact string replacements and regex patterns for each
    category. Group fixes by chapter or by issue type.
@@ -644,6 +864,7 @@ After Phase 3, verify:
 - [ ] No running headers embedded in paragraph text
 - [ ] Character/place names are spelled correctly throughout
 - [ ] Garbled table blocks are reformatted as readable markdown
+- [ ] Broken pipe tables fixed per Category 8 checklist
 - [ ] Bullet lists are compact (no blank lines between items)
 - [ ] Smart quotes (U+2019, U+201C, U+201D) are consistent
       throughout (do not mix with ASCII equivalents)
