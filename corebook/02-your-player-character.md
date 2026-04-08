@@ -9,7 +9,6 @@ Player characters in _Tales of the Old West_ are defined by their attributes, wh
 There are two methods to create your player character:
 
 - Character Archetypes—if you want to create your character quickly simply select an archetype and make a few choices from the pre-determined lists.
-
 - Lifepath System—if you want to let the dice decide, and create your character with a more detailed history and background, use the Your Tale Begins lifepath.
 
 You can also use a Group Concept, if your players have a clear idea of the group they want their characters to belong to.
@@ -43,35 +42,20 @@ Docity represents your ability to learn. You might be able to reel off bible ver
 Your abilities are the knowledge and skills you have acquired during your life. Along with your attributes, they determine how effectively you can perform certain actions in the game. Abilities are measured on a scale from 0 to 5. The higher the number, the better. There are 16 abilities, each tied to a specific attribute.
 
 - FIGHTIN’ (Grit)
-
 - LABOR (Grit)
-
 - PRESENCE (Grit)
-
 - RESILIENCE (Grit)
-
 - LIGHT-FINGERED (Quick)
-
 - MOVE (Quick)
-
 - OPERATE (Quick)
-
 - SHOOTIN’ (Quick)
-
 - ANIMAL HANDLIN’ (Cunning)
-
 - HAWKEYE (Cunning)
-
 - INSIGHT (Cunning)
-
 - NATURE (Cunning)
-
 - BOOKLEARNIN’ (Docity)
-
 - DOCTORIN’ (Docity)
-
 - MAKIN’ (Docity)
-
 - PERFORMIN’ (Docity)
 
 ### Big Dream
@@ -145,13 +129,9 @@ But you can see what this town could become, the life you could forge here—the
 The lessons your character learns during the game are measured in Experience Points (XP). You receive XP after the end of each adventure or game session (at the GM’s discretion). Talk it through and let the whole group discuss what has happened. Ask yourself the following questions—each time you answer “yes” you gain 1 XP:
 
 - Did you participate in the game session? You get one XP just for being there.
-
 - Did you risk or sacrifice something significant to help realize your Big Dream?
-
 - Did you risk or sacrifice something significant for any other character? Gain an additional XP if that character was your Pardner.
-
 - Did you perform an extraordinary action of some kind?
-
 - Did you act in accordance with your Faith?
 
 You might also be awarded XP for scenario-specific achievements.
@@ -169,9 +149,7 @@ At the end of an adventure the player characters will be able to take stock, lea
 The more commitment the player characters show to their home town, the faster that place will grow. As with XP, the GM awards Settlement Points (SP) to the local settlement when the group can answer “yes” to one or more of the following questions:
 
 - Did the group sacrifice or risk something for the good of the settlement or the community?
-
 - Did the group invest significant effort or money (either cash or points of Capital) in the settlement or community?
-
 - Did the group protect the settlement or community in some way?
 
 The GM has the final word on how many SP the players have earned, but we recommend that no more than 4 or 5 SP are earned per season.
@@ -215,11 +193,8 @@ Local sheriffs or federal marshals, possibly _hombres de la ley_ , Lighthorsemen
 **Concept Bonus** : Each player character can choose two of the following:
 
 - a gun (with 2D6 bullets)
-
 - a horse (not Appaloosa, Cayuse or Arabian)
-
 - a shiny badge made of real silver
-
 - iron manacles
 
 ### Outlaws
@@ -229,11 +204,8 @@ You and your gang might have tried to be law-abidin’ citizens or maybe you’r
 Concept Bonus: Each player character can choose two of the following:
 
 - a gun (with 2D6 bullets)
-
 - a knife
-
 - lockpicking tools
-
 - D66 dirty dollars
 
 The group also gets a concealed hideout somewhere in the wilderness, at the GM’s discretion.
@@ -245,11 +217,8 @@ Your prosperity relies upon your livestock—your herds of cattle or horses—an
 **Concept Bonus** : Each player character can choose two of the following:
 
 - a horse (not Appaloosa, Cayuse or Arabian)
-
 - a high-quality lasso
-
 - a random rifle (and 2D6 bullets)
-
 - a bonus compadre who works on the ranch
 
 The group also gets a basic ranch (an outfit), at the GM’s discretion, with a starting feature (a Paddock) and +1 Capital that must be invested in the ranching outfit.
@@ -263,11 +232,8 @@ You till the land and plant crops, or maybe deal with small livestock like sheep
 **Concept Bonus** : Each player character can choose two of the following:
 
 - a donkey and cart
-
 - a standard shotgun (and 2D6 shells)
-
 - quality farming tools
-
 - a bonus compadre who works on the farm
 
 The group also gets a basic homestead (an outfit), at the GM’s discretion, with a starting feature (either a Pasture or Crop Field) and +1 Capital that must be invested in it.
@@ -279,11 +245,8 @@ A business can be anything from a saloon, hotel or whorehouse, to a mine or lumb
 **Concept Bonus** : Each player character can choose two of the following:
 
 - a traditional item or piece of furniture for the business
-
 - high-quality tools of the trade
-
 - a bonus compadre who works in the business
-
 - D66 in cash dollars
 
 The group also gets a small business property to run their outfit, and +1 Capital that must be invested in the outfit, at the GM’s discretion.
@@ -295,11 +258,8 @@ The free life is for you and your fellows. You get work when you need it, earnin
 **Concept Bonus** : Each player character can choose two of the following:
 
 - a pistol (and 2D6 bullets)
-
 - quality leather chaps and spurs
-
 - a well-used lasso
-
 - a random horse (not Appaloosa, Cayuse or Arabian)
 
 The group gets a benefit of 4D6 dollars multiplied by the number of player characters in the group, the total to be divided how the players see fit.
@@ -311,11 +271,8 @@ You live off the land, and are free. You only come into town to sell your furs a
 **Concept Bonus** : Each player character can choose two of the following:
 
 - a rifle (and 2D6 bullets)
-
 - a quality warm fur cloak
-
 - animal traps
-
 - a horse (not Appaloosa, Cayuse or Arabian) or a donkey
 
 The group gets a benefit of 2D6 dollars multiplied by the number of player characters in the group, the total to be divided how the players see fit.
@@ -337,23 +294,14 @@ If you have a good idea of the kind of character you want to play, simply choose
 The archetypes are:
 
 - GENTLEFOLK
-
 - GRIFTER
-
 - HOMESTEADER
-
 - LABORER
-
 - LAWMAN
-
 - OUTLAW
-
 - PROSPECTOR
-
 - RANCH HAND
-
 - TRACKER
-
 - TRADER
 
 Each archetype comes with a base level of attributes and abilities—make a note of these. You have more points to add, depending on your player character’s age (see the Player Character Age Table).
@@ -403,35 +351,24 @@ As camps become communities, and communities become towns, they attract a differ
 Choose between one and three of these talents, depending on your age:
 
 - **calming manner** . You reassure troubled minds just with the calm in your voice. With a successful PRESENCE test you can calm those around you, and even yourself, healing 1 point of Vexes or Doubts for every success. This talent also allows you to help a DOCTORIN’ roll without having that ability.
-
 - **healing touch** . You’re a natural healer. When you successfully heal a Broken person you double the number of attribute points that are restored.
-
 - **high society** . You move in exalted circles. You know who to talk to and what their dirty secrets are. Gain a +1 bonus to PERFORMIN’ when talking to anyone where Fame or social standing might have a bearing.
-
 - **the voice** . You have a beautiful singing voice or a way of speaking that gets people listening. You can use PERFORMIN’ to draw the attention of everyone within Short range. They stop what they are doing and listen for D6 Rounds.
-
 - You want to see European culture bring peace and civility to the west.
-
 - You want to build a church and a congregation to save the souls of the faithful.
-
 - If you could only run this town it could become a shining city on the hill.
 
 **Faith** - choose from the following or come up with a core belief for your character:
 
 - The Lord giveth and the Lord taketh away—I have faith in Him and His judgments.
-
 - The papist Catholic Church is a heresy and will fall.
-
 - Everything I need to know about life can be found at the bottom of a bottle.
 
 **Gear** - choose two of the starting items below. You also get 2D6 × $10 in cash:
 
 - Doctoring Bag. Contains basic items, simple medicines, and elixirs. It gives +1 bonus to DOCTORIN’ rolls.
-
 - Deringer and D6 rounds.
-
 - Arabian Horse with saddle and tack.
-
 - Pipe and tobacco.
 
 **Big Dream** - choose from one of the options below or decide for yourself:
@@ -451,23 +388,16 @@ Not all criminals were outlaws and shootists ambushing travelers and trains—th
 Choose between one and three of these talents, depending on your age:
 
 - **swindler** . You are a cheat and a swindler. You gain a +1 bonus for any tests when scamming or cheating someone. This includes cheating while gambling.
-
 - **lockpicker** . You have mastered the art of picking locks, but need some sort of tool. Your LIGHT-FINGERED roll is modified by +1 when you pick a lock.
-
 - **gambler** . You are an expert at every kind of card game, and know how to win any which way. Choose a Gambling Tactic and gain a +1 bonus in that Tactic.
-
 - **shill** . A friendly face in the crowd. You can act as the shill for another, and give +2 dice of assistance rather than +1 when helping them cheat, swindle or scam.
-
 - You want to get one up on the Pinkertons and keep them off your trail for the rest of your life.
-
 - You want to build your own casino, where the house always wins.
 
 **Faith** - choose from the following or come up with a core belief for your character:
 
 - My Curall Tonic really is a cure-all—it’s made me strong and will do the same for others, even if they doubt its qualities.
-
 - I’m a bad man, but I have every faith in the Lord’s forgiveness when I confess all before the end.
-
 - There’s a schmuck born every minute.
 
 **Gear** - choose two of the starting items below. You also get 2D6 × $5 in cash:
@@ -477,11 +407,8 @@ Choose between one and three of these talents, depending on your age:
 **Big Dream** - choose from one of the options below or decide for yourself:
 
 - You want to play poker with Bat Masterton and win.
-
 - Cooper revolver and D6 rounds.
-
 - Lockpicking set.
-
 - Bottle of good whiskey.
 
 ### Homesteader
@@ -499,37 +426,27 @@ If you work the land for five years and build a house with glass in the windows,
 Choose between one and three of these talents, depending on your age:
 
 - **companion** . Your horse is your closest companion (when it dies you lose this talent, but can take it again at half price when you get a new horse). Your horse gains the LOYAL quality and will stand by your side and defend you if you’re Broken (this can take your horse’s total qualities over the normal maximum).
-
 - **survivor** . You will survive. You are so rugged you can shake off damage from Shakes and Hurts. Each time you suffer damage roll a number of dice equal to your Grit divided by 2 (round up)—the damage is reduced by 1 per success.
-
 - **smith.** You know the art of hammering coarse iron into lethal blades, horseshoes and more. You can use the MAKIN’ ability to make and repair any metal tool or melee weapon with normal stats.
-
 - **shotgun master** . You are unrivaled when it comes to using a shotgun, and always have one near to hand. As a free action you can use the butt of your shotgun to beat off an enemy at Arm’s Length. With a successful FIGHTIN’ roll, you push them to Near range.
 
 **Big Dream** - choose from one of the options below or decide for yourself:
 
 - This is your land, and your family’s land, and they will live here for generations.
-
 - You want to master the healing powers of nature itself, to help your fellow man.
-
 - Five years is all you need to survive in this forsaken place. Five years, then a quick sale and you can return east with your fortune in your pocket.
 
 **Faith** - choose from the following or come up with a core belief for your character:
 
 - Manifest Destiny is true, right and demanded by God—my strength comes from making this so on earth.
-
 - The family I have around my fire—they give me the strength to overcome.
-
 - The land is my mother, father, everything— my faith is that it will ever be so.
 
 **Gear** - choose two of the starting items below. You also get D6 × $5 in cash:
 
 - Farming equipment.
-
 - Standard Shotgun and 2D6 rounds.
-
 - Missouri Fox Trotter and tack.
-
 - Wagon and mule.
 
 ### Laborer
@@ -547,37 +464,27 @@ America is built upon the strength of your back and the sweat of your brow. You 
 Choose between one and three of these talents, depending on your age:
 
 - **miner 49er** . You are experienced in handling dangerous explosives. You can recognize sweating dynamite and other danger signs. Treat Trouble on dynamite ability rolls as normal (unlike the rule on page 83 the Trouble is not activated unless the roll is pushed).
-
 - **pugilist** . You are an expert fist fighter. In hand-to-hand fighting you can anticipate your enemy’s every move, and swap your initiative card with an opponent you are actively fighting.
-
 - **rabble rouser** . You know how to rile up a crowd or get a posse angry. You do not suffer from the penalty to PERFORMIN’ when trying to influence a crowd that outnumbers you.
-
 - **sneak** . You are sneaky. You gain +1 bonus to any rolls that relate to sneaking and hiding.
 
 **Big Dream** - choose from one of the options below or decide for yourself:
 
 - You don’t want much from life: just a family, and a home of your own.
-
 - Those folks with the papers and books seem to have all the money. That’s what you need, and to get that you need to learn to read.
-
 - You dream of finding a place where people from every nation come together as equals.
 
 **Faith** - choose from the following or come up with a core belief for your character:
 
 - Poor as a church mouse I may be, but I get through life by the strength of my pals.
-
 - I have faith in the judgment of the people and the hands of the working man.
-
 - I am Jewish, often alone, but proud in my solitude.
 
 **Gear** - choose two of the starting items below. You also get D6 × $1 in cash:
 
 - Basic Tools (Weight 2), required to undertake any MAKIN’ roll to build something.
-
 - Knife.
-
 - Mining equipment (Weight 2), a wide range of equipment needed to manage a Mining Outfit. Without this the Turn of the Season roll for a Mining Outfit suffers a −2 penalty.
-
 - Bottle of sipping whiskey.
 
 ### Lawman
@@ -595,43 +502,30 @@ There’s a thin line between outlaw and lawman. Whose law are you enforcing? Di
 Choose between one and three of these talents, depending on your age:
 
 - **authority** . You have the weight of authority on your side, whether from the law, the big man in town or just your own personality. You gain a +1 bonus to PRESENCE tests.
-
 - **horse warrior** . You are trained in fighting from a moving horse. You get a +1 bonus to all attacks from a mount.
-
 - **judge of character** . You can read other people like a book and smell a lie a mile off. You get a +1 bonus to INSIGHT tests to see if someone is lying or trying to pull the wool over your eyes.
-
 - **manhunter** . You have spent years chasing down your quarry. You gain a +1 bonus to HAWKEYE when tracking your quarry across the wilderness.
 
 **Big Dream** - choose from one of the options below or decide for yourself:
 
 - You want nothing more than a few acres of land, a family, and a life of peace.
-
 - You will not rest until every lawbreaker has
-
    - been driven from your town.
-
 - You came west to escape the law back east, so it’s ironic that all you want is to enforce the law here.
 
 **Faith** - choose from the following or come up with a core belief for your character:
 
 - As a Quaker I am uplifted by my Society of
-
    - Friends.
-
 - The wide open plain and the river give me
-
    - everything I need.
-
 - I live by the avenging hand of St Michael, and the iron of my gun.
 
 **Gear** - choose two of the starting items below. You also get 2D6 × $10 in cash:
 
 - Colt Walker, holster and 3D6 rounds.
-
 - Hartford Coach Gun.
-
 - Morgan Horse and tack.
-
 - Handcuffs.
 
 ### Outlaw
@@ -649,37 +543,27 @@ The west can be a lawless place where it is easy to make your living taking from
 Choose between one and three of these talents, depending on your age:
 
 - **cold blooded** . You are completely callous and can kill defenseless enemies without so much as a second’s hesitation. You can perform a coup de grace without needing to make a Docity test, but you still lose a point of Docity.
-
 - **quick draw** . You draw your weapon faster than your enemy can blink. Once per Round you can draw a one-handed weapon without spending an action. This includes picking up a weapon from the ground. You also gain a +1 bonus to your Draw roll during a duel.
-
 - **knife fighter** . You are lethal with a knife in hand. Gain a +1 bonus to your FIGHTIN’ rolls when you fight with a knife in your hand.
-
 - **two gun** . An expert with the iron, you can use one gun in each hand. You can draw two pistols with one fast action, and use your second pistol in your off hand to perform an extra Quick Shot attack per Round. This attack gets an extra −2 penalty on top of the −2 penalty for the Quick Shot itself (−4 in total).
 
 **Big Dream** - choose from one of the options below or decide for yourself:
 
 - Wanted for murder, you must find a way to get those charges dropped once and for all.
-
 - The Pinkertons set you up back east and you want revenge.
-
 - You want to keep “civilization” out of this place and make sure you’re the top dog in town.
 
 **Faith** - choose from the following or come up with a core belief for your character:
 
 - You know that before you die you will confess your sins and repent.
-
 - You’re only as good as the person next to you—I rely on my gang to pull me through.
-
 - God forsook this world, if He were ever even here, and I live by my pain.
 
 **Gear** - choose two of the starting items below. You also get D6 × $3 in cash:
 
 - Colt 45 Peacemaker, holster and 3D6 rounds.
-
 - A second Colt 45 Peacemaker and holster.
-
 - American Quarter Horse and tack.
-
 - One stick of dynamite.
 
 ### Prospector
@@ -697,37 +581,27 @@ You can see something others can’t—the riches in the ground. Well, you can�
 Choose between one and three of these talents, depending on your age:
 
 - **brawler** . You don’t need weapons to bring down your enemies. All your unarmed attacks and blocks have a +1 bonus.
-
 - **engineer** . You know how these new-fangled machines work, and are skilled at using and repairing them. You’re a natural with these new contraptions. You have the skills and knowledge to work as an engineer on a railroad or manufactory, and gain a +1 bonus to OPERATE when fixing machines.
-
 - **guard dog** . You have a loyal companion that stands by your side and will defend you to the death (when your dog dies you lose this talent, but can take it again at half price when you get a new dog). Your dog is big and dangerous, and growls to order. Gain a +1 bonus to your PRESENCE when intimidating someone alongside your dog.
-
 - **herbalist** . You have learned the healing ways of nature and the land and how they can be twisted with malicious intent. You are a healer, a druggist, or an apothecary. You can concoct healing elixirs and salves from herbs and plants, giving a +1 bonus to DOCTORIN’ tests. You can brew poisons with a Potency of 2.
 
 **Big Dream** - choose from one of the options below or decide for yourself:
 
 - “There’s gold to be found in them thar hills” and it’s all going to be yours.
-
 - The railroad will build a new civilization in the west, and you will be the architect.
-
 - There is too much prejudice back east, but here in the west people will know your name.
 
 **Faith** - choose from the following or come up with a core belief for your character:
 
 - The Hindu teachings are not so well known here, but they stand by me, and I, them.
-
 - God’s design is all around me, and he has a design for my fate too.
-
 - The strength of the land itself keeps me on my feet.
 
 **Gear** - choose two of the starting items below. You also get D6 × $3 in cash:
 
 - Panning equipment.
-
 - Colt 1860 New Army (no holster), D6 rounds.
-
 - Mule.
-
 - Camping Gear (Weight 1), bedrolls, canvas for shelter, a tinder box and pan for frying. Gives a +1 bonus to NATURE rolls when making camp for the night.
 
 ### Ranch Hand
@@ -745,39 +619,28 @@ You have found a life in the saddle. You might be working in a stockyard or as a
 Choose between one and three of these talents, depending on your age:
 
 - **born in the saddle** . Riding comes as naturally to you as breathing does to the rest of them. You get +1 bonus to all ANIMAL HANDLING rolls that relate to horses.
-
 - **bronc buster** . You know how to handle and train horses. You can break and train wild horses, using the Training Your Horse rules.
-
 - **lightning fast** . You react with the speed of a snake. You draw two initiative cards instead of one during the initiative draw. Choose the one you want to use and discard the other.
-
 - **roper** . You are an expert with the lasso and get a +1 bonus to your ANIMAL HANDLIN’ roll when lassoing.
 
 **Big Dream** - choose from one of the options below or decide for yourself:
 
 - Brought up in the saddle, you aim to prove a woman is just as capable as any man, if not more.
-
 - For generations your people have lived and worked this land—you must protect it from
-
    - the settlers and pass it on to future generations.
-
 - Your dreams are only as big as the next town, where you aim to get drunk, win at cards, and make love.
 
 **Faith** - choose from the following or come up with a core belief for your character:
 
 - The Lord demands all, but He gives all too.
-
 - My faith rests in the inherent goodness of all humankind.
-
 - The spirits my grandfather used to talk of will raise me up.
 
 **Gear** - choose two of the starting items below. You also get D6 × $1 in cash:
 
 - Lasso (lariat).
-
 - Cooper pistol with holster and 2D6 rounds.
-
 - Mustang, saddle and tack.
-
 - Camping Gear (Weight 1): bedrolls, canvas for shelter, a tinder box and pan for frying. Gives a +1 bonus to NATURE rolls when making camp for the night.
 
 ### Tracker
@@ -795,37 +658,27 @@ You love the big open sky and can tolerate the weather that it throws at you bet
 Choose between one and three of these talents, depending on your age:
 
 - **light-footed** . You walk like the spirits, and leave no trail behind you. You gain +1 bonus to your NATURE roll when you’re trying to avoid someone tracking you.
-
 - **mountainfolk** . You have lived your life in the mountains. Gain a +1 bonus to NATURE and RESILIENCE tests when in the wilderness.
-
 - **bow master** . The bow is the weapon of a true man from a more civilized culture. You can use a bow up to Long range with no penalties.
-
 - **tracker** . You know how to move, track and hunt. You are an expert tracker and get a +1 bonus when tracking in the wilderness.
 
 **Big Dream** - choose from one of the options below or decide for yourself:
 
 - People respect you as a scout, but you want to be known as the greatest scout that ever lived.
-
 - One day you will have dozens of drivers, carting loads all across the west.
 
 **Faith** - choose from the following or come up with a core belief for your character:
 
 - All things in nature are connected with all others—I have faith in the spirits of my ancestors.
-
 - I draw strength from my persecuted Huguenot past—neither I nor my family will ever be persecuted again!
-
 - I have faith in my destiny—to protect and restore the land, having witnessed the fate of the buffalo.
 
 **Gear** - choose two of the starting items below. You also get 2D6 × $1 in cash:
 
    - Camping Gear (Weight 2): bedrolls, canvas for shelter, a tinder box and pan for frying. Gives a +1 bonus to NATURE rolls when making camp for the night.
-
    - Winchester 1868 and 2D6 rounds.
-
    - Pinto horse and tack.
-
    - Knife.
-
 - You dream of never having to speak to another person again.
 
 ### Trader
@@ -843,37 +696,27 @@ You are the engine that drives the westward expansion. There is money to be made
 Choose between one and three of these talents, depending on your age:
 
 - **business minded** . Business is in your blood. You have great business acumen, and through your business strategy, good salesmanship or bad-mouthing the competition your business always does well. Your modifier for Competition is always +1 better than it should be, up to a maximum of +3.
-
 - **lawyer** . You may have gone to school, or learned your law over a lantern late at night, but you know your rights. You can add the number of successes from a BOOKLEARNIN’ roll (as a free action) as bonus dice to your PERFORMIN’ test when trying to influence someone by using your knowledge of the law or other official information.
-
 - **charming** . You are skilled in the arts of persuasion. You get +1 bonus to PERFORMIN’ when trying to charm, seduce or schmooze someone.
-
 - **lucky** . No matter how bad the odds, you always seem to get away unscathed. When you suffer a critical injury you can choose to reroll the Tens die and keep the best result.
 
 **Big Dream** - choose from one of the options below or decide for yourself:
 
 - These fortune hunters come ill-equipped for the cold winters, and are willing to exchange their silver for the warmer clothes you make— you will be the richest trader in town.
-
 - You will leave your criminal days behind you and forge a new life in peace.
-
 - Where there is opportunity, so comes law, and by the Lord this town needs a judge in good standing—that will be you.
 
 **Faith** - choose from the following or come up with a core belief for your character:
 
 - Money talks. Always has, always will.
-
 - The strength of Allah will get me through my troubles.
-
 - Organized religion is a fool’s game, but I know god is with me in the wind and sky.
 
 **Gear** - choose two of the starting items below. You also get 2D6 × $5 in cash:
 
 - Ounce of gold.
-
 - Roper repeating shotgun and D6 rounds.
-
 - Canoe.
-
 - D6 bear pelts.
 
 ### The Life Path System your Tale Begins

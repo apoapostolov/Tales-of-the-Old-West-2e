@@ -60,11 +60,8 @@ The player characters have a little time on the Sunday morning if they wish to t
 Two cowhands, both workers for Ellis Rockcliffe, are at the bar, still drunk from the night before. “Dusty” Wilcutt and Clayton Dicks are troublemakers, and they start to complain. The GM can make use of any or all of the options below, but Wilcutt and Dicks are like to start a bar fight, if they can rile up someone enough to react:
 
 - They complain about the smell in the Homestead Inn.
-
 - They make snide insults about one or more of the player characters.
-
 - They accuse Moyer of watering down his whiskey.
-
 - They insult Father Carmody as a money-grabbing no-good preacher.
 
 You can let this play out as far as you wish, but if you want to curtail the encounter move to the Second Scene.
@@ -86,7 +83,6 @@ CLAYTON DICKS GRIT 5 QUICK 4 CUNNING 3 DOCITY 2 PRESENCE                 2  SHOO
 Either after the altercation, or as a means to cut it short before it leads to someone’s death, two men enter the Homestead Inn. Everyone in town knows these two: Julius Halliday and Duncan Friar are Ellis Rockcliffe’s most trusted enforcers. Depending on how far the encounter with the cowhands has progressed, Halliday and Friar will take one of the following stances:
 
 - If the conflict hasn’t escalated into a fight they threaten Wilcutt and Dicks with the sack if they don’t sober up fast and report for work— the cowhands need the work so they comply, even if they scowl and make growling threats at the player characters or others.
-
 - If the cowhands have been injured in a fight, Halliday tells them that this is the last straw and they are both fired. The cowboys know better than to stand up against Halliday and Friar so leave, but they now bear a grudge against the player characters.
 
 Halliday and Friar invite the players to meet Mr Rockcliffe. If they are surprised, Halliday says Mr Rockcliffe would like to take the opportunity of the holiday to make their acquaintance, and maybe talk over something that might be of mutual benefit.
@@ -100,13 +96,9 @@ Rockcliffe is a fine looking man: tall and broad shouldered, skin bronzed by the
 Rockcliffe is outwardly jovial and welcoming, while Annette is quiet and rarely lifts her eyes from the untouched and unfinished needlework on her lap. She will respond meekly if asked a direct and simple question, but otherwise always looks to Ellis to answer for her. However, despite his joviality Rockcliffe has a serious request to make of them:
 
 - His 17-year-old daughter, Patience, has gone missing and he fears for her safety.
-
 - She disappeared last night—she has taken a bag and her maid, Mary, has disappeared too, presumably gone with her.
-
 - Rockcliffe thinks she has run away—they had a little family tiff yesterday.
-
 - He can’t send his own men after her as she would only run away if she saw them and, as he has a standing in the town, he’d like to keep the whole episode quiet—hence asking for the player characters’ help to find and return her, quickly and quietly.
-
 - He finishes by saying: “ _and I am sure that you all could use a helping hand, here in Steaming Rock, to get yourselves settled and, shall we say, prosperous? What a boon it would be to have the support and gratitude of a leading man in the community behind you, reward for a job I expect will be very well done.”_
 
 If the players ask any follow-up questions Rockcliffe will provide answers: they are missing three horses from the stables; food was taken from the kitchen; it seems Patience and Mary took some clothing and blankets, but little else.
@@ -118,11 +110,8 @@ will lead him to disclose that he and Patience had argued over (what Rockcliffe 
 If any of the players enquire about the atmosphere of the meeting, and/or how genuine either Ellis or Annette seem, allow them an INSIGHT test:
 
 - If they fail the roll they glean nothing.
-
 - For one success they can tell that Annette is terrified of her husband, and that Ellis seems to be taking this situation very calmly for a man who claims to love his daughter.
-
 - For two successes they can tell that Annette is fidgety and seems like she wants to be anywhere but here, and Ellis can’t hide his repressed irritation at her.
-
 - For three successes they can tell that Ellis is hiding something and that Annette knows what it is but is too frightened of her husband to do or say anything about it.
 
 ### The Expert Tracker
@@ -146,9 +135,7 @@ ing. They cannot tell if she is alive or dead unless they examine her, but this 
 If they challenge the wolves, four of them, including the Alpha male, will fight to defend their prize while the others scatter, snarl and prowl. However, if any character finds themselves surrounded by the pack they suffer the Pack Attack instead of a single Bite, as multiple wolves bite and scratch at them from all sides. If any wolf is badly hurt they will flee rather than fight to the death. Once they have chased the wolves off they can survey the scene and see the following:
 
 - The body is that of Mary, and she has been dragged out from the underbrush by the wolves fighting over her.
-
 - If they follow the drag marks they can find the place where Mary’s body was lying before the wolves found it. There are signs of a struggle and a big pool of blood.
-
 - A DOCTORIN’ roll is needed to check her injuries:
 
 ### The Wolf Pack
@@ -156,9 +143,7 @@ If they challenge the wolves, four of them, including the Alpha male, will fight
 When the player characters reach the lower slopes of Canyon Creek Ridge they come across a horrible scene. They can see a pack of wolves tearing at what appears to be the listless form of a person. A successful HAWKEYE test allows them to see that the figure is a young black woman in torn cloth-
 
 - If the roll is unsuccessful it looks like the wolves attacked and killed her.
-
 - For one success they are not sure, but there are possible indications that her throat was cut.
-
 - For two successes they are sure she was killed by having her throat slit, and the wolves must have found her after she was already dead.
 
 ABILITIES FIGHTIN’  MOVE HAWKEYE WOLVES GRIT QUICK CUNNING ATTACKS (GRIT) (QUICK) (CUNNING)
@@ -177,11 +162,8 @@ Should the players fail to spot Patience’s trail to the north there are two cl
 **2** . Higgins sees both trails, but tries not to reveal both of them to the player characters. He suggests they go south, following the trail that heads in the general direction of Fort Cummings and Deming. However, having witnessed the brutalized body of Mary he is becoming increasingly worried about what he is a part of. The players can make an INSIGHT test to see if they notice Higgins’ misgivings:
 
 - If they fail the roll they think that Higgins is simply shaken by poor Mary’s fate.
-
 - If they gain one success they can see that Higgins is conflicted and is hiding something.
-
 - For two successes they get the sense that Higgins is acting against them in some way.
-
 - For three or more successes they can see he’s been trying to mislead them.
 
 The players might be able to pressure Higgins to come clean using either PRESENCE (to intimidate) or PERFORMIN’ (to persuade) in an opposed roll against Higgins’ INSIGHT. If they succeed he tells them all he knows, but if Higgins wins the roll he will say he can’t tell them as his life wouldn’t be worth a spit of salt if he did. If they succeed with many successes they might be able to persuade Higgins to continue to track for them if they need his tracking skills, but he won’t get involved in the Finale. Once they find Peyton’s hunting shack he will use his frontiersman skills to slip away unnoticed.
@@ -199,9 +181,7 @@ The trail heads north, then tracks westwards as it follows the curve of Canyon C
 There are three ways this can play out, depending on what you feel works best for your game:
 
 - The player characters stop to make camp but, in the deepening darkness, they can see the flickering light of a cabin in the distance— they can approach in the dark.
-
 - They spend the night in camp, but then make an early start. They come across the hunting shack as the early dawn is burning off the misty cool of the night.
-
 - They spend a restful night in camp, then continue the search. They follow the trail to the hunting shack, and arrive in the middle of the day.
 
 FLOYD HIGGINS GRIT 4 QUICK 3 CUNNING 5 DOCITY 2 FIGHTIN’                    1  SHOOTIN’                 2 HAWKEYE                 2  DOCTORIN’            1 RESILIENCE              3 NATURE                     3 INSIGHT                    2 ANIMAL HANDLIN’ 3 Talents:  guard dog  (Advanced - Scarlet),  man’s best friend  (Basic - Rebel),  light-footed  (Advanced).
@@ -223,11 +203,8 @@ Tyler Peyton is here, with four other hands and his trusty guard dog. They are s
 When the player characters approach the shack, the NPCs are disposed as follows:
 
 - Patience is locked in the store room. She has obviously been badly beaten and her swollen face is a mess of bruises and cuts.
-
 - Tyler, Billy Conway and “Smokey” Joe DeLacey are in the main cabin, bored and sleepy, but awake. The smell of coffee and recently cooked bacon fills the air.
-
 - Charlie Chivers is asleep in room 4.
-
 - And Peyton’s dog, Digger, is tied by a rope to a post on the stoop. If the player characters attempt to sneak up they will need to make an opposed MOVE against Digger’s HAWKEYE, otherwise the dog will detect something and start barking.
 
 ### The Showdown
@@ -235,23 +212,14 @@ When the player characters approach the shack, the NPCs are disposed as follows:
 It’s entirely up to the players how they want to try and resolve this situation. At some point it is likely to end in a showdown or stand-off between the player characters and Peyton and his men. In this case the following things should happen:
 
    - Peyton realizes that the plan has been rumbled, and says:
-
 - Pedro Hernandez is asleep in room 5.
-
 - _“You boys were s’posed to find nothin’ and Patience would just have up and disappeared.”_
-
 - _“Patience would have come home eventually, when she was all healed up, and has learned that she just shouldn’t cross her Daddy.”_
-
 - _“Pity ‘bout poor li’l Mary—she shoulda just stayed home and not gotten involved.”_
-
 - Peyton will finish by giving the player characters a choice:
-
 - “ _Now you boys can go on and make a ruckus ‘bout all this, or walk on by. I expect Mr Rockcliffe will remember your good sense and loyalty if you_
-
    - _make that second choice, but I’m damn sure he’ll remember you if you make the first one..._ ”
-
 - If the showdown makes any kind of noise Patience hears it and screams for help. She keeps making noise until Peyton orders Billy Conway to go and “ _quieten that li’l girl down_ .”
-
 - Patience, taking advantage of the distraction, breaks out of the store room, and grabs a shotgun from the table in the living room. It only has two shots but she will threaten Billy Conway with it, and will shoot if pushed too far.
 
 TYLER PEYTON GRIT 4 QUICK 4 CUNNING 4 DOCITY 3 PRESENCE                 2  MOVE                        1  INSIGHT                    2  PERFORMIN’            1 FIGHTIN’                    2 SHOOTIN’                 2 ANIMAL HANDLIN’ 3 Loyal and ruthless but intelligent. He’s more than just a thug.

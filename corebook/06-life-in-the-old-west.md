@@ -35,9 +35,7 @@ There is no upper limit to how many points of Capital you may have—after all, 
 Your Capital represents your investments and assets, so it cannot be used to buy normal gear or services unless it has been liquidated into cash. Capital can be used for three things:
 
 - Starting or investing in a business (an “outfit”).
-
 - Buying or improving property.
-
 - Liquidating into cash.
 
 **Starting or investing in a business outfit** : You can use Capital to invest in your business (or another’s, with the proprietor’s agreement) and so improve the business’s chances of flourishing. Capital invested in a business not only increases the overall profitability of the outfit and the salaries paid to its proprietor and employees, it also earns you extra money if that business is successful (see Season Business Rolls on page 181). Keep track of your investments on your character sheet and the Outfit Business Accounts.
@@ -125,9 +123,7 @@ If more than one character starts the game with an outfit, they can either choos
 A new outfit requires the following:
 
 - The business, product or service it is offering, such as a bakery or horse ranch.
-
 - A named proprietor (a player character or compadre) who runs the business from day to day.
-
 - At least 1 point of Capital invested in it, although it can have more.
 
 **What Kind of Business?** The nature of a new business can be anything the player characters want, with the GM’s approval. Each business has a linked key ability, the ability that’s critical to the success or failure of the business—the named proprietor makes a roll against the key ability during the Turn of the Season to see how well the business has been doing. Many outfits require a property to operate from, but some don’t.
@@ -282,15 +278,12 @@ Note: Features can only be chosen once per property, with the exception of Upgra
 Some new player characters may start with an outfit. The GM should feel free to decide for themselves what kind of property and land their player characters have at the start of their campaign, but otherwise follow these simple rules. The types of property available during character creation are:
 
 - A Business Property/Store—a plot in town where you make and/or sell your wares, with accommodation that might be as simple as a tent or could be a more robust building.
-
 - A Claim—the rights to a mine, a panning
 
 claim on a local waterway, a stretch of forest for lumber or anything similar.
 
 - A Dwelling—just a place to live without any outfit connected with it, at least for now.
-
 - A Homestead/Ranch—often 160 acres of land with a self-built home.
-
 - A Saloon—a saloon bar, casino, bordello, cathouse, bath house, or anything else that fits the hospitality theme.
 
 Roll D6 on the table below, or choose, the property’s starting Status and Location Type. Add any features that are also earned during Your Tale Begins.
@@ -348,9 +341,7 @@ A player character’s starting Fame score is based on how long they have been a
 > _Your Reputation is recorded using two scores from 1 to 6, for Morals and Public Spirit. Torie Barnes is a scruffy-looking frontierswoman, not known for her high style but with a reputation for an independent spirit and a kind heart. Her Morals score is 5—she is known for doing the right thing when push comes to shove—and her Public Spirit is 3—she’s not the first to help out others but often comes through when the need is acute. Cross-referring her scores on the Reputation Table gives a narrative result of “Likable, Indecisive.” She is well-liked about town, but the local folks think she doesn’t really want to get involved in business that ain’t hers, and that she’s slow to help when folks are in need._
 
 - One Living gives a base Fame of 0.
-
 - Two Livings give a base Fame of 1.
-
 - Three Livings gives a base Fame of 2.
 
 Reputation starts at 3 / 3 (a score of three on both axes on the Reputation Table), giving a result of “Unimportant and irrelevant, who are you?” or you may roll D66 to decide, at the GM’s discretion. As with Fame, Reputation may be modified by the outcome of your player character’s lifepath.
@@ -362,9 +353,7 @@ she’s slow to help when folks are in need.
 Fame and Reputation influence events in three ways:
 
 - Recognition—“who in hell is that?” When you arrive in a new town or location the GM may ask you to make a Fame roll to see if anyone recognizes you. Roll a number of dice equal to your current Fame. If any successes are rolled you are recognized by someone. How people react to you—if indeed they react to you at all—then depends on your Reputation. The GM decides what transpires.
-
 - Celebrity—“don’t you know who I am?” When you are involved in a situation where you are either influencing, or being influenced by, another person (using your PRESENCE or PERFORMIN’ abilities) your Fame and Reputation may come into play (unless it is clear the reputational relationship would not apply—the GM decides). The difference between the two Fame Scores is applied as bonus dice to the character with the higher Fame, to a maximum bonus of +3.
-
 - Reputation—“don’t mess with him, he’s a bad man”. Your Reputation has a narrative effect on how non-player characters see you, and how they react to you, as judged by the GM.
 
 ### Modifying Fame and Reputation
@@ -424,7 +413,6 @@ If they need a talent for their job, agree this with the GM and note that too.
 Each compadre is randomly assigned two personality traits by rolling D66 twice on the Reputation Table on page 102:
 
 - Their reputation, which is seen by all. This influences what everyone thinks about them and how they come across to others.
-
 - Their private personality, which lurks beneath the surface. This personality might come out in times of trouble or hardship and will influence what they can or will do for their player character, and how they might react as your tale unfolds.
 
 ### Gear and Items
@@ -661,11 +649,8 @@ There are two types of game the player characters can join: a house game, where 
 A Session of cards follows four steps:
 
 - You set the stakes and work out the pot.
-
 - Deal, and see how the damned cards are treating you.
-
 - Choose your Tactic, how you want to play based on the damned cards—cheat, bluff, or play straight.
-
 - Roll the dice and see who wins big.
 
 > _The gambling rules in Tales of the Old West are not intended to simulate a hand-by-hand game of cards, but to recreate an evening at the table in no more than three or four rounds of cards. We call these rounds “Sessions”. In-game, a Session can last anywhere from 30 minutes to two hours, at the GM’s discretion. The rules here recreate the play in that Session into one set of rolls._
@@ -691,7 +676,6 @@ C h oos e  y ou r  t ac t i c
 > _If you play a Session of cards and none of the characters at the table score any successes, one of two things happens: if the card game is a house game, the house wins and everyone playing loses their stake; if the game is not a house game all the characters end up even and make back their original stake._
 
 - If you decide to Play, use your INSIGHT ability.
-
 - And if you choose to Bluff, use your PERFORMIN’ ability.
 
 But bear in mind:
@@ -794,7 +778,6 @@ Am er ic a n s a d d l e b r e d
 All horses are capable of kicking and biting, unless they have the DOCILE flaw, although you will need the **companion** talent if you want your horse to kick or bite for you. Basic horse attacks, which can be modified by qualities or flaws, are:
 
 - BITE: Damage 1, Crit 3
-
 - KICK: Damage 2, Crit 2
 
 ### Creating your Horse
@@ -887,9 +870,7 @@ A horse with a Wildness of 0 or 1 is fit to ride, and can be trained to learn ne
 Training a horse follows a similar process to that of breaking a wild horse, although how easily a horse can be trained depends on its Cunning. You can only train a horse if you have the **bronc buster** talent and the horse’s Wildness is either 0 or 1. The effort to train a quality, or train out a flaw, is divided into months. Training a horse follows these steps, and can only happen if you are available to devote enough time during that month to training, as determined by the GM:
 
 - At the end of the month you make an ANIMAL HANDLIN’ roll. The successes add bonus dice to the next roll.
-
 - Roll a number of dice equal to your horse’s Cunning attribute, with bonus dice from your ANIMAL HANDLIN’ roll, if any. This roll cannot be pushed. If the horse gains any successes they have learned the desired quality, or had the flaw trained out. If they fail the roll you can keep training and make another attempt after another month has passed.
-
 - However, if the horse fails to learn after three attempts it can never learn that quality, or unlearn that flaw.
 
 The maximum number of qualities a horse can have is five—once it reaches that level it cannot be developed any further, but will be one helluva horse!
@@ -905,15 +886,10 @@ When one or more characters are in pursuit of others, a chase ensues. If you are
 A chase follows these stages:
 
 - The GM declares the range of the chase, i.e., how far the pursuers are away from their quarry: Near, Short, Medium, Long or Distant.
-
 - Every Round, those involved must try to stay in the chase by using a fast action and making an opposed roll, with their MOVE or ANIMAL HANDLIN’ ability. If the pursuer gains more successes than their quarry they close on them by a number of range categories equal to the excess successes they gained. If the quarry gains more successes than their pursuer the range between them increases by one range category per excess success. If the roll is a draw the range remains the same.
-
 - During a chase a character cannot use their slow action to make a second MOVE or ANIMAL HANDLIN’ roll, as all participants are assumed to be running or riding as fast as they are able. However, they can use their slow action to focus on running or riding, to the exclusion of all else, instead of taking a secondary action. In that case they gain a +2 bonus to their chase roll for that Round. Alternatively, a character may use their slow action to do something else while they are chasing, such as taking a shot or using a lasso.
-
 - If the range increases beyond Distant (or Long, in the case of a foot chase) the quarry has escaped and the chase is over.
-
 - If the range closes to Arm’s Length the pursuers have reached their quarry and the chase is over. The quarry is caught, unless they choose to fight.
-
 - Chases are exhausting. At a point decided by the GM, all participants test against exhaustion by making a RESILIENCE roll. Who makes the roll depends on the kind of chase: in a foot chase the characters involved must roll; in a chase on horseback their steeds must make the roll. If the roll is failed they suffer one point of Hurts.
 
 **Chases on Foot and Horseback** : Sometimes a chase involves participants who are not all on foot, all on horseback or all using a wagon or cart. In these situations the pursuer gains a modification to their dice pool, as noted in the table below.

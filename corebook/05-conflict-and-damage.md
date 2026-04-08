@@ -121,11 +121,8 @@ To make a melee attack you roll your FIGHTIN’ ability. If successful, your att
 **Stunts** : For every extra success you roll after the first, choose one of these stunts:
 
 - Inflict 1 more point of damage. You can choose this stunt multiple times.
-
 - Your opponent falls to the ground or is pushed back—through a door or over a cliff, for example.
-
 - Hold the opponent in a Grapple (page 70).
-
 - Inflict a critical injury if you have sufficient extra successes to meet the Crit Rating of the weapon you are attacking with.
 
 ### Called Strikes in Action
@@ -153,9 +150,7 @@ If you Grapple your opponent as a stunt you both become locked in a battle of st
 Once you have Grappled an opponent you can take one of three actions when it is your turn:
 
 - Use a fast action to release the Grapple and let them go.
-
 - Hold them in place. This takes a slow action and is automatically successful, although you will still need to resist any attempt they may make to break free.
-
 - Try to subdue them. This counts as an attack, and takes a slow action. You make an opposed LABOR roll. For every success you gain over and above those of your victim, you inflict 1 point of Shakes or Hurts, as usual. If your opponent wins the opposed roll they have resisted your attempt to subdue them, and also inflict 1 point of Shakes on you. Your opponent is subdued either when they are Broken, or the character declares they give up.
 
 Once Grappled, your opponent may either attempt to break free or, if they are already holding a knife or a pistol in their hand, they may try to bring that weapon to bear against you. In both cases, those
@@ -211,11 +206,8 @@ If you Aim before making a Called Shot it only adds +1 bonus instead of the usua
 To make a ranged attack you roll your SHOOTIN’ ability. If your attack hits, you inflict damage equal to the weapon’s Damage rating, inflicted as Shakes and Hurts. The first point of damage is applied as Shakes, then Hurts, then Shakes, and so on. Damage may be mitigated by cover. For every extra success you roll, choose one of these stunts:
 
 - Inflict 1 additional point of damage. You may choose this stunt multiple times.
-
 - Pin down your enemy. They take 1 point of Doubts. You may choose this stunt multiple times.
-
 - Your opponent falls to the ground or is pushed back, for example through a doorway.
-
 - Inflict a critical injury (if you have sufficient extra successes to meet the Crit Rating of the weapon you are attacking with).
 
 ### Duels
@@ -237,11 +229,8 @@ Factor Modification Aimed shot / All-out attack +2 Called Shot / Strike -3 Aimin
 **Go for Your Guns** : The gunfighters make an opposed LIGHT-FINGERED roll to Draw their guns, with the following modifications to their dice pools:
 
 - Plus or minus the Draw modifier of their weapon.
-
 - Plus any other gear bonus (for a quick-draw holster, for example).
-
 - Plus any talent bonus.
-
 - Plus any bonus dice from the PRESENCE roll during the Face Off.
 
 The winner gets to their gun first. If the roll is a tie, both gunfighters shoot simultaneously.
@@ -259,11 +248,8 @@ The winner gets to their gun first. If the roll is a tie, both gunfighters shoot
 You can only fan your weapon if:
 
 - Your weapon is a single-action pistol.
-
 - It has at least 4 bullets left.
-
 - You have both hands free—this is a two-handed attack.
-
 - You have all your actions available—fanning takes your entire Round.
 
 You cannot Aim before fanning, and neither can you make a Called Shot.
@@ -271,17 +257,11 @@ You cannot Aim before fanning, and neither can you make a Called Shot.
 When fanning your weapon:
 
 - You fill the air with lead, but fanning your weapon is not an accurate way of shooting. You suffer a −2 modifier to your SHOOTIN’ roll.If you wish to target more than one enemy with your fanning attack (up to a maximum of three, as long as they are all within Arm’s Length of one another), you suffer an additional −1 die penalty per extra target. You must declare this before you roll for the attack.
-
 - In every fanning attack the first success counts as two bullet hits, as if it were two separate attacks. These can hit the same target or be split across two targets (as long as the intention to hit more than one target was made before the dice are rolled). These two hits both count as separate attacks and each delivers damage equal to the damage rating for the weapon. Further successes can be used in the following ways:
-
 - To have a third bullet strike a third target (if this intention was declared before the dice are rolled) and cause damage equal to the weapon’s damage rating.
-
 - To perform stunts in the usual way (to add damage to one or more of the attacks, inflict a critical injury, etc.).
-
 - If you score a critical injury with a fanning attack, roll twice and take the lesser of the two results.
-
 - Your weapon is emptied by the attack and you need to reload before you can shoot again.
-
 - You cannot fan your weapon while you are using the Dueling rules. You may fan your gun once you have taken your first shot and move to using the normal combat rules.
 
 ### Overwatch
@@ -299,7 +279,6 @@ Firing while you’re in an overwatch position counts as a normal attack (a slow
 **Losing Overwatch** : You keep your overwatch position as long as you do nothing but shoot in the chosen direction. If you perform any other action, the overwatch position is lost. It is also immediately lost if either of the following occurs:
 
 - You are the target of a melee attack.
-
 - You suffer damage of any kind.
 
 ### Sneak Attacks & Ambushes
@@ -347,19 +326,14 @@ If neither party is willing to back down or agree with the other, the social con
 Your chances of persuading someone successfully are affected by your negotiating position, which is determined by the GM. Each of the following factors gives you a +1 bonus:
 
 - You have more people on your side.
-
 - What you’re asking for doesn’t cost your opponent anything.
-
 - You have previously helped your opponent.
-
 - You present your case very well (determined by the GM).
 
 Each of the following factors gives you a −1 penalty.
 
 - Your opponent has more people on their side.
-
 - You ask for something valuable or dangerous.
-
 - Your opponent has nothing to gain by helping you.
 
 ### Damage
@@ -395,7 +369,6 @@ If you are Broken, the fastest way to recover is for someone else to treat you. 
 There are two ways in which a critical injury can be inflicted:
 
 - Each weapon has a Crit Rating, indicating the number of stunts required for that weapon to inflict a critical injury—the lower the rating the more likely the weapon is to inflict a critical injury.
-
 - A critical injury is automatically triggered if a character who is Broken on Grit or Quick takes any more damage to the Broken attribute.
 
 ### Inflicting a Critical Injury
@@ -411,7 +384,6 @@ Once a critical injury has been inflicted you need to know where that injury is,
 Each critical injury has an immediate effect and a long-term effect, as listed in the Critical Injury Table.
 
 - The immediate effect applies as soon as the injury is inflicted and continues to impact the character until the injury has fully healed— how long this takes is determined by the injury’s healing time.
-
 - Long-term effects are managed differently. They take effect once the healing time has passed, and if they take effect they are permanent. However, these often very serious effects can be prevented with a successful DOCTORIN’ roll that must be made during the injury’s healing time.
 
 than by time—they are removed when the healing time for the injury expires.
@@ -445,9 +417,7 @@ There are five conditions your player character can suffer if they find themselv
 You must eat a ration of food at least once every day. After a day without food, you become Starving. This has several effects:
 
 - You cannot recover Grit in any way, but you can recover other attributes.
-
 - You suffer 1 point of Hurts per week. If your Grit is Broken while Starving, you must make a Death roll, then one for every week without food, until you find food or die.
-
 - As soon as you have eaten, you are no longer Starving, and you can recover Grit normally.
 
 Immediate critical effects cannot be healed other
@@ -504,17 +474,13 @@ Immediate critical effects cannot be healed other
 You must drink a ration of water at least once per day. After a day without water, you become Dehydrated. This has several effects:
 
 - You cannot recover any attributes. If you are Broken, you need to drink water to get back up again.
-
 - You take 1 point of both Hurts and Shakes every day. If you are Broken on either Grit or Quick while Dehydrated, you must make a Death roll, then another every day until you quench your thirst or die.
-
 - As soon as you drink, you are no longer Dehydrated, and you can recover your attributes normally.
 
 your brain. You can even hallucinate, causing you to act irrationally—details are up to the GM to decide. Some say that when you are close to freezing to death, you feel a strong burning sensation that can make you tear your clothes off.
 
 - If you are Broken on Grit while Freezing, you must make a Death roll every Day, Shift, or Turn, depending on the severity of the cold.
-
 - If you are Broken on Cunning while Freezing, you are unable to carry on and sit passively waiting for the end. You continue to suffer the effects of Freezing until either you are rescued or you die.
-
 - After you have warmed up again, even if only by a campfire, you are no longer Freezing and you can recover Grit and Cunning normally.
 
 ### Exhausted
@@ -524,11 +490,8 @@ your brain. You can even hallucinate, causing you to act irrationally—details 
 You need to sleep for at least one Shift each day. After one day without sleep, you become Exhausted. This has several effects:
 
 - You cannot recover Docity or Cunning.
-
 - You take 1 point of Doubts and Vexes each day.
-
 - If either Docity or Cunning is Broken while Exhausted, you collapse immediately into sleep for a full Shift.
-
 - As soon as you have slept for at least a Shift, you are no longer Exhausted, and you can recover Docity and Cunning normally.
 
 ### Freezing
@@ -540,13 +503,9 @@ In an environment without enough clothes or shelter, you become Freezing. Being 
 The midday sun can sear the flesh off a dead bull in no time at all, and it can do the same to a careless wanderer. Too much time in the sun leads to Heatstroke, which has several effects:
 
 - You cannot recover any attribute points.
-
 - You suffer the effects of Trouble on all rolls, not just pushed rolls.
-
 - You need to make a RESILIENCE roll every Shift. If you fail, you suffer 1 point of damage to all your attributes as the heat saps your strength and will to live.
-
 - If you are Broken on Grit while suffering from Heatstroke you must make a Death roll every Shift, until you find shelter and cool down, or you die.
-
 - After you find shelter it takes one Shift to fully recover.
 
 ### Fire
@@ -624,15 +583,12 @@ A character with the DOCTORIN’ ability knows enough about medicine to use it t
 The strength of a disease is measured by its Virulence, of 1, 2, or 3. Very rarely would a disease have a Virulence of 4 or more. When exposed to a dangerous contagion or infection you need to roll a RESILIENCE test, and—to resist the disease—roll as many successes as the Virulence rating of the disease. This is called a Sickness roll. If you fail the roll, you fall Sick, which has several effects:
 
 - One day after infection the disease breaks, at which time you suffer 1 point of both Hurts and Shakes.
-
 - You can’t recover your Grit or Quick while Sick.
-
 - Make another Sickness roll once per day. Each
 
 failed roll means you suffer another point of both Hurts and Shakes.
 
 - If you are Broken on Grit when Sick, you must immediately make a Death roll. Thereafter, each day you make a Sickness roll, and if that is failed you immediately make another Death roll until you recover or the disease carries you off.
-
 - As soon as you succeed at a Sickness roll, you are no longer Sick, and recover your attributes normally.
 
 **Medical Aid** : If you are cared for by someone during your sickness, that person can support your recovery. They can add a number of bonus dice to your RESILIENCE roll equal to the number of successes they get on a DOCTORIN’ test. But if they fail their roll you get a −1 penalty to your RESILIENCE roll.

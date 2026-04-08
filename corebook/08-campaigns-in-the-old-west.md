@@ -141,13 +141,9 @@ The town’s Prosperity gives an overall indication of the town’s level of dev
 For a town to grow it must develop, and to do this the town must make amenities. These come in several forms:
 
 - Physical buildings for the community, such as a church, public latrines, or a gallows.
-
 - Efforts to encourage new business into town, such as saloons, hotels, and horse traders.
-
 - Efforts to make the town a better place to live, such as putting up wanted posters, inviting bounty hunters to town, or getting on the stagecoach route.
-
 - Municipal activities that bring the community together, such as land clearance, animal culls, or other community projects.
-
 - Activities that build the strength of the community’s spirit, like festivals, seasonal fairs, or mayoral elections.
 
 Each amenity offers bonus tally points to one or more of the town’s aspects, although some diminish one aspect while boosting others—sometimes an amenity might bring a benefit to the town, but has a downside that needs to be accounted for too.
@@ -401,9 +397,7 @@ The place where you live makes a huge difference to how successful you are. The 
 During the Turn of the Season the players make three types of roll to determine how life has treated them and their town. These rolls are all impacted by the aspect ranks and Prosperity of the town:
 
 - The Turn of the Season Business roll determines how well a character’s business outfit has performed. This is modified based on the level of the town’s Law aspect, and the aspect relevant to that business (preachers are a special case, and make a Congregation roll rather than a Business roll to see how well they have done).
-
 - The Personal Fortune roll shows how life has treated each player character personally,  modified by the rank of the town’s Welfare aspect.
-
 - And finally, a Town Fortune roll, modified by the town’s overall Prosperity, determines how things have fared for the town as a whole.
 
 ### Starting your New Town
@@ -449,19 +443,12 @@ any modifier would reduce the score to zero it is ignored and the tally remains 
 > _You will see from the example Town Tracker below how you record and monitor the progress of your settlement. In this example, we are looking at a new town—let’s call it Mattsville—with six starting amenities:_
 
 - _Mattsville started with one tally point in every aspect (rank 1), and then the players carefully chose six amenities. However, even with those amenities two of the town’s aspects are still at rank 1 (Natural Riches and Welfare), the lowest rank an aspect of a functioning settlement can be._
-
 - _However, the folk of Mattsville have made some progress towards rank 2 in Natural Riches, having gained one point thanks to the General Stores amenity._
-
 - _Sadly, they have made no progress on Welfare, and while this is still rank 1, if it goes any lower in play the town is doomed._
-
 - _However, Farming, Law and Civic are all rank 2, where amenities have given them tally points:_
-
 - _Farming has benefited from Horse Traders (two points) and Mills (one point)._
-
 - _Law has gained two points from building a permanent Gallows, and one point each from Boardwalks and the Pony Express Route._
-
 - _And Civic has also benefited from the Boardwalks and Gallows, gaining two points and one point respectively._
-
 - _But what Mattsville excels at is trading. They have invested the most effort so far in getting their Mercantile aspect up to rank 3, with two points from the General Stores and the Pony Express Route, and one point each from Horse Traders and Mills._
 
 > _While business in town is going well, it’s a very tough place to live. The town’s Prosperity (11) is pretty bad, but it’s not as bad as it might be. It’s certainly a start!_
@@ -473,11 +460,8 @@ any modifier would reduce the score to zero it is ignored and the tally remains 
 If any aspect’s tally points are reduced to zero—and thus its rank falls below 1—the town fails, and is done for. This does not mean the town is immediately wiped off the map (although that could be an option if the failing aspects were either Law or Welfare), but it does mean the following:
 
 - No new amenities can be created.
-
 - All Settlement Points are lost, and no more can be earned for this town.
-
 - The aspect ranks for every other aspect are immediately reduced by one, and thereafter are automatically reduced by one rank per season. This decline cannot be stopped.
-
 - People start to leave town to find a new life elsewhere.
 
 In practice, although the town is failing it’s possible that it may struggle on for a few more seasons, and while it does, the Turn of the Season rules still apply. But it’s a losing battle. The town is finished.
@@ -511,9 +495,7 @@ per season is a good standard—that way your campaign might last a few years of
 At the end of every season the players need to see how well their characters’ businesses did. The outfit’s Season Business roll is made by the player whose character is the proprietor of the business, using the ability relevant to that business (e.g., a saloon business would require a PERFORMIN’ roll). The dice pool is modified as follows:
 
 - Other player characters, player characters’ compadres, and non-player character employees, that either own a stake in, or work for, the business can help with the roll, up to a maximum of +3 dice, as long as they have been actively involved in running the business during that season.
-
 - Add the modifier for the level of Competition in the town, from −2 to +2 dice (see the Competition table below).
-
 - Add any modifiers provided by the status of the town itself. Every business is affected by the level of Law in the town, and specific businesses are affected by the aspect that is relevant to them (page 182).
 
 ### _LOOKING BACK_
@@ -521,19 +503,14 @@ At the end of every season the players need to see how well their characters’ 
 ### Competition Modifiers
 
 - _Apply Amenity Modifiers_
-
 - _Season Business Rolls_
-
 - _Season Congregation Rolls_
 
 ### _LOOKING FORWARD_
 
 - _Choose New Town Amenities_
-
 - _Lifestyle_
-
 - _Personal Fortune Rolls_
-
 - _Town Fortune Rolls_
 
 ### Looking Back
@@ -562,13 +539,9 @@ All the bonuses and penalties stack up. If conditions are so bad that you have z
 > _The dice pool for a Season Business roll is built as follows:_
 
 - _The roll is made using the proprietor’s key ability relevant to the business._
-
 - _Add bonus dice for help from fellow player characters, compadres or NPC employees who have been working for the business during the season (maximum of a +3 bonus)._
-
 - _Apply the Competition modifier._
-
 - _Apply the town’s Law aspect modifier._
-
 - _Apply the modifier from the town’s aspect that is relevant to the business._
 
 ### Making the Roll
@@ -580,7 +553,6 @@ The Season Business roll is like any other, except it cannot be pushed and you d
 business and turn them into cash), find another way to cover the wages, or not pay them at all and suffer the consequences. Roll once on the Business Penalty table.
 
 - If the roll achieves one success the business is steady, all the seasonal expenses and running costs have been paid and the proprietor and employees can all draw their wages (without any additional cost to the owners).
-
 - If the roll achieves more than one success the business has done very well indeed. Roll once on the Business Bonus table, with each extra success beyond the first giving a +1 bonus to the Tens die. Any bonanza gained in this way is divided among the investors as they see fit.
 
 | D66 Business Bonus Business Penalty |  |
@@ -641,11 +613,8 @@ A preacher on the wild frontier makes money based on the donations of his congre
 At the Turn of the Season a preacher who has been active during the previous season makes a PERFORMIN’ test to see how effectively they have preached and how much they made in donations from their faithful parishoners. This roll, as with all Turn of the Season rolls, cannot be pushed, but is modified by the following:
 
 - +1 bonus for every five points of Fame the preacher has.
-
 - +1 bonus for help from relevant player characters or compadres, or for the support of a notable figure in town (to a maximum of +3).
-
 - A competition modifier (from +2 to −2, depending on the number of other preachers in the town).
-
 - The modifiers for the town’s Law and Civic aspects (as for Business rolls above).
 
 The number of successes on this PERFORMIN’ roll determines the level of donations received during that season—you roll 1D6 per success (to a maximum of 5D6) and multiply the total by the current Prosperity Level of the town. The result is the total of donations in dollars received that season. If the preacher fails their roll they still get a few ‘pity’ donations, equal to the current Prosperity of the town in dollars—even a rubbish preacher will get something from the most faithful in the town.
@@ -655,9 +624,7 @@ The number of successes on this PERFORMIN’ roll determines the level of donati
 > _Father Brayton Carmody has been speaking the word of the Lord from the old wooden church in the town of Steaming Rock. The town is new and struggling, and has a low Prosperity score of just 12. Carmody has a PERFORMIN’ ability of 6 dice in total. He gains a +1 bonus for the church, and +1 bonus for the help of John the Purser, his usually drunk compadre. He’s also favored by the pre-eminent Rockcliffe family and gains another +1 bonus for their patronage. He’s the only preacher in town, so gains a +2 bonus from the lack of competition. Adding all that up he has a total of 11 dice. He rolls and gains two successes. His seasonal donations equals 1D6 per success (i.e., 2D6) multiplied by the Prosperity of the town (12). He rolls a 3 and a 4, for a total of 7, and earns in donations a total of 7×12=$84. Had he rolled no successes he would still have received $12 (the town’s current Prosperity in dollars). Life is hard in a little town like Steaming Rock, even for the preacher._
 
 - −3 penalty if they preach on a street corner.
-
 - −1 penalty if they preach from a shack or a saloon bar.
-
 - +1 bonus if they preach from a well-kept, purpose-built church.
 
 ### Lifestyle
@@ -688,7 +655,6 @@ Each player character gets one roll on the Personal Fortunes table below to dete
 To determine their character’s Personal Fortune for this season, each player should roll D66 and consult the Personal Fortunes table. Apply the following modifications:
 
 - If they live in a town with a Welfare aspect of 1 or 2, or they live in the wilds, modify the Tens die by −1.
-
 - If they live in a town with a Welfare aspect of 5 or 6, add +1 to the Tens die.
 
 **Jackpots and Calamities** : A naturally-rolled result of 66 ( Jackpot!) or 11 (Calamity!) always counts as that result, regardless of any modifications that may be applied to the roll. In this way even those who live in a town with a poor Welfare aspect can hope to gain a Jackpot! (which they otherwise would not be able to), and those who live in a town with a very good Welfare aspect might still suffer a Calamity!

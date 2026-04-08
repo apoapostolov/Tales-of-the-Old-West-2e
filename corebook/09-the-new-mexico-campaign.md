@@ -49,9 +49,7 @@ With such a varied landscape, the wildlife of New Mexico is equally diverse. Des
 The King of Santa Fe is a detailed campaign framework that provides all the information and story hooks you need to create a deep and exciting campaign set in New Mexico. You can follow the story of The King of Santa Fe, or interweave its tales and characters into your own campaign. The framework offers a choice of three locations as the focus of your campaign—the fictional towns of Jornada Springs, Steaming Rock, and Carson’s Folly.
 
 - Jornada Springs is settled on the eastern edge of the Rio Grande river valley, alongside the small brook of the same name that flows from the Sierra Oscura mountains. It’s a ranching town, with some mining potential in the hills.
-
 - Steaming Rock lies on the northern side of the Gila Forest in southwestern New Mexico, between the Elk and Bar Mountains. It’s a town founded on mining and timber, with hot springs that bubble nearby.
-
 - Carson’s Folly is in the northeast, alongside Cottonmouth Creek and in the shadow of the mountains, with the Great Plains laid out south and east. The town was established as a trading post and hunting camp, but there’s also the potential for mining and timber in the hills.
 
 The campaign framework offers you the opportunity to involve all three towns, giving your campaign a scope that is literally territory-wide.
@@ -85,11 +83,8 @@ King thrived. He became rich and powerful. Using his ill-gotten capital he set u
 His closest associates in the Santa Fe Ring—those he trusts—are:
 
 - Astor Clay, a banker from Albuquerque who has many mining and timber businesses. King uses him to garner bank loans when he needs them, and to get the banks to pressure his enemies who might owe money.
-
 - Joan Davidson, the head of the great Davidson ranching clan based in Lincoln. King leans on
-
    - her support when he needs a lot of muscle, and to keep the other cattle barons in line.
-
 - Jeffrey Williamson, an influential administrator in the Santa Fe office of Governor Marsh Giddings. Williamson is King’s go-to man when he needs legal cover, and when he needs a favor from the Governor.
 
 ### Clarence King
@@ -101,7 +96,6 @@ King is short, stocky and overweight. He’s not a great horseman, but can handl
 It’s Spring 1873 and trouble is brewing in Santa Fe. Clarence King knows a faction within the Santa Fe Ring—the Quinlivan faction—is envious of his preeminence and is working against him. He feels exposed and vulnerable, and needs to make some bold moves to consolidate his business and power base. King has three plans to bolster his position— once these come to fruition he turns his influence against Quinlivan and his cronies, to either drive them out of Santa Fe or kill them:
 
 - Secure the Spanish Land Rights still up for grabs in the southern Rio Grande valley. To do this he needs to take control of the ranching interests in Jornada Springs.
-
 - Gain a base of operations in the Gila Mountains for the New Mexico Mercantile Cooperative (NMMC), from which he can rival Silver City as the center of mining in that region. The town of Steaming Rock is perfect.
 
 CLARENCE KING GRIT 4 QUICK 3 CUNNING 4 DOCITY 4 PRESENCE                 4  SHOOTIN’                 2 HAWKEYE                 2  PERFORMIN’             4 RESILIENCE              2 INSIGHT                    4 BOOKLEARNIN’       3 Talents:  authority  (Advanced),  charming  (Advanced),  cold blooded  (Advanced),  business minded (Advanced),  high society  (Advanced).
@@ -122,7 +116,6 @@ As well as friends, King has enemies within the Santa Fe Ring. A faction, led by
 Quinlivan’s closest allies are:
 
 - Cahal Callaghan, an influential cattle rancher from Fort Sumner, who rivals the Davidson family in wealth, influence, and manpower.
-
 - Oonagh Copeland, the head of the Copeland timber empire, based in Las Vegas. She is also closely connected with the Pinkerton Detective Agency through her marriage to William Rucker, the son of one of the agency’s founders.
 
 Quinlivan and his allies challenge King’s expansion across New Mexico. They disrupt any relationships that King has in these towns, and build their own support. If they have to kill a few key people to do this, then so be it.
@@ -548,9 +541,7 @@ In this tale, the player characters travel to Santa Fe to negotiate with Clarenc
 **THE FINALE** : What happens in the finale depends on how the negotiations go.
 
 - If the player characters did well during the negotiation King agrees to their terms, or agrees to moderate his activities in their town—but he becomes a deadly enemy.
-
 - If King is unimpressed by their performance in the interview he tells them to return to their town and mind their own, tiny, business, with a naked threat to their lives if they are ever foolish enough to breathe a word of what they think they know.
-
 - If the player characters perform badly during the negotiation, and anger King, he will never intend to have a second meeting. He sends a group of men to kill them that night. How the player characters manage this situation is down to them, and the roll of the dice.
 
 ### Adventure 6 - Long Live the King?
@@ -562,9 +553,7 @@ This tale is the thrilling finale to the campaign, during which the player chara
 **STARTING THE ACTION** : The action depends on what happened in the last tale.
 
 - If the player characters struck a deal with King they may think they are free to leave, but Quinlivan is angry and demands an explanation—he may turn to violence to express his disappointment with the player characters.
-
 - If the player characters have been told to skitter off back home, or indeed if King has already tried to kill them, the player characters may decide enough is enough, and finally kill King for their own good, and that of their town.
-
 - They may try to get the law involved, but will quickly see that this course of action is not open to them, thanks to the influence of the Santa Fe Ring.
 
 **THE FINALE** : The finale depends on the player characters’ actions, but the adventure will reach a tense, thrilling, and potentially violent conclusion. They may have to fight to survive. But with faith, determination, and a little luck, the player characters may return home to live their lives and forge even more tales of the Old West.
@@ -574,9 +563,7 @@ This tale is the thrilling finale to the campaign, during which the player chara
 There are several potential conclusions:
 
 - It is possible that some of the player characters will not survive their visit to Santa Fe. Their land, homes, and businesses will pass on to family or friends. But if they lose to King their town may now be in the grip of a merciless and avaricious robber baron. It will be down to other folks in the town to resist, and repel, King’s influence, and another campaign may be born.
-
 - Clarence King may be dead, or ruined. If King still lives he hunkers down to lick his wounds, nursing a powerful desire to take revenge upon the player characters. If he is dead it may seem to be all over. But King has friends who may wish to take up his reins in future.
-
 - They may have made a deal with King, and everyone wins—or so it seems. King doesn’t take kindly to being forced to make deals he’d rather not. There may now be a status quo that seems to suit everyone, but King will always want more. And Quinlivan is livid, and now ranks the player characters among his enemies.
 
 But for now, the player characters can return home and continue with their lives on the frontier…

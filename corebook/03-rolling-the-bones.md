@@ -168,7 +168,6 @@ Each character has a pool of Faith Points, starting with 4 at the beginning of e
 Your character’s Faith Points have two uses:
 
 - Faith is spent to push your rolls, at a rate of 1 Faith Point per push.
-
 - Faith is spent to buy your way out of Trouble.
 
 If your reserve of Faith runs out (your total Faith Points reaches zero) you have shaken your Faith and must restore it.
@@ -186,13 +185,11 @@ This list is not exhaustive, and the GM should allow their players to be imagina
 If your Faith Points are ever reduced to zero, your faith has been shaken, your confidence suffers, and you won’t take risks. In this case, the following applies:
 
 - You cannot push your rolls.
-
 - You cannot gain Faith Points through normal means.
 
 These penalties apply until your Faith is restored, in one of two ways:
 
 - You make an ability roll and get four successes on that roll (remembering that you cannot push, as you have no Faith). This restores your faith and you gain 1 Faith Point.
-
 - Otherwise, Faith is restored at the end of the adventure, once you have described how your character goes about restoring their Faith. You start the next adventure with 4 Faith Points, as usual.
 
 ### Losing Faith
@@ -212,11 +209,8 @@ There are times when your presence or your words are not enough, and things come
 **Stunts** : For each extra success rolled beyond the first, choose one stunt applicable to the situation. Suggestions include:
 
 - You inflict 1 more point of damage, to be split between your target’s Quick and Grit as usual. You can choose this stunt multiple times if you roll several extra successes.
-
 - You knock or pull a weapon or other object away from your opponent. You choose which. During a fight, picking up a dropped object counts as a fast action.
-
 - Your opponent falls to the ground or is pushed back—through a door or over a cliff, for example.
-
 - At the cost of extra successes equal to your weapon’s Crit Rating, you inflict a critical injury. Roll on the Critical Injury Table.
 
 **Weapons** : You can use any melee weapons in a fight.
@@ -234,11 +228,8 @@ When you have to dig a grave, lift a cart to put a wheel back on, carry a wounde
 **Stunts** : For each extra success rolled beyond the first, choose one stunt applicable to the situation. Suggestions include:
 
 - You gain a +1 bonus to a later ability roll relating to this one.
-
 - You do it in half the time it would normally take.
-
 - You do it quietly.
-
 - You show off.
 
 ### Presence (Grit)
@@ -252,9 +243,7 @@ There are times when the way you carry yourself says more than words could—if 
 **Stunts** : For each extra success rolled beyond the first, choose one stunt applicable to the situation. Suggestions include:
 
 - Your opponent does what you want without demanding a favor in return.
-
 - Your opponent does more than you ask for, for example giving you some useful piece of information. Details are up to the GM.
-
 - Your opponent is impressed by you and will try to help you later on in some way. Details are up to the GM.
 
 **Being Influenced** : NPCs and other player characters can influence you. If their roll succeeds, you must offer a deal of some kind, or take damage to Cunning (Vexes) equal to the number of successes they beat you by. If you offer a deal, it is up to the GM (or the other player) whether your adversary accepts or not.
@@ -270,9 +259,7 @@ When your physical endurance or stamina is tested, when the cold bites, infectio
 **Stunts** : For each extra success rolled beyond the first, choose one stunt applicable to the situation. Suggestions include:
 
 - You may give one success to another player character in the same situation as you.
-
 - You gain a +1 bonus to a later ability roll relating to this one.
-
 - You impress someone.
 
 ### Light-Fingered (Quick)
@@ -286,9 +273,7 @@ Show your gun twirling prowess, lash your bullwhip, pick a pocket, tie a rope, a
 **Stunts** : For each extra success rolled beyond the first, choose one stunt applicable to the situation. Suggestions include:
 
 - You may give one success to another player character in the same situation as you.
-
 - You gain a +1 bonus to a later ability roll relating to this one.
-
 - Your action impresses observers.
 
 ### Move (Quick)
@@ -302,9 +287,7 @@ When you need to leap for cover, get out of the way of a runaway stagecoach, wal
 **Stunts** : For each extra success rolled beyond the first, choose one stunt applicable to the situation. Suggestions include:
 
 - You may give one success to another player character in the same situation as you.
-
 - You gain a +1 bonus to a later ability roll relating to this one.
-
 - You impress someone.
 
 ### Group Stealth
@@ -322,11 +305,8 @@ The wonders of the modern world surround us! To control factory machinery, apply
 **Stunts** : For each extra success rolled beyond the first, choose one stunt applicable to the situation. Suggestions include:
 
 - You gain a +1 bonus to a later ability roll relating to this one.
-
 - You do it in half the time it would normally take.
-
 - You do it quietly.
-
 - You show off.
 
 ### Shootin’ (Quick)
@@ -340,11 +320,8 @@ A steady hand makes for an accurate shot, be it with a pistol, rifle, bow or thr
 **Stunts** : For each extra success rolled beyond the first, choose one stunt applicable to the situation. Suggestions include:
 
 - You inflict 1 additional point of damage, which is applied to your target’s Quick and Grit as usual. You can choose this stunt multiple times if you roll several extra successes.
-
 - You pin down your enemy. They take 1 point of Doubts. You can choose this stunt multiple times, if you roll several extra successes.
-
 - Your opponent falls to the ground or is pushed back, for example through a doorway.
-
 - At the cost of extra successes equal to your weapon’s Crit Rating, you inflict a critical injury. Roll on the Critical Injury Table.
 
 ### Animal Handlin’ (Cunning)
@@ -358,9 +335,7 @@ To ride a horse into gunfire, drive a stage, match your horse’s pace with a tr
 **Stunts** : For each extra success rolled beyond the first, choose one stunt applicable to the situation. Suggestions include:
 
 - You gain a +1 bonus to a later ability roll relating to this one.
-
 - You can close with a quarry or put more distance between you and your pursuers during a horse chase (see page 129).
-
 - The animal regains one point of Hurts or Shakes (can only be chosen once).
 
 ### Hawkeye (Cunning)
@@ -374,11 +349,8 @@ To track your quarry across the wilderness, read the world, be aware of tell-tal
 **Stunts** : For each extra success rolled beyond the first, choose one stunt applicable to the situation. Suggestions include:
 
 - You can read more from those tracks than you thought (the GM should offer more information).
-
 - Is it coming for me?
-
 - Are there more of them close by?
-
 - How do I get in/past/away?
 
 ### Hawkeye in Play
@@ -398,9 +370,7 @@ People are just animals, and if you look beyond their words and performances you
 **Stunts** : For every extra success you roll, you get the answer to a yes/no question about the NPC. Suggestions include:
 
 - Are they telling the truth?
-
 - Do they want to hurt me?
-
 - Do they want something from me?
 
 ### Nature (Cunning)
@@ -414,7 +384,6 @@ To understand the world, its warnings and its bounty, to grow a crop, or find so
 **Stunts** : For each extra success rolled beyond the first, choose one stunt applicable to the situation. Suggestions include:
 
 - You may give one success to another player character in the same trouble as you.
-
 - You gain a +1 bonus to a later ability roll relating to this one.
 
 HAWKEYE when they try to track you. You can choose this stunt multiple times if you roll several extra successes.
@@ -432,9 +401,7 @@ To know stuff that other folks don’t, understand what the law says, compile ac
 **Stunts** : For each extra success rolled beyond the first, choose one stunt applicable to the situation. Suggestions include:
 
 - You remember more than you thought you might, or glean more about the subject of your interest (at the GM’s discretion).
-
 - You gain a +1 bonus to a later ability roll relating to this one.
-
 - You impress someone.
 
 ### Doctorin’ (Docity)
@@ -460,13 +427,9 @@ To understand forces and materials enough to construct a bridge, build a house, 
 **Stunts** : For each extra success rolled beyond the first, choose one stunt applicable to the situation. Suggestions include:
 
 - Your creation offers its users a +1 gear bonus.
-
 - You gain a +1 bonus to a later ability roll relating to this one.
-
 - You do it in half the time it would normally take.
-
 - You do it quietly.
-
 - You show off.
 
 **Success** : If you succeed, you persuade them. Or, if they choose to resist your persuasion, they take damage to Docity (Doubts) or Cunning (Vexes) equal to the number of successes you beat them by. Even if your target chooses to do what you want, they can still demand something in return, although they do not have to. The GM decides what that entails, but it must be reasonable enough for you to be able to meet those demands.
@@ -474,9 +437,7 @@ To understand forces and materials enough to construct a bridge, build a house, 
 **Stunts** : For each extra success rolled beyond the first, choose one stunt applicable to the situation. Suggestions include:
 
 - Your opponent does what you want without demanding a favor in return.
-
 - Your opponent does more than you ask for, for example giving you some useful piece of information. Details are up to the GM.
-
 - Your opponent is impressed by you and will try to help you later on in some way. Details are up to the GM.
 
 **Being persuaded** : NPCs and other player characters can persuade you, using the rules for social conflict (page 76). If their roll succeeds, you must either agree to what’s being proposed, offer a deal of some kind, or take damage to Docity (Doubts) or Cunning (Vexes) equal to the number of successes they beat you by. Then it is up to the GM (or the other player) whether your adversary accepts your offer or not, or whether the social conflict continues and another roll is required.
