@@ -39,6 +39,7 @@ publication.
   - `western-rpg-design/` — Mechanics analysis and design methodology
   - `rpg-balance-analysis/` — Four-lens balance evaluation framework
   - `rpg-synergy-analysis/` — Multi-rule interaction auditing
+  - `pdf-to-rpg-markdown/` — PDF-to-markdown extraction and cleanup pipeline
 - `scripts/`
   - Utility scripts used during manuscript preparation.
 - `CHANGELOG.md`
