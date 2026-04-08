@@ -2,7 +2,7 @@
 
 > *“IT’S NEVER TOO LATE TO BECOME WHO YOU WANT TO BE. I HOPE YOU LIVE A LIFE THAT YOU’RE PROUD OF, AND IF YOU FIND THAT YOU’RE NOT, I HOPE YOU HAVE THE STRENGTH TO START OVER.”*
 
-> — F. S C O T T F ITZ GE R ALD
+> — F. SCOTT FITZGERALD
 
 Player characters in _Tales of the Old West_ are defined by their attributes, which represent physical and mental qualities, their abilities, which represent general skills, and their talents, which represent the specialized skills that make them unique. They are also defined by their Faith, their Big Dream, and their relationships.
 
@@ -18,7 +18,7 @@ You can also use a Group Concept, if your players have a clear idea of the group
 
 Your character has four attributes that indicate your basic physical and mental capabilities, each rated on a scale from 1 to 5 (healthy characters don’t have any attribute below 2). Attributes are used when you roll dice to perform actions in the game, and also determine how much damage of various kinds you can withstand before you become Broken. Read more about this in Chapter 5.
 
-### Gri t
+### Grit
 
 Grit represents resilience, strength and sheer physical presence. In the young it’s shown in your healthy constitution and broad hips or shoulders. When you are older, people see it in the leather of your face. Damage to Grit is called Hurts.
 
@@ -30,14 +30,13 @@ Quick represents your physical control, manual dexterity and hand/eye coordinati
 
 Cunning represents instinct, common sense and an understanding of how the world works. It’s apparent in those who are close to nature, but even those brought up in the big east coast cities have it. It is about not overthinking things. Damage to Cunning is called Vexes.
 
-### Do City
+### Docity
 
 Docity represents your ability to learn. You might be able to reel off bible verse like a preacher, navigate the finer points of law, recognize symptoms and understand how to treat them or apply the latest discoveries of science to your engineering project. Damage to Docity is called Doubts.
 
-### Com Padres
+### Compadres
 
 > _Tales of the Old West introduces a new concept for your player character’s relationship with certain non-player characters. These compadres form a close group of family, friends or crew for your outfit that both the players and the GM get to control. Read more in Chapter 6._
-
 
 ### Abilities
 
@@ -48,10 +47,6 @@ Your abilities are the knowledge and skills you have acquired during your life. 
 - LABOR (Grit)
 
 - PRESENCE (Grit)
-
-nature, or just the simple belief in yourself as the only one you can truly trust.
-
-You should describe your character’s Faith, and write it down in one short sentence. Examples include: “ _my place is in the saddle_ ”, “ _the Lord is my shepherd_ ”, “ _I can only rely on my gunslinging skills_ ”, “ _my ancestors are with me in every step I take_ ”, and “ _I will make my dead brother proud_ ”. Your Faith is the driving force behind what your character does—it is used to push your rolls, and reduce the impact of mishaps, called “Trouble” in _Tales of the Old West_ .
 
 - RESILIENCE (Grit)
 
@@ -89,8 +84,9 @@ Talents are tricks, moves and unique skills that give you an edge over all them 
 
 ### Faith
 
-In _Tales of the Old West_ every character has Faith— their own personal outlook on life, the philosophy they live by, their own way of being. Your Faith is what keeps you going when others would fall to their knees and give up. Faith might be just that: religious or spiritual faith of one flavor or another, but it doesn’t have to be. It can be anything you want: reliance on friends and family, an affinity with
+In _Tales of the Old West_ every character has Faith— their own personal outlook on life, the philosophy they live by, their own way of being. Your Faith is what keeps you going when others would fall to their knees and give up. Faith might be just that: religious or spiritual faith of one flavor or another, but it doesn’t have to be. It can be anything you want: reliance on friends and family, an affinity with nature, or just the simple belief in yourself as the only one you can truly trust.
 
+You should describe your character’s Faith, and write it down in one short sentence. Examples include: “ _my place is in the saddle_ ”, “ _the Lord is my shepherd_ ”, “ _I can only rely on my gunslinging skills_ ”, “ _my ancestors are with me in every step I take_ ”, and “ _I will make my dead brother proud_ ”. Your Faith is the driving force behind what your character does—it is used to push your rolls, and reduce the impact of mishaps, called “Trouble” in _Tales of the Old West_ .
 
 ### Relationships
 
@@ -98,7 +94,7 @@ Your player characters are all in it together as a group, but you are also an in
 
 When you create your character you should describe your relationship with each of the other player characters, adding a short sentence for each to your character sheet. Your choices are important for you, but they are also important for the GM, as they can use them to create interesting situations in the game.
 
-### P Ard Ner
+### Pardner
 
 When you have noted your relationships to the other player characters you must choose which one of them you feel closest to. That player character is your Pardner. Mark your choice in the checkbox on the character sheet.
 
@@ -118,17 +114,17 @@ An item designated as Heavy counts as two regular items and takes up two rows on
 
 Items that are even smaller than Light are called Tiny. They are so small they don’t affect your encumbrance at all. The rule of thumb is this: if the item can be hidden in a closed fist, it’s Tiny. Tiny items do need to be listed on your character sheet, but not recorded as Gear in the normal way.
 
-### Over Encumbered
+### Overencumbered
 
 You can temporarily carry more than your normal encumbrance limit (up to a total number of items equal to your Grit×2). In this case, you need to make a RESILIENCE roll whenever you want to run in a Round of combat, or walk a significant distance, or do anything the GM considers strenuous. If the roll fails, you must either drop what you are carrying, stay where you are, or suffer 1 point of Shakes and keep going.
 
-### FIN IS HIN G TO UC HE S
+### Finishing Touches
 
 ### Appearance
 
 You can describe your player character’s face, body and clothing on your character sheet.
 
-### Na me
+### Name
 
 Some players like to give their character a name only after they have finished creating them. Others are inspired during the creation process or even start with a name.
 
@@ -136,8 +132,7 @@ Some players like to give their character a name only after they have finished c
 
 > _If you have a horse, mule or donkey you can let it carry some of your gear. The animal can carry a number of normal items equal to double its Grit, and twice that number if you dismount and lead it._
 
-
-### W H E R E  D O  YO U L I V E ?
+### Where Do You Live?
 
 The town you call home is central to your tale, and this town is one helluva place. There are fortunes to be made if you ain’t the beef-headed sort, and are ready to put the other guy down. After all, there’s no law out here, and the air reeks of the bloody stench of greed.
 
@@ -169,7 +164,6 @@ See Chapter 8 for more about towns, how to set yours up and how you get it flour
 
 At the end of an adventure the player characters will be able to take stock, learn from the experiences they have had and earn Experience Points (XP). You will also see how well they have supported their home town and earn Settlement Points (SP). This is the time to check your dreams—has your Big Dream changed because of your recent experiences, and are you still close with those you thought were friends?
 
-
 ### Settlements
 
 The more commitment the player characters show to their home town, the faster that place will grow. As with XP, the GM awards Settlement Points (SP) to the local settlement when the group can answer “yes” to one or more of the following questions:
@@ -188,10 +182,7 @@ You can use your XP to improve your abilities and talents, or to learn new ones.
 
 **ABILITIES** : To increase an ability level by one point costs 5 XP. Learning a new ability (at level 1) also costs 5 XP.
 
-**TALENTS** : Learning a talent at the Basic rank costs 4 XP, and at the Advanced rank costs anoth-
-
-
-er 6 XP. You must learn the Basic rank before you can learn the Advanced, and you can only increase a talent by one rank per session.
+**TALENTS** : Learning a talent at the Basic rank costs 4 XP, and at the Advanced rank costs another 6 XP. You must learn the Basic rank before you can learn the Advanced, and you can only increase a talent by one rank per session.
 
 ### Find a New Dream
 
@@ -208,7 +199,6 @@ To create your player character you can use a pre-existing archetype (page 23), 
 ### Session Zero
 
 Your Session Zero covers everything you need to start telling your tale. It helps you define who you are, your current place in western society, and what you want that place to be. It builds your character and the landscape where you live in an exciting and collaborative experience.
-
 
 If you and your fellow players want to play a group of pals you should consider choosing a Group Concept, but you don’t have to. Then create your character by choosing an archetype or making use of the lifepath system. If your character has a business—an outfit— at the start of play you need to work out its details, and if you have gathered any non-player character pals—your compadres—during your life so far you’ll determine all you need to know about them.
 
@@ -266,7 +256,6 @@ The group also gets a basic ranch (an outfit), at the GM’s discretion, with a 
 
 The group also gets a base of operations (a business property, a sheriff’s office or similar) at the GM’s discretion.
 
-
 ### Farmers
 
 You till the land and plant crops, or maybe deal with small livestock like sheep, pigs and chickens. You rely on your skills to make a living, to keep the wolves from your flock and the vermin from your crops. You need land, and people to buy your wares. The life of a farmer is backbreaking and hard, but if you all work together you can make your mark on the future.
@@ -299,7 +288,7 @@ A business can be anything from a saloon, hotel or whorehouse, to a mine or lumb
 
 The group also gets a small business property to run their outfit, and +1 Capital that must be invested in the outfit, at the GM’s discretion.
 
-### Vaqueros Cowboys
+### Vaqueros / Cowboys
 
 The free life is for you and your fellows. You get work when you need it, earning enough to get by and a little left over to sink a few whiskeys in the local saloon, but otherwise you go where the west takes you. No place is home, and no one is your boss for long. You are vaqueros and cowboys, and you are free.
 
@@ -330,7 +319,6 @@ You live off the land, and are free. You only come into town to sell your furs a
 - a horse (not Appaloosa, Cayuse or Arabian) or a donkey
 
 The group gets a benefit of 2D6 dollars multiplied by the number of player characters in the group, the total to be divided how the players see fit.
-
 
 ### Playing Characters from Diverse Cultures
 
@@ -370,14 +358,13 @@ The archetypes are:
 
 Each archetype comes with a base level of attributes and abilities—make a note of these. You have more points to add, depending on your player character’s age (see the Player Character Age Table).
 
-**P lay er C h a r ac t e r  age  t a bl e  -** C h o o se  yo ur age :
+**Player Character Age Table** - Choose your age:
 
 |**Age**|**Attributepoints**|**Ability points**|**Talents**|
 |---|---|---|---|
 |Greenhorn 15-20|6|2|1|
 |Tested 21-40|5|4|2|
 |Old-timer 41+|4|6|3|
-
 
 Add these additional points to the base scores for your attributes and abilities as you see fit, with these caveats: no more than two extra attribute points can be applied to any one attribute; and you can assign multiple points to a single ability, but no ability score can be higher than 3 at character creation.
 
@@ -401,15 +388,18 @@ Finally choose two of the four pieces of gear listed with each archetype, roll y
 
 > _Ryan is ready to play!._
 
-
 ### Gentlefolk
 
 As camps become communities, and communities become towns, they attract a different sort of traveler, bringing “civilization” to these wild lands. Artists, photographers, journalists and authors record the new frontier, while entertainers, preachers and teachers bring culture, building bridges between diverse communities. Many others—doctors, telegraph operators, bankers, brokers, business investors, dilettante travelers, federal officials, and local politicians—all add to this melting pot of opportunity and hope.
 
+**Attributes:** Grit 2, Quick 2, Cunning 2, Docity 3
 
-G ri t 2 Q uick 2 c unnin G 2 D oci t y 3 Labor Move Hawke ye Per f ormin’ 1 Presence 1 Operate 1 Nature Makin’ Fightin’ Shootin’ Insight 2 Doctorin’ 1 Resilience Light-Fingered Animal Handlin’ Booklearnin’ 2
-
-
+| Grit | | Quick | | Cunning | | Docity | |
+|---|---|---|---|---|---|---|---|
+| Fightin' | — | Light-Fingered | — | Animal Handlin' | — | Booklearnin' | 2 |
+| Labor | — | Move | — | Hawkeye | — | Doctorin' | 1 |
+| Presence | 1 | Operate | 1 | Insight | 2 | Makin' | — |
+| Resilience | — | Shootin' | — | Nature | — | Performin' | 1 |
 Choose between one and three of these talents, depending on your age:
 
 - **calming manner** . You reassure troubled minds just with the calm in your voice. With a successful PRESENCE test you can calm those around you, and even yourself, healing 1 point of Vexes or Doubts for every success. This talent also allows you to help a DOCTORIN’ roll without having that ability.
@@ -446,15 +436,18 @@ Choose between one and three of these talents, depending on your age:
 
 **Big Dream** - choose from one of the options below or decide for yourself:
 
-
-### GR IF TE R
+### Grifter
 
 Not all criminals were outlaws and shootists ambushing travelers and trains—the west is a lawless place where it’s easy to hide in plain sight. Grifters work in saloons and on the streets. Being a cardsharp or snake oil salesman can give you a comfortable life, with less chance of getting hanged.
 
+**Attributes:** Grit 2, Quick 2, Cunning 3, Docity 2
 
-G ri t 2 Q uick 2 Labor Move Presence Operate Fightin’ Shootin’ 1 Resilience 1 Light-Fingered 2 c unnin G 3 D oci t y 2 Hawke ye Per f ormin’ 2 Nature Makin’ Insight 2 Doctorin’ Animal Handlin’ Booklearnin’
-
-
+| Grit | | Quick | | Cunning | | Docity | |
+|---|---|---|---|---|---|---|---|
+| Fightin' | — | Light-Fingered | 2 | Animal Handlin' | — | Booklearnin' | — |
+| Labor | — | Move | — | Hawkeye | — | Doctorin' | — |
+| Presence | — | Operate | — | Insight | 2 | Makin' | — |
+| Resilience | 1 | Shootin' | 1 | Nature | — | Performin' | 2 |
 Choose between one and three of these talents, depending on your age:
 
 - **swindler** . You are a cheat and a swindler. You gain a +1 bonus for any tests when scamming or cheating someone. This includes cheating while gambling.
@@ -491,15 +484,18 @@ Choose between one and three of these talents, depending on your age:
 
 - Bottle of good whiskey.
 
-
 ### Homesteader
 
 If you work the land for five years and build a house with glass in the windows, then it’s yours. This is the land of opportunity—160 acres of virgin soil you can hand down to your family. Yeah, all you got is a sod house right now, but with hard work you can cut out a life for you and your descendants—far more than your ancestors could ever have hoped for under the bootheel of oppression back in your homeland.
 
+**Attributes:** Grit 3, Quick 2, Cunning 2, Docity 2
 
-G ri t 3 Q uick 2 c unnin G 2 D oci t y 2 Labor 2 Move Hawke ye Per f ormin’ Presence Operate Nature 2 Makin’ Fightin’ Shootin’ 1 Insight Doctorin’ 1 Resilience Light-Fingered Animal Handlin’ 2 Booklearnin’
-
-
+| Grit | | Quick | | Cunning | | Docity | |
+|---|---|---|---|---|---|---|---|
+| Fightin' | — | Light-Fingered | — | Animal Handlin' | 2 | Booklearnin' | — |
+| Labor | 2 | Move | — | Hawkeye | — | Doctorin' | 1 |
+| Presence | — | Operate | — | Insight | — | Makin' | — |
+| Resilience | — | Shootin' | 1 | Nature | 2 | Performin' | — |
 Choose between one and three of these talents, depending on your age:
 
 - **companion** . Your horse is your closest companion (when it dies you lose this talent, but can take it again at half price when you get a new horse). Your horse gains the LOYAL quality and will stand by your side and defend you if you’re Broken (this can take your horse’s total qualities over the normal maximum).
@@ -536,15 +532,18 @@ Choose between one and three of these talents, depending on your age:
 
 - Wagon and mule.
 
-
 ### Laborer
 
 America is built upon the strength of your back and the sweat of your brow. You may be a navigator laying steel tracks across the continent, or a miner digging up its bounty. You are not rich, and you might not be over-burdened with education, but your work is honest.
 
+**Attributes:** Grit 3, Quick 2, Cunning 2, Docity 2
 
-G ri t 3 Q uick 2 Labor 2 Move Presence Operate 2 Fightin’ 1 Shootin’ Resilience 1 Light-Fingered c unnin G 2 D oci t y 2 Hawke ye Per f ormin’ Nature Makin’ 2 Insight Doctorin’ Animal Handlin’ Booklearnin’
-
-
+| Grit | | Quick | | Cunning | | Docity | |
+|---|---|---|---|---|---|---|---|
+| Fightin' | 1 | Light-Fingered | — | Animal Handlin' | — | Booklearnin' | — |
+| Labor | 2 | Move | — | Hawkeye | — | Doctorin' | — |
+| Presence | — | Operate | 2 | Insight | — | Makin' | 2 |
+| Resilience | 1 | Shootin' | — | Nature | — | Performin' | — |
 Choose between one and three of these talents, depending on your age:
 
 - **miner 49er** . You are experienced in handling dangerous explosives. You can recognize sweating dynamite and other danger signs. Treat Trouble on dynamite ability rolls as normal (unlike the rule on page 83 the Trouble is not activated unless the roll is pushed).
@@ -581,15 +580,18 @@ Choose between one and three of these talents, depending on your age:
 
 - Bottle of sipping whiskey.
 
-
-### L AW MA N
+### Lawman
 
 There’s a thin line between outlaw and lawman. Whose law are you enforcing? Did you incite riots to break the unions with the Pinkertons back east? Are you a Texas Ranger enforcing the interests of Anglos over Tejanos? Are you a deputy marshal tracking fugitives, or a town sheriff?
 
+**Attributes:** Grit 3, Quick 2, Cunning 2, Docity 2
 
-G ri t 3 Q uick 2 Labor Move 1 Presence 2 Operate Fightin’ 2 Shootin’ 2 Resilience Light-Fingered c unnin G 2 D oci t y 2 Hawke ye Per f ormin’ Nature Makin’ Insight Doctorin’ Animal Handlin’ 1 Booklearnin’
-
-
+| Grit | | Quick | | Cunning | | Docity | |
+|---|---|---|---|---|---|---|---|
+| Fightin' | 2 | Light-Fingered | — | Animal Handlin' | 1 | Booklearnin' | — |
+| Labor | — | Move | 1 | Hawkeye | — | Doctorin' | — |
+| Presence | 2 | Operate | — | Insight | — | Makin' | — |
+| Resilience | — | Shootin' | 2 | Nature | — | Performin' | — |
 Choose between one and three of these talents, depending on your age:
 
 - **authority** . You have the weight of authority on your side, whether from the law, the big man in town or just your own personality. You gain a +1 bonus to PRESENCE tests.
@@ -632,15 +634,18 @@ Choose between one and three of these talents, depending on your age:
 
 - Handcuffs.
 
-
-### O UTL AW
+### Outlaw
 
 The west can be a lawless place where it is easy to make your living taking from others. You just need to keep one step ahead of the law, if it ever comes after you. All sorts of outlaws and shootists find hideouts from which to ambush travelers and trains.
 
+**Attributes:** Grit 2, Quick 3, Cunning 2, Docity 2
 
-G ri t 2 Q uick 3 Labor Move 1 Presence Operate 1 Fightin’ 2 Shootin’ 2 Resilience Light-Fingered c unnin G 2 D oci t y 2 Hawke ye Per f ormin’ Nature Makin’ Insight Doctorin’ Animal Handlin’ 2 Booklearnin’
-
-
+| Grit | | Quick | | Cunning | | Docity | |
+|---|---|---|---|---|---|---|---|
+| Fightin' | 2 | Light-Fingered | — | Animal Handlin' | 2 | Booklearnin' | — |
+| Labor | — | Move | 1 | Hawkeye | — | Doctorin' | — |
+| Presence | — | Operate | 1 | Insight | — | Makin' | — |
+| Resilience | — | Shootin' | 2 | Nature | — | Performin' | — |
 Choose between one and three of these talents, depending on your age:
 
 - **cold blooded** . You are completely callous and can kill defenseless enemies without so much as a second’s hesitation. You can perform a coup de grace without needing to make a Docity test, but you still lose a point of Docity.
@@ -677,15 +682,18 @@ Choose between one and three of these talents, depending on your age:
 
 - One stick of dynamite.
 
-
 ### Prospector
 
 You can see something others can’t—the riches in the ground. Well, you can’t see them yet, but you know they are there. All you need to do to strike it rich is pan enough streams, dig enough holes, or if you are more scientifically minded, survey enough geography.
 
+**Attributes:** Grit 2, Quick 2, Cunning 3, Docity 2
 
-G ri t 2 Q uick 2 Labor 2 Move Presence Operate 1 Fightin’ Shootin’ Resilience Light-Fingered c unnin G 3 D oci t y 2 Hawke ye Per f ormin’ Nature 2 Makin’ 2 Insight Doctorin’ Animal Handlin’ Booklearnin’ 1
-
-
+| Grit | | Quick | | Cunning | | Docity | |
+|---|---|---|---|---|---|---|---|
+| Fightin' | — | Light-Fingered | — | Animal Handlin' | — | Booklearnin' | 1 |
+| Labor | 2 | Move | — | Hawkeye | — | Doctorin' | — |
+| Presence | — | Operate | 1 | Insight | — | Makin' | 2 |
+| Resilience | — | Shootin' | — | Nature | 2 | Performin' | — |
 Choose between one and three of these talents, depending on your age:
 
 - **brawler** . You don’t need weapons to bring down your enemies. All your unarmed attacks and blocks have a +1 bonus.
@@ -722,15 +730,18 @@ Choose between one and three of these talents, depending on your age:
 
 - Camping Gear (Weight 1), bedrolls, canvas for shelter, a tinder box and pan for frying. Gives a +1 bonus to NATURE rolls when making camp for the night.
 
-
 ### Ranch Hand
 
 You have found a life in the saddle. You might be working in a stockyard or as a farm hand, or driving cattle across the plains. It hasn’t made you rich but it comes with two meals a day and a little money to spend in town.
 
+**Attributes:** Grit 2, Quick 3, Cunning 2, Docity 2
 
-G ri t 2 Q uick 3 Labor 2 Move Presence Operate Fightin’ 1 Shootin’ 1 Resilience Light-Fingered 2 c unnin G 2 D oci t y 2 Hawke ye Per f ormin’ Nature Makin’ Insight Doctorin’ Animal Handlin’ 2 Booklearnin’
-
-
+| Grit | | Quick | | Cunning | | Docity | |
+|---|---|---|---|---|---|---|---|
+| Fightin' | 1 | Light-Fingered | 2 | Animal Handlin' | 2 | Booklearnin' | — |
+| Labor | 2 | Move | — | Hawkeye | — | Doctorin' | — |
+| Presence | — | Operate | — | Insight | — | Makin' | — |
+| Resilience | — | Shootin' | 1 | Nature | — | Performin' | — |
 Choose between one and three of these talents, depending on your age:
 
 - **born in the saddle** . Riding comes as naturally to you as breathing does to the rest of them. You get +1 bonus to all ANIMAL HANDLING rolls that relate to horses.
@@ -769,15 +780,18 @@ Choose between one and three of these talents, depending on your age:
 
 - Camping Gear (Weight 1): bedrolls, canvas for shelter, a tinder box and pan for frying. Gives a +1 bonus to NATURE rolls when making camp for the night.
 
-
 ### Tracker
 
 You love the big open sky and can tolerate the weather that it throws at you better than most. In the west you might be a Pony Express rider or stagecoach driver. Up north you might have been a hunter or trapper. You might be a soldier or scout. Or you might be more academic: a naturalist or cartographer.
 
+**Attributes:** Grit 2, Quick 2, Cunning 3, Docity 2
 
-G ri t 2 Q uick 2 c unnin G 3 D oci t y 2 Labor Move Hawke ye 2 Per f ormin’ Presence Operate Nature 2 Makin’ Fightin’ Shootin’ 1 Insight Doctorin’ Resilience 2 Light-Fingered 1 Animal Handlin’ Booklearnin’
-
-
+| Grit | | Quick | | Cunning | | Docity | |
+|---|---|---|---|---|---|---|---|
+| Fightin' | — | Light-Fingered | 1 | Animal Handlin' | — | Booklearnin' | — |
+| Labor | — | Move | — | Hawkeye | 2 | Doctorin' | — |
+| Presence | — | Operate | — | Insight | — | Makin' | — |
+| Resilience | 2 | Shootin' | 1 | Nature | 2 | Performin' | — |
 Choose between one and three of these talents, depending on your age:
 
 - **light-footed** . You walk like the spirits, and leave no trail behind you. You gain +1 bonus to your NATURE roll when you’re trying to avoid someone tracking you.
@@ -814,15 +828,18 @@ Choose between one and three of these talents, depending on your age:
 
 - You dream of never having to speak to another person again.
 
-
 ### Trader
 
 You are the engine that drives the westward expansion. There is money to be made here in all sorts of ways—you could be a hotelier or run a boarding house. You might work in a saloon, behind the bar or in the “upstairs rooms.” You might work with horses as a saddler or farrier. The options are only limited by your imagination and entrepreneurial spirit.
 
+**Attributes:** Grit 2, Quick 2, Cunning 3, Docity 2
 
-G ri t 2 Q uick 2 c unnin G 3 D oci t y 2 Labor 1 Move Hawke ye Per f ormin’ 2 Presence Operate Nature Makin’ 2 Fightin’ Shootin’ Insight 2 Doctorin’ Resilience Light-Fingered Animal Handlin’ Booklearnin’ 1
-
-
+| Grit | | Quick | | Cunning | | Docity | |
+|---|---|---|---|---|---|---|---|
+| Fightin' | — | Light-Fingered | — | Animal Handlin' | — | Booklearnin' | 1 |
+| Labor | 1 | Move | — | Hawkeye | — | Doctorin' | — |
+| Presence | — | Operate | — | Insight | 2 | Makin' | 2 |
+| Resilience | — | Shootin' | — | Nature | — | Performin' | 2 |
 Choose between one and three of these talents, depending on your age:
 
 - **business minded** . Business is in your blood. You have great business acumen, and through your business strategy, good salesmanship or bad-mouthing the competition your business always does well. Your modifier for Competition is always +1 better than it should be, up to a maximum of +3.
@@ -859,12 +876,11 @@ Choose between one and three of these talents, depending on your age:
 
 - D6 bear pelts.
 
-
 ### The Life Path System your Tale Begins
 
 Use the lifepath system if you want to find out who your player character is during character creation. This system lets the dice tell you everything you need to know about your starting player character and how your tale begins. Follow the quick and easy steps, and you will soon know where you were born and what upbringing you had, what kind of family you grew up in and where they are now. You can choose how old your character is when they enter the game by deciding how many “Livings” they have—each one covers a period of time and determines what they have done with that time, how they have survived and what they have gained, learned, and lost from each one. But of course, the more Livings your character goes through during their lifepath, the older they are when the game begins. You’ll finalize your character with their Faith, Big Dream, and Pardner, as well as any NPC compadres they pick up along the way.
 
-### YO UR  CH AR AC TE R’S  BAC KS TO RY
+### Your Character’s Backstory
 
 > _The lifepath offers plenty of history and background for your character, but it’s up to you to put all that together into a coherent and exciting backstory. The more effort you invest in putting this starting story together the deeper your character’s history will be and the more plot hooks you’ll give to your GM—your tale will be much more compelling for it._
 

@@ -50,7 +50,6 @@ You know how to turn wood, leather and twine into lethal bows.
 
 **Advanced** : You can make high-quality bows. For each success after the first on your MAKIN’ test you can add a weapon quality of your choice. This can be used to add new qualities to an existing bow.
 
-
 ### Brawler
 
 You don’t need weapons to bring down your enemies.
@@ -63,7 +62,7 @@ You don’t need weapons to bring down your enemies.
 
 **Advanced** : If you gain any successes when Blocking a melee attack (even if the attack still causes some damage) you can immediately attempt to Grapple your opponent as a free action.
 
-### Bron C Buster
+### Bronc Buster
 
 You know how to handle and train horses.
 
@@ -107,7 +106,6 @@ Your horse is your closest companion (when it dies you lose this talent, but can
 
 **Advanced** : You and your horse are so in tune that when you are in the saddle your steed can make one attack during combat, in addition to your actions.
 
-
 ### Dead Eye
 
 You know where to shoot to make your opponent fall and not get up again. Ever.
@@ -115,7 +113,6 @@ You know where to shoot to make your opponent fall and not get up again. Ever.
 **Basic** : When you make a Called Shot, reduce the penalty by 1.
 
 **Advanced** : If you succeed with your Called Shot you gain an additional critical injury roll, over and above any inflicted by the attack.
-
 
 De a dly  s t r ik e You know where to hit a man to make sure he doesn’t get up again. Ever.
 
@@ -146,7 +143,6 @@ The calluses on your hands say you know how to fan your iron.
 **Basic** : When you finish a fanning attack you always have one bullet left in your revolver.
 
 **Advanced** : You are a skilled shot when fanning your pistol. You do not suffer the −2 penalty when fanning, but still suffer the penalties for shooting more than one target.
-
 
 ### Fast Footwork
 
@@ -196,7 +192,6 @@ You are a skilled forger, able to craft fake documents and papers.
 
 **Basic** : You know how to make documents look good. Gain a +1 bonus to your LIGHT-FINGERED roll when drawing up a forgery.
 
-
 ### Gunsmith
 
 ### Healing Touch
@@ -213,8 +208,7 @@ You’re a natural healer.
 
 **Advanced** : You don’t let patients die. If a failed DOCTORIN’ test would cause your patient to die, you can immediately reroll it once as a free action.
 
-
-### He rba li st
+### Herbalist
 
 You have learned the healing ways of nature and the land, and how they can be twisted with malicious intent. You are a healer, a druggist, or an apothecary.
 
@@ -234,7 +228,7 @@ You move in exalted circles.
 
 **Basic** : You know who to talk to and what their dirty secrets are. You gain a +1 bonus to PERFORMIN’ when talking to anyone where Fame or social standing might have a bearing.
 
-### Hay Maker
+### Haymaker
 
 When you put your all into an attack there’s no stopping you.
 
@@ -244,7 +238,6 @@ When you put your all into an attack there’s no stopping you.
 
 **Advanced** : When you make an All-Out Attack with a melee weapon, any attempt by your opponent to Block the attack suffers a −3 modifier.
 
-
 ### Horse Warrior
 
 You are trained in fighting from a moving horse. **Basic** : You gain a +1 bonus to all attacks from a mount. **Advanced** : You are so skilled on horseback you can use a two-handed weapon from a mount.
@@ -253,7 +246,7 @@ You are trained in fighting from a moving horse. **Basic** : You gain a +1 bonus
 
 You can read other people like a book and smell a lie a mile off.
 
-### Light Footed
+### Light-Footed
 
 You walk like the spirits, leaving no trail behind you.
 
@@ -287,7 +280,7 @@ You react with the speed of a snake.
 
 **Advanced** : When you spot an ambush or a sneak attack you get a slow and a fast action before initiative is drawn.
 
-### Lock Picker
+### Lockpicker
 
 So long as you have the right kind of tool, you are a master at picking locks.
 
@@ -295,7 +288,7 @@ So long as you have the right kind of tool, you are a master at picking locks.
 
 **Advanced** : You can crack safes with LIGHT-FINGERED, or use OPERATE to blow them open with dynamite. You gain a +1 bonus to your rolls.
 
-### L ucky
+### Lucky
 
 No matter how bad the odds you always seem to get away unscathed.
 
@@ -304,7 +297,6 @@ No matter how bad the odds you always seem to get away unscathed.
 **Advanced** : When you suffer a critical injury you can reroll the Units die and take the best result.
 
 **Advanced** : You are so well-schooled in the law that you can act as a Judge In Good Standing. Your Fame increases by 3.
-
 
 ### Manhunter
 
@@ -318,14 +310,13 @@ You are experienced in handling dangerous explosives.
 
 **Advanced** : You never give up when on the hunt and can push your HAWKEYE roll for a second time for free when tracking people or animals in the wild.
 
-### Man S Best Friend
+### Man’s Best Friend
 
 Not every dog is the perfect friend, but yours is (when your dog dies you lose this talent but can take it again at half price when you get a new dog).
 
 **Basic** : Your dog can help you track, giving you a +1 bonus to HAWKEYE when tracking.
 
 **Advanced** : Your loyal friend can help you when you are Broken. Once per session your dog’s presence is comforting and immediately restores 1D3 to the Broken attribute.
-
 
 **Basic** : You can recognize sweating dynamite and other danger signs. Treat Trouble on dynamite ability rolls as normal (unlike the rule on page 83 Trouble is not activated unless the roll is pushed).
 
@@ -339,14 +330,13 @@ You have lived your life in the mountains.
 
 **Advanced** : You do not suffer any conditions until twice the usual time has elapsed, and gain an extra +2 bonus when making camp or constructing a shelter.
 
-### P is to Leer
+### Pistoleer
 
 You are an expert with your pistol.
 
 **Basic** : You are skilled with the iron and gain a +1 bonus to your SHOOTIN’ dice when using a pistol.
 
 **Advanced** : You are so accurate that you always hit where you aimed. The Called Shot penalty is only −1 instead of −3, when using a pistol.
-
 
 ### Pugilist
 
@@ -358,7 +348,7 @@ You are an expert fist fighter.
 
 When you push your LIGHT-FINGERED roll, you can reroll 1s on Trouble Dice, and you ignore any Trouble rolled.
 
-### Rabble Ro User
+### Rabble Rouser
 
 You know how to rile up a crowd or get a posse angry.
 
@@ -395,7 +385,6 @@ You are a friendly face in the crowd.
 **Basic** : When you act as a shill, helping someone to persuade, cheat, swindle, or scam, you give them a +2 bonus for your help, instead of the normal +1.
 
 **Advanced** : You are an expert shill, and can offer excellent assistance to another character. Your help gives them a bonus success for free when you are working together on a scam.
-
 
 ### Shotgun Master
 
@@ -452,7 +441,6 @@ You know how to move, track, and hunt.
 **Basic** : You are an expert tracker and gain a +1 bonus when tracking in the wilderness.
 
 **Advanced** : Time and distance mean nothing to you. Ignore the penalties for tracks disappearing over time unless the tracks are completely erased.
-
 
 ### Two Gun
 

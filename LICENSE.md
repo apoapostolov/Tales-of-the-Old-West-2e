@@ -1,6 +1,6 @@
 # License and Rights Notice
 
-This repository contains a markdown conversion of *Tales of the Old West*,
+This repository contains a markdown conversion of _Tales of the Old West_,
 a tabletop roleplaying game created and published by Galloping Horse Games.
 
 ## What This Repository Does Not Claim
@@ -15,7 +15,7 @@ This repository does not claim:
 ## Source Material
 
 The game text was extracted from the officially distributed PDF of
-*Tales of the Old West Core Rules* and converted to markdown format for
+_Tales of the Old West Core Rules_ and converted to markdown format for
 personal reference and editorial work. The original content, rules, and
 creative work belong to the original creators.
 

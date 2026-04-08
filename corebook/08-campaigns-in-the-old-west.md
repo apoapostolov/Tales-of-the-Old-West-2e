@@ -20,7 +20,6 @@ There is always someone looking to tear you down, to beat you to the next big de
 
 _Tales of the Old West_ is designed to put your player characters at the center of the story, to build
 
-
 ### The Pressure of Capital
 
 Folks with money, who waltz in from the east like the cock of the walk or set themselves up in business in the town, can cause a whole mess of trouble for your player characters. These company behemoths can even threaten the whole community. The robber baron’s agents appear, with hints of riches if only the locals will sell their assets, sell their mining and panning claims, sell the land they’ve worked so hard to build a home on. And when the local folk say “no”, these agents get all riled up—damned provincials getting in the way of their boss’s grand plans. That’s when people get intimidated, roughedup, even found dead. How can the little folk stand against the relentless weight of capital?
@@ -36,7 +35,6 @@ Vengeance is a powerful driver of tales in the Old West. It is an ungoverned lan
 ### Justice and Morality
 
 _“Leave justice for the judge on a Monday afternoon, and morality for the preacher on a Sunday mornin’.”_ So goes the old saying, a recognition that justice and morality mean different things out in the wilds of the Old West. But for some folks that ain’t good enough. The fight for justice is an important motivator for many people, especially those who strap on their gun belt as soon as they pin the sheriff ’s badge on their chest. Hunting down bandits, ne’er-dowells, and political corruption—or even just walking the boardwalks of the local town with a badge and a gun—make for exciting campaigns. But life is never cut and dried, black and white, good guy and bad guy. The moral conundrums that life throws up add a thrilling element of choice into the story, a choice often with no right answer: the killer is a teenaged kid who took cold-blooded revenge against a violent father; the outlaws have information that will save someone’s life, but want to walk free if they give it; the corruption in the town must be rooted out, but in doing so many outfits will go bust and good folks will lose their livelihood. Include these kinds of agonizing choices in your campaigns, and your tales will be more exciting, more compelling, and more memorable for it.
-
 
 ### The Search for Something
 
@@ -58,14 +56,11 @@ The Old West is a swirling cultural melting pot, and where those cultures meet t
 
 The Turn of the Season (page 180) is an opportunity to randomly generate story ideas and hooks that feed into your campaign and keep it moving forward. Many Turn of the Season events can form the basis of a campaign all by themselves, such as the visit of a powerful territorial official to the town— why are they coming, who has invited them, what will happen to them during the visit, and what
 
-
 opportunity does this present to the player characters to forward their hopes and dreams? Or Native traders come through town, and some folk don’t take kindly to them—what are they trading, has something happened to make them visit, and how can the player characters uncover the truth? Other events give an insight into the lives of the player characters themselves, such as a scandal in the family, a blossoming romance or an unexpected legacy. Make good use of these ideas to add depth, complexity, and a real sense of the passage of time to your campaign.
 
 ### Creating a Dynasty
 
 For many folks, settling in the West was all about starting again, giving themselves and their family a chance to make a better life, finding salvation from whatever troubles they left behind. For many of these people creating a family dynasty and leaving a legacy for future generations was the most important thing of all—it mattered little if they died, the family would live on. _Tales of the Old West_ allows your players to build their families and friendship groups as the Turn of the Season moves time forward. It creates the opportunity for a player—should their character suffer a deadly fate—to continue that story as another character from the family: a sibling, cousin, or even a child, should the child be old enough to play as a player character. The character may be dead, but the family lives on.
-
-### a little oasis amid the wilderness.
 
 The town or settlement might be a Native American village, a Mexicana adobe town, a frontier camp bedding into untamed territory, or a well-established community, with amenities and good links to the wider world. Whatever kind of place it is, your fortunes are linked to its prosperity. The more prosperous it is the better your outfit will thrive, the easier it will be to run your farm, the less likely it will be that local hazards will make your life a misery.
 
@@ -79,14 +74,11 @@ The development of the town is measured by tracking six aspects that reflect the
 
 For folks in the Old West their town or settlement is of critical importance. It’s not just a place to build and nurture, not just a little glow of civilization in the wild frontier, not just the place you call home. It’s the place you need in order to thrive and survive, the place where your family can take root. For some, the town is the focal point for making their living, where they run their outfits and make their fortunes in business. For others the town is just a place to stop by, stock up on supplies, drink some whiskey and enjoy some light entertainment, find a doctor, or catch up with old friends. For these folks the town is A town or settlement in the Old West is described using six aspects: Farming, Mercantile, Natural Riches, Law, Civic, and Welfare. Their development is measured by their tally—a score between 1 and 30. Tally points are earned through the creation of amenities (page 168). As each aspect gains tally points they increase in rank, from rank 1 (the least developed) to rank 6 (a well-developed community). As an aspect earns more tally points, and thus gains a higher rank, it has an increasingly positive impact on the life of the town and on the town’s overall prosperity.
 
-
 ### Tally Points and Ranks
 
 All aspects of a brand new town start at rank 1, with a tally score of 1. When an aspect earns enough tally points it gains a rank, as shown in the table below.
 
-
 Aspect rank Tally points Rank 1 1-2 Rank 2 3-6 Rank 3 7-12 Rank 4  13-18 Rank 5 19-26 Rank 6 27+
-
 
 ### Farming
 
@@ -102,7 +94,7 @@ This aspect covers the natural resources available in the area, from mining oppo
 
 Rank 6 indicates a town in the flush of a natural resources bonanza—it might be in the midst of a genuine gold rush.
 
-### L aw
+### Law
 
 How lawful, or lawless, is the town? At rank 1 there’s no law in town, and the ne’er-do-wells have the run of the place. By rank 3 there’s a sheriff hereabouts, and the locals have built themselves a gallows— there’s a collective sense of justice. But bad folk still get away with doing bad things. By rank 6 there’s a judge, a courthouse and a prison, and the cannier outlaws give this place a wide berth.
 
@@ -114,13 +106,11 @@ How civilized is this place? Even if there’s not much in the way of the law, t
 
 What dangers bedevil the people who call this place home, and how well is it set up to deal with those dangers? The Welfare of the town covers the local environment—weather, wildlife, and topography— as well as the dangers caused by frontier life—the industrial hazards of working in a mine or felling trees, as well as poor sanitation and disease. At rank 1 life is as hard as it gets. By rank 3 a town might have managed some of these problems, and by rank 6 the place is as safe as any.
 
-
 ### Prosperity
 
 The town’s Prosperity gives an overall indication of the town’s level of development. The Prosperity score is calculated by totalling the ranks for each individual aspect to give a Prosperity score between 6 and 36 (for example, if each aspect was at rank 2 the town’s Prosperity would be 12). Prosperity influences the Town Fortunes roll during the Turn of the Season (page 192). It can also be used to give a sense of the population of the town, the specific total to be decided by you, the GM, depending on your campaign.
 
 ### Town Prosperity Table
-
 
 | Prosperity total Description Turn of the season modifier | Population |  |
 | --- | --- | --- |
@@ -145,7 +135,6 @@ The town’s Prosperity gives an overall indication of the town’s level of dev
 | Large town community and should have a great future. | home. |  |
 | 32–36 The town is booming | +2 to the Tens die on | The population may be |
 | and developing into a City sustainable community with the brightest of futures. | Town Fortune rolls. 5,000 souls or more. |  |
-
 
 ### Amenities
 
@@ -187,25 +176,19 @@ A full list of available amenities can be found from page 169, categorized by th
 
 An amenity always takes one season to complete, and each amenity can only be chosen once.
 
-
 A M EN IT I E S  -  FA R MI N G AM E N ITIE S  -  M E R C AN T ILE Min  Min Amenity Amenity Civic  Civic Rank Rank 1 Animal Culls 2 1 1 Bordello 2 1 1 Barns 2 1 1 Blacksmith 1 2 1 −1 1 Foragers 2 1 1 General Stores 2 1 1 Horse Traders 2 1 1 Mills 1 2 1 Labor Drive 2 1 1 −1 1 Pony Express  2 1 Route 1 Land Clearance 3 1 −1 1 Saloons 2 −1 1 1 1 Livestock  2 1 1 −1 1 Town Square 2 1 1 −1 Roundup 1 Paddocks /  2 1 1 Workers’   1 2 Corrals Cooperatives 3 Firebreaks 2 1 3 Distillery 1 3 −1 3 Grain Silos 2 1 3 Hotel 2 1 3 Irrigation 2 1 3 Post Office 2 1 3 Tumbleweed  3 −1 1 3 Stagecoach 2 1 Clearance 4 Corn Exchange 3 1 −1 4 Bank* 3 −1 4 Reservoir 2 1 4 Trading   3 Exchange 5 Country Market 4 5 County Auction  4 House Farming Mercantile Natural Riches Law Civic Welfare Farming Mercantile Natural Riches Law Civic Welfare
-
 
 ### Amenities - Natural Riches
 
 ### Amenities - Law
 
-
 Min  Min Amenity Amenity Civic  Civic Rank Rank 1 Clay Pits 2 1 1 Bounty Hunters 1 3 −1 1 Fishing Rights 1 2 1 Community  2 Spirit* 1 Fur Trapping 1 2 1 Gallows 2 1 1 Gold Rush 2 2 −1 1 Hunting Dogs 1 3 −1 1 Mines 1 3 −1 1 Posses 2 1 1 Panning Claims 1 2 1 Sheriff ’s Office 2 1 1 Prospecting 1 2 1 −1 1 Wanted Posters 1 1 2 −1 1 Timber Mill 1 2 3 1 2 Attorney’s Office 3 Gem Cutters 1 2 −1 1 3 Courthouse 2 1 3 Mining   2 1 3 Land Claim  1 2 Cooperatives Office 3 Quarry 2 1 3 Prison 2 2 −1 3 Town Expansion* 2 3 Sheriff Elections −1 2 1 1 4 Coke Smokers 1 3 −1 4 Employment Office 2 1 4 County Apprais-er’s Office 3 4 Federal Marshal’s Office 3 5 Oil Strike 4 5 County Court  4 House Farming Mercantile Natural Riches Law Civic Welfare Farming Mercantile Natural Riches Law Civic Welfare
-
 
 ### Amenities - Civic
 
 ### Amenities - Welfare
 
-
 Min  Min Amenity Amenity Civic  Civic Rank Rank 1 Boardwalks 1 2 1 Bathhouse −1 1 1 2 1 Citizenry Meet- 2 1 1 Cemetery 1 2 ings 1 Community  1 2 1 Church** - - - - - - Projects 1 Festivals 1 −1 3 1 Horse Troughs 1 2 Maintained 1 Laundry 1 2 1 1 1 −1 2 Tracks 1 Town Hall 1 2 1 Public Latrines 1 2 1 Warning Bells −1 1 2 1 1 Stables 1 2 1 Welcoming  1 1 −1 2 1 Wells* 1 −1 2 Spirit 3 Crafting Cooper- 1 2 3 Apothecary 1 2 atives 3 Mayoral Elec- −1 1 3 3 Doctor 1 2 tions 3 Newspaper** - - - - - - 3 Firehouse 1 2 3 Public Library 1 2 3 Theater / Opera  1 −1 1 2 House 3 Schools 2 1 3 Undertaker 1 2 3 Seasonal Fairs 1 1 −1 2 4 Orphanage 1 2 3 Town Council* 2 4 Circus 1 −1 3 4 Telegraph 1 −1 3 5 Hospital 4 4 County Hall 3 5 Railroad Station 4 Farming Mercantile Natural Riches Law Civic Welfare Farming Mercantile Natural Riches Law Civic Welfare
-
 
 ### Amenity Descriptions
 
@@ -247,7 +230,6 @@ Min  Min Amenity Amenity Civic  Civic Rank Rank 1 Boardwalks 1 2 1 Bathhouse −
 
 **Corn exchange** : Rank 4. A food and grain market that has a reputation across the county. Many farmers from far and wide will travel here to buy and sell their produce.
 
-
 **Country Market** : Rank 5. The settlement has a seasonal country market that draws vendors from not just across the county, but from across the state or territory. It’s a big event in the calendar, and marks the settlement as one of great importance.
 
 **County Appraiser’s Office** : Rank 4. The expertise in town has made it the center of buying and selling in this neck of the woods. Now they have the official County Appraiser set up in town, so the price of land, resources, and property is all set right here.
@@ -283,7 +265,6 @@ help the town prosper.
 **Foragers** : Rank 1. The local wilderness harbors a bounty of plants that can feed the local community. From berries and fruits, to roots, grubs and even peyote, the local people have an important supplement to their boring daily diet.
 
 **Fur Trapping** : Rank 1. Trappers are encouraged to make the most of the abundant animal life, not only for their furs but also as a tasty addition to the community’s dinner plates. Beaver, raccoon, otter, mink, fox, deer, bear, and buffalo are all in demand.
-
 
 **Gallows** : Rank 1. The way a community deals with its miscreants says a lot about the strength and resolve of its people. A permanent gallows in town is mightily eloquent.
 
@@ -323,7 +304,6 @@ help the town prosper.
 
 **Mining Cooperatives** : Rank 3. The craftsmen of the town are encouraged to come together to seek better ways to make money. If a settlement’s captains of industry are rich it’s a sure bet the settlement will be rich too.
 
-
 **Mills** : Rank 1. A small frontier settlement needs to be as self-sufficient as possible, and having watermills and windmills to grind the flour for the community’s daily bread can only be a good thing.
 
 **Mines** : Rank 1. Opening new mines is a great way to build the prosperity of the town and community. And there’s no quicker way to riches than hitting a big seam of gold, silver or iron ore.
@@ -358,7 +338,6 @@ help the town prosper.
 
 **Reservoir** : Rank 4. Damming rivers and managing fresh springs, the townsfolk build themselves a reservoir of fresh water.
 
-
 **Saloons** : Rank 1. A place is only as good as the welcome folks can get in its seediest saloon, and the settlement is encouraging saloons to set up business. They may bring a few problems but they also bring people and money into town.
 
 **Seasonal Fairs** : Rank 3. County fairs can spread the good name of the town and bring in much needed trade from elsewhere, as well as encourage others to come and add their strength to the community-building effort.
@@ -391,7 +370,6 @@ help the town prosper.
 
 **Tumbleweed Clearance** : Rank 3. Tumbleweed can be the death of a settlement if it’s not cleared. The community comes together to rid the place of this cloying weed, but it takes time and diverts effort from other, more profitable, schemes.
 
-
 **Undertaker** : Rank 3. Having a resident undertaker in town is an important sign of the type of life we are trying to build. Let them take the dead from our sight and prepare them for godly burial.
 
 **Wanted Posters** : Rank 1. If those outlaws see their faces plastered all over the community they might make themselves scarce, and take their nasty ways with them.
@@ -416,7 +394,6 @@ help the town prosper.
 
 > _While the amenities of a settlement give a strong indicator of the kind of place the town is, they are not proscriptive. As the GM, you are at liberty to add elements to your game even if the town does not possess the relevant amenity. For example, you may wish to introduce a saloon, run by a nasty NPC, to your game, and should happily do so, even if the ‘Saloons’ amenity has not been chosen and completed—an NPC can set up his or her place, even while the settlement is not actively encouraging drinking establishments to open up in town._
 
-
 ### How your Town Helps or Hinders You
 
 The place where you live makes a huge difference to how successful you are. The higher the aspect ranks of the town, the better it is for your player characters. This is described in full in The Turn of the Season (page 180).
@@ -439,7 +416,7 @@ Here is how you go about creating your new town:
 
 **2** . Decide on the town’s backstory. Why are people setting up home here? What’s important about this place? It might be beside a river or a lake, or near a suspected gold find in the mountain, or just where some folks gathered, trying to live out of the way of everyone else.
 
-### WHIC H AS PE C T ?
+### Which Aspect?
 
 > _The chance of a business being a success is modified by both the rank of the Law aspect and that of the aspect that most directly impacts the business:_
 
@@ -455,9 +432,7 @@ Here is how you go about creating your new town:
 
 **4** . Roll to see how many starting amenities the town already has. This is based on the starting status of the town.
 
-
 D6 Starting status Starting amenites 1-2 New ground just broken - For a  1D3 game that starts at the formation of the town - “The clean earth has just been broken” 3-4 A new place - For a town that’s  2D3 just getting going - “People are building and finding a way to live here” 5 Early days - But people are start- 1D6+4 ing to set down roots - “Homes and amenities are springing up” 6 2D6+4 Establishing - The town’s growing, becoming a “place” - “People are starting to hear of this town”
-
 
 **5** . A new town’s aspects all start at rank 1, with 1 tally point. Choose the town’s starting amenities and apply the relevant bonuses and benefits. The settlement’s backstory might influence which amenities you choose. For example, a town next to a river or brook might choose Wells or Fishing Rights. One established along a well-trodden trail might choose Maintained Tracks, as people pass through here often. At this point no aspect can drop to zero—if
 
@@ -472,7 +447,6 @@ any modifier would reduce the score to zero it is ignored and the tally remains 
 ### Tracking your Town - an Example
 
 > _You will see from the example Town Tracker below how you record and monitor the progress of your settlement. In this example, we are looking at a new town—let’s call it Mattsville—with six starting amenities:_
-
 
 - _Mattsville started with one tally point in every aspect (rank 1), and then the players carefully chose six amenities. However, even with those amenities two of the town’s aspects are still at rank 1 (Natural Riches and Welfare), the lowest rank an aspect of a functioning settlement can be._
 
@@ -491,7 +465,6 @@ any modifier would reduce the score to zero it is ignored and the tally remains 
 - _But what Mattsville excels at is trading. They have invested the most effort so far in getting their Mercantile aspect up to rank 3, with two points from the General Stores and the Pony Express Route, and one point each from Horse Traders and Mills._
 
 > _While business in town is going well, it’s a very tough place to live. The town’s Prosperity (11) is pretty bad, but it’s not as bad as it might be. It’s certainly a start!_
-
 
 ### The End of the Road
 
@@ -523,10 +496,9 @@ apply any amenity modifiers to the town for those amenities that were started at
 
 But having looked back to last season, you then look forward to the next. The group can choose a new amenity for the town, and may buy extra amenities with Settlement Points. The players choose the lifestyle their player characters aspire to, and can afford, for the next three months. They roll to determine what events or situations may influence them and their hometown during the next season—these Personal and Town Fortunes give you story hooks you can play into the tales that unfold during the next season.
 
-### W h e n  d o e s t h e  se a so n  t urn ?
+### When Does the Season Turn?
 
 You decide when to play the Turn of the Season, based on your campaign. You should play at least one adventure per season, rather than skip a season entirely, as seasonal changes often play an important part in Old West stories. Two or three adventures
-
 
 per season is a good standard—that way your campaign might last a few years of in-game time and your player characters will experience real change to their fortunes and the town they call home. However, to give your campaign a real generational feel you can skip several seasons each time you play the Turn of the Season, and have longer between adventures. In this case you should only apply the Turn of the Season rules every second season, to minimize the risk that big changes happen for the player characters without them having the opportunity to do something about it (for example, their businesses do very well over multiple seasons and they gain a lot of money they did not have to work for, or their businesses do very badly over consecutive seasons and go bust while they have no chance to save them).
 
@@ -570,7 +542,6 @@ At the end of every season the players need to see how well their characters’ 
 
 The players check those amenities that were chosen at the beginning of the season. They are now complete and are a part of the town. Apply any bonuses and penalties they provide to the town’s aspects.
 
-
 Mod Description +2 There are very few others trying to do what you do, and those that do are either badly managed outfits or whatever they’re selling just ain’t no good—competition is non-exis- tent.
 +1 There may be a few outfits trying to do what you do, but you have the edge over your competitors. You’re better at what you do, or your goods are of a higher quality. But your competitors aren’t far behind.
 0 All’s fair in love and war, and business.
@@ -579,12 +550,10 @@ business, or your competitors have the edge over you, but not by much. It’s a 
 -2 Competition is fierce. There are many people
 doing what you do, some are well established and people think they do a better job.
 
-
 | Town modifiers Aspect level | Modifier |
 | --- | --- |
 | All Season Business and Congregation rolls are modified based on Law aspect AND 2 -1 | 1 -2 |
 | modified by the relevant aspect for the business in question: 4 +1 For a Farming business—Farming aspect For a Trading business—Mercantile aspect 5 +2 For a Resources business—Natural Riches aspect For a Congregation roll—Civic aspect 6 +3 | 3 0 |
-
 
 All the bonuses and penalties stack up. If conditions are so bad that you have zero or negative dice, the outfit can’t make a roll—you automatically fail the Season Business roll.
 
@@ -614,7 +583,6 @@ business and turn them into cash), find another way to cover the wages, or not p
 
 - If the roll achieves more than one success the business has done very well indeed. Roll once on the Business Bonus table, with each extra success beyond the first giving a +1 bonus to the Tens die. Any bonanza gained in this way is divided among the investors as they see fit.
 
-
 | D66 Business Bonus Business Penalty |  |
 | --- | --- |
 | Business has been brisk and you get a bonus of 11-16 $6D6 in cash. should count your lucky stars—you don’t have any extra losses over what you’re already suffered. It’s been an ok season, and you’ve a little bonus cash left over. You still gotta pay the wages though, and those folks don’t look mighty happy about it. | Despite how badly business has been going you |
@@ -635,7 +603,6 @@ business and turn them into cash), find another way to cover the wages, or not p
 | Does everyone love your business? Maybe some | People look down on you—you’re not successful and |
 | are envious of your success, or think you’re cheating somehow? | it don’t look like you’re gonna make it. |
 
-
 | D66 Business Bonus Business Penalty |  |
 | --- | --- |
 | You have some famous customers who can’t 44-46 | One or more employees are so angry with you |
@@ -653,8 +620,7 @@ business and turn them into cash), find another way to cover the wages, or not p
 | ately liquidated. The profits are shared by the shareholders as a dividend. this total by $25—this is the extra debt your investors must pay off. Many seem envious of your success and want to tear | Capital, add the results together and multiply |
 | you down. But you don’t care—your outfit is going from strength to strength. paltry amounts to take your assets off your hands, others just wait for the inevitable fire sale for a bargain. Bonanza time! You gain bonus Capital equal to 71+ half your outfit’s pool of Capital, rounded up. These must be immediately liquidated. The prof- its are shared by the shareholders as a dividend. - Feted by the best folk of the town, your success is unprecedented. Everyone wants what you’re selling, and suddenly you’re the center of attention. But that attracts bad elements too. | Everyone assumes you’re done. Some might offer you |
 
-
-### a Business in Action
+### A Business in Action
 
 > _Working at the livery earns a salary equivalent to that of a Handyman, so Arthur, Beth, Colm and Drew should all draw a base wage of $75 every season. However, with their investment of three Capital, they add 10% to the base wage (+5% per point of Capital invested after the first), so this seasonal wage increases to $82.50. This is the wage they will earn if their Turn of the Season Business roll gains at least one success. Beth is the proprietor, so makes that roll, and does well, with two successes. She rolls for the Business Bonus that the second success has earned—they gain an extra $90 this season. As Arthur and Drew are only employees they have no entitlement to this bonus so they have to be content with their wages. Only Beth and Colm have a right to this bonus as they own the Capital invested in the outfit. They could, of course, give some of this dividend to Arthur and Drew as a bonus, but they don’t. They agree a straight division based on the 2 to 1 Capital ratio, so Beth takes $60 and Colm takes $30, over and above their $82.50 salary for that season._
 
@@ -665,7 +631,6 @@ Taking a loan can be fraught with trouble. The player character may be able to a
 When a business loses money from a Business Penalty roll the additional debt must be paid immediately. Alternatively, if you wish to make this outcome the centerpiece of an adventure,  set a suitable time limit for the debts to be repaid and let the characters desperately try to save their business.
 
 Those characters who have Capital invested in the outfit are responsible for paying off this debt. If they have the cash available they can use that, otherwise they must either liquidate Capital to cover the debts, or take a loan. If this leaves them with zero Capital in the business they no longer have an investment and a stake in that business. If, by trying to cover the debts, the outfit itself ends up with no Capital left it immediately goes bankrupt and out of business.
-
 
 ### Season Congregation Rolls
 
@@ -695,7 +660,6 @@ The number of successes on this PERFORMIN’ roll determines the level of donati
 
 - +1 bonus if they preach from a well-kept, purpose-built church.
 
-
 ### Lifestyle
 
 Maintaining a certain lifestyle is important to many people in the West, especially those who see themselves as a better sort of gentlefolk, or have aspirations to political or municipal office. People judge themselves, and others, by the clothes they wear and the airs and graces they display. Your lifestyle shows the community what kind of person you are, that you’re a man or woman deserving of respect, and who should be treated accordingly. As such, your lifestyle affects your Fame and Reputation.
@@ -712,12 +676,10 @@ The players always choose one new amenity for their settlement every season, for
 
 Once you have chosen your lifestyle for the next season, you apply the relevant lifestyle modifiers to Fame and Reputation. Note that the Fame and Reputation modifiers for a player character’s lifestyle only apply for the season during which that lifestyle can be afforded, and are not cumulative over time. At the end of the season the modifiers are removed, and new modifiers—for the lifestyle afforded for the next season—are applied.
 
-
 | Seasonal Lifestyle Table Cost Modifier Modifier DESTITUTE: You have nothing, you want nothing, it costs you $0 0 −3 nothing. You may have a hovel or a tent to sleep in but you’re little more than a vagrant. You hunt and gather (or steal) to eat, occasionally scrap- ing up the coin to have a bath and get your clothes laundered. But not often. Most good folk look down on you, if they even notice you at all. VERY POOR: You try your best but you have little. A small cabin $50 0 −2 maybe, that needs (or gets) little care. You have no extravagance in your life at all. Surviving is all you can manage, and that’s not always a surety. Your clothes are threadbare. They smell too. You eat the most basic foods, all you can afford. SCRAPING BY: You aren’t on the poverty line but you have no swag- $100 0 −1 ger, no pretense at any kind of an easy life. Every day is a struggle, and while you might think you’re respectable, you aren’t really respected. You’re still just too poor. MANAGING: You are doing ok, if not well. You have enough to eat | Fame | Reputation |
 | --- | --- | --- |
 | and your clothes, if a little threadbare, are of sufficient quality to keep you warm, cool and dry. Your home is as good as all the other normal folk, and you live a decent, if simple, life. COMFORTABLE: You have good clothes, decent food, and you | $150 0 0 |  |
 | never run out of firewood. Your home is nicely appointed and the good people nod hello to you in the street. You are respectable. You might even get asked your opinion on civic matters, but not always. And they don’t always listen to your view. WELL-OFF: Your lifestyle is opulent compared to everyone else in $350 +2 +2 the town. You wear the best quality clothes, you buy the best food from the stalls and markets, you have your place in the best saloon in town. Everyone knows who you are. They all nod good morning, and your opinion is sought. RICH: You are the best of the best. You are so rich that nothing both- $500 +4 +3 ers you. Everyone in town knows who you are and nothing is decided without your view being sought. They are all envious, and would gladly do anything to swap places with you. People of your caliber run the world, and you want to keep it that way. | $200 +1 +1 |  |
-
 
 ### Personal Fortune Rolls
 
@@ -730,7 +692,6 @@ To determine their character’s Personal Fortune for this season, each player s
 - If they live in a town with a Welfare aspect of 5 or 6, add +1 to the Tens die.
 
 **Jackpots and Calamities** : A naturally-rolled result of 66 ( Jackpot!) or 11 (Calamity!) always counts as that result, regardless of any modifications that may be applied to the roll. In this way even those who live in a town with a poor Welfare aspect can hope to gain a Jackpot! (which they otherwise would not be able to), and those who live in a town with a very good Welfare aspect might still suffer a Calamity!
-
 
 | D66 Personal Fortunes |  |
 | --- | --- |
@@ -745,7 +706,6 @@ To determine their character’s Personal Fortune for this season, each player s
 | 14 Terrible Illness y lose 1 point from a random attribute. contracted it. The | - One of your compadres gets very ill—the GM decides on the disease and how they |
 | 15 Loyalty? why). They might make life a misery for you, or even leave your side, unless you can identify and resolve this problem. | - A random compadre becomes disillusioned with you or otherwise unhappy (the GM decides |
 | 16 Rabid Animal responsible. The town is angry, and the family of the victim is out for blood—maybe your animal’s, maybe yours, perhaps both. | - Someone has been killed in town, and it seems your horse, dog, or other animal was |
-
 
 | D66 Personal Fortunes |  |
 | --- | --- |
@@ -767,7 +727,6 @@ To determine their character’s Personal Fortune for this season, each player s
 | 45 An Exciting Find get of ore, a special plant, $2D6 in ancient coins, a young animal pup, etc). Agree with the GM what it is. | - You find something that you like, want or find exciting. It could be anything (a nug- |
 | 46 A Friend in a High Place should decide who this is, and why they are taking notice of you. | - Someone important takes notice of you for some reason. The player and GM |
 
-
 | D66 Personal Fortunes 51 Love Blossoms - Someone has expressed their love for you. It might be an old flame or someone new. It might be welcome or a complete pain in the ass. But nonetheless, this person seems to love you. |  |
 | --- | --- |
 | 52 An Unexpected Legacy deeds to some unlikely claim, or a family heirloom or treasure. The GM decides. | - You have been left a legacy from an unexpected source. It may be money or title |
@@ -788,25 +747,21 @@ To determine their character’s Personal Fortune for this season, each player s
 | 75 Long-lost Family existed. They are overjoyed to be reunited with you. Gain a new compadre. | - A member of your family appears, who you thought long dead or never even knew |
 | 76 Home is Where the Heart Is During the next season, when you are at home with your family or in a family gathering, you regain 3 Faith Points instead of 1. | - Your home and family really are the comforting haven you always wanted. |
 
-
 ### Town Fortune Rolls
 
 The Town Fortune roll determines an event relating to your town, that might add a complication or create an opportunity during the forthcoming season, or lead to a new tale entirely. The town’s Prosperity influences its fortunes. Roll D66, and apply the modifications in the Table on page 193.
 
 **Jackpots and Calamities** : A naturally-rolled result of 66 ( Jackpot!) or 11 (Calamity!) always counts as that result, regardless of any modifications that may be applied to the roll. In this way even towns with a low Prosperity can gain a Jackpot! (which they otherwise would not be able to), and those with a high Prosperity can suffer a Calamity!
 
-
 Prosperity Modification to the town fortune roll 10 or less -2 to Tens die 11 to 14 -1 to Tens die 15 to 18 -3 to Unit die (to a minimum of 1)
 24 to 27 +3 to Unit die (to a maximum of 6)
 28 to 31 +1 to Tens die 32 or more +2 to Tens die
 
-
-### F ORT UN E S  IN  PL AY
+### Fortunes in Play
 
 > _Some of the Town Fortune results produce events that play out during the next season. These events come with positive or negative impacts upon the town’s aspects and the townsfolk. If the player characters get actively involved in the event during the forthcoming season these impacts can be modified or mitigated—you should decide on the precise effect the player characters can have on the impact of the event._
 
 > _For example, the players roll for their Town Fortune, and roll 15—more and more drunken cowboys and outlaws are making the town a dangerous place to be. It’s unlikely the player characters can completely solve the problem, but if during the course of an adventure they help the sheriff deal with some troublemakers, then you should reduce the impact of the event on the Law and Civic aspects. The Personal and Town Fortune rolls are intended to generate great adventure hooks and story ideas, and provide inspiration to delve more deeply into the lives of the player characters. We encourage you to make the most of the opportunities they offer for your campaign, and see where these tales take you._
-
 
 | D66 Town Fortunes 01 Fool’s Gold - The resources around the town are nowhere near as good as everyone thought. The town’s Natural Riches aspect’s maximum possible rank is reduced by 2. |  |
 | --- | --- |
@@ -820,7 +775,6 @@ Prosperity Modification to the town fortune roll 10 or less -2 to Tens die 11 to
 | 15 Lawlessness in Town making the town a dangerous place to be. Lose 1 tally point from both Law & Civic. | - It seems to be getting worse—more and more drunken cowboys and outlaws are |
 | 16 Deep Freeze (Winter or Spring) | - Will this terrible winter ever end? |
 | Drought (Summer or Autumn) animals, and then the people, will die of thirst. The town loses 1D3 Settlement Points to a minimum of 0. 21 Terrible Storms - The weather is angry, and the old-timers say it’s set to get worse. Lose 1 tally point from either Mercantile or Welfare. 22 Insect Infestations - From insect swarms eating the fields, to midges and mites spoiling the crops in the barns, to roaches spreading disease and them poisonous spiders—it’s almost a biblical disaster. The town cannot start any amenities this season. | - It looks set to be hot as hell. If it gets bad nothing will grow and the |
-
 
 | D66 Town Fortunes |  |
 | --- | --- |
@@ -836,7 +790,6 @@ Prosperity Modification to the town fortune roll 10 or less -2 to Tens die 11 to
 | 46 Big Claims big claims cheap to anyone that can pay. Sounds too good to be true... Characters running a Resources get a +1 bonus to their Business roll at the end of the next season. outfit 51 New Preacher in Town - There’s always more space for God in the life of the town, so maybe this new preacher man is a good thing! The town can buy the Church amenity for 3 Settlement Points, but only if they buy it this season. 52 Cattle Drive - There’s rumors of a cattle drive coming this way. Maybe a chance for some work, or an opportunity to take possession of a nice steer or two. Add 1 tally point to either Farming, Mercantile or Natural Riches. | - Rumors abound that this place is onto something big. New folks are in town selling these |
 | 53 Doctors and Apothecaries in Town to have new medicines and remedies to try, if he ain’t no quack. Add 1 tally point to either Law, Civic or Welfare. | - There’s a fella gone to calling himself Doctor, but it’s always good |
 
-
 | D66 Town Fortunes 54 Unseasonal Rains - The weather is wet. It’s good for the crops but everyone gets sick of the damp, and worries about what all this downpour is doing to the headwaters of the local rivers. Add 1 tally point to either Farming or Natural Riches. |  |
 | --- | --- |
 | 55 Federal Marshal in Town them bad guys, but why does the marshal keep coming by this way? Add 1 tally point to either Law or Welfare. 56 Festivals! - The town has been bustling with talk of the upcoming excitement and debauchery of this season’s festivals. Add 1 tally point to either Mercantile or Civic. 61 Native Trade - Many might distrust the Native Americans but they have some fine things for trade. And when you deal fair with them they are darned fair back to y’all too. Add 1 tally point to both Mercantile and Welfare. | - It’s always good to have a tough man of the law in town keeping a lid on all |
@@ -850,14 +803,11 @@ Prosperity Modification to the town fortune roll 10 or less -2 to Tens die 11 to
 | The Lord’s Fertility success is assured for a hardworking farmer. The Farming aspect immediately gains 2 tally points. 76 | - The farming and grazing land around town is found to be so rich and fertile that |
 | The One in a Million Find be set forever! The Natural Riches aspect immediately gains 2 tally points. | - A prospector has found a huge bounty of natural resources. The town must |
 
-
 ### Example Town Tracker
 
-
-### C AM PAIGN  TALE S
+### Campaign Tales
 
 There are many tales to be told in the Old West. These campaign tales are intended to provide ideas and inspiration for GMs, either to create new campaigns, roll these tales into your existing campaign, or as one-off adventures. As such, feel free to take these tales and modify them to fit your own game.
-
 
 ### The Lost Children of Fort Button
 
@@ -887,7 +837,6 @@ Tilbury is also hiding a secret—he has been unable to protect all the teenager
 
 Fernando Quintero was due to take over running the family cattle ranch from his mother, Marta. The newest settlers, the Pickards, contacted Fernando to make agreements concerning cattle, horses, and most importantly, access to water. When Joshua Pickard revealed his latest plan, to reroute water away from a nearby Puebloan village, Fernando balked and that cost him his life. Fernando’s young sister, Ynez, witnessed the killing from a high ridge, and the gunshot was heard by Huhui, a Native American of the Diné (Navajo), who investigated. The Pickards saw Huhui and shot at him, but missed. Seeing Huhui gave Joshua the ideal alibi, and he blamed Huhui for Fernando’s murder.
 
-
 The Quintero family is now a house in turmoil. Young Ynez has been eagerly awaiting the Quince Años celebration, her coming of age ceremony, but is now carrying a burden of sorrow, love and secrets— witnessing the killing of her brother Fernando was terrible, but she is also head over heels in love with the youngest Pickard boy. As the long awaited Quince Años celebration approaches she is torn by divided loyalties. Keeping these secrets could unravel her life, her family, and the town. If that were not enough, the Garcia family, a rival cattle outfit, is still simmering from an old slight of the heart, after Marta Quintero rejected the advances of Don Alejandro Garcia.
 
 The town itself, where cultures and people intersect, is tense. Disputes of land ownership between the Quinteros and the neighboring pueblo have only just been settled. The Pickard Ranch, ignoring tradition to seek quick riches, has soured relations with the locals who have a long history in this land.
@@ -915,7 +864,6 @@ Franklin Haile thought so. He bought a wagon and set off with his family back in
 What happened next? Well, the story that the player characters hear from their friend is that there was horseplay, a lamp got overturned, and the wagon caught fire. The Hailes died in the blaze. All but the daughter, eight-year-old Mary Haile. She ran off. The four searched the hills, but there was no trace of her, and winter was biting hard.
 
 After the fire, the four men went their separate ways. Theo Okee kept on drifting. He rode with Pierre Regnard for a while. Last anyone heard, he was driving cattle. Wallace Lacklam settled down, got married, had a family and became a pillar of the local community. For the Professor? Well, everyone’s seen his posters: Professor Hatten’s Patented CureAll takes away all your aches and pains, cures toothache and twisted guts, and probably strips paint and
-
 
 launders sheets too. And Pierre Regnard’s name is on posters too. Wanted posters. He shot two men over a poker game in Kansas City a few years ago and disappeared.
 
@@ -953,7 +901,6 @@ Tensions are high, and the town is divided by Barton’s offer. The player chara
 
 A mother is offering a reward for her lost child. He has gone missing while exploring the hills to the west of town. Is he simply lost, a victim of the local wildlife, or perhaps he stumbled across Barton’s secret mine and saw something he shouldn’t have?
 
-
 The characters learn that Walt Thompson, accompanied by Big Red and his gang, are headed to the next town meeting in order to intimidate everyone about the sale to Barton. Will the players decide to confront them directly, rally the townsfolk to resist, or seek alternative means to protect the town?
 
 There are rumors about a secret mine. Will the characters discover Barton’s clandestine operation and confront Barton’s hired guns or expose them by other means?
@@ -982,7 +929,6 @@ That night a large group of outlaws rides into town, heavily armed. They are led
 
 How will the player characters deal with this situation? Will they ask the locals to help them defend the town? Or will they try to get past the blockade and make a run for it, to get help from the army at Fort Stevenson, fifty miles away? Will they ask the Sioux for aid?
 
-
 After dealing with the outlaws, the characters can stay to help the people of Spearfish. In the following years the prospect of gold attracts thousands, including desperate and criminal elements. And with that, the terms of the treaty with the Sioux are well and truly broken. Spearfish is a powder keg waiting to blow. How will the player characters deal with this, and can they find a way to respect the rights of the Native Americans against this illegal tide of settlers?
 
 ### The Slow Road to Pecos
@@ -1006,7 +952,6 @@ The journey won’t be easy, but it’ll pay well and give the player characters
 After a briefing the group mount up at Mercer’s ranch, then set out. Eight riders drive the cattle (more if there are a large number of player characters taking part). While there is ample opportunity for you to introduce all manner of different encounters and challenges, from injured cattle, ill cowboys, flooded paths and wilderness threats, the big twist comes from direct opposition in the form of some Bandera hostiles.
 
 A few of Mercer’s old crew, led by a man of questionable morals, Winston Barkley, along with those that bought into the local rumors about the ranch owner, have weighed up exactly how much this cattle is worth, and plan to follow Mercer and kill him and his companions on the trail in order to complete the transaction themselves. After all, who is going to notice a little more blood spilled on frontier soil?
-
 
 ### The Past Never Forgets
 
@@ -1032,8 +977,7 @@ This tale works well for any mixed group of player characters looking to do some
 
 As the player characters begin trying to track the outlaws, Spate might reveal Annie’s past to both them and her husband. How will he take being lied to, if only for his protection? If they find the outlaws, will they think Annie has gone back to her old ways? Can they stop Spate bringing her to justice if he finds her first?
 
-
-### The Tall Tale of V Ear S Vale
+### The Tall Tale of Vears Vale
 
 ### Background
 
@@ -1060,7 +1004,6 @@ She needs help to complete her big venture. But she also has a lot of enemies wh
 ### The Set Up
 
 This tale can work for any group of player characters, anywhere along the railroads. They can become
-
 
 ### Six Bullets for Six Bastards
 
@@ -1104,7 +1047,6 @@ It’s up to the player characters to figure out who the initials belong to and,
 
 The player characters are the law and agree to bring the men to justice.
 
-
 ### The Tale of Horatio Township
 
 ### Background
@@ -1137,8 +1079,7 @@ The night after the stagecoach arrives, Frank Daughtery is murdered, shot throug
 
 Bill Daughtery returns with the news that his negotiations with the friendly Utes were successful. But
 
-
-### W H AT  H A P P E N E D  T O  O LD P O S S UM  TAT E ?
+### What Happened to Old Possum Tate?
 
 ### Background
 
@@ -1167,7 +1108,6 @@ If they don’t find Possum before Sunday the player characters encounter the ou
 Last winter six men, including three representatives from the New Mexico Mercantile Cooperative— Brandon Meeks, Barry Grayson, and Sherman Holliday—went to find and survey a site that was rumored to rival the Comstock Lode, a lucrative silver mine in Nevada. Ned Hanlon was their guide. The journey was meant to take three weeks. That was the last any folks saw of the survey team until just a few weeks ago, when Ned Hanlon staggered back into town alone.
 
 Hanlon was exhausted, injured and severely malnourished. His family took days to nurse him back to health. The gossip of what happened is gruesome. Wild animal attacks, cave collapses and then cannibalism to survive the winter, with Ned the sole survivor of the ill-fated expedition.
-
 
 The lawyers from the New Mexico Mercantile Cooperative and most of the families of the men who never returned want Ned arrested and tried for murder. The company also wants Ned’s family arrested for conspiracy to defraud them by concealing the location of the potential mine site and not letting them see Ned before he spoke to anyone else.
 
@@ -1199,7 +1139,6 @@ As this year’s roundup approaches, Clara’s finding herself in the middle of 
 
 This tale is ideal for a group that wants to play either ranch hands that work for Clara, people in town who are willing to step up and assist her, or hired mercenaries (or a combination of those).
 
-
 ### The Story
 
 The majority of Clara’s troubles can be traced back to the other two big ranch owners, Gilbert Nelson and Adam York. What can the player characters learn about those two and their possible attacks on Clara and her ranch?
@@ -1227,7 +1166,6 @@ Of course, the rail barons, boosters, and other greedy parties aren’t going to
 ### The Story
 
 The player characters are about to find out. With a hefty advance in hand, they mount up and head to Blackstone to find the town on a knife edge of tension: Hillman and Dodd are at odds with many locals, although most are too scared to oppose them; the US Army is on its way to enforce the rail barons’ wishes; the world, according to Dodd and his adherents, is about to end; and Harriet is nowhere to be found.
-
 
 With the US Army ready to march on Hillman, the end of the world about to come, and one girl trapped amidst it all, the player characters have a lot to handle. No one here has pure motives except for Harriet, but she’s starting to believe Hillman’s take on “patriotism”. Can the player characters rescue her before the cavalry and the militia showdown over freedom, profit, and the dubious interpretation of God’s role in the Constitution?
 

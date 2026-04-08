@@ -22,7 +22,6 @@ The distance between you and your opponent is divided into six range categories,
 |Turn|5-10 minutes|Exploration|
 |Shift|6 hours|Recovery|
 
-
 Social conflicts make use of the PERFORMIN’, PRESENCE and INSIGHT abilities. This includes persuading people to your way of thinking, romantically courting someone, facing someone down, or resisting similar attempts against you.
 
 So, before you get into conflict with anyone, you should always ask yourself this question: is it worth it?
@@ -31,12 +30,9 @@ So, before you get into conflict with anyone, you should always ask yourself thi
 
 Three separate units of time are used in _Tales of the Old West_ : the Round, the Turn and the Shift. There are four Shifts in a day: Morning, Afternoon, Evening, and Night. It’s the GM’s job to track time
 
-
 ### Range Table
 
-
 Range Description Right next to you—any hand-to-hand fighting with fists or clubs, knives, toma- Arm’s Length hawks and so on, happens at this range Within a few meters—weapons can be thrown at this range, and firearms can be Near pretty brutal this close in Up to 25 meters away—gunfights at this range can be deadly, and you can’t lasso a Short steer or horse beyond this range Up to about 50 meters away—it’s harder to hit a target with a pistol at this range, Medium and fighting here really calls for a rifle Long Up to about 150 meters away—a decent rifle is your only choice for this range Distant Over 150 meters, up to a maximum of 1000 meters, at the GM’s discretion
-
 
 ### Drawing the Initiative
 
@@ -54,7 +50,6 @@ When all the participants in the conflict have completed their actions, the Roun
 
 You cannot normally change your initiative during a conflict. However, if the circumstances allow, you may exchange your initiative card—and thus your initiative for the Round—with another player character. This can only be done at the start of a Round and can only be done once per player per scene. The player characters who are exchanging their initiative cards must be able to communicate with each other
 
-
 and the players must explain narratively how and why this happens. The GM decides if the swap can go ahead.
 
 ### Two Actions Per Round
@@ -71,16 +66,13 @@ In _Tales of the Old West_ we do not measure exact distances for movement, but l
 
 ### Slow Actions
 
-
 | Action Prerequisite Skill Crawl You are Prone - Melee attack - FIGHTIN’ Shoot Range weapon SHOOTIN’ |  |
 | --- | --- |
 | First Aid Broken or dying victim | DOCTORIN’ |
 | Persuade Your opponent can hear you or PRESENCE | PERFORMIN’ |
 | Horse or Mount Wagon HANDLIN’ Start engine Vehicle OPERATE | ANIMAL |
 
-
-### Fa st  Ac t ion s
-
+### Fast Actions
 
 | Action Prerequisite Skill |  |  |
 | --- | --- | --- |
@@ -93,7 +85,6 @@ In _Tales of the Old West_ we do not measure exact distances for movement, but l
 | Maintain a Grapple opponent | Grappled an | LABOR |
 | Back Out In a Tussle with an enemy Seek Cover Cover available - ANIMAL Ride Horse HANDLIN’ | MOVE |  |
 | Drive Wagon (or train) HANDLIN’ or OPERATE Use Item Varies Varies Reload Firearm - | ANIMAL |  |
-
 
 in a few seconds. No roll is required to run, unless the GM decrees the action needs a roll.
 
@@ -137,11 +128,9 @@ To make a melee attack you roll your FIGHTIN’ ability. If successful, your att
 
 - Inflict a critical injury if you have sufficient extra successes to meet the Crit Rating of the weapon you are attacking with.
 
-
 ### Called Strikes in Action
 
 > _William Moyer, played by Alistair, is faced with a drunk cowboy in his saloon, who has pulled a knife. Not wanting to shoot him in the bar of the Homestead Inn, Moyer grabs his cudgel and tries to knock the knife from the other man’s hand. He makes a Called Strike. His FIGHTIN’ ability gives him 8 dice, but with the −3 for the Called Strike he ends up with 5 dice. Moyer decides to go for an All-Out Attack, using a fast action. Normally this would give him a +2 bonus, but as it’s a Called Strike that bonus is reduced to +1. Alistair rolls 6 dice and gets two successes. As he declared his intention to knock the knife from the cowboy’s hand the attack does no damage, but with a huge sweep of the cudgel Moyer batters the knife, and his drunken opponent stands disarmed and humiliated._
-
 
 ### Blocking & Dodging
 
@@ -171,7 +160,6 @@ Once you have Grappled an opponent you can take one of three actions when it is 
 
 Once Grappled, your opponent may either attempt to break free or, if they are already holding a knife or a pistol in their hand, they may try to bring that weapon to bear against you. In both cases, those
 
-
 fighting must make an opposed LABOR roll, but weapon bonuses do not apply—this is a battle of raw strength and power.
 
 If your opponent wins the roll when trying to break free, they escape the Grapple, but if they lose, they remain held fast. If the Grapple is a fight over a weapon, the winner of the roll may choose to inflict damage with that weapon, applying any stunts as usual. They do not have to inflict damage—winning the struggle over a weapon might simply be about not getting hurt by it, rather than harming their opponent.
@@ -200,7 +188,6 @@ Single-action and lever-action weapons must be readied to fire before each shot 
 
 > _The firearms of the Old West have various mechanisms that ready them to shoot. This is called the weapon’s “action”. A single-action pistol is one where the actions required to shoot the weapon—cock the hammer, squeeze the trigger—must happen individually, one at a time. Similarly, lever-action weapons (mostly rifles but also some pistols) require the loading lever to be pushed forward, then back, to chamber the next round before the weapon can be fired. The mechanism of a double-action pistol allows two mechanical actions—the hammer to be cocked and the firearm discharged—all in one squeeze of the trigger._
 
-
 ### Modifiers
 
 **Your Weapon’s Action** : The action of your weapon impacts your ability to use it. A single-action pistol takes longer to use, but once the hammer is cocked only a light squeeze is needed on the trigger, enhancing the gun’s accuracy. A double-action pistol can be fired in one heavy squeeze of the trigger, making it quicker to shoot, but sacrificing accuracy. These modifiers are already included in the weapons’ stats.
@@ -225,7 +212,6 @@ To make a ranged attack you roll your SHOOTIN’ ability. If your attack hits, y
 
 - Inflict 1 additional point of damage. You may choose this stunt multiple times.
 
-
 - Pin down your enemy. They take 1 point of Doubts. You may choose this stunt multiple times.
 
 - Your opponent falls to the ground or is pushed back, for example through a doorway.
@@ -244,11 +230,9 @@ All the actions of the duel play out within the space of one Round, and effectiv
 
 > _Many situations in Tales of the Old West lend themselves to using the dueling rules, even those that are not formal duels. Any situation where iron has not yet been drawn but two characters make eye contact, knowing they are about to come into conflict, can be resolved using these rules. For example, Thomas Vaughn knows the bounty hunter is close as he bundles the target, young Maxwell Kinnear, onto the train. As the boy climbs aboard amid the smoke and steam, Vaughn turns and sees the bounty hunter pushing through the crowd towards him. Neither man has their gun drawn, but their hands are hovering as their eyes meet._
 
-### c on fl ic t  mod ific at ion s
-
+### Conflict Modifications
 
 Factor Modification Aimed shot / All-out attack +2 Called Shot / Strike -3 Aiming / All-out attack on  +1 Called Shot / Strike Quick Shot -2 Active Target at Arm’s Length -3 Inactive Target at Arm’s Length +3 Near range +1 Short range 0 Medium range -1 Long range -2 Distant range -3 Target in Partial Cover -1 Target in Good Cover -2 Called Shots Target in Heavy Cover only Large target +2 Small target -2 Dim light -1 Darkness -3 Initiated the grapple +2
-
 
 **Go for Your Guns** : The gunfighters make an opposed LIGHT-FINGERED roll to Draw their guns, with the following modifications to their dice pools:
 
@@ -261,7 +245,6 @@ Factor Modification Aimed shot / All-out attack +2 Called Shot / Strike -3 Aimin
 - Plus any bonus dice from the PRESENCE roll during the Face Off.
 
 The winner gets to their gun first. If the roll is a tie, both gunfighters shoot simultaneously.
-
 
 **The Shoot-off** : The guns boom and someone’s blood spills into the dust. The character who won the Draw shoots first, with bonus SHOOTIN’ dice equal to the number of successes they won the Draw roll by. If, after that shot, the other gunfighter is still standing, the outcome of their return shot is then resolved.
 
@@ -301,10 +284,9 @@ When fanning your weapon:
 
 - You cannot fan your weapon while you are using the Dueling rules. You may fan your gun once you have taken your first shot and move to using the normal combat rules.
 
-### O ve rw at ch
+### Overwatch
 
 As a fast action, you can assume an overwatch position facing a specified direction, as long as you have a ranged weapon and no enemies within Arm’s Length. When you do so, you cover a certain area and are ready to shoot. Between the time you assume the overwatch position and your time to act in the next Round, you can fire your weapon against a target in the chosen direction—your shot is resolved before all other actions, even if they are already declared.
-
 
 ### Fanning in Action
 
@@ -320,7 +302,7 @@ Firing while you’re in an overwatch position counts as a normal attack (a slow
 
 - You suffer damage of any kind.
 
-### Sneak Attacks Ambushes
+### Sneak Attacks & Ambushes
 
 The key to winning a fight is often attacking when your enemy least expects it. Getting the drop on your target can be achieved in two different ways—by sneaking and by ambushing. Any attacker who has successfully remained undetected gets a +3 bonus to their attack dice pool, regardless of the type of attack being made.
 
@@ -328,31 +310,25 @@ The key to winning a fight is often attacking when your enemy least expects it. 
 
 **Ambush** : An ambush is a special kind of sneak attack—you lie in wait for your enemy and attack when they come close. When you ambush someone, you roll for MOVE against HAWKEYE as described above, but with a +2 bonus for the attacker, since it is the target and not the attacker that is moving. Ambushes can be carried out by a group and against a group of targets. In these situations, follow the rules for Group rolls.
 
-
 ### Cover
 
 When enemies are shooting at you, hunkering down behind cover—preferably something solid—can save your life. Even hiding just a part of yourself is better than nothing, with penalties for the attacker if you are in Partial, Good, or Heavy cover (see page 72). If the target is completely behind cover the only hope of hitting them is if the attacker has a good idea of where their target is, and only if the cover is something the bullet could penetrate (a wicker fence, an upturned table, or a thick bush). The attack suffers a -3 penalty and the cover also offers protection dice, depending how sturdy it is. A wicker fence might offer 2 dice of protection, a thick bush only 1 die, and a heavy upturned table might offer 4 or 5.
 
 The protective effect of cover is determined by its Cover Rating. When you suffer damage from a physical attack, you roll a number of dice equal to the Cover Rating. Every success you roll decreases the damage by one. This roll does not count as an action and cannot be pushed.
 
-
 Fi r e a r m s  &  a m m u n it i on In _Tales of the Old West_ , you’ll need to keep count of the number of bullets you have in your gun, and how many you have as spare ammo.
 
 You can reload two cartridges per fast action—which means a revolver takes three actions to fully reload, a double-barreled shotgun, one action, and a rifle with a magazine capacity of 15 takes four Rounds.
 
-
 Sneak attack Range modifier Arm’s Length -2 Short -1 Medium 0 Long +1 Ambush +2
 
-
 Barrier Cover rating Bush 1 Wicker Fence 2 Furniture 3 Wooden Door 4 Wooden Wall 5 Adobe WallBo w s &  sli n gsh o t s 8
-
 
 Bows and slingshots cannot be “reloaded” as such— instead, you need to spend a fast action to Prepare the weapon by nocking an arrow or placing a stone in your sling. Once you have readied your weapon you can’t do anything except Shoot or Aim—if you do anything else, you must Prepare the weapon again before you can Shoot.
 
 ### Social Conflict
 
 Sometimes, you can make things go your way without resorting to violence, and it’s often better if you can! Instead, you trick or convince your opponent without drawing your weapon. This might even be possible in the midst of a violent conflict—if the GM judges it plausible. To attempt a social conflict you must be close enough to your target, usually no further than Short range, but longer distances could be possible if the protagonists can hear one another. Unlike fighting and ranged conflicts, which are measured in Rounds, social conflicts are usually back and forth narrative scenes which often take place over a longer timeframe. As such, there is usually no need to Draw the Initiative.
-
 
 ### Negotiating Position
 
@@ -386,14 +362,13 @@ Each of the following factors gives you a −1 penalty.
 
 - Your opponent has nothing to gain by helping you.
 
-### DAM AGE
+### Damage
 
 ### Getting Hurt and Getting Broken
 
 _Tales of the Old West_ can be deadly. The rewards for your player character may be great, but the only thing you know for sure is that you will suffer all sorts of harm along the way, and this damage can come in many forms. Physical damage is split between Hurts (that damage Grit) and Shakes (that damage Quick) on a point for point basis, with the first point of damage always being Shakes, then Hurts, then Shakes and so on. Mental damage is split between Doubts (that damage Docity) and Vexes (that damage Cunning), also on a point for point basis, with the first point of damage always being Doubts, then Vexes, then Doubts and so on. Occasionally damage may specify just one attribute. When any attribute score is reduced to zero, you are Broken. This means you are out of action in one way or another. You cannot take actions or make ability rolls until you receive attention. Exactly what it means to be Broken depends on what attribute has been depleted.
 
 **Damage to Grit—Hurts** : Bleeding, cuts and scratches, bruises, and pain. When Broken on Grit
-
 
 you either collapse—and can only crawl and mumble through the pain—or you are unconscious.
 
@@ -403,7 +378,7 @@ you either collapse—and can only crawl and mumble through the pain—or you ar
 
 **Damage to Docity—Doubts** : Fear, panic, confusion, and misjudgment. When Broken on Docity you are so befuddled and confused you might panic, fall into despair, or become disconsolate and meekly do as you are told. You can flee, or passively follow the instructions of others, but can take no other action.
 
-### Coup De Grace
+### Coup de Grace
 
 A character who has lost all their Grit or Quick is defenseless and can be finished off with a coup de grace. However, killing in cold blood is not as easy as you might think. To bring yourself to deliver the killing blow you must fail a Docity test, by rolling a number of dice equal to your Docity attribute score and failing to gain any successes (no ability applies, and the roll cannot be pushed). If you get any successes, your conscience gets the better of you, and you cannot go through with it. Once the attempt has been made, regardless of whether you succeeded or failed, you suffer 1 point of Doubts, just for even trying to commit such a heinous act.
 
@@ -430,7 +405,6 @@ There are two ways in which a critical injury can be inflicted:
 Once a critical injury has been inflicted you need to know where that injury is, how nasty it is, what effect it has on the victim, and whether or not it might kill them. To do that, roll D66 on the Critical Injury Table (page 80). The Tens die determines the location, and the Units die indicates the severity of the critical injury. The higher the result, the worse the injury.
 
 **Critical Injuries and Called Shots** : If a Called Shot results in a critical injury, the roll on the Critical Injury Table only requires one D6 for the Units score. The location, and hence the result of the Tens die, is already set by the location of the Called Shot.
-
 
 ### Critical Effects
 
@@ -478,9 +452,7 @@ You must eat a ration of food at least once every day. After a day without food,
 
 Immediate critical effects cannot be healed other
 
-
 ### Critical Injury Table
-
 
 | Roll Location Injury Fatal Healing Time Twisted D6 11 LOWER LEG No -1 to MOVE & FIGHTIN’ None ankle days | Immediate Effect Long-term Effect |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -502,9 +474,7 @@ Immediate critical effects cannot be healed other
 | 35 ARM Hand hit weeks require the use of two hands losing a finger or thumb Stunned for 2 Rounds. | No 4D6 | Cannot take actions that | 33% chance of randomly |  |
 | 36 ARM Compound fracture Rounds weeks require the use of two hands | Yes / 2D6 | 4D6 | Cannot take actions that | Lose the arm |
 
-
 ### Critical Injury Table
-
 
 | Roll Location Injury Fatal Healing Time | Immediate Effect Long-term Effect |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -529,7 +499,6 @@ Immediate critical effects cannot be healed other
 | 65 HEAD Slashed throat days -2 to all tasks nent vocal impairment Rounds | -1/ D6 | 3D6 | Stunned for 3 Rounds. | 33% chance of perma- |
 | 66 HEAD Terrible hit to the head Instant | Yes / | --- --- You are very dead |  |  |
 
-
 ### Dehydrated
 
 You must drink a ration of water at least once per day. After a day without water, you become Dehydrated. This has several effects:
@@ -550,7 +519,7 @@ your brain. You can even hallucinate, causing you to act irrationally—details 
 
 ### Exhausted
 
-### He at st ro ke
+### Heatstroke
 
 You need to sleep for at least one Shift each day. After one day without sleep, you become Exhausted. This has several effects:
 
@@ -580,10 +549,9 @@ The midday sun can sear the flesh off a dead bull in no time at all, and it can 
 
 - After you find shelter it takes one Shift to fully recover.
 
-### Fi re
+### Fire
 
 A fire is measured in Intensity, with a typical large bonfire having an Intensity of 8. When exposed to fire, roll a number of dice equal to the fire’s Intensity. For every success rolled, you suffer one point of damage.
-
 
 If you take damage, you catch fire and continue to burn, suffering another attack at the start of each new Round. The Intensity increases by one each Round. As soon as a fire attack inflicts no damage, the fire goes out by itself. You, or a friend at Arm’s Length, can put out the fire with a successful MOVE roll (a slow action).If you are Broken by fire damage, or suffer fire damage when already Broken, you must make a Death roll every Round until you die or you are saved by a DOCTORIN’ roll.
 
@@ -598,7 +566,6 @@ The force of an explosion is measured in Blast Power. One stick of dynamite has 
 ### The Delights of Dynamite
 
 > _Patented in 1867 by Alfred Nobel, dynamite was designed to be a safer form of nitroglycerine, stabilized with diatomaceous earth. However, it is still very dangerous to use, especially in the US where unscrupulous manufacturers get around the patent by using less efficient stabilizers such as resin. To replicate this danger, when you use dynamite, Trouble is applied even without pushing the roll—if a Trouble die rolls a 1, even on the first roll, Trouble ensues. If the roll also results in successes, the dynamite can be disposed of safely but the original intention of the roll is not achieved. If a Trouble die results in a 1 and there are no successes on that first roll, the player may need to push their roll to get a success in order to handle the dynamite safely. If no successes are gained after a roll is pushed the Trouble is automatically an explosion, and the player character finds themselves at the epicenter of the blast. Don’t forget that Trouble can be bought of by Faith in the usual way_
-
 
 ### Falling
 
@@ -635,7 +602,6 @@ A poison’s Potency is either 1, 2 or 3—very rarely would a poison have a Pot
 ### Sleeping Draught
 
 **Full Effect** : You take 1 point of Vexes each Round or Turn (depending on how fast acting the poison is) until you are Broken, at which time you fall
-
 
 unconscious for one Shift. You don’t suffer a critical injury. A successful DOCTORIN’ roll will halt the effect of the poison, but only one attempt can be made. If you can find and drink an antidote in time, the effect of the poison is halted.
 

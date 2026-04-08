@@ -8,7 +8,7 @@ While the period of history called “the Wild West” covers a relatively short
 
 In _Tales of the Old West_ we want all this history to be recognized. How you decide to play it in your campaign is down to you, but the more you weave in the intricate and exciting complexities of real historical life in the West of the 1870s, the more rewarding we think your game will be.
 
-### T HE  L AN D
+### The Land
 
 The great expanse of the Old West covers the states of Minnesota, Iowa, Missouri, Arkansas, and Louisiana, and all the land west of that line. It includes many different types of land: hot and cold, high and low, forested and desert. It is wide, open, and irresistible to the American and European settlers, but home to many hundreds of native and indigenous communities, and nature’s rich flora and fauna.
 
@@ -23,7 +23,6 @@ We have listed some of the sources that have inspired us at the end of this chap
 ### Describing the Old West
 
 > _The sweeping expanse of the Old West is a hugely varied and complex environment that needs a full book to describe in detail. So here we have just tried to give a flavor of that variety, as a taster to get you started._
-
 
 **Idaho Territory** : A rugged land of the Rocky Mountains and the Bitterroot Range, with snowcapped peaks, rapids, vast lakes, rivers, gorges, and widespread forests. In the mountainous northwest you can find the enormous trail of Hell’s Canyon, while to the south the land flattens into the Snake River plain.
 
@@ -49,7 +48,6 @@ We have listed some of the sources that have inspired us at the end of this chap
 
 **Arizona Territory** : The northeastern third of the territory rests on the high Colorado Plateau. The Colorado river flows through here, and the Grand Canyon, on its journey to the west. With its high and low elevation deserts, deep river canyons, and mountain ranges, the land is arid and dry. Temperatures can get very high in the south.
 
-
 **Utah Territory** : Located at the convergence of the Colorado Plateau, the Great Basin, and the Rocky Mountains, Utah Territory has a very diverse landscape. The western half sits on the Colorado Plateau, with the Mojave Desert to the south and the Great Salt Lake desert and the Bonneville Salt Flats to the north. The mountains have large forests and varied climates.
 
 coastal mountains to the west and the Sierra Nevada in the east. Further north the state is marked by grasslands and meadows, and the great redwood forests. South of the Central Valley the state is cut in half by the mountains of the Transverse Ranges, beyond which you find the scorching plains of the Mojave Desert.
@@ -61,7 +59,6 @@ coastal mountains to the west and the Sierra Nevada in the east. Further north t
 **California** : California is dominated by the Central Valley, a huge, fertile tract of land between the low
 
 It didn’t take long for the western expansion to make an indelible mark on the landscape. Camps and towns appeared, some growing into cities, while railroads criss-crossed the plains, cutting buffalo grounds in two. And all without a second thought for the Native American communities that populated the land, and had done so for thousands of years.
-
 
 ### The History
 
@@ -93,7 +90,6 @@ It didn’t take long for the western expansion to make an indelible mark on the
 
 **1864** : The US Army massacres Native Americans of the Arapahoe and Cheyenne tribes at Sand Creek in Colorado Territory. This blatant act of aggression leads to Native retaliations in 1865, in what became known as “the Bloody Year on the Plains”. Nevada becomes a state of the US.
 
-
 **1865** : The Union wins the Civil War, and Congress finally ratifies the Thirteenth Amendment, abolishing slavery.
 
 **1874–1876** : Gold is discovered in the Black Hills in Dakota Territory, land that is sacred to the Sioux and which has been guaranteed to them by treaty. The influx of white settlers, in breach of the treaty, leads to the Great Sioux War. Despite victory at the Little Big Horn, the Sioux and Cheyenne are ultimately defeated and forced on to reservations.
@@ -124,13 +120,11 @@ It didn’t take long for the western expansion to make an indelible mark on the
 
 **1874** : Barbed wire is patented and appears as a commodity.
 
-
 **1890** : The massacre at Wounded Knee sees 150 Native American men, women and children slaughtered. Idaho and Wyoming Territories become states. **1896** : Utah Territory is incorporated as a state.
 
 **1907** : Oklahoma Territory is incorporated as a state.
 
 **1912** : Arizona and New Mexico Territories are incorporated as states.
-
 
 ### Territorial Governance
 
@@ -146,7 +140,6 @@ The reach of the law could be long, but often the grip of the law was tenuous at
 
 The common representation of the Native American is that of a nomadic hunter-gatherer, living their lives on horseback, following the game and needing huge territories to maintain their lifestyle. While this may be true for some tribes in the nineteenth
 
-
 ### Native American Creation Myths
 
 > _The creation myths of Native American tribes are numerous and varied, but many have common themes. There are tales of the great flood and of twins, and the concept of the Sunfather, who inhabits ‘the land above’. Some myths speak of a creator, and others of humanity arising from Mother Earth, often with the belief that ancestors in the spirit world or animal spirits helped bring about that arising. Within this enormous variety, another common theme was the belief in tolerance of other, different, myths. Many Native Americans were puzzled—and angered—by Christianity’s insistence that the bible was gospel truth and was a more trustworthy record than the oral and wampum traditions of the Natives, handed down through the generations._
@@ -158,7 +151,6 @@ Ever since the first meaningful arrival of European explorers in the sixteenth c
 For the next 150 years these imperial nations dealt with the Native American tribes as befitted their short-term political and military goals. Sometimes they traded peacefully, at others they pushed the Natives from land they desired, and occasionally they allied with tribes when it suited their imperial ambitions. Throughout this history it is no exaggeration to say that, while Native tribes sometimes reacted with hostility to these newcomers, they more often dealt with them with honor and trust, something which cannot be said of the Europeans, and then of the US, after independence. There are literally hundreds of examples of treaties being signed, guaranteeing Native American tribes eternal rights over certain lands, that were not worth the paper they were written on. It is no surprise that many Natives chose to fight. This is not to say there were not many atrocities committed by all involved in the conflicts of these times, for there surely were. But the pressure forcing these conflicts was exclusively coming from the east and traveling west.
 
 By 1870 many of the eastern tribes had either been destroyed, forcibly moved (often to the tribal lands of other Native Americans who were not consulted about it), ignored, cast as the enemy, or subjected to forced assimilation, all to accommodate the relentless flow of European settlers. Numerous so-called “Indian Wars” had been, or were being, fought, by tribes desperate to protect their way of life: the Cheyenne and Arapaho in Colorado and Wyoming Territories; the Comanche, Navajo and Apache in Texas, New Mexico and Arizona; and the Sioux on the Northern Plains, amongst others. By this time, the Native tribes could have had no illusions about the hypocrisy and real intentions of the European settlers, and the settlers had no illusions about the potential threat presented by dangerous and desperate Natives, even if the fear of that threat was more prevalent than the threat itself. But the reality of the 1870s West is much more complicated than that. Many tribes, traditional enemies of those now at war with the US Army, offered scouts and soldiers to work with the Americans. Other Natives lived alongside the settlers, working as cowboys and ranch hands. For most, however, they survived as best they could on the reservations so “generously” provided for them.
-
 
 ### Native American Naming Conventions
 
@@ -184,9 +176,7 @@ One thing we have learned—it’s clear that Native identity is intensely perso
 
 For ease of familiarity and accessibility to the widest gaming community possible, we have chosen to generally use those modern tribal names in _Tales of the Old West_ , but with popularly accepted Native spellings where possible. We have also compiled a list of endonyms with some relevant notes. Some of these have a more certain provenance, while others are more speculative or open to interpretation or debate. But either way, we hope you find this information useful. We hope you use it to build compelling tales that include the Native American experience, and as inspiration to learn more about the real history of the time.
 
-
 ### Tribal Names
-
 
 Common modern used tribal name Possible endonym Comments Apache Indé, Ndeh Closely related to the Navajo.
 Nomadic buffalo hunters, they were called different things by Arapaho Hinono'eiteen different tribes, often with a ‘Sky’ or ‘Cloud’ reference. Tradi- tional allies of Cheyenne and Sioux, and enemies of Comanche and Kiowa.
@@ -205,7 +195,6 @@ Chumash Chumash The name Comanche may have come from the Ute word Comanche Nerme
 Creek Mvskoke One of the so-called Five Civilized Tribes.
 Rivals of the Sioux and Cheyenne. Their name was possibly Crow Apsáalooke coined by the Hidatsa tribe, meaning “children of the large-beaked bird” and shortened to “crow” or “raven” by other tribes.
 The name means “one who is well-mannered”. The Hopi are Hopi Hopi descended from ancestral Puebloans.
-
 
 Pronounced “walapai”, the name means “people of the tall pines” Hualapai Hwalbáy in the Native language.
 Hupa Natinixwe The name means “people of the place where the trails return”.
@@ -230,14 +219,11 @@ Part of the Six Nations, aka the Iroquois League, forcibly moved Seneca Onödow�
 Forcibly moved to Indian Territory under the 1830 Indian Shawnee Various possibilities Removal Act.
 The Shoshone name derives from the Shoshone word sosoni, a Shoshone Newe grass they used to make their homes. Known as “Grass House People” by other tribes.
 
-
 |---|---|---|
 
 |Washo|_Wašiw_|Means “the people from here”.|
 
-
 |Yuma|_Yuma / Quechan_|The name means “those who descended”.|
-
 
 ### A Brief History of African Americans
 
@@ -263,7 +249,6 @@ American uprisings were rare and only ever on a small scale that never threatene
 
 There had long been an abolitionist movement against slavery in the US, but it took the Union victory in the American Civil War (1861-65) to see the emancipation of African Americans. The war was the—perhaps inevitable—culmination of the long-festering cultural and political differences between the northern and southern states, most notably over slavery, the preservation of which led the Confederate states to secede. The first shots were fired at Fort Sumter, North Carolina, when Confederate forces attacked a federal fort. For the
 
-
 ### The Experience of the Enslaved
 
 > _Enslaved people were literally treated as livestock, with some slave owners taking more interest in the welfare of their so-called property than others. The men were referred to as “bucks”, the women as “wenches”. Slave auctions would see children sold away from their mothers, and husbands and wives torn apart, usually never to see one another again. In one example, slave traders would gather enslaved people and ship them down the Mississippi to the New Orleans markets, literally “selling them down the river”. In some places the enslaved were fitted with bells, so they were easier to track down should they run away. So-called pattyrollers were hired to track and capture runaways, and had a terrible reputation for brutality—captured runaways were sure to be punished, often brutally, sometimes fatally._
@@ -279,7 +264,6 @@ It is true that women in the West predominantly fulfilled traditional roles as w
 Here are a few examples of women who made their mark on the West, but there are many more:
 
 **Belle Starr** : Known as the “Bandit Queen”, Belle Starr was born in 1848 as Myra Maybelle Shirley, and she soon grew into a rebellious spirit. She mingled with outlaws and became a horse thief. She was known for her whiskey drinking and would threaten men who harassed her with a gun. After a turbulent life Starr was murdered in 1889, gunned down by an unidentified assailant.
-
 
 **Mary Fields** : Fields was an African American woman who wore men’s attire and carried two guns. Born into slavery, she was known for hard-drinking, using profane language and being quick on the draw. In 1895, she became the first African American star route postwoman, protecting the mail from thieves and bandits. She retired in 1903 at the age of 71, and died in 1914.
 
@@ -299,7 +283,6 @@ The territory may have changed hands but the centuries-old Mexican, Hispanic and
 
 In addition to the usual festivals, Mexicans also celebrate _Las Posadas_ , or “the Lodging”. During this festival, families depict the journey of Mary and Joseph as they try to find a place to stay and have
 
-
 their baby. Children dress up and go from house to house singing songs, holding candles, and asking for shelter.
 
 _Semana Santa_ or “Holy Week”. Just as the birth of Jesus is very important to Mexicans, the days leading up to Jesus’s death and resurrection are very important. The week is filled with processions, praying, feasting, and re-enacting the events of that week.
@@ -309,7 +292,6 @@ _El Grito_ , on the 16th of September, is Mexican Independence Day. Translated i
 _Quinceañera_ or _Quince Anos_ is the grand celebration for a young Mexican girl on her 15th birthday, that starts her journey to become a young woman. The secular celebration is grandiose, although it has a religious component. In order to prepare for adulthood the young lady’s chores change as she is no longer a little girl, she gains more independence, and is given more leeway as to what she wants to do. It is truly a right of passage and one of the most important birthdays in a Mexican woman’s life.
 
 _Dia De Los Muertos_ , or “the Day of the Dead”. Possibly the most important holiday in Mexico with strong ties to many of Mexico’s indigenous cultures, including Mayan and Aztec. This festival is a celebration where the living honor and remember the dead—Mexico was a Catholic country with some very pagan ideas mixed in. The holiday starts on October 31st, and is three days long. It is a very real and serious holiday, and a very personal and public celebration.
-
 
 Altars are made in one’s home and are elaborately decorated, including pictures and items of those who have passed. During the holiday sweets and cakes with a skull or skeleton motif are placed on the altar as an offering to those that have passed away. Public parades march through town to the graveyard, with large depictions of the dead, skulls, or skeletons. Parades often stop at houses along the way to observe the altars made by the families—the dead are honored with prayers and offerings. At the graveyard offerings of sweets or candles are given to loved ones who have passed away.
 

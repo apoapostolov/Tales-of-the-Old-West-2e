@@ -3,7 +3,7 @@
 # Tales of the Old West 2E
 
 Public workbench for a cleaned-up, restructured markdown manuscript of
-*Tales of the Old West* — a gritty tabletop RPG set in the American frontier
+_Tales of the Old West_ — a gritty tabletop RPG set in the American frontier
 of the 1870s.
 
 <p align="center">
@@ -53,7 +53,7 @@ publication.
 
 ## Source Material
 
-*Tales of the Old West* is a tabletop RPG by Galloping Horse Games. This
+_Tales of the Old West_ is a tabletop RPG by Galloping Horse Games. This
 repository contains a markdown conversion of the core rules PDF, cleaned and
 restructured for reference use. The original game and its content belong to
 the original creators.

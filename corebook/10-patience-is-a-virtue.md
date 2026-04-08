@@ -6,7 +6,7 @@
 
 Welcome to this introductory scenario for _Tales of the Old West_ . It introduces you and your players to the small mining town of Steaming Rock, Grant County, New Mexico, and gives you an insight into the town and its inhabitants. The tale introduces your players to one of the key figures in the town, gives them a glimpse of the man behind the friendly face, and leaves them grappling with a moral and ethical dilemma. For more information on Steaming Rock see page 228.
 
-### W e l c om e  t o n e w  m e x i c o t e r r it ory ,  1 87 3
+### Welcome to New Mexico Territory, 1873
 
 New Mexico became a territory of the US in 1848, after Mexico’s defeat in the Mexican–American War. The Mexican inhabitants were encouraged to stay, and these Nuevo Mexicanos continued to live their lives just as they had before, much to the anger of settlers who coveted their lands and haciendas. The Civil War briefly flared across the Territory, resulting in much destruction and the end of the Confederate presence by late 1862. The US Army then turned their attention to the Native American tribes of the region—the Indé, Diné, and Nermenuh, known to the settlers as Apache, Navajo and Comanche respectively. Many Natives of the Apache and Navajo tribes were moved into the Bosque Redondo reservation, near Fort Sumner, a dreadful attempt to control them that led to misery and death before the reservation was disbanded in 1868. The Comanche, however, resisted, and fought for their ancestral lands.
 
@@ -14,10 +14,9 @@ New Mexico became a territory of the US in 1848, after Mexico’s defeat in the 
 
 Established in 1869 by the miner and entrepreneur Samuel Bertrand and his erstwhile friend Hubbard McGraw, Steaming Rock was set up as a mining town alongside the babbling rocky brook called Humente Creek, aka the Steaming Creek, and the associated hot springs that lie just to the west. Finds of iron and nickel have kept the town afloat, and small ranching and timber outfits have seen the town grow, despite the failure to yet find gold or silver in the hills. Steaming Rock is one of a handful of hopeful towns established across the mountains of the Gila Forest, most notably Silver City to the south, and Reserve to the northwest. The town sits west of the Rio Grande, and is a long trek from the big New Mexico towns of Albuquerque and Santa Fe to the north, and Las Cruces and El Paso to the south.
 
-### WHAT IS  GO IN G O N ?
+### What Is Going On?
 
 It’s Sunday July 6th, 1873 and Steaming Rock is a hotbed of rivalries between the leading families of the town. Samuel Bertrand, the man whose vision and energy saw the town established in the first place, sees himself as the unelected mayor of the settlement, a view that has seen him fall out with his old friend, Hubbard McGraw. Other key folk trying to make their mark include Daniel White, a man who grew prosperous on “new” money and is desperate to find respectability through his expansive mining interests, and Ellis Rockcliffe, a man who fully intends to make his mark.
-
 
 ### Ellis Rockcliffe
 
@@ -35,13 +34,10 @@ But today, Ellis is angry. As far as he is concerned, Patience has fallen for th
 
 El l i s r oc k c l if f e
 
-
 ELLIS ROCKCLIFFE GRIT 4 QUICK 3 CUNNING 5 DOCITY 3 PRESENCE                 3  SHOOTIN’                 2 HAWKEYE                 2  PERFORMIN’            1 FIGHTIN’                    3  INSIGHT                    2 RESILIENCE              1 Talents:  authority  (Advanced),  charming  (Advanced),  cold blooded  (Basic),  business minded (Advanced).
-
 
 |---|---|---|---|---|---|---|---|
 |Colt 45 Peacemaker|Single|-1|+1|3|1|Medium|6|
-
 
 ### Taking Patience Into Hiding
 
@@ -75,22 +71,17 @@ You can let this play out as far as you wish, but if you want to curtail the enc
 
 _Like you._
 
-
 “DUSTY” WILCUTT GRIT 4 QUICK 3 CUNNING 4 DOCITY 2 PRESENCE                 1  MOVE                        1 FIGHTIN’                    1 SHOOTIN’                 2 Wilcutt likes a good punch-up but won’t want to get into an all-out fight. All his rolls have a −2 penalty for drunkenness.
-
 
 |---|---|---|---|---|---|---|---|
 
 |Colt Walker|Single|-2|+1|2|1|Medium|6|
 
-
 CLAYTON DICKS GRIT 5 QUICK 4 CUNNING 3 DOCITY 2 PRESENCE                 2  SHOOTIN’                 1 FIGHTIN’                    2 Dicks is ruthless and will not want to lose the fight and look small and weak. All his rolls have a −2 penalty for drunkenness.
-
 
 |---|---|---|---|---|---|---|---|
 
-
-### T H E  S E CO N D  S CE N E  - A  REQUE S T  F R O M A  F R I E N D ?
+### The Second Scene - A Request from a Friend?
 
 Either after the altercation, or as a means to cut it short before it leads to someone’s death, two men enter the Homestead Inn. Everyone in town knows these two: Julius Halliday and Duncan Friar are Ellis Rockcliffe’s most trusted enforcers. Depending on how far the encounter with the cowhands has progressed, Halliday and Friar will take one of the following stances:
 
@@ -122,7 +113,6 @@ If the players ask any follow-up questions Rockcliffe will provide answers: they
 
 If they delve more deeply into the circumstances of Patience’s disappearance, a successful opposed PERFORMIN’ test against Rockcliffe’s INSIGHT
 
-
 will lead him to disclose that he and Patience had argued over (what Rockcliffe calls) “ _her childish infatuation_ ” with a lowly cowhand called Max Kinnear, an entirely unsuitable sort for the daughter of Ellis Rockcliffe to be associating with.
 
 If any of the players enquire about the atmosphere of the meeting, and/or how genuine either Ellis or Annette seem, allow them an INSIGHT test:
@@ -151,7 +141,6 @@ The player characters should start to track Patience and Mary. To make a trackin
 
 The track picks up behind Rockcliffe’s house and heads northeast into the Bar Mountains, before turning south. Initially it will be very easy to track Patience and Mary, as Rockcliffe’s men, led by Tyler Peyton, are making sure the tracks are easy to follow. To do so requires a HAWKEYE roll with a bonus of +3. If they fail the roll Higgins locates the track for them.
 
-
 ing. They cannot tell if she is alive or dead unless they examine her, but this is the dead body of Mary, Patience’s maid—of Patience, there is no sign.
 
 If they challenge the wolves, four of them, including the Alpha male, will fight to defend their prize while the others scatter, snarl and prowl. However, if any character finds themselves surrounded by the pack they suffer the Pack Attack instead of a single Bite, as multiple wolves bite and scratch at them from all sides. If any wolf is badly hurt they will flee rather than fight to the death. Once they have chased the wolves off they can survey the scene and see the following:
@@ -172,12 +161,10 @@ When the player characters reach the lower slopes of Canyon Creek Ridge they com
 
 - For two successes they are sure she was killed by having her throat slit, and the wolves must have found her after she was already dead.
 
-
 ABILITIES FIGHTIN’  MOVE HAWKEYE WOLVES GRIT QUICK CUNNING ATTACKS (GRIT) (QUICK) (CUNNING)
 Alpha Wolf 4 4 4 4 4 4 Bite: Damage 2, Crit 1 (+1 to FIGHTIN’ when Grappling)
 Pack: Damage 3, Crit 1, +3 bonus to attack rolls Wolf— 3 4 4 3 4 4 Bite: Damage 2, Crit 1 Gray (+1 to FIGHTIN’ when Grappling)
 Pack: Damage 3, Crit 1, +3 bonus to attack rolls
-
 
 ### Picking Up the Trail Again
 
@@ -217,24 +204,19 @@ There are three ways this can play out, depending on what you feel works best fo
 
 - They spend a restful night in camp, then continue the search. They follow the trail to the hunting shack, and arrive in the middle of the day.
 
-
 FLOYD HIGGINS GRIT 4 QUICK 3 CUNNING 5 DOCITY 2 FIGHTIN’                    1  SHOOTIN’                 2 HAWKEYE                 2  DOCTORIN’            1 RESILIENCE              3 NATURE                     3 INSIGHT                    2 ANIMAL HANDLIN’ 3 Talents:  guard dog  (Advanced - Scarlet),  man’s best friend  (Basic - Rebel),  light-footed  (Advanced).
 
-
 DRAW  ATTACK WEAPON ACTION DAMAGE CRITICAL RANGE AMMO MOD MOD Winchester 1873 Lever N/A +2 2 1 Long 15 Hunting Blade N/A N/A +2 2 1 Arms -
-
 
 ABILITIES FIGHTIN’  MOVE HAWKEYE DOGS GRIT QUICK CUNNING ATTACKS (GRIT) (QUICK) (CUNNING)
 Guard Dog  4 3 2 3 2 1 Bite: Damage 2, Crit 2 Scarlet (+1 to FIGHTIN’ when Grappling)
 Tracker  2 4 3 0 2 3 Bite: Damage 1, Crit 2 Dog Rebel
-
 
 ### Tyler Peyton Shunting Shack
 
 Peyton’s shack is a rough wooden building that has seen better days. It was once the home of an old hunter whom Peyton killed when he refused to sell him the place. It sits on the western slopes of the Elk Mountains about fifteen miles west and a little south of Steaming Rock, surrounded by forest and 100 yards from the river. A rough, dusty trail snakes away to the north, where it eventually joins the road to town. By the shack is a small corral where there are currently six horses tied up.
 
 The shack is a mess, with gear and supplies all over the place. The store room has been emptied and is now being used as Patience’s “bedroom”. The window has been haphazardly boarded over with planks and rusty nails. The other bedrooms have two rickety beds in each. The root cellar is dark and dank, with a rough wooden ladder and is about ten feet square. All the windows are wooden with dirty glass and tattered drapes. They are shut but not locked or fastened in any way.
-
 
 Tyler Peyton is here, with four other hands and his trusty guard dog. They are standing a 24-hour watch over Patience, knowing she’s feisty in spite of her beating, and may try to escape.
 
@@ -256,7 +238,6 @@ It’s entirely up to the players how they want to try and resolve this situatio
 
 - Pedro Hernandez is asleep in room 5.
 
-
 - _“You boys were s’posed to find nothin’ and Patience would just have up and disappeared.”_
 
 - _“Patience would have come home eventually, when she was all healed up, and has learned that she just shouldn’t cross her Daddy.”_
@@ -273,72 +254,55 @@ It’s entirely up to the players how they want to try and resolve this situatio
 
 - Patience, taking advantage of the distraction, breaks out of the store room, and grabs a shotgun from the table in the living room. It only has two shots but she will threaten Billy Conway with it, and will shoot if pushed too far.
 
-
 TYLER PEYTON GRIT 4 QUICK 4 CUNNING 4 DOCITY 3 PRESENCE                 2  MOVE                        1  INSIGHT                    2  PERFORMIN’            1 FIGHTIN’                    2 SHOOTIN’                 2 ANIMAL HANDLIN’ 3 Loyal and ruthless but intelligent. He’s more than just a thug.
 Talents:  guard dog  (Advanced - Digger).
 
-
 DRAW  ATTACK WEAPON ACTION DAMAGE CRITICAL RANGE AMMO MOD MOD Metropolitan Navy  Single 0 +1 2 1 Medium 6 1864 Hunting Blade N/A N/A +1 2 1 Arms N/A
-
 
 |**DOG**||||**ABILITIES**|**ABILITIES**|**ABILITIES**|**ATTACKS**|
 |---|---|---|---|---|---|---|---|
 
-
 BILLY CONWAY GRIT 5 QUICK 3 CUNNING 4 DOCITY 3 FIGHTIN’                    3  SHOOTIN’                 2 ANIMAL HANDLIN’ 2 RESILIENCE              3 Nasty and vindictive, he’s enjoyed terrorizing Patience.
 Talents:  shotgun master  (Advanced).
 
-
 DRAW  ATTACK WEAPON ACTION DAMAGE CRITICAL RANGE AMMO MOD MOD Shotgun Breech N/A +1 3 3 Medium 2 Hunting Blade N/A N/A +1 2 1 Arms N/A
 
-
 “SMOKEY” JOE DELACEY, CHARLIE CHIVERS & PEDRO HERNANDEZ GRIT 4 QUICK 4 CUNNING 3 DOCITY 3 PRESENCE                 1  MOVE                        1  INSIGHT                     1  PERFORMIN’             1 FIGHTIN’                    1  SHOOTIN’                 1 ANIMAL HANDLIN’ 2 Will do any job if the money is good enough. Not keen to die for Rockcliffe’s wages.
-
 
 |---|---|---|---|---|---|---|---|
 |Spencer Carbine|Lever|N/A|+2|2|1|Long|7|
 |Cooper|Double|+1|+1|2|1|Medium|5|
 |Hunting Blade|N/A|N/A|+1|2|1|Arms|N/A|
 
-
 ### The Epilogue
 
 I f th e  pl ay e r  c h a r ac t e rs leav e  pat ie n c e  w it h  pe y t on a n d  u ph ol d r oc k c l i f f e ’ s li e When the player characters return to town they are immediately accosted by Maxwell Kinnear, Patience’s cowhand boyfriend. He has heard they are looking for her, but accuses them, and Rockcliffe, of leaving her to die. In his fury he heads off towards the Rockcliffes’ home to have it out with Ellis. Unless the player characters intervene Kinnear is confronted by Halliday and Friar on the field in front of Rockcliffe’s home. Gunplay ensues and Kinnear is killed.
 
-
 PATIENCE ROCKCLIFFE GRIT 3 QUICK 3 CUNNING 4 DOCITY 5 PRESENCE                 1  MOVE                        1  INSIGHT                    2  PERFORMIN’      2 RESILIENCE              3 SHOOTIN’                 1 ANIMAL HANDLIN’ 1 BOOKLEARNIN’       2 Strong-willed and single-minded, she’s more like her father than she’d like to admit. Loyal to friends and vengeful to her enemies.
 Talents:  charming  (Basic),  judge of character  (Basic),  lucky  (Basic).
-
 
 MAXWELL KINNEAR GRIT 4 QUICK 4 CUNNING 4 DOCITY 3 LABOR                        2  SHOOTIN’                 1  HAWKEYE                  1 FIGHTIN’                    1 LIGHT-FINGERED  1 ANIMAL HANDLIN’ 3 Naïve, impetuous, and with the confidence of youth. Likable. Orphaned.
 Talents:  roper  (Basic).
 
-
 DRAW  ATTACK WEAPON ACTION DAMAGE CRITICAL RANGE AMMO MOD MOD Colt Walker Single -2 +1 2 1 Medium 6 Hunting Blade N/A N/A +1 2 1 Arms N/A
-
 
 JULIUS HALLIDAY GRIT 5 QUICK 4 CUNNING 3 DOCITY 3 LABOR                        2  MOVE                        2  INSIGHT                    2 PRESENCE                 2  SHOOTIN’                 1 ANIMAL HANDLIN’ 2 FIGHTIN’                    1 Knows his worth and is well paid, but he is no fool and no simple hired thug.
 Talents:  hay-maker  (Advanced).
 
-
 DRAW  ATTACK WEAPON ACTION DAMAGE CRITICAL RANGE AMMO MOD MOD Metropolitan Navy  Single 0 +1 2 1 Medium 6 1864 Kosh N/A N/A 0 1 3 Arms N/A
-
 
 DUNCAN FRIAR GRIT 3 QUICK 4 CUNNING 5 DOCITY 3 FIGHTIN’                    2  MOVE                        1  HAWKEYE                  2  PERFORMIN’            1 RESILIENCE              2 SHOOTIN’                 2 ANIMAL HANDLIN’ 1 Cheerful, fearless, and kind. Uses violence as a last resort.
 Talents:  sharpshooter  (Advanced).
 
-
 |---|---|---|---|---|---|---|---|
 
-
 |Hunting Blade|N/A|N/A|+1|2|1|Arms|N/A|
-
 
 ### An Alternative Ending and Another Story
 
 > _If you want to continue this story, these endings can play out in a slightly different way. Kinnear is wounded rather than killed in the gunfight, and Patience makes a miraculous return sometime later. Or Rockcliffe’s accusation that Kinnear beat Patience is quickly dropped and forgotten. After a few weeks of calm pass by, Patience approaches the player characters. She is either deeply angry with them and expects them to offer recompense (if they left her with Rockcliffe’s men) or asks for their help once again (if they released her from Peyton’s clutches). She hints that her father won’t live forever and she will inherit the Rockcliffe holdings._
 
-### If the Player Characters Save Patience and Reveal Rockcliffe S Lie
+### If the Player Characters Save Patience and Reveal Rockcliffe’s Lie
 
 As soon as Rockcliffe hears that Patience is back he professes his joy and relief that she is alive and well. He tries to cover his brutal actions by blaming Kinnear for beating his “ _beautiful, fragile daughter_ ” and forcing her to run away. Patience, on the other hand, says she was beaten by the bandits who kidnapped her and murdered poor Mary, letting her father off the hook—however, her fury burns deep and hot, and she considers her next steps for the future. Rockcliffe is surprised and relieved, but wonders why the impetuous Patience is behaving in such a measured way.
 
@@ -346,62 +310,61 @@ As soon as Rockcliffe hears that Patience is back he professes his joy and relie
 
 **Need a Chapter spread here??? Will blend into Chapter 10 otherwise...**
 
-
 Appendix: your tale begins
 
 > *“HAVE YOU ANY IDEA OF WHAT A MAN MUST ENDURE WHO LEADS SUCH A LIFE? NO, YOU CANNOT. NO ONE CAN UNLESS HE LIVES IT FOR HIMSELF.”*
 
 > — THE OUTLAW FRANK JAMES
 
-### A P P END I X :  YO UR  TA L E  BE GIN S
+### Appendix: Your Tale Begins
 
 Follow these easy steps and let the dice decide who you are!
 
-### Wh o a r e  y ou ?
+### Who Are You?
 
 No journey of life to the west is easy, and no two are the same. Follow these steps to learn who you are and where you come from.
 
-### St ep  1 :  Wh e r e  w e r e  y ou  b orn ?
+### Step 1: Where Were You Born?
 
 Roll 2D6 to see where in the world you come from, and what heritage you grew up in (page 275).
 
-### St ep  2 : Wh at  w a s  y ou r  u pb r i n gi n g?
+### Step 2: What Was Your Upbringing?
 
 Having found out where you were born, and in what culture, roll once on the relevant table to see what your early life had in store for you. Find out a little about your parents and how this upbringing prepared you for your life in the west—this roll also determines your player character’s starting attribute values and first six ability points (page 276).
 
-### St e p  3 : W h at  of  t h e  f a m i ly  y ou le f t b e h in d?
+### Step 3: What of the Family You Left Behind?
 
 Roll to see what has become of them, and whether you even care (page 284).
 
-### St e p  4: Wh at  did y ou  do f or  yo ur F ir s t  L iv in g ?
+### Step 4: What Did You Do for Your First Living?
 
 Roll on the Finding A Living table (page 284) to see how you first scrabbled to make a living for yourself as a youngster, then roll on the table relevant to your Living to find out what happened during that time and what rewards you may have earned. Your character will gain two more ability points and one talent at this point in their life, chosen from those listed in your Living result. Your character is now a youngster, maybe still a teenager but no older than their early twenties.
 
 **Do you want to stop there?** Your character can enter the world of _Tales of the Old West_ as a youngster. If that is what you choose, move to STEP 7. However, if you want your character to live a few more years and develop into an older age, move to STEP 5.
 
-### S t e p 5:  Yo ur ch a rac t e r’s S e cond L i vi n g.
+### Step 5: Your Character’s Second Living.
 
 If you want your character to be older, and perhaps wiser, they can take on a second Living. As in STEP 4, roll for your Living and roll to see what happened during that time. Your character gains two new ability points and one additional talent, chosen from the options listed. However, as they have aged you must lose one attribute point from an attribute of your choice. Your character emerges from this step anywhere from their late 20s to near 40 years old.
 
 **Do you want to stop there?** Your character can enter the world of _Tales of the Old West_ as an adult. If that is what you choose, move to STEP 7. However, if you want your character to live on for a few years more and reach an even older age, move to STEP 6.
 
-### S t e p 6 :  Yo ur ch a rac t e r’s Th i r d L i vi n g.
+### Step 6: Your Character’s Third Living.
 
 If you wish to play an older character, you take a third, and final, Living. As with the previous Livings, you make the necessary rolls for the Living and the outcome of that Living. Again, your character gains two new ability points and one more talent, chosen from the options listed. However, as they have aged even more you must lose another attribute point of Appendix: your tale begins your choice, but no attribute can go below 2. Your character completes this Living at an age of over 40 years old.
 
-### St e p 7 :  T h e  f i n a l  t ou c h e s.
+### Step 7: The Final Touches.
 
 You now round off your player character in the way you think best fits the character your Lifepath is creating. You can allocate two more ability points to any abilities of your choice.
 
-### St ep 8 :  Wh at  is y ou r  Fa i t h ?
+### Step 8: What Is Your Faith?
 
 We all have Faith in something. What’s yours?
 
-### S t e p 9 :  W h at  i s yo ur Bi g D re am ?
+### Step 9: What Is Your Big Dream?
 
 Day-to-day survival is perhaps enough for now, but what is the Big Dream—why are you on the frontier at all?
 
-### S t e p 1 0 :  W h o  i s yo ur Pa rd n e r ?
+### Step 10: Who Is Your Pardner?
 
 Which of the motley crew you hang around with is the one guy or gal you depend on the most, and who you’d take a bullet for?
 
@@ -410,11 +373,9 @@ At the end of this story your character should embark upon their tale with the f
 |**Livings**|**Age range**|**Attribute points**|**Ability points**|**Talents**|
 |---|---|---|---|---|
 
-
-### W h e r e  w e r e  y ou  b or n ?
+### Where Were You Born?
 
 The Old West was a melting pot of different people from many places and diverse cultures and heritage. Roll 2D6 on the table below to see where you were born, and into what heritage and culture. The table offers suggestions for your heritage for each given region, but these are not exhaustive—don’t feel limited by the listed results if you have a better idea.
-
 
 | Roll Region Heritage |  |
 | --- | --- |
@@ -427,7 +388,6 @@ The Old West was a melting pot of different people from many places and diverse 
 
 Appendix: your tale begins
 
-
 7 The Northeast Including New England, New York, New Jersey, and Pennsylvania. Can be of European, African or Native heritage.
 8 Southeast Florida, Louisiana, Virginia, the Carolinas, Kentucky, Tennessee, Georgia, Ala- bama, Mississippi. Likely to be of European or African descent, or from Native American remnant communities.
 9 The South, Southern  Including Texas, New Mexico, Arizona, Colorado and Kansas. Likely to be of Great Plains,  Mexico  US, Mexican or Native heritage, or you may have traveled through Mexico from and South America further south.
@@ -435,8 +395,7 @@ Appendix: your tale begins
 11 East Asia and the Pacific Most likely Asian heritage, for example Chinese, Korean, and Japanese, but  also possibly , Australian, or New Zealander.
 Pacific islander 12 India, and Equatorial  West Africa, Nigeria, Niger, Angola, German East Africa, Mozambique, and Southern Africa Rhodesia, or South African Republic. Likely to be of Native or colonial heritage (colonial powers including Britain, Portugal and Germany).
 
-
-### W hat  w a s y ou r  u pb r i n gi n g?
+### What Was Your Upbringing?
 
 ### If You Have a Good Idea
 
@@ -451,57 +410,43 @@ Roll D6 on the relevant table from the tables on pages 276 to 283 to learn about
 |**Te Ottoman Empire, the Middle East and North Africa**|**Te Ottoman Empire, the Middle East and North Africa**|**Te Ottoman Empire, the Middle East and North Africa**|**Te Ottoman Empire, the Middle East and North Africa**|
 |---|---|---|---|
 
-
 Appendix: your tale begins
-
 
 4 Your father was a soldier who saw active service. In the end  Grit 5 FIGHTIN’ 1 he was invalided out, but you learned a lot from him. Quick 4  RESILIENCE 1 Cunning 3 SHOOTIN’ 2 Docity 3 HAWKEYE 2 5 Your family raced horses across the sands. You grew up  Grit 3 SHOOTIN’ 1 around herds of horses and occasionally camels too. Quick 4 NATURE 2 Cunning 5 ANIMAL HANDLIN’ 2 Docity 3 DOCTORIN’ 1 6 Your mother was a campaigner for women’s rights in the  Grit 4 PRESENCE 1 time of the Tanzimat reforms of the Ottoman Empire. She  Quick 4 FIGHTIN’ 1 encouraged you to see the world. Gain +1 on your first Living  Cunning 3 OPERATE 1 roll. Docity 4 INSIGHT 1 PERFORMIN’ 1 BOOKLEARNIN’ 1 British North America 1 You grew up in a gambling den and you learned a thing or  Grit 3  LIGHT-FINGERED 2 two. Quick 4  HAWKEYE 1 Cunning 5  INSIGHT 1 Docity 3 PERFORMIN’ 2 2 Fishing the cold waters of the North Atlantic for cod made  Grit 4 LABOR 1 your family resilient and cooperative. Quick 4  RESILIENCE 2 Cunning 3 MOVE 1 Docity 4 OPERATE 1 NATURE 1 3 You grew up in a logging community, a hard life in the forest  Grit 5 LABOR 1 and by the river. The logs went to Quebec city and from there  Quick 4  FIGHTIN’ 1 to Britain. You grew up strong. Cunning 3 RESILIENCE 1 Docity 3 MOVE 1 OPERATE 1 NATURE 1 4 Your parents were trappers, and you grew up hardly seeing  Grit 4 LABOR 1 other people but learning a lot about nature. Quick 4  RESILIENCE 1 Cunning 4 SHOOTIN’ 1 Docity 3 HAWKEYE 1 NATURE 2 5 White men tried to keep your people in one place, but you  Grit 4 RESILIENCE 1 grew up in the traditional way, following the seasons and  Quick 5  MOVE 1 keeping on the move for the best fishing, foraging, and hunt- Cunning 3 SHOOTIN’ 1 ing. Docity 3 HAWKEYE 2 NATURE 1 6 Your family fortune came from working, and owning shares,  Grit 3 MOVE 1 in the Hudson Bay company. You went to the best schools.  Quick 4  SHOOTIN’ 1 You gain +1 to your first Living roll, and +1 point of Capital Cunning 4 INSIGHT 1 Docity 4 PERFORMIN’ 1 BOOKLEARNIN’ 2 Appendix: your tale begins
 
 |**Continental Northwest and the Great Northern Plains**|**Continental Northwest and the Great Northern Plains**|**Continental Northwest and the Great Northern Plains**|**Continental Northwest and the Great Northern Plains**|
 |---|---|---|---|
 
-
 |**Te Great Lakes and Midwest, including Te Six Nations and  “Indian Territory”**|**Te Great Lakes and Midwest, including Te Six Nations and  “Indian Territory”**|**Te Great Lakes and Midwest, including Te Six Nations and  “Indian Territory”**|**Te Great Lakes and Midwest, including Te Six Nations and  “Indian Territory”**|
 |---|---|---|---|
 
-
 Appendix: your tale begins
-
 
 4 Your family ran a mail and freight business between the many  Grit 5  LABOR 1 growing settlements of the Midwest. Quick 3   RESILIENCE 2 Cunning 4  OPERATE 1 Docity 3 ANIMAL HANDLIN’ 1 BOOKLEARNIN’ 1 5 Your parents ran a livery stable. You grew up around horses,  Grit 4  LABOR 2 watching your father shoe them. Quick 5  ANIMAL HANDLIN’ 2 Cunning 3  MAKIN’ 2 Docity 3 6 Your family farmed these lands for generations before the  Grit 4  PRESENCE 1 settlers came in their thousands. Your father was a leader of  Quick 3  FIGHTIN’ 1 men and an able negotiator. Cunning 3  SHOOTIN’ 1 Gain +1 on your first Living roll. Docity 5 INSIGHT 2 PERFORMIN’ 1 Europe 1 Your family were always poor, taking whatever work they  Grit 4 FIGHTIN’ 1 could and finding shelter in the most rotten slums. How you  Quick 4 RESILIENCE 1 got across the Atlantic you won’t say. Cunning 4 MOVE 1 Docity 3 LIGHT-FINGERED 1 HAWKEYE 2 2 Your parents were non-conformists and took advantage of  Grit 4 LABOR 1 America’s reputation for religious freedom. Quick 3 PRESENCE 2 Cunning 4 INSIGHT 1 Docity 4 PERFORMIN’ 1 DOCTORIN’ 1 3 Your father was a miner pulling tin and silver from the rugged  Grit 5 LABOR 2 coast, skills that are much in demand in the new world. Quick 3 FIGHTIN’ 1 Cunning 3 RESILIENCE 1 Docity 4 MOVE 1 OPERATE 1 4 You come from a nation, and indeed from a family, of shop- Grit 3 LIGHT-FINGERED 1 keepers. Quick 4 OPERATE 1 Cunning 5 INSIGHT 2 Docity 3 PERFORMIN’ 1 BOOKLEARNIN’ 1 5 Your father was a successful lawyer and through his connec- Grit 3 PRESENCE 1 tions sent you to America to find professional employment.  Quick 3 SHOOTIN’ 1 Gain +1 to your first Living roll. Cunning 4 INSIGHT 1 Docity 5 PERFORMIN’ 1 BOOKLEARNIN’ 2 6 Grit 4 PRESENCE 1 You have turned your back on your aristocratic family to fight for the rights of the working man, in the land built upon the  Quick 3 FIGHTIN’ 1 principles of Thomas Paine. But that didn’t stop you using  Cunning 3 SHOOTIN’ 1 your family’s wealth. Gain +2 Capital. Docity 5 INSIGHT 1 PERFORMIN’ 1 BOOKLEARNIN’ 1 Appendix: your tale begins
 
-
 The Northeast 1 Your father was a metropolitan policeman, keeping the peace  Grit 4 PRESENCE 1 (and sometimes taking bribes) in the big city. Quick 4  FIGHTIN’ 2 Cunning 4 SHOOTIN’ 2 Docity 3 ANIMAL HANDLIN’ 1 2 Your parents were talented musicians, feted in a theatrical  Grit 3 PRESENCE 1 world where no one cared about the color of their skin. Quick 4  MOVE 1 Cunning 4 LIGHT-FINGERED 1 Docity 4 PERFORMIN’ 2 MAKIN’ 1 3 Your mother knew how to forage for herbs and heal many  Grit 3   NATURE 1 illnesses and injuries. People traveled from surrounding com- Quick 3   INSIGHT 1 munities to benefit from her wisdom. Cunning 4   PERFORMIN’ 1 Docity 5 DOCTORIN’ 3 4 Your parents found employment in the industrial economy,  Grit 4 LABOR 1 working in one of the fish canning factories. Quick 5 FIGHTIN’ 1 Cunning 3 LIGHT-FINGERED 2 Docity 3 OPERATE 1 MAKIN’ 1 5 Your father was an engineer on a railway. You loved watching  Grit 4 LABOR 1 the steaming machines roll by.  Quick 5  FIGHTIN’ 1 Cunning 3 MOVE 1 Docity 3 OPERATE 1 MAKIN’ 2 6 Grit 3 PRESENCE 1 The offspring of a rising political family, you have learned a little about how people think. Gain +1 on your first Living  Quick 3 INSIGHT 2 roll.  Cunning 4 PERFORMIN’ 2 Docity 5 BOOKLEARNIN’ 1
-
 
 |**Southeast**|**Southeast**|**Southeast**|**Southeast**|
 |---|---|---|---|
 
-
 Appendix: your tale begins
-
 
 4 Your parents found strength and salvation in bringing the  Grit 3 LABOR 1 word of god to the common folk as preachers. They did well  Quick 3  PRESENCE 2 off tithes and donations. You gain +1 on your first Living roll. Cunning 4 INSIGHT 1 Docity 5 PERFORMIN’ 2 5 Your father was an overseer on a large plantation.  Grit 4 LABOR 1 Quick 4  PRESENCE 1 Cunning 4 FIGHTIN’ 2 Docity 3 SHOOTIN’ 1 INSIGHT 1 6 Your parents were farmers involved in Democratic politics,  Grit 3 PRESENCE 1 and although the civil war ruined their aspirations, they came  Quick 3  INSIGHT 2 out of it well enough in the end.  Gain +1 to your first Living  Cunning 5 PERFORMIN’ 2 roll.   Docity 4 BOOKLEARNIN’ 1 , Southern Great Plains, Mexico and South America The South 1 You grew up as an aguador. Water carrying was hard work  Grit 5 LABOR 2 and poorly paid, but honest.  Quick 4  FIGHTIN’ 1 Cunning 3 RESILIENCE 2 Docity 3 MOVE 1 2 Your father was a ne’er-do-well who came to Texas as a hired  Grit 5  FIGHTIN’ 2 gun and was a veteran of the Mexican–American war. Your  Quick 3  SHOOTIN’ 2 mother is the Mexican woman he fell in love with. Cunning 4  HAWKEYE 1 Docity 3 ANIMAL HANDLIN’ 1 3 Down here, people who herd cattle are called Vaqueros. It was  Grit 4  LABOR 1 a hard life and your father was often away but you grew up  Quick 4  HAWKEYE 1 learning the trade. Cunning 4  SHOOTIN’ 2 Docity 3 ANIMAL HANDLIN’ 2 4 Grit 3 LABOR 1 Your mother was a domestic servant in a fine house. You never knew your father.  Quick 4  PRESENCE 1 Cunning 3 LIGHT-FINGERED 1 Docity 5 INSIGHT 2 PERFORMIN’ 1 5 You come from a hardworking farming family using milpa—a  Grit 4 LABOR 2 traditional method of agriculture dating back further than the  Quick 4  NATURE 2 first European settlers. Cunning 3 ANIMAL HANDLIN’ 1 Docity 4 MAKIN’ 1 6 Grit 3 LABOR 1 You grew up on a family-owned ranch, which definitely gave you a head start here in the west. Gain +1 to your first Living  Quick 4  SHOOTIN’ 2 roll, and +1 point of Capital. Cunning 5 NATURE 1 Docity 3 ANIMAL HANDLIN’ 1 INSIGHT 1 Appendix: your tale begins
 
-
 West Coast and Great Basin 1 Your parents were slick con artists and more than a little  Grit 3  PRESENCE 2 rubbed off on you. Gain +1 to your first Living roll. Quick 3  PERFORMIN’ 2 Cunning 5  INSIGHT 2 Docity 4 2 Your father worked the docks as a stevedore in San Francisco  Grit 5 LABOR 2 or a similar port, and you grew up strong and not afraid of  Quick 4 FIGHTIN’ 1 work. Cunning 3 RESILIENCE 1 Docity 3 MOVE 1 OPERATE 1 3 Your parents came west seeking silver and gold. Like many  Grit 4 LABOR 1 they found very little, but they managed to pay their way, if  Quick 3  RESILIENCE 1 not get rich.  Cunning 5 MOVE 1 Docity 3 OPERATE 1 HAWKEYE 1 NATURE 1 4 You grew up in a bordello, but as the child of the owner rath- Grit 3 PRESENCE 1 er than one of the working girls. It’s given you a good head  Quick 3 FIGHTIN’ 1 start in life. Gain +1 on your first Living roll.  Cunning 5 LIGHT-FINGERED 1 Docity 4 INSIGHT 2 DOCTORIN’ 1 5 The child of a mining engineer, you learned a little of the  Grit 3 LABOR 1 skills that are still in demand in this part of the world. Gain  Quick 4 MOVE 1 +1 on your first Living roll. Cunning 3 OPERATE 1 Docity 5 NATURE 1 MAKIN’ 1 BOOKLEARNIN’ 1 6 Your family have lived in the south of the region for gener- Grit 4 PRESENCE 1 ations, long before the Anglos “discovered” it. Considered  Quick 3  FIGHTIN’ 1 aristocracia, you have an exalted position in your community.  Cunning 3 SHOOTIN’ 1 Gain +1 on your first Living roll, and +1 point of Capital. Docity 5 INSIGHT 1 PERFORMIN’ 1 BOOKLEARNIN’ 1
-
 
 |**East Asia and the Pacifc**|**East Asia and the Pacifc**|**East Asia and the Pacifc**|**East Asia and the Pacifc**|
 |---|---|---|---|
 
-
 Appendix: your tale begins
-
 
 4 Your family were farmers, and you grew up on the farm, har- Grit 4  LABOR 1 vesting the crops and tending to the chickens and pigs. Quick 4  RESILIENCE 1 Cunning 4  NATURE 2 Docity 3 ANIMAL HANDLIN’ 2 5 You come from an old sea-faring family. It is said your fore- Grit 4  FIGHTIN’ 1 fathers traded across the Pacific long before the Europeans  Quick 3  MOVE 1 discovered that coast. If it’s true, it made them rich. Gain +1  Cunning 4  SHOOTIN’ 1 point of Capital. Docity 4 NATURE 1 INSIGHT 1 MAKIN’ 1 6 Your parents were apothecaries, selling remedies and cures. Grit 3  NATURE 2 Quick 3  INSIGHT 2 Cunning 4  DOCTORIN’ 2 Docity 5 India, and Equatorial and Southern Africa 1 Your family were coastal pirates, taking advantage of unwary  Grit 4  FIGHTIN’ 1 or unprotected travelers. Quick 5  SHOOTIN’ 2 Cunning 3  MOVE 1 Docity 3 LIGHT-FINGERED 1 MAKIN’ 1 2 Your parents made their living arranging things for rich white  Grit 5  MOVE 1 hunters, and though still a child you were valued as a scout. Quick 4  SHOOTIN’ 1 Cunning 3  HAWKEYE 2 Docity 3 NATURE 2 3 Your parents were deeply religious and traveled the continent  Grit 4 LABOR 1 preaching the truth.  Quick 3 RESILIENCE 1 Cunning 5 INSIGHT 1 Docity 4 PERFORMIN’ 1 DOCTORIN’ 1 BOOKLEARNIN’ 1 4 Your family are traditional farmers and you have always been  Grit 4 LABOR 1 around livestock. Quick 4  RESILIENCE 1 Cunning 3 MOVE 1 Docity 4 NATURE 1 ANIMAL HANDLIN’ 2 5 Your family was part of the colonial administration. It gave  Grit 3 PRESENCE 1 you contacts and some education. Gain +1 on your first  Quick 5 FIGHTIN’ 1 Living roll. Cunning 3 SHOOTIN’ 2 Docity 4 INSIGHT 1 BOOKLEARNIN’ 1 6 Your mother was what Europeans might call a queen and you  Grit 4  PRESENCE 1 have traveled to America with some wealth. Gain +1 Capital. Quick 3  FIGHTIN’ 1 Cunning 4  SHOOTIN’ 1 Docity 4 INSIGHT 2 PERFORMIN’ 1 Appendix: your tale begins
 
-### What of the family you lef t behind?
+### What of the Family You Left Behind?
 
 Before you embark on your life in the Old West, roll to discover what family connections, if any, remain.
 
 Roll 2D6 and total them, or if you have a better idea for the story of your family, make a note of that.
-
 
 2D6 Family Background 2 you. Everyone you loved is long lost, dead, or far, far away.
 There is no one left but 3 Your family was big until the curse. Death, madness and foolishness reduced them all to ruins, and you had no choice but to leave those who still survived behind.
@@ -514,7 +459,6 @@ There is no one left but 3 Your family was big until the curse. Death, madness a
 10 Your family is large but since Grandma died your Pa and your uncles have been at each other’s throats over who heads the family.
 11 Your family is tiny—just you and one parent who has come to live with you (gain a compadre).
 12 Your folks are dead and you’re the eldest. The others look up to you to lead the family: maybe you want to, maybe you don’t (you gain 1D2 compadres).
-
 
 ### Finding a Living
 
@@ -532,16 +476,15 @@ Once you have determined what your Upbringing has given you, you head west to be
 |**10-11**|TRADER|Page 292|
 |**12+**|GENTLEFOLK|Page 293|
 
-
 of your own destiny. Roll 2D6, apply any bonus mentioned on your Upbringing, and consult the table to determine your first Living.
 
-### Yo ur f i rst  li vi n g -  w h at  d i d  yo u  do a s a  yo un gst e r?
+### Your First Living - What Did You Do as a Youngster?
 
 When you have determined your first Living, roll D6 on the appropriate Living Outcome Table. This roll tells you a little about your time working that Living and gives you two extra ability points (which are cumulative to any points you already have in that ability). You also gain one talent at the Basic rank and some gear. You can complete your lifepath at this point and join the game as a youngster, no older than your early twenties, with the meager rewards you have acquired so far. But you don’t have to stop there.
 
 Appendix: your tale begins
 
-### Yo ur s e c on d l iv in g  - w h at  did  yo u d o i n  y ou r  20 s  a n d 3 0 s ?
+### Your Second Living - What Did You Do in Your 20s and 30s?
 
 ### The Outcome of your Living
 
@@ -549,8 +492,7 @@ For each Living your player character goes through they will gain abilities and 
 
 If you want to play a tested, adult character in your mid twenties to late thirties, you make another Living roll, but must also subtract one point from any attribute of your choice to reflect the effects of getting a little older (this cannot take any attribute value below a minimum of 2). Then make your second Living roll on the appropriate Living Table. Your previous Living roll may have directed you to move to a different Living: if this is the case you must roll your next Living on that Living Outcome Table. Otherwise, you may choose to stay with the same Living as your first one, or roll randomly on the Finding A Living table again. You gain the two listed ability points, one talent and the listed bonuses and benefits. If you gain a talent you already possess at the Basic level you gain the Advanced level of that talent. You can choose to stop there, and enter the game in your late twenties or thirties.
 
-
-### A t hi rd a n d f in a l  l iv in g  b e f o re st a rt i n g  pl ay ?
+### A Third and Final Living Before Starting Play?
 
 If you want to play an older veteran character (age 40 upwards) you must take another point off any attribute of your choice—remembering you cannot take the attribute value below 2—and then make a third and final Living roll. As before, if your second Living directed you to move to a new Living then you must roll on that Living Outcome Table, otherwise you can keep to your second Living or roll on the Find A Living Table once again. You gain two more ability points, one talent, and the listed bonuses and benefits.
 
@@ -562,7 +504,6 @@ Outlaws might be fugitives from a crime they didn’t commit, or unfortunates wh
 
 Roll D6 on the table below to see how life beyond the law turns out. Modify the result by +1 if you have SHOOTIN’ at level 1 or more.
 
-
 LIVING OUTCOME TABLE - OUTLAW Roll Formative event Abilities Talents Gear 1 You shoot a bank clerk in the back  SHOOTIN’ 1 cold blooded  or  Colt 45 Peacemaker & when you don’t need to. You are not  MOVE 1  fast shooter 2D6 rounds only a killer, but a coward. Thrown  3D6 × $1 out of the gang, your next roll on the  +1 Fame Living -2 Reputation s table has a -1 modifier.
 2 You kill a man in a fair fight, you  FIGHTIN’ 1  brawler  or   Colt 1860 New Army have the respect of your peers. SHOOTIN’ 1 pugilist & 3D6 rounds 4D6 x $1 +1 Fame
 -1 Reputation
@@ -571,9 +512,9 @@ LIVING OUTCOME TABLE - OUTLAW Roll Formative event Abilities Talents Gear 1 You 
 5 Set a thief to catch a thief. A law- HAWKEYE 1 two gun  or  A pair of Cooper pis- man from the nearby town turns you  INSIGHT 1 light-footed tols & 3D6 rounds against your gang, and you betray  American Quarter them. If you choose to progress to  Horse another Living, make your next roll  2D6 × $1 on the Ranch Hand Living Out- come Table.
 6+ After shooting down a rival who was  PRESENCE 1  quick draw  or  Sheriff badge terrorizing a local town , the towns- PERFORMIN’ 1 lightning fast Manhattan Navy & folk elect you as their sheriff. Make  2D6 rounds your next Living roll on the Trader  Hartford Coach Gun or Gentlefolk Table. & D6 Cartridges American Saddlebred Horse 3D6 × $1
 
-### Appendix: your tale begins
+### Appendix: Your Tale Begins
 
-### Gr If Ter
+### Grifter
 
 There but for the grace of god, go you. You ain’t outside the law, but only because they ain’t caught you yet. Your life is the pursuit of the easy dollar— there’s other folk that’ll work for a living. It’s your job to relieve the wealthy (and the not so wealthy) of the burden of their money.
 
@@ -583,8 +524,7 @@ Roll D6 to see how you do. Modify your roll by +1 if you have LIGHT-FINGERED at 
 |---|---|---|---|---|
 |**Roll**|**Formative event**|**Abilities**|**Talents**|**Gear**|
 
-
-### Appendix: your tale begins
+### Appendix: Your Tale Begins
 
 ### Frontier Folk
 
@@ -593,7 +533,6 @@ You don’t like people much, and prefer to find a living out in the big country
 Roll D6 on the table below, modifying the result by +1 if your NATURE ability is 1 or more.
 
 ### LIVING OUTCOME TABLE - FRONTIER FOLK
-
 
 | Roll Formative event Abilities Talents Gear |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -626,7 +565,6 @@ Roll D6 to see how you get on, modifying your roll by +1 if you have ANIMAL HAND
 
 ### LIVING OUTCOME TABLE - RANCH HAND
 
-
 | Roll Formative event Abilities Talents Gear |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | 1 One drunken night at the end of | ANIMAL | hay-maker | or | Webley British Bull- |
@@ -652,7 +590,7 @@ Roll D6 to see how you get on, modifying your roll by +1 if you have ANIMAL HAND
 | next roll on the Homesteader Living | Capital |  |  |  |
 | Outcome Table. horse +1 compadre | American Saddlebred |  |  |  |
 
-### Appendix: your tale begins
+### Appendix: Your Tale Begins
 
 ### Laborer
 
@@ -664,8 +602,7 @@ Roll D6 on the table below to see how you did, adding a +1 modifier if you have 
 |---|---|---|---|---|
 |**Roll**|**Formative event**|**Abilities**|**Talents**|**Gear**|
 
-
-### Appendix: your tale begins
+### Appendix: Your Tale Begins
 
 ### Homesteader
 
@@ -677,8 +614,7 @@ Roll on this table with a +1 modifier if you have LABOR level 1 or higher.
 |---|---|---|---|---|
 |**Roll**|**Formative event**|**Abilities**|**Talents**|**Gear**|
 
-
-### Appendix: your tale begins
+### Appendix: Your Tale Begins
 
 ### Trader
 
@@ -689,7 +625,6 @@ Roll D6 on this table with a +1 modifier if you have MAKIN’ at level 1 or more
 |**LIVING OUTCOME TABLE - TRADER**|**LIVING OUTCOME TABLE - TRADER**|**LIVING OUTCOME TABLE - TRADER**|**LIVING OUTCOME TABLE - TRADER**|**LIVING OUTCOME TABLE - TRADER**|
 |---|---|---|---|---|
 |**Roll**|**Formative event**|**Abilities**|**Talents**|**Gear**|
-
 
 Appendix: your tale begins
 
@@ -703,18 +638,15 @@ Roll D6 on this table, adding 1 to the result if you have BOOKLEARNIN’ at leve
 |---|---|---|---|---|
 |**Roll**|**Formative event**|**Abilities**|**Talents**|**Gear**|
 
-
 Appendix: your tale begins
 
 ### Your Acquisitions
 
 Once you have completed the necessary rolls for your Livings you need to accumulate the gear and other items you have acquired over your life so far.
 
-
 | Cash Roll the relevant number of dice to see how much cash you have in your pocket at the start of the game. Capital Total your Capital to see how much, if any, Capital you have. You must either immediately invest it in an outfit or property, or liquidate it into cold, hard cash (page 88). Fame Total up any Fame bonuses and add them to your base Fame score (page 101-102). Reputation Total up any negative and positive Reputation bonuses, and apply them to your place on the Reputation Table on page 102. Weapons If you have acquired a weapon go to page 110 to find its details. Roll the number of dice speci- you have on your belt. fied to see how much ammo Horse If you gain a horse go to page 120 to determine its stats, qualities and flaws. It comes with all the necessary equipment needed to ride it. If y g y page 92. Outfit ou have an Outfit refer to the rules on buildin our Outfits on |  |
 | --- | --- |
 | NPC Compadres pag e 103 to find out more about them. Other Gear Write anything else on your equipment list. | Your backstory will help you work out who your compadres are, and then follow the rules on |
-
 
 ### The Final Touches
 
@@ -722,21 +654,21 @@ Once you have completed the necessary rolls for your Livings you need to accumul
 
 After you have completed all your new player character’s Livings, you have 2 final points to allocate to any ability of your choice, remembering that no ability rank can go above 5.
 
-### Wh at  i s y ou r  f a i t h ?
+### What Is Your Faith?
 
 Everyone has their own personal faith, their own philosophy and way of life. Faith might be just that: religious faith of one flavor or another. But it could be reliance on friends and family, or an affinity with nature, or just the simple belief in yourself as the only one you can trust. It’s this that you hold to, that you test, when times are tough and you need to push yourself to succeed: your Faith powers your ability to push your rolls. Read more about Faith on page 45.
 
 Each player should write their Faith down in one short sentence of half a dozen words or so. Examples include: “ _I trust my dogs more than people”, “the Lord is my shepherd, I shall not want”, “the only one I trust is me”, “my friends are everything to me”, and “the spirits are with me, in the breeze in the trees._ ”
 
-### W h at  i s yo ur bi g d re a m?
+### What Is Your Big Dream?
 
 Your immediate goal in the game is to live another day. But in the long run, mere survival is not enough. You also have a motivation of your own, something you dream will one day come to pass, that keeps you on your feet when it would be easier to just lay down and die. You should choose your own Big Dream, or allow it to develop in your first few sessions. During play you will gain extra XP if you risk or sacrifice something to move closer to realizing your Big Dream.
 
-### W h o  i s yo ur pa rd n e r?
+### Who Is Your Pardner?
 
 Choose another player character, a compadre, or other NPC, as your Pardner. This is someone you care for, possibly work with in partnership or with whom you have some powerful bond. However, it’s not certain that they will always reciprocate your feelings.
 
-### W h o  a re  yo u, a n d  w h at d o  yo u l o o k li ke ?
+### Who Are You, and What Do You Look Like?
 
 Finally you need to give your character a name and describe them.
 
