@@ -32,8 +32,6 @@ But today, Ellis is angry. As far as he is concerned, Patience has fallen for th
 
 > _If you wish, you can remove the racist elements in the first scene, and change the section where Ellis Rockcliffe beats his daughter. Instead you can have him—in his anger—simply banish her to the hunting shack in the wilderness, and keep her prisoner there as a punishment for her intransigence. Mary, Patience’s maid, goes to find Patience and is killed by the wolves in the wilderness for her courage. The rest of the scenario can play out as written._
 
-El l i s r oc k c l if f e
-
 ELLIS ROCKCLIFFE GRIT 4 QUICK 3 CUNNING 5 DOCITY 3 PRESENCE                 3  SHOOTIN’                 2 HAWKEYE                 2  PERFORMIN’            1 FIGHTIN’                    3  INSIGHT                    2 RESILIENCE              1 Talents:  authority  (Advanced),  charming  (Advanced),  cold blooded  (Basic),  business minded (Advanced).
 
 |---|---|---|---|---|---|---|---|
@@ -103,9 +101,7 @@ Rockcliffe is outwardly jovial and welcoming, while Annette is quiet and rarely 
 
 If the players ask any follow-up questions Rockcliffe will provide answers: they are missing three horses from the stables; food was taken from the kitchen; it seems Patience and Mary took some clothing and blankets, but little else.
 
-If they delve more deeply into the circumstances of Patience’s disappearance, a successful opposed PERFORMIN’ test against Rockcliffe’s INSIGHT
-
-will lead him to disclose that he and Patience had argued over (what Rockcliffe calls) “ _her childish infatuation_ ” with a lowly cowhand called Max Kinnear, an entirely unsuitable sort for the daughter of Ellis Rockcliffe to be associating with.
+If they delve more deeply into the circumstances of Patience’s disappearance, a successful opposed PERFORMIN’ test against Rockcliffe’s INSIGHT will lead him to disclose that he and Patience had argued over (what Rockcliffe calls) “ _her childish infatuation_ ” with a lowly cowhand called Max Kinnear, an entirely unsuitable sort for the daughter of Ellis Rockcliffe to be associating with.
 
 If any of the players enquire about the atmosphere of the meeting, and/or how genuine either Ellis or Annette seem, allow them an INSIGHT test:
 
@@ -140,7 +136,7 @@ If they challenge the wolves, four of them, including the Alpha male, will fight
 
 ### The Wolf Pack
 
-When the player characters reach the lower slopes of Canyon Creek Ridge they come across a horrible scene. They can see a pack of wolves tearing at what appears to be the listless form of a person. A successful HAWKEYE test allows them to see that the figure is a young black woman in torn cloth-
+When the player characters reach the lower slopes of Canyon Creek Ridge they come across a horrible scene. They can see a pack of wolves tearing at what appears to be the listless form of a person. A successful HAWKEYE test allows them to see that the figure is a young black woman in torn clothing.
 
 - If the roll is unsuccessful it looks like the wolves attacked and killed her.
 - For one success they are not sure, but there are possible indications that her throat was cut.
@@ -244,7 +240,7 @@ DRAW  ATTACK WEAPON ACTION DAMAGE CRITICAL RANGE AMMO MOD MOD Shotgun Breech N/A
 
 ### The Epilogue
 
-I f th e  pl ay e r  c h a r ac t e rs leav e  pat ie n c e  w it h  pe y t on a n d  u ph ol d r oc k c l i f f e ’ s li e When the player characters return to town they are immediately accosted by Maxwell Kinnear, Patience’s cowhand boyfriend. He has heard they are looking for her, but accuses them, and Rockcliffe, of leaving her to die. In his fury he heads off towards the Rockcliffes’ home to have it out with Ellis. Unless the player characters intervene Kinnear is confronted by Halliday and Friar on the field in front of Rockcliffe’s home. Gunplay ensues and Kinnear is killed.
+### If the Player Characters Leave Patience with Peyton and Uphold Rockcliffe’s Lie When the player characters return to town they are immediately accosted by Maxwell Kinnear, Patience’s cowhand boyfriend. He has heard they are looking for her, but accuses them, and Rockcliffe, of leaving her to die. In his fury he heads off towards the Rockcliffes’ home to have it out with Ellis. Unless the player characters intervene Kinnear is confronted by Halliday and Friar on the field in front of Rockcliffe’s home. Gunplay ensues and Kinnear is killed.
 
 PATIENCE ROCKCLIFFE GRIT 3 QUICK 3 CUNNING 4 DOCITY 5 PRESENCE                 1  MOVE                        1  INSIGHT                    2  PERFORMIN’      2 RESILIENCE              3 SHOOTIN’                 1 ANIMAL HANDLIN’ 1 BOOKLEARNIN’       2 Strong-willed and single-minded, she’s more like her father than she’d like to admit. Loyal to friends and vengeful to her enemies.
 Talents:  charming  (Basic),  judge of character  (Basic),  lucky  (Basic).
@@ -783,8 +779,6 @@ Choose another player character, a compadre, or other NPC, as your Pardner. This
 Finally you need to give your character a name and describe them.
 
 Now you are ready to continue your tale.
-
-Tales of the old west - index
 
 |Abilities|17, 46-51|Dynamite|83|
 |---|---|---|---|

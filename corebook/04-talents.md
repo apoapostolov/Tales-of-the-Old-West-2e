@@ -114,7 +114,9 @@ You know where to shoot to make your opponent fall and not get up again. Ever.
 
 **Advanced** : If you succeed with your Called Shot you gain an additional critical injury roll, over and above any inflicted by the attack.
 
-De a dly  s t r ik e You know where to hit a man to make sure he doesn’t get up again. Ever.
+### Deadly Strike
+
+You know where to hit a man to make sure he doesn’t get up again. Ever.
 
 **Basic** : When you make a Called Strike, reduce the penalty by 1.
 
@@ -216,7 +218,9 @@ You have learned the healing ways of nature and the land, and how they can be tw
 
 **Advanced** : There is little you do not know about the healing powers and dangers of nature. You gain a +2 bonus to DOCTORIN’ when working against poison, venom or sickness, and can create poisons with a Potency of 3.
 
-Ha r d t o h i t You’re a tough opponent in a fight, and laying a blow on you is hard.
+### Hard to Hit
+
+You’re a tough opponent in a fight, and laying a blow on you is hard.
 
 **Basic** : You gain a +1 bonus to your FIGHTIN’ dice when Blocking a melee attack.
 
@@ -372,7 +376,9 @@ You are an expert marksman.
 
 **Advanced** : You can use a rifle at Long range with no penalties, and at Distant range with only a −2 penalty.
 
-Q u i c k  dr aw You draw your weapon faster than your enemy can blink.
+### Quick Draw
+
+You draw your weapon faster than your enemy can blink.
 
 **Basic** : Once per Round you can draw a one-handed weapon without spending an action. This includes picking up a weapon from the ground. You also gain a +1 bonus to your Draw roll during a duel.
 

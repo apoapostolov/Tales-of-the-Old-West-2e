@@ -281,9 +281,7 @@ The future of Mexico changed in the nineteenth century. First they won independe
 
 The territory may have changed hands but the centuries-old Mexican, Hispanic and Puebloan influence on these lands wasn’t going to be brushed aside by the influx of American settlers. While many Mexicans left, many more remained, their land and citizen rights guaranteed by the treaty that ended the Mexican-American War. They continued to live their lives, run their haciendas, herd their cattle, tend their farms and carry on all the other business of day-to-day life. This, along with the Mexican’s long and expert experience of living and working the land, may well have contributed to the strong anti-Mexican prejudice exhibited by the white settlers. The cultural impact was felt in other ways too, including the annual rhythm of Mexican celebrations, both secular and religious. Catholic missionaries took some liberties with the indigenous people of Mexico to get them to convert to Christianity,  by linking Mary to Tonantzin, the goddess of Corn and Earth, that many Native people believed in. By the 1870s, most Mexicans were Roman Catholic, and celebrated Christmas as well as other Catholic religious festivals.
 
-In addition to the usual festivals, Mexicans also celebrate _Las Posadas_ , or “the Lodging”. During this festival, families depict the journey of Mary and Joseph as they try to find a place to stay and have
-
-their baby. Children dress up and go from house to house singing songs, holding candles, and asking for shelter.
+In addition to the usual festivals, Mexicans also celebrate _Las Posadas_ , or “the Lodging”. During this festival, families depict the journey of Mary and Joseph as they try to find a place to stay and have their baby. Children dress up and go from house to house singing songs, holding candles, and asking for shelter.
 
 _Semana Santa_ or “Holy Week”. Just as the birth of Jesus is very important to Mexicans, the days leading up to Jesus’s death and resurrection are very important. The week is filled with processions, praying, feasting, and re-enacting the events of that week.
 

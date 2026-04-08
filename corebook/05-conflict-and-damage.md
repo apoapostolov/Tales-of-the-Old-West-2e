@@ -48,9 +48,7 @@ When all the participants in the conflict have completed their actions, the Roun
 
 ### Changing your Initiative
 
-You cannot normally change your initiative during a conflict. However, if the circumstances allow, you may exchange your initiative card—and thus your initiative for the Round—with another player character. This can only be done at the start of a Round and can only be done once per player per scene. The player characters who are exchanging their initiative cards must be able to communicate with each other
-
-and the players must explain narratively how and why this happens. The GM decides if the swap can go ahead.
+You cannot normally change your initiative during a conflict. However, if the circumstances allow, you may exchange your initiative card—and thus your initiative for the Round—with another player character. This can only be done at the start of a Round and can only be done once per player per scene. The player characters who are exchanging their initiative cards must be able to communicate with each other and the players must explain narratively how and why this happens. The GM decides if the swap can go ahead.
 
 ### Two Actions Per Round
 
@@ -106,9 +104,7 @@ When you attack someone with your bare fists or a melee weapon, you use your FIG
 
 **All-Out Attack** : If you want to put your all into your attack you can make an All-Out Attack. You must spend a fast action to Prepare: winding up your blow before making the attack (using a slow action). This gives you a +2 bonus. If you do anything else except make the attack after you have readied your All-Out Attack, or if you are hurt, you lose the effect and must spend another fast action to Prepare again.
 
-**Called Strikes** : If you want to strike your opponent’s head, or batter the gun from their hand, you need to
-
-make a Called Strike. However, Called Strikes are hard to pull off and give you a −3 penalty to your attack. Called Strikes can be used to inflict damage to a specific location, or to have another effect on your target, such as knocking a gun from an opponent’s hand or tripping them up. The GM has the final say on what effects are possible.
+**Called Strikes** : If you want to strike your opponent’s head, or batter the gun from their hand, you need to make a Called Strike. However, Called Strikes are hard to pull off and give you a −3 penalty to your attack. Called Strikes can be used to inflict damage to a specific location, or to have another effect on your target, such as knocking a gun from an opponent’s hand or tripping them up. The GM has the final say on what effects are possible.
 
 You must state which area you are targeting (lower leg, upper leg, arms, guts, chest or head) and declare the intent of the Called Strike: to inflict damage, or to cause another specific effect. If the intention of a successful attack is to inflict damage, the blow causes damage in the usual way, with the exception that if the attack inflicts a critical injury it strikes the location that was targeted. In that case, you only roll the Units die for the critical injury as the location (i.e., the result of the Tens die) is already determined (see Critical Injuries on page 78). If you have declared your intent to cause a specific effect rather than inflict damage, a successful attack causes no damage, but results in that desired effect.
 
@@ -133,9 +129,7 @@ To make a melee attack you roll your FIGHTIN’ ability. If successful, your att
 
 If you are the target of an attack in a hand-to-hand fight you can choose to Block the attack to deflect the blow, or Dodge to avoid being hit. Both Blocking and Dodging are fast actions, and you must declare that you are going to either Block or Dodge before the attacker rolls for their strike. This costs you a fast action, so if you have already acted and have no actions left you cannot Block or Dodge. You roll the relevant ability: FIGHTIN’ for a Block, MOVE for a Dodge. For each success you roll, choose an effect below:
 
-- You remove one of the enemy’s points of damage. If they are left inflicting no damage at all, the attack misses and any critical injury they would have inflicted is prevented. This
-
-effect can be chosen multiple times.
+- You remove one of the enemy’s points of damage. If they are left inflicting no damage at all, the attack misses and any critical injury they would have inflicted is prevented. This effect can be chosen multiple times.
 
 - You perform a counterattack, dealing damage to the attacker equal to the Damage rating of your weapon. You cannot spend additional successes to increase the damage of your counterattack.
 
@@ -153,9 +147,7 @@ Once you have Grappled an opponent you can take one of three actions when it is 
 - Hold them in place. This takes a slow action and is automatically successful, although you will still need to resist any attempt they may make to break free.
 - Try to subdue them. This counts as an attack, and takes a slow action. You make an opposed LABOR roll. For every success you gain over and above those of your victim, you inflict 1 point of Shakes or Hurts, as usual. If your opponent wins the opposed roll they have resisted your attempt to subdue them, and also inflict 1 point of Shakes on you. Your opponent is subdued either when they are Broken, or the character declares they give up.
 
-Once Grappled, your opponent may either attempt to break free or, if they are already holding a knife or a pistol in their hand, they may try to bring that weapon to bear against you. In both cases, those
-
-fighting must make an opposed LABOR roll, but weapon bonuses do not apply—this is a battle of raw strength and power.
+Once Grappled, your opponent may either attempt to break free or, if they are already holding a knife or a pistol in their hand, they may try to bring that weapon to bear against you. In both cases, those fighting must make an opposed LABOR roll, but weapon bonuses do not apply—this is a battle of raw strength and power.
 
 If your opponent wins the roll when trying to break free, they escape the Grapple, but if they lose, they remain held fast. If the Grapple is a fight over a weapon, the winner of the roll may choose to inflict damage with that weapon, applying any stunts as usual. They do not have to inflict damage—winning the struggle over a weapon might simply be about not getting hurt by it, rather than harming their opponent.
 
@@ -295,13 +287,17 @@ When enemies are shooting at you, hunkering down behind cover—preferably somet
 
 The protective effect of cover is determined by its Cover Rating. When you suffer damage from a physical attack, you roll a number of dice equal to the Cover Rating. Every success you roll decreases the damage by one. This roll does not count as an action and cannot be pushed.
 
-Fi r e a r m s  &  a m m u n it i on In _Tales of the Old West_ , you’ll need to keep count of the number of bullets you have in your gun, and how many you have as spare ammo.
+### Firearms & Ammunition
+
+In _Tales of the Old West_ , you’ll need to keep count of the number of bullets you have in your gun, and how many you have as spare ammo.
 
 You can reload two cartridges per fast action—which means a revolver takes three actions to fully reload, a double-barreled shotgun, one action, and a rifle with a magazine capacity of 15 takes four Rounds.
 
 Sneak attack Range modifier Arm’s Length -2 Short -1 Medium 0 Long +1 Ambush +2
 
-Barrier Cover rating Bush 1 Wicker Fence 2 Furniture 3 Wooden Door 4 Wooden Wall 5 Adobe WallBo w s &  sli n gsh o t s 8
+Barrier Cover rating Bush 1 Wicker Fence 2 Furniture 3 Wooden Door 4 Wooden Wall 5 Adobe Wall 8
+
+### Bows & Slingshots
 
 Bows and slingshots cannot be “reloaded” as such— instead, you need to spend a fast action to Prepare the weapon by nocking an arrow or placing a stone in your sling. Once you have readied your weapon you can’t do anything except Shoot or Aim—if you do anything else, you must Prepare the weapon again before you can Shoot.
 
@@ -342,9 +338,7 @@ Each of the following factors gives you a −1 penalty.
 
 _Tales of the Old West_ can be deadly. The rewards for your player character may be great, but the only thing you know for sure is that you will suffer all sorts of harm along the way, and this damage can come in many forms. Physical damage is split between Hurts (that damage Grit) and Shakes (that damage Quick) on a point for point basis, with the first point of damage always being Shakes, then Hurts, then Shakes and so on. Mental damage is split between Doubts (that damage Docity) and Vexes (that damage Cunning), also on a point for point basis, with the first point of damage always being Doubts, then Vexes, then Doubts and so on. Occasionally damage may specify just one attribute. When any attribute score is reduced to zero, you are Broken. This means you are out of action in one way or another. You cannot take actions or make ability rolls until you receive attention. Exactly what it means to be Broken depends on what attribute has been depleted.
 
-**Damage to Grit—Hurts** : Bleeding, cuts and scratches, bruises, and pain. When Broken on Grit
-
-you either collapse—and can only crawl and mumble through the pain—or you are unconscious.
+**Damage to Grit—Hurts** : Bleeding, cuts and scratches, bruises, and pain. When Broken on Grit you either collapse—and can only crawl and mumble through the pain—or you are unconscious.
 
 **Damage to Quick—Shakes** : Physical fatigue and exhaustion. When Broken on Quick you’re so drained by what’s befallen you that you can’t act.
 
@@ -560,9 +554,7 @@ A poison’s Potency is either 1, 2 or 3—very rarely would a poison have a Pot
 
 ### Sleeping Draught
 
-**Full Effect** : You take 1 point of Vexes each Round or Turn (depending on how fast acting the poison is) until you are Broken, at which time you fall
-
-unconscious for one Shift. You don’t suffer a critical injury. A successful DOCTORIN’ roll will halt the effect of the poison, but only one attempt can be made. If you can find and drink an antidote in time, the effect of the poison is halted.
+**Full Effect** : You take 1 point of Vexes each Round or Turn (depending on how fast acting the poison is) until you are Broken, at which time you fall unconscious for one Shift. You don’t suffer a critical injury. A successful DOCTORIN’ roll will halt the effect of the poison, but only one attempt can be made. If you can find and drink an antidote in time, the effect of the poison is halted.
 
 **Limited Effect** : You take 1 point of Vexes.
 
@@ -584,9 +576,7 @@ The strength of a disease is measured by its Virulence, of 1, 2, or 3. Very rare
 
 - One day after infection the disease breaks, at which time you suffer 1 point of both Hurts and Shakes.
 - You can’t recover your Grit or Quick while Sick.
-- Make another Sickness roll once per day. Each
-
-failed roll means you suffer another point of both Hurts and Shakes.
+- Make another Sickness roll once per day. Each failed roll means you suffer another point of both Hurts and Shakes.
 
 - If you are Broken on Grit when Sick, you must immediately make a Death roll. Thereafter, each day you make a Sickness roll, and if that is failed you immediately make another Death roll until you recover or the disease carries you off.
 - As soon as you succeed at a Sickness roll, you are no longer Sick, and recover your attributes normally.

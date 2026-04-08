@@ -24,9 +24,7 @@ New Mexico became a territory of the US in 1848, after a decade of strife that s
 
 As US troops occupied Santa Fe and the Rio Grande river valley, the Hispanic community fought back. However, the Taos Rebellion—as it became known—was easily defeated, and it quickly became clear that the US would win the war.
 
-After the war, the attitudes of Nuevo Mexicanos—those Mexicans who decided to stay in New Mexico—softened somewhat as US leaders took a conciliatory approach. The new regime kept the existing Mexican system of courts, elevated a prominent Hispanic, Donaciano Vigil, as the Governor’s
-
-tensions bubbling under the surface. The Governor, Marsh Giddings, presides over an official population of 92,000 souls, a number that is on the rise now the Civil War is over and the Native American tribes are increasingly harried and subdued. Political corruption and intrigue is endemic. Loose affiliations of corrupt politicians, officials, and wealthy business interests—most notably the infamous Santa Fe Ring—hold sway over political and commercial influence, and take a dim, and often violent, view of any competition. The Santa Fe Ring use their collective influence to feather their own nests, while keeping opposition well under their bootheel. In spite of that, homesteaders set up their farms and ranchers, vaqueros and cowboys chase their fortunes with livestock, while prospectors and miners seek riches from the minerals to be found, especially silver, but also gold, copper, iron and coal.
+After the war, the attitudes of Nuevo Mexicanos—those Mexicans who decided to stay in New Mexico—softened somewhat as US leaders took a conciliatory approach. The new regime kept the existing Mexican system of courts, elevated a prominent Hispanic, Donaciano Vigil, as the Governor’s tensions bubbling under the surface. The Governor, Marsh Giddings, presides over an official population of 92,000 souls, a number that is on the rise now the Civil War is over and the Native American tribes are increasingly harried and subdued. Political corruption and intrigue is endemic. Loose affiliations of corrupt politicians, officials, and wealthy business interests—most notably the infamous Santa Fe Ring—hold sway over political and commercial influence, and take a dim, and often violent, view of any competition. The Santa Fe Ring use their collective influence to feather their own nests, while keeping opposition well under their bootheel. In spite of that, homesteaders set up their farms and ranchers, vaqueros and cowboys chase their fortunes with livestock, while prospectors and miners seek riches from the minerals to be found, especially silver, but also gold, copper, iron and coal.
 
 chief advisor, and wrote into treaty the guarantee that all Nuevo Mexicano citizens would retain their rights and property under American authority.
 
@@ -38,9 +36,7 @@ In 1873, New Mexico is an eclectic mix of people, with cultural, national, polit
 
 ### The Landscape of New Mexico
 
-New Mexico is a diverse landscape of deserts, plains, grasslands, mountains and mesas, huge forests and big rivers. The Rocky Mountains divide the territory roughly in two, north to south, between the river valleys of the Rio Grande and Pecos rivers. The north is mountainous, a wilderness of Pinyon and Juniper forest, the northwest corner extending into the Colorado Plateau, the high desert plains that stretch across huge swathes of Arizona, Utah and Colorado. In the east, the land flattens as the Great Plains stretch away over the horizon. The southwest is dominated by the Gila River, the Gila Mountains and the forests that cover them, while the high plains of the southeastern desert fall away to the lower ground, across the Mescalero Ridge escarpment. The climate is dry and temperate, with
-
-low rainfall but snow on the mountain tops. Summer temperatures can hit 100°F (38°C), and during winter can go as low as 40°F (4.5°C)—it’s rare to feel a freeze in New Mexico, but not unheard of.
+New Mexico is a diverse landscape of deserts, plains, grasslands, mountains and mesas, huge forests and big rivers. The Rocky Mountains divide the territory roughly in two, north to south, between the river valleys of the Rio Grande and Pecos rivers. The north is mountainous, a wilderness of Pinyon and Juniper forest, the northwest corner extending into the Colorado Plateau, the high desert plains that stretch across huge swathes of Arizona, Utah and Colorado. In the east, the land flattens as the Great Plains stretch away over the horizon. The southwest is dominated by the Gila River, the Gila Mountains and the forests that cover them, while the high plains of the southeastern desert fall away to the lower ground, across the Mescalero Ridge escarpment. The climate is dry and temperate, with low rainfall but snow on the mountain tops. Summer temperatures can hit 100°F (38°C), and during winter can go as low as 40°F (4.5°C)—it’s rare to feel a freeze in New Mexico, but not unheard of.
 
 With such a varied landscape, the wildlife of New Mexico is equally diverse. Despite the relentless hunting, bison (or buffalo) still roam the plains. Bears can be found in the mountains and forests, along with coyotes, porcupines and wild turkeys. Wolves and cougars hunt deer and elk, and diamondback rattlesnakes, water moccasin vipers, bark scorpions, and black widow spiders lurk in the shadows.
 
@@ -166,9 +162,7 @@ In this tale, the player characters learn of Clarence King’s interest in the t
 
 **SETUP** : On the southern plains of New Mexico a herd of cattle is taken by the Comanche, who sell it on to a group of Comancheros (traders who buy stolen stock from Native tribes then sell it on). The cattle belong to the Davidson family—an ally of Clarence King—and they want retribution. The Comancheros arrive in Jornada Springs to sell their ill-gotten livestock, closely followed by Davidson’s gunhands.
 
-**STARTING THE ACTION** : It’s festival day in Jornada Springs. Everyone is enjoying themselves as a group of Comancheros arrive with a small herd of cattle to sell. Townsfolk rush to pick up a bargain. Despite the Comancheros’ efforts to obscure the brands, the player characters can tell the herd once belonged to the Davidson clan. The player characters may buy the stock themselves—it’s being sold at
-
-a huge discount—but the McGinns are also bidding for it. Then the Davidson posse arrives, led by the corrupt sheriff, Ben Peacock, wanting their stock back. But Peacock is outside his jurisdiction, and the stock has been bought and paid for.
+**STARTING THE ACTION** : It’s festival day in Jornada Springs. Everyone is enjoying themselves as a group of Comancheros arrive with a small herd of cattle to sell. Townsfolk rush to pick up a bargain. Despite the Comancheros’ efforts to obscure the brands, the player characters can tell the herd once belonged to the Davidson clan. The player characters may buy the stock themselves—it’s being sold at a huge discount—but the McGinns are also bidding for it. Then the Davidson posse arrives, led by the corrupt sheriff, Ben Peacock, wanting their stock back. But Peacock is outside his jurisdiction, and the stock has been bought and paid for.
 
 **THE FINALE** : If the player characters have bought the stock themselves they must deal with Peacock and his posse. The McGinn family accuse them and help Peacock, while others in town back the characters up. This includes Ezra Sparks. Sparks is a representative of Quinlivan, newly arrived in town and looking to make allies against King and his faction, that includes the Davidsons of Lincoln. He hopes the player characters will be those allies. However, if the McGinn family bought the stock, they set the player characters up, either by leaving the herd on their land and telling Peacock, or saying the player characters were behind the theft in the first place. How will the player characters resolve this situation, and deal with their escalating feud with the McGinns?
 
@@ -224,8 +218,6 @@ Angel Contreras belongs to a long line of respected Mexican vaqueros. He and his
 
 Vigle arrived in town just a few weeks ago, and set up a temporary dentist and doctorin’ business out of her hotel room in the Blessings Saloon. She’s been doing a roaring trade, but her bedside manner leaves a little to be desired. Her callous sneering at those worried about the pain of having a tooth pulled has got her something of a harsh reputation. And the constant sniffing, caused by her unpleasant addiction to taking little pinches of snuff from its ornate metal box, is the talk of the town. But Vigle doesn’t care—she **wants** to be talked about and become an accepted part of the furniture in Jornada Springs, as cover for her real business. She **fears** that someone will reveal her true calling as a bounty hunter before the man she is after—Garland Raeburn’s brother, Newbold—returns to town. Some have already commented on her fine Winchester 1872 rifle. She **needs** to take this mark for the $500 bounty to pay her debts and shake off the loan sharks who are never far behind.
 
-Lya n n e  vi gle
-
 ### Emerson Murray
 
 Emerson is a serious-looking 11 year old boy who is always found wandering the streets of town. He is friendly in words, and is always the first to greet outsiders. For a few cents he will happily provide information and even do odd jobs—his favorite being as a lookout for those up to no good. He has a venomous side though, especially if stiffed of his hard-earned pennies. His father is the local carpenter, but the old man’s spells of madness have driven little Emerson onto the streets, and he avoids going home if he can. Emerson **wants** to be liked, and enjoys stealing little items from his father’s workshop and planting them in other peoples’ pockets and saddle bags—his way of being helpful. He **fears** his father’s madness will take him to an early grave, leaving Emerson with nothing. He **needs** to be popular around town so the townsfolk will look after him if he’s left an orphan.
@@ -237,8 +229,6 @@ No one knows the surnames of the two men who both go by the name of Blessing, an
 ### An Ke Siegbert
 
 Second generation immigrants from Germany, Anke and Marieke Siegbert came west after they received a financial windfall. With this capital the Siegberts moved to Jornada Springs to invest in silver prospecting and mining, in competition with Garland Raeburn. Anke and Marieke have three children: Dagmar, 20; Eva, 19; and Friedrich, 17, who goes by the name Fred. Anke **wants** to operate peacefully alongside Raeburn, and **needs** Raeburn to accept his business. Anke pays his workers a better wage than Raeburn and **fears** Raeburn will interfere with his business. He also **suspects** that Raeburn’s mine is failing, and is down-playing how well his mining outfit is doing, knowing full well how angry—and envious—Raeburn will be if it comes out.
-
-E m e r s on  m u r r ay
 
 ### Chastity Merrie L
 
@@ -284,9 +274,7 @@ In this tale, the player characters learn of the New Mexico Mercantile Cooperati
 
 **SETUP** : It’s Founder’s Day, and Samuel Bertrand has laid on refreshments and a band to celebrate. Hubbard McGraw and Ellis Rockcliffe, not wanting to be out-done, have laid on food and drinks at their own expense too. However, today is the day that Clarence King’s folks from the New Mexico Mercantile Cooperative arrive, led by his enforcer, Howard Ross.
 
-**STARTING THE ACTION** : The festivities are
-
-well underway when a group of ten riders with three wagons clatter into the town square. Unruly and unwashed from the trail, these folks are from the NMMC. They cause a confrontation by disrupting the festivities, taking drinks, pushing people about and making lewd remarks, before they take up residence at the Homestead Inn. They make no bones about why they are here—to set up mines and lumber yards and make the town prosperous. The townsfolk hold a meeting to decide what to do about these rowdy newcomers.
+**STARTING THE ACTION** : The festivities are well underway when a group of ten riders with three wagons clatter into the town square. Unruly and unwashed from the trail, these folks are from the NMMC. They cause a confrontation by disrupting the festivities, taking drinks, pushing people about and making lewd remarks, before they take up residence at the Homestead Inn. They make no bones about why they are here—to set up mines and lumber yards and make the town prosperous. The townsfolk hold a meeting to decide what to do about these rowdy newcomers.
 
 **THE FINALE** : If the player characters don’t face them down, Samuel Bertrand—who believes himself the de facto mayor of the town—does. Howard Ross baits Bertrand into a violent act, so he can kill him in self defense. How will the player characters react? Will they throw in with the newcomers in the hope of getting rich off their ventures, or defend the town and its people?
 
@@ -347,8 +335,6 @@ A noted card player who wins a lot of money at the tables in Moyer’s Homestead
 ### Edward Eddie Tyler
 
 Eddie Tyler is a reserved fellow, preferring his own company—a loner who keeps to himself. But he always helps others when the need arises, and is quietly popular around town. He runs the Eddie Tyler Whiskey Co., the only distillery in town, making “the best whiskey west of the Rio Grande!” At least that’s what it says on the roughly painted sign outside his outfit. While the business makes him enough to keep him honest, he **needs** it to do better. Tyler **fears** his secret problem will ruin him— he can’t stop gambling, and can’t stop losing at the cards. He spends most evenings at the faro tables of the Homestead Inn and his debts are quietly mounting. He **wants** to win big and then stop playing. Otherwise it won’t be long before someone takes offense and sends some gunhands round to collect. Tyler **loves** his four year old black cat, Emmy, who he found half dead on the roadside as a kitten and nursed back to health. Now she’s the best ratter in all Steaming Rock.
-
-E dw a rd  ‘e d d i e ’ t yle r
 
 ### Madam Milli Cent
 
@@ -420,9 +406,7 @@ In this tale, the player characters learn that the NMMC is a company controlled 
 
 **SETUP** : The NMMC wants to expand into Carson’s Folly, or if you have played The Last Cibolero, they have already tried once to set up business in the town. Garrett Pemberton (or Chester Eversley) comes to town with an entourage of lawyers, clerks and hired gun hands to buy all the important people into supporting them and their business, before they resort to more violent means of getting the locals’ cooperation.
 
-**STARTING THE ACTION** : Pemberton arrives in town and starts bribing the locals. They offer
-
-inducements to the player characters to welcome the NMMC’s business. Few in town accept the bribes, although rumors suggest that some have taken the money, including Thomas Gracelyn, Harbin Rose, and Salazar Esparza. However, some are violently opposed to this intrusion. There’s a confrontation and Josiah Townsend is shot dead by Hans Kolman, an NMMC man. Kolman flees to Las Vegas. Pemberton claims it was a fair fight and, as Kolman was acting in self defense, no court would convict him.
+**STARTING THE ACTION** : Pemberton arrives in town and starts bribing the locals. They offer inducements to the player characters to welcome the NMMC’s business. Few in town accept the bribes, although rumors suggest that some have taken the money, including Thomas Gracelyn, Harbin Rose, and Salazar Esparza. However, some are violently opposed to this intrusion. There’s a confrontation and Josiah Townsend is shot dead by Hans Kolman, an NMMC man. Kolman flees to Las Vegas. Pemberton claims it was a fair fight and, as Kolman was acting in self defense, no court would convict him.
 
 **THE FINALE** : The townsfolk are seething and want the player characters to go after Kolman and bring him back to face justice. They must chase him down and catch him. Do they bring him to the Las Vegas sheriff, and hope the justice of the frontier will see Kolman punished? Or return with him to Carson’s Folly, for the town to decide his fate? Or do they simply lynch him where they find him?
 
@@ -444,9 +428,7 @@ In this tale, the player characters learn of the power of Clarence King and the 
 
 **STARTING THE ACTION** : The US Cavalry ride into town, causing mayhem and disruption. They camp in the West Field and run roughshod over the local people, saying they’ve heard this place is a lawless pit of vipers. The locals are intimidated, and those who stand up to them, including the player characters if they do so, are beaten (not killed) as punishment. Captain Dederich makes it clear he intends to exterminate the Comanche in this area, but the locals know that attacks like this lead to terrible reprisals. For the good of the town the relationship with the local Comanche must be maintained. The townsfolk beg the player characters to go find the Comanche, and tell them to flee until the cavalry move on. They must track down the Natives, win their trust, and give them the message.
 
-**THE FINALE** : A small cavalry scouting party finds the Comanche camp. What will the player characters do? Will they turn on the Comanche, or
-
-join forces with them against the soldiers? Will they try to save the cavalrymen, pleading with the Native warriors for their lives, or will they kill the cavalrymen to save the Comanche? And what if Captain Dederich and the rest of his troopers arrive? How will the player characters deal with that?
+**THE FINALE** : A small cavalry scouting party finds the Comanche camp. What will the player characters do? Will they turn on the Comanche, or join forces with them against the soldiers? Will they try to save the cavalrymen, pleading with the Native warriors for their lives, or will they kill the cavalrymen to save the Comanche? And what if Captain Dederich and the rest of his troopers arrive? How will the player characters deal with that?
 
 ### Standalone Tales
 
@@ -479,8 +461,6 @@ Generally accepted as the “boss” of Carson’s Folly, Townsend acts as if he
 ### Thomas Grace Lyn
 
 Charming and suave, but greedy and ruthless, Gracelyn is well-liked about town but will do anything to make a fast buck. He **owns** the Gracelyn Hotel, a dusty, run-down establishment, but decent. Gracelyn **fears** his true character will come out, and the town will turn against him. He **wants** to be popular, at least more popular than his enemy, Townsend, the one man who has seen through his charming veneer.
-
-A n d re w  ro be rt  mi lle r
 
 ### Harbin Rose
 

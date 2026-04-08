@@ -54,9 +54,7 @@ The Old West is a swirling cultural melting pot, and where those cultures meet t
 
 ### The Turn of the Season
 
-The Turn of the Season (page 180) is an opportunity to randomly generate story ideas and hooks that feed into your campaign and keep it moving forward. Many Turn of the Season events can form the basis of a campaign all by themselves, such as the visit of a powerful territorial official to the town— why are they coming, who has invited them, what will happen to them during the visit, and what
-
-opportunity does this present to the player characters to forward their hopes and dreams? Or Native traders come through town, and some folk don’t take kindly to them—what are they trading, has something happened to make them visit, and how can the player characters uncover the truth? Other events give an insight into the lives of the player characters themselves, such as a scandal in the family, a blossoming romance or an unexpected legacy. Make good use of these ideas to add depth, complexity, and a real sense of the passage of time to your campaign.
+The Turn of the Season (page 180) is an opportunity to randomly generate story ideas and hooks that feed into your campaign and keep it moving forward. Many Turn of the Season events can form the basis of a campaign all by themselves, such as the visit of a powerful territorial official to the town— why are they coming, who has invited them, what will happen to them during the visit, and what opportunity does this present to the player characters to forward their hopes and dreams? Or Native traders come through town, and some folk don’t take kindly to them—what are they trading, has something happened to make them visit, and how can the player characters uncover the truth? Other events give an insight into the lives of the player characters themselves, such as a scandal in the family, a blossoming romance or an unexpected legacy. Make good use of these ideas to add depth, complexity, and a real sense of the passage of time to your campaign.
 
 ### Creating a Dynasty
 
@@ -172,7 +170,11 @@ A full list of available amenities can be found from page 169, categorized by th
 
 An amenity always takes one season to complete, and each amenity can only be chosen once.
 
-A M EN IT I E S  -  FA R MI N G AM E N ITIE S  -  M E R C AN T ILE Min  Min Amenity Amenity Civic  Civic Rank Rank 1 Animal Culls 2 1 1 Bordello 2 1 1 Barns 2 1 1 Blacksmith 1 2 1 −1 1 Foragers 2 1 1 General Stores 2 1 1 Horse Traders 2 1 1 Mills 1 2 1 Labor Drive 2 1 1 −1 1 Pony Express  2 1 Route 1 Land Clearance 3 1 −1 1 Saloons 2 −1 1 1 1 Livestock  2 1 1 −1 1 Town Square 2 1 1 −1 Roundup 1 Paddocks /  2 1 1 Workers’   1 2 Corrals Cooperatives 3 Firebreaks 2 1 3 Distillery 1 3 −1 3 Grain Silos 2 1 3 Hotel 2 1 3 Irrigation 2 1 3 Post Office 2 1 3 Tumbleweed  3 −1 1 3 Stagecoach 2 1 Clearance 4 Corn Exchange 3 1 −1 4 Bank* 3 −1 4 Reservoir 2 1 4 Trading   3 Exchange 5 Country Market 4 5 County Auction  4 House Farming Mercantile Natural Riches Law Civic Welfare Farming Mercantile Natural Riches Law Civic Welfare
+### Amenities - Farming
+
+### Amenities - Mercantile
+
+*(See rulebook table for full amenity data with Rank, Min Tally, and Aspect modifiers.)*
 
 ### Amenities - Natural Riches
 
@@ -242,9 +244,7 @@ Min  Min Amenity Amenity Civic  Civic Rank Rank 1 Boardwalks 1 2 1 Bathhouse −
 
 **Distillery** : Rank 3. Locally made liquor is much better than the stuff that gets dragged in from miles away, and it might just get a name for itself and boost the town too.
 
-**Doctor** : Rank 3. Any settlement can have those who say they are healers, but it might be wise to find a reputable doctor to set up business here. It’s sure to be profitable for the right saw-bones, and can only
-
-help the town prosper.
+**Doctor** : Rank 3. Any settlement can have those who say they are healers, but it might be wise to find a reputable doctor to set up business here. It’s sure to be profitable for the right saw-bones, and can only help the town prosper.
 
 **Employment Office** : Rank 4. Keeping the riff-raff off the streets and helping them link up with those who need a hard day’s graft from an honest man will make sure the people stay peaceful and gainfully employed.
 
@@ -428,9 +428,7 @@ Here is how you go about creating your new town:
 
 D6 Starting status Starting amenites 1-2 New ground just broken - For a  1D3 game that starts at the formation of the town - “The clean earth has just been broken” 3-4 A new place - For a town that’s  2D3 just getting going - “People are building and finding a way to live here” 5 Early days - But people are start- 1D6+4 ing to set down roots - “Homes and amenities are springing up” 6 2D6+4 Establishing - The town’s growing, becoming a “place” - “People are starting to hear of this town”
 
-**5** . A new town’s aspects all start at rank 1, with 1 tally point. Choose the town’s starting amenities and apply the relevant bonuses and benefits. The settlement’s backstory might influence which amenities you choose. For example, a town next to a river or brook might choose Wells or Fishing Rights. One established along a well-trodden trail might choose Maintained Tracks, as people pass through here often. At this point no aspect can drop to zero—if
-
-any modifier would reduce the score to zero it is ignored and the tally remains at 1.
+**5** . A new town’s aspects all start at rank 1, with 1 tally point. Choose the town’s starting amenities and apply the relevant bonuses and benefits. The settlement’s backstory might influence which amenities you choose. For example, a town next to a river or brook might choose Wells or Fishing Rights. One established along a well-trodden trail might choose Maintained Tracks, as people pass through here often. At this point no aspect can drop to zero—if any modifier would reduce the score to zero it is ignored and the tally remains at 1.
 
 **6** . Note the town’s current aspect ranks and total them together to determine the town’s Prosperity score.
 
@@ -482,9 +480,7 @@ But having looked back to last season, you then look forward to the next. The gr
 
 ### When Does the Season Turn?
 
-You decide when to play the Turn of the Season, based on your campaign. You should play at least one adventure per season, rather than skip a season entirely, as seasonal changes often play an important part in Old West stories. Two or three adventures
-
-per season is a good standard—that way your campaign might last a few years of in-game time and your player characters will experience real change to their fortunes and the town they call home. However, to give your campaign a real generational feel you can skip several seasons each time you play the Turn of the Season, and have longer between adventures. In this case you should only apply the Turn of the Season rules every second season, to minimize the risk that big changes happen for the player characters without them having the opportunity to do something about it (for example, their businesses do very well over multiple seasons and they gain a lot of money they did not have to work for, or their businesses do very badly over consecutive seasons and go bust while they have no chance to save them).
+You decide when to play the Turn of the Season, based on your campaign. You should play at least one adventure per season, rather than skip a season entirely, as seasonal changes often play an important part in Old West stories. Two or three adventures per season is a good standard—that way your campaign might last a few years of in-game time and your player characters will experience real change to their fortunes and the town they call home. However, to give your campaign a real generational feel you can skip several seasons each time you play the Turn of the Season, and have longer between adventures. In this case you should only apply the Turn of the Season rules every second season, to minimize the risk that big changes happen for the player characters without them having the opportunity to do something about it (for example, their businesses do very well over multiple seasons and they gain a lot of money they did not have to work for, or their businesses do very badly over consecutive seasons and go bust while they have no chance to save them).
 
 ### Turn of the Season Summary
 
@@ -548,9 +544,7 @@ All the bonuses and penalties stack up. If conditions are so bad that you have z
 
 The Season Business roll is like any other, except it cannot be pushed and you don’t need to worry about Trouble:
 
-- If the roll results in no successes the business has done badly. It hasn’t made enough money to pay the wages of the proprietor and employees. The owners may need to liquidate Capital (i.e., remove 1 or more points of Capital from the
-
-business and turn them into cash), find another way to cover the wages, or not pay them at all and suffer the consequences. Roll once on the Business Penalty table.
+- If the roll results in no successes the business has done badly. It hasn’t made enough money to pay the wages of the proprietor and employees. The owners may need to liquidate Capital (i.e., remove 1 or more points of Capital from the business and turn them into cash), find another way to cover the wages, or not pay them at all and suffer the consequences. Roll once on the Business Penalty table.
 
 - If the roll achieves one success the business is steady, all the seasonal expenses and running costs have been paid and the proprietor and employees can all draw their wages (without any additional cost to the owners).
 - If the roll achieves more than one success the business has done very well indeed. Roll once on the Business Bonus table, with each extra success beyond the first giving a +1 bonus to the Tens die. Any bonanza gained in this way is divided among the investors as they see fit.
@@ -827,9 +821,7 @@ Franklin Haile thought so. He bought a wagon and set off with his family back in
 
 What happened next? Well, the story that the player characters hear from their friend is that there was horseplay, a lamp got overturned, and the wagon caught fire. The Hailes died in the blaze. All but the daughter, eight-year-old Mary Haile. She ran off. The four searched the hills, but there was no trace of her, and winter was biting hard.
 
-After the fire, the four men went their separate ways. Theo Okee kept on drifting. He rode with Pierre Regnard for a while. Last anyone heard, he was driving cattle. Wallace Lacklam settled down, got married, had a family and became a pillar of the local community. For the Professor? Well, everyone’s seen his posters: Professor Hatten’s Patented CureAll takes away all your aches and pains, cures toothache and twisted guts, and probably strips paint and
-
-launders sheets too. And Pierre Regnard’s name is on posters too. Wanted posters. He shot two men over a poker game in Kansas City a few years ago and disappeared.
+After the fire, the four men went their separate ways. Theo Okee kept on drifting. He rode with Pierre Regnard for a while. Last anyone heard, he was driving cattle. Wallace Lacklam settled down, got married, had a family and became a pillar of the local community. For the Professor? Well, everyone’s seen his posters: Professor Hatten’s Patented CureAll takes away all your aches and pains, cures toothache and twisted guts, and probably strips paint and launders sheets too. And Pierre Regnard’s name is on posters too. Wanted posters. He shot two men over a poker game in Kansas City a few years ago and disappeared.
 
 ### The Set Up
 

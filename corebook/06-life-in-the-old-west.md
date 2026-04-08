@@ -98,9 +98,7 @@ Lumberjack $75 Master Builder $180 Miller $70 Miner $80 Preacher (retained) $75-
 
 ### Earning a Living as a Preacher
 
-Preachers are a special case in _Tales of the Old West_ . As noted in the Salaries Table, they may be a retained—and thus salaried—man of the cloth, bought and paid for by a local dignitary who wants a preacher in town to boost its (and their) status. But plenty of preachers evangelize from a street corner or in the town’s square, with nothing more than a
-
-battered copy of the bible. Some lucky clergymen may even have a shack to use as a small church, or hold their Sunday sermons in the main room of the best saloon in town.
+Preachers are a special case in _Tales of the Old West_ . As noted in the Salaries Table, they may be a retained—and thus salaried—man of the cloth, bought and paid for by a local dignitary who wants a preacher in town to boost its (and their) status. But plenty of preachers evangelize from a street corner or in the town’s square, with nothing more than a battered copy of the bible. Some lucky clergymen may even have a shack to use as a small church, or hold their Sunday sermons in the main room of the best saloon in town.
 
 Preachers earn their corn through the donations received from their faithful congregations, and rely on their own skill in sermonizing (using their PERFORMIN’ ability) and the Prosperity of the townsfolk they are servicing. For more details see the Turn of the Season on page 186.
 
@@ -278,9 +276,7 @@ Note: Features can only be chosen once per property, with the exception of Upgra
 Some new player characters may start with an outfit. The GM should feel free to decide for themselves what kind of property and land their player characters have at the start of their campaign, but otherwise follow these simple rules. The types of property available during character creation are:
 
 - A Business Property/Store—a plot in town where you make and/or sell your wares, with accommodation that might be as simple as a tent or could be a more robust building.
-- A Claim—the rights to a mine, a panning
-
-claim on a local waterway, a stretch of forest for lumber or anything similar.
+- A Claim—the rights to a mine, a panning claim on a local waterway, a stretch of forest for lumber or anything similar.
 
 - A Dwelling—just a place to live without any outfit connected with it, at least for now.
 - A Homestead/Ranch—often 160 acres of land with a self-built home.
@@ -372,9 +368,7 @@ Maintaining a certain lifestyle is important for many people in the Old West—y
 
 In _Tales of the Old West_ your player characters can build up a group of friendly NPCs that work with them, owe them some debt of honor, or may be a close family member. These are your compadres. Not every NPC will be a compadre, only those who are closely involved with the player character’s life and story. Some compadres may be identified during character creation, while others may become apparent during the course of your campaign. Agree with your GM which NPCs should become compadres.
 
-Compadres are—on the whole—your character’s loyal family or friends, and are generally under the player’s control. They can do minor tasks to support the player character, like watch the farm or saloon
-
-while the player character is off adventuring, do some shopping, or carry a message. But these NPCs can also be controlled by the GM. Compadres have some personal agency of their own—they may have desires and motivations that conflict with the player character, or they may get upset if the player character treats them badly or with disrespect. This is the part of their personality that the GM controls.
+Compadres are—on the whole—your character’s loyal family or friends, and are generally under the player’s control. They can do minor tasks to support the player character, like watch the farm or saloon while the player character is off adventuring, do some shopping, or carry a message. But these NPCs can also be controlled by the GM. Compadres have some personal agency of their own—they may have desires and motivations that conflict with the player character, or they may get upset if the player character treats them badly or with disrespect. This is the part of their personality that the GM controls.
 
 ### Creating Your Compadre
 
@@ -515,9 +509,7 @@ Draw  Attack Weapon Action Dam Crit Range Qualities Ammo Wt Cost Mod Mod RELIABL
 
 **Manhattan Navy** : Following the expiry of Colt’s early patents, the Manhattan Firearms Company made their own versions of Colt’s Navy firearms, and the 1859 Manhattan Navy was the result. However, the design of the Manhattan revolver was so close to that of the Colt Navy that Colt sued and forced production of the Manhattan Navy to cease. However, by then, 80,000 Manhattan Navy revolvers had been produced, and they can now be found all across the West.
 
-**Metropolitan Navy 1864** : In 1864, at the height of the Civil War, Colt’s production facilities were destroyed by fire, with US government contracts waiting to be
-
-fulfilled. The Metropolitan Arms Company of New York stepped in and started producing the Metropolitan Navy based on Colt’s designs. The revolver they produced was every bit as good as the original, and the gun saw action in the Civil War.
+**Metropolitan Navy 1864** : In 1864, at the height of the Civil War, Colt’s production facilities were destroyed by fire, with US government contracts waiting to be fulfilled. The Metropolitan Arms Company of New York stepped in and started producing the Metropolitan Navy based on Colt’s designs. The revolver they produced was every bit as good as the original, and the gun saw action in the Civil War.
 
 **Remington 1858** : Remington posted the patent for their revolver in 1858, but production didn’t start until 1861. Sales of the revolver were boosted by the Colt factory fire in 1864, and large numbers of the Remington 1858 were ordered by the US government. It remained in service until 1873. Powerful and durable, the Remington is well respected by those who know their firearms.
 
@@ -529,7 +521,7 @@ fulfilled. The Metropolitan Arms Company of New York stepped in and started prod
 
 **Deringer** : The Deringer, sometimes mis-spelled Derringer, is a small, palm-sized pistol that is easy to conceal in a pocket, a boot top, or even up a sleeve. It gained infamy as the weapon used in the assassination of Abraham Lincoln in 1865. It has a very short effective range, and is usually a single-shot gun, but some variants have more than one barrel.
 
-**Ri f les , s h o t gu n s a n d  bo w s**
+### Rifles, Shotguns and Bows
 
 Attack Weapon Action Mod Dam Crit Range Qualities Ammo Wt Cost Standard Rifle Lever 0 2 1 L* - 12 1 $16 CALIBRATED Breech +1 3 1 D* 1 1 $35 POWERFUL Sharps Rifle 1874 PIERCING SIGHTS POWERFUL Spencer Carbine Lever 0 3 1 L* 7 1 $22 CALIBRATED Winchester Model 1866 Lever +1 2 1 L* 15 1 $25 RELIABLE Winchester Model 1873 Lever +2 2 1 L* 15 1 $35 CALIBRATED Standard Shotgun Breech +1 3 3 M* - 2 1 $12 RELIABLE Hartford Coachgun Breech +1 3 2 S* SAWN-OFF 2 1 $25 Roper Repeating Shotgun Lever +1 3 3 M* HARD TO  4 1 $25 LOAD SAWN-OFF Wells Fargo Coachgun Breech +2 4 3 S* POWERFUL 2 1 $25 PIERCING Standard Bow Special 0 1 1 M* N/A ½  N/A PIERCING Quality Bow Special +1 2 1 L* N/A ½  N/A
 
@@ -563,21 +555,15 @@ Attack Weapon Mod Dam Crit Range Qualities Ammo Wt Cost Bullwhip 0 1 4 N* - N/A 
 
 **Bullwhip** : Single-tailed bullwhips made of braided leather were common in the Old West. As the name suggests, they were used to drive cattle or a team of horses pulling a wagon or carriage. To use a bullwhip you use the LIGHT-FINGERED ability. It does damage and can cause injury, but the real advantage of the bullwhip is when you want to make a Called Strike against an enemy: making a Called Strike with a bullwhip only brings a −2 penalty instead of −3.
 
-**Cavalry Sword** : Originally used by cavalrymen, the 1860 Light Cavalry Saber became popular among infantry and senior officers during the Civil War. Made of steel and brass, they are ubiquitous across
-
-the Old West, often personalized with bespoke engravings and gilding.
+**Cavalry Sword** : Originally used by cavalrymen, the 1860 Light Cavalry Saber became popular among infantry and senior officers during the Civil War. Made of steel and brass, they are ubiquitous across the Old West, often personalized with bespoke engravings and gilding.
 
 **Lance (Wahúkeza)** : A traditional weapon used on the plains, there are many different types and styles of lance. A lance can be the height of a man, or much longer. Used as a stabbing weapon in warfare and hunting, many lances are sacred, visible statements of the achievements of the warrior, and are held in great reverence.
 
-**Lasso** : The lasso, la reata, or lariat, is a highly specialized piece of equipment. Made of stiffened rope, so the noose remains open when thrown, lassos came to the west with the Mexican vaqueros, from whose
-
-ancestors it was first developed. Using it to bring down a horse, a steer or a man is all about ANIMAL HANDLIN’—you use that ability when lassoing any target. Learn more on page 71.
+**Lasso** : The lasso, la reata, or lariat, is a highly specialized piece of equipment. Made of stiffened rope, so the noose remains open when thrown, lassos came to the west with the Mexican vaqueros, from whose ancestors it was first developed. Using it to bring down a horse, a steer or a man is all about ANIMAL HANDLIN’—you use that ability when lassoing any target. Learn more on page 71.
 
 **Tomahawk** : The tomahawk is a traditional weapon of many Native tribes and communities. Originally an all-purpose tool, the hatchet-style tomahawk is used as a close-fighting weapon that can also be thrown. Initially crafted with stone or bone heads on a wooden shaft, the tomahawks of the 1870s are often crafted with iron or steel.
 
-**Dynamite** : Dynamite can be highly effective but is a dangerous explosive, especially to those without the know-how to use it safely. Widely used for mining and land clearance, some bad folks use it to blow up things they shouldn’t. It can even be thrown, if you’re willing to take the risk. Handling dynamite requires
-
-the OPERATE ability. Learn more on page 83.
+**Dynamite** : Dynamite can be highly effective but is a dangerous explosive, especially to those without the know-how to use it safely. Widely used for mining and land clearance, some bad folks use it to blow up things they shouldn’t. It can even be thrown, if you’re willing to take the risk. Handling dynamite requires the OPERATE ability. Learn more on page 83.
 
 ### Weapon Qualities & Conditions
 
@@ -585,7 +571,7 @@ Weapons may possess a range of qualities that offer different bonuses as well as
 
 Conditions reduce the effectiveness of your weapon, and may even break the weapon completely. These arise as a result of Trouble, but can be repaired with a Shift of effort, by a character with the **gunsmith** , **smith** , or **bowyer** talents, using their MAKIN’ ability.
 
-**wea p on qu a l i t i e s -  r a n ge d**
+### Weapon Qualities - Ranged
 
 Weapon Quality Impact Pistol CALIBRATED The weapon is so well calibrated its aim is true. Gain +1 bonus to the weap on’s Attack modifier Small and compact, a pistol with this quality is easily concealed about Pistol CONCEALABLE your person. Those trying to spot it get a −1 penalty on their HAWK- EYE test.
 Pistol FANNING The gun is ideal for fanning. You gain a +1 bonus to your SHOOTIN’ ability when fanning with this weapon.
@@ -603,9 +589,9 @@ Any POWERFUL The weapon packs a real punch. Grants +1 to the weapon’s Damage.
 Tough and sturdy, this weapon is reliable and just doesn’t break. If Any RELIABLE Trouble is rolled while using this weapon, the amount of Trouble is reduced by 1, to a minimum of 1.
 A short-barreled shotgun is deadly in close quarters, but terrible further Shotgun SAWN-OFF away. Grants a +1 bonus to SHOOTIN’ but the maximum range is Short.
 
-W e lls Fa rgo  C o ach gun
+**Wells Fargo Coachgun**
 
-**W ea p on qu a l i t i e s -  m e l e e**
+### Weapon Qualities - Melee
 
 Weapon Quality Impact Any BALANCED The weapon sits well in your hand and helps you make the blow. Grants a +1 bonus to FIGHTIN’.
 Any FORGIVING The weapon is reliable and easy to use. You can ignore one die of Trou-ble on your first roll when using this weapon as if you had spent a point of Faith (but not after a pushed roll).
@@ -667,7 +653,7 @@ D6 The damned cards Cheat Bluff Play 1 +3 0 −2 The deck is given’ you nothin
 2 +2 +1 −1 The cards are angry with you 3 Just about evens, but you’re not happy +1 +2 0 4 Just about evens, but it’s ok 0 +2 +1 5 −1 +1 +2 The deck is lovin’ you, givin’ you all you want!
 6 Aces high! You’re on a killin’ run! −2 0 +3
 
-C h oos e  y ou r  t ac t i c
+### Choose Your Tactic
 
 ### No Successes?
 
@@ -744,23 +730,17 @@ There are twelve breeds of horse available, as shown below. The stats in the tab
 
 **Appaloosa** : Bred by the expert Native American horse breeders of the Pacific northwest, the Appaloosa are renowned war and hunting horses. They are challenging to ride but have enormous stamina and are as tough as leather. They have a distinctive mottled color pattern that is unmistakable, and are rare across the West.
 
-A ppa l o o sa
-
 **Missouri Fox Trotter** : The Fox Trotters are excellent working horses, good for pulling a plow, hauling logs or working cattle over rough terrain. They are a popular breed, as they are easy to handle and can keep going at a decent pace for a long time, and are sought after by marshals, sheriffs, country doctors and all those in need of a comfortable ride.
 
 **Morgan** : Often used as cavalry mounts by both sides in the Civil War, Morgans are sleek horses with an excellent turn of pace. The Morgan was favored by the Pony Express, along with the Mustang. Although not so common by the 1870s the Morgan remains a horse of choice for those wanting a speedy steed.
 
-**Mustang** : America’s feral horses were an eclectic blend of multiple breeds brought to the new world over the previous centuries. Called “hot horses”
-
-because they love to run, Mustangs are notoriously hard to catch, but once broken and trained can be the most loyal and reliable of mounts.
+**Mustang** : America’s feral horses were an eclectic blend of multiple breeds brought to the new world over the previous centuries. Called “hot horses” because they love to run, Mustangs are notoriously hard to catch, but once broken and trained can be the most loyal and reliable of mounts.
 
 **Paint Horse or Pinto** : Favored by the Nermenuh (aka Comanche) for their hardiness and agility, they believe the Pintos bring magic to their riders through their coat patterns. Similar in many ways to the American Quarter, the Paint horse is versatile and widely spread across the Wild West.
 
 **Palomino** : The Palomino has a distinctive golden coat with a white mane and tail, and they are intelligent and gentle in nature. Their stunning colors make these horses among the most beautiful, and they are much sought after by wealthy owners as show horses, or just because they look a cut above the rest.
 
 **Tennessee Walker** : The Tennessee Walker originated in the late 18th century, when Narragansett and Canadian Pacer horses were bred with Mustangs on the plains of Tennessee. Sure-footed, they are used for a wide range of tasks, including farm work and racing.
-
-Am er ic a n s a d d l e b r e d
 
 | Horse ModifierRiding | Grit Quick Cunning Abilities Qualities Flaws |  |
 | --- | --- | --- |
@@ -786,9 +766,7 @@ Player characters will come across horses in a variety of ways: you may gain one
 
 1. Roll randomly or choose your breed of horse, and note the horse’s riding modifier, base attributes and abilities from the table on page 123.
 
-2. Note the qualities that are generic to that breed
-
-and roll for any additional qualities on the tables on page 125 & 126. Amend the base stats as necessary.
+2. Note the qualities that are generic to that breed and roll for any additional qualities on the tables on page 125 & 126. Amend the base stats as necessary.
 
 3. Do the same for any flaws your horse may have.
 
@@ -985,9 +963,7 @@ Pack: Damage 4, Crit 1, +3 bonus to attack rolls Scorpion— 1 - - 2 - - Sting: 
 
 **Mountain Lion** : The mountain lion is known by many names, including puma, cougar, panther, catamount and ghost lion. Extremely agile and expert climbers, they can be found all across the West. They are timid, preferring to avoid human contact where possible, although they gladly kill entire flocks of sheep given the chance.
 
-**Gray Wolf** : Also known as the timber wolf, the gray wolf is the largest canid in the West, growing up to five feet in length and weighing up to 80 lbs. They live in packs, typically up to twelve strong, and can be found anywhere in the West. Hunting in packs,
-
-they can easily take down a person if they should be foolish enough to be caught alone in the wilderness—whenever a victim is surrounded the wolf pack may make one Pack Attack, instead of individual Bites.
+**Gray Wolf** : Also known as the timber wolf, the gray wolf is the largest canid in the West, growing up to five feet in length and weighing up to 80 lbs. They live in packs, typically up to twelve strong, and can be found anywhere in the West. Hunting in packs, they can easily take down a person if they should be foolish enough to be caught alone in the wilderness—whenever a victim is surrounded the wolf pack may make one Pack Attack, instead of individual Bites.
 
 **Arizona Bark Scorpion** : Found in the southwestern US, the bark scorpion is about an inch and a half long and a golden-yellow or light brown in color. Their sting is very painful but the venom is only mortally dangerous to children or the elderly.
 
