@@ -1209,121 +1209,121 @@ The Old West is filled with all kinds of non-player characters, and here are jus
 **BORDELLO GIRL** — GRIT 3, QUICK 4, CUNNING 4, DOCITY 3
 LABOR 1, MOVE 1, HAWKEYE 1, PRESENCE 1, LIGHT-FINGERED 1, INSIGHT 2, RESILIENCE 1
 Charming, charismatic and hard working, the average working girl knows her mind and is working to find a better life, for herself and those she cares about.
-**Talents:** Calming Manner, Charming, Shill.
+**Talents:** CALMING MANNER, CHARMING, SHILL.
 **Gear:** Deringer pistol, deck of cards, tobacco.
 
 **BOUNTY HUNTER** — GRIT 5, QUICK 4, CUNNING 3, DOCITY 2
 PRESENCE 1, MOVE 1, HAWKEYE 2, INSIGHT 1
 ANIMAL HANDLIN’ 1 Dangerous and ruthless, bounty hunters make their living by tracking down wanted people—trading lives for money.
-**Talents:** Cold Blooded, Fast Shooter, Manhunter.
+**Talents:** COLD BLOODED, FAST SHOOTER, MANHUNTER.
 Gear: Revolver, rifle, length of rope.
 
 **CARD SHARP** — GRIT 3, QUICK 5, CUNNING 3, DOCITY 3
 PRESENCE 2, HAWKEYE 1, LIGHT-FINGERED 2, INSIGHT 2
 Charismatic, but you can always tell there’s more behind the smile. Every saloon has one, the fella looking to skim you out of your hard-earned.
-**Talents:** Gambler, Forger, Swindler.
+**Talents:** GAMBLER, FORGER, SWINDLER.
 **Gear:** Fancy clothes, revolver, deck of cards.
 
 **CATTLE BARON** — GRIT 3, QUICK 2, CUNNING 5, DOCITY 4
 PRESENCE 2, NATURE 1, RESILIENCE 1, INSIGHT 2
 BOOK LEARNIN’ 1
 ANIMAL HANDLIN’1 The cattle baron didn’t get where they are by kind words, but by ruthless business and strong-arming the competition.
-**Talents:** Authority, Business Minded, High Society.
+**Talents:** AUTHORITY, BUSINESS MINDED, HIGH SOCIETY.
 **Gear:** Fine cigars, hip flask, and a couple of gun hands.
 
 **COMANCHE WARRIOR** — GRIT 4, QUICK 3, CUNNING 4, DOCITY 3
 PRESENCE 1, MOVE 1, HAWKEYE 1, NATURE 1, RESILIENCE 1
 ANIMAL HANDLIN’1 Greatly feared, Comanche warriors fight to drive the settlers from their land. Brave and fearsome fighters, their tactics can be vicious and cruel.
-**Talents:** Bow Master, Horse Warrior, Tomahawk Fighter.
+**Talents:** BOW MASTER, HORSE WARRIOR, TOMAHAWK FIGHTER.
 **Gear:** Native weapons, rifle, wampum manuscripts.
 
 **DOCTOR** — GRIT 3, QUICK 3, CUNNING 3, DOCITY 5
 LABOR 1, MOVE 1, INSIGHT 1, PRESENCE 1, LIGHT-FINGERED 1, RESILIENCE 1
 Whether they’re college trained from the east, or a dusty old soul who learned on the job, just hope they have a steady hand.
-**Talents:** Authority, Healing Touch, Herbalist.
+**Talents:** AUTHORITY, HEALING TOUCH, HERBALIST.
 **Gear:** Doctoring bag, journal, bottle of whiskey.
 
 **ENGINEER/MINER** — GRIT 5, QUICK 4, CUNNING 2, DOCITY 3
 LABOR 2, MOVE 1, NATURE 1, RESILIENCE 1, OPERATE 3
 ANIMAL HANDLIN’ 1 Greasy and grimy, the railway folk, blacksmiths, and miners are hard at work behind the soot that covers their faces. This work is dangerous, but not to these people.
-**Talents:** Engineer, Miner 49er, Smith.
+**Talents:** ENGINEER, MINER 49ER, SMITH.
 Gear: Dirty overalls, panning equipment, dynamite.
 
 **HOMESTEADER** — GRIT 4, QUICK 3, CUNNING 4, DOCITY 3
 LABOR 2, NATURE 2, RESILIENCE 1
 The farming life is all toil and sweat, backbreaking honest work. And the farmer doesn’t ask for much—but what they have they fiercely protect.
-**Talents:** Brawler, Companion, Shotgun Master.
+**Talents:** BRAWLER, COMPANION, SHOTGUN MASTER.
 **Gear:** Farming tools, shotgun, and a wagon.
 
 **JUDGE/LAWYER** — GRIT 3, QUICK 3, CUNNING 3, DOCITY 5
 PRESENCE 2, HAWKEYE 1, RESILIENCE 1, INSIGHT 2
 BOOK LEARNIN’ 2
 Knowledge of the law looks like black magic to a lot of folk. Lawyers and judges are needed, but must be trusted—not all live up to that trust.
-**Talents:** Authority, Judge of Character, Lawyer.
+**Talents:** AUTHORITY, JUDGE OF CHARACTER, LAWYER.
 **Gear:** Law journals, writing materials, fancy hat.
 
 **OUTLAW** — GRIT 4, QUICK 5, CUNNING 3, DOCITY 2
 PRESENCE 2, MOVE 1, HAWKEYE 1
 PERFORMIN’ 1, FIGHTIN’ 2, SHOOTIN’ 2
 ANIMAL HANDLIN’1 Dangerous and often desperate, outlaws are always ready to go for their guns to steal a big haul or escape the law.
-**Talents:** Dead Eye, Haymaker, Two Gun.
+**Talents:** DEAD EYE, HAYMAKER, TWO GUN.
 **Gear:** Two revolvers, rifle, bullet-ridden wanted poster of themselves.
 
 **PINKERTON** — GRIT 4, QUICK 3, CUNNING 4, DOCITY 3
 PRESENCE 1, MOVE 1, HAWKEYE 1, NATURE 1, INSIGHT 2
 Feared across the west, the Pinkerton investigators are relentless in their pursuit of their objective, and will use anyone and anything to get what they want.
-**Talents:** Charming, Lawyer, Rabble Rouser.
+**Talents:** CHARMING, LAWYER, RABBLE ROUSER.
 **Gear:** Slick suit, revolver, plenty of cash for bribes.
 
 **PONY EXPRESS RIDER** — GRIT 3, QUICK 4, CUNNING 5, DOCITY 2
 RESILIENCE 1, MOVE 2, HAWKEYE 2, NATURE 1
 ANIMAL HANDLIN’ 3 It’s a deadly job, but it pays well. Only the best riders get to ride the Pony Express, and they are usually young—too stupid to know better.
-**Talents:** Born in the Saddle, Lightning Fast, Lucky.
+**Talents:** BORN IN THE SADDLE, LIGHTNING FAST, LUCKY.
 Gear: Weathered saddlebags, revolver, rope.
 
 **PREACHER** — GRIT 3, QUICK 3, CUNNING 4, DOCITY 4
 LABOR 1, MOVE 1, INSIGHT 2, PRESENCE 1
 DOCTORIN’ 1, BOOK LEARNIN’ 1
 Extolling the word of the Lord from a street corner, saloon bar, or even a church, preachers are usually seen as better folk than the rabble. But they don’t always turn out that way.
-**Talents:** High Society, Rabble Rouser, The Voice.
+**Talents:** HIGH SOCIETY, RABBLE ROUSER, THE VOICE.
 Gear: Dog collar, battered copy of the bible, and a donation box.
 
 **RANCH HAND/VAQUERO** — GRIT 4, QUICK 4, CUNNING 4, DOCITY 2
 LABOR 1, MOVE 1, HAWKEYE 1, NATURE 1, LIGHT-FINGERED 1, RESILIENCE 1
 Horses, ropes, lassos, and a herd of cattle—that about sums up the rancher life. Well, except for the rowdy saloons, drunken carousing, and bar fights.
-**Talents:** Bronc Buster, Companion, Roper.
+**Talents:** BRONC BUSTER, COMPANION, ROPER.
 **Gear:** Revolver, rifle, lasso.
 
 **SALOON PROPRIETOR** — GRIT 3, QUICK 4, CUNNING 4, DOCITY 3
 PRESENCE 2, HAWKEYE 1, INSIGHT 2
 BOOK LEARNIN’ 1
 It’s hard work to set up a popular saloon, with the drunk and rowdy folks like to cause a ruckus—takes a certain kind of man or woman to make a go of it.
-**Talents:** Business Minded, Charming, Guard Dog.
+**Talents:** BUSINESS MINDED, CHARMING, GUARD DOG.
 **Gear:** Dirty apron, shotgun, the best whiskey in the house.
 
 **SHERIFF/MARSHAL** — GRIT 4, QUICK 4, CUNNING 3, DOCITY 3
 PRESENCE 1, MOVE 1, HAWKEYE 2, INSIGHT 1
 DOCTORIN’ 1
 You know the type—calm, quietly spoken, fast with the gun, and public spirited. Well, usually.
-**Talents:** Authority, Pistoleer, War Cry.
+**Talents:** AUTHORITY, PISTOLEER, WAR CRY.
 **Gear:** Pair of pistols and Lawdog holsters, ornate pipe, and a badge.
 
 **STAGECOACH GUARD** — GRIT 4, QUICK 4, CUNNING 4, DOCITY 3
 PRESENCE 2, HAWKEYE 2, INSIGHT 1, RESILIENCE 1
 Dependable and good with a shotgun, these folk ride from place to place, ready to protect your mail bag or your niece coming in from outta town.
-**Talents:** Pugilist, Shotgun Master, Survivor.
+**Talents:** PUGILIST, SHOTGUN MASTER, SURVIVOR.
 Gear: Shotgun, key to the strongbox, bottle of whiskey.
 
 **TRACKER/HUNTER** — GRIT 4, QUICK 3, CUNNING 5, DOCITY 2
 HAWKEYE 2, RESILIENCE 2, NATURE 3
 ANIMAL HANDLIN’ 1 Living a life in the wilderness, these folk disappear for weeks on end, no one able to find them if they tried.
 Then one day they just turn up, back in town.
-**Talents:** Man’s Best Friend, Mountain Folk, Sharpshooter.
+**Talents:** MAN’S BEST FRIEND, MOUNTAIN FOLK, SHARPSHOOTER.
 Gear: Warm furs, rifle, camping gear.
 
 **TRADER/SHOPKEEPER** — GRIT 3, QUICK 3, CUNNING 4, DOCITY 4
 PRESENCE 1, OPERATE 1, HAWKEYE 1, LIGHT-FINGERED 1, INSIGHT 2
 MAKIN’ 2
 Sweaty from the steam or heat of the fire, or grimy from whatever it is they make and sell, traders trade in just about anything.
-**Talents:** Business Minded, Gunsmith, Shill.
+**Talents:** BUSINESS MINDED, GUNSMITH, SHILL.
 **Gear:** Tools of the trade, revolver, and a hard-working apprentice.

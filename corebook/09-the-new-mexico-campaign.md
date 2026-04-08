@@ -97,7 +97,7 @@ It’s Spring 1873 and trouble is brewing in Santa Fe. Clarence King knows a fac
 **CLARENCE KING** — GRIT 4, QUICK 3, CUNNING 4, DOCITY 4
 PRESENCE 4, HAWKEYE 2, RESILIENCE 2, INSIGHT 4
 BOOKLEARNIN’ 3
-**Talents:** Authority (Advanced), Charming (Advanced), Cold Blooded (Advanced), Business Minded (Advanced), High Society (Advanced).
+**Talents:** AUTHORITY (Advanced), CHARMING (Advanced), COLD BLOODED (Advanced), BUSINESS MINDED (Advanced), HIGH SOCIETY (Advanced).
 
 | Weapon | Action | Draw Mod | Attack Mod | Damage | Critical | Range | Ammo |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -142,7 +142,7 @@ King has two families on his payroll in Jornada Springs: the Raeburns and the Mc
 
 **PHELIM QUINLIVAN** — GRIT 4, QUICK 4, CUNNING 3, DOCITY 3
 LABOR 3, INSIGHT 3, PRESENCE 4, MOVE 2, RESILIENCE 2
-**Talents:** Authority (Basic), Brawler (Advanced), Haymaker (Advanced), High Society (Basic), Knife Fighter (Advanced), Rabble Rouser (Advanced).
+**Talents:** AUTHORITY (Basic), BRAWLER (Advanced), HAYMAKER (Advanced), HIGH SOCIETY (Basic), KNIFE FIGHTER (Advanced), RABBLE ROUSER (Advanced).
 
 | Weapon | Action | Draw Mod | Attack Mod | Damage | Critical | Range | Ammo |
 | --- | --- | --- | --- | --- | --- | --- | --- |

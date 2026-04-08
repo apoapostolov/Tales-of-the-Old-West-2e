@@ -328,7 +328,7 @@ Finally choose two of the four pieces of gear listed with each archetype, roll y
 
 > _However, being a youngster, Ryan only gets 2 additional points to spend on abilities. As he cannot increase any ability above 3, he adds a point to SHOOTIN’, taking that to 3—he wants his character to be good with a gun—and adds his second point to INSIGHT, so his character can read an opponents’ mood._
 
-> _Ryan only gets to choose one of the three talents and selects_ **quickdraw** _, in keeping with his idea of a gunfighter._
+> _Ryan only gets to choose one of the three talents and selects_ **QUICK DRAW** _, in keeping with his idea of a gunfighter._
 
 > _Reading the Big Dreams, he likes the idea that his character hails from Boston, and had a run-in with the Pinkertons, so chooses the Revenge Big Dream. He also decides that his character is Catholic and chooses the Faith that reads: “You know that before you die you will confess your sins and repent”._
 
@@ -340,9 +340,7 @@ Finally choose two of the four pieces of gear listed with each archetype, roll y
 
 As camps become communities, and communities become towns, they attract a different sort of traveler, bringing “civilization” to these wild lands. Artists, photographers, journalists and authors record the new frontier, while entertainers, preachers and teachers bring culture, building bridges between diverse communities. Many others—doctors, telegraph operators, bankers, brokers, business investors, dilettante travelers, federal officials, and local politicians—all add to this melting pot of opportunity and hope.
 
-**Attributes:** Grit 2, Quick 2, Cunning 2, Docity 3
-
-| Grit       |     | Quick          |     | Cunning         |     | Docity       |     |
+| Grit       | 2   | Quick          | 2   | Cunning         | 2   | Docity       | 3   |
 | ---------- | --- | -------------- | --- | --------------- | --- | ------------ | --- |
 | Fightin'   | —   | Light-Fingered | —   | Animal Handlin' | —   | Booklearnin' | 2   |
 | Labor      | —   | Move           | —   | Hawkeye         | —   | Doctorin'    | 1   |
@@ -351,10 +349,10 @@ As camps become communities, and communities become towns, they attract a differ
 
 Choose between one and three of these talents, depending on your age:
 
-- **calming manner** . You reassure troubled minds just with the calm in your voice. With a successful PRESENCE test you can calm those around you, and even yourself, healing 1 point of Vexes or Doubts for every success. This talent also allows you to help a DOCTORIN’ roll without having that ability.
-- **healing touch** . You’re a natural healer. When you successfully heal a Broken person you double the number of attribute points that are restored.
-- **high society** . You move in exalted circles. You know who to talk to and what their dirty secrets are. Gain a +1 bonus to PERFORMIN’ when talking to anyone where Fame or social standing might have a bearing.
-- **the voice** . You have a beautiful singing voice or a way of speaking that gets people listening. You can use PERFORMIN’ to draw the attention of everyone within Short range. They stop what they are doing and listen for D6 Rounds.
+- **CALMING MANNER** . You reassure troubled minds just with the calm in your voice. With a successful PRESENCE test you can calm those around you, and even yourself, healing 1 point of Vexes or Doubts for every success. This talent also allows you to help a DOCTORIN’ roll without having that ability.
+- **HEALING TOUCH** . You’re a natural healer. When you successfully heal a Broken person you double the number of attribute points that are restored.
+- **HIGH SOCIETY** . You move in exalted circles. You know who to talk to and what their dirty secrets are. Gain a +1 bonus to PERFORMIN’ when talking to anyone where Fame or social standing might have a bearing.
+- **THE VOICE** . You have a beautiful singing voice or a way of speaking that gets people listening. You can use PERFORMIN’ to draw the attention of everyone within Short range. They stop what they are doing and listen for D6 Rounds.
 - You want to see European culture bring peace and civility to the west.
 - You want to build a church and a congregation to save the souls of the faithful.
 - If you could only run this town it could become a shining city on the hill.
@@ -378,9 +376,7 @@ Choose between one and three of these talents, depending on your age:
 
 Not all criminals were outlaws and shootists ambushing travelers and trains—the west is a lawless place where it’s easy to hide in plain sight. Grifters work in saloons and on the streets. Being a cardsharp or snake oil salesman can give you a comfortable life, with less chance of getting hanged.
 
-**Attributes:** Grit 2, Quick 2, Cunning 3, Docity 2
-
-| Grit       |     | Quick          |     | Cunning         |     | Docity       |     |
+| Grit       | 2   | Quick          | 2   | Cunning         | 3   | Docity       | 2   |
 | ---------- | --- | -------------- | --- | --------------- | --- | ------------ | --- |
 | Fightin'   | —   | Light-Fingered | 2   | Animal Handlin' | —   | Booklearnin' | —   |
 | Labor      | —   | Move           | —   | Hawkeye         | —   | Doctorin'    | —   |
@@ -389,10 +385,10 @@ Not all criminals were outlaws and shootists ambushing travelers and trains—th
 
 Choose between one and three of these talents, depending on your age:
 
-- **swindler** . You are a cheat and a swindler. You gain a +1 bonus for any tests when scamming or cheating someone. This includes cheating while gambling.
-- **lockpicker** . You have mastered the art of picking locks, but need some sort of tool. Your LIGHT-FINGERED roll is modified by +1 when you pick a lock.
-- **gambler** . You are an expert at every kind of card game, and know how to win any which way. Choose a Gambling Tactic and gain a +1 bonus in that Tactic.
-- **shill** . A friendly face in the crowd. You can act as the shill for another, and give +2 dice of assistance rather than +1 when helping them cheat, swindle or scam.
+- **SWINDLER** . You are a cheat and a swindler. You gain a +1 bonus for any tests when scamming or cheating someone. This includes cheating while gambling.
+- **LOCKPICKER** . You have mastered the art of picking locks, but need some sort of tool. Your LIGHT-FINGERED roll is modified by +1 when you pick a lock.
+- **GAMBLER** . You are an expert at every kind of card game, and know how to win any which way. Choose a Gambling Tactic and gain a +1 bonus in that Tactic.
+- **SHILL** . A friendly face in the crowd. You can act as the shill for another, and give +2 dice of assistance rather than +1 when helping them cheat, swindle or scam.
 - You want to get one up on the Pinkertons and keep them off your trail for the rest of your life.
 - You want to build your own casino, where the house always wins.
 
@@ -417,9 +413,7 @@ Choose between one and three of these talents, depending on your age:
 
 If you work the land for five years and build a house with glass in the windows, then it’s yours. This is the land of opportunity—160 acres of virgin soil you can hand down to your family. Yeah, all you got is a sod house right now, but with hard work you can cut out a life for you and your descendants—far more than your ancestors could ever have hoped for under the bootheel of oppression back in your homeland.
 
-**Attributes:** Grit 3, Quick 2, Cunning 2, Docity 2
-
-| Grit       |     | Quick          |     | Cunning         |     | Docity       |     |
+| Grit       | 3   | Quick          | 2   | Cunning         | 2   | Docity       | 2   |
 | ---------- | --- | -------------- | --- | --------------- | --- | ------------ | --- |
 | Fightin'   | —   | Light-Fingered | —   | Animal Handlin' | 2   | Booklearnin' | —   |
 | Labor      | 2   | Move           | —   | Hawkeye         | —   | Doctorin'    | 1   |
@@ -428,10 +422,10 @@ If you work the land for five years and build a house with glass in the windows,
 
 Choose between one and three of these talents, depending on your age:
 
-- **companion** . Your horse is your closest companion (when it dies you lose this talent, but can take it again at half price when you get a new horse). Your horse gains the LOYAL quality and will stand by your side and defend you if you’re Broken (this can take your horse’s total qualities over the normal maximum).
-- **survivor** . You will survive. You are so rugged you can shake off damage from Shakes and Hurts. Each time you suffer damage roll a number of dice equal to your Grit divided by 2 (round up)—the damage is reduced by 1 per success.
-- **smith.** You know the art of hammering coarse iron into lethal blades, horseshoes and more. You can use the MAKIN’ ability to make and repair any metal tool or melee weapon with normal stats.
-- **shotgun master** . You are unrivaled when it comes to using a shotgun, and always have one near to hand. As a free action you can use the butt of your shotgun to beat off an enemy at Arm’s Length. With a successful FIGHTIN’ roll, you push them to Near range.
+- **COMPANION** . Your horse is your closest companion (when it dies you lose this talent, but can take it again at half price when you get a new horse). Your horse gains the LOYAL quality and will stand by your side and defend you if you’re Broken (this can take your horse’s total qualities over the normal maximum).
+- **SURVIVOR** . You will survive. You are so rugged you can shake off damage from Shakes and Hurts. Each time you suffer damage roll a number of dice equal to your Grit divided by 2 (round up)—the damage is reduced by 1 per success.
+- **SMITH** You know the art of hammering coarse iron into lethal blades, horseshoes and more. You can use the MAKIN’ ability to make and repair any metal tool or melee weapon with normal stats.
+- **SHOTGUN MASTER** . You are unrivaled when it comes to using a shotgun, and always have one near to hand. As a free action you can use the butt of your shotgun to beat off an enemy at Arm’s Length. With a successful FIGHTIN’ roll, you push them to Near range.
 
 **Big Dream** - choose from one of the options below or decide for yourself:
 
@@ -456,9 +450,7 @@ Choose between one and three of these talents, depending on your age:
 
 America is built upon the strength of your back and the sweat of your brow. You may be a navigator laying steel tracks across the continent, or a miner digging up its bounty. You are not rich, and you might not be over-burdened with education, but your work is honest.
 
-**Attributes:** Grit 3, Quick 2, Cunning 2, Docity 2
-
-| Grit       |     | Quick          |     | Cunning         |     | Docity       |     |
+| Grit       | 3   | Quick          | 2   | Cunning         | 2   | Docity       | 2   |
 | ---------- | --- | -------------- | --- | --------------- | --- | ------------ | --- |
 | Fightin'   | 1   | Light-Fingered | —   | Animal Handlin' | —   | Booklearnin' | —   |
 | Labor      | 2   | Move           | —   | Hawkeye         | —   | Doctorin'    | —   |
@@ -467,10 +459,10 @@ America is built upon the strength of your back and the sweat of your brow. You 
 
 Choose between one and three of these talents, depending on your age:
 
-- **miner 49er** . You are experienced in handling dangerous explosives. You can recognize sweating dynamite and other danger signs. Treat Trouble on dynamite ability rolls as normal (unlike the rule on page 83 the Trouble is not activated unless the roll is pushed).
-- **pugilist** . You are an expert fist fighter. In hand-to-hand fighting you can anticipate your enemy’s every move, and swap your initiative card with an opponent you are actively fighting.
-- **rabble rouser** . You know how to rile up a crowd or get a posse angry. You do not suffer from the penalty to PERFORMIN’ when trying to influence a crowd that outnumbers you.
-- **sneak** . You are sneaky. You gain +1 bonus to any rolls that relate to sneaking and hiding.
+- **MINER 49ER** . You are experienced in handling dangerous explosives. You can recognize sweating dynamite and other danger signs. Treat Trouble on dynamite ability rolls as normal (unlike the rule on page 83 the Trouble is not activated unless the roll is pushed).
+- **PUGILIST** . You are an expert fist fighter. In hand-to-hand fighting you can anticipate your enemy’s every move, and swap your initiative card with an opponent you are actively fighting.
+- **RABBLE ROUSER** . You know how to rile up a crowd or get a posse angry. You do not suffer from the penalty to PERFORMIN’ when trying to influence a crowd that outnumbers you.
+- **SNEAK** . You are sneaky. You gain +1 bonus to any rolls that relate to sneaking and hiding.
 
 **Big Dream** - choose from one of the options below or decide for yourself:
 
@@ -495,9 +487,7 @@ Choose between one and three of these talents, depending on your age:
 
 There’s a thin line between outlaw and lawman. Whose law are you enforcing? Did you incite riots to break the unions with the Pinkertons back east? Are you a Texas Ranger enforcing the interests of Anglos over Tejanos? Are you a deputy marshal tracking fugitives, or a town sheriff?
 
-**Attributes:** Grit 3, Quick 2, Cunning 2, Docity 2
-
-| Grit       |     | Quick          |     | Cunning         |     | Docity       |     |
+| Grit       | 3   | Quick          | 2   | Cunning         | 2   | Docity       | 2   |
 | ---------- | --- | -------------- | --- | --------------- | --- | ------------ | --- |
 | Fightin'   | 2   | Light-Fingered | —   | Animal Handlin' | 1   | Booklearnin' | —   |
 | Labor      | —   | Move           | 1   | Hawkeye         | —   | Doctorin'    | —   |
@@ -506,10 +496,10 @@ There’s a thin line between outlaw and lawman. Whose law are you enforcing? Di
 
 Choose between one and three of these talents, depending on your age:
 
-- **authority** . You have the weight of authority on your side, whether from the law, the big man in town or just your own personality. You gain a +1 bonus to PRESENCE tests.
-- **horse warrior** . You are trained in fighting from a moving horse. You get a +1 bonus to all attacks from a mount.
-- **judge of character** . You can read other people like a book and smell a lie a mile off. You get a +1 bonus to INSIGHT tests to see if someone is lying or trying to pull the wool over your eyes.
-- **manhunter** . You have spent years chasing down your quarry. You gain a +1 bonus to HAWKEYE when tracking your quarry across the wilderness.
+- **AUTHORITY** . You have the weight of authority on your side, whether from the law, the big man in town or just your own personality. You gain a +1 bonus to PRESENCE tests.
+- **HORSE WARRIOR** . You are trained in fighting from a moving horse. You get a +1 bonus to all attacks from a mount.
+- **JUDGE OF CHARACTER** . You can read other people like a book and smell a lie a mile off. You get a +1 bonus to INSIGHT tests to see if someone is lying or trying to pull the wool over your eyes.
+- **MANHUNTER** . You have spent years chasing down your quarry. You gain a +1 bonus to HAWKEYE when tracking your quarry across the wilderness.
 
 **Big Dream** - choose from one of the options below or decide for yourself:
 
@@ -537,9 +527,7 @@ Choose between one and three of these talents, depending on your age:
 
 The west can be a lawless place where it is easy to make your living taking from others. You just need to keep one step ahead of the law, if it ever comes after you. All sorts of outlaws and shootists find hideouts from which to ambush travelers and trains.
 
-**Attributes:** Grit 2, Quick 3, Cunning 2, Docity 2
-
-| Grit       |     | Quick          |     | Cunning         |     | Docity       |     |
+| Grit       | 2   | Quick          | 3   | Cunning         | 2   | Docity       | 2   |
 | ---------- | --- | -------------- | --- | --------------- | --- | ------------ | --- |
 | Fightin'   | 2   | Light-Fingered | —   | Animal Handlin' | 2   | Booklearnin' | —   |
 | Labor      | —   | Move           | 1   | Hawkeye         | —   | Doctorin'    | —   |
@@ -548,10 +536,10 @@ The west can be a lawless place where it is easy to make your living taking from
 
 Choose between one and three of these talents, depending on your age:
 
-- **cold blooded** . You are completely callous and can kill defenseless enemies without so much as a second’s hesitation. You can perform a coup de grace without needing to make a Docity test, but you still lose a point of Docity.
-- **quick draw** . You draw your weapon faster than your enemy can blink. Once per Round you can draw a one-handed weapon without spending an action. This includes picking up a weapon from the ground. You also gain a +1 bonus to your Draw roll during a duel.
-- **knife fighter** . You are lethal with a knife in hand. Gain a +1 bonus to your FIGHTIN’ rolls when you fight with a knife in your hand.
-- **two gun** . An expert with the iron, you can use one gun in each hand. You can draw two pistols with one fast action, and use your second pistol in your off hand to perform an extra Quick Shot attack per Round. This attack gets an extra −2 penalty on top of the −2 penalty for the Quick Shot itself (−4 in total).
+- **COLD BLOODED** . You are completely callous and can kill defenseless enemies without so much as a second’s hesitation. You can perform a coup de grace without needing to make a Docity test, but you still lose a point of Docity.
+- **QUICK DRAW** . You draw your weapon faster than your enemy can blink. Once per Round you can draw a one-handed weapon without spending an action. This includes picking up a weapon from the ground. You also gain a +1 bonus to your Draw roll during a duel.
+- **KNIFE FIGHTER** . You are lethal with a knife in hand. Gain a +1 bonus to your FIGHTIN’ rolls when you fight with a knife in your hand.
+- **TWO GUN** . An expert with the iron, you can use one gun in each hand. You can draw two pistols with one fast action, and use your second pistol in your off hand to perform an extra Quick Shot attack per Round. This attack gets an extra −2 penalty on top of the −2 penalty for the Quick Shot itself (−4 in total).
 
 **Big Dream** - choose from one of the options below or decide for yourself:
 
@@ -576,9 +564,7 @@ Choose between one and three of these talents, depending on your age:
 
 You can see something others can’t—the riches in the ground. Well, you can’t see them yet, but you know they are there. All you need to do to strike it rich is pan enough streams, dig enough holes, or if you are more scientifically minded, survey enough geography.
 
-**Attributes:** Grit 2, Quick 2, Cunning 3, Docity 2
-
-| Grit       |     | Quick          |     | Cunning         |     | Docity       |     |
+| Grit       | 2   | Quick          | 2   | Cunning         | 3   | Docity       | 2   |
 | ---------- | --- | -------------- | --- | --------------- | --- | ------------ | --- |
 | Fightin'   | —   | Light-Fingered | —   | Animal Handlin' | —   | Booklearnin' | 1   |
 | Labor      | 2   | Move           | —   | Hawkeye         | —   | Doctorin'    | —   |
@@ -587,10 +573,10 @@ You can see something others can’t—the riches in the ground. Well, you can�
 
 Choose between one and three of these talents, depending on your age:
 
-- **brawler** . You don’t need weapons to bring down your enemies. All your unarmed attacks and blocks have a +1 bonus.
-- **engineer** . You know how these new-fangled machines work, and are skilled at using and repairing them. You’re a natural with these new contraptions. You have the skills and knowledge to work as an engineer on a railroad or manufactory, and gain a +1 bonus to OPERATE when fixing machines.
-- **guard dog** . You have a loyal companion that stands by your side and will defend you to the death (when your dog dies you lose this talent, but can take it again at half price when you get a new dog). Your dog is big and dangerous, and growls to order. Gain a +1 bonus to your PRESENCE when intimidating someone alongside your dog.
-- **herbalist** . You have learned the healing ways of nature and the land and how they can be twisted with malicious intent. You are a healer, a druggist, or an apothecary. You can concoct healing elixirs and salves from herbs and plants, giving a +1 bonus to DOCTORIN’ tests. You can brew poisons with a Potency of 2.
+- **BRAWLER** . You don’t need weapons to bring down your enemies. All your unarmed attacks and blocks have a +1 bonus.
+- **ENGINEER** . You know how these new-fangled machines work, and are skilled at using and repairing them. You’re a natural with these new contraptions. You have the skills and knowledge to work as an engineer on a railroad or manufactory, and gain a +1 bonus to OPERATE when fixing machines.
+- **GUARD DOG** . You have a loyal companion that stands by your side and will defend you to the death (when your dog dies you lose this talent, but can take it again at half price when you get a new dog). Your dog is big and dangerous, and growls to order. Gain a +1 bonus to your PRESENCE when intimidating someone alongside your dog.
+- **HERBALIST** . You have learned the healing ways of nature and the land and how they can be twisted with malicious intent. You are a healer, a druggist, or an apothecary. You can concoct healing elixirs and salves from herbs and plants, giving a +1 bonus to DOCTORIN’ tests. You can brew poisons with a Potency of 2.
 
 **Big Dream** - choose from one of the options below or decide for yourself:
 
@@ -615,9 +601,7 @@ Choose between one and three of these talents, depending on your age:
 
 You have found a life in the saddle. You might be working in a stockyard or as a farm hand, or driving cattle across the plains. It hasn’t made you rich but it comes with two meals a day and a little money to spend in town.
 
-**Attributes:** Grit 2, Quick 3, Cunning 2, Docity 2
-
-| Grit       |     | Quick          |     | Cunning         |     | Docity       |     |
+| Grit       | 2   | Quick          | 3   | Cunning         | 2   | Docity       | 2   |
 | ---------- | --- | -------------- | --- | --------------- | --- | ------------ | --- |
 | Fightin'   | 1   | Light-Fingered | 2   | Animal Handlin' | 2   | Booklearnin' | —   |
 | Labor      | 2   | Move           | —   | Hawkeye         | —   | Doctorin'    | —   |
@@ -626,10 +610,10 @@ You have found a life in the saddle. You might be working in a stockyard or as a
 
 Choose between one and three of these talents, depending on your age:
 
-- **born in the saddle** . Riding comes as naturally to you as breathing does to the rest of them. You get +1 bonus to all ANIMAL HANDLING rolls that relate to horses.
-- **bronc buster** . You know how to handle and train horses. You can break and train wild horses, using the Training Your Horse rules.
-- **lightning fast** . You react with the speed of a snake. You draw two initiative cards instead of one during the initiative draw. Choose the one you want to use and discard the other.
-- **roper** . You are an expert with the lasso and get a +1 bonus to your ANIMAL HANDLIN’ roll when lassoing.
+- **BORN IN THE SADDLE** . Riding comes as naturally to you as breathing does to the rest of them. You get +1 bonus to all ANIMAL HANDLING rolls that relate to horses.
+- **BRONC BUSTER** . You know how to handle and train horses. You can break and train wild horses, using the Training Your Horse rules.
+- **LIGHTNING FAST** . You react with the speed of a snake. You draw two initiative cards instead of one during the initiative draw. Choose the one you want to use and discard the other.
+- **ROPER** . You are an expert with the lasso and get a +1 bonus to your ANIMAL HANDLIN’ roll when lassoing.
 
 **Big Dream** - choose from one of the options below or decide for yourself:
 
@@ -655,9 +639,7 @@ Choose between one and three of these talents, depending on your age:
 
 You love the big open sky and can tolerate the weather that it throws at you better than most. In the west you might be a Pony Express rider or stagecoach driver. Up north you might have been a hunter or trapper. You might be a soldier or scout. Or you might be more academic: a naturalist or cartographer.
 
-**Attributes:** Grit 2, Quick 2, Cunning 3, Docity 2
-
-| Grit       |     | Quick          |     | Cunning         |     | Docity       |     |
+| Grit       | 2   | Quick          | 2   | Cunning         | 3   | Docity       | 2   |
 | ---------- | --- | -------------- | --- | --------------- | --- | ------------ | --- |
 | Fightin'   | —   | Light-Fingered | 1   | Animal Handlin' | —   | Booklearnin' | —   |
 | Labor      | —   | Move           | —   | Hawkeye         | 2   | Doctorin'    | —   |
@@ -666,10 +648,10 @@ You love the big open sky and can tolerate the weather that it throws at you bet
 
 Choose between one and three of these talents, depending on your age:
 
-- **light-footed** . You walk like the spirits, and leave no trail behind you. You gain +1 bonus to your NATURE roll when you’re trying to avoid someone tracking you.
-- **mountainfolk** . You have lived your life in the mountains. Gain a +1 bonus to NATURE and RESILIENCE tests when in the wilderness.
-- **bow master** . The bow is the weapon of a true man from a more civilized culture. You can use a bow up to Long range with no penalties.
-- **tracker** . You know how to move, track and hunt. You are an expert tracker and get a +1 bonus when tracking in the wilderness.
+- **LIGHT-FOOTED** . You walk like the spirits, and leave no trail behind you. You gain +1 bonus to your NATURE roll when you’re trying to avoid someone tracking you.
+- **MOUNTAIN FOLK** . You have lived your life in the mountains. Gain a +1 bonus to NATURE and RESILIENCE tests when in the wilderness.
+- **BOW MASTER** . The bow is the weapon of a true man from a more civilized culture. You can use a bow up to Long range with no penalties.
+- **TRACKER** . You know how to move, track and hunt. You are an expert tracker and get a +1 bonus when tracking in the wilderness.
 
 **Big Dream** - choose from one of the options below or decide for yourself:
 
@@ -694,9 +676,7 @@ Choose between one and three of these talents, depending on your age:
 
 You are the engine that drives the westward expansion. There is money to be made here in all sorts of ways—you could be a hotelier or run a boarding house. You might work in a saloon, behind the bar or in the “upstairs rooms.” You might work with horses as a saddler or farrier. The options are only limited by your imagination and entrepreneurial spirit.
 
-**Attributes:** Grit 2, Quick 2, Cunning 3, Docity 2
-
-| Grit       |     | Quick          |     | Cunning         |     | Docity       |     |
+| Grit       | 2   | Quick          | 2   | Cunning         | 3   | Docity       | 2   |
 | ---------- | --- | -------------- | --- | --------------- | --- | ------------ | --- |
 | Fightin'   | —   | Light-Fingered | —   | Animal Handlin' | —   | Booklearnin' | 1   |
 | Labor      | 1   | Move           | —   | Hawkeye         | —   | Doctorin'    | —   |
@@ -705,10 +685,10 @@ You are the engine that drives the westward expansion. There is money to be made
 
 Choose between one and three of these talents, depending on your age:
 
-- **business minded** . Business is in your blood. You have great business acumen, and through your business strategy, good salesmanship or bad-mouthing the competition your business always does well. Your modifier for Competition is always +1 better than it should be, up to a maximum of +3.
-- **lawyer** . You may have gone to school, or learned your law over a lantern late at night, but you know your rights. You can add the number of successes from a BOOKLEARNIN’ roll (as a free action) as bonus dice to your PERFORMIN’ test when trying to influence someone by using your knowledge of the law or other official information.
-- **charming** . You are skilled in the arts of persuasion. You get +1 bonus to PERFORMIN’ when trying to charm, seduce or schmooze someone.
-- **lucky** . No matter how bad the odds, you always seem to get away unscathed. When you suffer a critical injury you can choose to reroll the Tens die and keep the best result.
+- **BUSINESS MINDED** . Business is in your blood. You have great business acumen, and through your business strategy, good salesmanship or bad-mouthing the competition your business always does well. Your modifier for Competition is always +1 better than it should be, up to a maximum of +3.
+- **LAWYER** . You may have gone to school, or learned your law over a lantern late at night, but you know your rights. You can add the number of successes from a BOOKLEARNIN’ roll (as a free action) as bonus dice to your PERFORMIN’ test when trying to influence someone by using your knowledge of the law or other official information.
+- **CHARMING** . You are skilled in the arts of persuasion. You get +1 bonus to PERFORMIN’ when trying to charm, seduce or schmooze someone.
+- **LUCKY** . No matter how bad the odds, you always seem to get away unscathed. When you suffer a critical injury you can choose to reroll the Tens die and keep the best result.
 
 **Big Dream** - choose from one of the options below or decide for yourself:
 

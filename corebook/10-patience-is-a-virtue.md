@@ -38,7 +38,7 @@ But today, Ellis is angry. As far as he is concerned, Patience has fallen for th
 | ---- | ----- | ------- | ------ | -------- | ------- | ------- | ---------- |
 | 4    | 3     | 5       | 3      | 3        | 2       | 2       | 1          |
 
-**Talents:** Authority (Advanced), Charming (Advanced), Cold Blooded (Basic), Business Minded (Advanced).
+**Talents:** AUTHORITY (Advanced), CHARMING (Advanced), COLD BLOODED (Basic), BUSINESS MINDED (Advanced).
 
 | Weapon             | Action | Draw Mod | Attack Mod | Damage | Critical | Range  | Ammo |
 | ------------------ | ------ | -------- | ---------- | ------ | -------- | ------ | ---- |
@@ -203,7 +203,7 @@ There are three ways this can play out, depending on what you feel works best fo
 | ---- | ----- | ------- | ------ | ------- | ---------- | ------ | ------- | --------------- |
 | 4    | 3     | 5       | 2      | 2       | 3          | 3      | 2       | 3               |
 
-**Talents:** Guard Dog (Advanced - Scarlet), Man’s Best Friend (Basic - Rebel), Light-Footed (Advanced).
+**Talents:** GUARD DOG (Advanced - Scarlet), MAN’S BEST FRIEND (Basic - Rebel), LIGHT-FOOTED (Advanced).
 
 | Weapon          | Action | Draw Mod | Attack Mod | Damage | Critical | Range | Ammo |
 | --------------- | ------ | -------- | ---------- | ------ | -------- | ----- | ---- |
@@ -252,7 +252,7 @@ It’s entirely up to the players how they want to try and resolve this situatio
 | 4    | 4     | 4       | 3      | 2        | 1    | 2       | 1          | 2        | 2        | 3               |
 
 Loyal and ruthless but intelligent. He’s more than just a thug.
-**Talents:** Guard Dog (Advanced - Digger).
+**Talents:** GUARD DOG (Advanced - Digger).
 
 | Weapon            | Action | Draw Mod | Attack Mod | Damage | Critical | Range  | Ammo |
 | ----------------- | ------ | -------- | ---------- | ------ | -------- | ------ | ---- |
@@ -265,7 +265,7 @@ Loyal and ruthless but intelligent. He’s more than just a thug.
 | 5    | 3     | 4       | 3      | 3          |
 
 Nasty and vindictive, he’s enjoyed terrorizing Patience.
-**Talents:** Shotgun Master (Advanced).
+**Talents:** SHOTGUN MASTER (Advanced).
 
 | Weapon        | Action | Draw Mod | Attack Mod | Damage | Critical | Range  | Ammo |
 | ------------- | ------ | -------- | ---------- | ------ | -------- | ------ | ---- |
@@ -299,7 +299,7 @@ When the player characters return to town they are immediately accosted by Maxwe
 | 3    | 3     | 4       | 5      | 1        | 1    | 2       | 3          | 1        | 1               | 2            |
 
 Strong-willed and single-minded, she’s more like her father than she’d like to admit. Loyal to friends and vengeful to her enemies.
-**Talents:** Charming (Basic), Judge of Character (Basic), Lucky (Basic).
+**Talents:** CHARMING (Basic), JUDGE OF CHARACTER (Basic), LUCKY (Basic).
 
 **MAXWELL KINNEAR**
 
@@ -308,7 +308,7 @@ Strong-willed and single-minded, she’s more like her father than she’d like 
 | 4    | 4     | 4       | 3      | 2     | 1       | 1              | 3               |
 
 Naïve, impetuous, and with the confidence of youth. Likable. Orphaned.
-**Talents:** Roper (Basic).
+**Talents:** ROPER (Basic).
 
 | Weapon        | Action | Draw Mod | Attack Mod | Damage | Critical | Range  | Ammo |
 | ------------- | ------ | -------- | ---------- | ------ | -------- | ------ | ---- |
@@ -322,7 +322,7 @@ Naïve, impetuous, and with the confidence of youth. Likable. Orphaned.
 | 5    | 4     | 3       | 3      | 2     | 2    | 2       | 2        | 1        | 2               | 1        |
 
 Knows his worth and is well paid, but he is no fool and no simple hired thug.
-**Talents:** Haymaker (Advanced).
+**Talents:** HAYMAKER (Advanced).
 
 | Weapon            | Action | Draw Mod | Attack Mod | Damage | Critical | Range  | Ammo |
 | ----------------- | ------ | -------- | ---------- | ------ | -------- | ------ | ---- |
@@ -335,7 +335,7 @@ Knows his worth and is well paid, but he is no fool and no simple hired thug.
 | 3    | 4     | 5       | 3      | 1    | 2       | 2          | 2        | 1               |
 
 Cheerful, fearless, and kind. Uses violence as a last resort.
-**Talents:** Sharpshooter (Advanced).
+**Talents:** SHARPSHOOTER (Advanced).
 
 | Weapon        | Action | Draw Mod | Attack Mod | Damage | Critical | Range | Ammo |
 | ------------- | ------ | -------- | ---------- | ------ | -------- | ----- | ---- |
@@ -706,12 +706,12 @@ Roll D6 on the table below to see how life beyond the law turns out. Modify the 
 
 | Roll | Formative event                                                                                                                                                                                                        | Abilities                     | Talents                      | Gear                                                                                                                |
 | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| 1    | You shoot a bank clerk in the back when you don’t need to. You are not only a killer, but a coward. Thrown out of the gang, your next roll on the Livings table has a −1 modifier. +1 Fame, −2 Reputation              | SHOOTIN’ 1, MOVE 1            | Cold Blooded or Fast Shooter | Colt 45 Peacemaker & 2D6 rounds, 3D6 × $1                                                                           |
-| 2    | You kill a man in a fair fight, you have the respect of your peers. +1 Fame, −1 Reputation                                                                                                                             | FIGHTIN’ 1, SHOOTIN’ 1        | Brawler or Pugilist          | Colt 1860 New Army & 3D6 rounds, 4D6 × $1                                                                           |
-| 3    | You fight the gang leader and take him down, you are the leader now. +2 compadres, +1 Fame, +1 Reputation                                                                                                              | FIGHTIN' 1, PRESENCE 1        | War Cry or Authority         | Colt Walker pistol & 2D6 rounds, 2D6 × $1                                                                           |
-| 4    | You rob the union train. They will write up your short life in a dime novel. +1 compadre, +1 Fame, −1 Reputation                                                                                                       | PRESENCE 1, ANIMAL HANDLIN’ 1 | Lockpicker or Sneak          | Pair of Smith and Wesson Model 3 pistols & 4D6 rounds, 3D6 × $25                                                    |
-| 5    | Set a thief to catch a thief. A lawman from the nearby town turns you against your gang, and you betray them. If you choose to progress to another Living, make your next roll on the Ranch Hand Living Outcome Table. | HAWKEYE 1, INSIGHT 1          | Two Gun or Light-Footed      | A pair of Cooper pistols & 3D6 rounds, American Quarter Horse, 2D6 × $1                                             |
-| 6+   | After shooting down a rival who was terrorizing a local town, the townsfolk elect you as their sheriff. Make your next Living roll on the Trader or Gentlefolk Table.                                                  | PRESENCE 1, PERFORMIN’ 1      | Quick Draw or Lightning Fast | Sheriff badge, Manhattan Navy & 2D6 rounds, Hartford Coach Gun & D6 Cartridges, American Saddlebred Horse, 3D6 × $1 |
+| 1    | You shoot a bank clerk in the back when you don’t need to. You are not only a killer, but a coward. Thrown out of the gang, your next roll on the Livings table has a −1 modifier. +1 Fame, −2 Reputation              | SHOOTIN’ 1, MOVE 1            | COLD BLOODED or FAST SHOOTER | Colt 45 Peacemaker & 2D6 rounds, 3D6 × $1                                                                           |
+| 2    | You kill a man in a fair fight, you have the respect of your peers. +1 Fame, −1 Reputation                                                                                                                             | FIGHTIN’ 1, SHOOTIN’ 1        | BRAWLER or PUGILIST          | Colt 1860 New Army & 3D6 rounds, 4D6 × $1                                                                           |
+| 3    | You fight the gang leader and take him down, you are the leader now. +2 compadres, +1 Fame, +1 Reputation                                                                                                              | FIGHTIN' 1, PRESENCE 1        | WAR CRY or AUTHORITY         | Colt Walker pistol & 2D6 rounds, 2D6 × $1                                                                           |
+| 4    | You rob the union train. They will write up your short life in a dime novel. +1 compadre, +1 Fame, −1 Reputation                                                                                                       | PRESENCE 1, ANIMAL HANDLIN’ 1 | LOCKPICKER or SNEAK          | Pair of Smith and Wesson Model 3 pistols & 4D6 rounds, 3D6 × $25                                                    |
+| 5    | Set a thief to catch a thief. A lawman from the nearby town turns you against your gang, and you betray them. If you choose to progress to another Living, make your next roll on the Ranch Hand Living Outcome Table. | HAWKEYE 1, INSIGHT 1          | TWO GUN or LIGHT-FOOTED      | A pair of Cooper pistols & 3D6 rounds, American Quarter Horse, 2D6 × $1                                             |
+| 6+   | After shooting down a rival who was terrorizing a local town, the townsfolk elect you as their sheriff. Make your next Living roll on the Trader or Gentlefolk Table.                                                  | PRESENCE 1, PERFORMIN’ 1      | QUICK DRAW or LIGHTNING FAST | Sheriff badge, Manhattan Navy & 2D6 rounds, Hartford Coach Gun & D6 Cartridges, American Saddlebred Horse, 3D6 × $1 |
 
 ### Grifter
 
@@ -732,12 +732,12 @@ Roll D6 on the table below, modifying the result by +1 if your NATURE ability is
 
 | Roll | Formative event                                                                                                                                                                                                      | Abilities                     | Talents                         | Gear                                                                               |
 | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------------------- | ---------------------------------------------------------------------------------- |
-| 1    | Attacked by a bear you fight like a lion but are inevitably left for dead, only to be found and saved by local Natives.                                                                                              | NATURE 1, RESILIENCE 1        | Lucky or Hard to Hit            | Spencer Carbine & 2D6 rounds, Knife, Wild rations, D6 × $1                         |
-| 2    | Your journeys across lakes and up rivers and taking meals with Native tribes has given you a broad knowledge that you doubt any east coast university student can match.                                             | HAWKEYE 1, NATURE 1           | Survivor or Bow Master          | Canoe, Winchester Model 1868 & 3D6 rounds, 3D6 × $1                                |
-| 3    | You become a scout with the US Army.                                                                                                                                                                                 | SHOOTIN’ 1, HAWKEYE 1         | Light-Footed or Tracker         | Winchester Model 1873 & 2D6 rounds, Morgan Horse, Sleeping roll, Tobacco, 6D6 × $1 |
-| 4    | You have spent so long wandering the trails and exploring the wilderness that your horse has become your best friend and your maps of the area are well regarded.                                                    | ANIMAL HANDLIN’ 1, MAKIN’ 1   | Companion or Born in the Saddle | Astrolabe, Small tent, Survey equipment, Missouri Fox Trotter horse, 2D6 × $10     |
-| 5    | One particularly cold winter you are attacked by a pack of wolves. Your loyal dog saves you and together you drive the wolves away.                                                                                  | FIGHTIN’ 1, ANIMAL HANDLIN’ 1 | Man’s Best Friend or Guard Dog  | Spencer Carbine & 4D6 rounds, Dog, Sleeping roll, 3D6 × $1                         |
-| 6+   | You used to come into town just to sell your furs. But it’s warmer to sit and sew those furs. So now you sell clothes for the discerning outdoorsman. Make your next Living roll on the Trader Living Outcome Table. | MAKIN’ 1, HAWKEYE 1           | Animal Hunter or Knife Fighter  | Knife, Outfit: Store with 1 Capital, 3D6 × $1                                      |
+| 1    | Attacked by a bear you fight like a lion but are inevitably left for dead, only to be found and saved by local Natives.                                                                                              | NATURE 1, RESILIENCE 1        | LUCKY or HARD TO HIT            | Spencer Carbine & 2D6 rounds, Knife, Wild rations, D6 × $1                         |
+| 2    | Your journeys across lakes and up rivers and taking meals with Native tribes has given you a broad knowledge that you doubt any east coast university student can match.                                             | HAWKEYE 1, NATURE 1           | SURVIVOR or BOW MASTER          | Canoe, Winchester Model 1868 & 3D6 rounds, 3D6 × $1                                |
+| 3    | You become a scout with the US Army.                                                                                                                                                                                 | SHOOTIN’ 1, HAWKEYE 1         | LIGHT-FOOTED or TRACKER         | Winchester Model 1873 & 2D6 rounds, Morgan Horse, Sleeping roll, Tobacco, 6D6 × $1 |
+| 4    | You have spent so long wandering the trails and exploring the wilderness that your horse has become your best friend and your maps of the area are well regarded.                                                    | ANIMAL HANDLIN’ 1, MAKIN’ 1   | COMPANION or BORN IN THE SADDLE | Astrolabe, Small tent, Survey equipment, Missouri Fox Trotter horse, 2D6 × $10     |
+| 5    | One particularly cold winter you are attacked by a pack of wolves. Your loyal dog saves you and together you drive the wolves away.                                                                                  | FIGHTIN’ 1, ANIMAL HANDLIN’ 1 | MAN’S BEST FRIEND or GUARD DOG  | Spencer Carbine & 4D6 rounds, Dog, Sleeping roll, 3D6 × $1                         |
+| 6+   | You used to come into town just to sell your furs. But it’s warmer to sit and sew those furs. So now you sell clothes for the discerning outdoorsman. Make your next Living roll on the Trader Living Outcome Table. | MAKIN’ 1, HAWKEYE 1           | ANIMAL HUNTER or KNIFE FIGHTER  | Knife, Outfit: Store with 1 Capital, 3D6 × $1                                      |
 
 ### Ranch Hand
 
@@ -749,12 +749,12 @@ Roll D6 to see how you get on, modifying your roll by +1 if you have ANIMAL HAND
 
 | Roll | Formative event                                                                                                                                                                                                                       | Abilities                       | Talents                        | Gear                                                                                               |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ------------------------------ | -------------------------------------------------------------------------------------------------- |
-| 1    | One drunken night at the end of cattle drive, you get into a violent argument and kill a man with your bare hands. Make your next roll on the Outlaw Living Outcome Table. +1 Fame, −1 Reputation                                     | ANIMAL HANDLIN’ 1, FIGHTIN’ 1   | Haymaker or Brawler            | Webley British Bulldog & 2D6 rounds, Club, 3D6 × $1                                                |
-| 2    | You get involved in a range war, and your boss is killed. If you want another Living you’ll have to get another job: roll again on the Livings table with a −1 modifier. +1 Fame                                                      | FIGHTIN’ 1, SHOOTIN’ 1          | Sharpshooter or Expert Fanning | Winchester Model 1868 & D6 rounds, Pistol & 3D6 rounds, 6D6 × $1                                   |
-| 3    | You become a wrangler looking after the spare horses on the trail and learn to bust the broncos.                                                                                                                                      | ANIMAL HANDLIN’ 1, NATURE 1     | Bronc Buster or Horse Warrior  | Lasso, Colt Peacemaker & 2D6 rounds, Sleeping roll, Mustang horse, 4D6 × $1                        |
-| 4    | You are put in charge of the chuck wagon, a well-respected role which feeds and cares for the other hands on the long cattle drives to the railway. The boys listen out for your booming voice calling them to chow down. +1 compadre | MAKIN’ 1, DOCTORIN’ 1           | Charming or Authority          | Wagon & Missouri Fox Trotter, Sleeping roll, 6D6 × $1                                              |
-| 5    | You bring a big herd to the railhead, earning a decent reward and a few nights on the town.                                                                                                                                           | RESILIENCE 1, ANIMAL HANDLIN’ 1 | Born in the Saddle or Roper    | Lasso, American Quarter Horse, Sleeping roll, 2D6 × $10                                            |
-| 6+   | It’s time to strike out, set up your own ranch and make the money rather than work for them others. If you have another Living make your next roll on the Homesteader Living Outcome Table. +1 compadre                               | LABOR 1, NATURE 1               | Horse Warrior or Defender      | Lasso, Winchester Model 1873 & 2D6 rounds, Outfit: Ranch with 1 Capital, American Saddlebred horse |
+| 1    | One drunken night at the end of cattle drive, you get into a violent argument and kill a man with your bare hands. Make your next roll on the Outlaw Living Outcome Table. +1 Fame, −1 Reputation                                     | ANIMAL HANDLIN’ 1, FIGHTIN’ 1   | HAYMAKER or BRAWLER            | Webley British Bulldog & 2D6 rounds, Club, 3D6 × $1                                                |
+| 2    | You get involved in a range war, and your boss is killed. If you want another Living you’ll have to get another job: roll again on the Livings table with a −1 modifier. +1 Fame                                                      | FIGHTIN’ 1, SHOOTIN’ 1          | SHARPSHOOTER or EXPERT FANNING | Winchester Model 1868 & D6 rounds, Pistol & 3D6 rounds, 6D6 × $1                                   |
+| 3    | You become a wrangler looking after the spare horses on the trail and learn to bust the broncos.                                                                                                                                      | ANIMAL HANDLIN’ 1, NATURE 1     | BRONC BUSTER or HORSE WARRIOR  | Lasso, Colt Peacemaker & 2D6 rounds, Sleeping roll, Mustang horse, 4D6 × $1                        |
+| 4    | You are put in charge of the chuck wagon, a well-respected role which feeds and cares for the other hands on the long cattle drives to the railway. The boys listen out for your booming voice calling them to chow down. +1 compadre | MAKIN’ 1, DOCTORIN’ 1           | CHARMING or AUTHORITY          | Wagon & Missouri Fox Trotter, Sleeping roll, 6D6 × $1                                              |
+| 5    | You bring a big herd to the railhead, earning a decent reward and a few nights on the town.                                                                                                                                           | RESILIENCE 1, ANIMAL HANDLIN’ 1 | BORN IN THE SADDLE or ROPER    | Lasso, American Quarter Horse, Sleeping roll, 2D6 × $10                                            |
+| 6+   | It’s time to strike out, set up your own ranch and make the money rather than work for them others. If you have another Living make your next roll on the Homesteader Living Outcome Table. +1 compadre                               | LABOR 1, NATURE 1               | HORSE WARRIOR or DEFENDER      | Lasso, Winchester Model 1873 & 2D6 rounds, Outfit: Ranch with 1 Capital, American Saddlebred horse |
 
 ### Laborer
 
