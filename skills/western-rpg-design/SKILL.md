@@ -84,6 +84,39 @@ When answering a design question, prefer this order:
 - It must fit the game's harsh, practical frontier survival logic.
 - If it increases realism, it must still preserve playability and campaign function.
 
+## NPC Statblock Table Format
+
+All NPC and creature statblocks use a fixed 8-column table structure unique to this game. Never use flat wide tables that list attributes as columns.
+
+**Header row** — attribute name + value, paired across four attribute columns:
+
+```
+| GRIT | <value> | QUICK | <value> | CUNNING | <value> | DOCITY | <value> |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+```
+
+**Skill rows** — abilities are placed under the column of the attribute they belong to. Ability name in the label cell, value in the adjacent value cell. Empty cells fill gaps where no ability applies. Attribute-ability mappings:
+
+- GRIT: FIGHTIN', LABOR, PRESENCE, RESILIENCE
+- QUICK: LIGHT-FINGERED, MOVE, OPERATE, SHOOTIN'
+- CUNNING: ANIMAL HANDLIN', HAWKEYE, INSIGHT, NATURE
+- DOCITY: BOOKLEARNIN', DOCTORIN', MAKIN', PERFORMIN'
+
+**Talents line** — placed immediately after the closing row of the table as a standalone bold paragraph. Markdown tables do not support colspan, so talents must not be placed inside the table.
+
+**Example (Ellis Rockcliffe):**
+
+```markdown
+| GRIT       | 4   | QUICK | 3   | CUNNING | 5   | DOCITY | 3   |
+| ---------- | --- | ----- | --- | ------- | --- | ------ | --- |
+| PRESENCE   | 3   |       |     | HAWKEYE | 2   |        |     |
+| RESILIENCE | 1   |       |     | INSIGHT | 2   |        |     |
+
+**Talents:** AUTHORITY (Advanced), CHARMING (Advanced), COLD BLOODED (Basic), BUSINESS MINDED (Advanced).
+```
+
+Creature/animal statblocks (wolves, dogs) that don't use the four standard attributes keep a simpler inline table — do not force them into the 8-column format.
+
 ## Proposal Review Checklist
 
 When auditing a proposal, explicitly check:

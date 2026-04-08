@@ -1,6 +1,6 @@
 ## Chapter 9 - The New Mexico Campaign
 
-> *“KICK AWAY OLD FELLOW—MY TURN NEXT! I’LL BE IN HELL WITH YOU IN A MINUTE.”*
+> _“KICK AWAY OLD FELLOW—MY TURN NEXT! I’LL BE IN HELL WITH YOU IN A MINUTE.”_
 
 ### LEVI BOONE HELM, HANGED FOR MULTIPLE KILLINGS, JANUARY 14TH, 1864
 
@@ -80,7 +80,7 @@ His closest associates in the Santa Fe Ring—those he trusts—are:
 
 - Astor Clay, a banker from Albuquerque who has many mining and timber businesses. King uses him to garner bank loans when he needs them, and to get the banks to pressure his enemies who might owe money.
 - Joan Davidson, the head of the great Davidson ranching clan based in Lincoln. King leans on
-   - her support when he needs a lot of muscle, and to keep the other cattle barons in line.
+  - her support when he needs a lot of muscle, and to keep the other cattle barons in line.
 - Jeffrey Williamson, an influential administrator in the Santa Fe office of Governor Marsh Giddings. Williamson is King’s go-to man when he needs legal cover, and when he needs a favor from the Governor.
 
 ### Clarence King
@@ -94,14 +94,18 @@ It’s Spring 1873 and trouble is brewing in Santa Fe. Clarence King knows a fac
 - Secure the Spanish Land Rights still up for grabs in the southern Rio Grande valley. To do this he needs to take control of the ranching interests in Jornada Springs.
 - Gain a base of operations in the Gila Mountains for the New Mexico Mercantile Cooperative (NMMC), from which he can rival Silver City as the center of mining in that region. The town of Steaming Rock is perfect.
 
-**CLARENCE KING** — GRIT 4, QUICK 3, CUNNING 4, DOCITY 4
-PRESENCE 4, HAWKEYE 2, RESILIENCE 2, INSIGHT 4
-BOOKLEARNIN’ 3
+**CLARENCE KING**
+
+| GRIT       | 4   | QUICK | 3   | CUNNING | 4   | DOCITY       | 4   |
+| ---------- | --- | ----- | --- | ------- | --- | ------------ | --- |
+| PRESENCE   | 4   |       |     | HAWKEYE | 2   | BOOKLEARNIN' | 3   |
+| RESILIENCE | 2   |       |     | INSIGHT | 4   |              |     |
+
 **Talents:** AUTHORITY (Advanced), CHARMING (Advanced), COLD BLOODED (Advanced), BUSINESS MINDED (Advanced), HIGH SOCIETY (Advanced).
 
-| Weapon | Action | Draw Mod | Attack Mod | Damage | Critical | Range | Ammo |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Colt 45 Peacemaker | Single | -1 | +1 | 3 | 1 | Medium | 6 |
+| Weapon             | Action | Draw Mod | Attack Mod | Damage | Critical | Range  | Ammo |
+| ------------------ | ------ | -------- | ---------- | ------ | -------- | ------ | ---- |
+| Colt 45 Peacemaker | Single | -1       | +1         | 3      | 1        | Medium | 6    |
 
 - Exploit what’s left of the buffalo herds in the east to make some quick money and curry political favor by driving the Comanche (the Native American Nermenuh) off the plains. The hunting camp of Carson’s Folly is the obvious place to run this venture.
 
@@ -140,14 +144,20 @@ Clarence King is desperate to ensure that he—or his proxies—obtain the avail
 
 King has two families on his payroll in Jornada Springs: the Raeburns and the McGinns. These two families don’t get along, with Garland Raeburn and
 
-**PHELIM QUINLIVAN** — GRIT 4, QUICK 4, CUNNING 3, DOCITY 3
-LABOR 3, INSIGHT 3, PRESENCE 4, MOVE 2, RESILIENCE 2
+**PHELIM QUINLIVAN**
+
+| GRIT       | 4   | QUICK | 4   | CUNNING | 3   | DOCITY | 3   |
+| ---------- | --- | ----- | --- | ------- | --- | ------ | --- |
+| LABOR      | 3   | MOVE  | 2   | INSIGHT | 3   |        |     |
+| PRESENCE   | 4   |       |     |         |     |        |     |
+| RESILIENCE | 2   |       |     |         |     |        |     |
+
 **Talents:** AUTHORITY (Basic), BRAWLER (Advanced), HAYMAKER (Advanced), HIGH SOCIETY (Basic), KNIFE FIGHTER (Advanced), RABBLE ROUSER (Advanced).
 
-| Weapon | Action | Draw Mod | Attack Mod | Damage | Critical | Range | Ammo |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Quality Blade | N/A | - | +1 | 1 | 1 | Arms | - |
-| Colt 45 Peacemaker | Single | -1 | +1 | 3 | 1 | Medium | 6 |
+| Weapon             | Action | Draw Mod | Attack Mod | Damage | Critical | Range  | Ammo |
+| ------------------ | ------ | -------- | ---------- | ------ | -------- | ------ | ---- |
+| Quality Blade      | N/A    | -        | +1         | 1      | 1        | Arms   | -    |
+| Colt 45 Peacemaker | Single | -1       | +1         | 3      | 1        | Medium | 6    |
 
 Donal McGinn publicly butting heads on just about any and every matter. McGinn also thinks Raeburn is a loose-lipped fool—Raeburn likes to burnish his reputation in town by hinting at his important connections in Santa Fe, something that should be kept quiet. However, when it comes to it, Donal McGinn takes orders from Raeburn, if those orders come down from Santa Fe. McGinn doesn’t like it, and wants to change that dynamic once and for all.
 
