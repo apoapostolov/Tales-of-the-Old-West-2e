@@ -440,7 +440,7 @@ Nothing splits a skull like a mighty axe.
 
 **Advanced** : When you hit an enemy with your axe and inflict 3 or more points of damage, you automatically inflict a critical injury.
 
-### Tracke r
+### Tracker
 
 You know how to move, track, and hunt.
 

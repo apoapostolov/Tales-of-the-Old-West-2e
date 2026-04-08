@@ -1000,4 +1000,21 @@ The dime novels omitted the crying. Men on the frontier cried. Cowboys cried fro
 
 ### States of the West
 
-> _And their dates of incorporation: • Texas—1845 • California—1850 • Oregon—1859 • Kansas—1861 • Nevada—1864 • Nebraska—1867 • Colorado—1876 • Dakota—1889 • Montana—1889 • Washington State—1889 • Idaho—1890 • Wyoming—1890 • Utah—1896 • Oklahoma—1907 • Arizona—1912 • New Mexico—1912_
+| State | Statehood |
+|---|---|
+| Texas | 1845 |
+| California | 1850 |
+| Oregon | 1859 |
+| Kansas | 1861 |
+| Nevada | 1864 |
+| Nebraska | 1867 |
+| Colorado | 1876 |
+| Dakota (split into North & South Dakota) | 1889 |
+| Montana | 1889 |
+| Washington State | 1889 |
+| Idaho | 1890 |
+| Wyoming | 1890 |
+| Utah | 1896 |
+| Oklahoma | 1907 |
+| Arizona | 1912 |
+| New Mexico | 1912 |
