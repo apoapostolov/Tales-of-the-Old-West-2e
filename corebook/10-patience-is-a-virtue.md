@@ -1,6 +1,6 @@
 ## Chapter 10 - Patience is a Virtue
 
-> *“DO NOT WITHHOLD DISCIPLINE FROM A CHILD; IF YOU PUNISH THEM WITH THE ROD, THEY WILL NOT DIE. PUNISH THEM WITH THE ROD AND SAVE THEM FROM DEATH” PROVERBS 29:15*
+> _“DO NOT WITHHOLD DISCIPLINE FROM A CHILD; IF YOU PUNISH THEM WITH THE ROD, THEY WILL NOT DIE. PUNISH THEM WITH THE ROD AND SAVE THEM FROM DEATH” PROVERBS 29:15_
 
 > — INTRODUCTION
 
@@ -32,10 +32,17 @@ But today, Ellis is angry. As far as he is concerned, Patience has fallen for th
 
 > _If you wish, you can remove the racist elements in the first scene, and change the section where Ellis Rockcliffe beats his daughter. Instead you can have him—in his anger—simply banish her to the hunting shack in the wilderness, and keep her prisoner there as a punishment for her intransigence. Mary, Patience’s maid, goes to find Patience and is killed by the wolves in the wilderness for her courage. The rest of the scenario can play out as written._
 
-ELLIS ROCKCLIFFE GRIT 4 QUICK 3 CUNNING 5 DOCITY 3 PRESENCE                 3  SHOOTIN’                 2 HAWKEYE                 2  PERFORMIN’            1 FIGHTIN’                    3  INSIGHT                    2 RESILIENCE              1 Talents:  authority  (Advanced),  charming  (Advanced),  cold blooded  (Basic),  business minded (Advanced).
+**ELLIS ROCKCLIFFE**
 
-|---|---|---|---|---|---|---|---|
-|Colt 45 Peacemaker|Single|-1|+1|3|1|Medium|6|
+| GRIT | QUICK | CUNNING | DOCITY | PRESENCE | HAWKEYE | INSIGHT | RESILIENCE |
+| ---- | ----- | ------- | ------ | -------- | ------- | ------- | ---------- |
+| 4    | 3     | 5       | 3      | 3        | 2       | 2       | 1          |
+
+**Talents:** Authority (Advanced), Charming (Advanced), Cold Blooded (Basic), Business Minded (Advanced).
+
+| Weapon             | Action | Draw Mod | Attack Mod | Damage | Critical | Range  | Ammo |
+| ------------------ | ------ | -------- | ---------- | ------ | -------- | ------ | ---- |
+| Colt 45 Peacemaker | Single | -1       | +1         | 3      | 1        | Medium | 6    |
 
 ### Taking Patience Into Hiding
 
@@ -66,15 +73,25 @@ You can let this play out as far as you wish, but if you want to curtail the enc
 
 _Like you._
 
-“DUSTY” WILCUTT GRIT 4 QUICK 3 CUNNING 4 DOCITY 2 PRESENCE                 1  MOVE                        1 FIGHTIN’                    1 SHOOTIN’                 2 Wilcutt likes a good punch-up but won’t want to get into an all-out fight. All his rolls have a −2 penalty for drunkenness.
+**“DUSTY” WILCUTT**
 
-|---|---|---|---|---|---|---|---|
+| GRIT | QUICK | CUNNING | DOCITY | PRESENCE | MOVE | FIGHTIN’ | SHOOTIN’ |
+| ---- | ----- | ------- | ------ | -------- | ---- | -------- | -------- |
+| 4    | 3     | 4       | 2      | 1        | 1    | 1        | 2        |
 
-|Colt Walker|Single|-2|+1|2|1|Medium|6|
+Wilcutt likes a good punch-up but won’t want to get into an all-out fight. All his rolls have a −2 penalty for drunkenness.
 
-CLAYTON DICKS GRIT 5 QUICK 4 CUNNING 3 DOCITY 2 PRESENCE                 2  SHOOTIN’                 1 FIGHTIN’                    2 Dicks is ruthless and will not want to lose the fight and look small and weak. All his rolls have a −2 penalty for drunkenness.
+| Weapon      | Action | Draw Mod | Attack Mod | Damage | Critical | Range  | Ammo |
+| ----------- | ------ | -------- | ---------- | ------ | -------- | ------ | ---- |
+| Colt Walker | Single | -2       | +1         | 2      | 1        | Medium | 6    |
 
-|---|---|---|---|---|---|---|---|
+**CLAYTON DICKS**
+
+| GRIT | QUICK | CUNNING | DOCITY | PRESENCE | SHOOTIN’ | FIGHTIN’ |
+| ---- | ----- | ------- | ------ | -------- | -------- | -------- |
+| 5    | 4     | 3       | 2      | 2        | 1        | 2        |
+
+Dicks is ruthless and will not want to lose the fight and look small and weak. All his rolls have a −2 penalty for drunkenness.
 
 ### The Second Scene - A Request from a Friend?
 
@@ -142,10 +159,10 @@ When the player characters reach the lower slopes of Canyon Creek Ridge they com
 - For one success they are not sure, but there are possible indications that her throat was cut.
 - For two successes they are sure she was killed by having her throat slit, and the wolves must have found her after she was already dead.
 
-ABILITIES FIGHTIN’  MOVE HAWKEYE WOLVES GRIT QUICK CUNNING ATTACKS (GRIT) (QUICK) (CUNNING)
-Alpha Wolf 4 4 4 4 4 4 Bite: Damage 2, Crit 1 (+1 to FIGHTIN’ when Grappling)
-Pack: Damage 3, Crit 1, +3 bonus to attack rolls Wolf— 3 4 4 3 4 4 Bite: Damage 2, Crit 1 Gray (+1 to FIGHTIN’ when Grappling)
-Pack: Damage 3, Crit 1, +3 bonus to attack rolls
+| Wolf       | GRIT | QUICK | CUNNING | FIGHTIN' | MOVE | HAWKEYE | Attacks                                                                                                  |
+| ---------- | ---- | ----- | ------- | -------- | ---- | ------- | -------------------------------------------------------------------------------------------------------- |
+| Alpha Wolf | 4    | 4     | 4       | 4        | 4    | 4       | Bite: Damage 2, Crit 1 (+1 to FIGHTIN' when Grappling). Pack: Damage 3, Crit 1, +3 bonus to attack rolls |
+| Gray Wolf  | 3    | 4     | 4       | 3        | 4    | 4       | Bite: Damage 2, Crit 1 (+1 to FIGHTIN' when Grappling). Pack: Damage 3, Crit 1, +3 bonus to attack rolls |
 
 ### Picking Up the Trail Again
 
@@ -180,15 +197,25 @@ There are three ways this can play out, depending on what you feel works best fo
 - They spend the night in camp, but then make an early start. They come across the hunting shack as the early dawn is burning off the misty cool of the night.
 - They spend a restful night in camp, then continue the search. They follow the trail to the hunting shack, and arrive in the middle of the day.
 
-FLOYD HIGGINS GRIT 4 QUICK 3 CUNNING 5 DOCITY 2 FIGHTIN’                    1  SHOOTIN’                 2 HAWKEYE                 2  DOCTORIN’            1 RESILIENCE              3 NATURE                     3 INSIGHT                    2 ANIMAL HANDLIN’ 3 Talents:  guard dog  (Advanced - Scarlet),  man’s best friend  (Basic - Rebel),  light-footed  (Advanced).
+**FLOYD HIGGINS**
 
-DRAW  ATTACK WEAPON ACTION DAMAGE CRITICAL RANGE AMMO MOD MOD Winchester 1873 Lever N/A +2 2 1 Long 15 Hunting Blade N/A N/A +2 2 1 Arms -
+| GRIT | QUICK | CUNNING | DOCITY | HAWKEYE | RESILIENCE | NATURE | INSIGHT | ANIMAL HANDLIN' |
+| ---- | ----- | ------- | ------ | ------- | ---------- | ------ | ------- | --------------- |
+| 4    | 3     | 5       | 2      | 2       | 3          | 3      | 2       | 3               |
 
-ABILITIES FIGHTIN’  MOVE HAWKEYE DOGS GRIT QUICK CUNNING ATTACKS (GRIT) (QUICK) (CUNNING)
-Guard Dog  4 3 2 3 2 1 Bite: Damage 2, Crit 2 Scarlet (+1 to FIGHTIN’ when Grappling)
-Tracker  2 4 3 0 2 3 Bite: Damage 1, Crit 2 Dog Rebel
+**Talents:** Guard Dog (Advanced - Scarlet), Man’s Best Friend (Basic - Rebel), Light-Footed (Advanced).
 
-### Tyler Peyton Shunting Shack
+| Weapon          | Action | Draw Mod | Attack Mod | Damage | Critical | Range | Ammo |
+| --------------- | ------ | -------- | ---------- | ------ | -------- | ----- | ---- |
+| Winchester 1873 | Lever  | N/A      | +2         | 2      | 1        | Long  | 15   |
+| Hunting Blade   | N/A    | N/A      | +2         | 2      | 1        | Arms  | -    |
+
+| Dog               | GRIT | QUICK | CUNNING | FIGHTIN' | MOVE | HAWKEYE | Attacks                                                |
+| ----------------- | ---- | ----- | ------- | -------- | ---- | ------- | ------------------------------------------------------ |
+| Guard Dog Scarlet | 4    | 3     | 2       | 3        | 2    | 1       | Bite: Damage 2, Crit 2 (+1 to FIGHTIN' when Grappling) |
+| Tracker Dog Rebel | 2    | 4     | 3       | 0        | 2    | 3       | Bite: Damage 1, Crit 2                                 |
+
+### Tyler Peyton's Hunting Shack
 
 Peyton’s shack is a rough wooden building that has seen better days. It was once the home of an old hunter whom Peyton killed when he refused to sell him the place. It sits on the western slopes of the Elk Mountains about fifteen miles west and a little south of Steaming Rock, surrounded by forest and 100 yards from the river. A rough, dusty trail snakes away to the north, where it eventually joins the road to town. By the shack is a small corral where there are currently six horses tied up.
 
@@ -207,60 +234,112 @@ When the player characters approach the shack, the NPCs are disposed as follows:
 
 It’s entirely up to the players how they want to try and resolve this situation. At some point it is likely to end in a showdown or stand-off between the player characters and Peyton and his men. In this case the following things should happen:
 
-   - Peyton realizes that the plan has been rumbled, and says:
+- Peyton realizes that the plan has been rumbled, and says:
 - Pedro Hernandez is asleep in room 5.
 - _“You boys were s’posed to find nothin’ and Patience would just have up and disappeared.”_
 - _“Patience would have come home eventually, when she was all healed up, and has learned that she just shouldn’t cross her Daddy.”_
 - _“Pity ‘bout poor li’l Mary—she shoulda just stayed home and not gotten involved.”_
 - Peyton will finish by giving the player characters a choice:
 - “ _Now you boys can go on and make a ruckus ‘bout all this, or walk on by. I expect Mr Rockcliffe will remember your good sense and loyalty if you_
-   - _make that second choice, but I’m damn sure he’ll remember you if you make the first one..._ ”
+  - _make that second choice, but I’m damn sure he’ll remember you if you make the first one..._ ”
 - If the showdown makes any kind of noise Patience hears it and screams for help. She keeps making noise until Peyton orders Billy Conway to go and “ _quieten that li’l girl down_ .”
 - Patience, taking advantage of the distraction, breaks out of the store room, and grabs a shotgun from the table in the living room. It only has two shots but she will threaten Billy Conway with it, and will shoot if pushed too far.
 
-TYLER PEYTON GRIT 4 QUICK 4 CUNNING 4 DOCITY 3 PRESENCE                 2  MOVE                        1  INSIGHT                    2  PERFORMIN’            1 FIGHTIN’                    2 SHOOTIN’                 2 ANIMAL HANDLIN’ 3 Loyal and ruthless but intelligent. He’s more than just a thug.
-Talents:  guard dog  (Advanced - Digger).
+**TYLER PEYTON**
 
-DRAW  ATTACK WEAPON ACTION DAMAGE CRITICAL RANGE AMMO MOD MOD Metropolitan Navy  Single 0 +1 2 1 Medium 6 1864 Hunting Blade N/A N/A +1 2 1 Arms N/A
+| GRIT | QUICK | CUNNING | DOCITY | PRESENCE | MOVE | INSIGHT | PERFORMIN' | FIGHTIN' | SHOOTIN' | ANIMAL HANDLIN' |
+| ---- | ----- | ------- | ------ | -------- | ---- | ------- | ---------- | -------- | -------- | --------------- |
+| 4    | 4     | 4       | 3      | 2        | 1    | 2       | 1          | 2        | 2        | 3               |
 
-|**DOG**||||**ABILITIES**|**ABILITIES**|**ABILITIES**|**ATTACKS**|
-|---|---|---|---|---|---|---|---|
+Loyal and ruthless but intelligent. He’s more than just a thug.
+**Talents:** Guard Dog (Advanced - Digger).
 
-BILLY CONWAY GRIT 5 QUICK 3 CUNNING 4 DOCITY 3 FIGHTIN’                    3  SHOOTIN’                 2 ANIMAL HANDLIN’ 2 RESILIENCE              3 Nasty and vindictive, he’s enjoyed terrorizing Patience.
-Talents:  shotgun master  (Advanced).
+| Weapon            | Action | Draw Mod | Attack Mod | Damage | Critical | Range  | Ammo |
+| ----------------- | ------ | -------- | ---------- | ------ | -------- | ------ | ---- |
+| Metropolitan Navy | Single | 0        | +1         | 2      | 1        | Medium | 6    |
 
-DRAW  ATTACK WEAPON ACTION DAMAGE CRITICAL RANGE AMMO MOD MOD Shotgun Breech N/A +1 3 3 Medium 2 Hunting Blade N/A N/A +1 2 1 Arms N/A
+**BILLY CONWAY**
 
-“SMOKEY” JOE DELACEY, CHARLIE CHIVERS & PEDRO HERNANDEZ GRIT 4 QUICK 4 CUNNING 3 DOCITY 3 PRESENCE                 1  MOVE                        1  INSIGHT                     1  PERFORMIN’             1 FIGHTIN’                    1  SHOOTIN’                 1 ANIMAL HANDLIN’ 2 Will do any job if the money is good enough. Not keen to die for Rockcliffe’s wages.
+| GRIT | QUICK | CUNNING | DOCITY | RESILIENCE |
+| ---- | ----- | ------- | ------ | ---------- |
+| 5    | 3     | 4       | 3      | 3          |
 
-|---|---|---|---|---|---|---|---|
-|Spencer Carbine|Lever|N/A|+2|2|1|Long|7|
-|Cooper|Double|+1|+1|2|1|Medium|5|
-|Hunting Blade|N/A|N/A|+1|2|1|Arms|N/A|
+Nasty and vindictive, he’s enjoyed terrorizing Patience.
+**Talents:** Shotgun Master (Advanced).
+
+| Weapon        | Action | Draw Mod | Attack Mod | Damage | Critical | Range  | Ammo |
+| ------------- | ------ | -------- | ---------- | ------ | -------- | ------ | ---- |
+| Shotgun       | Breech | N/A      | +1         | 3      | 3        | Medium | 2    |
+| Hunting Blade | N/A    | N/A      | +1         | 2      | 1        | Arms   | N/A  |
+
+**"SMOKEY" JOE DELACEY, CHARLIE CHIVERS & PEDRO HERNANDEZ**
+
+| GRIT | QUICK | CUNNING | DOCITY | PRESENCE | MOVE | INSIGHT | PERFORMIN' | FIGHTIN' | SHOOTIN' | ANIMAL HANDLIN' |
+| ---- | ----- | ------- | ------ | -------- | ---- | ------- | ---------- | -------- | -------- | --------------- |
+| 4    | 4     | 3       | 3      | 1        | 1    | 1       | 1          | 1        | 1        | 2               |
+
+Will do any job if the money is good enough. Not keen to die for Rockcliffe’s wages.
+
+| Weapon          | Action | Draw Mod | Attack Mod | Damage | Critical | Range  | Ammo |
+| --------------- | ------ | -------- | ---------- | ------ | -------- | ------ | ---- |
+| Spencer Carbine | Lever  | N/A      | +2         | 2      | 1        | Long   | 7    |
+| Cooper          | Double | +1       | +1         | 2      | 1        | Medium | 5    |
+| Hunting Blade   | N/A    | N/A      | +1         | 2      | 1        | Arms   | N/A  |
 
 ### The Epilogue
 
-### If the Player Characters Leave Patience with Peyton and Uphold Rockcliffe’s Lie When the player characters return to town they are immediately accosted by Maxwell Kinnear, Patience’s cowhand boyfriend. He has heard they are looking for her, but accuses them, and Rockcliffe, of leaving her to die. In his fury he heads off towards the Rockcliffes’ home to have it out with Ellis. Unless the player characters intervene Kinnear is confronted by Halliday and Friar on the field in front of Rockcliffe’s home. Gunplay ensues and Kinnear is killed.
+### If the Player Characters Leave Patience with Peyton and Uphold Rockcliffe’s Lie
 
-PATIENCE ROCKCLIFFE GRIT 3 QUICK 3 CUNNING 4 DOCITY 5 PRESENCE                 1  MOVE                        1  INSIGHT                    2  PERFORMIN’      2 RESILIENCE              3 SHOOTIN’                 1 ANIMAL HANDLIN’ 1 BOOKLEARNIN’       2 Strong-willed and single-minded, she’s more like her father than she’d like to admit. Loyal to friends and vengeful to her enemies.
-Talents:  charming  (Basic),  judge of character  (Basic),  lucky  (Basic).
+When the player characters return to town they are immediately accosted by Maxwell Kinnear, Patience’s cowhand boyfriend. He has heard they are looking for her, but accuses them, and Rockcliffe, of leaving her to die. In his fury he heads off towards the Rockcliffes’ home to have it out with Ellis. Unless the player characters intervene Kinnear is confronted by Halliday and Friar on the field in front of Rockcliffe’s home. Gunplay ensues and Kinnear is killed.
 
-MAXWELL KINNEAR GRIT 4 QUICK 4 CUNNING 4 DOCITY 3 LABOR                        2  SHOOTIN’                 1  HAWKEYE                  1 FIGHTIN’                    1 LIGHT-FINGERED  1 ANIMAL HANDLIN’ 3 Naïve, impetuous, and with the confidence of youth. Likable. Orphaned.
-Talents:  roper  (Basic).
+**PATIENCE ROCKCLIFFE**
 
-DRAW  ATTACK WEAPON ACTION DAMAGE CRITICAL RANGE AMMO MOD MOD Colt Walker Single -2 +1 2 1 Medium 6 Hunting Blade N/A N/A +1 2 1 Arms N/A
+| GRIT | QUICK | CUNNING | DOCITY | PRESENCE | MOVE | INSIGHT | RESILIENCE | SHOOTIN' | ANIMAL HANDLIN' | BOOKLEARNIN' |
+| ---- | ----- | ------- | ------ | -------- | ---- | ------- | ---------- | -------- | --------------- | ------------ |
+| 3    | 3     | 4       | 5      | 1        | 1    | 2       | 3          | 1        | 1               | 2            |
 
-JULIUS HALLIDAY GRIT 5 QUICK 4 CUNNING 3 DOCITY 3 LABOR                        2  MOVE                        2  INSIGHT                    2 PRESENCE                 2  SHOOTIN’                 1 ANIMAL HANDLIN’ 2 FIGHTIN’                    1 Knows his worth and is well paid, but he is no fool and no simple hired thug.
-Talents:  hay-maker  (Advanced).
+Strong-willed and single-minded, she’s more like her father than she’d like to admit. Loyal to friends and vengeful to her enemies.
+**Talents:** Charming (Basic), Judge of Character (Basic), Lucky (Basic).
 
-DRAW  ATTACK WEAPON ACTION DAMAGE CRITICAL RANGE AMMO MOD MOD Metropolitan Navy  Single 0 +1 2 1 Medium 6 1864 Kosh N/A N/A 0 1 3 Arms N/A
+**MAXWELL KINNEAR**
 
-DUNCAN FRIAR GRIT 3 QUICK 4 CUNNING 5 DOCITY 3 FIGHTIN’                    2  MOVE                        1  HAWKEYE                  2  PERFORMIN’            1 RESILIENCE              2 SHOOTIN’                 2 ANIMAL HANDLIN’ 1 Cheerful, fearless, and kind. Uses violence as a last resort.
-Talents:  sharpshooter  (Advanced).
+| GRIT | QUICK | CUNNING | DOCITY | LABOR | HAWKEYE | LIGHT-FINGERED | ANIMAL HANDLIN' |
+| ---- | ----- | ------- | ------ | ----- | ------- | -------------- | --------------- |
+| 4    | 4     | 4       | 3      | 2     | 1       | 1              | 3               |
 
-|---|---|---|---|---|---|---|---|
+Naïve, impetuous, and with the confidence of youth. Likable. Orphaned.
+**Talents:** Roper (Basic).
 
-|Hunting Blade|N/A|N/A|+1|2|1|Arms|N/A|
+| Weapon        | Action | Draw Mod | Attack Mod | Damage | Critical | Range  | Ammo |
+| ------------- | ------ | -------- | ---------- | ------ | -------- | ------ | ---- |
+| Colt Walker   | Single | -2       | +1         | 2      | 1        | Medium | 6    |
+| Hunting Blade | N/A    | N/A      | +1         | 2      | 1        | Arms   | N/A  |
+
+**JULIUS HALLIDAY**
+
+| GRIT | QUICK | CUNNING | DOCITY | LABOR | MOVE | INSIGHT | PRESENCE | SHOOTIN' | ANIMAL HANDLIN' | FIGHTIN' |
+| ---- | ----- | ------- | ------ | ----- | ---- | ------- | -------- | -------- | --------------- | -------- |
+| 5    | 4     | 3       | 3      | 2     | 2    | 2       | 2        | 1        | 2               | 1        |
+
+Knows his worth and is well paid, but he is no fool and no simple hired thug.
+**Talents:** Haymaker (Advanced).
+
+| Weapon            | Action | Draw Mod | Attack Mod | Damage | Critical | Range  | Ammo |
+| ----------------- | ------ | -------- | ---------- | ------ | -------- | ------ | ---- |
+| Metropolitan Navy | Single | 0        | +1         | 2      | 1        | Medium | 6    |
+
+**DUNCAN FRIAR**
+
+| GRIT | QUICK | CUNNING | DOCITY | MOVE | HAWKEYE | RESILIENCE | SHOOTIN' | ANIMAL HANDLIN' |
+| ---- | ----- | ------- | ------ | ---- | ------- | ---------- | -------- | --------------- |
+| 3    | 4     | 5       | 3      | 1    | 2       | 2          | 2        | 1               |
+
+Cheerful, fearless, and kind. Uses violence as a last resort.
+**Talents:** Sharpshooter (Advanced).
+
+| Weapon        | Action | Draw Mod | Attack Mod | Damage | Critical | Range | Ammo |
+| ------------- | ------ | -------- | ---------- | ------ | -------- | ----- | ---- |
+| Hunting Blade | N/A    | N/A      | +1         | 2      | 1        | Arms  | N/A  |
 
 ### An Alternative Ending and Another Story
 
@@ -272,7 +351,7 @@ As soon as Rockcliffe hears that Patience is back he professes his joy and relie
 
 > _She wants their help. Her father intends to see Maxwell Kinnear dead for his impudence, but Patience loves him. The player characters must spirit Kinnear out of town, take him to El Paso to the southeast and ensure he takes the stagecoach for San Antonio in Texas, where he will be safe. But they must move fast, as even now her father is secretly contracting bounty hunters from out of town to run down and murder her beau._
 
-> *“HAVE YOU ANY IDEA OF WHAT A MAN MUST ENDURE WHO LEADS SUCH A LIFE? NO, YOU CANNOT. NO ONE CAN UNLESS HE LIVES IT FOR HIMSELF.”*
+> _“HAVE YOU ANY IDEA OF WHAT A MAN MUST ENDURE WHO LEADS SUCH A LIFE? NO, YOU CANNOT. NO ONE CAN UNLESS HE LIVES IT FOR HIMSELF.”_
 
 > — THE OUTLAW FRANK JAMES
 
@@ -336,19 +415,19 @@ At the end of this story your character should embark upon their tale with the f
 
 The Old West was a melting pot of different people from many places and diverse cultures and heritage. Roll 2D6 on the table below to see where you were born, and into what heritage and culture. The table offers suggestions for your heritage for each given region, but these are not exhaustive—don’t feel limited by the listed results if you have a better idea.
 
-| Roll | Region | Heritage |
-| --- | --- | --- |
-| 2 | The Ottoman Empire, the Middle East and North Africa | Turkey, the Ottoman Empire including Serbia, Wallachia and Moldavia, the Levant, Persia, Arabia, Syria, Egypt, Libya, Morocco, Tunisia, and Algeria. Likely to be of Native or colonial heritage (colonial powers in the region included Britain, France, Turkey and Spain). |
-| 3 | British North America | Provinces of Canada (including Quebec), New Brunswick, Nova Scotia, Prince Edward Island, Rupert’s Land. You will likely be of British, French or Native American heritage. |
-| 4 | Continental Northwest and Northern Great Plains | British Columbia, North Western Territory, or Dakota, Idaho, Wyoming, Montana, and Washington territories. Can be of European, Canadian, US, or Native heritage. |
-| 5 | The Great Lakes and Midwest, including “Indian Territory” | Including Michigan, Wisconsin, Ohio, Indiana, and Illinois. Likely to be of European heritage or Native. |
-| 6 | Europe | United Kingdom, Ireland, the Netherlands, Germany, Poland, France, Italy, Spain, Portugal, Greece, Norway, Denmark (including Iceland and Greenland), Sweden, Finland, and the Russian Empire. |
-| 7 | The Northeast | Including New England, New York, New Jersey, and Pennsylvania. Can be of European, African or Native heritage. |
-| 8 | Southeast | Florida, Louisiana, Virginia, the Carolinas, Kentucky, Tennessee, Georgia, Alabama, Mississippi. Likely to be of European or African descent, or from Native American remnant communities. |
-| 9 | The South, Southern Great Plains, Mexico and South America | Including Texas, New Mexico, Arizona, Colorado and Kansas. Likely to be of US, Mexican or Native heritage, or you may have traveled through Mexico from further south. |
-| 10 | West Coast and Great Basin | California, Oregon, Nevada and Utah. Likely to be of European, American, Mexican, Chinese or Native heritage. |
-| 11 | East Asia and the Pacific | Most likely Asian heritage, for example Chinese, Korean, and Japanese, but also possibly Pacific islander, Australian, or New Zealander. |
-| 12 | India, and Equatorial and Southern Africa | West Africa, Nigeria, Niger, Angola, German East Africa, Mozambique, Rhodesia, or South African Republic. Likely to be of Native or colonial heritage (colonial powers including Britain, Portugal and Germany). |
+| Roll | Region                                                     | Heritage                                                                                                                                                                                                                                                                     |
+| ---- | ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2    | The Ottoman Empire, the Middle East and North Africa       | Turkey, the Ottoman Empire including Serbia, Wallachia and Moldavia, the Levant, Persia, Arabia, Syria, Egypt, Libya, Morocco, Tunisia, and Algeria. Likely to be of Native or colonial heritage (colonial powers in the region included Britain, France, Turkey and Spain). |
+| 3    | British North America                                      | Provinces of Canada (including Quebec), New Brunswick, Nova Scotia, Prince Edward Island, Rupert’s Land. You will likely be of British, French or Native American heritage.                                                                                                  |
+| 4    | Continental Northwest and Northern Great Plains            | British Columbia, North Western Territory, or Dakota, Idaho, Wyoming, Montana, and Washington territories. Can be of European, Canadian, US, or Native heritage.                                                                                                             |
+| 5    | The Great Lakes and Midwest, including “Indian Territory”  | Including Michigan, Wisconsin, Ohio, Indiana, and Illinois. Likely to be of European heritage or Native.                                                                                                                                                                     |
+| 6    | Europe                                                     | United Kingdom, Ireland, the Netherlands, Germany, Poland, France, Italy, Spain, Portugal, Greece, Norway, Denmark (including Iceland and Greenland), Sweden, Finland, and the Russian Empire.                                                                               |
+| 7    | The Northeast                                              | Including New England, New York, New Jersey, and Pennsylvania. Can be of European, African or Native heritage.                                                                                                                                                               |
+| 8    | Southeast                                                  | Florida, Louisiana, Virginia, the Carolinas, Kentucky, Tennessee, Georgia, Alabama, Mississippi. Likely to be of European or African descent, or from Native American remnant communities.                                                                                   |
+| 9    | The South, Southern Great Plains, Mexico and South America | Including Texas, New Mexico, Arizona, Colorado and Kansas. Likely to be of US, Mexican or Native heritage, or you may have traveled through Mexico from further south.                                                                                                       |
+| 10   | West Coast and Great Basin                                 | California, Oregon, Nevada and Utah. Likely to be of European, American, Mexican, Chinese or Native heritage.                                                                                                                                                                |
+| 11   | East Asia and the Pacific                                  | Most likely Asian heritage, for example Chinese, Korean, and Japanese, but also possibly Pacific islander, Australian, or New Zealander.                                                                                                                                     |
+| 12   | India, and Equatorial and Southern Africa                  | West Africa, Nigeria, Niger, Angola, German East Africa, Mozambique, Rhodesia, or South African Republic. Likely to be of Native or colonial heritage (colonial powers including Britain, Portugal and Germany).                                                             |
 
 ### What Was Your Upbringing?
 
@@ -363,204 +442,204 @@ Roll D6 on the relevant table from the tables on pages 276 to 283 to learn about
 **The Ottoman Empire, the Middle East and North Africa**
 
 **4.** Your father was a soldier who saw active service. In the end he was invalided out, but you learned a lot from him.
-  *Attributes:* Grit 5, Quick 4, Cunning 3, Docity 3
-  *Abilities:* FIGHTIN' 1, RESILIENCE 1, SHOOTIN' 2, HAWKEYE 2
+_Attributes:_ Grit 5, Quick 4, Cunning 3, Docity 3
+_Abilities:_ FIGHTIN' 1, RESILIENCE 1, SHOOTIN' 2, HAWKEYE 2
 
 **5.** Your family raced horses across the sands. You grew up around herds of horses and occasionally camels too.
-  *Attributes:* Grit 3, Quick 4, Cunning 5, Docity 3
-  *Abilities:* SHOOTIN' 1, NATURE 2, ANIMAL HANDLIN' 2, DOCTORIN' 1
+_Attributes:_ Grit 3, Quick 4, Cunning 5, Docity 3
+_Abilities:_ SHOOTIN' 1, NATURE 2, ANIMAL HANDLIN' 2, DOCTORIN' 1
 
 **6.** Your mother was a campaigner for women’s rights in the time of the Tanzimat reforms of the Ottoman Empire. She encouraged you to see the world. Gain +1 on your first Living roll.
-  *Attributes:* Grit 4, Quick 4, Cunning 3, Docity 4
-  *Abilities:* PRESENCE 1, FIGHTIN' 1, OPERATE 1, INSIGHT 1, PERFORMIN' 1, BOOKLEARNIN' 1
+_Attributes:_ Grit 4, Quick 4, Cunning 3, Docity 4
+_Abilities:_ PRESENCE 1, FIGHTIN' 1, OPERATE 1, INSIGHT 1, PERFORMIN' 1, BOOKLEARNIN' 1
 
 **1.** You grew up in a gambling den and you learned a thing or two.
-  *Attributes:* Grit 3, Quick 4, Cunning 5, Docity 3
-  *Abilities:* LIGHT-FINGERED 2, HAWKEYE 1, INSIGHT 1, PERFORMIN' 2
+_Attributes:_ Grit 3, Quick 4, Cunning 5, Docity 3
+_Abilities:_ LIGHT-FINGERED 2, HAWKEYE 1, INSIGHT 1, PERFORMIN' 2
 
 **2.** Fishing the cold waters of the North Atlantic for cod made your family resilient and cooperative.
-  *Attributes:* Grit 4, Quick 4, Cunning 3, Docity 4
-  *Abilities:* LABOR 1, RESILIENCE 2, MOVE 1, OPERATE 1, NATURE 1
+_Attributes:_ Grit 4, Quick 4, Cunning 3, Docity 4
+_Abilities:_ LABOR 1, RESILIENCE 2, MOVE 1, OPERATE 1, NATURE 1
 
 **3.** You grew up in a logging community, a hard life in the forest and by the river. The logs went to Quebec city and from there to Britain. You grew up strong.
-  *Attributes:* Grit 5, Quick 4, Cunning 3, Docity 3
-  *Abilities:* LABOR 1, FIGHTIN' 1, RESILIENCE 1, MOVE 1, OPERATE 1, NATURE 1
+_Attributes:_ Grit 5, Quick 4, Cunning 3, Docity 3
+_Abilities:_ LABOR 1, FIGHTIN' 1, RESILIENCE 1, MOVE 1, OPERATE 1, NATURE 1
 
 **4.** Your parents were trappers, and you grew up hardly seeing other people but learning a lot about nature.
-  *Attributes:* Grit 4, Quick 4, Cunning 4, Docity 3
-  *Abilities:* LABOR 1, RESILIENCE 1, SHOOTIN' 1, HAWKEYE 1, NATURE 2
+_Attributes:_ Grit 4, Quick 4, Cunning 4, Docity 3
+_Abilities:_ LABOR 1, RESILIENCE 1, SHOOTIN' 1, HAWKEYE 1, NATURE 2
 
 **5.** White men tried to keep your people in one place, but you grew up in the traditional way, following the seasons and keeping on the move for the best fishing, foraging, and hunting.
-  *Attributes:* Grit 4, Quick 5, Cunning 3, Docity 3
-  *Abilities:* RESILIENCE 1, MOVE 1, SHOOTIN' 1, HAWKEYE 2, NATURE 1
+_Attributes:_ Grit 4, Quick 5, Cunning 3, Docity 3
+_Abilities:_ RESILIENCE 1, MOVE 1, SHOOTIN' 1, HAWKEYE 2, NATURE 1
 
 **6.** Your family fortune came from working, and owning shares, in the Hudson Bay company. You went to the best schools. You gain +1 to your first Living roll, and +1 point of Capital
-  *Attributes:* Grit 3, Quick 4, Cunning 4, Docity 4
-  *Abilities:* MOVE 1, SHOOTIN' 1, INSIGHT 1, PERFORMIN' 1, BOOKLEARNIN' 2
+_Attributes:_ Grit 3, Quick 4, Cunning 4, Docity 4
+_Abilities:_ MOVE 1, SHOOTIN' 1, INSIGHT 1, PERFORMIN' 1, BOOKLEARNIN' 2
 
 **Continental Northwest and the Great Northern Plains**
 
-**The Great Lakes and Midwest, including The Six Nations and  “Indian Territory”**
+**The Great Lakes and Midwest, including The Six Nations and “Indian Territory”**
 
 **4.** Your family ran a mail and freight business between the many growing settlements of the Midwest.
-  *Attributes:* Grit 5, Quick 3, Cunning 4, Docity 3
-  *Abilities:* LABOR 1, RESILIENCE 2, OPERATE 1, ANIMAL HANDLIN' 1, BOOKLEARNIN' 1
+_Attributes:_ Grit 5, Quick 3, Cunning 4, Docity 3
+_Abilities:_ LABOR 1, RESILIENCE 2, OPERATE 1, ANIMAL HANDLIN' 1, BOOKLEARNIN' 1
 
 **5.** Your parents ran a livery stable. You grew up around horses, watching your father shoe them.
-  *Attributes:* Grit 4, Quick 5, Cunning 3, Docity 3
-  *Abilities:* LABOR 2, ANIMAL HANDLIN' 2, MAKIN' 2
+_Attributes:_ Grit 4, Quick 5, Cunning 3, Docity 3
+_Abilities:_ LABOR 2, ANIMAL HANDLIN' 2, MAKIN' 2
 
 **6.** Your family farmed these lands for generations before the settlers came in their thousands. Your father was a leader of men and an able negotiator. Gain +1 on your first Living roll.
-  *Attributes:* Grit 4, Quick 3, Cunning 3, Docity 5
-  *Abilities:* PRESENCE 1, FIGHTIN' 1, SHOOTIN' 1, INSIGHT 2, PERFORMIN' 1
+_Attributes:_ Grit 4, Quick 3, Cunning 3, Docity 5
+_Abilities:_ PRESENCE 1, FIGHTIN' 1, SHOOTIN' 1, INSIGHT 2, PERFORMIN' 1
 
 **1.** Your family were always poor, taking whatever work they could and finding shelter in the most rotten slums. How you got across the Atlantic you won’t say.
-  *Attributes:* Grit 4, Quick 4, Cunning 4, Docity 3
-  *Abilities:* FIGHTIN' 1, RESILIENCE 1, MOVE 1, LIGHT-FINGERED 1, HAWKEYE 2
+_Attributes:_ Grit 4, Quick 4, Cunning 4, Docity 3
+_Abilities:_ FIGHTIN' 1, RESILIENCE 1, MOVE 1, LIGHT-FINGERED 1, HAWKEYE 2
 
 **2.** Your parents were non-conformists and took advantage of America’s reputation for religious freedom.
-  *Attributes:* Grit 4, Quick 3, Cunning 4, Docity 4
-  *Abilities:* LABOR 1, PRESENCE 2, INSIGHT 1, PERFORMIN' 1, DOCTORIN' 1
+_Attributes:_ Grit 4, Quick 3, Cunning 4, Docity 4
+_Abilities:_ LABOR 1, PRESENCE 2, INSIGHT 1, PERFORMIN' 1, DOCTORIN' 1
 
 **3.** Your father was a miner pulling tin and silver from the rugged coast, skills that are much in demand in the new world.
-  *Attributes:* Grit 5, Quick 3, Cunning 3, Docity 4
-  *Abilities:* LABOR 2, FIGHTIN' 1, RESILIENCE 1, MOVE 1, OPERATE 1
+_Attributes:_ Grit 5, Quick 3, Cunning 3, Docity 4
+_Abilities:_ LABOR 2, FIGHTIN' 1, RESILIENCE 1, MOVE 1, OPERATE 1
 
 **4.** You come from a nation, and indeed from a family, of shopkeepers.
-  *Attributes:* Grit 3, Quick 4, Cunning 5, Docity 3
-  *Abilities:* LIGHT-FINGERED 1, OPERATE 1, INSIGHT 2, PERFORMIN' 1, BOOKLEARNIN' 1
+_Attributes:_ Grit 3, Quick 4, Cunning 5, Docity 3
+_Abilities:_ LIGHT-FINGERED 1, OPERATE 1, INSIGHT 2, PERFORMIN' 1, BOOKLEARNIN' 1
 
 **5.** Your father was a successful lawyer and through his connections sent you to America to find professional employment. Gain +1 to your first Living roll.
-  *Attributes:* Grit 3, Quick 3, Cunning 4, Docity 5
-  *Abilities:* PRESENCE 1, SHOOTIN' 1, INSIGHT 1, PERFORMIN' 1, BOOKLEARNIN' 2
+_Attributes:_ Grit 3, Quick 3, Cunning 4, Docity 5
+_Abilities:_ PRESENCE 1, SHOOTIN' 1, INSIGHT 1, PERFORMIN' 1, BOOKLEARNIN' 2
 
 **6.** You have turned your back on your aristocratic family to fight for the rights of the working man, in the land built upon the principles of Thomas Paine. But that didn’t stop you using your family’s wealth. Gain +2 Capital.
-  *Attributes:* Grit 4, Quick 3, Cunning 3, Docity 5
-  *Abilities:* PRESENCE 1, FIGHTIN' 1, SHOOTIN' 1, INSIGHT 1, PERFORMIN' 1, BOOKLEARNIN' 1
+_Attributes:_ Grit 4, Quick 3, Cunning 3, Docity 5
+_Abilities:_ PRESENCE 1, FIGHTIN' 1, SHOOTIN' 1, INSIGHT 1, PERFORMIN' 1, BOOKLEARNIN' 1
 
 **1.** Your father was a metropolitan policeman, keeping the peace (and sometimes taking bribes) in the big city.
-  *Attributes:* Grit 4, Quick 4, Cunning 4, Docity 3
-  *Abilities:* PRESENCE 1, FIGHTIN' 2, SHOOTIN' 2, ANIMAL HANDLIN' 1
+_Attributes:_ Grit 4, Quick 4, Cunning 4, Docity 3
+_Abilities:_ PRESENCE 1, FIGHTIN' 2, SHOOTIN' 2, ANIMAL HANDLIN' 1
 
 **2.** Your parents were talented musicians, feted in a theatrical world where no one cared about the color of their skin.
-  *Attributes:* Grit 3, Quick 4, Cunning 4, Docity 4
-  *Abilities:* PRESENCE 1, MOVE 1, LIGHT-FINGERED 1, PERFORMIN' 2, MAKIN' 1
+_Attributes:_ Grit 3, Quick 4, Cunning 4, Docity 4
+_Abilities:_ PRESENCE 1, MOVE 1, LIGHT-FINGERED 1, PERFORMIN' 2, MAKIN' 1
 
 **3.** Your mother knew how to forage for herbs and heal many illnesses and injuries. People traveled from surrounding communities to benefit from her wisdom.
-  *Attributes:* Grit 3, Quick 3, Cunning 4, Docity 5
-  *Abilities:* NATURE 1, INSIGHT 1, PERFORMIN' 1, DOCTORIN' 3
+_Attributes:_ Grit 3, Quick 3, Cunning 4, Docity 5
+_Abilities:_ NATURE 1, INSIGHT 1, PERFORMIN' 1, DOCTORIN' 3
 
 **4.** Your parents found employment in the industrial economy, working in one of the fish canning factories.
-  *Attributes:* Grit 4, Quick 5, Cunning 3, Docity 3
-  *Abilities:* LABOR 1, FIGHTIN' 1, LIGHT-FINGERED 2, OPERATE 1, MAKIN' 1
+_Attributes:_ Grit 4, Quick 5, Cunning 3, Docity 3
+_Abilities:_ LABOR 1, FIGHTIN' 1, LIGHT-FINGERED 2, OPERATE 1, MAKIN' 1
 
 **5.** Your father was an engineer on a railway. You loved watching the steaming machines roll by.
-  *Attributes:* Grit 4, Quick 5, Cunning 3, Docity 3
-  *Abilities:* LABOR 1, FIGHTIN' 1, MOVE 1, OPERATE 1, MAKIN' 2
+_Attributes:_ Grit 4, Quick 5, Cunning 3, Docity 3
+_Abilities:_ LABOR 1, FIGHTIN' 1, MOVE 1, OPERATE 1, MAKIN' 2
 
 **6.** The offspring of a rising political family, you have learned a little about how people think. Gain +1 on your first Living roll.
-  *Attributes:* Grit 3, Quick 3, Cunning 4, Docity 5
-  *Abilities:* PRESENCE 1, INSIGHT 2, PERFORMIN' 2, BOOKLEARNIN' 1
+_Attributes:_ Grit 3, Quick 3, Cunning 4, Docity 5
+_Abilities:_ PRESENCE 1, INSIGHT 2, PERFORMIN' 2, BOOKLEARNIN' 1
 
 **Southeast**
 
 **4.** Your parents found strength and salvation in bringing the word of god to the common folk as preachers. They did well off tithes and donations. You gain +1 on your first Living roll.
-  *Attributes:* Grit 3, Quick 3, Cunning 4, Docity 5
-  *Abilities:* LABOR 1, PRESENCE 2, INSIGHT 1, PERFORMIN' 2
+_Attributes:_ Grit 3, Quick 3, Cunning 4, Docity 5
+_Abilities:_ LABOR 1, PRESENCE 2, INSIGHT 1, PERFORMIN' 2
 
 **5.** Your father was an overseer on a large plantation.
-  *Attributes:* Grit 4, Quick 4, Cunning 4, Docity 3
-  *Abilities:* LABOR 1, PRESENCE 1, FIGHTIN' 2, SHOOTIN' 1, INSIGHT 1
+_Attributes:_ Grit 4, Quick 4, Cunning 4, Docity 3
+_Abilities:_ LABOR 1, PRESENCE 1, FIGHTIN' 2, SHOOTIN' 1, INSIGHT 1
 
 **6.** Your parents were farmers involved in Democratic politics, and although the civil war ruined their aspirations, they came out of it well enough in the end. Gain +1 to your first Living roll.
-  *Attributes:* Grit 3, Quick 3, Cunning 5, Docity 4
-  *Abilities:* PRESENCE 1, INSIGHT 2, PERFORMIN' 2, BOOKLEARNIN' 1
+_Attributes:_ Grit 3, Quick 3, Cunning 5, Docity 4
+_Abilities:_ PRESENCE 1, INSIGHT 2, PERFORMIN' 2, BOOKLEARNIN' 1
 
 **1.** You grew up as an aguador. Water carrying was hard work and poorly paid, but honest.
-  *Attributes:* Grit 5, Quick 4, Cunning 3, Docity 3
-  *Abilities:* LABOR 2, FIGHTIN' 1, RESILIENCE 2, MOVE 1
+_Attributes:_ Grit 5, Quick 4, Cunning 3, Docity 3
+_Abilities:_ LABOR 2, FIGHTIN' 1, RESILIENCE 2, MOVE 1
 
 **2.** Your father was a ne’er-do-well who came to Texas as a hired gun and was a veteran of the Mexican–American war. Your mother is the Mexican woman he fell in love with.
-  *Attributes:* Grit 5, Quick 3, Cunning 4, Docity 3
-  *Abilities:* FIGHTIN' 2, SHOOTIN' 2, HAWKEYE 1, ANIMAL HANDLIN' 1
+_Attributes:_ Grit 5, Quick 3, Cunning 4, Docity 3
+_Abilities:_ FIGHTIN' 2, SHOOTIN' 2, HAWKEYE 1, ANIMAL HANDLIN' 1
 
 **3.** Down here, people who herd cattle are called Vaqueros. It was a hard life and your father was often away but you grew up learning the trade.
-  *Attributes:* Grit 4, Quick 4, Cunning 4, Docity 3
-  *Abilities:* LABOR 1, HAWKEYE 1, SHOOTIN' 2, ANIMAL HANDLIN' 2
+_Attributes:_ Grit 4, Quick 4, Cunning 4, Docity 3
+_Abilities:_ LABOR 1, HAWKEYE 1, SHOOTIN' 2, ANIMAL HANDLIN' 2
 
 **4.** Your mother was a domestic servant in a fine house. You never knew your father.
-  *Attributes:* Grit 3, Quick 4, Cunning 3, Docity 5
-  *Abilities:* LABOR 1, PRESENCE 1, LIGHT-FINGERED 1, INSIGHT 2, PERFORMIN' 1
+_Attributes:_ Grit 3, Quick 4, Cunning 3, Docity 5
+_Abilities:_ LABOR 1, PRESENCE 1, LIGHT-FINGERED 1, INSIGHT 2, PERFORMIN' 1
 
 **5.** You come from a hardworking farming family using milpa—a traditional method of agriculture dating back further than the first European settlers.
-  *Attributes:* Grit 4, Quick 4, Cunning 3, Docity 4
-  *Abilities:* LABOR 2, NATURE 2, ANIMAL HANDLIN' 1, MAKIN' 1
+_Attributes:_ Grit 4, Quick 4, Cunning 3, Docity 4
+_Abilities:_ LABOR 2, NATURE 2, ANIMAL HANDLIN' 1, MAKIN' 1
 
 **6.** You grew up on a family-owned ranch, which definitely gave you a head start here in the west. Gain +1 to your first Living roll, and +1 point of Capital.
-  *Attributes:* Grit 3, Quick 4, Cunning 5, Docity 3
-  *Abilities:* LABOR 1, SHOOTIN' 2, NATURE 1, ANIMAL HANDLIN' 1, INSIGHT 1
+_Attributes:_ Grit 3, Quick 4, Cunning 5, Docity 3
+_Abilities:_ LABOR 1, SHOOTIN' 2, NATURE 1, ANIMAL HANDLIN' 1, INSIGHT 1
 
 **1.** Your parents were slick con artists and more than a little rubbed off on you. Gain +1 to your first Living roll.
-  *Attributes:* Grit 3, Quick 3, Cunning 5, Docity 4
-  *Abilities:* PRESENCE 2, PERFORMIN' 2, INSIGHT 2
+_Attributes:_ Grit 3, Quick 3, Cunning 5, Docity 4
+_Abilities:_ PRESENCE 2, PERFORMIN' 2, INSIGHT 2
 
 **2.** Your father worked the docks as a stevedore in San Francisco or a similar port, and you grew up strong and not afraid of work.
-  *Attributes:* Grit 5, Quick 4, Cunning 3, Docity 3
-  *Abilities:* LABOR 2, FIGHTIN' 1, RESILIENCE 1, MOVE 1, OPERATE 1
+_Attributes:_ Grit 5, Quick 4, Cunning 3, Docity 3
+_Abilities:_ LABOR 2, FIGHTIN' 1, RESILIENCE 1, MOVE 1, OPERATE 1
 
 **3.** Your parents came west seeking silver and gold. Like many they found very little, but they managed to pay their way, if not get rich.
-  *Attributes:* Grit 4, Quick 3, Cunning 5, Docity 3
-  *Abilities:* LABOR 1, RESILIENCE 1, MOVE 1, OPERATE 1, HAWKEYE 1, NATURE 1
+_Attributes:_ Grit 4, Quick 3, Cunning 5, Docity 3
+_Abilities:_ LABOR 1, RESILIENCE 1, MOVE 1, OPERATE 1, HAWKEYE 1, NATURE 1
 
 **4.** You grew up in a bordello, but as the child of the owner rather than one of the working girls. It’s given you a good head start in life. Gain +1 on your first Living roll.
-  *Attributes:* Grit 3, Quick 3, Cunning 5, Docity 4
-  *Abilities:* PRESENCE 1, FIGHTIN' 1, LIGHT-FINGERED 1, INSIGHT 2, DOCTORIN' 1
+_Attributes:_ Grit 3, Quick 3, Cunning 5, Docity 4
+_Abilities:_ PRESENCE 1, FIGHTIN' 1, LIGHT-FINGERED 1, INSIGHT 2, DOCTORIN' 1
 
 **5.** The child of a mining engineer, you learned a little of the skills that are still in demand in this part of the world. Gain +1 on your first Living roll.
-  *Attributes:* Grit 3, Quick 4, Cunning 3, Docity 5
-  *Abilities:* LABOR 1, MOVE 1, OPERATE 1, NATURE 1, MAKIN' 1, BOOKLEARNIN' 1
+_Attributes:_ Grit 3, Quick 4, Cunning 3, Docity 5
+_Abilities:_ LABOR 1, MOVE 1, OPERATE 1, NATURE 1, MAKIN' 1, BOOKLEARNIN' 1
 
 **6.** Your family have lived in the south of the region for generations, long before the Anglos “discovered” it. Considered aristocracia, you have an exalted position in your community. Gain +1 on your first Living roll, and +1 point of Capital.
-  *Attributes:* Grit 4, Quick 3, Cunning 3, Docity 5
-  *Abilities:* PRESENCE 1, FIGHTIN' 1, SHOOTIN' 1, INSIGHT 1, PERFORMIN' 1, BOOKLEARNIN' 1
+_Attributes:_ Grit 4, Quick 3, Cunning 3, Docity 5
+_Abilities:_ PRESENCE 1, FIGHTIN' 1, SHOOTIN' 1, INSIGHT 1, PERFORMIN' 1, BOOKLEARNIN' 1
 
 **East Asia and the Pacific**
 
 **4.** Your family were farmers, and you grew up on the farm, harvesting the crops and tending to the chickens and pigs.
-  *Attributes:* Grit 4, Quick 4, Cunning 4, Docity 3
-  *Abilities:* LABOR 1, RESILIENCE 1, NATURE 2, ANIMAL HANDLIN' 2
+_Attributes:_ Grit 4, Quick 4, Cunning 4, Docity 3
+_Abilities:_ LABOR 1, RESILIENCE 1, NATURE 2, ANIMAL HANDLIN' 2
 
 **5.** You come from an old sea-faring family. It is said your forefathers traded across the Pacific long before the Europeans discovered that coast. If it’s true, it made them rich. Gain +1 point of Capital.
-  *Attributes:* Grit 4, Quick 3, Cunning 4, Docity 4
-  *Abilities:* FIGHTIN' 1, MOVE 1, SHOOTIN' 1, NATURE 1, INSIGHT 1, MAKIN' 1
+_Attributes:_ Grit 4, Quick 3, Cunning 4, Docity 4
+_Abilities:_ FIGHTIN' 1, MOVE 1, SHOOTIN' 1, NATURE 1, INSIGHT 1, MAKIN' 1
 
 **6.** Your parents were apothecaries, selling remedies and cures.
-  *Attributes:* Grit 3, Quick 3, Cunning 4, Docity 5
-  *Abilities:* NATURE 2, INSIGHT 2, DOCTORIN' 2
+_Attributes:_ Grit 3, Quick 3, Cunning 4, Docity 5
+_Abilities:_ NATURE 2, INSIGHT 2, DOCTORIN' 2
 
 **1.** Your family were coastal pirates, taking advantage of unwary or unprotected travelers.
-  *Attributes:* Grit 4, Quick 5, Cunning 3, Docity 3
-  *Abilities:* FIGHTIN' 1, SHOOTIN' 2, MOVE 1, LIGHT-FINGERED 1, MAKIN' 1
+_Attributes:_ Grit 4, Quick 5, Cunning 3, Docity 3
+_Abilities:_ FIGHTIN' 1, SHOOTIN' 2, MOVE 1, LIGHT-FINGERED 1, MAKIN' 1
 
 **2.** Your parents made their living arranging things for rich white hunters, and though still a child you were valued as a scout.
-  *Attributes:* Grit 5, Quick 4, Cunning 3, Docity 3
-  *Abilities:* MOVE 1, SHOOTIN' 1, HAWKEYE 2, NATURE 2
+_Attributes:_ Grit 5, Quick 4, Cunning 3, Docity 3
+_Abilities:_ MOVE 1, SHOOTIN' 1, HAWKEYE 2, NATURE 2
 
 **3.** Your parents were deeply religious and traveled the continent preaching the truth.
-  *Attributes:* Grit 4, Quick 3, Cunning 5, Docity 4
-  *Abilities:* LABOR 1, RESILIENCE 1, INSIGHT 1, PERFORMIN' 1, DOCTORIN' 1, BOOKLEARNIN' 1
+_Attributes:_ Grit 4, Quick 3, Cunning 5, Docity 4
+_Abilities:_ LABOR 1, RESILIENCE 1, INSIGHT 1, PERFORMIN' 1, DOCTORIN' 1, BOOKLEARNIN' 1
 
 **4.** Your family are traditional farmers and you have always been around livestock.
-  *Attributes:* Grit 4, Quick 4, Cunning 3, Docity 4
-  *Abilities:* LABOR 1, RESILIENCE 1, MOVE 1, NATURE 1, ANIMAL HANDLIN' 2
+_Attributes:_ Grit 4, Quick 4, Cunning 3, Docity 4
+_Abilities:_ LABOR 1, RESILIENCE 1, MOVE 1, NATURE 1, ANIMAL HANDLIN' 2
 
 **5.** Your family was part of the colonial administration. It gave you contacts and some education. Gain +1 on your first Living roll.
-  *Attributes:* Grit 3, Quick 5, Cunning 3, Docity 4
-  *Abilities:* PRESENCE 1, FIGHTIN' 1, SHOOTIN' 2, INSIGHT 1, BOOKLEARNIN' 1
+_Attributes:_ Grit 3, Quick 5, Cunning 3, Docity 4
+_Abilities:_ PRESENCE 1, FIGHTIN' 1, SHOOTIN' 2, INSIGHT 1, BOOKLEARNIN' 1
 
 **6.** Your mother was what Europeans might call a queen and you have traveled to America with some wealth. Gain +1 Capital.
-  *Attributes:* Grit 4, Quick 3, Cunning 4, Docity 4
-  *Abilities:* PRESENCE 1, FIGHTIN' 1, SHOOTIN' 1, INSIGHT 2, PERFORMIN' 1
+_Attributes:_ Grit 4, Quick 3, Cunning 4, Docity 4
+_Abilities:_ PRESENCE 1, FIGHTIN' 1, SHOOTIN' 1, INSIGHT 2, PERFORMIN' 1
 
 ### What of the Family You Left Behind?
 
@@ -568,19 +647,19 @@ Before you embark on your life in the Old West, roll to discover what family con
 
 Roll 2D6 and total them, or if you have a better idea for the story of your family, make a note of that.
 
-| 2D6 | Family Background |
-| --- | --- |
-| 2 | There is no one left but you. Everyone you loved is long lost, dead, or far, far away. |
-| 3 | Your family was big until the curse. Death, madness and foolishness reduced them all to ruins, and you had no choice but to leave those who still survived behind. |
-| 4 | You have lived alone as long as you can remember. Your family lies somewhere in your past and you don’t really miss them. |
-| 5 | Your family ain’t big—just you and a few scattered relatives. You don’t always see eye to eye but for the most part you get on. Blood is blood, after all. |
-| 6 | There’s only you and one surviving relative left. Why you stick together neither of you knows, but everyone else is gone and you only have each other, even if you can’t stand them (you gain a compadre). |
-| 7 | You come from a huge extended family. But they hate you and cast you out. They may be local or far away, but they will chase you away if they ever see you again. Except for one sibling. |
-| 8 | Your family is small but your folks are alive and maybe there’s a younger sibling who lives with them. You don’t always get on but that’s family, ain’t it? |
-| 9 | You have a decent family, and feel part of a clan. One of your parents is still alive and your siblings have families of their own. |
-| 10 | Your family is large but since Grandma died your Pa and your uncles have been at each other’s throats over who heads the family. |
-| 11 | Your family is tiny—just you and one parent who has come to live with you (gain a compadre). |
-| 12 | Your folks are dead and you’re the eldest. The others look up to you to lead the family: maybe you want to, maybe you don’t (you gain 1D2 compadres). |
+| 2D6 | Family Background                                                                                                                                                                                          |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2   | There is no one left but you. Everyone you loved is long lost, dead, or far, far away.                                                                                                                     |
+| 3   | Your family was big until the curse. Death, madness and foolishness reduced them all to ruins, and you had no choice but to leave those who still survived behind.                                         |
+| 4   | You have lived alone as long as you can remember. Your family lies somewhere in your past and you don’t really miss them.                                                                                  |
+| 5   | Your family ain’t big—just you and a few scattered relatives. You don’t always see eye to eye but for the most part you get on. Blood is blood, after all.                                                 |
+| 6   | There’s only you and one surviving relative left. Why you stick together neither of you knows, but everyone else is gone and you only have each other, even if you can’t stand them (you gain a compadre). |
+| 7   | You come from a huge extended family. But they hate you and cast you out. They may be local or far away, but they will chase you away if they ever see you again. Except for one sibling.                  |
+| 8   | Your family is small but your folks are alive and maybe there’s a younger sibling who lives with them. You don’t always get on but that’s family, ain’t it?                                                |
+| 9   | You have a decent family, and feel part of a clan. One of your parents is still alive and your siblings have families of their own.                                                                        |
+| 10  | Your family is large but since Grandma died your Pa and your uncles have been at each other’s throats over who heads the family.                                                                           |
+| 11  | Your family is tiny—just you and one parent who has come to live with you (gain a compadre).                                                                                                               |
+| 12  | Your folks are dead and you’re the eldest. The others look up to you to lead the family: maybe you want to, maybe you don’t (you gain 1D2 compadres).                                                      |
 
 ### Finding a Living
 
@@ -588,14 +667,16 @@ Once you have determined what your Upbringing has given you, you head west to be
 
 **FINDING A LIVING**
 
-|**2-3**|OUTLAW|Page 286|
-|**4-5**|GRIFTER|Page 287|
-|**6**|FRONTIER FOLK|Page 288|
-|**7**|RANCH HAND|Page 289|
-|**8**|LABORER|Page 290|
-|**9**|HOMESTEADER|Page 291|
-|**10-11**|TRADER|Page 292|
-|**12+**|GENTLEFOLK|Page 293|
+| **Roll**  | **Living**    | **Page** |
+| --------- | ------------- | -------- |
+| **2-3**   | OUTLAW        | Page 286 |
+| **4-5**   | GRIFTER       | Page 287 |
+| **6**     | FRONTIER FOLK | Page 288 |
+| **7**     | RANCH HAND    | Page 289 |
+| **8**     | LABORER       | Page 290 |
+| **9**     | HOMESTEADER   | Page 291 |
+| **10-11** | TRADER        | Page 292 |
+| **12+**   | GENTLEFOLK    | Page 293 |
 
 of your own destiny. Roll 2D6, apply any bonus mentioned on your Upbringing, and consult the table to determine your first Living.
 
@@ -623,16 +704,14 @@ Roll D6 on the table below to see how life beyond the law turns out. Modify the 
 
 **LIVING OUTCOME TABLE - OUTLAW**
 
-| Roll | Formative event | Abilities | Talents | Gear |
-| --- | --- | --- | --- | --- |
-| 1 | You shoot a bank clerk in the back when you don’t need to. You are not only a killer, but a coward. Thrown out of the gang, your next roll on the Livings table has a −1 modifier. +1 Fame, −2 Reputation | SHOOTIN’ 1, MOVE 1 | cold blooded or fast shooter | Colt 45 Peacemaker & 2D6 rounds, 3D6 × $1 |
-| 2 | You kill a man in a fair fight, you have the respect of your peers. +1 Fame, −1 Reputation | FIGHTIN’ 1, SHOOTIN’ 1 | brawler or pugilist | Colt 1860 New Army & 3D6 rounds, 4D6 × $1 |
-| 3 | You fight the gang leader and take him down, you are the leader now. +2 compadres, +1 Fame, +1 Reputation | FIGHTIN’ 1, PRESENCE 1 | warcry or authority | Colt Walker pistol & 2D6 rounds, 2D6 × $1 |
-| 4 | You rob the union train. They will write up your short life in a dime novel. +1 compadre, +1 Fame, −1 Reputation | PRESENCE 1, ANIMAL HANDLIN’ 1 | lockpicker or sneak | Pair of Smith and Wesson Model 3 pistols & 4D6 rounds, 3D6 × $25 |
-| 5 | Set a thief to catch a thief. A lawman from the nearby town turns you against your gang, and you betray them. If you choose to progress to another Living, make your next roll on the Ranch Hand Living Outcome Table. | HAWKEYE 1, INSIGHT 1 | two gun or light-footed | A pair of Cooper pistols & 3D6 rounds, American Quarter Horse, 2D6 × $1 |
-| 6+ | After shooting down a rival who was terrorizing a local town, the townsfolk elect you as their sheriff. Make your next Living roll on the Trader or Gentlefolk Table. | PRESENCE 1, PERFORMIN’ 1 | quick draw or lightning fast | Sheriff badge, Manhattan Navy & 2D6 rounds, Hartford Coach Gun & D6 Cartridges, American Saddlebred Horse, 3D6 × $1 |
-
-### Appendix: Your Tale Begins
+| Roll | Formative event                                                                                                                                                                                                        | Abilities                     | Talents                      | Gear                                                                                                                |
+| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| 1    | You shoot a bank clerk in the back when you don’t need to. You are not only a killer, but a coward. Thrown out of the gang, your next roll on the Livings table has a −1 modifier. +1 Fame, −2 Reputation              | SHOOTIN’ 1, MOVE 1            | Cold Blooded or Fast Shooter | Colt 45 Peacemaker & 2D6 rounds, 3D6 × $1                                                                           |
+| 2    | You kill a man in a fair fight, you have the respect of your peers. +1 Fame, −1 Reputation                                                                                                                             | FIGHTIN’ 1, SHOOTIN’ 1        | Brawler or Pugilist          | Colt 1860 New Army & 3D6 rounds, 4D6 × $1                                                                           |
+| 3    | You fight the gang leader and take him down, you are the leader now. +2 compadres, +1 Fame, +1 Reputation                                                                                                              | FIGHTIN' 1, PRESENCE 1        | War Cry or Authority         | Colt Walker pistol & 2D6 rounds, 2D6 × $1                                                                           |
+| 4    | You rob the union train. They will write up your short life in a dime novel. +1 compadre, +1 Fame, −1 Reputation                                                                                                       | PRESENCE 1, ANIMAL HANDLIN’ 1 | Lockpicker or Sneak          | Pair of Smith and Wesson Model 3 pistols & 4D6 rounds, 3D6 × $25                                                    |
+| 5    | Set a thief to catch a thief. A lawman from the nearby town turns you against your gang, and you betray them. If you choose to progress to another Living, make your next roll on the Ranch Hand Living Outcome Table. | HAWKEYE 1, INSIGHT 1          | Two Gun or Light-Footed      | A pair of Cooper pistols & 3D6 rounds, American Quarter Horse, 2D6 × $1                                             |
+| 6+   | After shooting down a rival who was terrorizing a local town, the townsfolk elect you as their sheriff. Make your next Living roll on the Trader or Gentlefolk Table.                                                  | PRESENCE 1, PERFORMIN’ 1      | Quick Draw or Lightning Fast | Sheriff badge, Manhattan Navy & 2D6 rounds, Hartford Coach Gun & D6 Cartridges, American Saddlebred Horse, 3D6 × $1 |
 
 ### Grifter
 
@@ -643,8 +722,6 @@ Roll D6 to see how you do. Modify your roll by +1 if you have LIGHT-FINGERED at 
 **LIVING OUTCOME TABLE - GRIFTER**
 |**Roll**|**Formative event**|**Abilities**|**Talents**|**Gear**|
 
-### Appendix: Your Tale Begins
-
 ### Frontier Folk
 
 You don’t like people much, and prefer to find a living out in the big country, where you keep yourself to yourself. You might be a trapper or hunter, or have a more academic interest in the outdoors as a naturalist, surveyor or cartographer. Alternative- ly you might ride the trails and roads of the great outdoors as an expressman, teamster, transporter, or stagecoach driver.
@@ -653,15 +730,14 @@ Roll D6 on the table below, modifying the result by +1 if your NATURE ability is
 
 **LIVING OUTCOME TABLE - FRONTIER FOLK**
 
-| Roll | Formative event | Abilities | Talents | Gear |
-| --- | --- | --- | --- | --- |
-| 1 | Attacked by a bear you fight like a lion but are inevitably left for dead, only to be found and saved by local Natives. | NATURE 1, RESILIENCE 1 | lucky or hard to hit | Spencer Carbine & 2D6 rounds, Knife, Wild rations, D6 × $1 |
-| 2 | Your journeys across lakes and up rivers and taking meals with Native tribes has given you a broad knowledge that you doubt any east coast university student can match. | HAWKEYE 1, NATURE 1 | survivor or bow master | Canoe, Winchester Model 1868 & 3D6 rounds, 3D6 × $1 |
-| 3 | You become a scout with the US Army. | SHOOTIN’ 1, HAWKEYE 1 | light-footed or tracker | Winchester Model 1873 & 2D6 rounds, Morgan Horse, Sleeping roll, Tobacco, 6D6 × $1 |
-| 4 | You have spent so long wandering the trails and exploring the wilderness that your horse has become your best friend and your maps of the area are well regarded. | ANIMAL HANDLIN’ 1, MAKIN’ 1 | companion or born in the saddle | Astrolabe, Small tent, Survey equipment, Missouri Fox Trotter horse, 2D6 × $10 |
-| 5 | One particularly cold winter you are attacked by a pack of wolves. Your loyal dog saves you and together you drive the wolves away. | FIGHTIN’ 1, ANIMAL HANDLIN’ 1 | man’s best friend or guard dog | Spencer Carbine & 4D6 rounds, Dog, Sleeping roll, 3D6 × $1 |
-| 6+ | You used to come into town just to sell your furs. But it’s warmer to sit and sew those furs. So now you sell clothes for the discerning outdoorsman. Make your next Living roll on the Trader Living Outcome Table. | MAKIN’ 1, HAWKEYE 1 | animal hunter or knife fighter | Knife, Outfit: Store with 1 Capital, 3D6 × $1 |
-
+| Roll | Formative event                                                                                                                                                                                                      | Abilities                     | Talents                         | Gear                                                                               |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------------------- | ---------------------------------------------------------------------------------- |
+| 1    | Attacked by a bear you fight like a lion but are inevitably left for dead, only to be found and saved by local Natives.                                                                                              | NATURE 1, RESILIENCE 1        | Lucky or Hard to Hit            | Spencer Carbine & 2D6 rounds, Knife, Wild rations, D6 × $1                         |
+| 2    | Your journeys across lakes and up rivers and taking meals with Native tribes has given you a broad knowledge that you doubt any east coast university student can match.                                             | HAWKEYE 1, NATURE 1           | Survivor or Bow Master          | Canoe, Winchester Model 1868 & 3D6 rounds, 3D6 × $1                                |
+| 3    | You become a scout with the US Army.                                                                                                                                                                                 | SHOOTIN’ 1, HAWKEYE 1         | Light-Footed or Tracker         | Winchester Model 1873 & 2D6 rounds, Morgan Horse, Sleeping roll, Tobacco, 6D6 × $1 |
+| 4    | You have spent so long wandering the trails and exploring the wilderness that your horse has become your best friend and your maps of the area are well regarded.                                                    | ANIMAL HANDLIN’ 1, MAKIN’ 1   | Companion or Born in the Saddle | Astrolabe, Small tent, Survey equipment, Missouri Fox Trotter horse, 2D6 × $10     |
+| 5    | One particularly cold winter you are attacked by a pack of wolves. Your loyal dog saves you and together you drive the wolves away.                                                                                  | FIGHTIN’ 1, ANIMAL HANDLIN’ 1 | Man’s Best Friend or Guard Dog  | Spencer Carbine & 4D6 rounds, Dog, Sleeping roll, 3D6 × $1                         |
+| 6+   | You used to come into town just to sell your furs. But it’s warmer to sit and sew those furs. So now you sell clothes for the discerning outdoorsman. Make your next Living roll on the Trader Living Outcome Table. | MAKIN’ 1, HAWKEYE 1           | Animal Hunter or Knife Fighter  | Knife, Outfit: Store with 1 Capital, 3D6 × $1                                      |
 
 ### Ranch Hand
 
@@ -671,16 +747,14 @@ Roll D6 to see how you get on, modifying your roll by +1 if you have ANIMAL HAND
 
 **LIVING OUTCOME TABLE - RANCH HAND**
 
-| Roll | Formative event | Abilities | Talents | Gear |
-| --- | --- | --- | --- | --- |
-| 1 | One drunken night at the end of cattle drive, you get into a violent argument and kill a man with your bare hands. Make your next roll on the Outlaw Living Outcome Table. +1 Fame, −1 Reputation | ANIMAL HANDLIN’ 1, FIGHTIN’ 1 | hay-maker or brawler | Webley British Bulldog & 2D6 rounds, Club, 3D6 × $1 |
-| 2 | You get involved in a range war, and your boss is killed. If you want another Living you’ll have to get another job: roll again on the Livings table with a −1 modifier. +1 Fame | FIGHTIN’ 1, SHOOTIN’ 1 | sharpshooter or expert fanning | Winchester Model 1868 & D6 rounds, Pistol & 3D6 rounds, 6D6 × $1 |
-| 3 | You become a wrangler looking after the spare horses on the trail and learn to bust the broncos. | ANIMAL HANDLIN’ 1, NATURE 1 | bronc buster or horse warrior | Lasso, Colt Peacemaker & 2D6 rounds, Sleeping roll, Mustang horse, 4D6 × $1 |
-| 4 | You are put in charge of the chuck wagon, a well-respected role which feeds and cares for the other hands on the long cattle drives to the railway. The boys listen out for your booming voice calling them to chow down. +1 compadre | MAKIN’ 1, DOCTORIN’ 1 | charming or authority | Wagon & Missouri Fox Trotter, Sleeping roll, 6D6 × $1 |
-| 5 | You bring a big herd to the railhead, earning a decent reward and a few nights on the town. | RESILIENCE 1, ANIMAL HANDLIN’ 1 | born in the saddle or roper | Lasso, American Quarter Horse, Sleeping roll, 2D6 × $10 |
-| 6+ | It’s time to strike out, set up your own ranch and make the money rather than work for them others. If you have another Living make your next roll on the Homesteader Living Outcome Table. +1 compadre | LABOR 1, NATURE 1 | horse warrior or defender | Lasso, Winchester Model 1873 & 2D6 rounds, Outfit: Ranch with 1 Capital, American Saddlebred horse |
-
-### Appendix: Your Tale Begins
+| Roll | Formative event                                                                                                                                                                                                                       | Abilities                       | Talents                        | Gear                                                                                               |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ------------------------------ | -------------------------------------------------------------------------------------------------- |
+| 1    | One drunken night at the end of cattle drive, you get into a violent argument and kill a man with your bare hands. Make your next roll on the Outlaw Living Outcome Table. +1 Fame, −1 Reputation                                     | ANIMAL HANDLIN’ 1, FIGHTIN’ 1   | Haymaker or Brawler            | Webley British Bulldog & 2D6 rounds, Club, 3D6 × $1                                                |
+| 2    | You get involved in a range war, and your boss is killed. If you want another Living you’ll have to get another job: roll again on the Livings table with a −1 modifier. +1 Fame                                                      | FIGHTIN’ 1, SHOOTIN’ 1          | Sharpshooter or Expert Fanning | Winchester Model 1868 & D6 rounds, Pistol & 3D6 rounds, 6D6 × $1                                   |
+| 3    | You become a wrangler looking after the spare horses on the trail and learn to bust the broncos.                                                                                                                                      | ANIMAL HANDLIN’ 1, NATURE 1     | Bronc Buster or Horse Warrior  | Lasso, Colt Peacemaker & 2D6 rounds, Sleeping roll, Mustang horse, 4D6 × $1                        |
+| 4    | You are put in charge of the chuck wagon, a well-respected role which feeds and cares for the other hands on the long cattle drives to the railway. The boys listen out for your booming voice calling them to chow down. +1 compadre | MAKIN’ 1, DOCTORIN’ 1           | Charming or Authority          | Wagon & Missouri Fox Trotter, Sleeping roll, 6D6 × $1                                              |
+| 5    | You bring a big herd to the railhead, earning a decent reward and a few nights on the town.                                                                                                                                           | RESILIENCE 1, ANIMAL HANDLIN’ 1 | Born in the Saddle or Roper    | Lasso, American Quarter Horse, Sleeping roll, 2D6 × $10                                            |
+| 6+   | It’s time to strike out, set up your own ranch and make the money rather than work for them others. If you have another Living make your next roll on the Homesteader Living Outcome Table. +1 compadre                               | LABOR 1, NATURE 1               | Horse Warrior or Defender      | Lasso, Winchester Model 1873 & 2D6 rounds, Outfit: Ranch with 1 Capital, American Saddlebred horse |
 
 ### Laborer
 
@@ -691,8 +765,6 @@ Roll D6 on the table below to see how you did, adding a +1 modifier if you have 
 **LIVING OUTCOME TABLE - LABORER**
 |**Roll**|**Formative event**|**Abilities**|**Talents**|**Gear**|
 
-### Appendix: Your Tale Begins
-
 ### Homesteader
 
 The homesteader’s life is the dream of many who come west—land of your own, and no one but you to tell you what to do. It’s a hard life, but it’s your own life, and you reap all the benefits from your own blood, sweat, and tears.
@@ -701,8 +773,6 @@ Roll on this table with a +1 modifier if you have LABOR level 1 or higher.
 
 **LIVING OUTCOME TABLE - HOMESTEADER**
 |**Roll**|**Formative event**|**Abilities**|**Talents**|**Gear**|
-
-### Appendix: Your Tale Begins
 
 ### Trader
 
@@ -726,17 +796,17 @@ Roll D6 on this table, adding 1 to the result if you have BOOKLEARNIN’ at leve
 
 Once you have completed the necessary rolls for your Livings you need to accumulate the gear and other items you have acquired over your life so far.
 
-| Item | Details |
-| --- | --- |
-| Cash | Roll the relevant number of dice to see how much cash you have in your pocket at the start of the game. |
-| Capital | Total your Capital to see how much, if any, Capital you have. You must either immediately invest it in an outfit or property, or liquidate it into cold, hard cash (page 88). |
-| Fame | Total up any Fame bonuses and add them to your base Fame score (page 101–102). |
-| Reputation | Total up any negative and positive Reputation bonuses, and apply them to your place on the Reputation Table on page 102. |
-| Weapons | If you have acquired a weapon go to page 110 to find its details. Roll the number of dice specified to see how much ammo you have on your belt. |
-| Horse | If you gain a horse go to page 120 to determine its stats, qualities and flaws. It comes with all the necessary equipment needed to ride it. |
-| Outfit | If you have an Outfit refer to the rules on building your Outfits on page 92. |
-| NPC Compadres | Your backstory will help you work out who your compadres are, and then follow the rules on page 103 to find out more about them. |
-| Other Gear | Write anything else on your equipment list. |
+| Item          | Details                                                                                                                                                                       |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cash          | Roll the relevant number of dice to see how much cash you have in your pocket at the start of the game.                                                                       |
+| Capital       | Total your Capital to see how much, if any, Capital you have. You must either immediately invest it in an outfit or property, or liquidate it into cold, hard cash (page 88). |
+| Fame          | Total up any Fame bonuses and add them to your base Fame score (page 101–102).                                                                                                |
+| Reputation    | Total up any negative and positive Reputation bonuses, and apply them to your place on the Reputation Table on page 102.                                                      |
+| Weapons       | If you have acquired a weapon go to page 110 to find its details. Roll the number of dice specified to see how much ammo you have on your belt.                               |
+| Horse         | If you gain a horse go to page 120 to determine its stats, qualities and flaws. It comes with all the necessary equipment needed to ride it.                                  |
+| Outfit        | If you have an Outfit refer to the rules on building your Outfits on page 92.                                                                                                 |
+| NPC Compadres | Your backstory will help you work out who your compadres are, and then follow the rules on page 103 to find out more about them.                                              |
+| Other Gear    | Write anything else on your equipment list.                                                                                                                                   |
 
 ### The Final Touches
 
@@ -764,82 +834,82 @@ Finally you need to give your character a name and describe them.
 
 Now you are ready to continue your tale.
 
-|Abilities|17, 46-51|Dynamite|83|
-|---|---|---|---|
-|Actions|68|||
-|Albuquerque, Bernalillo Co.|245|Employment|91|
-|Ambushes|75|Encumbrance|18|
-|Amenities|168-177, 187|Exhausted|80|
-|Archetypes|23|Experience|19|
-|Attributes|16|Explosions|83|
-|Backing Out|71|Faith|17, 19, 40, 45, 294|
-|Big Dream|17, 19-20, 294|Falling|84|
-|Blocking|70|Fame|101|
-|Bronc Bustin’|128|Fanning|74|
-|Bullwhip|114|Fire|82|
-|Businesses (outfits)|92-95|Freezing|80|
-|Business Bonus Table|183-184|||
-|Business Penalty Table|183-184|Gambling|118|
-|||Gear|106|
-|Called Shots|72|Gentlefolk|25|
-|Called Strikes|69|Going Bust|95|
-|Capital|88-90|Grappling|70|
-|Carson’s Folly, Colfax Co.|236|Grifter|26|
-|Cash|88|Group Concepts|21|
-|Chases|129|Group Rolls|44|
-|Compadres|103|||
-|Competition|181|Heatstroke|80|
-|Congregation Rolls|186|Helping Others|43|
-|Coup de Grace|78|Homesteader|27|
-|Cover|72, 76|Horses|120|
-|Critical Effects on Animals|135|Horse Flaws|126|
-|Critical Injuries|78|Horse Qualities|125|
-|||Hurts|16|
-|Darkness|85|||
-|Death Rolls|79|Initiative|67|
-|Dehydrated|80|||
-|Disease|85|Jornada Springs, Socorro Co.|220|
-|Dodging|70|||
-|Doubts|16|Laborer|28|
-|Drowning|84|Lasso (lariat)|71|
-|Dueling|73|Las Vegas, San Miguel Co.|248|
+| Abilities                   | 17, 46-51      | Dynamite                     | 83                  |
+| --------------------------- | -------------- | ---------------------------- | ------------------- |
+| Actions                     | 68             |                              |                     |
+| Albuquerque, Bernalillo Co. | 245            | Employment                   | 91                  |
+| Ambushes                    | 75             | Encumbrance                  | 18                  |
+| Amenities                   | 168-177, 187   | Exhausted                    | 80                  |
+| Archetypes                  | 23             | Experience                   | 19                  |
+| Attributes                  | 16             | Explosions                   | 83                  |
+| Backing Out                 | 71             | Faith                        | 17, 19, 40, 45, 294 |
+| Big Dream                   | 17, 19-20, 294 | Falling                      | 84                  |
+| Blocking                    | 70             | Fame                         | 101                 |
+| Bronc Bustin’               | 128            | Fanning                      | 74                  |
+| Bullwhip                    | 114            | Fire                         | 82                  |
+| Businesses (outfits)        | 92-95          | Freezing                     | 80                  |
+| Business Bonus Table        | 183-184        |                              |                     |
+| Business Penalty Table      | 183-184        | Gambling                     | 118                 |
+|                             |                | Gear                         | 106                 |
+| Called Shots                | 72             | Gentlefolk                   | 25                  |
+| Called Strikes              | 69             | Going Bust                   | 95                  |
+| Capital                     | 88-90          | Grappling                    | 70                  |
+| Carson’s Folly, Colfax Co.  | 236            | Grifter                      | 26                  |
+| Cash                        | 88             | Group Concepts               | 21                  |
+| Chases                      | 129            | Group Rolls                  | 44                  |
+| Compadres                   | 103            |                              |                     |
+| Competition                 | 181            | Heatstroke                   | 80                  |
+| Congregation Rolls          | 186            | Helping Others               | 43                  |
+| Coup de Grace               | 78             | Homesteader                  | 27                  |
+| Cover                       | 72, 76         | Horses                       | 120                 |
+| Critical Effects on Animals | 135            | Horse Flaws                  | 126                 |
+| Critical Injuries           | 78             | Horse Qualities              | 125                 |
+|                             |                | Hurts                        | 16                  |
+| Darkness                    | 85             |                              |                     |
+| Death Rolls                 | 79             | Initiative                   | 67                  |
+| Dehydrated                  | 80             |                              |                     |
+| Disease                     | 85             | Jornada Springs, Socorro Co. | 220                 |
+| Dodging                     | 70             |                              |                     |
+| Doubts                      | 16             | Laborer                      | 28                  |
+| Drowning                    | 84             | Lasso (lariat)               | 71                  |
+| Dueling                     | 73             | Las Vegas, San Miguel Co.    | 248                 |
 
-|Lawman|29|Settlement Points|20, 168|
-|---|---|---|---|
-|Lifepath|274|Shakes|16|
-|Lifestyle|103, 187-188|Silver City, Grant Co.|248|
-|Lincoln, Lincoln Co.|247|Sneak Attacks|75|
-|Liquidating Capital|89|Spooked Horses|127|
-|Loans|90|Stabilization|79|
-|||Starving|79|
-|Making Camp|132|Steaming Rock, Grant Co.|228|
-|Manhunts|130|Stunts|39|
-|Modifications|43|||
-|||Tally Points|165|
-|Negotiating Position|77|Towns|90, 165, 180-182|
-|Non-player characters|137-141|Town Aspects|165|
-|||Town Fortunes|192-195|
-|Opposed Rolls|44|Town Ranks|165-166|
-|Outfits (businesses)|92-95|Tracker|33|
-|Outlaw|30|Trader|34|
-|Overwatch|74|Training your Horse|128|
-|||Traps and Trapping|135-136|
-|Pardner|18-19, 294|Traveling|131-132|
-|Personal Fortune Rolls|189-191|Trouble|38-42|
-|Poisons|84|Trouble Outcome Tables|41-42|
-|Preachers|91, 186|Turn of the Season|180|
-|Property|95|||
-|Property Features|98|Venom|84|
-|Property Location Table|97|Vexes|16|
-|Property Status Table|96|||
-|Prospector|31|Weapons|109-117|
-|Prosperity|167|Weapon Conditions|117|
-|Pushing your roll|40|Weapon Features|109|
-|||Weapon Qualities|115-116|
-|Range Categories|67|Wildlife|131-135|
-|Ranch Hand|32|Wildness|127|
-|Reputation|101-102|||
-|Salaries|91|||
-|Santa Fe, Santa Fe Co.|245|||
-|Season Business Rolls|181-185|||
-|Season Congregation Rolls|186|||
+| Lawman                    | 29           | Settlement Points        | 20, 168          |
+| ------------------------- | ------------ | ------------------------ | ---------------- |
+| Lifepath                  | 274          | Shakes                   | 16               |
+| Lifestyle                 | 103, 187-188 | Silver City, Grant Co.   | 248              |
+| Lincoln, Lincoln Co.      | 247          | Sneak Attacks            | 75               |
+| Liquidating Capital       | 89           | Spooked Horses           | 127              |
+| Loans                     | 90           | Stabilization            | 79               |
+|                           |              | Starving                 | 79               |
+| Making Camp               | 132          | Steaming Rock, Grant Co. | 228              |
+| Manhunts                  | 130          | Stunts                   | 39               |
+| Modifications             | 43           |                          |                  |
+|                           |              | Tally Points             | 165              |
+| Negotiating Position      | 77           | Towns                    | 90, 165, 180-182 |
+| Non-player characters     | 137-141      | Town Aspects             | 165              |
+|                           |              | Town Fortunes            | 192-195          |
+| Opposed Rolls             | 44           | Town Ranks               | 165-166          |
+| Outfits (businesses)      | 92-95        | Tracker                  | 33               |
+| Outlaw                    | 30           | Trader                   | 34               |
+| Overwatch                 | 74           | Training your Horse      | 128              |
+|                           |              | Traps and Trapping       | 135-136          |
+| Pardner                   | 18-19, 294   | Traveling                | 131-132          |
+| Personal Fortune Rolls    | 189-191      | Trouble                  | 38-42            |
+| Poisons                   | 84           | Trouble Outcome Tables   | 41-42            |
+| Preachers                 | 91, 186      | Turn of the Season       | 180              |
+| Property                  | 95           |                          |                  |
+| Property Features         | 98           | Venom                    | 84               |
+| Property Location Table   | 97           | Vexes                    | 16               |
+| Property Status Table     | 96           |                          |                  |
+| Prospector                | 31           | Weapons                  | 109-117          |
+| Prosperity                | 167          | Weapon Conditions        | 117              |
+| Pushing your roll         | 40           | Weapon Features          | 109              |
+|                           |              | Weapon Qualities         | 115-116          |
+| Range Categories          | 67           | Wildlife                 | 131-135          |
+| Ranch Hand                | 32           | Wildness                 | 127              |
+| Reputation                | 101-102      |                          |                  |
+| Salaries                  | 91           |                          |                  |
+| Santa Fe, Santa Fe Co.    | 245          |                          |                  |
+| Season Business Rolls     | 181-185      |                          |                  |
+| Season Congregation Rolls | 186          |                          |                  |

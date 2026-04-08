@@ -94,10 +94,14 @@ It’s Spring 1873 and trouble is brewing in Santa Fe. Clarence King knows a fac
 - Secure the Spanish Land Rights still up for grabs in the southern Rio Grande valley. To do this he needs to take control of the ranching interests in Jornada Springs.
 - Gain a base of operations in the Gila Mountains for the New Mexico Mercantile Cooperative (NMMC), from which he can rival Silver City as the center of mining in that region. The town of Steaming Rock is perfect.
 
-CLARENCE KING GRIT 4 QUICK 3 CUNNING 4 DOCITY 4 PRESENCE                 4  SHOOTIN’                 2 HAWKEYE                 2  PERFORMIN’             4 RESILIENCE              2 INSIGHT                    4 BOOKLEARNIN’       3 Talents:  authority  (Advanced),  charming  (Advanced),  cold blooded  (Advanced),  business minded (Advanced),  high society  (Advanced).
+**CLARENCE KING** — GRIT 4, QUICK 3, CUNNING 4, DOCITY 4
+PRESENCE 4, HAWKEYE 2, RESILIENCE 2, INSIGHT 4
+BOOKLEARNIN’ 3
+**Talents:** Authority (Advanced), Charming (Advanced), Cold Blooded (Advanced), Business Minded (Advanced), High Society (Advanced).
 
-|---|---|---|---|---|---|---|---|
-|Colt 45 Peacemaker|Single|-1|+1|3|1|Medium|6|
+| Weapon | Action | Draw Mod | Attack Mod | Damage | Critical | Range | Ammo |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Colt 45 Peacemaker | Single | -1 | +1 | 3 | 1 | Medium | 6 |
 
 - Exploit what’s left of the buffalo herds in the east to make some quick money and curry political favor by driving the Comanche (the Native American Nermenuh) off the plains. The hunting camp of Carson’s Folly is the obvious place to run this venture.
 
@@ -136,9 +140,14 @@ Clarence King is desperate to ensure that he—or his proxies—obtain the avail
 
 King has two families on his payroll in Jornada Springs: the Raeburns and the McGinns. These two families don’t get along, with Garland Raeburn and
 
-PHELIM QUINLIVAN GRIT 4 QUICK 4 CUNNING 3 DOCITY 3 LABOR                        3 SHOOTIN’                 3  INSIGHT                    3  PERFORMIN’             2 PRESENCE                 4  MOVE                        2 ANIMAL HANDLIN’ 3 BOOKLEARNIN’       3 FIGHTIN’                    3 RESILIENCE              2 Talents:  authority  (Basic),  brawler  (Advanced),  hay-maker  (Advanced),  high society  (Basic),  knife fighter  (Advanced),  rabble rouser  (Advanced).
+**PHELIM QUINLIVAN** — GRIT 4, QUICK 4, CUNNING 3, DOCITY 3
+LABOR 3, INSIGHT 3, PRESENCE 4, MOVE 2, RESILIENCE 2
+**Talents:** Authority (Basic), Brawler (Advanced), Haymaker (Advanced), High Society (Basic), Knife Fighter (Advanced), Rabble Rouser (Advanced).
 
-DRAW  ATTACK WEAPON ACTION DAMAGE CRITICAL RANGE AMMO MOD MOD Quality Blade N/A - +1 1 1 Arms - Colt 45 Peacemaker Single -1 +1 3 1 Medium 6
+| Weapon | Action | Draw Mod | Attack Mod | Damage | Critical | Range | Ammo |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Quality Blade | N/A | - | +1 | 1 | 1 | Arms | - |
+| Colt 45 Peacemaker | Single | -1 | +1 | 3 | 1 | Medium | 6 |
 
 Donal McGinn publicly butting heads on just about any and every matter. McGinn also thinks Raeburn is a loose-lipped fool—Raeburn likes to burnish his reputation in town by hinting at his important connections in Santa Fe, something that should be kept quiet. However, when it comes to it, Donal McGinn takes orders from Raeburn, if those orders come down from Santa Fe. McGinn doesn’t like it, and wants to change that dynamic once and for all.
 

@@ -253,21 +253,16 @@ The cost of the land should be added to the value of any property that is built 
 
 ### Property Location Table
 
-| Type Location Availability Cost / value |  |  |
-| --- | --- | --- |
-| 1 In town, rough—no one wants to live here. your claim. In town, outskirts—a decent plot away | Very good. Nothing—feel free to stake |  |
-| 2 from the latrines and ne’er-do-wells, but pay up, and stake your claim. it’s not going to have a good view or a gentle brook running out back. | Good. 1 Capital—see the town clerk, |  |
-| 3 In town, center—smelly and noisy, | Poor—competition | 2 Capital—the town clerk sells |
-| dusty in the summer and muddy in the winter. But you’re in the thick of it. fierce and violent. hefty bribe. | for these plots can be | these plots, persuaded by a |
-| 4 In town, prize plot—only the best get to live here. | Terrible—the first in town, the richest, or | you’d best be on good terms 3 Capital—to get this land |
-| those with a violent manner get these plots. already live there. | with the gentile-types who |  |
-| 5 Out of town, rough—160 acres of | Very good—the one | $14 to lodge a claim, and the |
-| rough land given to you thanks to the Homestead Act. abundance is land. | thing the West has in | land is worth nothing. |
-| 6 Out of town, decent—160 acres of | Good—but these plots | $14 to lodge a claim, but the |
-| decent land you grabbed at a steal thanks to the Homestead Act. $14 if you can claim the land | get snapped up quickly. land is worth 1 Capital. |  |
-| 7 Out of town, good—sought-after real estate. Otherwise it costs 2 Capital and another hefty bribe. | Poor. under the Homestead Act. |  |
-| 8 Out of town, superb—the best land within miles, and only the best, or | Terrible—the first in town, the richest, or | 3 Capital—rare as a rattle- |
-| those with a violent wealthiest, can hope to acquire it. to get this land. manner get these plots. | snake’s smile, be ready to fight |  |
+| Type | Location | Availability | Cost / Value |
+| --- | --- | --- | --- |
+| 1 | In town, rough—no one wants to live here. | Very good. | Nothing—feel free to stake your claim. |
+| 2 | In town, outskirts—a decent plot away from the latrines and ne’er-do-wells, but it’s not going to have a good view or a gentle brook running out back. | Good. | 1 Capital—see the town clerk, pay up, and stake your claim. |
+| 3 | In town, center—smelly and noisy, dusty in the summer and muddy in the winter. But you’re in the thick of it. | Poor—competition for these plots can be fierce and violent. | 2 Capital—the town clerk sells these plots, persuaded by a hefty bribe. |
+| 4 | In town, prize plot—only the best get to live here. | Terrible—the first in town, the richest, or those with a violent manner get these plots. | 3 Capital—to get this land you’d best be on good terms with the gentile-types who already live there. |
+| 5 | Out of town, rough—160 acres of rough land given to you thanks to the Homestead Act. | Very good—the one thing the West has in abundance is land. | $14 to lodge a claim, and the land is worth nothing. |
+| 6 | Out of town, decent—160 acres of decent land you grabbed at a steal thanks to the Homestead Act. | Good—but these plots get snapped up quickly. | $14 to lodge a claim, but the land is worth 1 Capital. |
+| 7 | Out of town, good—sought-after real estate. | Poor. | $14 if you can claim the land under the Homestead Act. Otherwise it costs 2 Capital and another hefty bribe. |
+| 8 | Out of town, superb—the best land within miles, and only the best, or those with a violent manner get these plots. | Terrible—the first in town, the richest, or wealthiest, can hope to acquire it. | 3 Capital—rare as a rattlesnake’s smile, be ready to fight to get this land. |
 
 ### The Homestead Act 1862
 
@@ -464,7 +459,25 @@ Where did they come from and how come they are your player character’s compadr
 
 > _Brody Anaheim has started a horse ranching business and has made good contacts with a local Native American tribe through whom he hopes to get a breeding pair of stunning Appaloosa horses. Anaheim’s compadre, Grandpa Willie, usually spends his time sitting at the ranch or outside Brody’s favorite saloon, the Homestead Inn, with his shotgun over his knees in case of trouble. Anaheim, concerned that the relationship with the tribe has gone quiet, sends Grandpa Willie off to bring his regards to the Native Americans, and keep the contact warm. Grandpa Willie, grumbling a bit as is his way, loads up on supplies and shells for his shotgun, and trundles out of town in his trusty wagon, as Anaheim tends to other business closer to home._
 
-D66 Attribute Ability 1 1-1 2 FIGHTIN’ 1 3 -14 LABOR GRIT 1 5 -1 6 PRESENCE 2 1- 2 2 RESILIENCE LIGHT- 2 3 - 24 FINGERED 2 5 - 2 6 QUICK MOVE 3 1- 3 2 OPERATE 3 3 - 3 4 SHOOTIN’ ANIMAL 3 5 - 3 6 HANDLIN’ 4 1- 4 2 CUNNING HAWKEYE 4 3 - 4 4 INSIGHT 4 5 - 4 6 NATURE BOOK 5 1- 5 2 LEARNIN’ 5 3 - 5 4 DOCITY DOCTORIN’ 5 5 - 5 6 MAKIN’ 6 1- 6 2 PERFORMIN’ 6 3 - 6 6 CHOOSE CHOOSE
+| D66 | Attribute | Ability |
+| --- | --- | --- |
+| 11–12 | GRIT | FIGHTIN’ |
+| 13–14 | GRIT | LABOR |
+| 15–16 | GRIT | PRESENCE |
+| 21–22 | QUICK | RESILIENCE |
+| 23–24 | QUICK | LIGHT-FINGERED |
+| 25–26 | QUICK | MOVE |
+| 31–32 | CUNNING | OPERATE |
+| 33–34 | CUNNING | SHOOTIN’ |
+| 35–36 | CUNNING | ANIMAL HANDLIN’ |
+| 41–42 | CUNNING | HAWKEYE |
+| 43–44 | CUNNING | INSIGHT |
+| 45–46 | CUNNING | NATURE |
+| 51–52 | DOCITY | BOOK LEARNIN’ |
+| 53–54 | DOCITY | DOCTORIN’ |
+| 55–56 | DOCITY | MAKIN’ |
+| 61–62 | CHOOSE | PERFORMIN’ |
+| 63–66 | CHOOSE | CHOOSE |
 
 ### Your Compadres in Play
 
@@ -480,19 +493,50 @@ Every character in _Tales of the Old West_ will accumulate gear over the years. 
 
 ### General Gear
 
-| Item Cost Weight Basic Rations for 1 $2 2 week Bullets / shells $1/20 Tiny Clothes (standard) 50c–$2 - Clothes (fancy) $5–50 - Coffin $7.5 6 Deck of cards $1–5 Tiny Gold, 1oz $100 Tiny Handcuffs $1–5 Tiny Lemonade (bottle) 5c ½ Lockpicks (set) $5 Tiny Matches (box) 50c Tiny Newspaper 10c Tiny Oil Lantern $1 ½ Pelt, Bear 70c–$1 2 Pelt, Bison 30-40c 2 Pelt, Wolf 50–70c 1 Rope, 20’ length $2 ½ Saddle & Gear $30–100 2 Silver, 1oz $10 Tiny Tobacco goods $1–5 Tiny |  |
-| --- | --- |
-| Whiskey, sipping (bottle) | 50c ½ |
-| Whiskey, good (bottle) | $2 ½ |
+| Item | Cost | Weight |
+| --- | --- | --- |
+| Basic Rations for 1 week | $2 | 2 |
+| Bullets / shells | $1/20 | Tiny |
+| Clothes (standard) | 50c–$2 | - |
+| Clothes (fancy) | $5–50 | - |
+| Coffin | $7.5 | 6 |
+| Deck of cards | $1–5 | Tiny |
+| Gold, 1oz | $100 | Tiny |
+| Handcuffs | $1–5 | Tiny |
+| Lemonade (bottle) | 5c | ½ |
+| Lockpicks (set) | $5 | Tiny |
+| Matches (box) | 50c | Tiny |
+| Newspaper | 10c | Tiny |
+| Oil Lantern | $1 | ½ |
+| Pelt, Bear | 70c–$1 | 2 |
+| Pelt, Bison | 30–40c | 2 |
+| Pelt, Wolf | 50–70c | 1 |
+| Rope, 20’ length | $2 | ½ |
+| Saddle & Gear | $30–100 | 2 |
+| Silver, 1oz | $10 | Tiny |
+| Tobacco goods | $1–5 | Tiny |
+| Whiskey, sipping (bottle) | 50c | ½ |
+| Whiskey, good (bottle) | $2 | ½ |
 
 ### Specialized Gear
 
-| Item Cost Weight Notes A light canoe designed for two people and a small Boat—canoe $40 4 amount of baggage. Basic but sturdy, the rowboat can take four people Boat—rowboat $35 8 easily, six at a stretch, and some baggage. Basic camping gear with bedrolls, canvas for shelter, a Camping Gear $10 2 tinderbox and a pan for cooking. Gives a +1 bonus to NATURE rolls when making camp for the night. A basic four-wheeled cart with space for three people Cart $30 N/A sitting up front and carrying capacity for a lot of cargo. Contains basic items and simple medicines and elixirs. Doctoring Bag $25 1 Gives a +1 bonus to DOCTORIN’ rolls. Covers a wide range of equipment needed to manage Farming equipment $250 Varies a Farming Outfit. Without this, the Turn of the Season Business roll for a Farming Outfit suffers a −2 penalty. Holster—basic $2.50 Tiny Nothin’ fancy, just holds your gun. |  |
-| --- | --- |
-| Holster—Bridgeport $50 Tiny Rig holster, making it quick to draw. Can also swivel, allowing you to take a shot without drawing. Gain a +1 bonus to the Draw during a duel if the weapon is drawn. Gain a +2 bonus to the Draw for the first shot if the weapon is not drawn (but the weapon needs to be drawn to shoot again). Made for the quick draw, this holster gives a +1 bonus Holster—Law Dog $40 Tiny to the Draw roll during a duel. | A belt holder with a special clip instead of an actual |
-| Holster—Open-toe $25 Tiny Swivel Holster sticks out, which can swivel, allowing a fast shot in a duel with the weapon still in the holster. Gain a +1 bonus to the Draw for the first shot, but the weapon remains in its holster—it needs to be drawn to shoot again. Horses, Donkeys & Varies N/A There are many breeds of horse to choose from. See Mules page 120. Covers the range of equipment needed to manage a Panning equipment $10 Varies Panning Claim. Without this, the Turn of the Season Business roll for a Panning Outft sufers a −2 penalty. Lasso $5 ½ A length of stiffened rope with a loop at one end for wrangling cattle, horses, and wayward folk. A wide range of equipment needed to manage a Mining equipment $25 Varies Mining Outfit. Without this, the Turn of the Season roll for a Mining Outft sufers a −2 penalty. | A holster with an opening through which the barrel |
+| Item | Cost | Weight | Notes |
+| --- | --- | --- | --- |
+| Boat—canoe | $40 | 4 | A light canoe designed for two people and a small amount of baggage. |
+| Boat—rowboat | $35 | 8 | Basic but sturdy, the rowboat can take four people easily, six at a stretch, and some baggage. |
+| Camping Gear | $10 | 2 | Basic camping gear with bedrolls, canvas for shelter, a tinderbox and a pan for cooking. Gives a +1 bonus to NATURE rolls when making camp for the night. |
+| Cart | $30 | N/A | A basic four-wheeled cart with space for three people sitting up front and carrying capacity for a lot of cargo. |
+| Doctoring Bag | $25 | 1 | Contains basic items and simple medicines and elixirs. Gives a +1 bonus to DOCTORIN’ rolls. |
+| Farming equipment | $250 | Varies | Covers a wide range of equipment needed to manage a Farming Outfit. Without this, the Turn of the Season Business roll for a Farming Outfit suffers a −2 penalty. |
+| Holster—basic | $2.50 | Tiny | Nothin’ fancy, just holds your gun. |
+| Holster—Bridgeport Rig | $50 | Tiny | A belt holder with a special clip instead of an actual holster, making it quick to draw. Can also swivel, allowing you to take a shot without drawing. Gain a +1 bonus to the Draw during a duel if the weapon is drawn. Gain a +2 bonus to the Draw for the first shot if the weapon is not drawn (but the weapon needs to be drawn to shoot again). |
+| Holster—Law Dog | $40 | Tiny | Made for the quick draw, this holster gives a +1 bonus to the Draw roll during a duel. |
+| Holster—Open-toe Swivel | $25 | Tiny | A holster with an opening through which the barrel sticks out, which can swivel, allowing a fast shot in a duel with the weapon still in the holster. Gain a +1 bonus to the Draw for the first shot, but the weapon remains in its holster—it needs to be drawn to shoot again. |
+| Horses, Donkeys & Mules | Varies | N/A | There are many breeds of horse to choose from. See page 120. |
+| Panning equipment | $10 | Varies | Covers the range of equipment needed to manage a Panning Claim. Without this, the Turn of the Season Business roll for a Panning Outfit suffers a −2 penalty. |
+| Lasso | $5 | ½ | A length of stiffened rope with a loop at one end for wrangling cattle, horses, and wayward folk. |
+| Mining equipment | $25 | Varies | A wide range of equipment needed to manage a Mining Outfit. Without this, the Turn of the Season roll for a Mining Outfit suffers a −2 penalty. |
 
-|---|---|---|---|
 
 ### A Note on Prices
 
@@ -646,52 +690,62 @@ Conditions reduce the effectiveness of your weapon, and may even break the weapo
 
 ### Weapon Qualities - Ranged
 
-Weapon Quality Impact Pistol CALIBRATED The weapon is so well calibrated its aim is true. Gain +1 bonus to the weap on’s Attack modifier Small and compact, a pistol with this quality is easily concealed about Pistol CONCEALABLE your person. Those trying to spot it get a −1 penalty on their HAWK- EYE test.
-Pistol FANNING The gun is ideal for fanning. You gain a +1 bonus to your SHOOTIN’ ability when fanning with this weapon.
-Pistol FAST DRAW The weapon is designed for the quick draw. You gain a +1 bonus to the Draw.
-Pistol HEAVY The pistol is heavy in your hand and kicks like a mule but delivers a powerful blast. It does +1 extra damage, but has a −1 penalty to Draw.
-Pistol HIDDEN A palm-sized gun designed for concealment. Those trying to spot it penalty on their HAWKEYE test. suffer a −3 Loading is slow, so anything that makes it quicker can only be a good Pistol HOT LOADER thing. This gun has a swappable revolver cylinder (2 actions for full reload).
-Pistol LIGHT The weapon is very small and counts as a Tiny item, but it’s not made for fast drawing so y penalty on the Draw. ou suffer a −1 A long barrel makes gunplay easier, but it’s slower on the draw. Gain a Pistol LONG BARREL +1 bonus to SHOOTIN’, but a −1 penalty on the Draw.
-A short barrel isn’t great for accuracy, but it’s quicker to get that iron Pistol SHORT BARREL from your holster. Gain a +1 bonus on Draw, but a −1 penalty on ’ SHOOTIN .
-Well-made sights make shooting at range easy. Range negatives are one Pistol SIGHTS die less for all ranges when using an Aim action before making a shot.
-
-Weapon Quality Impact Any BALANCED The weapon feels good in your hand and you can’t help but shoot straight with it. Grants a +1 bonus to SHOOTIN’.
-Beautifully made with maintenance in mind, this weapon is easy to Any MAINTAINED keep working. Once per scene you may reroll all Trouble dice showing a ‘1’, but only before pushing.
-Any PIERCING The weapon is renowned for being deadly in the hands of an expert. Gain +1 to the Units die on critical injury rolls.
-Any POWERFUL The weapon packs a real punch. Grants +1 to the weapon’s Damage.
-Tough and sturdy, this weapon is reliable and just doesn’t break. If Any RELIABLE Trouble is rolled while using this weapon, the amount of Trouble is reduced by 1, to a minimum of 1.
-A short-barreled shotgun is deadly in close quarters, but terrible further Shotgun SAWN-OFF away. Grants a +1 bonus to SHOOTIN’ but the maximum range is Short.
+| Weapon | Quality | Impact |
+| --- | --- | --- |
+| Pistol | CALIBRATED | The weapon is so well calibrated its aim is true. Gain +1 bonus to the weapon’s Attack modifier. |
+| Pistol | CONCEALABLE | Small and compact, a pistol with this quality is easily concealed about your person. Those trying to spot it get a −1 penalty on their HAWKEYE test. |
+| Pistol | FANNING | The gun is ideal for fanning. You gain a +1 bonus to your SHOOTIN’ ability when fanning with this weapon. |
+| Pistol | FAST DRAW | The weapon is designed for the quick draw. You gain a +1 bonus to the Draw. |
+| Pistol | HEAVY | The pistol is heavy in your hand and kicks like a mule but delivers a powerful blast. It does +1 extra damage, but has a −1 penalty to Draw. |
+| Pistol | HIDDEN | A palm-sized gun designed for concealment. Those trying to spot it suffer a −3 penalty on their HAWKEYE test. |
+| Pistol | HOT LOADER | Loading is slow, so anything that makes it quicker can only be a good thing. This gun has a swappable revolver cylinder (2 actions for full reload). |
+| Pistol | LIGHT | The weapon is very small and counts as a Tiny item, but it’s not made for fast drawing so you suffer a −1 penalty on the Draw. |
+| Pistol | LONG BARREL | A long barrel makes gunplay easier, but it’s slower on the draw. Gain a +1 bonus to SHOOTIN’, but a −1 penalty on the Draw. |
+| Pistol | SHORT BARREL | A short barrel isn’t great for accuracy, but it’s quicker to get that iron from your holster. Gain a +1 bonus on Draw, but a −1 penalty on SHOOTIN’. |
+| Pistol | SIGHTS | Well-made sights make shooting at range easy. Range negatives are one die less for all ranges when using an Aim action before making a shot. |
+| Any | BALANCED | The weapon feels good in your hand and you can’t help but shoot straight with it. Grants a +1 bonus to SHOOTIN’. |
+| Any | MAINTAINED | Beautifully made with maintenance in mind, this weapon is easy to keep working. Once per scene you may reroll all Trouble dice showing a ‘1’, but only before pushing. |
+| Any | PIERCING | The weapon is renowned for being deadly in the hands of an expert. Gain +1 to the Units die on critical injury rolls. |
+| Any | POWERFUL | The weapon packs a real punch. Grants +1 to the weapon’s Damage. |
+| Any | RELIABLE | Tough and sturdy, this weapon is reliable and just doesn’t break. If Trouble is rolled while using this weapon, the amount of Trouble is reduced by 1, to a minimum of 1. |
+| Shotgun | SAWN-OFF | A short-barreled shotgun is deadly in close quarters, but terrible further away. Grants a +1 bonus to SHOOTIN’ but the maximum range is Short. |
 
 **Wells Fargo Coachgun**
 
 ### Weapon Qualities - Melee
 
-Weapon Quality Impact Any BALANCED The weapon sits well in your hand and helps you make the blow. Grants a +1 bonus to FIGHTIN’.
-Any FORGIVING The weapon is reliable and easy to use. You can ignore one die of Trou-ble on your first roll when using this weapon as if you had spent a point of Faith (but not after a pushed roll).
-Any MOUNTED This weapon is especially deadly when used from horseback. After a pushed roll, when mounted, you can push again for free, although Trou- ble still applies.
-Any PIERCING The weapon is renowned for being deadly in the hands of an expert. Grants +1 to the Units die on critical injury rolls.
-Any SHARPENED The weapon is made to inflict as much damage as possible. Gain +1 to the weapon’s Damage.
-Any SLEEK It’s designed to be drawn fast. You can draw this weapon as a free action.
-Any TOUGHENED The weapon cannot be broken by the outcome of Trouble.
-Any WEIGHTED The weapon is beautifully weighted to give you an advantage in the ght. Gain a +1 bonus to FIGHTIN’. fi
+| Weapon | Quality | Impact |
+| --- | --- | --- |
+| Any | BALANCED | The weapon sits well in your hand and helps you make the blow. Grants a +1 bonus to FIGHTIN’. |
+| Any | FORGIVING | The weapon is reliable and easy to use. You can ignore one die of Trouble on your first roll when using this weapon as if you had spent a point of Faith (but not after a pushed roll). |
+| Any | MOUNTED | This weapon is especially deadly when used from horseback. After a pushed roll, when mounted, you can push again for free, although Trouble still applies. |
+| Any | PIERCING | The weapon is renowned for being deadly in the hands of an expert. Grants +1 to the Units die on critical injury rolls. |
+| Any | SHARPENED | The weapon is made to inflict as much damage as possible. Gain +1 to the weapon’s Damage. |
+| Any | SLEEK | It’s designed to be drawn fast. You can draw this weapon as a free action. |
+| Any | TOUGHENED | The weapon cannot be broken by the outcome of Trouble. |
+| Any | WEIGHTED | The weapon is beautifully weighted to give you an advantage in the fight. Gain a +1 bonus to FIGHTIN’. |
 
 ### Weapon Conditions (Ranged)
 
-D6 Condition Impact 1 DIRTY When you attack with this weapon your final total of successes is reduced by 1, to a minimum of 0.
-DAMAGED 2 The weapon is low powered. The damage rating is reduced by 1, to a BORE minimum of 1.
-3 HARD TO LOAD Loading takes an extra action per bullet.
-4 GREASY The weapon loses its punch, and its Crit Rating is increased by 1.
-5 MISALIGNED The weapon ain’t shootin’ straight. Suffer a −1 penalty on SHOOTIN’ rolls.
-WEAK 6 If the weapon suffers Trouble twice in the same scene it breaks beyond HAMMER repair.
+| D6 | Condition | Impact |
+| --- | --- | --- |
+| 1 | DIRTY | When you attack with this weapon your final total of successes is reduced by 1, to a minimum of 0. |
+| 2 | DAMAGED BORE | The weapon is low powered. The damage rating is reduced by 1, to a minimum of 1. |
+| 3 | HARD TO LOAD | Loading takes an extra action per bullet. |
+| 4 | GREASY | The weapon loses its punch, and its Crit Rating is increased by 1. |
+| 5 | MISALIGNED | The weapon ain’t shootin’ straight. Suffer a −1 penalty on SHOOTIN’ rolls. |
+| 6 | WEAK HAMMER | If the weapon suffers Trouble twice in the same scene it breaks beyond repair. |
 
 ### Weapon Conditions (Melee)
 
-D6 Condition Impact 1 BLUNT When you attack with this weapon your final total of successes is reduced by 1, to a minimum of 0.
-LOOSE 2 HANDLE The weapon loses its punch, and its Crit Rating is increased by 1.
-3 BENT The weapon is bent or twisted, and harder to handle. Suffer a −1 penalty to FIGHTIN’ rolls.
-HARD TO 4 When you suffer Trouble after a pushed roll, add +1 to the Trouble total HOLD when using this weapon.
-5 CHIPPED Your weapon loses a random weapon quality.
-6 WEAKENED If the weapon suffers Trouble twice in the same scene it breaks beyond repair.
+| D6 | Condition | Impact |
+| --- | --- | --- |
+| 1 | BLUNT | When you attack with this weapon your final total of successes is reduced by 1, to a minimum of 0. |
+| 2 | LOOSE HANDLE | The weapon loses its punch, and its Crit Rating is increased by 1. |
+| 3 | BENT | The weapon is bent or twisted, and harder to handle. Suffer a −1 penalty to FIGHTIN’ rolls. |
+| 4 | HARD TO HOLD | When you suffer Trouble after a pushed roll, add +1 to the Trouble total when using this weapon. |
+| 5 | CHIPPED | Your weapon loses a random weapon quality. |
+| 6 | WEAKENED | If the weapon suffers Trouble twice in the same scene it breaks beyond repair. |
 
 ### Gambling
 
@@ -722,7 +776,14 @@ The stakes for a Session can be any amount agreed upon by those playing. Each pl
 
 Now you see how the cards are treating you during this Session of play. Depending on the cards you get you must choose the Tactic you are going to use to try and win. There are three Tactics: Cheat, Bluff and Play. Roll D6 on the Damned Cards Table to see what cards you’re dealt during this Session and the dice modifiers for the different Tactics.
 
-D6 The damned cards Cheat Bluff Play 1 +3 0 −2 The deck is given’ you nothin’!
+| D6 | The damned cards | Cheat | Bluff | Play |
+| --- | --- | --- | --- | --- |
+| 1 | The deck is givin’ you nothin’! | +3 | 0 | −2 |
+| 2 | The cards are angry with you | +2 | +1 | −1 |
+| 3 | Just about evens, but you’re not happy | +1 | +2 | 0 |
+| 4 | Just about evens, but it’s ok | 0 | +2 | +1 |
+| 5 | The deck is lovin’ you, givin’ you all you want! | −1 | +1 | +2 |
+| 6 | Aces high! You’re on a killin’ run! | −2 | 0 | +3 |
 2 +2 +1 −1 The cards are angry with you 3 Just about evens, but you’re not happy +1 +2 0 4 Just about evens, but it’s ok 0 +2 +1 5 −1 +1 +2 The deck is lovin’ you, givin’ you all you want!
 6 Aces high! You’re on a killin’ run! −2 0 +3
 
@@ -815,18 +876,21 @@ There are twelve breeds of horse available, as shown below. The stats in the tab
 
 **Tennessee Walker** : The Tennessee Walker originated in the late 18th century, when Narragansett and Canadian Pacer horses were bred with Mustangs on the plains of Tennessee. Sure-footed, they are used for a wide range of tasks, including farm work and racing.
 
-| Horse ModifierRiding | Grit Quick Cunning Abilities Qualities Flaws |  |
-| --- | --- | --- |
-| American Quarter RESILIENCE 2 +1 Random | 0 5 4 3 FIGHTIN’ 1 FAST 2 Random |  |
-| American Saddlebred RESILIENCE 2 +1 Random | 0 6 2 3 FIGHTIN’ 1 HARDY 2 Random |  |
-| Appaloosa | −1 7 3 3 FIGHTIN’ 1 STEADY HARD |  |
-| (rare) RESILIENCE 3 PAINTED COAT +1 Random +1 Random | RIDING |  |
-| Arabian (rare) RESILIENCE 2 FAST MENTAL +1 Random +2 Random | 0 4 5 2 FIGHTIN’ 1 GRACEFUL TEMPERA- |  |
-| Cayuse (rare) RESILIENCE 2 ORNERY +1 Random +1 Random Criollo 0 6 2 4 FIGHTIN’ 0 STAMINA 2 Random RESILIENCE 4 +1 Random | 0 5 4 3 FIGHTIN’ 3 STRONG UNRULY |  |
-| Missouri Fox Trotter RESILIENCE 3 +1 Random Morgan 0 4 5 3 FIGHTIN’ 1 FAST 2 Random RESILIENCE 2 +1 Random Mustang −1 5 4 4 FIGHTIN’ 1 HOT HORSE HARD RESILIENCE 0 +1 Random RIDING +1 Random | +1 6 3 4 FIGHTIN’ 1 EASY TO RIDE 2 Random |  |
-| Paint / Pinto RESILIENCE 2 PAINTED COAT +1 Random Palomino +1 4 3 4 FIGHTIN’ 0 GRACEFUL NO FIGHTIN’ RESILIENCE 0 +1 Random SPIRIT +1 Random | +1 5 4 3 FIGHTIN’ 1 SUREFOOTED 2 Random |  |
-| Tennessee Walker RESILIENCE 0 +1 Random | 0 4 5 3 FIGHTIN’ 0 SUREFOOTED 2 Random |  |
-| Donkey / Mule RESILIENCE 1 | 0 6 | 2 2 FIGHTIN’ 0 ORNERY STUBBORN |
+| Horse | Riding Mod | Grit | Quick | Cunning | FIGHTIN’ | RESILIENCE | Qualities | Flaws |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| American Quarter | 0 | 5 | 4 | 3 | 1 | 2 | FAST, +1 Random | +2 Random |
+| American Saddlebred | 0 | 6 | 2 | 3 | 1 | 2 | HARDY, +1 Random | +2 Random |
+| Appaloosa (rare) | −1 | 7 | 3 | 3 | 1 | 3 | STEADY, PAINTED COAT, +1 Random | HARD RIDING, +1 Random |
+| Arabian (rare) | 0 | 4 | 5 | 2 | 1 | 2 | FAST, GRACEFUL, +1 Random | TEMPERAMENTAL, +2 Random |
+| Cayuse (rare) | 0 | 5 | 4 | 3 | 3 | 2 | ORNERY, STRONG, +1 Random | UNRULY, +1 Random |
+| Criollo | 0 | 6 | 2 | 4 | 0 | 4 | STAMINA, +1 Random | +2 Random |
+| Missouri Fox Trotter | +1 | 6 | 3 | 4 | 1 | 3 | EASY TO RIDE, +1 Random | +2 Random |
+| Morgan | 0 | 4 | 5 | 3 | 1 | 2 | FAST, +1 Random | +2 Random |
+| Mustang | −1 | 5 | 4 | 4 | 1 | 0 | HOT HORSE, +1 Random | HARD RIDING, +1 Random |
+| Paint / Pinto | +1 | 5 | 4 | 3 | 1 | 2 | PAINTED COAT, SUREFOOTED, +1 Random | +2 Random |
+| Palomino | +1 | 4 | 3 | 4 | 0 | 0 | GRACEFUL, +1 Random | NO FIGHTIN’ SPIRIT, +1 Random |
+| Tennessee Walker | 0 | 4 | 5 | 3 | 0 | 0 | SUREFOOTED, +1 Random | +2 Random |
+| Donkey / Mule | 0 | 6 | 2 | 2 | 0 | 1 | ORNERY | STUBBORN |
 
 All horses are capable of kicking and biting, unless they have the DOCILE flaw, although you will need the **companion** talent if you want your horse to kick or bite for you. Basic horse attacks, which can be modified by qualities or flaws, are:
 
@@ -849,7 +913,21 @@ Player characters will come across horses in a variety of ways: you may gain one
 
 Roll D66 to identify the horse, then D6 to see what sex it is and what stage of life it’s at. Note that if your horse is an Old Knacker you should reduce its Grit, Quick and Cunning by 1 each.
 
-Horse Roll Adult Stallion Old Knacker Breeding Mare (1-3) (4-5) (6)
+| Horse | Roll | Adult Stallion (1–3) | Old Knacker (4–5) | Breeding Mare (6) |
+| --- | --- | --- | --- | --- |
+| American Quarter | 11–14 | $75 | $40 | $100 |
+| American Saddlebred | 15–22 | $100 | $50 | $125 |
+| Appaloosa (rare) | 23–24 | $225 | $150 | $750 |
+| Arabian (rare) | 25–26 | $250 | $200 | $1000 |
+| Cayuse (rare) | 31–32 | $225 | $150 | $750 |
+| Criollo | 33–35 | $125 | $60 | $250 |
+| Missouri Fox Trotter | 36–42 | $75 | $40 | $100 |
+| Morgan | 43–45 | $100 | $50 | $150 |
+| Mustang | 46–52 | $50 | $30 | $75 |
+| Paint / Pinto | 53–56 | $100 | $50 | $100 |
+| Palomino | 61–63 | $150 | $100 | $250 |
+| Tennessee Walker | 64–66 | $50 | $30 | $100 |
+| Donkey / Mule | — | $25 | $15 | N/A |
 American Quarter 11–14 $75 $40 $100 American Saddlebred 15–22 $100 $50 $125 Appaloosa (rare) 23–24 $225 $150 $750 Arabian (rare) 25–26 $250 $200 $1000 Cayuse (rare) 31–32 $225 $150 $750 Criollo 33–35 $125 $60 $250 Missouri Fox Trotter 36–42 $75 $40 $100 Morgan 43–45 $100 $50 $150 Mustang 46–52 $50 $30 $75 Paint / Pinto 53–56 $100 $50 $100 Palomino 61–63 $150 $100 $250 Tennessee Walker 64–66 $50 $30 $100 Donkey / Mule - $25 $15 N/A
 
 ### Qualities
@@ -1128,79 +1206,124 @@ Concealment: Bear traps are large and difficult to conceal, but can be hard to s
 
 The Old West is filled with all kinds of non-player characters, and here are just a few of them. Each comes with three suggestions for talents (all at the Basic rank), and suggested gear.
 
-BORDELLO GIRL GRIT 3 QUICK 4 CUNNING 4 DOCITY 3 LABOR                       1  MOVE                         1  HAWKEYE                 1  PERFORMIN’             2 PRESENCE                1  LIGHT-FINGERED  1 INSIGHT                    2 RESILIENCE             1 Charming, charismatic and hard working, the average working girl knows her mind and is working to find a better life, for herself and those she cares about.
-Talents:  calming manner ,  charming ,  shill .
-Gear: Deringer pistol, deck of cards, tobacco.
+**BORDELLO GIRL** — GRIT 3, QUICK 4, CUNNING 4, DOCITY 3
+LABOR 1, MOVE 1, HAWKEYE 1, PRESENCE 1, LIGHT-FINGERED 1, INSIGHT 2, RESILIENCE 1
+Charming, charismatic and hard working, the average working girl knows her mind and is working to find a better life, for herself and those she cares about.
+**Talents:** Calming Manner, Charming, Shill.
+**Gear:** Deringer pistol, deck of cards, tobacco.
 
-BOUNTY HUNTER GRIT 5 QUICK 4 CUNNING 3 DOCITY 2 PRESENCE                 1  MOVE                         1  HAWKEYE                 2  PERFORMIN’             1 FIGHTIN’                    1 SHOOTIN’                 2  INSIGHT                    1 ANIMAL HANDLIN’ 1 Dangerous and ruthless, bounty hunters make their living by tracking down wanted people—trading lives for money.
-Talents:  cold blooded ,  fast shooter ,  manhunter .
+**BOUNTY HUNTER** — GRIT 5, QUICK 4, CUNNING 3, DOCITY 2
+PRESENCE 1, MOVE 1, HAWKEYE 2, INSIGHT 1
+ANIMAL HANDLIN’ 1 Dangerous and ruthless, bounty hunters make their living by tracking down wanted people—trading lives for money.
+**Talents:** Cold Blooded, Fast Shooter, Manhunter.
 Gear: Revolver, rifle, length of rope.
 
-CARD SHARP GRIT 3 QUICK 5 CUNNING 3 DOCITY 3 PRESENCE                 2 SHOOTIN’                 1  HAWKEYE                 1  PERFORMIN’             2 LIGHT-FINGERED  2 INSIGHT                    2 Charismatic, but you can always tell there’s more behind the smile. Every saloon has one, the fella looking to skim you out of your hard-earned.
-Talents:  gambler ,  forger ,  swindler .
-Gear: Fancy clothes, revolver, deck of cards.
+**CARD SHARP** — GRIT 3, QUICK 5, CUNNING 3, DOCITY 3
+PRESENCE 2, HAWKEYE 1, LIGHT-FINGERED 2, INSIGHT 2
+Charismatic, but you can always tell there’s more behind the smile. Every saloon has one, the fella looking to skim you out of your hard-earned.
+**Talents:** Gambler, Forger, Swindler.
+**Gear:** Fancy clothes, revolver, deck of cards.
 
-CATTLE BARON GRIT 3 QUICK 2 CUNNING 5 DOCITY 4 PRESENCE                 2  SHOOTIN’                 1 NATURE                     1  PERFORMIN’             1 RESILIENCE              1 INSIGHT                    2  BOOK LEARNIN’      1 ANIMAL HANDLIN’1 The cattle baron didn’t get where they are by kind words, but by ruthless business and strong-arming the competition.
-Talents:  authority ,  business minded ,  high society .
-Gear: Fine cigars, hip flask, and a couple of gun hands.
+**CATTLE BARON** — GRIT 3, QUICK 2, CUNNING 5, DOCITY 4
+PRESENCE 2, NATURE 1, RESILIENCE 1, INSIGHT 2
+BOOK LEARNIN’ 1
+ANIMAL HANDLIN’1 The cattle baron didn’t get where they are by kind words, but by ruthless business and strong-arming the competition.
+**Talents:** Authority, Business Minded, High Society.
+**Gear:** Fine cigars, hip flask, and a couple of gun hands.
 
-COMANCHE WARRIOR GRIT 4 QUICK 3 CUNNING 4 DOCITY 3 PRESENCE                1  MOVE                        1  HAWKEYE                1  PERFORMIN’           1 FIGHTIN’                   1  SHOOTIN’                 2 NATURE                    1 RESILIENCE             1 ANIMAL HANDLIN’1 Greatly feared, Comanche warriors fight to drive the settlers from their land. Brave and fearsome fighters, their tactics can be vicious and cruel.
-Talents:  bow master ,  horse warrior ,  tomahawk fighter .
-Gear: Native weapons, rifle, wampum manuscripts.
+**COMANCHE WARRIOR** — GRIT 4, QUICK 3, CUNNING 4, DOCITY 3
+PRESENCE 1, MOVE 1, HAWKEYE 1, NATURE 1, RESILIENCE 1
+ANIMAL HANDLIN’1 Greatly feared, Comanche warriors fight to drive the settlers from their land. Brave and fearsome fighters, their tactics can be vicious and cruel.
+**Talents:** Bow Master, Horse Warrior, Tomahawk Fighter.
+**Gear:** Native weapons, rifle, wampum manuscripts.
 
-DOCTOR GRIT 3 QUICK 3 CUNNING 3 DOCITY 5 LABOR                        1  MOVE                        1  INSIGHT                    1 DOCTORIN’              3 PRESENCE                 1  LIGHT-FINGERED  1 BOOK LEARNIN’      1 RESILIENCE              1 Whether they’re college trained from the east, or a dusty old soul who learned on the job, just hope they have a steady hand.
-Talents:  authority ,  healing touch ,  herbalist .
-Gear: Doctoring bag, journal, bottle of whiskey.
+**DOCTOR** — GRIT 3, QUICK 3, CUNNING 3, DOCITY 5
+LABOR 1, MOVE 1, INSIGHT 1, PRESENCE 1, LIGHT-FINGERED 1, RESILIENCE 1
+Whether they’re college trained from the east, or a dusty old soul who learned on the job, just hope they have a steady hand.
+**Talents:** Authority, Healing Touch, Herbalist.
+**Gear:** Doctoring bag, journal, bottle of whiskey.
 
-ENGINEER/MINER GRIT 5 QUICK 4 CUNNING 2 DOCITY 3 LABOR                        2  MOVE                        1  NATURE                     1  MAKIN’                      1 RESILIENCE              1 OPERATE                  3 ANIMAL HANDLIN’ 1 Greasy and grimy, the railway folk, blacksmiths, and miners are hard at work behind the soot that covers their faces. This work is dangerous, but not to these people.
-Talents:  engineer ,  miner 49er ,  smith .
+**ENGINEER/MINER** — GRIT 5, QUICK 4, CUNNING 2, DOCITY 3
+LABOR 2, MOVE 1, NATURE 1, RESILIENCE 1, OPERATE 3
+ANIMAL HANDLIN’ 1 Greasy and grimy, the railway folk, blacksmiths, and miners are hard at work behind the soot that covers their faces. This work is dangerous, but not to these people.
+**Talents:** Engineer, Miner 49er, Smith.
 Gear: Dirty overalls, panning equipment, dynamite.
 
-HOMESTEADER GRIT 4 QUICK 3 CUNNING 4 DOCITY 3 LABOR                        2  SHOOTIN’                 1 NATURE                     2  MAKIN’                      1 FIGHTIN’                    1  ANIMAL HANDLIN’1 DOCTORIN’              1 RESILIENCE              1 The farming life is all toil and sweat, backbreaking honest work. And the farmer doesn’t ask for much—but what they have they fiercely protect.
-Talents:  brawler ,  companion ,  shotgun master .
-Gear: Farming tools, shotgun, and a wagon.
+**HOMESTEADER** — GRIT 4, QUICK 3, CUNNING 4, DOCITY 3
+LABOR 2, NATURE 2, RESILIENCE 1
+The farming life is all toil and sweat, backbreaking honest work. And the farmer doesn’t ask for much—but what they have they fiercely protect.
+**Talents:** Brawler, Companion, Shotgun Master.
+**Gear:** Farming tools, shotgun, and a wagon.
 
-JUDGE/LAWYER GRIT 3 QUICK 3 CUNNING 3 DOCITY 5 PRESENCE                 2  HAWKEYE                 1  PERFORMIN’            2 RESILIENCE              1 INSIGHT                    2 BOOK LEARNIN’     2 Knowledge of the law looks like black magic to a lot of folk. Lawyers and judges are needed, but must be trusted—not all live up to that trust.
-Talents:  authority ,   judge of character ,  lawyer .
-Gear: Law journals, writing materials, fancy hat.
+**JUDGE/LAWYER** — GRIT 3, QUICK 3, CUNNING 3, DOCITY 5
+PRESENCE 2, HAWKEYE 1, RESILIENCE 1, INSIGHT 2
+BOOK LEARNIN’ 2
+Knowledge of the law looks like black magic to a lot of folk. Lawyers and judges are needed, but must be trusted—not all live up to that trust.
+**Talents:** Authority, Judge of Character, Lawyer.
+**Gear:** Law journals, writing materials, fancy hat.
 
-OUTLAW GRIT 4 QUICK 5 CUNNING 3 DOCITY 2 PRESENCE                2  MOVE                        1  HAWKEYE                1  PERFORMIN’             1 FIGHTIN’                   2  SHOOTIN’                 2 ANIMAL HANDLIN’1 Dangerous and often desperate, outlaws are always ready to go for their guns to steal a big haul or escape the law.
-Talents:  dead eye ,  hay-maker ,  two gun .
-Gear: Two revolvers, rifle, bullet-ridden wanted poster of themselves.
+**OUTLAW** — GRIT 4, QUICK 5, CUNNING 3, DOCITY 2
+PRESENCE 2, MOVE 1, HAWKEYE 1
+PERFORMIN’ 1, FIGHTIN’ 2, SHOOTIN’ 2
+ANIMAL HANDLIN’1 Dangerous and often desperate, outlaws are always ready to go for their guns to steal a big haul or escape the law.
+**Talents:** Dead Eye, Haymaker, Two Gun.
+**Gear:** Two revolvers, rifle, bullet-ridden wanted poster of themselves.
 
-PINKERTON GRIT 4 QUICK 3 CUNNING 4 DOCITY 3 PRESENCE                 1  MOVE                        1  HAWKEYE                 1  PERFORMIN’             1 FIGHTIN’                    1 SHOOTIN’                 1 NATURE                     1  BOOK LEARNIN’      1 INSIGHT                    2 Feared across the west, the Pinkerton investigators are relentless in their pursuit of their objective, and will use anyone and anything to get what they want.
-Talents:  charming ,  lawyer ,  rabble rouser .
-Gear: Slick suit, revolver, plenty of cash for bribes.
+**PINKERTON** — GRIT 4, QUICK 3, CUNNING 4, DOCITY 3
+PRESENCE 1, MOVE 1, HAWKEYE 1, NATURE 1, INSIGHT 2
+Feared across the west, the Pinkerton investigators are relentless in their pursuit of their objective, and will use anyone and anything to get what they want.
+**Talents:** Charming, Lawyer, Rabble Rouser.
+**Gear:** Slick suit, revolver, plenty of cash for bribes.
 
-PONY EXPRESS RIDER GRIT 3 QUICK 4 CUNNING 5 DOCITY 2 RESILIENCE              1 MOVE                        2  HAWKEYE                 2  PERFORMIN’            2 SHOOTIN’                 1 NATURE                     1 ANIMAL HANDLIN’ 3 It’s a deadly job, but it pays well. Only the best riders get to ride the Pony Express, and they are usually young—too stupid to know better.
-Talents:  born in the saddle ,  lightning fast ,  lucky .
+**PONY EXPRESS RIDER** — GRIT 3, QUICK 4, CUNNING 5, DOCITY 2
+RESILIENCE 1, MOVE 2, HAWKEYE 2, NATURE 1
+ANIMAL HANDLIN’ 3 It’s a deadly job, but it pays well. Only the best riders get to ride the Pony Express, and they are usually young—too stupid to know better.
+**Talents:** Born in the Saddle, Lightning Fast, Lucky.
 Gear: Weathered saddlebags, revolver, rope.
 
-PREACHER GRIT 3 QUICK 3 CUNNING 4 DOCITY 4 LABOR                       1  MOVE                        1 INSIGHT                    2 PERFORMIN’            3 PRESENCE                1 DOCTORIN’              1 BOOK LEARNIN’      1 Extolling the word of the Lord from a street corner, saloon bar, or even a church, preachers are usually seen as better folk than the rabble. But they don’t always turn out that way.
-Talents:  high society ,  rabble rouser ,  the voice .
+**PREACHER** — GRIT 3, QUICK 3, CUNNING 4, DOCITY 4
+LABOR 1, MOVE 1, INSIGHT 2, PRESENCE 1
+DOCTORIN’ 1, BOOK LEARNIN’ 1
+Extolling the word of the Lord from a street corner, saloon bar, or even a church, preachers are usually seen as better folk than the rabble. But they don’t always turn out that way.
+**Talents:** High Society, Rabble Rouser, The Voice.
 Gear: Dog collar, battered copy of the bible, and a donation box.
 
-RANCH HAND/VAQUERO GRIT 4 QUICK 4 CUNNING 4 DOCITY 2 LABOR                        1  MOVE                        1  HAWKEYE                 1 FIGHTIN’                    1  SHOOTIN’                 1  NATURE                     1 LIGHT-FINGERED  1 ANIMAL HANDLIN’ 2 RESILIENCE              1 Horses, ropes, lassos, and a herd of cattle—that about sums up the rancher life. Well, except for the rowdy saloons, drunken carousing, and bar fights.
-Talents:  bronc buster ,  companion ,  roper .
-Gear: Revolver, rifle, lasso.
+**RANCH HAND/VAQUERO** — GRIT 4, QUICK 4, CUNNING 4, DOCITY 2
+LABOR 1, MOVE 1, HAWKEYE 1, NATURE 1, LIGHT-FINGERED 1, RESILIENCE 1
+Horses, ropes, lassos, and a herd of cattle—that about sums up the rancher life. Well, except for the rowdy saloons, drunken carousing, and bar fights.
+**Talents:** Bronc Buster, Companion, Roper.
+**Gear:** Revolver, rifle, lasso.
 
-SALOON PROPRIETOR GRIT 3 QUICK 4 CUNNING 4 DOCITY 3 PRESENCE                2  SHOOTIN’                 1 HAWKEYE                 1  PERFORMIN’           2 FIGHTIN’                   1 INSIGHT                    2  BOOK LEARNIN’     1 It’s hard work to set up a popular saloon, with the drunk and rowdy folks like to cause a ruckus—takes a certain kind of man or woman to make a go of it.
-Talents:  business minded ,  charming ,  guard dog .
-Gear: Dirty apron, shotgun, the best whiskey in the house.
+**SALOON PROPRIETOR** — GRIT 3, QUICK 4, CUNNING 4, DOCITY 3
+PRESENCE 2, HAWKEYE 1, INSIGHT 2
+BOOK LEARNIN’ 1
+It’s hard work to set up a popular saloon, with the drunk and rowdy folks like to cause a ruckus—takes a certain kind of man or woman to make a go of it.
+**Talents:** Business Minded, Charming, Guard Dog.
+**Gear:** Dirty apron, shotgun, the best whiskey in the house.
 
-SHERIFF/MARSHAL GRIT 4 QUICK 4 CUNNING 3 DOCITY 3 PRESENCE                 1  MOVE                        1  HAWKEYE                 2  PERFORMIN’             1 FIGHTIN’                    1 SHOOTIN’                 2 INSIGHT                    1 DOCTORIN’               1 You know the type—calm, quietly spoken, fast with the gun, and public spirited. Well, usually.
-Talents:  authority ,  pistoleer ,  warcry .
-Gear: Pair of pistols and Lawdog holsters, ornate pipe, and a badge.
+**SHERIFF/MARSHAL** — GRIT 4, QUICK 4, CUNNING 3, DOCITY 3
+PRESENCE 1, MOVE 1, HAWKEYE 2, INSIGHT 1
+DOCTORIN’ 1
+You know the type—calm, quietly spoken, fast with the gun, and public spirited. Well, usually.
+**Talents:** Authority, Pistoleer, War Cry.
+**Gear:** Pair of pistols and Lawdog holsters, ornate pipe, and a badge.
 
-STAGECOACH GUARD GRIT 4 QUICK 4 CUNNING 4 DOCITY 3 PRESENCE                2  SHOOTIN’                 2 HAWKEYE                 2  DOCTORIN’              1 FIGHTIN’                   1  INSIGHT                    1 RESILIENCE             1 Dependable and good with a shotgun, these folk ride from place to place, ready to protect your mail bag or your niece coming in from outta town.
-Talents:  pugilist ,  shotgun master ,  survivor .
+**STAGECOACH GUARD** — GRIT 4, QUICK 4, CUNNING 4, DOCITY 3
+PRESENCE 2, HAWKEYE 2, INSIGHT 1, RESILIENCE 1
+Dependable and good with a shotgun, these folk ride from place to place, ready to protect your mail bag or your niece coming in from outta town.
+**Talents:** Pugilist, Shotgun Master, Survivor.
 Gear: Shotgun, key to the strongbox, bottle of whiskey.
 
-TRACKER/HUNTER GRIT 4 QUICK 3 CUNNING 5 DOCITY 2 FIGHTIN’                    1  SHOOTIN’                 1 HAWKEYE                 2  PERFORMIN’            2 RESILIENCE              2 NATURE                     3 ANIMAL HANDLIN’ 1 Living a life in the wilderness, these folk disappear for weeks on end, no one able to find them if they tried.
+**TRACKER/HUNTER** — GRIT 4, QUICK 3, CUNNING 5, DOCITY 2
+HAWKEYE 2, RESILIENCE 2, NATURE 3
+ANIMAL HANDLIN’ 1 Living a life in the wilderness, these folk disappear for weeks on end, no one able to find them if they tried.
 Then one day they just turn up, back in town.
-Talents:  man’s best friend ,  mountain folk ,  sharp shooter .
+**Talents:** Man’s Best Friend, Mountain Folk, Sharpshooter.
 Gear: Warm furs, rifle, camping gear.
 
-TRADER/SHOPKEEPER GRIT 3 QUICK 3 CUNNING 4 DOCITY 4 PRESENCE                 1 OPERATE                  1  HAWKEYE                 1  PERFORMIN’             2 LIGHT-FINGERED  1 INSIGHT                    2 MAKIN’                       2 Sweaty from the steam or heat of the fire, or grimy from whatever it is they make and sell, traders trade in just about anything.
-Talents:  business minded ,  gunsmith ,  shill .
-Gear: Tools of the trade, revolver, and a hard-working apprentice.
+**TRADER/SHOPKEEPER** — GRIT 3, QUICK 3, CUNNING 4, DOCITY 4
+PRESENCE 1, OPERATE 1, HAWKEYE 1, LIGHT-FINGERED 1, INSIGHT 2
+MAKIN’ 2
+Sweaty from the steam or heat of the fire, or grimy from whatever it is they make and sell, traders trade in just about anything.
+**Talents:** Business Minded, Gunsmith, Shill.
+**Gear:** Tools of the trade, revolver, and a hard-working apprentice.

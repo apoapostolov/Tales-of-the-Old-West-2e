@@ -489,7 +489,12 @@ Here is how you go about creating your new town:
 
 **4** . Roll to see how many starting amenities the town already has. This is based on the starting status of the town.
 
-D6 Starting status Starting amenites 1-2 New ground just broken - For a  1D3 game that starts at the formation of the town - “The clean earth has just been broken” 3-4 A new place - For a town that’s  2D3 just getting going - “People are building and finding a way to live here” 5 Early days - But people are start- 1D6+4 ing to set down roots - “Homes and amenities are springing up” 6 2D6+4 Establishing - The town’s growing, becoming a “place” - “People are starting to hear of this town”
+| D6 | Starting status | Starting amenities |
+| --- | --- | --- |
+| 1–2 | New ground just broken — For a game that starts at the formation of the town — “The clean earth has just been broken” | 1D3 |
+| 3–4 | A new place — For a town that’s just getting going — “People are building and finding a way to live here” | 2D3 |
+| 5 | Early days — But people are starting to set down roots — “Homes and amenities are springing up” | 1D6+4 |
+| 6 | Establishing — The town’s growing, becoming a “place” — “People are starting to hear of this town” | 2D6+4 |
 
 **5** . A new town’s aspects all start at rank 1, with 1 tally point. Choose the town’s starting amenities and apply the relevant bonuses and benefits. The settlement’s backstory might influence which amenities you choose. For example, a town next to a river or brook might choose Wells or Fishing Rights. One established along a well-trodden trail might choose Maintained Tracks, as people pass through here often. At this point no aspect can drop to zero—if any modifier would reduce the score to zero it is ignored and the tally remains at 1.
 
@@ -800,7 +805,7 @@ The Town Fortune roll determines an event relating to your town, that might add 
 | 42 | Deadly Feud - You’ve heard stories of a deadly feud in a town or county nearby. You don’t know if it’s true but fear it could spread and end up here. |
 | 43 | The Traveling Theatre Troupe - Entertainment is the salve of a hardworking heart, and it’s good to take a break from it all. But what else will these traveling folk bring? |
 | 44 | Perfect Conditions - The winds are good, the rains are just right, the sun is shining, and the pests and vermin are nowhere to be seen. It’s great being a farmer when the Lord sends conditions like these! Characters running a Farming business get a +1 bonus to their Business roll at the end of the season. |
-| | 45 | The Army is Coming - There’s rumors that the army is heading this way, but no one knows for why. Whatever the reason, the army brings money—both an opportunity and a threat to the local town. Characters running a Merchant or Trading outfit get a +1 bonus to their Business roll at the end of the season. |
+| 45 | The Army is Coming - There’s rumors that the army is heading this way, but no one knows for why. Whatever the reason, the army brings money—both an opportunity and a threat to the local town. Characters running a Merchant or Trading outfit get a +1 bonus to their Business roll at the end of the season. |
 | 46 | Big Claims - Rumors abound that this place is onto something big. New folks are in town selling these big claims cheap to anyone that can pay. Sounds too good to be true... Characters running a Resources outfit get a +1 bonus to their Business roll at the end of the next season. |
 | 51 | New Preacher in Town - There’s always more space for God in the life of the town, so maybe this new preacher man is a good thing! The town can buy the Church amenity for 3 Settlement Points, but only if they buy it this season. |
 | 52 | Cattle Drive - There’s rumors of a cattle drive coming this way. Maybe a chance for some work, or an opportunity to take possession of a nice steer or two. Add 1 tally point to either Farming, Mercantile or Natural Riches. |

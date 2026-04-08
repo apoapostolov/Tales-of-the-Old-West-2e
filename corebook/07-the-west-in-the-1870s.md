@@ -178,52 +178,46 @@ For ease of familiarity and accessibility to the widest gaming community possibl
 
 ### Tribal Names
 
-Common modern used tribal name Possible endonym Comments Apache Indé, Ndeh Closely related to the Navajo.
-Nomadic buffalo hunters, they were called different things by Arapaho Hinono'eiteen different tribes, often with a ‘Sky’ or ‘Cloud’ reference. Tradi- tional allies of Cheyenne and Sioux, and enemies of Comanche and Kiowa.
-The name means “horns” or possibly “elk people”. They were Arikara Arikara semi-nomadic but did cultivate corn, beans and tobacco. Said to own many dogs.
-The commonly used name of Assinboine (meaning “burned Assinboine Hohe Nakota rock”) was coined by the Chippewas tribe in 1812 when Chippewas captives were burned to death by their Assinboine enemies.
-Called Blackfoot by other tribes due to their black leather Blackfoot Niitsitapi moccasins, the Native name means “the real people”.
-The name Cayuse was coined by early French Canadian trap- Cayuse Liksiyu pers. Renowned for breeding the Cayuse horse, a fast horse with great endurance. Semi-nomadic. They came into conflict with white settlers after the opening of the Oregon Trail, and as a result of the 1848 gold rush.
-The name Cherokee probably comes from other tribal names for Cherokee Anigiduwagi them meaning “people who live in the cave / mountain country”.
-One of the so-called Five Civilized Tribes forcibly moved from their lands in the southeast to reservations in Indian Territory (modern Oklahoma). They were agrarian farmers and hunters.
-These two tribes merged to form the Cheyenne in 1830, which Cheyenne Só'taeo'o and Tsitsistas itself might mean “red talker,” a name possibly given them by the Lakota.
-The name means “rebel” in the Choctaw language. One of the Chickasaw Chikashsha so-called Five Civilized Tribes.
-A Pacific Northwestern community, their name possibly means Chinook Tsinúk “fish eaters” or “strong fighters”.
-The name possibly derived from a tribal leader, or from the Choctaw Chahta Choctaw phrase for “river people”, Hacha hatak. One of the so-called Five Civilized Tribes.
-The name means “bead people” or “seashell people”.
-Chumash Chumash The name Comanche may have come from the Ute word Comanche Nermenuh “komantica” meaning “people who fight all the time”, possibly a compliment as the Ute and Comanche tribes were allies at the time.
-Creek Mvskoke One of the so-called Five Civilized Tribes.
-Rivals of the Sioux and Cheyenne. Their name was possibly Crow Apsáalooke coined by the Hidatsa tribe, meaning “children of the large-beaked bird” and shortened to “crow” or “raven” by other tribes.
-The name means “one who is well-mannered”. The Hopi are Hopi Hopi descended from ancestral Puebloans.
-
-Pronounced “walapai”, the name means “people of the tall pines” Hualapai Hwalbáy in the Native language.
-Hupa Natinixwe The name means “people of the place where the trails return”.
-The name Kiowa is possibly derived from the way the Coman- Kiowa Kútjàu, Ka’igwu che would pronounce the tribe’s name.
-The Lakota name comes from the endonym, Lakota, meaning Lakota Thíthunwan “feeling affection, friendly or unified”—there are dozens of variations used by different tribes. A part of the Great Sioux Nation.
-Lenape Lënapeyok Called the Delaware by English colonists.
-Wiped out by smallpox brought to them by settlers, the Mandan Mandan Numakiki, Nuweta tribe numbered only in the hundreds in the mid to late nine- teenth century.
-Miami Mihtohseeniaki,  The name means “the people”. Forcibly moved to Indian Terri- Myaamiaki tory from their traditional homelands around the great lakes.
-Indigenous to the Colorado river and Mojave desert across Mojave 'Aha Makhav Arizona, California, Nevada and Utah, they were forced onto reservations in 1865, although many refused.
-Initially hunter-gatherers, the Navajo adopted agriculture from Navajo Diné the Puebloan peoples, then sheep and goat herding from the Spanish.
-The name means “we, the people”. The name Nez Perce (literal- Nez Perce Nimíipuu ly “pierced nose”) was coined by French Canadian fur traders in
--
-the eighteenth century. Hunter gathering lifestyle.
-Consisting of three separate tribes living in the Great Basin Paiute Numa, Nuwuvi area, the Northern and Southern Paiute, and the Mono.
-Living in what became Kansas and Nebraska, the Pawnee were Pawnee Pawnee so badly ravaged by attacks from the Lakota that they were relocated to the Indian Territory in the 1870s.
-Meaning “river people”, the tribe lived along the Gila and Salt Pima Akimel O'odham rivers.
-Pomo Pomo Meaning “those who live at the red earth hole”.
-Forcibly moved to Indian Territory under the 1830 Indian Quapaw Ugahxpa Removal Act.
-Includes the Sanpoils and the Kootenai tribe, also called the Salish Séliš u Qlispé Flatheads by colonists due to their tradition of artificially flattening the foreheads of their children.
-The name means “free people”. One of the so-called Five Seminole Yat'siminoli Civilized Tribes.
-Part of the Six Nations, aka the Iroquois League, forcibly moved Seneca Onödowága to Indian Territory in the 1830s.
-Forcibly moved to Indian Territory under the 1830 Indian Shawnee Various possibilities Removal Act.
-The Shoshone name derives from the Shoshone word sosoni, a Shoshone Newe grass they used to make their homes. Known as “Grass House People” by other tribes.
-
-|---|---|---|
-
-|Washo|_Wašiw_|Means “the people from here”.|
-
-|Yuma|_Yuma / Quechan_|The name means “those who descended”.|
+| Common Name | Endonym | Comments |
+| --- | --- | --- |
+| Apache | Indé, Ndeh | Closely related to the Navajo. |
+| Arapaho | Hinono’eiteen | Nomadic buffalo hunters, they were called different things by different tribes, often with a ‘Sky’ or ‘Cloud’ reference. Traditional allies of Cheyenne and Sioux, and enemies of Comanche and Kiowa. |
+| Arikara | Arikara | The name means “horns” or possibly “elk people”. They were semi-nomadic but did cultivate corn, beans and tobacco. Said to own many dogs. |
+| Assinboine | Hohe Nakota | The commonly used name of Assinboine (meaning “burned rock”) was coined by the Chippewas tribe in 1812 when Chippewas captives were burned to death by their Assinboine enemies. |
+| Blackfoot | Niitsitapi | Called Blackfoot by other tribes due to their black leather moccasins, the Native name means “the real people”. |
+| Cayuse | Liksiyu | The name Cayuse was coined by early French Canadian trappers. Renowned for breeding the Cayuse horse, a fast horse with great endurance. Semi-nomadic. They came into conflict with white settlers after the opening of the Oregon Trail, and as a result of the 1848 gold rush. |
+| Cherokee | Anigiduwagi | The name Cherokee probably comes from other tribal names for them meaning “people who live in the cave / mountain country”. One of the so-called Five Civilized Tribes forcibly moved from their lands in the southeast to reservations in Indian Territory (modern Oklahoma). They were agrarian farmers and hunters. |
+| Cheyenne | Só’taeo’o and Tsitsistas | These two tribes merged to form the Cheyenne in 1830, which itself might mean “red talker,” a name possibly given them by the Lakota. |
+| Chickasaw | Chikashsha | The name means “rebel” in the Choctaw language. One of the so-called Five Civilized Tribes. |
+| Chinook | Tsinúk | A Pacific Northwestern community, their name possibly means “fish eaters” or “strong fighters”. |
+| Choctaw | Chahta | The name possibly derived from a tribal leader, or from the Choctaw phrase for “river people”, Hacha hatak. One of the so-called Five Civilized Tribes. |
+| Chumash | Chumash | The name means “bead people” or “seashell people”. |
+| Comanche | Nermenuh | The name Comanche may have come from the Ute word “komantica” meaning “people who fight all the time”, possibly a compliment as the Ute and Comanche tribes were allies at the time. |
+| Creek | Mvskoke | One of the so-called Five Civilized Tribes. |
+| Crow | Apsáalooke | Rivals of the Sioux and Cheyenne. Their name was possibly coined by the Hidatsa tribe, meaning “children of the large-beaked bird” and shortened to “crow” or “raven” by other tribes. |
+| Hopi | Hopi | The name means “one who is well-mannered”. The Hopi are descended from ancestral Puebloans. |
+| Hualapai | Hwalbáy | Pronounced “walapai”, the name means “people of the tall pines” in the Native language. |
+| Hupa | Natinixwe | The name means “people of the place where the trails return”. |
+| Kiowa | Kútjàu, Ka’igwu | The name Kiowa is possibly derived from the way the Comanche would pronounce the tribe’s name. |
+| Lakota | Thíthunwan | The Lakota name comes from the endonym, Lakota, meaning “feeling affection, friendly or unified”—there are dozens of variations used by different tribes. A part of the Great Sioux Nation. |
+| Lenape | Lënapeyok | Called the Delaware by English colonists. |
+| Mandan | Numakiki, Nuweta | Wiped out by smallpox brought to them by settlers, the Mandan tribe numbered only in the hundreds in the mid to late nineteenth century. |
+| Miami | Mihtohseeniaki, Myaamiaki | The name means “the people”. Forcibly moved to Indian Territory from their traditional homelands around the great lakes. |
+| Mojave | ’Aha Makhav | Indigenous to the Colorado river and Mojave desert across Arizona, California, Nevada and Utah, they were forced onto reservations in 1865, although many refused. |
+| Navajo | Diné | Initially hunter-gatherers, the Navajo adopted agriculture from the Puebloan peoples, then sheep and goat herding from the Spanish. |
+| Nez Perce | Nimíipuu | The name means “we, the people”. The name Nez Perce (literally “pierced nose”) was coined by French Canadian fur traders in the eighteenth century. Hunter gathering lifestyle. |
+| Paiute | Numa, Nuwuvi | Consisting of three separate tribes living in the Great Basin area, the Northern and Southern Paiute, and the Mono. |
+| Pawnee | Pawnee | Living in what became Kansas and Nebraska, the Pawnee were so badly ravaged by attacks from the Lakota that they were relocated to the Indian Territory in the 1870s. |
+| Pima | Akimel O’odham | Meaning “river people”, the tribe lived along the Gila and Salt rivers. |
+| Pomo | Pomo | Meaning “those who live at the red earth hole”. |
+| Quapaw | Ugahxpa | Forcibly moved to Indian Territory under the 1830 Indian Removal Act. |
+| Salish | Séliš u Qlispé | Includes the Sanpoils and the Kootenai tribe, also called the Flatheads by colonists due to their tradition of artificially flattening the foreheads of their children. |
+| Seminole | Yat’siminoli | The name means “free people”. One of the so-called Five Civilized Tribes. |
+| Seneca | Onödowágá | Part of the Six Nations, aka the Iroquois League, forcibly moved to Indian Territory in the 1830s. |
+| Shawnee | Various possibilities | Forcibly moved to Indian Territory under the 1830 Indian Removal Act. |
+| Shoshone | Newe | The Shoshone name derives from the Shoshone word sosoni, a grass they used to make their homes. Known as “Grass House People” by other tribes. |
+| Washo | _Wašiw_ | Means “the people from here”. |
+| Yuma | _Yuma / Quechan_ | The name means “those who descended”. |
 
 ### A Brief History of African Americans
 
