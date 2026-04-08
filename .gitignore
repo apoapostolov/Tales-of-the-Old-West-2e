@@ -2,3 +2,4 @@ corebook/*.final.md
 scripts/__pycache__/
 *.pyc
 .venv/
+_visual_pass/
