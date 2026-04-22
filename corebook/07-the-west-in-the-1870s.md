@@ -1,6 +1,6 @@
-## Chapter 7 - The West in the 1870s
+﻿## Chapter 7 - The West in the 1870s
 
-> *“A PIONEER IS THE MAN WHO TURNED ALL THE GRASS UPSIDE DOWN, STRUNG BOB-WIRE OVER THE DUST THAT WAS LEFT, POISONED THE WATER, CUT DOWN THE TREES, KILLED THE INDIAN WHO OWNED THE LAND, AND CALLED IT PROGRESS.”*
+> _“A PIONEER IS THE MAN WHO TURNED ALL THE GRASS UPSIDE DOWN, STRUNG BOB-WIRE OVER THE DUST THAT WAS LEFT, POISONED THE WATER, CUT DOWN THE TREES, KILLED THE INDIAN WHO OWNED THE LAND, AND CALLED IT PROGRESS.”_
 >
 > — CHARLES M RUSSELL, ARTIST OF THE OLD WEST
 
@@ -52,7 +52,7 @@ We have listed some of the sources that have inspired us at the end of this chap
 
 **Dakota Territory** : Wide and fertile grasslands with low mountains in the south, forested river valleys and a temperate climate. The Missouri river divides the territory down the middle. The Black Hills stand in the west, while the Great Plains meet the Red River Valley in the north. As in Montana, there are extensive Badlands in the west, where the land has eroded into striking rock formations.
 
-**Nebraska Territory** : Rolling plains, with low hills and grasslands to the east—the Dissected Till Plains—that meets the treeless prairies of the Great Plains to the west. There are woodlands to the east and in the northwest, and expansive wetlands, with lakes, marshes, swamps, and backwaters.
+**Nebraska** : Rolling plains, with low hills and grasslands to the east—the Dissected Till Plains—that meets the treeless prairies of the Great Plains to the west. There are woodlands to the east and in the northwest, and expansive wetlands, with lakes, marshes, swamps, and backwaters. Nebraska achieved statehood in 1867—the newest state in the Union when the game begins.
 
 **Kansas** : The western two thirds are covered by the central Great Plains, marked by shallow gullies called draws, created by water erosion. To the east the land gently rises, forming grasslands and forests. The state is pock-marked by hills and low mountain ranges such as Flint Hills in the southeast, and the Smoky Hills to the west.
 
@@ -84,7 +84,7 @@ The environmental cost was immense and immediate. Hydraulic mining in California
 
 **1836** : Texas declares independence.
 
-**1841** : The Bidwell-Bartleson wagon train takes the first migrants on the Oregon Trail, the eventually well-worn route used by thousands of settlers, from the east to the northwest.
+**1841** : The Bidwell-Bartleson wagon train departs from Missouri, the first organized emigrant party to make the overland journey to California—blazing what would become the California Trail and proving the route could be crossed by wagon.
 
 **1845** : Texas is incorporated into the Union as a state. This starts the chain of events that leads to the Mexican–American War, which breaks out in hostilities the following year.
 
@@ -126,7 +126,7 @@ In the same year, the US Army under Kit Carson forces approximately 8,000–9,00
 
 **1870** : The 1870 census records the population as 2,187,000. The concept of “Ghost Dancing” appears within Native American culture when a Paiute shaman prophecies that fallen warriors will rise from the dead, and the whites will fall. Utah Territory grants women the right to vote, the second territory to do so.
 
-**1871** : The Indian Appropriation Act is passed, ending any federal recognition for tribes as “independent nations” and effectively nullifying every previous treaty made with Native American communities. In Los Angeles, a mob of around 500 white and Hispanic men attacks the Chinese community, murdering at least 18 Chinese people in what becomes known as the Chinese Massacre of 1871. Eight men are convicted; all convictions are later overturned on technicalities.
+**1871** : The Indian Appropriation Act is passed, ending the practice of making new treaties with tribes as if they were independent nations. Existing treaty obligations are nominally preserved—but stripped of the mechanism of enforcement. From here on, Congress can simply legislate what was once negotiated, and does. In Los Angeles, a mob of around 500 white and Hispanic men attacks the Chinese community, murdering at least 18 Chinese people in what becomes known as the Chinese Massacre of 1871. Eight men are convicted; all convictions are later overturned on technicalities.
 
 **1874** : Barbed wire is patented and appears as a commodity, transforming the open range and accelerating conflicts over land.
 
@@ -306,7 +306,7 @@ By the 1870s, the civilian scout and guide occupied one of the most respected an
 
 **Native American scouts** were used extensively throughout the Indian Wars, and their role is profoundly uncomfortable. Apache scouts helped track other Apaches. Crow scouts guided the Army against the Lakota. Pawnee scouts worked with the Army against the Sioux. These men had their own reasons—tribal rivalries, economic necessity, personal grievances—but the image of Native men helping the Army destroy Native resistance is one of the frontier's sharpest moral ironies.
 
-**Kit Carson**, by the 1870s already a legendary figure in his own lifetime, spent his career as a trapper, scout, Army guide, and agent. His record was mixed: he was genuinely capable, genuinely respected, and he personally oversaw the forced removal of the Navajo on the Long Walk—burning crops, destroying orchards, killing livestock to force surrender. A scout's loyalties were always divided, their morality always tested. The scout-guide as a party role is the group's interface with the wilderness: he knows where the water is, which passes are guarded, and what the signs on the trail mean. He knows people on both sides of every conflict. He is invaluable, and he is permanently at risk.
+**Kit Carson**—dead by 1868, but already a legend well before that—spent his career as a trapper, scout, Army guide, and agent. His record was mixed: he was genuinely capable, genuinely respected, and he personally oversaw the forced removal of the Navajo on the Long Walk—burning crops, destroying orchards, killing livestock to force surrender. A scout's loyalties were always divided, their morality always tested. The scout-guide as a party role is the group's interface with the wilderness: he knows where the water is, which passes are guarded, and what the signs on the trail mean. He knows people on both sides of every conflict. He is invaluable, and he is permanently at risk.
 
 ### The Circuit Preacher and the Revival
 
@@ -424,7 +424,7 @@ The frontier West was subject to natural violence of a scale that modern America
 
 Where formal law enforcement was absent, weak, or corrupt, vigilantes filled the void—and created new horrors. Vigilance committees sprang up across the West, claiming to bring order where there was none. Sometimes they were right. Often they became the very thing they claimed to oppose.
 
-The **San Francisco Committees of Vigilance** (1851 and 1856) are the most famous examples. Composed of prominent businessmen, they seized control of the city, conducted their own trials, and hanged those they found guilty. The 1856 committee had thousands of armed members, maintained its own fort and jail, and openly defied the state government. When they were done, they disbanded and most of their leaders went into mainstream politics. The message was clear: when you have enough money and enough men, you *are* the law.
+The **San Francisco Committees of Vigilance** (1851 and 1856) are the most famous examples. Composed of prominent businessmen, they seized control of the city, conducted their own trials, and hanged those they found guilty. The 1856 committee had thousands of armed members, maintained its own fort and jail, and openly defied the state government. When they were done, they disbanded and most of their leaders went into mainstream politics. The message was clear: when you have enough money and enough men, you _are_ the law.
 
 In Montana Territory, vigilantes hanged over 20 men in the winter of 1863–64, including Sheriff Henry Plummer, who was alleged to be leading a gang of road agents. The evidence against some of those hanged was thin or nonexistent—some historians believe the vigilantes were as much about political and economic power as about justice. The vigilantes left their mark: “3-7-77”—numbers whose meaning is still debated but which were posted as death warnings—became the symbol of the Montana Highway Patrol.
 
@@ -500,7 +500,7 @@ Whiskey was also deliberately used as a weapon against Native American communiti
 
 **Opium** was legal, widely available, and used by a far larger cross-section of Western society than the stereotype of the Chinese opium den suggests. Chinese communities did maintain opium dens—smoking rooms where opium was used recreationally—and these were popular with white customers too, despite (or because of) being considered scandalous. But the more widespread form of opium use was medicinal. Laudanum, a tincture of opium dissolved in alcohol, was sold at every general store and prescribed by every frontier doctor. It was given to teething babies, menstruating women, elderly invalids, and anyone complaining of virtually any ailment. “Mrs. Winslow’s Soothing Syrup,” marketed for fussy infants, contained morphine. Addiction was common, devastating, and almost never discussed openly. Women, who had fewer socially acceptable outlets for hardship, were disproportionately addicted to laudanum—the “respectable” form of drug dependency.
 
-**Patent medicines** were the snake oil of the era—literally. Traveling medicine shows sold bottled “cures” for everything from consumption to impotence. These concoctions typically contained alcohol, opium, cocaine, mercury, or arsenic in various combinations. *Hamlin’s Wizard Oil* was mostly alcohol and camphor. *Hostetter’s Stomach Bitters*, one of the most popular patent medicines in the West, was 47% alcohol—stronger than most whiskey. In temperance-leaning communities and on dry reservations, patent medicines were the workaround: you weren’t drinking, you were taking your “medicine.” There was no regulation, no ingredient listing, and no recourse for those poisoned or addicted by these products.
+**Patent medicines** were the snake oil of the era—literally. Traveling medicine shows sold bottled “cures” for everything from consumption to impotence. These concoctions typically contained alcohol, opium, cocaine, mercury, or arsenic in various combinations. _Hamlin’s Wizard Oil_ was mostly alcohol and camphor. _Hostetter’s Stomach Bitters_, one of the most popular patent medicines in the West, was 47% alcohol—stronger than most whiskey. In temperance-leaning communities and on dry reservations, patent medicines were the workaround: you weren’t drinking, you were taking your “medicine.” There was no regulation, no ingredient listing, and no recourse for those poisoned or addicted by these products.
 
 ### Disease, Death, and Frontier Medicine
 
@@ -534,7 +534,7 @@ In mining camps and cow towns, gambling houses and saloons were often the first 
 
 Gambling disputes were one of the most common triggers for lethal violence. Wild Bill Hickok was shot in the back of the head while playing poker in Deadwood—the “Dead Man’s Hand” of aces and eights. Accusations of cheating led to gunfights, stabbings, and beatings on a nightly basis in every cow town and mining camp. Card sharps who were caught cheating were sometimes beaten, sometimes run out of town, and sometimes killed on the spot.
 
-The gambling economy was tightly intertwined with prostitution, alcohol, and protection rackets. Saloon owners, brothel keepers, and gambling house operators formed the economic and often political backbone of frontier boomtowns. In places like Deadwood, Tombstone, and Dodge City, these “sporting” interests controlled town councils, appointed (or were) the marshal, and determined who could operate and who couldn’t. The distinction between legitimate business and organized crime was meaningless—they were the same thing. A campaign set in a cow town or mining camp isn’t set in a place with criminals in it; it’s set in a place *built by* criminals.
+The gambling economy was tightly intertwined with prostitution, alcohol, and protection rackets. Saloon owners, brothel keepers, and gambling house operators formed the economic and often political backbone of frontier boomtowns. In places like Deadwood, Tombstone, and Dodge City, these “sporting” interests controlled town councils, appointed (or were) the marshal, and determined who could operate and who couldn’t. The distinction between legitimate business and organized crime was meaningless—they were the same thing. A campaign set in a cow town or mining camp isn’t set in a place with criminals in it; it’s set in a place _built by_ criminals.
 
 ### The Buffalo Soldiers’ Dilemma
 
@@ -815,7 +815,7 @@ For ease of familiarity and accessibility to the widest gaming community possibl
 | Pima        | Akimel O’odham            | Meaning “river people”, the tribe lived along the Gila and Salt rivers.                                                                                                                                                                                                                                                                                                                                                                         |
 | Pomo        | Pomo                      | Meaning “those who live at the red earth hole”.                                                                                                                                                                                                                                                                                                                                                                                                 |
 | Quapaw      | Ugahxpa                   | Forcibly moved to Indian Territory under the 1830 Indian Removal Act.                                                                                                                                                                                                                                                                                                                                                                           |
-| Salish      | Séliš u Qlispé            | Includes the Sanpoils and the Kootenai tribe, also called the Flatheads by colonists due to their tradition of artificially flattening the foreheads of their children.                                                                                                                                                                                                                                                                         |
+| Salish      | Séliš u Qlispé            | Includes the Sanpoils and the Kootenai tribe, also called the Flatheads—a name that arose precisely because they did not practice cranial deformation; their naturally shaped heads appeared "flat" compared to neighboring peoples who did modify their skulls.                                                                                                                                                                                                                                                                         |
 | Seminole    | Yat’siminoli              | The name means “free people”. One of the so-called Five Civilized Tribes.                                                                                                                                                                                                                                                                                                                                                                       |
 | Seneca      | Onödowágá                 | Part of the Six Nations, aka the Iroquois League, forcibly moved to Indian Territory in the 1830s.                                                                                                                                                                                                                                                                                                                                              |
 | Shawnee     | Various possibilities     | Forcibly moved to Indian Territory under the 1830 Indian Removal Act.                                                                                                                                                                                                                                                                                                                                                                           |
@@ -970,21 +970,21 @@ The dime novels omitted the crying. Men on the frontier cried. Cowboys cried fro
 
 ### States of the West
 
-| State | Statehood |
-|---|---|
-| Texas | 1845 |
-| California | 1850 |
-| Oregon | 1859 |
-| Kansas | 1861 |
-| Nevada | 1864 |
-| Nebraska | 1867 |
-| Colorado | 1876 |
-| Dakota (split into North & South Dakota) | 1889 |
-| Montana | 1889 |
-| Washington State | 1889 |
-| Idaho | 1890 |
-| Wyoming | 1890 |
-| Utah | 1896 |
-| Oklahoma | 1907 |
-| Arizona | 1912 |
-| New Mexico | 1912 |
+| State                                    | Statehood |
+| ---------------------------------------- | --------- |
+| Texas                                    | 1845      |
+| California                               | 1850      |
+| Oregon                                   | 1859      |
+| Kansas                                   | 1861      |
+| Nevada                                   | 1864      |
+| Nebraska                                 | 1867      |
+| Colorado                                 | 1876      |
+| Dakota (split into North & South Dakota) | 1889      |
+| Montana                                  | 1889      |
+| Washington State                         | 1889      |
+| Idaho                                    | 1890      |
+| Wyoming                                  | 1890      |
+| Utah                                     | 1896      |
+| Oklahoma                                 | 1907      |
+| Arizona                                  | 1912      |
+| New Mexico                               | 1912      |

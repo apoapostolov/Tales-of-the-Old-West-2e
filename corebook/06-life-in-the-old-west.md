@@ -1,4 +1,4 @@
-## Chapter 6 - Life in the Old West
+﻿## Chapter 6 - Life in the Old West
 
 > _“JUST ‘CAUSE TROUBLE COMES VISITING DON’T MEAN YOU HAVE TO OFFER IT A PLACE TO SIT DOWN.”_
 >
@@ -22,7 +22,7 @@ If your character has enough cash you may convert it into points of Capital at a
 
 #### Capital
 
-You need Capital if you want to do anything more than count the nickels and dimes, and just scrape by day-to-day. Capital refers to money tied up in property, businesses, investments and trusts, and all the instruments of modern finance that were being created in the nineteenth century. The so-called robber barons of the US economy—fur trader John Jacob Astor, oil tycoon John D. Rockefeller, and railwaymen Leland Stanford and Cornelius Vanderbilt—all have a lot of capital. The player characters in this game? Not so much. In play, your Capital represents your personal assets and investments. It can be used to invest in businesses, or purchase and improve property.
+You need Capital if you want to do anything more than count the nickels and dimes, and just scrape by day-to-day. Capital refers to money tied up in property, businesses, investments and trusts, and all the instruments of modern finance that were being created in the nineteenth century. The so-called robber barons of the US economy—railroad speculator Jay Gould, oil tycoon John D. Rockefeller, and railwaymen Leland Stanford and Cornelius Vanderbilt—all have a lot of capital. The player characters in this game? Not so much. In play, your Capital represents your personal assets and investments. It can be used to invest in businesses, or purchase and improve property.
 
 ##### Gaining Capital
 
@@ -266,7 +266,7 @@ The cost of the land should be added to the value of any property that is built 
 
 ##### The Homestead Act 1862
 
-> _The Homestead Act, enacted during the Civil War in 1862, provided that any adult citizen who had never borne arms against the US government could claim 160 acres of surveyed government land. Claimants were required to live on and improve their plot by building a home and cultivating the land. It costs just $14 to register the claim for up to 160 acres of land which then became legally owned by the claimant if they lived on and developed the land for five years. For those of us who cannot visualize what 160 acres of land looks like, it covers an area of roughly 875 yards × 875 yards._
+> _The Homestead Act, signed by Lincoln on May 20, 1862 and taking effect January 1, 1863, promised that any adult citizen who had never borne arms against the U.S. government could claim 160 acres of surveyed public land for a filing fee of just $14—land that became legally theirs after five years of residency and improvement. On paper, it sounded like the promise of America made real. In practice, it was something else entirely. The land on offer had been seized from Native peoples—often land still being bled for, still in dispute. The best acres were already gone, scooped up by railroad companies and speculators using dummy claimants and bought surveyors. What was left was frequently marginal: drought-hammered hardpan, windswept plains that turned to mud in spring and cracked like old leather by July, alkali flats where five years of farming meant five years of near-starvation. Black settlers had the legal right to file a claim, but they faced violence, fraud, arson, and straight-up theft that drove most off their land before they could prove it up. Five years was a long time to hold on. For those of us who cannot visualize what 160 acres looks like, it covers an area of roughly 875 yards × 875 yards. Whether that ground was a fortune or a slow death depended entirely on where you drew the claim._
 
 #### Features
 
@@ -321,21 +321,13 @@ Roll D6 on the table below, or choose, the property’s starting Status and Loca
 
 ##### Property Status and Location Table
 
-| Property Property status Location type                       |              |
-| ------------------------------------------------------------ | ------------ |
-| Business Property / Store 1–2: Status 2.                     | 1–2: Type 1. |
-| 3–5: Status 3. 6: Status 4. 5–6: Type 3.                     | 3–4: Type 2. |
-| Claim 1: Status 0.                                           | 1–5: Type 7. |
-| 2–3: Status 1. 4–5: Status 2. 6: Status 3.                   | 6: Type 8.   |
-| Dwelling 1: Status 2.                                        | 1: Type 1.   |
-| 2–3: Status 3.                                               | 2: Type 2.   |
-| 4–5: Status 4. 6: Status 5. 4: Type 5. 5: Type 6. 6: Type 7. | 3: Type 3.   |
-| Homestead / Ranch 1–2: Status 2.                             | 1–2: Type 5. |
-| 3–4: Status 3.                                               | 3–4: Type 6. |
-| 5: Status 4. 6: Status 5. 6: Type 8.                         | 5: Type 7.   |
-| Saloon 1: Status 3.                                          | 1–3: Type 1. |
-| 2: Status 4.                                                 | 4: Type 2.   |
-| 3–4: Status 5. 5–6: Status 6. 6: Type 4.                     | 5: Type 3.   |
+| Property                  | Property status                                         | Location type                                                     |
+| ------------------------- | ------------------------------------------------------- | ----------------------------------------------------------------- |
+| Business Property / Store | 1–2: Status 2. 3–5: Status 3. 6: Status 4.              | 1–2: Type 1. 3–4: Type 2. 5–6: Type 3.                            |
+| Claim                     | 1: Status 0. 2–3: Status 1. 4–5: Status 2. 6: Status 3. | 1–5: Type 7. 6: Type 8.                                           |
+| Dwelling                  | 1: Status 2. 2–3: Status 3. 4–5: Status 4. 6: Status 5. | 1: Type 1. 2: Type 2. 3: Type 3. 4: Type 5. 5: Type 6. 6: Type 7. |
+| Homestead / Ranch         | 1–2: Status 2. 3–4: Status 3. 5: Status 4. 6: Status 5. | 1–2: Type 5. 3–4: Type 6. 5: Type 7. 6: Type 8.                   |
+| Saloon                    | 1: Status 3. 2: Status 4. 3–4: Status 5. 5–6: Status 6. | 1–3: Type 1. 4: Type 2. 5: Type 3. 6: Type 4.                     |
 
 #### Buying and Selling Property
 
@@ -361,7 +353,18 @@ Some property that comes up for sale will be highly sought after and draw more t
 
 In _Tales of the Old West_ your character may be recognized all over the frontier, or they might be a total nobody. How well known and how recognizable your character may be is shown by their Fame score. How famous—or infamous—are you? The lowest Fame score you can have is zero—no one has a clue who in hell you are. But as your tale continues, your Fame may grow. There is no cap on your total Fame score— the higher it goes the more recognizable you are.
 
-Knowing how easily recognized you are—how much Fame you have—is one thing. But what are you famous for? This is shown by your Reputation. Your Reputation is made up of two scores—your Morals and your Public Spirit—both ranging from 1 to 6. The higher the score the more positive the reputation. These scores combine to give you a short narrative description of that reputation. To find this description you cross-refer your scores on the table on page 102, reading first from top to bottom, then left to right. Remember, this doesn’t necessarily reflect your character’s actual approach to life, but reflects what other people think about you.
+Knowing how easily recognized you are—how much Fame you have—is one thing. But what are you famous for? This is shown by your Reputation. Your Reputation is made up of two scores—your Morals and your Public Spirit—both ranging from 1 to 6. The higher the score the more positive the reputation. These scores combine to give you a short narrative description of that reputation. To find this description you cross-refer your scores on the Reputation Table below, reading Morals (rows) against Public Spirit (columns). Remember, this doesn’t necessarily reflect your character’s actual approach to life, but reflects what other people think about you.
+
+**REPUTATION TABLE**
+
+| Morals \\ Public Spirit | 1                                   | 2                                   | 3                                        | 4                                       | 5                               | 6                                           |
+| ----------------------- | ----------------------------------- | ----------------------------------- | ---------------------------------------- | --------------------------------------- | ------------------------------- | ------------------------------------------- |
+| **1**                   | Self-Serving Scum of the Earth      | Quick to Anger, Dangerous           | Corrupt, Bears a Grudge                  | Good for Nothing Cur, Double-Dealer     | Shifty, Help If It Suits You    | Pretends to Care, Actions Suggest Otherwise |
+| **2**                   | Dishonourable Thieving Scum         | Vengeful Recidivist                 | Peccant, Dishonest                       | Selfish, Unlikeable                     | Lazy, All Mouth                 | Untrustworthy, Suspicious Motivations       |
+| **3**                   | Narcissistic, Immoral               | Self-Important, Trivial             | Unimportant and Irrelevant, Who Are You? | Beneath Notice, You’re Just There       | Aloof, Sense of Entitlement     | Says He Wants to Help, Unreliable           |
+| **4**                   | Minds Your Own Business, Suspicious | Unimportant, Disagreeable           | Decent Enough, Keep to Yourself          | Decent Sort, Don’t Like to Get Involved | Law-Abiding, Supportive         | A Decent Sort, Regular Volunteer            |
+| **5**                   | Loner, Looks After Number One       | Respectful, Not a Lapdog to the Law | Likeable, Indecisive                     | Friendly, Wants to Help                 | Neighbourly, Faithful to Others | Honourable, Courageous                      |
+| **6**                   | Good Ole Boy, Your Own Boy          | Free Spirit, No One’s Patsy         | Co-operative, Practical                  | Selfless, Reliable                      | Charitable, Open Handed         | Pillar of the Community                     |
 
 #### Starting Scores
 
@@ -498,7 +501,7 @@ Every character in _Tales of the Old West_ will accumulate gear over the years. 
 | Clothes (fancy)           | $5–50   | -      |
 | Coffin                    | $7.5    | 6      |
 | Deck of cards             | $1–5    | Tiny   |
-| Gold, 1oz                 | $100    | Tiny   |
+| Gold, 1oz                 | $20     | Tiny   |
 | Handcuffs                 | $1–5    | Tiny   |
 | Lemonade (bottle)         | 5c      | ½      |
 | Lockpicks (set)           | $5      | Tiny   |
@@ -506,11 +509,11 @@ Every character in _Tales of the Old West_ will accumulate gear over the years. 
 | Newspaper                 | 10c     | Tiny   |
 | Oil Lantern               | $1      | ½      |
 | Pelt, Bear                | 70c–$1  | 2      |
-| Pelt, Bison               | 30–40c  | 2      |
-| Pelt, Wolf                | 50–70c  | 1      |
+| Pelt, Bison               | $1–2    | 2      |
+| Pelt, Wolf                | $1–2    | 1      |
 | Rope, 20’ length          | $2      | ½      |
 | Saddle & Gear             | $30–100 | 2      |
-| Silver, 1oz               | $10     | Tiny   |
+| Silver, 1oz               | $1.50   | Tiny   |
 | Tobacco goods             | $1–5    | Tiny   |
 | Whiskey, sipping (bottle) | 50c     | ½      |
 | Whiskey, good (bottle)    | $2      | ½      |
@@ -939,7 +942,7 @@ Roll D66 to identify the horse, then D6 to see what sex it is and what stage of 
 | Paint / Pinto        | 53–56 | $100                 | $50               | $100              |
 | Palomino             | 61–63 | $150                 | $100              | $250              |
 | Tennessee Walker     | 64–66 | $50                  | $30               | $100              |
-| Donkey / Mule        | —     | $25                  | $15               | N/A               |
+| Donkey / Mule        | —     | $75                  | $40               | N/A               |
 
 ##### Qualities
 
@@ -1308,11 +1311,11 @@ Feared across the west, the Pinkerton investigators are relentless in their purs
 **Talents:** CHARMING, LAWYER, RABBLE ROUSER.
 **Gear:** Slick suit, revolver, plenty of cash for bribes.
 
-**PONY EXPRESS RIDER** — GRIT 3, QUICK 4, CUNNING 5, DOCITY 2
+**WELLS FARGO RIDER** — GRIT 3, QUICK 4, CUNNING 5, DOCITY 2
 RESILIENCE 1, MOVE 2, HAWKEYE 2, NATURE 1
-ANIMAL HANDLIN’ 3 It’s a deadly job, but it pays well. Only the best riders get to ride the Pony Express, and they are usually young—too stupid to know better.
+ANIMAL HANDLIN’ 3 The Pony Express died with the telegraph in ’61. These days express riders work for Wells Fargo—carrying payroll, mail, and valuables through country where road agents and hostile bands make every mile a gamble. The pay is poor and the life shorter than most.
 **Talents:** BORN IN THE SADDLE, LIGHTNING FAST, LUCKY.
-Gear: Weathered saddlebags, revolver, rope.
+**Gear:** Weathered saddlebags, revolver, rope.
 
 **PREACHER** — GRIT 3, QUICK 3, CUNNING 4, DOCITY 4
 LABOR 1, MOVE 1, INSIGHT 2, PRESENCE 1

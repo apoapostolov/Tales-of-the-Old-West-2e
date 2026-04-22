@@ -8,7 +8,7 @@ Talents give you the edge over the other guy and set you apart from the small fo
 
 Each talent in Tales of the Old West is tiered into two ranks of increasingly powerful capability, Basic and Advanced. You must have already learned the Basic rank of a talent before you can acquire the Advanced rank, and you cannot spend XP to acquire both the Basic and Advanced ranks at the same time. Once you have earned the Basic talent you keep any benefits it gives you if you later take the Advanced rank.
 
-**Advanced** : In a duel you use the weight of your authority to get the drop on your enemy. After you have pushed your PRESENCE roll using a Faith Point, you can push a second time for free.
+Basic talents cost 4 XP and Advanced talents cost 6 XP.
 
 ### Born in the Saddle
 
@@ -20,7 +20,11 @@ Riding comes as naturally to you as breathing does to everyone else.
 
 ### Bow Master
 
-Basic talents cost 4 XP and Advanced talents cost 6 XP.
+The bow is the weapon of a true man from a more civilized culture.
+
+**Basic** : You can use a bow up to Long range with no penalties.
+
+**Advanced** : You know where to hit for maximum impact: your shots with a bow inflict double the normal damage.
 
 ### Animal Hunter
 
@@ -28,15 +32,15 @@ You know how to track the creatures of the wilds, bring down the bison, stalk th
 
 **Basic** : All your attacks against wild animals, and rolls to set traps, gain a +1 bonus.
 
-The bow is the weapon of a true man from a more civilized culture.
-
-**Basic** : You can use a bow up to Long range with no penalties.
-
-**Advanced** : You know where to hit for maximum impact: your shots with a bow inflict double the normal damage.
+**Advanced** : Your attacks against wild animals (including from traps) automatically cause a critical injury if you inflict any damage.
 
 ### Bowyer
 
-**Advanced** : Your attacks against wild animals (including from traps) automatically cause a critical injury if you inflict any damage.
+You know how to turn wood, leather and twine into lethal bows.
+
+**Basic** : You can use the MAKIN’ ability to make and repair bows and arrows with normal stats.
+
+**Advanced** : You can make high-quality bows. For each success after the first on your MAKIN’ test you can add a weapon quality of your choice. This can be used to add new qualities to an existing bow.
 
 ### Authority
 
@@ -44,11 +48,7 @@ You have the weight of authority on your side, whether from the law, the big man
 
 **Basic** : You gain a +1 bonus to PRESENCE tests.
 
-You know how to turn wood, leather and twine into lethal bows.
-
-**Basic** : You can use the MAKIN’ ability to make and repair bows and arrows with normal stats.
-
-**Advanced** : You can make high-quality bows. For each success after the first on your MAKIN’ test you can add a weapon quality of your choice. This can be used to add new qualities to an existing bow.
+**Advanced** : In a duel you use the weight of your authority to get the drop on your enemy. After you have pushed your PRESENCE roll using a Faith Point, you can push a second time for free.
 
 ### Brawler
 
@@ -60,7 +60,11 @@ You don’t need weapons to bring down your enemies.
 
 ### Charming
 
-**Advanced** : If you gain any successes when Blocking a melee attack (even if the attack still causes some damage) you can immediately attempt to Grapple your opponent as a free action.
+You are skilled in the arts of persuasion.
+
+**Basic** : You gain a +1 bonus to PERFORMIN’ when trying to charm, seduce or schmooze someone.
+
+**Advanced** : People just seem to trust you. Trouble does not apply when you try to charm, seduce, or schmooze someone—when you push your PERFORMIN’ roll, you can reroll 1s on Trouble Dice, and you ignore any Trouble rolled.
 
 ### Bronc Buster
 
@@ -83,12 +87,6 @@ Business is in your blood.
 You reassure troubled minds just with the calm in your voice.
 
 **Basic** : With a successful PRESENCE test you can calm those around you, and even yourself, healing 1 point of Vexes or Doubts for every success. This talent also allows you to provide help to another character who is making a DOCTORIN’ roll, without having that ability yourself, as your voice calms the patient.
-
-You are skilled in the arts of persuasion.
-
-**Basic** : You gain a +1 bonus to PERFORMIN’ when trying to charm, seduce or schmooze someone.
-
-**Advanced** : People just seem to trust you. Trouble does not apply when you try to charm, seduce, or schmooze someone—when you push your PERFORMIN’ roll, you can reroll 1s on Trouble Dice, and you ignore any Trouble rolled.
 
 ### Cold Blooded
 
@@ -172,6 +170,10 @@ You are a master of the throwing knife or the tomahawk as a thrown weapon.
 
 ### Forger
 
+You are a skilled forger, able to craft fake documents and papers.
+
+**Basic** : You know how to make documents look good. Gain a +1 bonus to your LIGHT-FINGERED roll when drawing up a forgery.
+
 **Advanced** : You are a master forger, and can make an accurate forgery of any document provided you have the time to study it and the resources to create it. You gain one bonus success on your LIGHT-FINGERED roll.
 
 ### Gambler
@@ -190,23 +192,19 @@ You have a loyal companion that stands by your side and will defend you to the d
 
 **Advanced** : Your dog can attack a target. You spend a fast action to give it the order and it will attack the target until that target is dead, the dog is Broken or dead, or you call it off. Calling the dog off its target requires a slow action and a successful ANIMAL HANDLIN’ roll, or the dog continues to attack.
 
-You are a skilled forger, able to craft fake documents and papers.
-
-**Basic** : You know how to make documents look good. Gain a +1 bonus to your LIGHT-FINGERED roll when drawing up a forgery.
-
 ### Gunsmith
-
-### Healing Touch
 
 You are skilled at the art of crafting firearms.
 
-You’re a natural healer.
-
 **Basic** : You can make and repair all types of firearm with normal stats, using your MAKIN’ ability.
 
-**Basic** : When you successfully heal a Broken person you double the number of attribute points that are restored.
-
 **Advanced** : You can make high-quality firearms. For each success after the first on your MAKIN’ test you can add a weapon quality of your choice. This can be used to add new qualities to an existing weapon.
+
+### Healing Touch
+
+You’re a natural healer.
+
+**Basic** : When you successfully heal a Broken person you double the number of attribute points that are restored.
 
 **Advanced** : You don’t let patients die. If a failed DOCTORIN’ test would cause your patient to die, you can immediately reroll it once as a free action.
 
@@ -224,19 +222,19 @@ You’re a tough opponent in a fight, and laying a blow on you is hard.
 
 **Basic** : You gain a +1 bonus to your FIGHTIN’ dice when Blocking a melee attack.
 
-### High Society
-
 **Advanced** : You’re such an expert in a fight that you can Block an attack made with a melee weapon or by an animal, even if you’re unarmed.
+
+### High Society
 
 You move in exalted circles.
 
 **Basic** : You know who to talk to and what their dirty secrets are. You gain a +1 bonus to PERFORMIN’ when talking to anyone where Fame or social standing might have a bearing.
 
+**Advanced** : When dealing with anyone where Fame or social standing might have a bearing, you gain a +3 bonus to your Fame total.
+
 ### Haymaker
 
 When you put your all into an attack there’s no stopping you.
-
-**Advanced** : When dealing with anyone where Fame or social standing might have a bearing, you gain a +3 bonus to your Fame total.
 
 **Basic** : When you spend a fast action to go for an All-Out Attack in a fight you gain a +3 bonus instead of the usual +2.
 
@@ -244,11 +242,19 @@ When you put your all into an attack there’s no stopping you.
 
 ### Horse Warrior
 
-You are trained in fighting from a moving horse. **Basic** : You gain a +1 bonus to all attacks from a mount. **Advanced** : You are so skilled on horseback you can use a two-handed weapon from a mount.
+You are trained in fighting from a moving horse.
+
+**Basic** : You gain a +1 bonus to all attacks from a mount.
+
+**Advanced** : You are so skilled on horseback you can use a two-handed weapon from a mount.
 
 ### Judge of Character
 
 You can read other people like a book and smell a lie a mile off.
+
+**Basic** : You gain a +1 bonus to INSIGHT tests to see if someone is lying or trying to pull the wool over your eyes.
+
+**Advanced** : Not only can you spot the lie, but you can see the truth that’s being hidden. For every success beyond the first on an INSIGHT test you can ask the GM a question about the lie and the truth it conceals. They must answer as truthfully as possible.
 
 ### Light-Footed
 
@@ -260,9 +266,11 @@ You walk like the spirits, leaving no trail behind you.
 
 ### Lightning Fast
 
-**Basic** : You gain a +1 bonus to INSIGHT tests to see if someone is lying or trying to pull the wool over your eyes.
+You react with the speed of a snake.
 
-**Advanced** : Not only can you spot the lie, but you can see the truth that’s being hidden. For every success beyond the first on an INSIGHT test you can ask the GM a question about the lie and the truth it conceals. They must answer as truthfully as possible.
+**Basic** : You draw two initiative cards instead of one during the initiative draw. Choose the one you want to use and discard the other.
+
+**Advanced** : When you spot an ambush or a sneak attack you get a slow and a fast action before initiative is drawn.
 
 ### Knife Fighter
 
@@ -277,12 +285,6 @@ You are lethal with a knife in hand.
 You may have gone to school or learned your law over a lantern late at night. One way or another, you know your rights.
 
 **Basic** : You can add the number of successes from a BOOKLEARNIN’ roll (as a free action) as bonus dice to your PERFORMIN’ test when trying to influence someone using your knowledge of the law or other official information.
-
-You react with the speed of a snake.
-
-**Basic** : You draw two initiative cards instead of one during the initiative draw. Choose the one you want to use and discard the other.
-
-**Advanced** : When you spot an ambush or a sneak attack you get a slow and a fast action before initiative is drawn.
 
 ### Lockpicker
 
@@ -300,19 +302,21 @@ No matter how bad the odds you always seem to get away unscathed.
 
 **Advanced** : When you suffer a critical injury you can reroll the Units die and take the best result.
 
-**Advanced** : You are so well-schooled in the law that you can act as a Judge In Good Standing. Your Fame increases by 3.
-
 ### Manhunter
 
 You have spent years chasing down your quarry.
 
 **Basic** : You gain a +1 bonus to HAWKEYE when tracking your quarry across the wilderness.
 
+**Advanced** : You never give up when on the hunt and can push your HAWKEYE roll for a second time for free when tracking people or animals in the wild.
+
 ### Miner 49 Er
 
 You are experienced in handling dangerous explosives.
 
-**Advanced** : You never give up when on the hunt and can push your HAWKEYE roll for a second time for free when tracking people or animals in the wild.
+**Basic** : You can recognize sweating dynamite and other danger signs. Treat Trouble on dynamite ability rolls as normal (unlike the rule on page 83 Trouble is not activated unless the roll is pushed).
+
+**Advanced** : You know just where to put dynamite for best effect. When you set dynamite, its Damage output is doubled.
 
 ### Man’s Best Friend
 
@@ -321,10 +325,6 @@ Not every dog is the perfect friend, but yours is (when your dog dies you lose t
 **Basic** : Your dog can help you track, giving you a +1 bonus to HAWKEYE when tracking.
 
 **Advanced** : Your loyal friend can help you when you are Broken. Once per session your dog’s presence is comforting and immediately restores 1D3 to the Broken attribute.
-
-**Basic** : You can recognize sweating dynamite and other danger signs. Treat Trouble on dynamite ability rolls as normal (unlike the rule on page 83 Trouble is not activated unless the roll is pushed).
-
-**Advanced** : You know just where to put dynamite for best effect. When you set dynamite, its Damage output is doubled.
 
 ### Mountain Folk
 
@@ -349,8 +349,6 @@ You are an expert fist fighter.
 **Basic** : In a hand-to-hand fight you can anticipate your enemy’s every move. You may swap your initiative card with an opponent you are actively fighting.
 
 **Advanced** : Once per Round when you hit your opponent in a fight you can immediately throw a combination punch: you can punch again immediately as a free action.
-
-When you push your LIGHT-FINGERED roll, you can reroll 1s on Trouble Dice, and you ignore any Trouble rolled.
 
 ### Rabble Rouser
 
@@ -412,6 +410,10 @@ You are a cheat and a swindler.
 
 You have a beautiful singing voice or a way of speaking that gets people listening.
 
+**Basic** : You can use PERFORMIN’ to draw the attention of everyone within Short range. They stop what they are doing and listen to you for D6 Rounds. This does not apply during conflict, and may have a reduced effect on a rampaging rabble, at the GM’s discretion.
+
+**Advanced** : Your voice is so powerful and easy to listen to, you gain a +2 bonus on any PERFORMIN’ tests that relate to a performance of some kind (speech-making, singing, making a case in court, etc).
+
 ### Smith
 
 You know the art of hammering coarse iron into lethal blades, horseshoes and more.
@@ -427,10 +429,6 @@ You will survive.
 **Basic** : You are so rugged you can shake off damage from Shakes and Hurts. Each time you suffer damage, roll a number of dice equal to your Grit divided by 2 (round up)—the damage is reduced by 1 per success.
 
 **Advanced** : Once per session, when you are Broken by any kind of damage, you can immediately get back up, with all attributes restored by 1 point.
-
-**Basic** : You can use PERFORMIN’ to draw the attention of everyone within Short range. They stop what they are doing and listen to you for D6 Rounds. This does not apply during conflict, and may have a reduced effect on a rampaging rabble, at the GM’s discretion.
-
-**Advanced** : Your voice is so powerful and easy to listen to, you gain a +2 bonus on any PERFORMIN’ tests that relate to a performance of some kind (speech-making, singing, making a case in court, etc).
 
 ### Tomahawk Fighter
 
