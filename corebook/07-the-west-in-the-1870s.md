@@ -756,8 +756,8 @@ Beginning in the late 1870s, the US government pursued a policy of cultural anni
 
 Historical honesty demands the uncomfortable acknowledgment that some Native American tribes practiced chattel slavery of African Americans, modeled on the same system used by white Southerners. This was particularly true among the Cherokee, Chickasaw, Choctaw, Creek, and Seminole—the so-called “Five Civilized Tribes”—some of whose wealthier members owned plantations and enslaved people. Some tribal members brought enslaved people with them on the Trail of Tears. The Cherokee Nation did not emancipate its enslaved people until 1863, and the integration of Black freedmen into tribal nations remained contentious for generations. The existence of Native slaveholding does not diminish or excuse the genocide inflicted upon Native peoples—but it does complicate the narrative, and historical honesty requires that it be told.
 
-#### Native American Naming Conventions
-
+> #### Native American Naming Conventions
+>
 > _There is no single naming convention that covers the enormous variety of Native American cultures and traditions, and we cannot hope to fully reflect that variety. Neither can we adequately reflect the forced anglicization of Native Americans and their names that happened throughout the period. It is also impossible for us to fully reflect the deep personal, cultural, and spiritual importance of many of these names that are earned for specific reasons or passed down clan lines—they are sacred. Here are a few notes we hope you will find helpful:_
 >
 > _• While naming conventions vary considerably across the diverse tribes and traditions, Native American communities often have a fluid naming tradition, in that new names can be earned or awarded throughout a lifetime._
