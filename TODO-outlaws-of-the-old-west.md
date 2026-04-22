@@ -4,6 +4,8 @@
 
 - Convert FL2e mercenary-band management into a ToOW2e outlaw-band appendix that strengthens long-form outlaw campaigns without importing FL2e's heavier campaign machinery.
 - Canonical system owner: `/home/apoapostolov/git-public/Tales-of-the-Old-West-2e/proposals/proposal-fl2e-grafts-and-outlaws-plan.md`
+- Current manuscript draft: `/home/apoapostolov/git-public/Tales-of-the-Old-West-2e/corebook/11-outlaws-of-the-old-west.md`
+- Current research memo: `/home/apoapostolov/git-public/Tales-of-the-Old-West-2e/proposals/proposal-outlaw-reality-and-town-resource-tieins.md`
 
 ## Scope And Boundaries
 
@@ -91,7 +93,36 @@ Delegation notes:
 - Research should be period-focused on the 1870s Old West first, with later decades used only when directly illuminating 1873-era play.
 - Favor practical realities over cinematic myth unless the manuscript intentionally wants the myth layer.
 
-### [ ] Prompt 3 — Create the appendix skeleton
+### [x] Prompt 2A — Proposal on outlaw reality and light town/resource tie-ins
+
+Write a research memo answering two linked questions:
+
+- what western outlaw realities are still missing from the current outlaw loop
+- how outlaw play can tie lightly into settlement and resource logic without importing full FL2e weight
+
+Inputs:
+
+- `proposals/proposal-fl2e-grafts-and-outlaws-plan.md`
+- `corebook/11-outlaws-of-the-old-west.md`
+- `corebook/02-your-player-character.md`
+- `corebook/06-life-in-the-old-west.md`
+- `corebook/08-campaigns-in-the-old-west.md`
+- `/home/apoapostolov/git-public/Forbidden-Lands-2e/corebook/08-journeys.md`
+- `/home/apoapostolov/git-public/Forbidden-Lands-2e/corebook/09-the-stronghold.md`
+- `/home/apoapostolov/git-public/Forbidden-Lands-2e/corebook/12-mercenaries-of-forbidden-lands.md`
+- external historical sources on rustling, hideouts, marshals, and private enforcement
+
+Outputs:
+
+- `/home/apoapostolov/git-public/Tales-of-the-Old-West-2e/proposals/proposal-outlaw-reality-and-town-resource-tieins.md`
+
+Validation:
+
+- must end in concrete design recommendations
+- must clearly reject heavy imports that do not fit `Tales`
+- must separate historical finding from rules inference
+
+### [x] Prompt 3 — Create the appendix skeleton
 
 Create the future chapter shell for `Outlaws of the Old West` once Prompt 1 is locked and at least the first research memos exist.
 
@@ -120,7 +151,7 @@ Delegation notes:
 - Do not write final prose yet.
 - Avoid long placeholder text dumps; use short intent notes.
 
-### [ ] Prompt 4 — Draft the minimum viable outlaw loop
+### [x] Prompt 4 — Draft the minimum viable outlaw loop
 
 Write the first playable manuscript pass for the appendix's core loop.
 
@@ -156,7 +187,7 @@ Delegation notes:
 - one drafting worker
 - coordinator handles integration and final pass
 
-### [ ] Prompt 5 — Draft hideout life, upkeep, and collapse
+### [x] Prompt 5 — Draft hideout life, upkeep, and collapse
 
 Expand the appendix from minimum viable play into a durable long-campaign subsystem.
 
