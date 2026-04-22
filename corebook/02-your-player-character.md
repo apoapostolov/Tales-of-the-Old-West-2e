@@ -1,7 +1,7 @@
 ## Chapter 2 - Your Player Character
 
 > _“IT’S NEVER TOO LATE TO BECOME WHO YOU WANT TO BE. I HOPE YOU LIVE A LIFE THAT YOU’RE PROUD OF, AND IF YOU FIND THAT YOU’RE NOT, I HOPE YOU HAVE THE STRENGTH TO START OVER.”_
-
+>
 > — F. SCOTT FITZGERALD
 
 Player characters in _Tales of the Old West_ are defined by their attributes, which represent physical and mental qualities, their abilities, which represent general skills, and their talents, which represent the specialized skills that make them unique. They are also defined by their Faith, their Big Dream, and their relationships.
@@ -17,23 +17,23 @@ You can also use a Group Concept, if your players have a clear idea of the group
 
 Your character has four attributes that indicate your basic physical and mental capabilities, each rated on a scale from 1 to 5 (healthy characters don’t have any attribute below 2). Attributes are used when you roll dice to perform actions in the game, and also determine how much damage of various kinds you can withstand before you become Broken. Read more about this in Chapter 5.
 
-### Grit
+#### Grit
 
 Grit represents resilience, strength and sheer physical presence. In the young it’s shown in your healthy constitution and broad hips or shoulders. When you are older, people see it in the leather of your face. Damage to Grit is called Hurts.
 
-### Quick
+#### Quick
 
 Quick represents your physical control, manual dexterity and hand/eye coordination. It’s shown in your ease of movement, the way you shuffle the cards and how you hold your gun. Damage to Quick is called Shakes.
 
-### Cunning
+#### Cunning
 
 Cunning represents instinct, common sense and an understanding of how the world works. It’s apparent in those who are close to nature, but even those brought up in the big east coast cities have it. It is about not overthinking things. Damage to Cunning is called Vexes.
 
-### Docity
+#### Docity
 
 Docity represents your ability to learn. You might be able to reel off bible verse like a preacher, navigate the finer points of law, recognize symptoms and understand how to treat them or apply the latest discoveries of science to your engineering project. Damage to Docity is called Doubts.
 
-### Compadres
+#### Compadres
 
 > _Tales of the Old West introduces a new concept for your player character’s relationship with certain non-player characters. These compadres form a close group of family, friends or crew for your outfit that both the players and the GM get to control. Read more in Chapter 6._
 
@@ -78,7 +78,7 @@ Your player characters are all in it together as a group, but you are also an in
 
 When you create your character you should describe your relationship with each of the other player characters, adding a short sentence for each to your character sheet. Your choices are important for you, but they are also important for the GM, as they can use them to create interesting situations in the game.
 
-### Pardner
+#### Pardner
 
 When you have noted your relationships to the other player characters you must choose which one of them you feel closest to. That player character is your Pardner. Mark your choice in the checkbox on the character sheet.
 
@@ -86,33 +86,33 @@ When you have noted your relationships to the other player characters you must c
 
 You acquire gear both during character creation and as you progress in the game. All items you are carrying, or that might be carried for you on your horse or wagon, must be written down in the relevant Gear section on your character sheet: one item per row. If it’s not listed on your sheet, you don’t have it with you.
 
-### Encumbrance
+#### Encumbrance
 
 You can carry a number of regular items equal to double your Grit. You always use your base Grit score to calculate this, and not the temporary reduced rating caused by taking damage (page 38).
 
-### Heavy & Light Items
+#### Heavy & Light Items
 
 An item designated as Heavy counts as two regular items and takes up two rows on your character sheet instead of one. Some Heavy items count as three or even four normal items. At the opposite end of the spectrum, there are items that are Light—they count as half a regular item, so you can list two Light items on one row on your sheet. Some Light items count as a quarter of a normal item in terms of encumbrance—the weight of such items are written as ¼ in the gear lists.
 
-### Tiny Items
+#### Tiny Items
 
 Items that are even smaller than Light are called Tiny. They are so small they don’t affect your encumbrance at all. The rule of thumb is this: if the item can be hidden in a closed fist, it’s Tiny. Tiny items do need to be listed on your character sheet, but not recorded as Gear in the normal way.
 
-### Overencumbered
+#### Overencumbered
 
 You can temporarily carry more than your normal encumbrance limit (up to a total number of items equal to your Grit×2). In this case, you need to make a RESILIENCE roll whenever you want to run in a Round of combat, or walk a significant distance, or do anything the GM considers strenuous. If the roll fails, you must either drop what you are carrying, stay where you are, or suffer 1 point of Shakes and keep going.
 
 ### Finishing Touches
 
-### Appearance
+#### Appearance
 
 You can describe your player character’s face, body and clothing on your character sheet.
 
-### Name
+#### Name
 
 Some players like to give their character a name only after they have finished creating them. Others are inspired during the creation process or even start with a name.
 
-### Mounts
+#### Mounts
 
 > _If you have a horse, mule or donkey you can let it carry some of your gear. The animal can carry a number of normal items equal to double its Grit, and twice that number if you dismount and lead it._
 
@@ -124,7 +124,7 @@ The streets are dirty, dusty, rutted, and filled with filth. Everyone is out for
 
 But you can see what this town could become, the life you could forge here—the noisy saloon bar you favor, the hotel for breakfast when you have the odd dollar to spare, the stables, blacksmiths and general store. You gotta work together somehow, or this town will sink into the dirt and every last one of you will end up in the bone orchard. But that doesn’t mean you have to like it. And it doesn’t mean there aren’t winners and losers.
 
-### Experience
+#### Experience
 
 The lessons your character learns during the game are measured in Experience Points (XP). You receive XP after the end of each adventure or game session (at the GM’s discretion). Talk it through and let the whole group discuss what has happened. Ask yourself the following questions—each time you answer “yes” you gain 1 XP:
 
@@ -144,7 +144,7 @@ See Chapter 8 for more about towns, how to set yours up and how you get it flour
 
 At the end of an adventure the player characters will be able to take stock, learn from the experiences they have had and earn Experience Points (XP). You will also see how well they have supported their home town and earn Settlement Points (SP). This is the time to check your dreams—has your Big Dream changed because of your recent experiences, and are you still close with those you thought were friends?
 
-### Settlements
+#### Settlements
 
 The more commitment the player characters show to their home town, the faster that place will grow. As with XP, the GM awards Settlement Points (SP) to the local settlement when the group can answer “yes” to one or more of the following questions:
 
@@ -154,7 +154,7 @@ The more commitment the player characters show to their home town, the faster th
 
 The GM has the final word on how many SP the players have earned, but we recommend that no more than 4 or 5 SP are earned per season.
 
-### Spending XP
+#### Spending XP
 
 You can use your XP to improve your abilities and talents, or to learn new ones. You can only spend XP when your player character gets a chance to rest, or between game sessions. You can also spend any SP you have earned to develop your home town during the Turn of the Season (page 180).
 
@@ -162,11 +162,11 @@ You can use your XP to improve your abilities and talents, or to learn new ones.
 
 **TALENTS** : Learning a talent at the Basic rank costs 4 XP, and at the Advanced rank costs another 6 XP. You must learn the Basic rank before you can learn the Advanced, and you can only increase a talent by one rank per session.
 
-### Find a New Dream
+#### Find a New Dream
 
 After any session, you may change your Big Dream and replace it with a new one. Try to connect the new dream to something that has happened during the course of the game.
 
-### Change Relationships
+#### Change Relationships
 
 After the end of a game session, you are free to redefine your relationships to the other player characters and NPCs as you see fit.
 
@@ -174,7 +174,7 @@ After the end of a game session, you are free to redefine your relationships to 
 
 To create your player character you can use a pre-existing archetype (page 23), or the lifepath method (page 274). You may also wish to make use of a Group Concept. Whatever your choices, you start with your Session Zero.
 
-### Session Zero
+#### Session Zero
 
 Your Session Zero covers everything you need to start telling your tale. It helps you define who you are, your current place in western society, and what you want that place to be. It builds your character and the landscape where you live in an exciting and collaborative experience.
 
@@ -182,11 +182,11 @@ If you and your fellow players want to play a group of pals you should consider 
 
 Finally, you’ll discover your place in the Old West— if you have a town to call home you need to work out what it’s like and how easy life is there.
 
-### Group Concepts
+#### Group Concepts
 
 You don’t need to choose a Group Concept for your campaign. However, if you and your players have a clear idea of the kind of tale you want to tell, then choosing a Group Concept may help bring the campaign to life. You can also make choices during character generation that will support your Group Concept. Any character from any walk of life, culture, or heritage, can take advantage of the Group Concepts.
 
-### Law Men & Bounty Hunters
+##### Law Men & Bounty Hunters
 
 Local sheriffs or federal marshals, possibly _hombres de la ley_ , Lighthorsemen, Texas Rangers or US Army or militia. You have seen the crime and corruption of the west and have committed to doing something about it. But the west is a harsh and complicated place. Can you uphold the high-falutin’ ideals of justice and honor, or are you just as corrupt as those you track down?
 
@@ -197,7 +197,7 @@ Local sheriffs or federal marshals, possibly _hombres de la ley_ , Lighthorsemen
 - a shiny badge made of real silver
 - iron manacles
 
-### Outlaws
+##### Outlaws
 
 You and your gang might have tried to be law-abidin’ citizens or maybe you’re just black-hearted through and through. Either way you make your living by stealing from others, and you’re good at it. So good, in fact, that there’s a price on your head somewhere, and you have to keep one eye open when you sleep. Gentlefolk fear your name, and bounty hunters and reputation seekers hunt you down.
 
@@ -210,7 +210,7 @@ Concept Bonus: Each player character can choose two of the following:
 
 The group also gets a concealed hideout somewhere in the wilderness, at the GM’s discretion.
 
-### Ranchers
+##### Ranchers
 
 Your prosperity relies upon your livestock—your herds of cattle or horses—and your skill in wrangling and bronco busting. Life is constant vigilance, protecting your fine animals from wolves, mountain lions, the hardships of the plains and human predators—rustlers from all points of the compass. You compete for land rights, you compete for contracts, and one day you might want to drive your herd all the way north for the best prices.
 
@@ -225,7 +225,7 @@ The group also gets a basic ranch (an outfit), at the GM’s discretion, with a 
 
 The group also gets a base of operations (a business property, a sheriff’s office or similar) at the GM’s discretion.
 
-### Farmers
+##### Farmers
 
 You till the land and plant crops, or maybe deal with small livestock like sheep, pigs and chickens. You rely on your skills to make a living, to keep the wolves from your flock and the vermin from your crops. You need land, and people to buy your wares. The life of a farmer is backbreaking and hard, but if you all work together you can make your mark on the future.
 
@@ -238,7 +238,7 @@ You till the land and plant crops, or maybe deal with small livestock like sheep
 
 The group also gets a basic homestead (an outfit), at the GM’s discretion, with a starting feature (either a Pasture or Crop Field) and +1 Capital that must be invested in it.
 
-### Business Owners
+##### Business Owners
 
 A business can be anything from a saloon, hotel or whorehouse, to a mine or lumber outfit, or a claim. You might make things and sell them, or maybe buy stock low and sell it high. Your outfit provides vital services to the town and local community, but making a living can be a cut-throat and ruthless business.
 
@@ -251,7 +251,7 @@ A business can be anything from a saloon, hotel or whorehouse, to a mine or lumb
 
 The group also gets a small business property to run their outfit, and +1 Capital that must be invested in the outfit, at the GM’s discretion.
 
-### Vaqueros / Cowboys
+##### Vaqueros / Cowboys
 
 The free life is for you and your fellows. You get work when you need it, earning enough to get by and a little left over to sink a few whiskeys in the local saloon, but otherwise you go where the west takes you. No place is home, and no one is your boss for long. You are vaqueros and cowboys, and you are free.
 
@@ -264,7 +264,7 @@ The free life is for you and your fellows. You get work when you need it, earnin
 
 The group gets a benefit of 4D6 dollars multiplied by the number of player characters in the group, the total to be divided how the players see fit.
 
-### Mountain Folk
+##### Mountain Folk
 
 You live off the land, and are free. You only come into town to sell your furs and when you need provisions, but otherwise the wilderness gives you all you need. You do your best to preserve this lifestyle, but other folk encroach on your free life, coming to take the lumber, pan the rivers or hunt the wildlife you have forged a natural bond with.
 
@@ -277,14 +277,14 @@ You live off the land, and are free. You only come into town to sell your furs a
 
 The group gets a benefit of 2D6 dollars multiplied by the number of player characters in the group, the total to be divided how the players see fit.
 
-### Playing Characters from Diverse Cultures
+#### Playing Characters from Diverse Cultures
 
 > _We want this game to be accessible to people from all over the world, and don’t want players to feel directed into playing the stereotypical white cowboy, particularly when history shows us that the American West was much more diverse._
-
+>
 > _When playing a character from a culture that is not your own, be aware how easy it can be to fall into the trap of relying on cultural stereotypes and how insensitive that can be. This is particularly true of Native American backgrounds. We caution you against assigning your player character the heritage of a real-world tribe or First Nation unless you share that heritage—these tribal and communal identities are intensely personal and it would be easy to inadvertently trivialize someone else’s tradition._
-
+>
 > _Instead we recommend you create a fictional tribe and community for your Native American player characters, where you can explore the history and experiences of Native American communities, without infringing the cultural identities of others. We also recommend you do not choose names for Native American characters that might fictionalize Native naming conventions. Many Native Americans in mixed communities took on, or were given, European names, and that is likely to be the best approach when the player does not have a native background._
-
+>
 > _By being mindful of these issues we hope to actively recognize, respect, and honor these traditions, rather than inadvertently ignore or disrespect them._
 
 ### Archetypes
@@ -322,21 +322,21 @@ Each archetype offers a selection of Big Dreams and Faiths. Choose one of each, 
 
 Finally choose two of the four pieces of gear listed with each archetype, roll your starting cash and you are ready to play.
 
-### An Example of Quick Character Generation
+#### An Example of Quick Character Generation
 
 > _Ryan wants to play Tales of the Old West, but doesn’t want to spend too much time creating his character. He selects the Outlaw archetype as he wants to be a gunfighter. That archetype already has 3 in Quick and 2 in the other attributes. Ryan wants to be a cocky, young gunslinger, so chooses to play a Greenhorn—this gives him 6 additional points to divide amongst his character’s attributes. He can only assign a maximum of 2 points to any one attribute, but is very keen to add 2 to Quick and Cunning, ending up with scores of 5 and 4 respectively. He considers adding 2 to Docity but in the end settles for 1 point there and 1 to Grit as well._
-
+>
 > _However, being a youngster, Ryan only gets 2 additional points to spend on abilities. As he cannot increase any ability above 3, he adds a point to SHOOTIN’, taking that to 3—he wants his character to be good with a gun—and adds his second point to INSIGHT, so his character can read an opponents’ mood._
-
+>
 > _Ryan only gets to choose one of the three talents and selects_ **QUICK DRAW** _, in keeping with his idea of a gunfighter._
-
+>
 > _Reading the Big Dreams, he likes the idea that his character hails from Boston, and had a run-in with the Pinkertons, so chooses the Revenge Big Dream. He also decides that his character is Catholic and chooses the Faith that reads: “You know that before you die you will confess your sins and repent”._
-
+>
 > _For his character’s two pieces of equipment he chooses a gun and a horse and rolls 12 rounds of ammunition and $18 cash. Angela O’Malley, Angel of the West, resolves to purchase some more bullets as soon as she gets a chance._
-
+>
 > _Ryan is ready to play!._
 
-### Gentlefolk
+##### Gentlefolk
 
 As camps become communities, and communities become towns, they attract a different sort of traveler, bringing “civilization” to these wild lands. Artists, photographers, journalists and authors record the new frontier, while entertainers, preachers and teachers bring culture, building bridges between diverse communities. Many others—doctors, telegraph operators, bankers, brokers, business investors, dilettante travelers, federal officials, and local politicians—all add to this melting pot of opportunity and hope.
 
@@ -372,7 +372,7 @@ Choose between one and three of these talents, depending on your age:
 
 **Big Dream** - choose from one of the options below or decide for yourself:
 
-### Grifter
+##### Grifter
 
 Not all criminals were outlaws and shootists ambushing travelers and trains—the west is a lawless place where it’s easy to hide in plain sight. Grifters work in saloons and on the streets. Being a cardsharp or snake oil salesman can give you a comfortable life, with less chance of getting hanged.
 
@@ -409,7 +409,7 @@ Choose between one and three of these talents, depending on your age:
 - Lockpicking set.
 - Bottle of good whiskey.
 
-### Homesteader
+##### Homesteader
 
 If you work the land for five years and build a house with glass in the windows, then it’s yours. This is the land of opportunity—160 acres of virgin soil you can hand down to your family. Yeah, all you got is a sod house right now, but with hard work you can cut out a life for you and your descendants—far more than your ancestors could ever have hoped for under the bootheel of oppression back in your homeland.
 
@@ -446,7 +446,7 @@ Choose between one and three of these talents, depending on your age:
 - Missouri Fox Trotter and tack.
 - Wagon and mule.
 
-### Laborer
+##### Laborer
 
 America is built upon the strength of your back and the sweat of your brow. You may be a navigator laying steel tracks across the continent, or a miner digging up its bounty. You are not rich, and you might not be over-burdened with education, but your work is honest.
 
@@ -483,7 +483,7 @@ Choose between one and three of these talents, depending on your age:
 - Mining equipment (Weight 2), a wide range of equipment needed to manage a Mining Outfit. Without this the Turn of the Season roll for a Mining Outfit suffers a −2 penalty.
 - Bottle of sipping whiskey.
 
-### Lawman
+##### Lawman
 
 There’s a thin line between outlaw and lawman. Whose law are you enforcing? Did you incite riots to break the unions with the Pinkertons back east? Are you a Texas Ranger enforcing the interests of Anglos over Tejanos? Are you a deputy marshal tracking fugitives, or a town sheriff?
 
@@ -523,7 +523,7 @@ Choose between one and three of these talents, depending on your age:
 - Morgan Horse and tack.
 - Handcuffs.
 
-### Outlaw
+##### Outlaw
 
 The west can be a lawless place where it is easy to make your living taking from others. You just need to keep one step ahead of the law, if it ever comes after you. All sorts of outlaws and shootists find hideouts from which to ambush travelers and trains.
 
@@ -560,7 +560,7 @@ Choose between one and three of these talents, depending on your age:
 - American Quarter Horse and tack.
 - One stick of dynamite.
 
-### Prospector
+##### Prospector
 
 You can see something others can’t—the riches in the ground. Well, you can’t see them yet, but you know they are there. All you need to do to strike it rich is pan enough streams, dig enough holes, or if you are more scientifically minded, survey enough geography.
 
@@ -597,7 +597,7 @@ Choose between one and three of these talents, depending on your age:
 - Mule.
 - Camping Gear (Weight 1), bedrolls, canvas for shelter, a tinder box and pan for frying. Gives a +1 bonus to NATURE rolls when making camp for the night.
 
-### Ranch Hand
+##### Ranch Hand
 
 You have found a life in the saddle. You might be working in a stockyard or as a farm hand, or driving cattle across the plains. It hasn’t made you rich but it comes with two meals a day and a little money to spend in town.
 
@@ -635,7 +635,7 @@ Choose between one and three of these talents, depending on your age:
 - Mustang, saddle and tack.
 - Camping Gear (Weight 1): bedrolls, canvas for shelter, a tinder box and pan for frying. Gives a +1 bonus to NATURE rolls when making camp for the night.
 
-### Tracker
+##### Tracker
 
 You love the big open sky and can tolerate the weather that it throws at you better than most. In the west you might be a Pony Express rider or stagecoach driver. Up north you might have been a hunter or trapper. You might be a soldier or scout. Or you might be more academic: a naturalist or cartographer.
 
@@ -672,7 +672,7 @@ Choose between one and three of these talents, depending on your age:
 - Knife.
 - You dream of never having to speak to another person again.
 
-### Trader
+##### Trader
 
 You are the engine that drives the westward expansion. There is money to be made here in all sorts of ways—you could be a hotelier or run a boarding house. You might work in a saloon, behind the bar or in the “upstairs rooms.” You might work with horses as a saddler or farrier. The options are only limited by your imagination and entrepreneurial spirit.
 
@@ -940,7 +940,7 @@ Roll 2D6 and total them, or if you have a better idea for the story of your fami
 
 #### Finding a Living
 
-Once you have determined what your Upbringing has given you, you head west to become the master
+Once you have determined what your Upbringing has given you, you head west to become the master of your own destiny. Roll 2D6, apply any bonus mentioned on your Upbringing, and consult the table to determine your first Living.
 
 **FINDING A LIVING**
 
@@ -954,8 +954,6 @@ Once you have determined what your Upbringing has given you, you head west to be
 | **9**     | HOMESTEADER   | Page 291 |
 | **10-11** | TRADER        | Page 292 |
 | **12+**   | GENTLEFOLK    | Page 293 |
-
-of your own destiny. Roll 2D6, apply any bonus mentioned on your Upbringing, and consult the table to determine your first Living.
 
 #### Your First Living - What Did You Do as a Youngster?
 

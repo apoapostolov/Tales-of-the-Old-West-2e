@@ -1,7 +1,7 @@
 ## Chapter 10 - Patience is a Virtue
 
 > _“DO NOT WITHHOLD DISCIPLINE FROM A CHILD; IF YOU PUNISH THEM WITH THE ROD, THEY WILL NOT DIE. PUNISH THEM WITH THE ROD AND SAVE THEM FROM DEATH” PROVERBS 29:15_
-
+>
 > — INTRODUCTION
 
 Welcome to this introductory scenario for _Tales of the Old West_ . It introduces you and your players to the small mining town of Steaming Rock, Grant County, New Mexico, and gives you an insight into the town and its inhabitants. The tale introduces your players to one of the key figures in the town, gives them a glimpse of the man behind the friendly face, and leaves them grappling with a moral and ethical dilemma. For more information on Steaming Rock see page 228.
@@ -29,7 +29,7 @@ But today, Ellis is angry. As far as he is concerned, Patience has fallen for th
 ### Content Warning
 
 > _This story involves adult themes, including domestic abuse and racism. While these have been deliberately included as the dramatic backdrop to this story, and to add extra tension to the finale and the moral conundrum the players will face, they may be difficult subjects for some players._
-
+>
 > _If you wish, you can remove the racist elements in the first scene, and change the section where Ellis Rockcliffe beats his daughter. Instead you can have him—in his anger—simply banish her to the hunting shack in the wilderness, and keep her prisoner there as a punishment for her intransigence. Mary, Patience’s maid, goes to find Patience and is killed by the wolves in the wilderness for her courage. The rest of the scenario can play out as written._
 
 **ELLIS ROCKCLIFFE**
@@ -61,7 +61,7 @@ The player characters have a little time on the Sunday morning if they wish to t
 
 > _It’s midday on Sunday, shortly after Father Carmody’s morning service, and you’ve holed up in the Homestead Inn, where the owner, former slave and self-made man, William Moyer, is serving hot food with his cheap whiskey. There are a couple of tables of poker going on but otherwise the place has a serene sense of the “calm after the storm” about it. The festivities of the last couple of days have quite taken the celebratory spirit out of the town, and thankfully they are all but over. That said, the Homestead Inn is quite busy, full of the lower sort of folks from these parts: menial workers, cowhands, miners, and prospectors who haven’t yet struck it lucky._
 
-### The Drunk Cowhands
+#### The Drunk Cowhands
 
 Two cowhands, both workers for Ellis Rockcliffe, are at the bar, still drunk from the night before. “Dusty” Wilcutt and Clayton Dicks are troublemakers, and they start to complain. The GM can make use of any or all of the options below, but Wilcutt and Dicks are like to start a bar fight, if they can rile up someone enough to react:
 
@@ -105,7 +105,7 @@ Either after the altercation, or as a means to cut it short before it leads to s
 
 Halliday and Friar invite the players to meet Mr Rockcliffe. If they are surprised, Halliday says Mr Rockcliffe would like to take the opportunity of the holiday to make their acquaintance, and maybe talk over something that might be of mutual benefit.
 
-### Meeting Ellis Rockcliffe
+#### Meeting Ellis Rockcliffe
 
 They are led to the grassy field outside Rockcliffe’s house, where stalls have been set up, a band is still playing and cowboys have been showing off their horsemanship. On the eastern side Rockcliffe and his wife, Annette, are sitting at a table set up by their servants, from where they have been listening to the music and enjoying the revelry.
 
@@ -130,11 +130,11 @@ If any of the players enquire about the atmosphere of the meeting, and/or how ge
 - For two successes they can tell that Annette is fidgety and seems like she wants to be anywhere but here, and Ellis can’t hide his repressed irritation at her.
 - For three successes they can tell that Ellis is hiding something and that Annette knows what it is but is too frightened of her husband to do or say anything about it.
 
-### The Expert Tracker
+#### The Expert Tracker
 
 Rockcliffe offers them an experienced tracker to accompany them—not one of his men but a frontiersman who owes him a favor, called Floyd Higgins. Higgins is a renowned tracker and he and his dogs, Rebel and Scarlet, will be able to help. In the event that the player characters say they don’t need any help tracking (for example, if one player character is themselves an expert tracker) Ellis will insist that Higgins joins them nonetheless—it’s non-negotiable.
 
-### Floyd Higgins
+##### Floyd Higgins
 
 > _Higgins is a decent man who has got himself into debt with Ellis Rockcliffe. Rockcliffe has offered to clear his debts if he does this one job for him. His orders are to follow the tracks that Rockcliffe’s men have laid, but when they reach the foothills of Canyon Creek Ridge he is to lead the player characters south and not north, claiming the tracks go that way. With a heavy heart—as Floyd knows Rockcliffe is no good—he’s agreed to do it without asking any further questions._
 
@@ -142,21 +142,20 @@ Rockcliffe offers them an experienced tracker to accompany them—not one of his
 
 The player characters should start to track Patience and Mary. To make a tracking roll they need to test HAWKEYE. This can be a group roll, with the best player character making the roll with help from others.
 
-### The First Stage
+#### The First Stage
 
 The track picks up behind Rockcliffe’s house and heads northeast into the Bar Mountains, before turning south. Initially it will be very easy to track Patience and Mary, as Rockcliffe’s men, led by Tyler Peyton, are making sure the tracks are easy to follow. To do so requires a HAWKEYE roll with a bonus of +3. If they fail the roll Higgins locates the track for them.
 
-ing. They cannot tell if she is alive or dead unless they examine her, but this is the dead body of Mary, Patience’s maid—of Patience, there is no sign.
+#### The Wolf Pack
+
+When the player characters reach the lower slopes of Canyon Creek Ridge they come across a horrible scene. They can see a pack of wolves tearing at what appears to be the listless form of a person. A successful HAWKEYE test allows them to see that the figure is a young black woman in torn clothing. They cannot tell if she is alive or dead unless they examine her, but this is the dead body of Mary, Patience’s maid—of Patience, there is no sign.
 
 If they challenge the wolves, four of them, including the Alpha male, will fight to defend their prize while the others scatter, snarl and prowl. However, if any character finds themselves surrounded by the pack they suffer the Pack Attack instead of a single Bite, as multiple wolves bite and scratch at them from all sides. If any wolf is badly hurt they will flee rather than fight to the death. Once they have chased the wolves off they can survey the scene and see the following:
 
 - The body is that of Mary, and she has been dragged out from the underbrush by the wolves fighting over her.
 - If they follow the drag marks they can find the place where Mary’s body was lying before the wolves found it. There are signs of a struggle and a big pool of blood.
-- A DOCTORIN’ roll is needed to check her injuries:
 
-### The Wolf Pack
-
-When the player characters reach the lower slopes of Canyon Creek Ridge they come across a horrible scene. They can see a pack of wolves tearing at what appears to be the listless form of a person. A successful HAWKEYE test allows them to see that the figure is a young black woman in torn clothing.
+A DOCTORIN’ roll is needed to check her injuries:
 
 - If the roll is unsuccessful it looks like the wolves attacked and killed her.
 - For one success they are not sure, but there are possible indications that her throat was cut.
@@ -167,7 +166,7 @@ When the player characters reach the lower slopes of Canyon Creek Ridge they com
 | Alpha Wolf | 4    | 4     | 4       | 4        | 4    | 4       | Bite: Damage 2, Crit 1 (+1 to FIGHTIN' when Grappling). Pack: Damage 3, Crit 1, +3 bonus to attack rolls |
 | Gray Wolf  | 3    | 4     | 4       | 3        | 4    | 4       | Bite: Damage 2, Crit 1 (+1 to FIGHTIN' when Grappling). Pack: Damage 3, Crit 1, +3 bonus to attack rolls |
 
-### Picking Up the Trail Again
+#### Picking Up the Trail Again
 
 Hopefully, the players will now feel an even more urgent need to track down Patience before something similar happens to her. There are two trails from here—some of Rockcliffe’s men have taken Patience north, skirting the foothills of the Canyon Creek Ridge to Tyler Peyton’s hunting shack, while others carried on along the false trail to the south. The player characters need to succeed with a HAWKEYE roll to spot the obvious trail heading south, but need two successes on the roll to spot the faint trail heading north as well.
 
@@ -186,7 +185,7 @@ The players might be able to pressure Higgins to come clean using either PRESENC
 
 Higgins won’t fight the player characters unless it’s clear they intend to kill him, in which case he will make a run for it, using his wilderness skills to get away.
 
-### Higgins Comes Clean
+#### Higgins Comes Clean
 
 > _If all else fails and the player characters miss all the clues to the trail to the north Higgins will come clean, his conscience finally getting the better of him. He points out the second trail to the north, and says: “I’m leaving now, but you wanna go that a-way. Don’t trust Rockcliffe”. He whistles as he disappears into the undergrowth, Scarlet and Rebel bounding along behind him._
 
@@ -221,7 +220,7 @@ There are three ways this can play out, depending on what you feel works best fo
 | Guard Dog Scarlet | 4    | 3     | 2       | 3        | 2    | 1       | Bite: Damage 2, Crit 2 (+1 to FIGHTIN' when Grappling) |
 | Tracker Dog Rebel | 2    | 4     | 3       | 0        | 2    | 3       | Bite: Damage 1, Crit 2                                 |
 
-### Tyler Peyton's Hunting Shack
+#### Tyler Peyton's Hunting Shack
 
 Peyton’s shack is a rough wooden building that has seen better days. It was once the home of an old hunter whom Peyton killed when he refused to sell him the place. It sits on the western slopes of the Elk Mountains about fifteen miles west and a little south of Steaming Rock, surrounded by forest and 100 yards from the river. A rough, dusty trail snakes away to the north, where it eventually joins the road to town. By the shack is a small corral where there are currently six horses tied up.
 
@@ -236,7 +235,7 @@ When the player characters approach the shack, the NPCs are disposed as follows:
 - Charlie Chivers is asleep in room 4.
 - And Peyton’s dog, Digger, is tied by a rope to a post on the stoop. If the player characters attempt to sneak up they will need to make an opposed MOVE against Digger’s HAWKEYE, otherwise the dog will detect something and start barking.
 
-### The Showdown
+#### The Showdown
 
 It’s entirely up to the players how they want to try and resolve this situation. At some point it is likely to end in a showdown or stand-off between the player characters and Peyton and his men. In this case the following things should happen:
 
@@ -298,7 +297,7 @@ Will do any job if the money is good enough. Not keen to die for Rockcliffe’s 
 
 ### The Epilogue
 
-### If the Player Characters Leave Patience with Peyton and Uphold Rockcliffe’s Lie
+#### If the Player Characters Leave Patience with Peyton and Uphold Rockcliffe’s Lie
 
 When the player characters return to town they are immediately accosted by Maxwell Kinnear, Patience’s cowhand boyfriend. He has heard they are looking for her, but accuses them, and Rockcliffe, of leaving her to die. In his fury he heads off towards the Rockcliffes’ home to have it out with Ellis. Unless the player characters intervene Kinnear is confronted by Halliday and Friar on the field in front of Rockcliffe’s home. Gunplay ensues and Kinnear is killed.
 
@@ -360,96 +359,16 @@ Cheerful, fearless, and kind. Uses violence as a last resort.
 | ------------- | ------ | -------- | ---------- | ------ | -------- | ----- | ---- |
 | Hunting Blade | N/A    | N/A      | +1         | 2      | 1        | Arms  | N/A  |
 
-### An Alternative Ending and Another Story
+#### An Alternative Ending and Another Story
 
 > _If you want to continue this story, these endings can play out in a slightly different way. Kinnear is wounded rather than killed in the gunfight, and Patience makes a miraculous return sometime later. Or Rockcliffe’s accusation that Kinnear beat Patience is quickly dropped and forgotten. After a few weeks of calm pass by, Patience approaches the player characters. She is either deeply angry with them and expects them to offer recompense (if they left her with Rockcliffe’s men) or asks for their help once again (if they released her from Peyton’s clutches). She hints that her father won’t live forever and she will inherit the Rockcliffe holdings._
 
-### If the Player Characters Save Patience and Reveal Rockcliffe’s Lie
+#### If the Player Characters Save Patience and Reveal Rockcliffe’s Lie
 
 As soon as Rockcliffe hears that Patience is back he professes his joy and relief that she is alive and well. He tries to cover his brutal actions by blaming Kinnear for beating his “ _beautiful, fragile daughter_ ” and forcing her to run away. Patience, on the other hand, says she was beaten by the bandits who kidnapped her and murdered poor Mary, letting her father off the hook—however, her fury burns deep and hot, and she considers her next steps for the future. Rockcliffe is surprised and relieved, but wonders why the impetuous Patience is behaving in such a measured way.
 
 > _She wants their help. Her father intends to see Maxwell Kinnear dead for his impudence, but Patience loves him. The player characters must spirit Kinnear out of town, take him to El Paso to the southeast and ensure he takes the stagecoach for San Antonio in Texas, where he will be safe. But they must move fast, as even now her father is secretly contracting bounty hunters from out of town to run down and murder her beau._
-
+>
 > _“HAVE YOU ANY IDEA OF WHAT A MAN MUST ENDURE WHO LEADS SUCH A LIFE? NO, YOU CANNOT. NO ONE CAN UNLESS HE LIVES IT FOR HIMSELF.”_
-
+>
 > — THE OUTLAW FRANK JAMES
-
-| Abilities                   | 17, 46-51      | Dynamite                     | 83                  |
-| --------------------------- | -------------- | ---------------------------- | ------------------- |
-| Actions                     | 68             |                              |                     |
-| Albuquerque, Bernalillo Co. | 245            | Employment                   | 91                  |
-| Ambushes                    | 75             | Encumbrance                  | 18                  |
-| Amenities                   | 168-177, 187   | Exhausted                    | 80                  |
-| Archetypes                  | 23             | Experience                   | 19                  |
-| Attributes                  | 16             | Explosions                   | 83                  |
-| Backing Out                 | 71             | Faith                        | 17, 19, 40, 45, 294 |
-| Big Dream                   | 17, 19-20, 294 | Falling                      | 84                  |
-| Blocking                    | 70             | Fame                         | 101                 |
-| Bronc Bustin’               | 128            | Fanning                      | 74                  |
-| Bullwhip                    | 114            | Fire                         | 82                  |
-| Businesses (outfits)        | 92-95          | Freezing                     | 80                  |
-| Business Bonus Table        | 183-184        |                              |                     |
-| Business Penalty Table      | 183-184        | Gambling                     | 118                 |
-|                             |                | Gear                         | 106                 |
-| Called Shots                | 72             | Gentlefolk                   | 25                  |
-| Called Strikes              | 69             | Going Bust                   | 95                  |
-| Capital                     | 88-90          | Grappling                    | 70                  |
-| Carson’s Folly, Colfax Co.  | 236            | Grifter                      | 26                  |
-| Cash                        | 88             | Group Concepts               | 21                  |
-| Chases                      | 129            | Group Rolls                  | 44                  |
-| Compadres                   | 103            |                              |                     |
-| Competition                 | 181            | Heatstroke                   | 80                  |
-| Congregation Rolls          | 186            | Helping Others               | 43                  |
-| Coup de Grace               | 78             | Homesteader                  | 27                  |
-| Cover                       | 72, 76         | Horses                       | 120                 |
-| Critical Effects on Animals | 135            | Horse Flaws                  | 126                 |
-| Critical Injuries           | 78             | Horse Qualities              | 125                 |
-|                             |                | Hurts                        | 16                  |
-| Darkness                    | 85             |                              |                     |
-| Death Rolls                 | 79             | Initiative                   | 67                  |
-| Dehydrated                  | 80             |                              |                     |
-| Disease                     | 85             | Jornada Springs, Socorro Co. | 220                 |
-| Dodging                     | 70             |                              |                     |
-| Doubts                      | 16             | Laborer                      | 28                  |
-| Drowning                    | 84             | Lasso (lariat)               | 71                  |
-| Dueling                     | 73             | Las Vegas, San Miguel Co.    | 248                 |
-
-| Lawman                    | 29           | Settlement Points        | 20, 168          |
-| ------------------------- | ------------ | ------------------------ | ---------------- |
-| Lifepath                  | 274          | Shakes                   | 16               |
-| Lifestyle                 | 103, 187-188 | Silver City, Grant Co.   | 248              |
-| Lincoln, Lincoln Co.      | 247          | Sneak Attacks            | 75               |
-| Liquidating Capital       | 89           | Spooked Horses           | 127              |
-| Loans                     | 90           | Stabilization            | 79               |
-|                           |              | Starving                 | 79               |
-| Making Camp               | 132          | Steaming Rock, Grant Co. | 228              |
-| Manhunts                  | 130          | Stunts                   | 39               |
-| Modifications             | 43           |                          |                  |
-|                           |              | Tally Points             | 165              |
-| Negotiating Position      | 77           | Towns                    | 90, 165, 180-182 |
-| Non-player characters     | 137-141      | Town Aspects             | 165              |
-|                           |              | Town Fortunes            | 192-195          |
-| Opposed Rolls             | 44           | Town Ranks               | 165-166          |
-| Outfits (businesses)      | 92-95        | Tracker                  | 33               |
-| Outlaw                    | 30           | Trader                   | 34               |
-| Overwatch                 | 74           | Training your Horse      | 128              |
-|                           |              | Traps and Trapping       | 135-136          |
-| Pardner                   | 18-19, 294   | Traveling                | 131-132          |
-| Personal Fortune Rolls    | 189-191      | Trouble                  | 38-42            |
-| Poisons                   | 84           | Trouble Outcome Tables   | 41-42            |
-| Preachers                 | 91, 186      | Turn of the Season       | 180              |
-| Property                  | 95           |                          |                  |
-| Property Features         | 98           | Venom                    | 84               |
-| Property Location Table   | 97           | Vexes                    | 16               |
-| Property Status Table     | 96           |                          |                  |
-| Prospector                | 31           | Weapons                  | 109-117          |
-| Prosperity                | 167          | Weapon Conditions        | 117              |
-| Pushing your roll         | 40           | Weapon Features          | 109              |
-|                           |              | Weapon Qualities         | 115-116          |
-| Range Categories          | 67           | Wildlife                 | 131-135          |
-| Ranch Hand                | 32           | Wildness                 | 127              |
-| Reputation                | 101-102      |                          |                  |
-| Salaries                  | 91           |                          |                  |
-| Santa Fe, Santa Fe Co.    | 245          |                          |                  |
-| Season Business Rolls     | 181-185      |                          |                  |
-| Season Congregation Rolls | 186          |                          |                  |

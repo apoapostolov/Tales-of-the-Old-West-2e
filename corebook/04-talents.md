@@ -1,7 +1,7 @@
 ## Chapter 4 - Talents
 
 > *“IF YOU CLIMB IN THE SADDLE, BE READY FOR THE RIDE!”*
-
+>
 > — OLD WEST SAYING
 
 Talents give you the edge over the other guy and set you apart from the small folk. Your talents tell the world you’re going to make it on the wild frontier, and those other folk ain’t. Talents are a way to fine-tune and specialize your player character with unique capabilities that will define your tale in the Old West.
@@ -440,7 +440,7 @@ Nothing splits a skull like a mighty axe.
 
 **Advanced** : When you hit an enemy with your axe and inflict 3 or more points of damage, you automatically inflict a critical injury.
 
-### Tracke r
+### Tracker
 
 You know how to move, track, and hunt.
 

@@ -1,7 +1,7 @@
 ## Chapter 7 - The West in the 1870s
 
 > *“A PIONEER IS THE MAN WHO TURNED ALL THE GRASS UPSIDE DOWN, STRUNG BOB-WIRE OVER THE DUST THAT WAS LEFT, POISONED THE WATER, CUT DOWN THE TREES, KILLED THE INDIAN WHO OWNED THE LAND, AND CALLED IT PROGRESS.”*
-
+>
 > — CHARLES M RUSSELL, ARTIST OF THE OLD WEST
 
 While the period of history called “the Wild West” covers a relatively short amount of time—no more than 40 or 50 years—it is not an isolated part of history: many different cultures and events, interwoven over the preceding centuries, converged to create this place and the people who lived in it. The West was a melting pot of every European culture and heritage forced upon a landscape that was already occupied by Native American tribes, the Mexican and Pueblan descendants of the empire of Old Spain and its antecedents, and a huge variety of animal and plant life. Add to this the forced immigration of Africans in bondage and all the legacies which that created, and the West was an incredibly diverse place—a place that was, at one and the same time, blessed with opportunity, cursed by hardship, and riven with conflict and struggle.
@@ -12,7 +12,7 @@ In _Tales of the Old West_ we want all this history to be recognized. How you de
 
 The great expanse of the Old West covers the states of Minnesota, Iowa, Missouri, Arkansas, and Louisiana, and all the land west of that line. It includes many different types of land: hot and cold, high and low, forested and desert. It is wide, open, and irresistible to the American and European settlers, but home to many hundreds of native and indigenous communities, and nature’s rich flora and fauna.
 
-### The Landscape
+#### The Landscape
 
 **Washington Territory** : Lush and forested in the north and west, with a rocky and rugged coastline and the Cascade Range, a mountain range including Mount Rainier and Mount St Helens. The east of the territory is semi-arid with dense forests growing along river valleys.
 
@@ -20,7 +20,7 @@ The great expanse of the Old West covers the states of Minnesota, Iowa, Missouri
 
 We have listed some of the sources that have inspired us at the end of this chapter and encourage you to explore this history in greater detail for yourself.
 
-### Describing the Old West
+#### Describing the Old West
 
 > _The sweeping expanse of the Old West is a hugely varied and complex environment that needs a full book to describe in detail. So here we have just tried to give a flavor of that variety, as a taster to get you started._
 
@@ -34,9 +34,7 @@ We have listed some of the sources that have inspired us at the end of this chap
 
 **Nebraska Territory** : Rolling plains, with low hills and grasslands to the east—the Dissected Till Plains—that meets the treeless prairies of the Great Plains to the west. There are woodlands to the east and in the northwest, and expansive wetlands, with lakes, marshes, swamps, and backwaters.
 
-**Kansas** : The western two thirds are covered by the central Great Plains, marked by shallow gullies called draws, created by water erosion. To the east the land gently rises, forming grasslands and forests. The state is pock-marked by hills and low mountain ranges such as Flint Hills in the southeast, and the
-
-### Smoky Hills to the west.
+**Kansas** : The western two thirds are covered by the central Great Plains, marked by shallow gullies called draws, created by water erosion. To the east the land gently rises, forming grasslands and forests. The state is pock-marked by hills and low mountain ranges such as Flint Hills in the southeast, and the Smoky Hills to the west.
 
 **Indian Territory** : The southeast is mountainous and heavily forested, with the notable Ouachita Mountains. The land rises to the west, meeting the High Plains in the territory’s panhandle. In between the two are the notorious Cross Timbers, a narrow forest that runs from Kansas in the north into Texas in the south—described as a “forest of cast iron” the Cross Timbers is so dense that many choose to go around it.
 
@@ -50,19 +48,17 @@ We have listed some of the sources that have inspired us at the end of this chap
 
 **Utah Territory** : Located at the convergence of the Colorado Plateau, the Great Basin, and the Rocky Mountains, Utah Territory has a very diverse landscape. The western half sits on the Colorado Plateau, with the Mojave Desert to the south and the Great Salt Lake desert and the Bonneville Salt Flats to the north. The mountains have large forests and varied climates.
 
-coastal mountains to the west and the Sierra Nevada in the east. Further north the state is marked by grasslands and meadows, and the great redwood forests. South of the Central Valley the state is cut in half by the mountains of the Transverse Ranges, beyond which you find the scorching plains of the Mojave Desert.
-
-### The Western Expansion
+#### The Western Expansion
 
 **Nevada** : Sitting within the Great Basin, Nevada is replete with north-south running mountain ranges, covered with widespread forests of sub-alpine trees. The land becomes desert and grassy plains to the south and east. The Mojave Desert and Death Valley sit in the southwest, forming a border with California.
 
-**California** : California is dominated by the Central Valley, a huge, fertile tract of land between the low
+**California** : California is dominated by the Central Valley, a huge, fertile tract of land between the low coastal mountains to the west and the Sierra Nevada in the east. Further north the state is marked by grasslands and meadows, and the great redwood forests. South of the Central Valley the state is cut in half by the mountains of the Transverse Ranges, beyond which you find the scorching plains of the Mojave Desert.
 
 It didn’t take long for the western expansion to make an indelible mark on the landscape. Camps and towns appeared, some growing into cities, while railroads criss-crossed the plains, cutting buffalo grounds in two. And all without a second thought for the Native American communities that populated the land, and had done so for thousands of years.
 
 ### The History
 
-### Key Events of the Nineteenth Century West
+#### Key Events of the Nineteenth Century West
 
 **1836** : Texas declares independence.
 
@@ -126,25 +122,23 @@ It didn’t take long for the western expansion to make an indelible mark on the
 
 **1912** : Arizona and New Mexico Territories are incorporated as states.
 
-### Territorial Governance
+#### Territorial Governance
 
 In the early 1870s only five of the western states were actually that: states of the USA. All the rest were territories, governed by local territorial governors who held enormous authority—they were also the commanders of the militia, Superintendents of Indian Affairs, and responsible for liaison with federal authorities. Territorial governors were political appointments, not elected officials, and federal meddling was commonplace. An enormous amount of political power and influence was concentrated in the governors’ hands. Inevitably, corruption was rife, and this led to many so-called territorial “rings” springing up—corrupt associations of local politicians, landowners, and businessmen, all supported by federal patronage.
 
-century, many others were agricultural, farming crops and livestock and living a more sedentary life. But they all had one thing in common—they lived their lives in harmony with the natural world, husbanding resources and sustaining the balance that was essential to their prosperity. This harmony was fostered by the favor and support of spirits of many kinds, from those found in nature, to animal spirits, and the spirits of their ancestors.
-
-### Law Enforcement
+#### Law Enforcement
 
 The reach of the law could be long, but often the grip of the law was tenuous at best. Local sheriffs, occasionally elected but often appointed, tried to keep the peace with the help of their deputies, and federal marshals would wield some level of authority wherever they went. Special deputies would be badged to hunt down specific quarry, and would often carry their pursuit wherever it took them. In some places there were other forms of so-called law enforcement—militias such as the famous Texas Rangers were formed to protect local communities from crime and Native American raids, but were frequently as lawless as those they were supposedly protecting against. Often, the law on the frontier was that of the strong, and lynchings and murder were all too common.
 
-### The Sweep of Native American History
+#### The Sweep of Native American History
 
-The common representation of the Native American is that of a nomadic hunter-gatherer, living their lives on horseback, following the game and needing huge territories to maintain their lifestyle. While this may be true for some tribes in the nineteenth
+The common representation of the Native American is that of a nomadic hunter-gatherer, living their lives on horseback, following the game and needing huge territories to maintain their lifestyle. While this may be true for some tribes in the nineteenth century, many others were agricultural, farming crops and livestock and living a more sedentary life. But they all had one thing in common: they lived their lives in harmony with the natural world, husbanding resources and sustaining the balance that was essential to their prosperity. This harmony was fostered by the favor and support of spirits of many kinds, from those found in nature, to animal spirits, and the spirits of their ancestors.
 
-### Native American Creation Myths
+##### Native American Creation Myths
 
 > _The creation myths of Native American tribes are numerous and varied, but many have common themes. There are tales of the great flood and of twins, and the concept of the Sunfather, who inhabits ‘the land above’. Some myths speak of a creator, and others of humanity arising from Mother Earth, often with the belief that ancestors in the spirit world or animal spirits helped bring about that arising. Within this enormous variety, another common theme was the belief in tolerance of other, different, myths. Many Native Americans were puzzled—and angered—by Christianity’s insistence that the bible was gospel truth and was a more trustworthy record than the oral and wampum traditions of the Natives, handed down through the generations._
 
-### Conflict and Decline
+##### Conflict and Decline
 
 Ever since the first meaningful arrival of European explorers in the sixteenth century, Native American history has been set against the backdrop of conflict and decline. These European nations, colonial and acquisitive, brought their goods, their ways, their diseases, and their conflicts to the lands of the Natives. Their first foothold was in the east, but inexorably they moved west over the centuries. Early conflicts, such as that between the British and Pequot tribe at Mystic River in the early seventeenth century set the tone: the Pequots were all but exterminated with many others succumbing to European diseases. All this was seen—by the Europeans—as God’s endorsement and encouragement to take this land for themselves.
 
@@ -152,20 +146,20 @@ For the next 150 years these imperial nations dealt with the Native American tri
 
 By 1870 many of the eastern tribes had either been destroyed, forcibly moved (often to the tribal lands of other Native Americans who were not consulted about it), ignored, cast as the enemy, or subjected to forced assimilation, all to accommodate the relentless flow of European settlers. Numerous so-called “Indian Wars” had been, or were being, fought, by tribes desperate to protect their way of life: the Cheyenne and Arapaho in Colorado and Wyoming Territories; the Comanche, Navajo and Apache in Texas, New Mexico and Arizona; and the Sioux on the Northern Plains, amongst others. By this time, the Native tribes could have had no illusions about the hypocrisy and real intentions of the European settlers, and the settlers had no illusions about the potential threat presented by dangerous and desperate Natives, even if the fear of that threat was more prevalent than the threat itself. But the reality of the 1870s West is much more complicated than that. Many tribes, traditional enemies of those now at war with the US Army, offered scouts and soldiers to work with the Americans. Other Natives lived alongside the settlers, working as cowboys and ranch hands. For most, however, they survived as best they could on the reservations so “generously” provided for them.
 
-### Native American Naming Conventions
+#### Native American Naming Conventions
 
 > _There is no single naming convention that covers the enormous variety of Native American cultures and traditions, and we cannot hope to fully reflect that variety. Neither can we adequately reflect the forced anglicization of Native Americans and their names that happened throughout the period. It is also impossible for us to fully reflect the deep personal, cultural, and spiritual importance of many of these names that are earned for specific reasons or passed down clan lines—they are sacred. Here are a few notes we hope you will find helpful:_
-
+>
 > _• While naming conventions vary considerably across the diverse tribes and traditions, Native American communities often have a fluid naming tradition, in that new names can be earned or awarded throughout a lifetime._
-
+>
 > _• A new-born is given a name, but that name can be changed if it proves to be a bad fit._
-
+>
 > _• Adolescence is a key milestone in a Native American’s life and a new name would often be awarded to mark this coming of age. But new names can be awarded at any time in an individual’s life._
-
+>
 > _• The names given can reflect the individual’s personality, what they have accomplished or the events that befall them._
-
+>
 > _• Some are given as a result of visions and prophecies and as such are sacred, infused with spiritual significance and power. These may be of such importance that they cannot be contaminated by outside influences, and may only be known by the person themselves and the tribal elder who bestowed it upon them._
-
+>
 > _• These traditions inspire individuals to better themselves, and in turn earn new names to reflect that growth and evolution._
 
 ### Native American Tribes in Tales of the Old West
@@ -176,7 +170,7 @@ One thing we have learned—it’s clear that Native identity is intensely perso
 
 For ease of familiarity and accessibility to the widest gaming community possible, we have chosen to generally use those modern tribal names in _Tales of the Old West_ , but with popularly accepted Native spellings where possible. We have also compiled a list of endonyms with some relevant notes. Some of these have a more certain provenance, while others are more speculative or open to interpretation or debate. But either way, we hope you find this information useful. We hope you use it to build compelling tales that include the Native American experience, and as inspiration to learn more about the real history of the time.
 
-### Tribal Names
+##### Tribal Names
 
 | Common Name | Endonym | Comments |
 | --- | --- | --- |
@@ -241,7 +235,7 @@ American uprisings were rare and only ever on a small scale that never threatene
 
 ### The End of Slavery
 
-There had long been an abolitionist movement against slavery in the US, but it took the Union victory in the American Civil War (1861-65) to see the emancipation of African Americans. The war was the—perhaps inevitable—culmination of the long-festering cultural and political differences between the northern and southern states, most notably over slavery, the preservation of which led the Confederate states to secede. The first shots were fired at Fort Sumter, North Carolina, when Confederate forces attacked a federal fort. For the
+There had long been an abolitionist movement against slavery in the US, but it took the Union victory in the American Civil War (1861-65) to see the emancipation of African Americans. The war was the—perhaps inevitable—culmination of the long-festering cultural and political differences between the northern and southern states, most notably over slavery, the preservation of which led the Confederate states to secede. The first shots were fired at Fort Sumter, North Carolina, when Confederate forces attacked a federal fort. For the North, they initially fought the war to preserve the Union, but the abolition of slavery soon became a specific war objective. Lincoln’s 1863 Emancipation Proclamation was a pivotal moment. It ostensibly freed every enslaved man, woman, and child in the Confederate states. They castigated the Confederates as slave-mongers, and used the northern opposition to slavery to maintain enthusiasm as the war dragged on and to recruit thousands of black soldiers. Of course, prejudice against African Americans did not simply disappear when the Thirteenth Amendment abolished slavery in December 1865—in fact, in many ways, emancipation saw prejudiced people double down on their prejudice. The postwar Restoration Program, designed to help newly emancipated African Americans get the foothold they needed, was fraught with political infighting and did not go nearly far enough. As soon as they were free, many African Americans went to seek out their lost families, but few would find them. Many moved to the West and took up roles in every walk of life, including the famous Buffalo Soldiers, the all-black 9th and 10th Cavalry regiments, and the 24th and 25th Infantry regiments of the army, which were active across the Southwest and Great Plains.
 
 ### The Experience of the Enslaved
 
@@ -293,7 +287,14 @@ Chinese immigrants were often impoverished peasants. They provided a significant
 
 ### Further Reading
 
-_1491_ by Charles C. Mann _Impressions of an Indian Childhood_ by Zitkala Sa _The Earth is Weeping_ by Peter Cozzens _Black Elk Speaks_ as told through John Neihardt by Nicholas Black Elk _The Rediscovery of America_ by Ned Blackhawk _And Still The Waters Run_ by Angie Debo _The Mammoth Book of Native Americans_ edited by Jon E. Lewis _New Mexico, A History_ by Sanchez, Spude and Gomez
+- _1491_ by Charles C. Mann
+- _Impressions of an Indian Childhood_ by Zitkala Sa
+- _The Earth is Weeping_ by Peter Cozzens
+- _Black Elk Speaks_ as told through John Neihardt by Nicholas Black Elk
+- _The Rediscovery of America_ by Ned Blackhawk
+- _And Still The Waters Run_ by Angie Debo
+- _The Mammoth Book of Native Americans_ edited by Jon E. Lewis
+- _New Mexico, A History_ by Sanchez, Spude and Gomez
 
 ### States of the West
 

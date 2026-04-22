@@ -1,6 +1,230 @@
 ---
 name: western-writing
 description: |
+  Use when drafting, revising, or reviewing manuscript-facing prose
+  for the Tales of the Old West 2E repo, or any gritty realistic
+  western fiction in the McCarthy / McMurtry / Portis / Leonard /
+  Hall / Lansdale / Swarthout / Hansen tradition. Applies the
+  voice, structure, diction, knowledge base, and anti-AI rules so
+  prose reads like native fiction — harsh, clear, physical,
+  atmospheric, and free of generated-text tells. Covers corebook
+  chapters, proposal prose, item and ability descriptions, flavor
+  exposition, examples, and mixed fiction-and-rule bridges, plus
+  standalone short fiction in the same register.
+---
+
+# Western Writing — A Bible for Hard Country Prose
+
+This skill exists because AI cannot write good western prose by
+default. It produces something that looks like prose —
+grammatical, organized, superficially tonal — but reads like
+a summary of a book rather than a page from one.
+
+The best western fiction was written by men and women who thought
+in dust, iron, horse sweat, distance, and consequence. Their prose
+is not decorated. It is built. Every sentence does a job: it
+teaches a rule, grounds the world, or moves the reader closer to
+the hand on the gun and the wind on the back of the neck.
+
+This skill teaches you to match that standard, not approximate it.
+It is long because the job is large. Read the index, then read
+the modules you need. Do not skim and draft.
+
+## How to use this bible
+
+1. **Always read this file first.** It contains the non-negotiable
+   rules and the workflow. Everything else is supporting depth.
+2. **Pick the modules you need for the current task** from the
+   index below. For most prose work you will load `voices.md`,
+   `prose-craft.md`, and `anti-ai-patterns.md`. For a scene that
+   touches a specific subject (a cattle drive, a gunfight, a
+   miner's camp, a hanging) load the matching knowledge file.
+3. **Pull two or three exemplars** from `examples/scenes.md`
+   before drafting. Read them aloud. Match the cadence.
+4. **Draft, then run the anti-AI pass.** Cut anything the pass
+   catches. Rewrite. Read aloud again.
+5. **End on weight.** If the last sentence of a paragraph trails
+   into qualifier or summary, you are not done.
+
+## The library
+
+### references/ — how to write
+
+- `references/voices.md` — the author canon. McCarthy as spine,
+  McMurtry as humanizer, Portis for first-person voice, Leonard
+  for dialogue, Hall for moral complexity, Lansdale for grindhouse
+  tempo, Swarthout for elegiac realism, Hansen for documentary
+  poise, Manfred and Guthrie for plains and rivers. Each entry
+  lists the properties to copy and the failure modes to avoid.
+- `references/prose-craft.md` — the mechanics. Sentence shapes,
+  paragraph jobs, dialogue without quotation marks, exposition
+  without lecturing, scene grammar, transitions, time, weather
+  as character, before/after rewrites.
+- `references/anti-ai-patterns.md` — the full taxonomy of
+  generated-text tells with detection cues and rewrites. This
+  is the file you run a draft against last.
+- `references/masculinity-and-code.md` — how to write the
+  interior life of hard men without modern therapy talk, the
+  difference between lived masculinity and posed masculinity,
+  the codes (the cowboy code, the outlaw code, the code of the
+  hills, the soldier's code), and how to render shame, fear,
+  loyalty, and grief in period-appropriate registers.
+- `references/uncomfortable-truths.md` — race, violence, women,
+  disease, futility, suicide, the residue of slavery, Native
+  genocide. How to write the actual West without flinching and
+  without exploitation.
+
+### knowledge/ — what to write about
+
+- `knowledge/cowboy-life.md` — the daily grind of the working
+  cowhand: trail and ranch routine, the cattle drive timeline,
+  pay, hierarchy, food, sleep, the smell of a herd at dawn.
+- `knowledge/material-culture.md` — firearms, knives, tack,
+  clothing, tools. What they weigh, what they cost, how they
+  break, what they sound like.
+- `knowledge/frontier-survival.md` — water, weather, fire,
+  navigation, distance, the terrain of the West region by
+  region.
+- `knowledge/medicine-and-death.md` — wounds, infection,
+  disease, period medicine, how people actually died.
+- `knowledge/towns-economy-law.md` — saloons, brothels, banks,
+  mercantile, currency, marshals, sheriffs, circuit judges,
+  lynch law, vigilance committees, the pay scale of the West.
+- `knowledge/peoples-and-conflict.md` — the actual demographic
+  West. Anglos, Tejanos and other Mexicans, Black cowboys and
+  Buffalo Soldiers, Chinese labor, the Native nations region by
+  region, immigrant Europeans, women of every station.
+- `knowledge/work-and-trades.md` — ranching, mining, railroad,
+  freighting, smithing, tracking, scouting, hunting, farming,
+  homesteading, telegraph, journalism, surveying.
+- `knowledge/language-and-diction.md` — period slang and idiom
+  by region and class, what to say, what NOT to say, registers
+  for the educated, the illiterate, the immigrant, the soldier.
+
+### examples/ — the shelf
+
+- `examples/scenes.md` — ten worked exemplar passages across the
+  registers you will be asked to write. Each passage is followed
+  by a short critique that names what makes it work and what it
+  refuses to do.
+
+## The non-negotiable rules
+
+These are hard. Violating any one disqualifies a draft from the
+manuscript. They are the same rules expanded in
+`references/anti-ai-patterns.md`; the short form lives here so
+you cannot forget them.
+
+1. **No mood without object.** Every atmospheric sentence carries
+   a physical noun — body part, material, tool, terrain, weather.
+   *"Danger lurked"* is banned. *"The heat rose off the hardpan
+   in visible waves"* is allowed.
+
+2. **No paragraph without a job.** Before writing a paragraph,
+   name its job in one word: define, describe, distinguish, warn,
+   demonstrate, bridge, land. If you cannot name the job, do not
+   write the paragraph.
+
+3. **No AI tells.** Run the anti-AI pass for em-dash clusters,
+   rule-of-three, copula avoidance, elegant variation, negative
+   parallelisms ("not X. Y."), hedging stacks, sycophantic
+   qualifiers, filler phrases, generic positive endings.
+
+4. **No synonym cycling.** A revolver is a revolver. A horse is
+   a horse. The repeated noun is cleaner than elegant variation.
+   Game terms in particular never vary.
+
+5. **No therapy, no corporate, no blog.** The manuscript and the
+   fiction do not say *meaningful, impactful, engage with, it's
+   worth noting, basically, in other words, this means that, the
+   key takeaway, journey, navigate, unpack, dive into, reach out,
+   landscape* (as metaphor), *space* (as metaphor), *resonate,
+   leverage, holistic, wellness.* Full kill list in
+   `anti-ai-patterns.md`.
+
+6. **End on weight.** Sentences land on concrete nouns, bodily
+   consequence, hard verbs, or material fact. Trailing qualifiers
+   and abstract summaries at the end of a sentence are the most
+   reliable sign of generated text.
+
+7. **Earn every adjective.** One strong noun beats two modified
+   ones. *The blade* beats *the sharp, gleaming blade.* If an
+   adjective does not change what the reader pictures, cut it.
+
+8. **No designer jargon in prose.** Internal shorthand —
+   *critical riders, proc, tuned, feature effects* — does not
+   belong in manuscript prose. Replace with plain table-language.
+
+9. **No safety scaffolding.** Do not introduce sections labeled
+   *GUARDRAILS, Content Warning, Safety Note,* or any equivalent
+   inside fiction or manuscript. If a rule has edge cases, write
+   them as GM advice in one short sentence at the place the
+   concern actually arises.
+
+10. **No anachronism of mind.** Characters do not have modern
+    interiority. They do not "process" feelings, "set boundaries,"
+    "communicate," or "find closure." They feel shame, anger,
+    grief, lust, fear, hunger, thirst, the cold. They act on
+    those things or they swallow them. See
+    `references/masculinity-and-code.md`.
+
+11. **No clean violence.** A man shot in the lung does not die
+    quickly or quietly. A horse shot in the neck does not drop
+    like a curtain. The body is meat and the meat behaves like
+    meat. See `knowledge/medicine-and-death.md`.
+
+12. **No noble savage, no flat villain, no town of stock parts.**
+    The peoples of the West were not symbols. The widow keeps a
+    ledger. The Apache scout has children waiting at Cibecue. The
+    drunk outside the saloon was a sergeant at Antietam. See
+    `knowledge/peoples-and-conflict.md`.
+
+## The workflow
+
+1. Identify the register: fiction opener, flavor exposition,
+   rules text, mixed bridge, item description, example scene,
+   short fiction, character interiority, dialogue scene, action
+   scene, landscape passage, death scene.
+2. Load the matching knowledge module(s).
+3. Pull two to five exemplars from `examples/scenes.md`.
+4. Draft one paragraph at a time. Name the paragraph's job before
+   you write the first sentence.
+5. Check diction: concrete subjects, physical verbs, material
+   nouns, no abstract filler. Earn every adjective.
+6. Check structure: paragraph shape matches its job, sentence
+   length varies with purpose, the paragraph ends on weight.
+7. Run the anti-AI pass from `references/anti-ai-patterns.md`.
+8. Read the draft aloud. If a sentence sounds like a summary of
+   a book rather than a page from one, rewrite.
+9. If you wrote about a body, a horse, a gun, a town, a tribe,
+   a season, or a trade — verify the physical facts against
+   the matching knowledge file. The reader can tell when you
+   guessed.
+
+## Review checklist
+
+- [ ] Could this paragraph sit beside *Lonesome Dove* or *Blood
+      Meridian* without sounding imported?
+- [ ] Does every atmospheric line contain a physical noun?
+- [ ] Does every paragraph do one job?
+- [ ] Do sentences end on weight, not filler?
+- [ ] Are game terms used consistently, not varied?
+- [ ] Is every adjective earned?
+- [ ] Has the anti-AI pass been run?
+- [ ] Can rules text be run at the table without interpretation
+      drift?
+- [ ] Does flavor text point toward use, danger, or consequence?
+- [ ] Has any designer jargon been replaced with table-language?
+- [ ] Does any character think a modern thought? Translate into
+      period interiority.
+- [ ] Has the violence been cleaned up by reflex? Re-dirty it.
+- [ ] Has any people, tribe, or trade been flattened to a stock
+      part? Give them a ledger, a child, a wound, a debt.
+
+The bible is long. The job is harder.
+---
+name: western-writing
+description: |
   Use when drafting, revising, or reviewing manuscript-facing prose for the
   Tales of the Old West 2E repo. Applies the voice, structure, diction, and
   anti-AI rules so prose reads like native fiction and practical rulebook

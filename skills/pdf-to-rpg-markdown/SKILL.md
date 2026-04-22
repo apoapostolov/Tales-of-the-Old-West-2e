@@ -1,871 +1,401 @@
 ---
 name: pdf-to-rpg-markdown
 description: |
-  Use when converting a tabletop RPG rulebook PDF into clean, structured
-  markdown. Covers the full pipeline: column-aware extraction with
-  pymupdf4llm, multi-pass cleanup (spaced headings, sidebars, tables,
-  paragraph joining, attribution formatting), and final normalization.
-  Handles two-column layouts, spaced-letter chapter titles, picture-text
-  blocks, fiction blockquotes, and running headers. Output matches
-  professional corebook markdown standards.
+  Use when converting a tabletop RPG PDF into clean, structured markdown for
+  `corebook/`, `rpg_projects/`, or similar source-document work. Covers
+  layout-aware extraction, multi-pass cleanup, Tales of the Old West-specific
+  repair rules, and final normalization.
 ---
 
 # PDF to RPG Markdown
 
-This skill documents a proven pipeline for converting tabletop RPG
-rulebook PDFs into clean, structured markdown suitable for version
-control, AI-assisted editing, and web rendering.
+This skill documents a repeatable pipeline for turning RPG PDFs into
+clean markdown that can be versioned, split by chapter, and edited
+without losing structure.
 
-## Why This Skill Exists
+The key idea is simple: extract conservatively, clean deterministically,
+and only then do any manual repair. RPG books are not plain prose. They
+carry running headers, decorative chapter titles, sidebars, tables,
+epigraphs, and column breaks that need explicit handling.
 
-PDF-to-markdown conversion for RPG books is harder than it looks.
-RPG rulebooks use two-column layouts, decorative headings with
-spaced-out letters, sidebar callout boxes, inline tables rendered
-as images, fiction epigraphs, and running chapter headers on every
-page. Naive text extraction produces unusable output with
-interleaved columns, merged words, and lost structure.
+## Source Of Truth
 
-This skill records the extraction and cleanup pipeline that
-produces corebook-quality markdown from these challenging PDFs.
+Read before you convert or repair:
 
-## Tool Stack
+- The PDF you are converting
+- This `SKILL.md`
+- The relevant chapter files in `corebook/`
+- Any local `AGENTS.md` in the chapter or project folder
 
-### Extraction: pymupdf4llm
+For repeatable cleanup work, prefer existing project scripts in `scripts/`
+and project references in `references/` or nearby project notes.
 
-**Why not pdfplumber or marker?** pdfplumber extracts text
-line-by-line and merges two-column content into single lines,
-producing interleaved left/right column text that is nearly
-impossible to fix algorithmically. pymupdf4llm is column-aware
-and produces markdown with correct paragraph flow, italic
-detection, bold detection, heading markup, and image placeholders.
+## Workflow
 
-**Installation:**
+1. Locate the source PDF and decide where the markdown should live.
+2. Choose the extractor that matches the document:
+   - `pymupdf4llm` when layout fidelity matters and you need reading order,
+     table preservation, and heading detection.
+   - `pdftotext -layout` when the document is mostly text and you want a
+     fast first pass.
+   - `markitdown` when the file is already fairly clean and the structure is
+     not especially tricky.
+3. Save a raw draft first. Do not clean in place.
+4. Run deterministic cleanup passes before manual edits.
+5. Split into chapter files only after the manuscript structure is stable.
+6. Record recurring fixes in project notes so the next conversion is cheaper.
+7. Validate the final result against the source PDF.
+
+## Extraction
+
+### Preferred Stack
+
+- `pymupdf4llm` for RPG sourcebooks with headings, sidebars, and tables
+- `wordninja` for dejoining spaced-out heading text
+
+Install:
 
 ```bash
 pip install pymupdf4llm wordninja
 ```
 
-**Basic extraction:**
+Basic extraction:
 
 ```python
-import pymupdf4llm
 from pathlib import Path
+import pymupdf4llm
 
 md = pymupdf4llm.to_markdown(str(Path("rulebook.pdf")))
-Path("rulebook.pymupdf.md").write_text(md, encoding="utf-8")
+Path("rulebook.raw.md").write_text(md, encoding="utf-8")
 ```
 
-pymupdf4llm produces markdown with:
+`pymupdf4llm` is preferred because it is column-aware and usually keeps:
 
-- `##` headings from detected heading fonts
-- `**bold**` from bold spans
-- `_italic_` from italic spans
-- `|...|` pipe tables from detected table structures
-- `**==> picture [...] <==**` placeholders for images
-- `**----- Start/End of picture text -----**` for text inside images
-- Page content in reading order (column-aware)
+- paragraph flow in reading order
+- bold and italic spans
+- heading markup
+- pipe-table structure
+- image placeholders and picture-text blocks
 
-### Cleanup: wordninja
+## RPG Book Defaults
 
-wordninja provides dictionary-based word segmentation for
-reconstructing spaced-out heading text (e.g., `T H E  W I L D  W E S T`
-→ `The Wild West`). Without it, naive space-removal produces
-concatenated gibberish (`THEWILDWEST`).
+- Treat the PDF as a source document, not prose to rewrite.
+- Preserve chapter order and section order.
+- Keep a raw staged file if the first pass is messy.
+- Normalize structure without inventing missing content.
+- Use manual repair when page art or table layout has destroyed the reading
+  order beyond safe regex cleanup.
+- Keep derived markdown beside the PDF or in a clearly named sibling file.
+- Reuse project-specific cleanup scripts and notes when the same failure mode
+  appears again.
 
 ## Cleanup Pipeline
 
-The cleanup runs as a sequence of independent passes, each
-addressing one class of PDF extraction artifact. Order matters:
-earlier passes normalize structure that later passes depend on.
+The pipeline is a sequence of independent passes. Order matters because later
+passes depend on earlier normalization.
 
 ### Pass 1: Front Matter and Noise Removal
 
-Remove non-content elements that pymupdf4llm extracts faithfully
-but that do not belong in the manuscript:
+Remove non-content elements that extraction often preserves faithfully:
 
-- **Page numbers**: patterns like `–7–`, `– 88 –`, `# – 14 –`
-- **Copyright lines**: `© 2024...`, `PDF distributed exclusively...`
-- **Table of contents**: pipe-table rows with dot leaders (`......`)
-  and `<br>` continuation lines
+- page numbers such as `–7–`, `– 88 –`, or `# – 14 –`
+- copyright lines and distribution notices
+- table-of-contents rows with dot leaders
+- obvious scan or packaging noise that is not manuscript text
+
+For Tales of the Old West, the front matter usually includes a repeated
+copyright/distribution block and a heavily spaced table of contents. Remove
+that whole region before trying to clean headings.
 
 ### Pass 2: Running Headers
 
-RPG PDFs repeat `Chapter N - Title` on every page as a running
-header. The cleanup must:
+RPG PDFs often repeat the chapter header on every page.
 
-1. Convert the **first occurrence** of each chapter header into a
-   `## Chapter N - Title` heading
-2. Remove all subsequent occurrences (they are running headers)
+Cleanup rules:
 
-Use a dictionary to track seen chapter keys (normalized to
-lowercase with collapsed whitespace).
+1. Convert the first occurrence of each chapter header into a real `##`
+   heading.
+2. Remove later occurrences as running headers.
+3. Track chapter keys by normalized lowercase text with collapsed whitespace.
+
+For Tales of the Old West, this typically means `Chapter N - Title` should
+appear once as the real section heading, not on every page.
 
 ### Pass 3: Spaced Heading Reconstruction
 
-PDF typesetting often renders decorative headings with spaces
-between every letter: `C H A P T E R  I I  Y O U R  P L A Y E R`.
-pymupdf4llm faithfully preserves these spaces.
+Decorative headings often come out with spaces between every letter.
 
-**Detection:** A heading line is "spaced" if more than 20% of its
-space-separated tokens are single alphabetic characters.
+Detection rule:
 
-**Reconstruction algorithm:**
+- treat a heading as spaced if more than 20% of its space-separated tokens
+  are single alphabetic characters
+- never treat sentence-like text with punctuation as a spaced heading
 
-1. Split on 2+ spaces to find definite word boundaries
-2. For each group, collapse internal spaces: `YO U R` → `YOUR`
-3. If the collapsed string is longer than 3 characters, run
-   `wordninja.split()` to segment it: `YOUR` → `['YOUR']`,
-   `PLAYERCHAACTER` → `['PLAYER', 'CHARACTER']`
-4. Apply smart title case (preserving acronyms like RPG, NPC, GM
-   and lowercasing articles/prepositions)
-5. Check against a corrections dictionary for known edge cases
+Reconstruction rule:
 
-**Guard against false positives:** Text containing sentence
-punctuation (`.?!,;`) is never a spaced heading — it is a quote
-or attribution that happens to have short words.
+1. Split on 2+ spaces to find real word boundaries.
+2. Collapse internal spaces within each group.
+3. Run `wordninja.split()` on non-trivial collapsed text.
+4. Apply smart title casing.
+5. Apply a corrections dictionary for known edge cases.
 
-### Pass 4: Picture Block Conversion
-
-pymupdf4llm marks image regions with:
-
-- `**==> picture [W x H] intentionally omitted <==**` — remove these
-- `**----- Start/End of picture text -----**<br>` — extract the
-  text between these markers
-
-For picture text blocks:
-
-1. Split on `<br>` tags
-2. Strip bold markers
-3. If the content looks like tabular data (header words like
-   Action, Range, Damage, Result, etc.), convert to a pipe table
-4. Otherwise, emit as plain text
-5. Short blocks (≤2 lines, all under 40 chars) are likely captions
-   — remove them
-
-### Pass 5: Heading Hierarchy Normalization
-
-pymupdf4llm detects headings by font size but does not know the
-document's intended hierarchy. Fix this:
-
-- `## Chapter N - Title` → keep as `##` (apply title case to
-  the title portion)
-- `## **bold text**` → `### bold text` (section heading)
-- `## non-chapter text` → `### text` (subsection)
-- `## "quote text"` or `## **"quote"**` → `> *"quote"*`
-  (chapter epigraph, not a heading)
-- `## Chapter [Roman word]...` → remove (duplicate from spaced
-  heading reconstruction)
-
-**Attributions:** Bold all-caps standalone lines (e.g.,
-`**THOMAS HORN JR., EXECUTED ON...**`) become
-`> — THOMAS HORN JR., EXECUTED ON...`
-
-Short `###` headings that follow a blockquote and contain a
-name (e.g., `### F Scott Fitzgerald`) are also attributions:
-`> — F. SCOTT FITZGERALD`
-
-### Pass 6: Sidebar Conversion
-
-Italic paragraphs (`_italic text longer than 20 chars_`) become
-blockquotes: `> _italic text_`. These represent PDF sidebar
-callout boxes that pymupdf4llm detected as italic spans.
-
-### Pass 7: Paragraph Joining
-
-PDF column breaks cause paragraphs to split mid-sentence across
-lines or even across blank lines. The joiner must:
-
-1. Skip structural lines (headings, blockquotes, tables, lists,
-   code fences)
-2. For text lines, accumulate content until the line ends with
-   sentence-terminal punctuation (`. ! ? : ; " ' )`)
-3. Join across a **single blank line** if the current line does
-   not end a sentence and the line after the blank is also text
-4. Join when the next line starts with a lowercase letter
-   (continuation of a sentence)
-
-### Pass 8: Inline Table Cleanup
-
-Replace `<br>` tags inside pipe table cells with spaces.
-
-### Pass 9: Whitespace Normalization
-
-- Strip trailing whitespace from all lines
-- Collapse 3+ consecutive blank lines to 2
-- Ensure a blank line before and after every heading
-- Trim leading/trailing blank lines from the document
-
-## Output Quality Checklist
-
-After running the pipeline, verify:
-
-- [ ] No page number artifacts remain
-- [ ] No running headers remain (each chapter header appears once)
-- [ ] Spaced headings are properly reconstructed (spot-check 3-5)
-- [ ] Chapter hierarchy: `#` book title → `##` chapters → `###` sections
-- [ ] Fiction epigraphs are blockquote italic: `> *"quote"*`
-- [ ] Attributions are blockquote em-dash: `> — NAME`
-- [ ] Sidebar text is in blockquotes
-- [ ] Tables are proper pipe tables with header and alignment rows
-- [ ] No multi-row compression in table cells (each entry = one row)
-- [ ] Paragraphs flow naturally with no mid-sentence breaks
-- [ ] No `<br>` tags remain in body text
-- [ ] No `**==> picture` placeholders remain
-- [ ] No `**----- Start/End of picture text -----**` markers remain
-
-## Splitting Into Chapter Files
-
-After cleanup, split the single markdown file into per-chapter files:
-
-1. Find all `## Chapter N - Title` headings
-2. Extract content from each heading to the next (or end of file)
-3. Write as `NN-kebab-case-title.md` (e.g., `01-welcome-to-the-old-west.md`)
-
-```python
-import re
-from pathlib import Path
-
-text = Path("rulebook.final.md").read_text(encoding="utf-8")
-lines = text.split("\n")
-chapters = []
-for i, line in enumerate(lines):
-    m = re.match(r"^## Chapter (\d+)\s*-\s*(.+)$", line)
-    if m:
-        chapters.append((i, int(m.group(1)), m.group(2).strip()))
-
-for idx, (start, num, title) in enumerate(chapters):
-    end = chapters[idx + 1][0] if idx + 1 < len(chapters) else len(lines)
-    slug = title.lower().replace(" ", "-").replace("&", "and")
-    slug = re.sub(r"[^a-z0-9-]", "", slug)
-    filename = f"{num:02d}-{slug}.md"
-    Path(f"corebook/{filename}").write_text(
-        "\n".join(lines[start:end]).rstrip() + "\n",
-        encoding="utf-8"
-    )
-```
-
-## Known Limitations
-
-- **Complex multi-span tables** (merged cells, nested headers)
-  often extract as run-together text. Manual table reconstruction
-  is needed for most tables — see Category 8 (Broken Pipe Tables)
-  in the Manual AI Polish section for detection patterns and
-  fix strategies.
-- **Decorative fonts** used for single words or short phrases may
-  not be detected as headings by pymupdf4llm.
-- **Right-to-left text, vertical text, and rotated elements** are
-  not handled.
-- **OCR is not included.** If the PDF contains scanned images
-  rather than selectable text, use a separate OCR tool first
-  (e.g., pytesseract via the md-anything approach).
-
-## Corrections Dictionary
-
-Maintain a game-specific corrections dictionary for heading
-reconstruction edge cases that wordninja cannot handle:
+Tales-specific correction examples:
 
 ```python
 HEADING_CORRECTIONS = {
     "Npcs And Abilities": "NPCs and Abilities",
     "Introduction To Rpgs": "Introduction to RPGs",
     "Don'T Roll Too Often": "Don't Roll Too Often",
+    "Npc S And Abilities": "NPCs and Abilities",
     "Non Player Characters": "Non-Player Characters",
+    "Non Typical Harm": "Non-Typical Harm",
+    "Looking Back": "Looking Back",
+    "Looking Forward": "Looking Forward",
+    "F Scott Fitzgerald": "F. Scott Fitzgerald",
+    "Herbalist": "Herbalist",
+    "Bronc Buster": "Bronc Buster",
+    "Pistoleer": "Pistoleer",
+    "Rabble Rouser": "Rabble Rouser",
+    "Fast Actions": "Fast Actions",
+    "Conflict Modifications": "Conflict Modifications",
+    "Overwatch": "Overwatch",
+    "Heatstroke": "Heatstroke",
+    "Life in Town": "Life in Town",
+    "Salaries in the Old West": "Salaries in the Old West",
 }
 ```
 
-Add entries as they surface during quality review. This is cheaper
-and more reliable than trying to make the algorithm perfect.
-
-## Manual AI Polish (Phase 3)
-
-The automated pipeline (Passes 1-9) handles roughly 80% of
-extraction artifacts. The remaining 20% require contextual AI
-judgment — they are ambiguous, context-dependent, or involve
-data mangled beyond what deterministic regex can reconstruct.
-
-This phase is performed chapter-by-chapter after splitting.
-Fix scripts live in `scripts/` and operate on files in
-`corebook/`. The reference scripts for this project are:
-
-- `fix_all_headings.py` — 108 heading fixes across all chapters
-- `fix_remaining.py` — structural fixes across ch03–ch10
-- `fix_ch10_v5.py` — garbled lifepath table parser
-- `fix_loose_lists.py` — bullet list compaction (automatable)
-
-### Issue Catalog
-
-Below is the complete catalog of issues encountered and fixed
-during manual polish, with enough detail for a future AI to
-identify and apply the same fixes on another document.
-
----
-
-### Category 1: Spaced-Character Headings (Automated + Manual)
-
-The automatic pass (Pass 3) handles most spaced headings, but
-some headings use partial spacing, mixed capitalization, or
-embedded punctuation that the automated detector misses.
-
-**Detection:** `###` lines that contain 2+ single-character
-tokens with spaces between them, but that also have normal
-words mixed in.
-
-**Examples fixed (exact replacements):**
-
-```text
-### He rba li st           → ### Herbalist
-### Bron C Buster          → ### Bronc Buster
-### L ucky                 → ### Lucky
-### P is to Leer           → ### Pistoleer
-### Rabble Ro User         → ### Rabble Rouser
-### Hay Maker              → ### Haymaker
-### Light Footed           → ### Light-Footed
-### Lock Picker            → ### Lockpicker
-### L aw                   → ### Law
-```
+### Pass 4: Picture Block Conversion
 
-**Examples fixed (regex, for inconsistent spacing):**
+Some extractors emit image placeholders and picture-text blocks.
 
-```text
-### Fa st Ac t ion s       → ### Fast Actions
-### c on fl ic t mod ific at ion s → ### Conflict Modifications
-### O ve rw at ch          → ### Overwatch
-### He at st ro ke         → ### Heatstroke
-### Fi re                  → ### Fire
-### LIF E IN TO WN         → ### Life in Town
-### SAL AR IE S IN THE O LD WE ST → ### Salaries in the Old West
-```
+Rules:
 
-**Fix approach:** Write exact replacements for headings that can
-be identified uniquely. Use regex with `\s*` between known
-character groups for headings with inconsistent spacing. The
-regex patterns match `re.IGNORECASE` and anchor at `^###`.
+- remove placeholder lines that only say the picture was intentionally omitted
+- split picture-text blocks on `<br>`
+- strip bold markers from the extracted lines
+- if the block is a caption, discard it
+- if the block is table-like, rebuild it as a pipe table
+- otherwise keep it as plain text
 
-**AI judgment required:** Determining the intended heading text
-when the spaced characters form ambiguous words (e.g., is
-`Ro User` → `Rouser` or `Ro-User`?). Cross-reference the PDF
-table of contents or page headers.
+### Pass 5: Heading Hierarchy Normalization
 
----
+`pymupdf4llm` can detect headings but does not know the intended hierarchy.
+Normalize it explicitly:
 
-### Category 2: Missing Possessives and Apostrophes
+- `## Chapter N - Title` stays `##` and gets title-cased in the title portion
+- `## **bold text**` becomes `### bold text`
+- `## non-chapter text` becomes `### text`
+- `## "quote text"` becomes `> *"quote text"*`
+- duplicate chapter headings created by the spaced-heading pass are removed
 
-PDF extraction frequently drops or mangles possessive
-apostrophes, especially when the PDF uses typographic (smart)
-quotes (U+2019).
+Attribution rules:
 
-**Examples fixed:**
+- standalone all-caps bold lines become blockquote attributions
+- short name-like `###` headings that follow a blockquote become `> — NAME`
 
-```text
-### Man S Best Friend      → ### Man's Best Friend
-### Your Horse S Tackle    → ### Your Horse's Tackle
-### Bron C Bustin          → ### Bronc Bustin'
-### Adventure 1 - Founder S Day → ### Adventure 1 - Founder's Day
-### Carson S Folly         → ### Carson's Folly
-### King S People in...    → ### King's People in...
-### Rockcliffe S Lie       → ### Rockcliffe's Lie
-```
+### Pass 6: Sidebar Conversion
 
-**Pattern:** When a heading contains `S` (space-S-space) or
-` S` at end, the `S` is almost always a possessive `'s` that
-was extracted as a separate token.
+Long italic paragraphs often represent sidebar callouts.
 
-**Critical encoding detail:** The output must use U+2019 (RIGHT
-SINGLE QUOTATION MARK `'`) not ASCII U+0027 (`'`) to match the
-rest of the document. The VS Code `replace_string_in_file` tool
-cannot match U+2019 — use Python scripts via the terminal.
+- convert long italic-only paragraphs into blockquotes
+- keep short captions out of the body when they are clearly picture or sidebar
+  labels
 
----
+### Pass 7: Paragraph Joining
 
-### Category 3: Broken / Truncated / Orphaned Headings
+PDF column breaks commonly split sentences across line breaks or blank lines.
 
-PDF column breaks split headings mid-word, creating fragments
-that appear as separate `###` lines.
+Join text when:
 
-**Truncated headings (line break mid-name):**
+- the current line does not end with sentence-terminal punctuation
+- the next line begins with lowercase text
+- there is a single blank line between two text fragments that obviously
+  continue the same sentence
 
-```text
-### Erika Ga               → ### Erikaga
-### Father Brayton Car Mody → ### Father Brayton Carmody
-### Francisco Castellano S → ### Francisco Castellanos
-### Don a Lmc Ginn         → ### Dona McGinn
-### Marion Freeman and Jimmy H Arles Den
-                           → ### Marion Freeman and Jimmy Harlesden
-```
+Do not join structural content:
 
-**Orphan heading fragments (stubs from next-column continuation):**
+- headings
+- blockquotes
+- lists
+- tables
+- code fences
 
-```text
-### Originals in           → (removed, not a real heading)
-### ing, make a PRESENCE roll. → (removed, sentence fragment)
-### a little oasis amid... → (removed, prose fragment)
-### What is your           → (removed, merge with next heading)
-```
+### Pass 8: Inline Table Cleanup
 
-**Overgrown headings (two fragments merged from adjacent columns):**
+- replace `<br>` inside pipe-table cells with spaces
+- preserve the table structure rather than letting wrapped cell text leak
+  into prose
 
-```text
-### pire, the Middle East and North Africa The Ottoman Em
-                           → (removed, garbled cross-column text)
-```
+### Pass 9: Whitespace Normalization
 
-**Fix approach:** Cross-reference the PDF to determine the
-intended heading. For truncated names, check the character
-index or NPC roster. For orphan fragments, simply delete the
-line and collapse blank lines.
+- strip trailing whitespace
+- collapse 3+ consecutive blank lines to 2
+- ensure blank lines around headings
+- trim leading and trailing blank lines
 
----
+## Tales Of The Old West Cleanup Rules
 
-### Category 4: Bold/Heading Confusion
+The Tales manuscript exposed a recurring set of failure modes. Keep these
+rules even when the base pipeline changes.
 
-pymupdf4llm sometimes merges bold markers with heading syntax.
+### 1. Front Matter, Page Numbers, and TOC Noise
 
-**Examples:**
+Remove repeated page numbers, copyright/distribution lines, and the entire
+table of contents block when it appears as extraction noise. The TOC in this
+book is especially noisy because decorative spacing and dot leaders get
+preserved exactly.
 
-```text
-### Limited Effect** : You take 1 point of Vexes.
-→ **Limited Effect** : You take 1 point of Vexes.
+### 2. Broken, Truncated, and Orphaned Headings
 
-### Sneak Attacks Ambushes
-→ ### Sneak Attacks & Ambushes
-```
+Tales PDFs split headings across columns and pages.
 
-**Fix approach:** If the line has `**` inside a `###` heading,
-it was likely a bold inline term, not a heading. Convert back
-to `**bold**` paragraph text.
+- repair partial heading words when the intended title is obvious
+- delete orphan fragments that are clearly sentence stubs
+- remove garbled merged-heading lines that are really cross-column bleed
+- cross-check against the PDF table of contents or nearby chapter headers
 
----
+Common examples from this book include:
 
-### Category 5: Sidebar-Split Paragraphs and Orphaned Text
+- `He rba li st` -> `Herbalist`
+- `Bron C Buster` -> `Bronc Buster`
+- `LIF E IN TO WN` -> `Life in Town`
+- `SAL AR IE S IN THE O LD WE ST` -> `Salaries in the Old West`
+- `Father Brayton Car Mody` -> `Father Brayton Carmody`
+- `Francisco Castellano S` -> `Francisco Castellanos`
 
-Two-column layouts interleave sidebar content with body text.
-The result is a paragraph that starts, breaks off where the
-sidebar intruded, then resumes — often with the sidebar content
-appearing as an orphaned block between the two halves.
+### 3. Missing Possessives and Apostrophes
 
-**Example (ch05 — poison description split across Falling):**
+Extraction often separates possessive `s` or drops apostrophes.
 
-The text about poison resistance (`ability. To resist the
-poison you need to get as many successes as the Potency
-rating...`) appeared orphaned between the "Falling" and
-"Falling from your Horse" sections. The fix:
+- `Man S Best Friend` -> `Man's Best Friend`
+- `Your Horse S Tackle` -> `Your Horse's Tackle`
+- `Carson S Folly` -> `Carson's Folly`
+- `King S People in...` -> `King's People in...`
 
-1. Removed the orphaned paragraph from its wrong location
-2. Rejoined it to the RESILIENCE ability text where it
-   belonged (the text `you must roll your RESILIENCE` was
-   followed by garbled heading text instead of its proper
-   continuation)
+Use the correct apostrophe character for the manuscript and keep the fix
+consistent across the file.
 
-**Example (ch05 — Lethal Poison heading extracted as garbled
-inline text):**
+### 4. Bold and Heading Confusion
 
-```text
-you must roll your RESILIENCE L e t h a l po i so n
-→ you must roll your RESILIENCE ability. To resist the
-  poison... [full paragraph] ...limited effect of the poison.
+Sometimes bold inline terms land inside heading syntax.
 
-### Lethal Poison
-```
+- if a `###` line contains bold markers in the middle of sentence text, treat
+  it as body prose, not a real heading
+- if a heading is only a misread bold term, restore the inline bold markers
+- if a heading text is really an ampersand split or punctuation loss, repair
+  it by meaning, not by the literal extraction artifact
 
-**Example (ch06 — paragraph split at column break):**
+### 5. Sidebar-Split Paragraphs and Orphaned Text
 
-```text
-selling your
+Two-column layout often slices a paragraph in half and drops sidebar text in
+between.
 
-wares to passers-by  → selling your wares to passers-by
-```
+- restore the sentence to its original flow when the continuation is obvious
+- move orphaned sidebar fragments back to the paragraph they belong to
+- search for broken sentence joins where the line ends mid-thought and the
+  next visible text continues with lowercase prose
 
-**Example (ch09 — sidebar name artifact in paragraph):**
+### 6. Running Headers Embedded in Content
 
-```text
-V e da  m on r oe Obedience was once enslaved
-→ Obedience was once enslaved
-```
+Removing standalone headers is not enough.
 
-**Fix approach:** Search for mid-sentence line breaks (text
-ending without terminal punctuation, blank line, then lowercase
-continuation). Also search for garbled spaced text appearing at
-the start of a paragraph — these are sidebar artifacts that
-leaked into the wrong column.
+- also remove running headers when they appear inside paragraphs as stray
+  substrings
+- treat appendix and chapter titles as searchable header strings, not only
+  as standalone lines
 
----
+### 7. Garbled Multi-Column Table Data
 
-### Category 6: Running Headers Embedded in Content
+This is the hardest class of failure.
 
-Pass 2 removes standalone running headers, but some survive
-because they are embedded inside paragraph text or appear as
-non-obvious variants.
+Tell-tale signs:
 
-**Standalone variants (ch10 — 11+ instances):**
+- a line is very long and contains several roll numbers or repeated stat
+  patterns
+- description text is split between the wrong columns
+- data from adjacent rows is compressed into one cell
+- a table continuation header gets merged with the first data row
 
-```text
-Appendix: your tale begins
-```
+Fix strategy:
 
-These appeared on lines by themselves between paragraphs,
-lowercase (not matching the actual heading).
+1. Read the original PDF page or spread.
+2. Determine the intended row and column structure.
+3. Reconstruct the table explicitly.
+4. Replace the garbled block in one operation.
 
-**Embedded in paragraph text:**
+### 8. Broken Pipe Tables
 
-```text
-attribute point of Appendix: your tale begins your choice
-→ attribute point of your choice
-```
+Broken pipe tables need a full rewrite when the row structure is lost.
 
-**Production notes (layout artifacts never meant for print):**
+Common cases:
 
-```text
-**Need a Chapter spread here??? Will blend into Chapter 10
-otherwise...**
-→ (removed entirely)
-```
-
-**Fix approach:** Build a list of known chapter headers and
-appendix titles. Search for them as standalone lines and as
-substrings within paragraphs. Use case-insensitive matching
-since running headers may differ in case from the actual
-heading.
-
----
-
-### Category 7: Garbled Multi-Column Lifepath/Table Data
+- column-swapped descriptions
+- multiple logical rows merged into one markdown row
+- repeated header rows from page breaks
+- plain text that should have been a table
+- table cells with broken words or split words at cell boundaries
 
-The hardest category. RPG books present lifepath tables with
-4-6 columns (roll number, region, attributes, abilities,
-narrative) in decorative layouts. pymupdf4llm extracts these as
-single run-together text lines of 500+ characters interleaving
-all columns.
+The rule is simple: every logical entry should end up in exactly one row.
 
-**Identifying garbled blocks:** Lines with 3+ occurrences of
-`Grit \d`, 3+ of `Docity \d`, and length > 500 characters.
+### 9. Loose Bullet Lists
 
-**Parsing algorithm (Docity boundary method):**
+If extraction inserts blank lines between bullet items, compact them so the
+list renders as a tight list instead of a loose one.
 
-1. Identify the last attribute in the game's stat block
-   (DOCITY in this game) as the entry terminal marker
-2. Find all `Docity \d` occurrences in the garbled line
-3. After each Docity match, consume any trailing ability
-   tokens (`ABILITY_NAME \d`) to find the true entry boundary
-4. Split the line into entry chunks at these boundaries
-5. For each chunk, extract:
-   - **Roll number**: first standalone digit
-   - **Attributes**: named patterns like `Grit 2`, `Quick 1`
-   - **Abilities**: known ability names + digit
-     (e.g., `FIGHTIN' 2`, `SHOOTIN' 1`)
-   - **Region name**: match against a known region list and
-     strip from narrative (use `\bEurope\b(?!an)` to avoid
-     stripping "European" from narrative text)
-   - **Narrative**: everything remaining after stripping
-     stats, abilities, and region names
-6. Format each entry as a numbered bold paragraph with
-   attribute and ability lines
+### 10. Project-Specific Manual Passes
 
-**Result:** 6 garbled blocks → 54 clean structured entries
-(9 entries each for 9-roll blocks, 6 for 6-roll blocks).
+After the deterministic pipeline, chapter-by-chapter manual cleanup is still
+normal.
 
-**Smart quote gotcha:** Ability names like FIGHTIN', SHOOTIN',
-ANIMAL HANDLIN' use U+2019 (RIGHT SINGLE QUOTATION MARK), not
-ASCII U+0027. All regex patterns must match the actual Unicode
-character or the parser will fail to identify ability tokens,
-leaving them in the narrative text.
+When you do manual repair for Tales:
 
-**Additional ch10 fixes applied after parsing:**
+- keep one script or note per recurring fix
+- prefer batch/page-range repairs over document-wide guesswork
+- do not invent missing text
+- preserve the manuscript voice and structure
 
-- `|**Te ` → `|**The ` (article truncation in table headers)
-- `Pacifc` → `Pacific` (OCR-style typo)
-- `**Te ` → `**The ` (bold text article truncation)
-- `Te` → `The` (mid-sentence article truncation)
-- Duplicate-column table headers (same header repeated in
-  adjacent pipe cells) collapsed to a single header
-- Remaining standalone `Appendix: your tale begins` lines
-  removed after lifepath block reformatting
+## Known Limitations
 
----
+- Complex tables with merged cells or nested headers often need manual repair.
+- Decorative fonts may not be detected as headings.
+- Rotated text, vertical text, and right-to-left text are not handled well.
+- OCR is not included. Scanned PDFs need a separate OCR pass first.
 
-### Category 8: Broken Pipe Tables
+## Project References
 
-The most pervasive post-extraction issue. PDF tables with 3+
-columns routinely extract as garbled markdown tables where
-multiple data rows are compressed into a single cell, column
-data is misaligned, description text is split between columns,
-or the table is plain text instead of a markdown pipe table.
+Keep reusable notes with the project when a reference area exists:
 
-#### Identifying Broken Tables
+- add a project notes file for successful conversions and recurring failure modes
+- record tool versions and install notes alongside the project or in a
+  dedicated references folder
+- keep chapter-level or script-level notes when a specific repair pattern repeats
 
-**Automated detection patterns** (search across all chapters):
+## Validation
 
-```python
-# Rows where the first cell contains multiple logical entries
-# (D66 numbers, roll results, or named items crammed together)
-r'\| \d+ .{50,}\| -'           # Description text split: "| 03 Name garbled | - Real description |"
-r'\| .{200,} \|'               # Single cell over 200 chars (likely multiple rows merged)
-r'^\d+ .*\d+ .*\d+ '           # Plain text with 3+ numbers on one line (should be table rows)
-r'\| [A-Z].* \| \$\d+ .* \|'  # Table data leaking across columns
-```
+Check the final markdown before you trust it:
 
-**Visual indicators** (when reading the file):
+- no page-number artifacts remain
+- no running headers remain
+- spaced headings are reconstructed correctly
+- chapter hierarchy reads cleanly from book title to section headings
+- epigraphs and attributions are formatted as blockquotes
+- sidebar text is isolated from body prose
+- tables are valid pipe tables with one logical entry per row
+- no `<br>` tags remain in body text
+- no picture placeholders remain
+- no multi-row compression remains in tables
+- paragraphs flow naturally without mid-sentence breaks
+- markdown lint passes if the file stays in the repository
 
-1. **Multi-row compression**: A table cell contains what should
-   be 5-10 separate rows, identifiable by multiple D66 roll
-   numbers (11, 12, 13...) or multiple item names in a single
-   cell
-2. **Split descriptions**: The entry name is in column 1 but the
-   description starting with "- " is in column 2, with garbled
-   words at the end of column 1 (PDF column-break mid-word)
-3. **Broken words at cell boundaries**: Words split across cells
-   like `"de-\n| mands"` or `"flo\ngging"` from PDF line wraps
-4. **Plain text tables**: Data that should be in pipe-table
-   format but is just formatted text with spaces between columns
-5. **Merged section headers**: Table continuation headers
-   (repeating column headers on a new PDF page) extracted as
-   data rows, often with the first data entry merged into the
-   header row: `"| D66 Personal Fortunes 51 Love Blossoms... |"`
-6. **Multiple table fragments**: One logical table split into 2-4
-   separate markdown tables (each with its own header/separator
-   row) because the PDF table spanned multiple pages
+## Splitting Into Chapter Files
 
-#### Common Broken Table Patterns
+After cleanup, split the single markdown file into per-chapter files only if
+the chapter boundaries are stable and obvious.
 
-**Pattern A — Column-swapped descriptions:**
+Typical approach:
 
-The PDF's two-column table layout causes pymupdf4llm to read
-across columns, putting the end of description text in the
-first cell and the beginning in the second:
-
-```markdown
-# BROKEN:
-
-| 03 A Rival is Dead ger of blame... circumstances. The fin | - Someone you have crossed... |
-
-# FIXED:
-
-| 03 | A Rival is Dead - Someone you have crossed, an enemy or a rival, has been found dead under suspicious circumstances. The finger of blame will inevitably point your way. |
-```
-
-**Pattern B — Multiple entries merged into one row:**
-
-Two or more table rows extracted as a single row, usually
-because they shared a PDF table cell or spanned a page break:
-
-```markdown
-# BROKEN:
-
-| 11 Calamity! 12 Broken Hearts - Someone you love... | - Roll D66 again... |
-
-# FIXED:
-
-| 11 | Calamity! - Roll D66 again, but the Tens die result is automatically 0. |
-| 12 | Broken Hearts - Someone you love deeply loves you no more... |
-```
-
-**Pattern C — Data in header row:**
-
-When a table continues on a new PDF page, the first data entry
-gets merged with the repeated column header:
-
-```markdown
-# BROKEN:
-
-| D66 Personal Fortunes 51 Love Blossoms - Someone has expressed... |     |
-| ----------------------------------------------------------------- | --- |
-
-# FIXED:
-
-| D66 | Personal Fortunes                                           |
-| --- | ----------------------------------------------------------- |
-| 51  | Love Blossoms - Someone has expressed their love for you... |
-```
-
-**Pattern D — Plain text that should be a table:**
-
-Data presented as formatted text instead of pipe tables:
-
-```markdown
-# BROKEN:
-
-2D6 Family Background 2 you. Everyone you loved is long lost...
-There is no one left but 3 Your family was big until the curse...
-4 You have lived alone...
-
-# FIXED:
-
-| 2D6 | Family Background                                                                      |
-| --- | -------------------------------------------------------------------------------------- |
-| 2   | There is no one left but you. Everyone you loved is long lost, dead, or far, far away. |
-| 3   | Your family was big until the curse...                                                 |
-| 4   | You have lived alone...                                                                |
-```
-
-**Pattern E — Multi-column RPG stat tables:**
-
-Weapon tables, equipment tables, and similar data with many
-narrow columns (8-11 columns) extract particularly badly.
-Numeric values hop between the wrong columns:
-
-```markdown
-# BROKEN:
-
-| Revolvers and Pistols Draw Attack Weapon Type Action... Colt 45 Peacemaker Single -1... |
-| --------------------------------------------------------------------------------------- |
-
-# FIXED:
-
-| Weapon             | Type     | Action | Draw Mod | Attack Mod | Damage | Critical | Range  | Ammo |
-| ------------------ | -------- | ------ | -------- | ---------- | ------ | -------- | ------ | ---- |
-| Colt 45 Peacemaker | Revolver | Single | −1       | +1         | 3      | 1        | Medium | 6    |
-```
-
-**Pattern F — Lifestyle/description tables:**
-
-Tables where one column contains long prose descriptions mixed
-with numeric values from other columns:
-
-```markdown
-# BROKEN:
-
-| Seasonal Lifestyle Table Cost Modifier DESTITUTE: You have nothing $0 0 −3... VERY POOR: $50 0 −2... | Fame | Reputation |
-
-# FIXED:
-
-| Lifestyle                           | Cost | Fame | Reputation |
-| ----------------------------------- | ---- | ---- | ---------- |
-| **DESTITUTE:** You have nothing...  | $0   | 0    | −3         |
-| **VERY POOR:** You try your best... | $50  | 0    | −2         |
-```
-
-#### Fix Strategy
-
-1. **Read the entire file into memory** (Python or PowerShell).
-   Complex table fixes require multi-line context that
-   line-by-line tools struggle with.
-
-2. **Identify old text boundaries** using `str.find()` /
-   `IndexOf()` on unique anchor strings near the table start
-   and end. Avoid matching on the full garbled text directly —
-   whitespace and encoding differences cause match failures.
-
-3. **Reconstruct the table by cross-referencing the PDF.**
-   The garbled text contains all the data — it is just in the
-   wrong structure. Read the original PDF to determine the
-   intended column layout and row boundaries, then reassemble.
-
-4. **Use `str.replace()`** to swap old text for new. Write the
-   modified content back to disk.
-
-5. **Verify with `str.contains()` / `in`** checks on key
-   phrases from the new table to confirm the replacement took
-   effect.
-
-**Tool choice for complex tables:**
-
-- `replace_string_in_file` works for simple 1-3 row fixes
-- For tables with 10+ rows, special characters (smart quotes,
-  em-dashes, minus signs), or whitespace-sensitive content, use
-  **Python scripts via terminal**. The edit tool's whitespace
-  matching is too brittle for large multi-line replacements.
-- PowerShell `Get-Content -Raw` + `.Replace()` +
-  `WriteAllText()` also works well for in-memory bulk edits.
-
-**Unicode characters to preserve:**
-
-- U+2019 `'` — right single quotation mark (possessives, FIGHTIN')
-- U+2014 `—` — em dash (narrative text)
-- U+2013 `–` — en dash (page ranges)
-- U+2212 `−` — minus sign (stat modifiers like −1, −2)
-- U+00D7 `×` — multiplication sign (dice notation like 3D6 × $25)
-- U+00E9 `é` — e-acute (compadré etc.)
-
-Use `\u2019`, `\u2014`, etc. in Python strings. In PowerShell,
-use `` `u{2019} `` syntax or paste the literal character.
-
-#### Broken Table Checklist
-
-After fixing tables, verify:
-
-- [ ] Every table has a header row and `| --- |` separator row
-- [ ] Each logical entry occupies exactly one table row
-- [ ] No data values appear in description/name columns
-- [ ] No description text appears in numeric columns
-- [ ] No broken words (split across cells or lines)
-- [ ] Multi-page tables are merged into a single continuous table
-      (duplicate header rows from page breaks removed)
-- [ ] Section header rows contain only column labels, not data
-- [ ] Unicode special characters are preserved (not replaced
-      with ASCII approximations)
-- [ ] Spot-check 3-5 rows against the original PDF
-
----
-
-### Category 9: Loose Bullet Lists
-
-PDF extraction often introduces blank lines between bullet list
-items, creating "loose" lists. Markdown renderers treat loose
-lists differently (wrapping each item in `<p>` tags), producing
-excessive vertical spacing.
-
-**Detection:** A bullet line (`- ...`) followed by a blank line
-followed by another bullet line (`- ...`).
-
-**This is fully automatable.** The fix script
-`fix_loose_lists.py` handles it:
-
-1. Walk through lines sequentially
-2. When a bullet item is followed by a blank line and then
-   another bullet item (or indented continuation), remove the
-   blank line
-3. Preserve blank lines around list boundaries (before first
-   item and after last item)
-
-**Scale:** 343 blank lines removed across 7 chapters in this
-project.
-
-**When to apply:** As a final pass after all other fixes, since
-earlier fixes may introduce or remove list items. Can also be
-added to the automated pipeline as Pass 10.
-
----
-
-### Workflow
-
-1. **Audit all chapters**: Search for common artifact patterns
-   across all files using terminal `Select-String` (Windows) or
-   `grep` (Linux). Key patterns to search for:
-   - `###.*[A-Z] [a-z]` (spaced characters in headings)
-   - `### .* S ` or `### .* S$` (missing possessives)
-   - Lines > 500 chars with ability names (garbled tables)
-   - Known running header text as substrings
-   - `^- ` followed by blank line followed by `^- `
-     (loose bullet lists)
-   - `\| .{200,} \|` (cells over 200 chars — likely merged rows)
-   - `\| \d+ \w+ .* \| -` (split descriptions across columns)
-   - Plain text with 3+ numbers on one line (should be table)
-2. **Write targeted fix scripts** in `scripts/`: Python scripts
-   with exact string replacements and regex patterns for each
-   category. Group fixes by chapter or by issue type.
-3. **Test incrementally**: Run each script, verify output, and
-   use `git checkout -- corebook/filename.md` to revert if
-   results are wrong. Complex parsers (like lifepath tables)
-   may need multiple iterations — keep versioned scripts
-   (v2, v3, v4, v5) to track what was tried.
-4. **Move scripts to `scripts/`**: Fix scripts are reference
-   artifacts, not chapter content. Keep them in `scripts/` for
-   future reuse.
-5. **Verify**: Spot-check 3-5 fixed sections against the
-   original PDF to confirm accuracy.
-
-### Manual Polish Checklist
-
-After Phase 3, verify:
-
-- [ ] No spaced-character headings remain
-- [ ] No missing possessives (`S` as standalone token)
-- [ ] No broken or truncated headings remain
-- [ ] No orphaned single-line text fragments between sections
-- [ ] No running headers embedded in paragraph text
-- [ ] Character/place names are spelled correctly throughout
-- [ ] Garbled table blocks are reformatted as readable markdown
-- [ ] Broken pipe tables fixed per Category 8 checklist
-- [ ] Bullet lists are compact (no blank lines between items)
-- [ ] Smart quotes (U+2019, U+201C, U+201D) are consistent
-      throughout (do not mix with ASCII equivalents)
-- [ ] Fix scripts are in `scripts/`, not in chapter directories
+1. Find all `## Chapter N - Title` headings.
+2. Use those headings as split markers.
+3. Write one file per chapter using the repository naming convention.
+4. Keep the unsplit source markdown until the split has been verified.

@@ -6,7 +6,7 @@ When things get tense and you try something where the outcome is uncertain, you 
 
 ### Getting Into the Action
 
-### Performing an Action
+#### Performing an Action
 
 When you perform an action it usually means you will have to make an ability roll to determine how successful you are. You describe what your player character is trying to achieve, then grab a number of six-sided dice equal to the relevant ability level plus the current level of the related attribute.
 
@@ -14,39 +14,39 @@ When you perform an action it usually means you will have to make an ability rol
 
 **No Ability Level?** You can always have a go and roll an ability test even if you have no skill in that ability—in that case you only use the associated attribute for the ability in question, with any relevant modifications. However, you cannot offer help (page 43) to another character unless you have at least 1 point in the relevant ability.
 
-### Modifications
+#### Modifications
 
 In certain circumstances your dice pool might be modified by the addition of extra bonus dice, or you may have dice taken away due to a penalty. Some items of gear and talents give bonuses to certain actions, and player characters can do things to give themselves bonuses in certain situations. The GM may also apply additional modifications, either bonuses or penalties, depending on the circumstances. The maximum for each individual modification is +3 or −3, and multiple modifications for different reasons stack.
 
-### Describe your Action
+#### Describe your Action
 
 > _A dice roll is a dramatic peak—first you should describe what you are trying to achieve, so that everyone knows what is at stake. Then you roll your dice, interpret the result and describe what happens. Describe what you do, what you say, or what you are thinking. If you push your roll, describe how. Do it yourself, don’t wait for the GM to ask—the GM should only stop you if you go beyond the results you have rolled._
 
-### Trouble
+#### Trouble
 
 When you’re trying to achieve something challenging, trouble is never far away. Five dice in your dice pool are always designated as “Trouble dice” and should be a different color from the rest. If your dice pool totals five dice or fewer, all your dice are Trouble dice. Once you have assembled your pool, roll all the dice at once.
 
-### Here Comes Trouble
+#### Here Comes Trouble
 
-### An Example Dice Pool
+#### An Example Dice Pool
 
 A result of 1 on any of your Trouble dice could be bad for you. However, this Trouble only applies if you push your roll. You can use your Faith to reduce the Trouble you may face (page 40).
 
 > _Brody Anaheim, played by Dave, is galloping his horse away from some men out to do him harm, and he needs to make an ANIMAL HANDLIN’ roll. His ANIMAL HANDLIN’ ability score is 3, and his Cunning (the related attribute) is 4, giving him a total of seven dice in his dice pool. Of those seven dice, five are Trouble dice, so Dave grabs two black dice and five red Trouble dice, then makes his roll!_
 
-### Sixes Mean Success
+#### Sixes Mean Success
 
 To succeed with your action you must roll at least one 6, called a success. A 6 on any die, including Trouble dice, counts as a success. If you roll more than one success your action has worked out even better than you’d hoped and you can achieve other additional effects—we call these stunts.
 
-### Stunts
+#### Stunts
 
 Any extra successes beyond the first are used to perform stunts. In a violent conflict, stunts can convert into extra damage or the chance to critically injure your enemy, but they can also be used for more imaginative outcomes in any situation: force an opponent to move, fall over or drop something; cause a horse to buck; craft something of exceptional beauty; earn trust or make a friend; or cheat more brilliantly at cards. Stunts are only limited by your imagination, but the GM always has the final say on what is possible and the potential outcomes.
 
-### The Art of Failure
+#### The Art of Failure
 
 If you roll no successes in your ability roll, not only have you failed to achieve your goal, but also something else might go wrong. Feel free to elaborate on what this is and why, with the help of the GM. They might even let a failed roll have further consequences to move the story forward in a dramatic way. But you have one last chance if you really want to succeed—you can push the roll.
 
-### Don’t Roll Too Often
+#### Don’t Roll Too Often
 
 > _It can be hard to succeed with ability rolls—if you lack the right gear or friends that could help you, there is a great risk of spectacular failure. With that in mind, you should never roll dice unless it is absolutely necessary. Save the dice for dramatic situations or tough challenges. In any other situation, the GM should simply allow you to perform whatever action you wish._
 
@@ -58,21 +58,21 @@ To push your roll, you reroll all your dice except those showing a result of 6 (
 
 Pushing your roll costs 1 Faith Point, and you can only push each roll once. But it is not without risk— as well as the chance of Trouble, each push depletes your reserves of Faith, and you risk having your Faith shaken if your reserves ever run out.
 
-### Faith Points
+#### Faith Points
 
 Each character has a pool of Faith Points, starting with 4 at the beginning of each scenario. Faith can be earned in play, and can be carried over between adventures at the GM’s discretion, but no character can have more than 10 Faith Points at any one time.
 
 If your reserve of Faith runs out (your Faith Points go down to zero) you have shaken your Faith and must restore it. Naturally, without Faith you cannot push your rolls or buy your way out of Trouble.
 
-### Pushing your roll can be troublesome
+#### Pushing your roll can be troublesome
 
 Relying on your Faith and pushing your roll can be troublesome. Even if your pushed roll succeeds, any 1s rolled on your Trouble dice bring unfortunate events to your door. After you push a roll, you need to work out the scale of that Trouble—count all the Trouble dice that came up 1, then roll on the relevant column on the Trouble Outcome Tables (either for Conflict/Physical Trouble, or Mental/Social Trouble)—this will reveal the nature and severity of your troubles. Depending on the situation, you and your GM might have better ideas about what actually happened, but the Trouble should cause a similar mechanical effect.
 
-### Buying Off Trouble With Faith
+#### Buying Off Trouble With Faith
 
 Those with Faith can mitigate the effects of Trouble and reduce the Trouble’s potential scale. Whenever a Trouble die results in a 1 the player may use a Faith Point to “buy off ” that die of Trouble. If you use Faith to buy off a 1 on a Trouble die before a roll is pushed—when the first roll has resulted in 1 or more points of Trouble—the Trouble dice that have been bought off can be rerolled as part of the pushed roll. If you buy off Trouble after the roll is pushed, the Trouble die is simply negated by your Faith.
 
-### Dealing With Trouble
+#### Dealing With Trouble
 
 > _With Brody Anaheim still chased by those bad men, Dave has to make another ANIMAL HANDLIN’ roll with his pool of 7 dice—5 of which must be Trouble dice. This time the roll fails and he has scored a 1 on a Trouble die. Damn, Brody needs to clear that thicket to escape, so Dave decides to push his roll, spending 1 of his 4 available Faith Points to do so. He also doesn’t like the look of that Trouble he sees coming, so spends a second Faith Point to buy off the Trouble die. As he has bought off that die of Trouble before he pushes the roll, he can reroll it, so he rerolls all 7 dice. This time he scores two successes but also two 1s on Trouble dice! With only 2 Faith Points left, Dave decides to save them for later, ride out his luck, and take his chances with the Trouble. He now rolls a D6 and looks up the result on the second column on the table, as he has two active Trouble dice in play—he rolls a 1, which means he takes 1 point of either Hurts or Shakes. The GM decides that Shakes seems appropriate here: with two successes, Anaheim makes the jump and clears the thicket, but as he does so he’s shocked to see it’s full of rattlers. Damn that was close!_
 
@@ -108,13 +108,13 @@ Modifications come in many forms and guises. Some items of gear give modificatio
 
 Remember that, at all times, five dice in your pool are Trouble dice. If you end up with five or fewer dice, they will all be Trouble dice. If you end up with no dice at all you have no chance to succeed at this action—time to rethink your next step!
 
-### Difficulty
+#### Difficulty
 
 Depending on the circumstances the GM might want to highlight external factors that either help or hinder you, and can assign a difficulty modification to your action.
 
 Use the following table for guidance:
 
-### Helping Others
+#### Helping Others
 
 If you help another player character or non-player character (NPC) perform an action, they get a +1 bonus to their roll. It costs you 1 action of the same kind (slow or fast) and your help takes place during the other character’s initiative in the Round. You have to state that you are helping someone before any dice are rolled and you must have actions available in order to help. You can only help if you have at least 1 point in the ability being rolled.
 
@@ -132,15 +132,15 @@ NPCs can help each other in the same way as player characters. Letting NPCs act 
 | Hard              | -2           |
 | Formidable        | -3           |
 
-### NPCS and Abilities
+#### NPCS and Abilities
 
 > _Non-player characters use abilities in the same way as player characters. The GM rolls dice for them, and—at their discretion—important NPCs can occasionally push their rolls. But the GM only has to roll for actions that affect a player character directly—for example, if the NPC is attacking a player character or is attempting to save her. When an NPC performs an action that does not directly affect a player character, the GM can simply decide what happens,without rolling dice._
 
-### Gear
+#### Gear
 
 To increase your chance of success, you need to find some damn good gear. Gear can take many different forms—commonly including weapons, holsters and tools—and will give you a bonus to certain actions. However, some gear may give modifications to more than one type of action, and sometimes that may be a penalty as well as a bonus.
 
-### Why Use Gear With Penalty Dice?
+#### Why Use Gear With Penalty Dice?
 
 > _Some weapons in Tales of the Old West give modifications to more than one type of action. For example, a revolver may have a modifier for taking a shot with the SHOOTIN’ ability, as well as a modifier for drawing that weapon in a duel. Some revolvers will be accurate— giving a bonus to SHOOTIN’—but feel like a lump of lead to draw from your holster—giving a penalty to your Draw roll in a duel—while others may be the other way around: less accurate, but they slide from your holster with the grace of an Arabian stallion._
 
@@ -158,11 +158,11 @@ When tracking or using HAWKEYE as a group looking for something together, the ch
 
 Sometimes rolling a 6 isn’t enough to succeed with your ability roll. In some cases, you also have to beat your foe in an opposed roll. To win an opposed roll you have to succeed with the ability roll and also roll more successes than your adversary. Every success your adversary rolls eliminates one of your successes. Sometimes you and your adversary may roll different abilities, sometimes the same.
 
-### Group Rolls in Action
+#### Group Rolls in Action
 
 > _Brody Anaheim, Father Carmody and Erikaga, a Native American from the local Navajo tribe, are sneaking outside the Grand Hotel late one night, to damage the wagon of a man they want to intimidate. They roll to sneak as a group, using Father Carmody’s MOVE ability total of 3 dice, as it’s the lowest of the three. Even though he gains a +1 bonus for help from each of the other two (giving him 5 dice in his pool) he still fails the roll, so the three of them fail as a group. Carmody bumps into an empty milk churn, which Erikaga bangs as he tries to quietly catch it, with Anaheim’s fevered “shushes” even louder than the rest put together._
 
-### Opposed Rolls in Action
+#### Opposed Rolls in Action
 
 > _Having heard the ruckus caused by Brody Anaheim, Father Carmody and Erikaga trying to sneak, Jonny Waghorn, the night watchman at the Grand Hotel, rushes out to investigate, brandishing his shotgun. Anaheim tries to quickly convince Waghorn that he and the good Father are helping the drunk Erikaga back to his tent, with an opposed roll of Anaheim’s PERFORMIN’ ability against Waghorn’s INSIGHT. If Anaheim wins the roll the watchman believes his cock-and-bull story._
 
@@ -172,7 +172,7 @@ Faith is a vital commodity for those seeking to make their lives in the West. Wh
 
 Each character has a pool of Faith Points, starting with 4 at the beginning of each tale. That said, at the GM’s discretion, a character’s Faith Points can be carried over between tales, when those tales occur during the same season. When the season moves on and the Turn of the Season phase happens (page 180) all player characters have their Faith Point total reset to 4. No character can have more than 10 Faith Points at any one time.
 
-### Using Faith
+#### Using Faith
 
 Your character’s Faith Points have two uses:
 
@@ -181,15 +181,31 @@ Your character’s Faith Points have two uses:
 
 If your reserve of Faith runs out (your total Faith Points reaches zero) you have shaken your Faith and must restore it.
 
-### Gaining Faith
+#### Gaining Faith
 
 Your player character gains 1 Faith Point every time you score three or more successes on an ability roll, without pushing the roll. Otherwise, your player character will earn 1 Faith Point when they do any of the following (but only once per action or ritual, per scenario):
 
 This list is not exhaustive, and the GM should allow their players to be imaginative when it comes to gaining Faith Points. If you suggest something that is not on the list, but makes sense for your character, the GM should award a Faith Point.
 
-**Actions** Take a significant action that gets you closer to your Big Dream Takes 1 Put yourself in danger to help a PardRound ner (your Pardner also earns a Faith Point—through your sacrifice you have boosted their Faith too) Take revenge Save a life Pray to your god, ancestors or spirits
+**Actions**: Takes 1 Round.
 
-### Shaking your Faith
+- Take a significant action that gets you closer to your Big Dream.
+- Put yourself in danger to help a Pardner (your Pardner also earns a Faith Point, through your sacrifice you have boosted their Faith too).
+- Take revenge.
+- Save a life.
+- Pray to your god, ancestors or spirits.
+
+**Rituals**: Takes 1 Shift.
+
+- Relax and have fun getting drunk.
+- Spend time on your own, relaxing and communing with nature.
+- Groom your horse or a companion animal.
+- Dismantle and clean your gun or sharpen your blade.
+- Participate in a church service or equivalent ritual with others.
+- Share a quality meal around a table with friends (around a campfire does not count).
+- Sleep one full night in a secure warm bed. Earn 2 Faith Points if it’s with your lover (but no points if it’s with a soiled dove, this is about companionship, not sex).
+
+#### Shaking your Faith
 
 If your Faith Points are ever reduced to zero, your faith has been shaken, your confidence suffers, and you won’t take risks. In this case, the following applies:
 
@@ -201,13 +217,13 @@ These penalties apply until your Faith is restored, in one of two ways:
 - You make an ability roll and get four successes on that roll (remembering that you cannot push, as you have no Faith). This restores your faith and you gain 1 Faith Point.
 - Otherwise, Faith is restored at the end of the adventure, once you have described how your character goes about restoring their Faith. You start the next adventure with 4 Faith Points, as usual.
 
-### Losing Faith
+#### Losing Faith
 
 There is no mechanical way for a player character to lose their Faith completely. However, the stories you tell and the narrative circumstances your player characters grapple with might lead to your character questioning their Faith and introduce the possibility that they lose it entirely. For example, if you repeatedly fail pushed rolls, if your character’s Faith is causing them consternation or conflict, or if their Faith is forcing them to take decisions that run counter to their best interests or the interests of those they care about. This is something to roleplay, and your crisis of Faith, and the emergence of your new Faith, should be a powerful culmination to an important chapter in your character’s tale.
 
 ### The Abilities
 
-### Fightin’ (Grit)
+#### Fightin’ (Grit)
 
 There are times when your presence or your words are not enough, and things come to blows. Roll FIGHTIN’ when punching, wrestling, or brawling with your opponent, or using melee weapons. Read more about fighting, brawling, and damage in Chapter 5.
 
@@ -226,7 +242,7 @@ There are times when your presence or your words are not enough, and things come
 
 **Blocking & Dodging** : When someone attacks you in a close-in fight, you can try to block the attack or dodge it completely (see page 70).
 
-### Labor (Grit)
+#### Labor (Grit)
 
 When you have to dig a grave, lift a cart to put a wheel back on, carry a wounded compadre to safety, chop down a tree, unload bullion from a train you are robbing, or hold an enemy in a Grapple, you make a LABOR roll.
 
@@ -241,7 +257,7 @@ When you have to dig a grave, lift a cart to put a wheel back on, carry a wounde
 - You do it quietly.
 - You show off.
 
-### Presence (Grit)
+#### Presence (Grit)
 
 There are times when the way you carry yourself says more than words could—if you are looking to demonstrate your authority, intimidate someone, make them back down or add weight to your teachings, you make a PRESENCE roll.
 
@@ -257,7 +273,7 @@ There are times when the way you carry yourself says more than words could—if 
 
 **Being Influenced** : NPCs and other player characters can influence you. If their roll succeeds, you must offer a deal of some kind, or take damage to Cunning (Vexes) equal to the number of successes they beat you by. If you offer a deal, it is up to the GM (or the other player) whether your adversary accepts or not.
 
-### Resilience (Grit)
+#### Resilience (Grit)
 
 When your physical endurance or stamina is tested, when the cold bites, infection strikes, or you need to resist the effects of whiskey or a rattlesnake bite it’s RESILIENCE you need to roll.
 
@@ -271,7 +287,7 @@ When your physical endurance or stamina is tested, when the cold bites, infectio
 - You gain a +1 bonus to a later ability roll relating to this one.
 - You impress someone.
 
-### Light-Fingered (Quick)
+#### Light-Fingered (Quick)
 
 Show your gun twirling prowess, lash your bullwhip, pick a pocket, tie a rope, and shuffle (or cheat at) cards by rolling LIGHT-FINGERED.
 
@@ -285,7 +301,7 @@ Show your gun twirling prowess, lash your bullwhip, pick a pocket, tie a rope, a
 - You gain a +1 bonus to a later ability roll relating to this one.
 - Your action impresses observers.
 
-### Move (Quick)
+#### Move (Quick)
 
 When you need to leap for cover, get out of the way of a runaway stagecoach, walk along the carriages of a steam train, or sneak silently past or towards a sentry, roll MOVE. You can also roll MOVE in an attempt to Dodge an enemy’s melee attack.
 
@@ -299,11 +315,11 @@ When you need to leap for cover, get out of the way of a runaway stagecoach, wal
 - You gain a +1 bonus to a later ability roll relating to this one.
 - You impress someone.
 
-### Group Stealth
+##### Group Stealth
 
 > _When you and your compadres use MOVE to sneak side by side, you don’t all roll for the ability. Instead, only the player character with the lowest ability level rolls, and the result applies to the whole group. The others can offer help._
 
-### Operate (Quick)
+#### Operate (Quick)
 
 The wonders of the modern world surround us! To control factory machinery, apply the brakes on a train, wire up a detonator or work the telegraph, roll OPERATE.
 
@@ -318,7 +334,7 @@ The wonders of the modern world surround us! To control factory machinery, apply
 - You do it quietly.
 - You show off.
 
-### Shootin’ (Quick)
+#### Shootin’ (Quick)
 
 A steady hand makes for an accurate shot, be it with a pistol, rifle, bow or thrown horseshoe. If you want to strike a target at range, roll SHOOTIN’.
 
@@ -333,7 +349,7 @@ A steady hand makes for an accurate shot, be it with a pistol, rifle, bow or thr
 - Your opponent falls to the ground or is pushed back, for example through a doorway.
 - At the cost of extra successes equal to your weapon’s Crit Rating, you inflict a critical injury. Roll on the Critical Injury Table.
 
-### Animal Handlin’ (Cunning)
+#### Animal Handlin’ (Cunning)
 
 To ride a horse into gunfire, drive a stage, match your horse’s pace with a train, chase another rider, or escape a posse on horseback, roll ANIMAL HANDLIN’.
 
@@ -347,7 +363,7 @@ To ride a horse into gunfire, drive a stage, match your horse’s pace with a tr
 - You can close with a quarry or put more distance between you and your pursuers during a horse chase (see page 129).
 - The animal regains one point of Hurts or Shakes (can only be chosen once).
 
-### Hawkeye (Cunning)
+#### Hawkeye (Cunning)
 
 To track your quarry across the wilderness, read the world, be aware of tell-tale movement and sound, see what’s out of place, and recognize the marks that animals and people leave on the world, roll HAWKEYE. When someone is sneaking around you with MOVE, this is an opposed roll.
 
@@ -362,13 +378,13 @@ To track your quarry across the wilderness, read the world, be aware of tell-tal
 - Are there more of them close by?
 - How do I get in/past/away?
 
-### Hawkeye in Play
+##### Hawkeye in Play
 
 > _When you and the other player characters scout with HAWKEYE at the same time, you do not roll separately. Instead, you make a Group roll: only one player character rolls, and that result applies to the whole group. Who makes the roll is up to you and they can get help from others as usual. Note that HAWKEYE should not be used to find hidden things like concealed clues. If you are in the right place and you describe how your player character searches, the GM should simply let you discover what you are looking for if it is possible to find._
 
 - You impress someone.
 
-### Insight (Cunning)
+#### Insight (Cunning)
 
 People are just animals, and if you look beyond their words and performances you can see the truth of their desires and motivations. To understand a person’s intentions, or to resist their PRESENCE and PERFORMIN’ , roll INSIGHT. You can also use the ability when you want to know an NPC’s mood or intent toward you.
 
@@ -382,7 +398,7 @@ People are just animals, and if you look beyond their words and performances you
 - Do they want to hurt me?
 - Do they want something from me?
 
-### Nature (Cunning)
+#### Nature (Cunning)
 
 To understand the world, its warnings and its bounty, to grow a crop, or find something to eat or drink in the wilderness, roll NATURE.
 
@@ -399,7 +415,7 @@ HAWKEYE when they try to track you. You can choose this stunt multiple times if 
 
 - You impress someone.
 
-### Booklearnin’ (Docity)
+#### Booklearnin’ (Docity)
 
 To know stuff that other folks don’t, understand what the law says, compile accounts, read the papers and know what’s what up at county hall or back east, or recall the things you read in journals and books, you need a bit of BOOKLEARNIN’.
 
@@ -413,7 +429,7 @@ To know stuff that other folks don’t, understand what the law says, compile ac
 - You gain a +1 bonus to a later ability roll relating to this one.
 - You impress someone.
 
-### Doctorin’ (Docity)
+#### Doctorin’ (Docity)
 
 To dig out a bullet without causing further injury, seal a wound against infection, recognize symptoms, suggest and administer treatment, and care for the afflicted, roll DOCTORIN’.
 
@@ -425,7 +441,7 @@ To dig out a bullet without causing further injury, seal a wound against infecti
 
 Read more about damage in Chapter 5.
 
-### Makin’ (Docity)
+#### Makin’ (Docity)
 
 To understand forces and materials enough to construct a bridge, build a house, engineer a mineshaft, craft fine jewelry or horseshoes, or turn furniture, roll MAKIN’. You can use this ability to create new items, but you will usually need raw materials, special tools, specific talents, and a lot more time.
 
@@ -451,7 +467,7 @@ To understand forces and materials enough to construct a bridge, build a house, 
 
 **Being persuaded** : NPCs and other player characters can persuade you, using the rules for social conflict (page 76). If their roll succeeds, you must either agree to what’s being proposed, offer a deal of some kind, or take damage to Docity (Doubts) or Cunning (Vexes) equal to the number of successes they beat you by. Then it is up to the GM (or the other player) whether your adversary accepts your offer or not, or whether the social conflict continues and another roll is required.
 
-### Performin’ (Docity)
+#### Performin’ (Docity)
 
 To convince another person to see things your way, reveal to them an emotional truth, capture their heart with song, hide your intentions, lie, or just convince them you are honorable, roll PERFORMIN’. Your chances are affected by your negotiating position (page 77).
 
