@@ -10,7 +10,7 @@ And life don’t owe you a goddamn thing.
 
 But you are extraordinary.
 
-In this land of raw opportunity nothing can limit what you can become—not race, nor gender, nor how few dollars you have in your pocket. It don’t matter where you come from, or what you’ve done before, you make yourself in the West, and the West makes you. There are no monsters but other folk, and only the dead forget the land is your enemy. Everyone has faith— many in God, but others in the power of the spirits, the strength of their compadres, or simply in themselves. Your Faith keeps you going when times get tough.
+This is what the West sells you: that nothing can hold you back—not where you came from, not what you look like, not how few dollars you have in your pocket. Whether the land makes good on that promise is another matter entirely. It don't matter where you came from, or what you've done before—you make yourself in the West, and the West makes you. Or it buries you. There are no monsters but other folk, and only the dead forget the land is your enemy. Everyone has faith—many in God, but others in the power of the spirits, the strength of their compadres, or simply in themselves. Your Faith keeps you going when times get tough.
 
 ### Your Tale of the Old West
 

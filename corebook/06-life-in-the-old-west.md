@@ -563,7 +563,7 @@ You’re not only going to want gear to help you make your way in the Old West, 
 | Meal, decent                           | $1–2     |
 | Meal, fancy                            | $5       |
 | Railroad, coast to coast               | $300     |
-| Stabling costs                         | 10c/day  |
+| Stabling costs                         | 25c/day  |
 | Stagecoach ticket                      | 10c/mile |
 | Trick with a soiled dove               | $1+      |
 | Undertaking services                   | $10+     |

@@ -1,4 +1,4 @@
-## Chapter 10 - Patience is a Virtue
+﻿## Chapter 10 - Patience is a Virtue
 
 > _“DO NOT WITHHOLD DISCIPLINE FROM A CHILD; IF YOU PUNISH THEM WITH THE ROD, THEY WILL NOT DIE. PUNISH THEM WITH THE ROD AND SAVE THEM FROM DEATH” PROVERBS 29:15_
 >
@@ -53,7 +53,7 @@ But today, Ellis is angry. As far as he is concerned, Patience has fallen for th
 
 Read or paraphrase the following to your players:
 
-> _It’s a day of celebration—Independence Day 1873— and the festivities are drawing to a close. The town has been shaking to the tune of fiddlers and the dance of the people, as most folks in Steaming Rock celebrate the holiday. Some, of course, don’t care so much, but the Natives and Mexicans in town still, by and large, take advantage of the free feast provided by Samuel Bertrand and the lemonade donated by the McGraws. But as the festivities come to a close the fiddlers pack up their instruments and the good people head home. Only the hardy few put their feet up in one saloon or another, to sip another two-bit whiskey._
+> _It’s a day of celebration—Independence Day 1873— and the festivities are drawing to a close. The town has been shaking to the tune of fiddlers and the dance of the people, as most folks in Steaming Rock celebrate the holiday. Some, of course, don’t care so much, but the Natives and Mexicans in town still, by and large, eat their fill at the free feast provided by Samuel Bertrand and the lemonade donated by the McGraws. But as the festivities come to a close the fiddlers pack up their instruments and the good people head home. Only the hardy few put their feet up in one saloon or another, to sip another two-bit whiskey._
 
 ### The First Scene - Trouble at the Homestead Inn
 
@@ -116,7 +116,7 @@ Rockcliffe is outwardly jovial and welcoming, while Annette is quiet and rarely 
 - His 17-year-old daughter, Patience, has gone missing and he fears for her safety.
 - She disappeared last night—she has taken a bag and her maid, Mary, has disappeared too, presumably gone with her.
 - Rockcliffe thinks she has run away—they had a little family tiff yesterday.
-- He can’t send his own men after her as she would only run away if she saw them and, as he has a standing in the town, he’d like to keep the whole episode quiet—hence asking for the player characters’ help to find and return her, quickly and quietly.
+- He can’t send his own men after her—Halliday and Friar are needed in town, and his other trusted hands are already deployed. As he has a standing in the town, he’d like to keep the whole episode quiet. New arrivals with no local ties are exactly the kind of help he wants: they have no reason to doubt his account, and every reason to value the goodwill of a leading man in the community.
 - He finishes by saying: “ _and I am sure that you all could use a helping hand, here in Steaming Rock, to get yourselves settled and, shall we say, prosperous? What a boon it would be to have the support and gratitude of a leading man in the community behind you, reward for a job I expect will be very well done.”_
 
 If the players ask any follow-up questions Rockcliffe will provide answers: they are missing three horses from the stables; food was taken from the kitchen; it seems Patience and Mary took some clothing and blankets, but little else.
@@ -126,9 +126,11 @@ If they delve more deeply into the circumstances of Patience’s disappearance, 
 If any of the players enquire about the atmosphere of the meeting, and/or how genuine either Ellis or Annette seem, allow them an INSIGHT test:
 
 - If they fail the roll they glean nothing.
-- For one success they can tell that Annette is terrified of her husband, and that Ellis seems to be taking this situation very calmly for a man who claims to love his daughter.
-- For two successes they can tell that Annette is fidgety and seems like she wants to be anywhere but here, and Ellis can’t hide his repressed irritation at her.
-- For three successes they can tell that Ellis is hiding something and that Annette knows what it is but is too frightened of her husband to do or say anything about it.
+- For one success, Annette seems unusually subdued: she answers only when directly asked, keeps her eyes on her needlework, and lets her husband speak where she could speak for herself. Ellis, for a father in distress, is very composed.
+- For two successes, what passed for shyness in Annette runs deeper. She flinches—barely, but there—when Ellis shifts his weight or raises a hand to gesture. His composure is something closer to control.
+- For three successes, it is plain that Annette knows what has happened and is afraid to say it. Ellis is performing a grief he does not feel.
+
+> **GM Note—Going to the Law:** Players may think of taking their suspicions to Sheriff Fletcher before or during the investigation. Fletcher answers to Samuel Bertrand—he takes unofficial payments from Bertrand on top of his county wages, as anyone who has spent a few days in Steaming Rock can learn. Rockcliffe is a leading man in the community. Any complaint about his behavior, without hard evidence in hand, goes nowhere. Fletcher will take note of who is asking, and that note will reach Rockcliffe.
 
 #### The Expert Tracker
 
@@ -184,6 +186,8 @@ Should the players fail to spot Patience’s trail to the north there are two cl
 The players might be able to pressure Higgins to come clean using either PRESENCE (to intimidate) or PERFORMIN’ (to persuade) in an opposed roll against Higgins’ INSIGHT. If they succeed he tells them all he knows, but if Higgins wins the roll he will say he can’t tell them as his life wouldn’t be worth a spit of salt if he did. If they succeed with many successes they might be able to persuade Higgins to continue to track for them if they need his tracking skills, but he won’t get involved in the Finale. Once they find Peyton’s hunting shack he will use his frontiersman skills to slip away unnoticed.
 
 Higgins won’t fight the player characters unless it’s clear they intend to kill him, in which case he will make a run for it, using his wilderness skills to get away.
+
+Should the players follow the false trail south, after eight or ten miles the tracks vanish in rocky ground. There is nothing to find. Higgins will claim this confirms what he suspected—that Patience hired a wagon or caught a stage toward Fort Cummings. Backtracking to Canyon Creek Ridge from that point will cost the better part of a day, and they will reach the junction in failing light.
 
 #### Higgins Comes Clean
 
@@ -243,7 +247,7 @@ It’s entirely up to the players how they want to try and resolve this situatio
 - Pedro Hernandez is asleep in room 5.
 - _“You boys were s’posed to find nothin’ and Patience would just have up and disappeared.”_
 - _“Patience would have come home eventually, when she was all healed up, and has learned that she just shouldn’t cross her Daddy.”_
-- _“Pity ‘bout poor li’l Mary—she shoulda just stayed home and not gotten involved.”_
+- _“You boys already seen what happened to the maid. That ain’t a comfortable thing to carry. Mr Rockcliffe’s the kind of man who makes it worth your while not to.”_
 - Peyton will finish by giving the player characters a choice:
 - “ _Now you boys can go on and make a ruckus ‘bout all this, or walk on by. I expect Mr Rockcliffe will remember your good sense and loyalty if you_
   - _make that second choice, but I’m damn sure he’ll remember you if you make the first one..._ ”
@@ -299,7 +303,7 @@ Will do any job if the money is good enough. Not keen to die for Rockcliffe’s 
 
 #### If the Player Characters Leave Patience with Peyton and Uphold Rockcliffe’s Lie
 
-When the player characters return to town they are immediately accosted by Maxwell Kinnear, Patience’s cowhand boyfriend. He has heard they are looking for her, but accuses them, and Rockcliffe, of leaving her to die. In his fury he heads off towards the Rockcliffes’ home to have it out with Ellis. Unless the player characters intervene Kinnear is confronted by Halliday and Friar on the field in front of Rockcliffe’s home. Gunplay ensues and Kinnear is killed.
+When the player characters return to town they are immediately accosted by Maxwell Kinnear, Patience’s cowhand boyfriend. He has heard they are looking for her and has been asking questions all day. He accuses them, and Rockcliffe, of leaving her to die. He is already on his feet and heading for Rockcliffe’s home—not in a listening mood, but not yet beyond reach. Players who act fast can intercept him here; a successful PERFORMIN’ or PRESENCE roll gives them a chance to stop him long enough to hear what they know. If the player characters do nothing, or fail to stop him, Kinnear reaches the field in front of Rockcliffe’s home where Halliday and Friar are waiting. Gunplay ensues and Kinnear is killed.
 
 **PATIENCE ROCKCLIFFE**
 
@@ -365,7 +369,7 @@ Cheerful, fearless, and kind. Uses violence as a last resort.
 
 #### If the Player Characters Save Patience and Reveal Rockcliffe’s Lie
 
-As soon as Rockcliffe hears that Patience is back he professes his joy and relief that she is alive and well. He tries to cover his brutal actions by blaming Kinnear for beating his “ _beautiful, fragile daughter_ ” and forcing her to run away. Patience, on the other hand, says she was beaten by the bandits who kidnapped her and murdered poor Mary, letting her father off the hook—however, her fury burns deep and hot, and she considers her next steps for the future. Rockcliffe is surprised and relieved, but wonders why the impetuous Patience is behaving in such a measured way.
+As soon as Rockcliffe hears that Patience is back he professes his joy and relief that she is alive and well. He tries to cover his brutal actions by blaming Kinnear for beating his “ _beautiful, fragile daughter_ ” and forcing her to run away. Patience, on the other hand, says she was beaten by the bandits who kidnapped her and murdered poor Mary, letting her father off the hook—however, her fury burns deep and hot, and she considers her next steps for the future. Rockcliffe is surprised and relieved, but wonders why the impetuous Patience is behaving in such a measured way. He has not forgotten that the player characters were at Peyton’s shack and know what happened to Mary. His gratitude is genuine—for now. But Ellis Rockcliffe does not let dangerous knowledge walk loose in his own town. Men who know what happened to that girl are a liability, and he will decide in his own time what to do about them.
 
 > _She wants their help. Her father intends to see Maxwell Kinnear dead for his impudence, but Patience loves him. The player characters must spirit Kinnear out of town, take him to El Paso to the southeast and ensure he takes the stagecoach for San Antonio in Texas, where he will be safe. But they must move fast, as even now her father is secretly contracting bounty hunters from out of town to run down and murder her beau._
 >

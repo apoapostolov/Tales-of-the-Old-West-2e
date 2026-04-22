@@ -435,7 +435,7 @@ _(See rulebook table for full amenity data with Rank, Min Tally, and Aspect modi
 
 **Warning Bells** : Rank 1. The frontier is a dangerous place, and sometimes you need to alert the whole community to the trouble that’s brewing.
 
-**Welcoming Spirit** : Rank 1. The community opens its arms and encourages all comers to join the settlement. Native Americans, Mexicans, those from the Far East or just immigrants from the east—everyone is welcome!
+**Welcoming Spirit** : Rank 1. The community opens its arms and encourages all comers to join the settlement. Native Americans, Mexicans, those from the Far East or just immigrants from the east—the town needs people more than it needs principles, and a dollar spends the same whoever carries it.
 
 **Wells\*** : Rank 1—add an extra bonus tally point to any aspect. Fresh water is critical to a frontier settlement, and digging wells, building cisterns, and wind-powered pumps to fill barrels and horse troughs shows that this is a community on the up, and makes sure no one dies of thirst.
 
@@ -562,11 +562,19 @@ At the end of every season the players need to see how well their characters’ 
 
 ##### _LOOKING BACK_
 
-##### Competition Modifiers
-
 - _Apply Amenity Modifiers_
 - _Season Business Rolls_
 - _Season Congregation Rolls_
+
+##### Competition Modifiers
+
+| Mod | Description                                                                                                                                                                                                    |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| +2  | There are very few others trying to do what you do, and those that do are either badly managed outfits or whatever they're selling just ain't no good—competition is non-existent.                             |
+| +1  | There may be a few outfits trying to do what you do, but you have the edge over your competitors. You're better at what you do, or your goods are of a higher quality. But your competitors aren't far behind. |
+| 0   | All's fair in love and war, and business.                                                                                                                                                                      |
+| -1  | There may be a few outfits vying for your business, or your competitors have the edge over you, but not by much. It's a tough and competitive market.                                                          |
+| -2  | Competition is fierce. There are many people doing what you do, some are well established and people think they do a better job.                                                                               |
 
 ##### _LOOKING FORWARD_
 
@@ -581,18 +589,23 @@ At the end of every season the players need to see how well their characters’ 
 
 The players check those amenities that were chosen at the beginning of the season. They are now complete and are a part of the town. Apply any bonuses and penalties they provide to the town’s aspects.
 
-Mod Description +2 There are very few others trying to do what you do, and those that do are either badly managed outfits or whatever they’re selling just ain’t no good—competition is non-exis- tent.
-+1 There may be a few outfits trying to do what you do, but you have the edge over your competitors. You’re better at what you do, or your goods are of a higher quality. But your competitors aren’t far behind.
-0 All’s fair in love and war, and business.
--1 There may be a few outfits vying for your
-business, or your competitors have the edge over you, but not by much. It’s a tough and competitive market.
--2 Competition is fierce. There are many people
-doing what you do, some are well established and people think they do a better job.
+##### Town Modifiers
 
-| Town modifiers Aspect level                                                                                                                                                                                                                     | Modifier |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| All Season Business and Congregation rolls are modified based on Law aspect AND 2 -1                                                                                                                                                            | 1 -2     |
-| modified by the relevant aspect for the business in question: 4 +1 For a Farming business—Farming aspect For a Trading business—Mercantile aspect 5 +2 For a Resources business—Natural Riches aspect For a Congregation roll—Civic aspect 6 +3 | 3 0      |
+All Season Business and Congregation rolls are modified based on Law aspect AND modified by the relevant aspect for the business in question:
+
+- For a Farming business—Farming aspect
+- For a Trading business—Mercantile aspect
+- For a Resources business—Natural Riches aspect
+- For a Congregation roll—Civic aspect
+
+| Aspect level | Modifier |
+| ------------ | -------- |
+| 1            | -2       |
+| 2            | -1       |
+| 3            | 0        |
+| 4            | +1       |
+| 5            | +2       |
+| 6            | +3       |
 
 All the bonuses and penalties stack up. If conditions are so bad that you have zero or negative dice, the outfit can’t make a roll—you automatically fail the Season Business roll.
 
@@ -797,7 +810,7 @@ The Town Fortune roll determines an event relating to your town, that might add 
 | 31  | Vermin Infestation - They have been getting worse all over the town, and you doubt the ratters can cope. The place could be overrun and if it’s not dealt with soon disease will start to spread. Characters running a Merchant or Trading outfit suffer a −1 penalty to their Business roll at the end of the season.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | 32  | Cattle Rustlers - Darned outlaws turned rustlers, driving stolen herds through plowed fields and crops. Characters running a Farming business suffer a −1 penalty to their Business roll at the end of the season.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | 33  | Border Disputes - You hear stories of trouble over the state or territorial border, with your neighbors wanting to draw the line around your fine natural riches. It ain’t come to blows yet, but who knows. Characters running a Resources outfit suffer a −1 penalty to their Business roll at the end of the season.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| 34  | Native Anger - A local nation has been rumored to be gathering, maybe driven by cold and hunger, out to raid some goods, or riding against the cavalry out of fear or vengeance.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 34  | Native Anger - A nearby band is rumored to be gathering—driven by hunger or cold, perhaps, or fear, or vengeance, or all three.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | 35  | An Important Official is coming - Rumor has it some big-wig from the east is coming. Maybe the town should get busy making itself look good for the visit.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | 36  | Homestead Claims - There’s been a lot of friction, and some say the local Homestead Claims officials are corrupt. It seems like trouble may be brewing.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | 41  | Pinkertons in Town - They ain’t causing no trouble, and have money to spend, but there’s gotta be a reason why the Pinkerton investigators have stopped here.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
@@ -865,7 +878,7 @@ There are many tales to be told in the Old West. These campaign tales are intend
 
 The Native Americans didn’t know the US Army was coming to round them up. The kicking of horses and the yee-haws of the cavalry heralded their fate, herded like animals and marched to the reservation at Fort Button. One soulless summer and bitter winter later, the reservation disbanded and the people were allowed to return to their lands many miles away. Many made it back, but some did not. Some did not even get to try.
 
-Pastor Michael Tilbury has a mission in the hills, a small church with a few like-minded families. He is desperate to “save the souls” of the Native people—to his mind, he believes this act of kidnapping and enforced education is a caring act. As the reservation disbanded, the army commander, Colonel Walter Hardin, allowed Pastor Tilbury to take a dozen orphaned teenagers into his care—for a small backhanded fee, of course—to raise them in the traditions of his ministry. Who cared what the teenagers wanted? They had no say in the matter.
+Pastor Michael Tilbury has a mission in the hills, a small church with a few like-minded families. He is desperate to “save the souls” of the Native people—to his mind, he believes this act of kidnapping and enforced education is a caring act. As the reservation disbanded, the army commander, Colonel Walter Hardin, allowed Pastor Tilbury to take a dozen orphaned teenagers into his care—for a small backhanded fee, of course—to raise them in the traditions of his ministry. The teenagers had nothing to say about it.
 
 Having returned to their lands the Native leaders soon realized the teenagers were missing. They resolved to find the children and bring them home.
 
@@ -901,13 +914,13 @@ The atmosphere in town is thick with a blend of sorrow and joy. Marta Quintero h
 
 Secrets lurk beneath the grief and preparation. Who killed Fernando, a charming and popular man? Everyone has blamed Huhui for the crime, but the local lawman, Cahill, is not so sure. He seeks aid from those free from the prejudices of the locals who all too easily blame the Native.
 
-With the Quince Años looming, and everyone gathered from near and far for the celebration, the player characters find themselves entangled in a race against time. Can they uncover the truth behind Fernando’s death, protect the innocent, and bring justice to those responsible, all while navigating the treacherous waters of family loyalty, forbidden love, and justice in this part of the unforgiving desert? The fate of a family, even a whole community, rests in their hands.
+With the Quince Años looming, and everyone gathered from near and far for the celebration, the player characters find themselves entangled in a race against time. Can they uncover the truth behind Fernando’s death, protect the innocent, and bring justice to those responsible, all while held between family loyalty, a forbidden love, and a desert that buries its dead and keeps their secrets? The fate of a family, perhaps a whole community, hangs on what they decide to do about it.
 
 ##### Background
 
 They say that out west, you can start again.
 
-Franklin Haile thought so. He bought a wagon and set off with his family back in 1854, thinking he’d find a good patch of land. The Hailes fell in with other travelers. The weather turned, and campfire talk turned to danger down the trail. These were the days of Bleeding Kansas—the violent conflict over the legality of slavery in the late 1850s—and the Hailes were abolitionists. One by one the others turned back. In the end, it was just the Hailes and four others: Theo Okee, Wallace Lacklam, “Professor” Hatten and Pierre Regnard.
+Franklin Haile thought so. He bought a wagon and set off with his family back in 1854, thinking he’d find a good patch of land. The Hailes fell in with other travelers. The weather turned, and campfire talk turned to danger down the trail. These were the days of Bleeding Kansas—the violent conflict over the legality of slavery that had been tearing Kansas apart since 1854—and the Hailes were abolitionists. One by one the others turned back. In the end, it was just the Hailes and four others: Theo Okee, Wallace Lacklam, “Professor” Hatten and Pierre Regnard.
 
 What happened next? Well, the story that the player characters hear from their friend is that there was horseplay, a lamp got overturned, and the wagon caught fire. The Hailes died in the blaze. All but the daughter, eight-year-old Mary Haile. She ran off. The four searched the hills, but there was no trace of her, and winter was biting hard.
 
@@ -973,9 +986,9 @@ The characters are deputized and given rooms above the local saloon. The sheriff
 
 That night a large group of outlaws rides into town, heavily armed. They are led by Billy McCormac. They burst into the saloon and throw their weight around. They intend to take over the town and give the people of Spearfish three days to capitulate. The outlaws have set up a roadblock, making sure the townsfolk can’t go for help. Spearfish has only a handful of lawmen, including the characters.
 
-How will the player characters deal with this situation? Will they ask the locals to help them defend the town? Or will they try to get past the blockade and make a run for it, to get help from the army at Fort Stevenson, fifty miles away? Will they ask the Sioux for aid?
+How will the player characters deal with this situation? Will they ask the locals to help them defend the town? Or will they try to get past the blockade and make a run for it, to get help from the army at Fort Laramie, a hundred and forty miles to the southwest? Will they ask the Sioux for aid?
 
-After dealing with the outlaws, the characters can stay to help the people of Spearfish. In the following years the prospect of gold attracts thousands, including desperate and criminal elements. And with that, the terms of the treaty with the Sioux are well and truly broken. Spearfish is a powder keg waiting to blow. How will the player characters deal with this, and can they find a way to respect the rights of the Native Americans against this illegal tide of settlers?
+After dealing with the outlaws, the characters can stay to help the people of Spearfish. In the following years the prospect of gold attracts thousands, including desperate and criminal elements. And with that, the terms of the treaty with the Sioux are well and truly broken. Spearfish is a powder keg waiting to blow. How will the player characters deal with this, and can they find a way to honor the treaty—or at least slow this tide before it breaks everything?
 
 #### The Slow Road to Pecos
 
@@ -983,7 +996,7 @@ After dealing with the outlaws, the characters can stay to help the people of Sp
 
 Birch F. Mercer is a disgraced army captain turned cattle rancher who resides on a moderate-sized ranch, about eight miles from Bandera. Though a known face within the ‘Cowboy Capital of the World’, Mercer is far from welcome. By reputation, he is a violent man, a deserter, and the opposite of a true patriot. In truth, however, none of those things are true. Mercer is simply a victim of being in the wrong place at the wrong time, but nobody gets to speak up against the American war machine, so in his place he was put.
 
-As needs must, much of Mercer’s business is done far away from Bandera, and the growing demand for oxen has led to his ranch not only succeeding, but thriving. Mercer has arranged a lucrative deal with a cattle magnate in Pecos, just over 200 miles away from his ranch and must undertake the arduous journey that takes around 25–30 days, all being well. The trip consists of moving a 2000 head of cattle, an undertaking that is typically done by Mercer and up to eight trusted cowboys from neighboring areas.
+As needs must, much of Mercer’s business is done far away from Bandera, and the growing demand for oxen has led to his ranch not only succeeding, but thriving. Mercer has arranged a lucrative deal with a cattle magnate in Pecos, around 300 miles from his ranch and must undertake the arduous journey that takes around 25–30 days, all being well. The trip consists of moving a 2000 head of cattle, an undertaking that is typically done by Mercer and up to eight trusted cowboys from neighboring areas.
 
 Whether it’s due to Mercer’s spreading reputation with the Bandera locals, or simply bad timing, a number of his regulars are either not available or have flat out declined the offer. Frustrated and angry, Mercer has grit his teeth and headed into Bandera to see if he can persuade some cowboys to accompany him for the promise of good payment.
 
@@ -1043,7 +1056,7 @@ To start building Vear’s Vale, Miss Temperance is shipping all the luxury good
 
 Also, is there more to the Vear family’s fall from grace? Dangerous secrets, risky deals, and even treason back in San Francisco—all skeletons in the family’s closet—may come back to haunt her and her enterprise.
 
-As a woman trying to build something that many men haven’t dared, Miss Temperance is making a name for herself, and earning some hate. She has also hired a large number of the Chinese laborers who built the transcontinental railroad. That makes her a target for those who take issue either with her gender or her collaboration with the Chinese minority.
+As a woman trying to build something that many men haven’t dared, Miss Temperance is making a name for herself, and earning some hate. She has also hired a large number of the Chinese laborers who built the transcontinental railroad. That makes her a target for the men who think women have no business in business, and for the nativists who have no use for the Chinese.
 
 She needs help to complete her big venture. But she also has a lot of enemies who will pay darn well to see her fail.
 
