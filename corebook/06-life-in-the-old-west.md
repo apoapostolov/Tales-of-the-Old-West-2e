@@ -1,6 +1,6 @@
 ## Chapter 6 - Life in the Old West
 
-> *“JUST ‘CAUSE TROUBLE COMES VISITING DON’T MEAN YOU HAVE TO OFFER IT A PLACE TO SIT DOWN.”*
+> _“JUST ‘CAUSE TROUBLE COMES VISITING DON’T MEAN YOU HAVE TO OFFER IT A PLACE TO SIT DOWN.”_
 >
 > — OLD WEST SAYING
 
@@ -86,40 +86,40 @@ Your characters might choose to find a job and earn a salary. The default salari
 
 ##### Salaries Table
 
-| Job | Salary per season |
-| --- | --- |
-| Army Private (always includes food and board) | $75 |
-| Baker | $75 |
-| Barkeep | $75 |
-| Blacksmith | $100 |
-| Bowyer | $90 |
-| Carpenter | $90 |
-| Cowboy / Vaquero / Ranch Hand | $75 |
-| Deputy Federal Marshal | $200 |
-| Doctor | $150 |
-| Farmer | $90 |
-| Farm Laborer | $70 |
-| Federal Marshal | $300 |
-| Guard | $90 |
-| Gunsmith | $150 |
-| Handyman | $75 |
-| Hunter | $75 |
-| Jailer | $75 |
-| Lumberjack | $75 |
-| Master Builder | $180 |
-| Miller | $70 |
-| Miner | $80 |
-| Preacher (retained) | $75-$150 |
-| Pony Express Rider | $300 |
-| Prostitute | $100 |
-| Quarry Laborer | $80 |
-| Saloon Proprietor / Bordello Madam | $150 |
-| Sheriff | $180 |
-| Sheriff's Deputy | $100 |
-| Special Deputy | Up to $5 per day |
-| Tailor | $75 |
-| Tanner | $65 |
-| Teacher | $100 |
+| Job                                           | Salary per season |
+| --------------------------------------------- | ----------------- |
+| Army Private (always includes food and board) | $75               |
+| Baker                                         | $75               |
+| Barkeep                                       | $75               |
+| Blacksmith                                    | $100              |
+| Bowyer                                        | $90               |
+| Carpenter                                     | $90               |
+| Cowboy / Vaquero / Ranch Hand                 | $75               |
+| Deputy Federal Marshal                        | $200              |
+| Doctor                                        | $150              |
+| Farmer                                        | $90               |
+| Farm Laborer                                  | $70               |
+| Federal Marshal                               | $300              |
+| Guard                                         | $90               |
+| Gunsmith                                      | $150              |
+| Handyman                                      | $75               |
+| Hunter                                        | $75               |
+| Jailer                                        | $75               |
+| Lumberjack                                    | $75               |
+| Master Builder                                | $180              |
+| Miller                                        | $70               |
+| Miner                                         | $80               |
+| Preacher (retained)                           | $75-$150          |
+| Prostitute                                    | $100              |
+| Quarry Laborer                                | $80               |
+| Saloon Proprietor / Bordello Madam            | $150              |
+| Sheriff                                       | $180              |
+| Sheriff's Deputy                              | $100              |
+| Special Deputy                                | Up to $5 per day  |
+| Tailor                                        | $75               |
+| Tanner                                        | $65               |
+| Teacher                                       | $100              |
+
 #### Salaries in the Old West
 
 > _It’s all but impossible to set exact salaries for jobs in the Old West, as the rates varied wildly between different states and territories, and at different times during the period. These figures are our best approximations. The GM is, of course, free to set their own prices as best suits their campaign._
@@ -156,34 +156,35 @@ A new outfit requires the following:
 
 ##### Business Types Table
 
-| Business | Key ability | Prerequisites |
-| --- | --- | --- |
-| Apothecary | DOCTORIN' | A property to trade from |
-| Bakery | MAKIN' | A property to trade from with an Oven |
-| Barber Shop | LIGHT-FINGERED | None |
-| Blacksmith | MAKIN' | A property to trade from with a Forge |
-| Bordello | PERFORMIN' | A property to trade from |
-| Brewery / Distillery | MAKIN' | A property to trade from |
-| Crop Farmer | NATURE | Farming land and a Crop Field |
-| Doctor | DOCTORIN' | None |
-| General Store | PERFORMIN' | A property to trade from |
-| Gunsmith | MAKIN' | A property to trade from with a Forge |
-| Handyman | MAKIN' | None |
-| Hotel | PERFORMIN' | A property to trade from |
-| Laundry | LABOR | A property to trade from |
-| Livestock Farmer | ANIMAL HANDLIN' | Farming land, Pasture and livestock |
-| Livery | ANIMAL HANDLIN' | Stables |
-| Lumber Yard | LABOR | A Claim |
-| Lawyer | BOOKLEARNIN' | None |
-| Miner / Gold Panner | LABOR | A Claim |
-| Newspaper | BOOKLEARNIN' | A property to trade from |
-| Rancher | ANIMAL HANDLIN' | Farming land, Paddock and livestock |
-| Saloon | PERFORMIN' | A property to trade from |
-| Shop | PERFORMIN' | A property to trade from |
-| Tanner | MAKIN' | A property to trade from |
-| Tailor | MAKIN' | A property to trade from |
-| Theater Troupe | PERFORMIN' | Somewhere to perform |
-| Undertaker | PERFORMIN' | A property to trade from |
+| Business             | Key ability     | Prerequisites                         |
+| -------------------- | --------------- | ------------------------------------- |
+| Apothecary           | DOCTORIN'       | A property to trade from              |
+| Bakery               | MAKIN'          | A property to trade from with an Oven |
+| Barber Shop          | LIGHT-FINGERED  | None                                  |
+| Blacksmith           | MAKIN'          | A property to trade from with a Forge |
+| Bordello             | PERFORMIN'      | A property to trade from              |
+| Brewery / Distillery | MAKIN'          | A property to trade from              |
+| Crop Farmer          | NATURE          | Farming land and a Crop Field         |
+| Doctor               | DOCTORIN'       | None                                  |
+| General Store        | PERFORMIN'      | A property to trade from              |
+| Gunsmith             | MAKIN'          | A property to trade from with a Forge |
+| Handyman             | MAKIN'          | None                                  |
+| Hotel                | PERFORMIN'      | A property to trade from              |
+| Laundry              | LABOR           | A property to trade from              |
+| Livestock Farmer     | ANIMAL HANDLIN' | Farming land, Pasture and livestock   |
+| Livery               | ANIMAL HANDLIN' | Stables                               |
+| Lumber Yard          | LABOR           | A Claim                               |
+| Lawyer               | BOOKLEARNIN'    | None                                  |
+| Miner / Gold Panner  | LABOR           | A Claim                               |
+| Newspaper            | BOOKLEARNIN'    | A property to trade from              |
+| Rancher              | ANIMAL HANDLIN' | Farming land, Paddock and livestock   |
+| Saloon               | PERFORMIN'      | A property to trade from              |
+| Shop                 | PERFORMIN'      | A property to trade from              |
+| Tanner               | MAKIN'          | A property to trade from              |
+| Tailor               | MAKIN'          | A property to trade from              |
+| Theater Troupe       | PERFORMIN'      | Somewhere to perform                  |
+| Undertaker           | PERFORMIN'      | A property to trade from              |
+
 The business must acquire all the prerequisites listed before it can start trading. If a property is listed as a prerequisite you will need to find or buy that asset. Some properties require additional features before the outfit can get to work—a smithing business will need a forge, a farming or ranching business will need land, and a mining or prospecting outfit will need a claim to exploit. Learn more about these in Property and Land, page 95.
 
 **The Proprietor and Employees** : One character— either a player character or a compadre—must be named as the outfit’s proprietor, the face of the business who runs it from day to day. Other characters can be listed as employees. Being the proprietor of an outfit or one of its employees is a full-time job, and a character can only be the proprietor or employee of one business at a time. The proprietor’s player makes the outfit’s Business rolls during the Turn of the Season to see how well the business is flourishing. If the business does well enough, they, and all employees, get paid the going rate of salary for the job.
@@ -196,7 +197,7 @@ The amount of money the outfit makes for any given character depends on whether 
 
 ##### Investing in an Outfit
 
-> _Arthur, Beth, Colm and Drew want to set up a livery in town. Beth invests 2 Capital in the outfit, and Colm invests 1. Beth and Colm end up owning two thirds and one third of the outfit respectively. Beth is named as the outfit’s proprietor, and Colm is an employee as well as part owner. Arthur and Drew can’t invest now, but take Beth’s offer of a job,  becoming employees._
+> _Arthur, Beth, Colm and Drew want to set up a livery in town. Beth invests 2 Capital in the outfit, and Colm invests 1. Beth and Colm end up owning two thirds and one third of the outfit respectively. Beth is named as the outfit’s proprietor, and Colm is an employee as well as part owner. Arthur and Drew can’t invest now, but take Beth’s offer of a job, becoming employees._
 
 **Wages** : Each business has a base level of wages, set by the GM based on the Salaries Table (page 91). This base salary is increased by 5% for every point of Capital invested in the business, after the first one, to reflect the power of that investment.
 
@@ -228,17 +229,18 @@ Your property is categorized by its Status, from 0 (no property at all, you’re
 
 ##### Property Status Table
 
-| Status | Description | Purchase price/value | Cost to build |
-| --- | --- | --- | --- |
-| 0 | No home, living rough or in the wilderness. −3 Reputation. | Nothing in money, but lots in lost dignity. | NA |
-| 1 | Living under canvas wherever you can find a space. −2 Reputation. Only the simplest of outfits can be run from a tent. | The cost of the tent. | NA |
-| 2 | A small shack, adobe brick hut, Native tipi or simple wigwam, just big enough to run a store or other small business. −1 Reputation. | 1 Capital. | $150 cash and six weeks. |
-| 3 | A single storey shack, hut, Native wigwam or small longhouse, which can accommodate a family in basic comfort. | 2 Capital. | 1 Capital and a season. |
-| 4 | A large single storey property with a few rooms, or a small two-storey building—good for a decent homestead, saloon or bawdy house, or well-built longhouse or pueblo. | 5 Capital. | 3 Capital and a season. |
-| 5 | A large and sturdy two-storey building with rugs and rough drapes. A grand pueblo structure, large enough to be a communal space. | 8 Capital. | 6 Capital and two seasons. |
-| 6 | A well-built two-storey building, enough for a solid hotel, dance hall or theater. +1 Reputation. | 12 Capital. | 9 Capital and three seasons. |
-| 7 | A superb building, perhaps even three storeys, crafted by the best artisan builders. The inside is opulent, with fine carpets and rugs, excellent furniture and tasteful décor. +2 Reputation. | 16 Capital. | 12 Capital and three seasons. |
-| 8 | An extravagant and opulent mansion or a huge ranch. Only the very richest can afford a place like this. +3 Reputation. | 20 Capital. | 16 Capital and four seasons. |
+| Status | Description                                                                                                                                                                                    | Purchase price/value                        | Cost to build                 |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ----------------------------- |
+| 0      | No home, living rough or in the wilderness. −3 Reputation.                                                                                                                                     | Nothing in money, but lots in lost dignity. | NA                            |
+| 1      | Living under canvas wherever you can find a space. −2 Reputation. Only the simplest of outfits can be run from a tent.                                                                         | The cost of the tent.                       | NA                            |
+| 2      | A small shack, adobe brick hut, Plains Indian tipi or Apache wickiup, just big enough to run a store or other small business. −1 Reputation.                                                   | 1 Capital.                                  | $150 cash and six weeks.      |
+| 3      | A single storey shack, hut, Native tipi or small longhouse, which can accommodate a family in basic comfort.                                                                                   | 2 Capital.                                  | 1 Capital and a season.       |
+| 4      | A large single storey property with a few rooms, or a small two-storey building—good for a decent homestead, saloon or bawdy house, or well-built longhouse or pueblo.                         | 5 Capital.                                  | 3 Capital and a season.       |
+| 5      | A large and sturdy two-storey building with rugs and rough drapes. A grand pueblo structure, large enough to be a communal space.                                                              | 8 Capital.                                  | 6 Capital and two seasons.    |
+| 6      | A well-built two-storey building, enough for a solid hotel, dance hall or theater. +1 Reputation.                                                                                              | 12 Capital.                                 | 9 Capital and three seasons.  |
+| 7      | A superb building, perhaps even three storeys, crafted by the best artisan builders. The inside is opulent, with fine carpets and rugs, excellent furniture and tasteful décor. +2 Reputation. | 16 Capital.                                 | 12 Capital and three seasons. |
+| 8      | An extravagant and opulent mansion or a huge ranch. Only the very richest can afford a place like this. +3 Reputation.                                                                         | 20 Capital.                                 | 16 Capital and four seasons.  |
+
 #### Location
 
 The location of your property can be important, depending on the property’s purpose: if it’s simply a dwelling you may wish to be on the sunny side of a nearby hill, but close enough so it’s just a short walk into town; if it’s a saloon, hotel or outfit selling your wares to passers-by you’ll want it to be in the thick of it, in the middle of town; if it’s a farm or ranch you’ll need plenty of space and good land to help your business thrive.
@@ -251,16 +253,16 @@ The cost of the land should be added to the value of any property that is built 
 
 ##### Property Location Table
 
-| Type | Location | Availability | Cost / Value |
-| --- | --- | --- | --- |
-| 1 | In town, rough—no one wants to live here. | Very good. | Nothing—feel free to stake your claim. |
-| 2 | In town, outskirts—a decent plot away from the latrines and ne’er-do-wells, but it’s not going to have a good view or a gentle brook running out back. | Good. | 1 Capital—see the town clerk, pay up, and stake your claim. |
-| 3 | In town, center—smelly and noisy, dusty in the summer and muddy in the winter. But you’re in the thick of it. | Poor—competition for these plots can be fierce and violent. | 2 Capital—the town clerk sells these plots, persuaded by a hefty bribe. |
-| 4 | In town, prize plot—only the best get to live here. | Terrible—the first in town, the richest, or those with a violent manner get these plots. | 3 Capital—to get this land you’d best be on good terms with the gentile-types who already live there. |
-| 5 | Out of town, rough—160 acres of rough land given to you thanks to the Homestead Act. | Very good—the one thing the West has in abundance is land. | $14 to lodge a claim, and the land is worth nothing. |
-| 6 | Out of town, decent—160 acres of decent land you grabbed at a steal thanks to the Homestead Act. | Good—but these plots get snapped up quickly. | $14 to lodge a claim, but the land is worth 1 Capital. |
-| 7 | Out of town, good—sought-after real estate. | Poor. | $14 if you can claim the land under the Homestead Act. Otherwise it costs 2 Capital and another hefty bribe. |
-| 8 | Out of town, superb—the best land within miles, and only the best, or those with a violent manner get these plots. | Terrible—the first in town, the richest, or wealthiest, can hope to acquire it. | 3 Capital—rare as a rattlesnake’s smile, be ready to fight to get this land. |
+| Type | Location                                                                                                                                               | Availability                                                                             | Cost / Value                                                                                                 |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| 1    | In town, rough—no one wants to live here.                                                                                                              | Very good.                                                                               | Nothing—feel free to stake your claim.                                                                       |
+| 2    | In town, outskirts—a decent plot away from the latrines and ne’er-do-wells, but it’s not going to have a good view or a gentle brook running out back. | Good.                                                                                    | 1 Capital—see the town clerk, pay up, and stake your claim.                                                  |
+| 3    | In town, center—smelly and noisy, dusty in the summer and muddy in the winter. But you’re in the thick of it.                                          | Poor—competition for these plots can be fierce and violent.                              | 2 Capital—the town clerk sells these plots, persuaded by a hefty bribe.                                      |
+| 4    | In town, prize plot—only the best get to live here.                                                                                                    | Terrible—the first in town, the richest, or those with a violent manner get these plots. | 3 Capital—to get this land you’d best be on good terms with the gentile-types who already live there.        |
+| 5    | Out of town, rough—160 acres of rough land given to you thanks to the Homestead Act.                                                                   | Very good—the one thing the West has in abundance is land.                               | $14 to lodge a claim, and the land is worth nothing.                                                         |
+| 6    | Out of town, decent—160 acres of decent land you grabbed at a steal thanks to the Homestead Act.                                                       | Good—but these plots get snapped up quickly.                                             | $14 to lodge a claim, but the land is worth 1 Capital.                                                       |
+| 7    | Out of town, good—sought-after real estate.                                                                                                            | Poor.                                                                                    | $14 if you can claim the land under the Homestead Act. Otherwise it costs 2 Capital and another hefty bribe. |
+| 8    | Out of town, superb—the best land within miles, and only the best, or those with a violent manner get these plots.                                     | Terrible—the first in town, the richest, or wealthiest, can hope to acquire it.          | 3 Capital—rare as a rattlesnake’s smile, be ready to fight to get this land.                                 |
 
 ##### The Homestead Act 1862
 
@@ -276,33 +278,34 @@ You can add features to your property, be it your home, your outfit, or both. On
 
 ##### Property Features Table
 
-| Feature | Benefit | Cost |
-| --- | --- | --- |
-| ANIMAL RUN - You keep a few pigs, chickens, or perhaps a milking cow. It smells, but you can sell the surplus for a small profit every season. | Each season, gain 2D6 dollars multiplied by the number of successes on an ANIMAL HANDLIN' roll. | $50 |
-| BARN - A place to keep hay dry, animals penned, your horse stabled and your wagon out of the rain. | Gain a +1 bonus to your Turn of the Season Business roll if you're a Farmer or Rancher. | $100 |
-| BUNK HOUSE - Accommodate up to ten workers. | Accommodate up to ten workers. | $150 |
-| CROP FIELD - Required for a Crop Farmer business. | Required for a Crop Farmer business. | $50 |
-| BREWHOUSE or DISTILLERY - Allows the brewing of beer or distilling of liquor. | Required for a brewing or distillery business. | $100 |
-| FALSE FRONT - Used by shops and stores, a False Front makes your place look fancy. | You gain a +1 bonus to your Turn of the Season Business roll if you are a store or service outfit. | $100 |
-| FORGE - Required for a Blacksmith, Gunsmith, Farrier or other Smithing outfit. | Required for a Smithing outfit. | $100 |
-| GARDEN - You can grow vegetables in your garden. You eat heartily and can sell the surplus. | Each season, gain 2D6 dollars multiplied by the number of successes on a NATURE test. | $25 |
-| GENERAL AMENITIES - Could be poker tables, a soiled dove's boudoir, or anything your business specifically needs. | Gain +1 to your Turn of the Season Business roll. | GM's Discretion |
-| LATRINE - A dwelling cannot hygienically accommodate more than four adults unless it has a Latrine. | Gain a +2 bonus to the Units die on your Turn of the Season Personal Fortune roll. | $50 |
-| LIBRARY - Every great house, and all good gentlefolk, should have a library. | Gain a +2 bonus to any BOOKLEARNIN' rolls made here. | $150 |
-| MACHINERY - Required to run a mining, timber, or other business that needs machinery. | Required for a mining, timber, or machinery business. | $150 |
-| OPEN FIREPLACE - Warm and sturdy, a proper fireplace is an important addition to any house of style. | Once per session you gain a bonus Faith Point for a Shift spent by this fire. | $25 |
-| ORCHARD - You can grow fruit in your orchard to eat, and then sell the surplus. | Each season, gain 2D6 dollars multiplied by the number of successes on a NATURE test. | $35 |
-| OVEN - Required for a Bakery or Restaurant business. | Required for a Bakery or Restaurant business. | $50 |
-| PADDOCKS - Required for a Ranching business. | Required for a Ranching business. | $50 |
-| PASTURE - Required for a Livestock Farmer business. | Required for a Livestock Farmer business. | $50 |
-| PORCH / BALCONY / AWNINGS - A lovely spot to watch the world go by, and host all-important guests. | +1 to PERFORMIN' tests when made on your porch or balcony. | $30 |
-| ROOT CELLAR - Stays cold in the summer and warm in winter, keeps food fresh for longer. | Gain a +1 bonus to the Units Die on your Personal Fortune roll during the Turn of the Season. | $100 |
-| KEROSENE LAMPS - Oil lamps light up your property, and it looks good. | +1 Fame and +1 Reputation. | $35 |
-| SECURE FIXINGS - Your windows and doors are well made and have iron fasteners, making them as secure as they can be in the west. | Anyone trying to break in suffers a -1 penalty. | $35 |
-| STABLES - Adds a stable to your property. Required for a Livery Outfit. | Required for a Livery Outfit. | $100 |
-| STRONG ROOM - A room that is hard to break into. Useful if you have stuff that you don't want others to get their hands on. This includes the cells at the Sheriff's Office. | Anyone trying to break in suffers a -3 penalty. | $150 |
-| UPGRADE YOUR PROPERTY - Build an extension, add outbuildings, improve the structure or fancify the place. | Increase the property's Status by 1. | Half the listed Build cost and time of the Status level you are increasing to. |
-| WELL - You can't beat having fresh water to hand. | Gain a +1 bonus to the Units Die on your Personal Fortune roll during the Turn of the Season. | $75 |
+| Feature                                                                                                                                                                      | Benefit                                                                                            | Cost                                                                           |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| ANIMAL RUN - You keep a few pigs, chickens, or perhaps a milking cow. It smells, but you can sell the surplus for a small profit every season.                               | Each season, gain 2D6 dollars multiplied by the number of successes on an ANIMAL HANDLIN' roll.    | $50                                                                            |
+| BARN - A place to keep hay dry, animals penned, your horse stabled and your wagon out of the rain.                                                                           | Gain a +1 bonus to your Turn of the Season Business roll if you're a Farmer or Rancher.            | $100                                                                           |
+| BUNK HOUSE - Accommodate up to ten workers.                                                                                                                                  | Accommodate up to ten workers.                                                                     | $150                                                                           |
+| CROP FIELD - Required for a Crop Farmer business.                                                                                                                            | Required for a Crop Farmer business.                                                               | $50                                                                            |
+| BREWHOUSE or DISTILLERY - Allows the brewing of beer or distilling of liquor.                                                                                                | Required for a brewing or distillery business.                                                     | $100                                                                           |
+| FALSE FRONT - Used by shops and stores, a False Front makes your place look fancy.                                                                                           | You gain a +1 bonus to your Turn of the Season Business roll if you are a store or service outfit. | $100                                                                           |
+| FORGE - Required for a Blacksmith, Gunsmith, Farrier or other Smithing outfit.                                                                                               | Required for a Smithing outfit.                                                                    | $100                                                                           |
+| GARDEN - You can grow vegetables in your garden. You eat heartily and can sell the surplus.                                                                                  | Each season, gain 2D6 dollars multiplied by the number of successes on a NATURE test.              | $25                                                                            |
+| GENERAL AMENITIES - Could be poker tables, a soiled dove's boudoir, or anything your business specifically needs.                                                            | Gain +1 to your Turn of the Season Business roll.                                                  | GM's Discretion                                                                |
+| LATRINE - A dwelling cannot hygienically accommodate more than four adults unless it has a Latrine.                                                                          | Gain a +2 bonus to the Units die on your Turn of the Season Personal Fortune roll.                 | $50                                                                            |
+| LIBRARY - Every great house, and all good gentlefolk, should have a library.                                                                                                 | Gain a +2 bonus to any BOOKLEARNIN' rolls made here.                                               | $150                                                                           |
+| MACHINERY - Required to run a mining, timber, or other business that needs machinery.                                                                                        | Required for a mining, timber, or machinery business.                                              | $150                                                                           |
+| OPEN FIREPLACE - Warm and sturdy, a proper fireplace is an important addition to any house of style.                                                                         | Once per session you gain a bonus Faith Point for a Shift spent by this fire.                      | $25                                                                            |
+| ORCHARD - You can grow fruit in your orchard to eat, and then sell the surplus.                                                                                              | Each season, gain 2D6 dollars multiplied by the number of successes on a NATURE test.              | $35                                                                            |
+| OVEN - Required for a Bakery or Restaurant business.                                                                                                                         | Required for a Bakery or Restaurant business.                                                      | $50                                                                            |
+| PADDOCKS - Required for a Ranching business.                                                                                                                                 | Required for a Ranching business.                                                                  | $50                                                                            |
+| PASTURE - Required for a Livestock Farmer business.                                                                                                                          | Required for a Livestock Farmer business.                                                          | $50                                                                            |
+| PORCH / BALCONY / AWNINGS - A lovely spot to watch the world go by, and host all-important guests.                                                                           | +1 to PERFORMIN' tests when made on your porch or balcony.                                         | $30                                                                            |
+| ROOT CELLAR - Stays cold in the summer and warm in winter, keeps food fresh for longer.                                                                                      | Gain a +1 bonus to the Units Die on your Personal Fortune roll during the Turn of the Season.      | $100                                                                           |
+| KEROSENE LAMPS - Oil lamps light up your property, and it looks good.                                                                                                        | +1 Fame and +1 Reputation.                                                                         | $35                                                                            |
+| SECURE FIXINGS - Your windows and doors are well made and have iron fasteners, making them as secure as they can be in the west.                                             | Anyone trying to break in suffers a -1 penalty.                                                    | $35                                                                            |
+| STABLES - Adds a stable to your property. Required for a Livery Outfit.                                                                                                      | Required for a Livery Outfit.                                                                      | $100                                                                           |
+| STRONG ROOM - A room that is hard to break into. Useful if you have stuff that you don't want others to get their hands on. This includes the cells at the Sheriff's Office. | Anyone trying to break in suffers a -3 penalty.                                                    | $150                                                                           |
+| UPGRADE YOUR PROPERTY - Build an extension, add outbuildings, improve the structure or fancify the place.                                                                    | Increase the property's Status by 1.                                                               | Half the listed Build cost and time of the Status level you are increasing to. |
+| WELL - You can't beat having fresh water to hand.                                                                                                                            | Gain a +1 bonus to the Units Die on your Personal Fortune roll during the Turn of the Season.      | $75                                                                            |
+
 #### Starting Property
 
 Some new player characters may start with an outfit. The GM should feel free to decide for themselves what kind of property and land their player characters have at the start of their campaign, but otherwise follow these simple rules. The types of property available during character creation are:
@@ -318,21 +321,21 @@ Roll D6 on the table below, or choose, the property’s starting Status and Loca
 
 ##### Property Status and Location Table
 
-| Property Property status Location type |  |
-| --- | --- |
-| Business Property / Store 1–2: Status 2. | 1–2: Type 1. |
-| 3–5: Status 3. 6: Status 4. 5–6: Type 3. | 3–4: Type 2. |
-| Claim 1: Status 0. | 1–5: Type 7. |
-| 2–3: Status 1. 4–5: Status 2. 6: Status 3. | 6: Type 8. |
-| Dwelling 1: Status 2. | 1: Type 1. |
-| 2–3: Status 3. | 2: Type 2. |
-| 4–5: Status 4. 6: Status 5. 4: Type 5. 5: Type 6. 6: Type 7. | 3: Type 3. |
-| Homestead / Ranch 1–2: Status 2. | 1–2: Type 5. |
-| 3–4: Status 3. | 3–4: Type 6. |
-| 5: Status 4. 6: Status 5. 6: Type 8. | 5: Type 7. |
-| Saloon 1: Status 3. | 1–3: Type 1. |
-| 2: Status 4. | 4: Type 2. |
-| 3–4: Status 5. 5–6: Status 6. 6: Type 4. | 5: Type 3. |
+| Property Property status Location type                       |              |
+| ------------------------------------------------------------ | ------------ |
+| Business Property / Store 1–2: Status 2.                     | 1–2: Type 1. |
+| 3–5: Status 3. 6: Status 4. 5–6: Type 3.                     | 3–4: Type 2. |
+| Claim 1: Status 0.                                           | 1–5: Type 7. |
+| 2–3: Status 1. 4–5: Status 2. 6: Status 3.                   | 6: Type 8.   |
+| Dwelling 1: Status 2.                                        | 1: Type 1.   |
+| 2–3: Status 3.                                               | 2: Type 2.   |
+| 4–5: Status 4. 6: Status 5. 4: Type 5. 5: Type 6. 6: Type 7. | 3: Type 3.   |
+| Homestead / Ranch 1–2: Status 2.                             | 1–2: Type 5. |
+| 3–4: Status 3.                                               | 3–4: Type 6. |
+| 5: Status 4. 6: Status 5. 6: Type 8.                         | 5: Type 7.   |
+| Saloon 1: Status 3.                                          | 1–3: Type 1. |
+| 2: Status 4.                                                 | 4: Type 2.   |
+| 3–4: Status 5. 5–6: Status 6. 6: Type 4.                     | 5: Type 3.   |
 
 #### Buying and Selling Property
 
@@ -453,31 +456,31 @@ Where did they come from and how come they are your player character’s compadr
 
 > _Brody Anaheim has started a horse ranching business and has made good contacts with a local Native American tribe through whom he hopes to get a breeding pair of stunning Appaloosa horses. Anaheim’s compadre, Grandpa Willie, usually spends his time sitting at the ranch or outside Brody’s favorite saloon, the Homestead Inn, with his shotgun over his knees in case of trouble. Anaheim, concerned that the relationship with the tribe has gone quiet, sends Grandpa Willie off to bring his regards to the Native Americans, and keep the contact warm. Grandpa Willie, grumbling a bit as is his way, loads up on supplies and shells for his shotgun, and trundles out of town in his trusty wagon, as Anaheim tends to other business closer to home._
 
-| D66 | Attribute | Ability |
-| --- | --- | --- |
-| 11–12 | GRIT | FIGHTIN’ |
-| 13–14 | GRIT | LABOR |
-| 15–16 | GRIT | PRESENCE |
-| 21–22 | QUICK | RESILIENCE |
-| 23–24 | QUICK | LIGHT-FINGERED |
-| 25–26 | QUICK | MOVE |
-| 31–32 | CUNNING | OPERATE |
-| 33–34 | CUNNING | SHOOTIN’ |
-| 35–36 | CUNNING | ANIMAL HANDLIN’ |
-| 41–42 | CUNNING | HAWKEYE |
-| 43–44 | CUNNING | INSIGHT |
-| 45–46 | CUNNING | NATURE |
-| 51–52 | DOCITY | BOOK LEARNIN’ |
-| 53–54 | DOCITY | DOCTORIN’ |
-| 55–56 | DOCITY | MAKIN’ |
-| 61–62 | CHOOSE | PERFORMIN’ |
-| 63–66 | CHOOSE | CHOOSE |
+| D66   | Attribute | Ability         |
+| ----- | --------- | --------------- |
+| 11–12 | GRIT      | FIGHTIN’        |
+| 13–14 | GRIT      | LABOR           |
+| 15–16 | GRIT      | PRESENCE        |
+| 21–22 | QUICK     | RESILIENCE      |
+| 23–24 | QUICK     | LIGHT-FINGERED  |
+| 25–26 | QUICK     | MOVE            |
+| 31–32 | CUNNING   | OPERATE         |
+| 33–34 | CUNNING   | SHOOTIN’        |
+| 35–36 | CUNNING   | ANIMAL HANDLIN’ |
+| 41–42 | CUNNING   | HAWKEYE         |
+| 43–44 | CUNNING   | INSIGHT         |
+| 45–46 | CUNNING   | NATURE          |
+| 51–52 | DOCITY    | BOOK LEARNIN’   |
+| 53–54 | DOCITY    | DOCTORIN’       |
+| 55–56 | DOCITY    | MAKIN’          |
+| 61–62 | CHOOSE    | PERFORMIN’      |
+| 63–66 | CHOOSE    | CHOOSE          |
 
 #### Your Compadres in Play
 
 Compadres are usually controlled by their player but they are not intended to take center stage, and neither are they intended to follow the player character around the whole time. They should be supporting characters, helping out around the farm, keeping bar at the player character’s saloon, or looking after the home or the herd, leaving the player character free to go and tell their tale. They may do tasks “off screen”, but these should be roleplaying and storytelling developments, rather than things you would expect the player characters to do themselves.
 
-Remember that compadres are still non-player characters, and the GM has a say over how they react and behave in certain situations. In particular, the  player character’s behavior towards their compadre and the compadre’s personality types will influence the way they feel towards their player character. Compadres may get into trouble, or cause problems, or bring problems that have to be dealt with. The GM should develop these characters and their relationships with their player characters—and the stories that come from it—as they see fit.
+Remember that compadres are still non-player characters, and the GM has a say over how they react and behave in certain situations. In particular, the player character’s behavior towards their compadre and the compadre’s personality types will influence the way they feel towards their player character. Compadres may get into trouble, or cause problems, or bring problems that have to be dealt with. The GM should develop these characters and their relationships with their player characters—and the stories that come from it—as they see fit.
 
 ### Gear & Services
 
@@ -487,49 +490,49 @@ Every character in _Tales of the Old West_ will accumulate gear over the years. 
 
 ##### General Gear
 
-| Item | Cost | Weight |
-| --- | --- | --- |
-| Basic Rations for 1 week | $2 | 2 |
-| Bullets / shells | $1/20 | Tiny |
-| Clothes (standard) | 50c–$2 | - |
-| Clothes (fancy) | $5–50 | - |
-| Coffin | $7.5 | 6 |
-| Deck of cards | $1–5 | Tiny |
-| Gold, 1oz | $100 | Tiny |
-| Handcuffs | $1–5 | Tiny |
-| Lemonade (bottle) | 5c | ½ |
-| Lockpicks (set) | $5 | Tiny |
-| Matches (box) | 50c | Tiny |
-| Newspaper | 10c | Tiny |
-| Oil Lantern | $1 | ½ |
-| Pelt, Bear | 70c–$1 | 2 |
-| Pelt, Bison | 30–40c | 2 |
-| Pelt, Wolf | 50–70c | 1 |
-| Rope, 20’ length | $2 | ½ |
-| Saddle & Gear | $30–100 | 2 |
-| Silver, 1oz | $10 | Tiny |
-| Tobacco goods | $1–5 | Tiny |
-| Whiskey, sipping (bottle) | 50c | ½ |
-| Whiskey, good (bottle) | $2 | ½ |
+| Item                      | Cost    | Weight |
+| ------------------------- | ------- | ------ |
+| Basic Rations for 1 week  | $2      | 2      |
+| Bullets / shells          | $1/20   | Tiny   |
+| Clothes (standard)        | 50c–$2  | -      |
+| Clothes (fancy)           | $5–50   | -      |
+| Coffin                    | $7.5    | 6      |
+| Deck of cards             | $1–5    | Tiny   |
+| Gold, 1oz                 | $100    | Tiny   |
+| Handcuffs                 | $1–5    | Tiny   |
+| Lemonade (bottle)         | 5c      | ½      |
+| Lockpicks (set)           | $5      | Tiny   |
+| Matches (box)             | 50c     | Tiny   |
+| Newspaper                 | 10c     | Tiny   |
+| Oil Lantern               | $1      | ½      |
+| Pelt, Bear                | 70c–$1  | 2      |
+| Pelt, Bison               | 30–40c  | 2      |
+| Pelt, Wolf                | 50–70c  | 1      |
+| Rope, 20’ length          | $2      | ½      |
+| Saddle & Gear             | $30–100 | 2      |
+| Silver, 1oz               | $10     | Tiny   |
+| Tobacco goods             | $1–5    | Tiny   |
+| Whiskey, sipping (bottle) | 50c     | ½      |
+| Whiskey, good (bottle)    | $2      | ½      |
 
 ##### Specialized Gear
 
-| Item | Cost | Weight | Notes |
-| --- | --- | --- | --- |
-| Boat—canoe | $40 | 4 | A light canoe designed for two people and a small amount of baggage. |
-| Boat—rowboat | $35 | 8 | Basic but sturdy, the rowboat can take four people easily, six at a stretch, and some baggage. |
-| Camping Gear | $10 | 2 | Basic camping gear with bedrolls, canvas for shelter, a tinderbox and a pan for cooking. Gives a +1 bonus to NATURE rolls when making camp for the night. |
-| Cart | $30 | N/A | A basic four-wheeled cart with space for three people sitting up front and carrying capacity for a lot of cargo. |
-| Doctoring Bag | $25 | 1 | Contains basic items and simple medicines and elixirs. Gives a +1 bonus to DOCTORIN’ rolls. |
-| Farming equipment | $250 | Varies | Covers a wide range of equipment needed to manage a Farming Outfit. Without this, the Turn of the Season Business roll for a Farming Outfit suffers a −2 penalty. |
-| Holster—basic | $2.50 | Tiny | Nothin’ fancy, just holds your gun. |
-| Holster—Bridgeport Rig | $50 | Tiny | A belt holder with a special clip instead of an actual holster, making it quick to draw. Can also swivel, allowing you to take a shot without drawing. Gain a +1 bonus to the Draw during a duel if the weapon is drawn. Gain a +2 bonus to the Draw for the first shot if the weapon is not drawn (but the weapon needs to be drawn to shoot again). |
-| Holster—Law Dog | $40 | Tiny | Made for the quick draw, this holster gives a +1 bonus to the Draw roll during a duel. |
-| Holster—Open-toe Swivel | $25 | Tiny | A holster with an opening through which the barrel sticks out, which can swivel, allowing a fast shot in a duel with the weapon still in the holster. Gain a +1 bonus to the Draw for the first shot, but the weapon remains in its holster—it needs to be drawn to shoot again. |
-| Horses, Donkeys & Mules | Varies | N/A | There are many breeds of horse to choose from. See page 120. |
-| Panning equipment | $10 | Varies | Covers the range of equipment needed to manage a Panning Claim. Without this, the Turn of the Season Business roll for a Panning Outfit suffers a −2 penalty. |
-| Lasso | $5 | ½ | A length of stiffened rope with a loop at one end for wrangling cattle, horses, and wayward folk. |
-| Mining equipment | $25 | Varies | A wide range of equipment needed to manage a Mining Outfit. Without this, the Turn of the Season roll for a Mining Outfit suffers a −2 penalty. |
+| Item                    | Cost   | Weight | Notes                                                                                                                                                                                                                                                                                                                                                 |
+| ----------------------- | ------ | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Boat—canoe              | $40    | 4      | A light canoe designed for two people and a small amount of baggage.                                                                                                                                                                                                                                                                                  |
+| Boat—rowboat            | $35    | 8      | Basic but sturdy, the rowboat can take four people easily, six at a stretch, and some baggage.                                                                                                                                                                                                                                                        |
+| Camping Gear            | $10    | 2      | Basic camping gear with bedrolls, canvas for shelter, a tinderbox and a pan for cooking. Gives a +1 bonus to NATURE rolls when making camp for the night.                                                                                                                                                                                             |
+| Cart                    | $30    | N/A    | A basic four-wheeled cart with space for three people sitting up front and carrying capacity for a lot of cargo.                                                                                                                                                                                                                                      |
+| Doctoring Bag           | $25    | 1      | Contains basic items and simple medicines and elixirs. Gives a +1 bonus to DOCTORIN’ rolls.                                                                                                                                                                                                                                                           |
+| Farming equipment       | $250   | Varies | Covers a wide range of equipment needed to manage a Farming Outfit. Without this, the Turn of the Season Business roll for a Farming Outfit suffers a −2 penalty.                                                                                                                                                                                     |
+| Holster—basic           | $2.50  | Tiny   | Nothin’ fancy, just holds your gun.                                                                                                                                                                                                                                                                                                                   |
+| Holster—Bridgeport Rig  | $50    | Tiny   | A belt holder with a special clip instead of an actual holster, making it quick to draw. Can also swivel, allowing you to take a shot without drawing. Gain a +1 bonus to the Draw during a duel if the weapon is drawn. Gain a +2 bonus to the Draw for the first shot if the weapon is not drawn (but the weapon needs to be drawn to shoot again). |
+| Holster—Law Dog         | $40    | Tiny   | Made for the quick draw, this holster gives a +1 bonus to the Draw roll during a duel.                                                                                                                                                                                                                                                                |
+| Holster—Open-toe Swivel | $25    | Tiny   | A holster with an opening through which the barrel sticks out, which can swivel, allowing a fast shot in a duel with the weapon still in the holster. Gain a +1 bonus to the Draw for the first shot, but the weapon remains in its holster—it needs to be drawn to shoot again.                                                                      |
+| Horses, Donkeys & Mules | Varies | N/A    | There are many breeds of horse to choose from. See page 120.                                                                                                                                                                                                                                                                                          |
+| Panning equipment       | $10    | Varies | Covers the range of equipment needed to manage a Panning Claim. Without this, the Turn of the Season Business roll for a Panning Outfit suffers a −2 penalty.                                                                                                                                                                                         |
+| Lasso                   | $5     | ½      | A length of stiffened rope with a loop at one end for wrangling cattle, horses, and wayward folk.                                                                                                                                                                                                                                                     |
+| Mining equipment        | $25    | Varies | A wide range of equipment needed to manage a Mining Outfit. Without this, the Turn of the Season roll for a Mining Outfit suffers a −2 penalty.                                                                                                                                                                                                       |
 
 ##### A Note on Prices
 
@@ -541,28 +544,28 @@ You’re not only going to want gear to help you make your way in the Old West, 
 
 ##### Basic Services
 
-| Item | Cost |
-| --- | --- |
-| Barbering | $2 |
-| Bed for 1 night, communal | 20c |
-| Board and lodging for 1 night, basic | $1 |
-| Board and lodging for 1 night, quality | $2 |
-| Beer | 10c |
-| Coffee, 1 cup | 25c |
-| Doctor, tooth extraction | $3 |
-| Doctor, consultation | $2 |
-| Homestead Act filing fee | $14 |
-| Laundry | $1 |
-| Meal, basic | 25c |
-| Meal, decent | $1–2 |
-| Meal, fancy | $5 |
-| Railroad, coast to coast | $300 |
-| Stabling costs | 10c/day |
-| Stagecoach ticket | 10c/mile |
-| Trick with a soiled dove | $1+ |
-| Undertaking services | $10+ |
-| Whiskey in single-bit bar | 10c |
-| Whiskey in two-bit bar | 25c |
+| Item                                   | Cost     |
+| -------------------------------------- | -------- |
+| Barbering                              | $2       |
+| Bed for 1 night, communal              | 20c      |
+| Board and lodging for 1 night, basic   | $1       |
+| Board and lodging for 1 night, quality | $2       |
+| Beer                                   | 10c      |
+| Coffee, 1 cup                          | 25c      |
+| Doctor, tooth extraction               | $3       |
+| Doctor, consultation                   | $2       |
+| Homestead Act filing fee               | $14      |
+| Laundry                                | $1       |
+| Meal, basic                            | 25c      |
+| Meal, decent                           | $1–2     |
+| Meal, fancy                            | $5       |
+| Railroad, coast to coast               | $300     |
+| Stabling costs                         | 10c/day  |
+| Stagecoach ticket                      | 10c/mile |
+| Trick with a soiled dove               | $1+      |
+| Undertaking services                   | $10+     |
+| Whiskey in single-bit bar              | 10c      |
+| Whiskey in two-bit bar                 | 25c      |
 
 ### Weapons
 
@@ -592,22 +595,22 @@ The Weapons Tables on the following pages take account of the weapon’s qualiti
 
 ##### Revolvers and Pistols
 
-| Weapon | Action | Draw Mod | Attack Mod | Dam | Crit | Range | Qualities | Ammo | Wt | Cost |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Colt 1860 New Army | Single | 0 | +1 | 2 | 1 | M* | RELIABLE, FANNING | 6 | 1/2 | $15 |
-| Colt 45 Peacemaker | Single | -1 | +2 | 3 | 1 | M* | LONG BARREL, POWERFUL | 6 | 1/2 | $28 |
-| Colt Walker | Single | -1 | +2 | 2 | 1 | M* | LONG BARREL, HEAVY, MAINTAINED | 6 | 1/2 | $20 |
-| Cooper | Double | +2 | 0 | 2 | 1 | M* | FAST DRAW, CONCEALABLE, CALIBRATED | 5 | 1/2 | $18 |
-| Manhattan Navy | Single | 0 | +2 | 2 | 1 | M* | CALIBRATED | 6 | 1/2 | $24 |
-| Metropolitan Navy 1864 | Single | 0 | +1 | 2 | 1 | M* | CALIBRATED, RELIABLE | 6 | 1/2 | $16 |
-| Remington 1858 | Single | 0 | 0 | 3 | 1 | M* | POWERFUL, FANNING | 6 | 1/2 | $20 |
-| Smith & Wesson Model 3 | Single | -1 | +1 | 2 | 1 | M* | HEAVY | 6 | 1/2 | $30 |
-| Starr Revolver | Double | +1 | 0 | 2 | 1 | M* | - | 6 | 1/2 | $10 |
-| Webley British Bulldog | Double | -1 | 0 | 3 | 1 | S* | CONCEALABLE, POWERFUL | 5 | 1/2 | $15 |
-| Deringer | Single | -1 | 0 | 2 | 2 | N* | HIDDEN, LIGHT, POWERFUL | 1 | T | $32 |
-| Remington Elliot Pepperbox | Double | -1 | +1 | 1 | 2 | N* | HIDDEN, LIGHT | 4 | T | $25 |
+| Weapon                     | Action | Draw Mod | Attack Mod | Dam | Crit | Range | Qualities                          | Ammo | Wt  | Cost |
+| -------------------------- | ------ | -------- | ---------- | --- | ---- | ----- | ---------------------------------- | ---- | --- | ---- |
+| Colt 1860 New Army         | Single | 0        | +1         | 2   | 1    | M\*   | RELIABLE, FANNING                  | 6    | 1/2 | $15  |
+| Colt 45 Peacemaker         | Single | -1       | +2         | 3   | 1    | M\*   | LONG BARREL, POWERFUL              | 6    | 1/2 | $28  |
+| Colt Walker                | Single | -1       | +2         | 2   | 1    | M\*   | LONG BARREL, HEAVY, MAINTAINED     | 6    | 1/2 | $20  |
+| Cooper                     | Double | +2       | 0          | 2   | 1    | M\*   | FAST DRAW, CONCEALABLE, CALIBRATED | 5    | 1/2 | $18  |
+| Manhattan Navy             | Single | 0        | +2         | 2   | 1    | M\*   | CALIBRATED                         | 6    | 1/2 | $24  |
+| Metropolitan Navy 1864     | Single | 0        | +1         | 2   | 1    | M\*   | CALIBRATED, RELIABLE               | 6    | 1/2 | $16  |
+| Remington 1858             | Single | 0        | 0          | 3   | 1    | M\*   | POWERFUL, FANNING                  | 6    | 1/2 | $20  |
+| Smith & Wesson Model 3     | Single | -1       | +1         | 2   | 1    | M\*   | HEAVY                              | 6    | 1/2 | $30  |
+| Starr Revolver             | Double | +1       | 0          | 2   | 1    | M\*   | -                                  | 6    | 1/2 | $10  |
+| Webley British Bulldog     | Double | -1       | 0          | 3   | 1    | S\*   | CONCEALABLE, POWERFUL              | 5    | 1/2 | $15  |
+| Deringer                   | Single | -1       | 0          | 2   | 2    | N\*   | HIDDEN, LIGHT, POWERFUL            | 1    | T   | $32  |
+| Remington Elliot Pepperbox | Double | -1       | +1         | 1   | 2    | N\*   | HIDDEN, LIGHT                      | 4    | T   | $25  |
 
-(* M=Medium, S=Short, N=Near)
+(\* M=Medium, S=Short, N=Near)
 
 **Colt 1860 New Army** : A reliable stalwart of the Civil War, more than 200,000 were made between 1860 and 1873. The Colt 1860 Army is a .44 caliber single-action revolver that fires a conical-tipped bullet. The Colt Navy is a smaller .36 caliber version of the same gun.
 
@@ -623,30 +626,31 @@ The Weapons Tables on the following pages take account of the weapon’s qualiti
 
 **Remington 1858** : Remington posted the patent for their revolver in 1858, but production didn’t start until 1861. Sales of the revolver were boosted by the Colt factory fire in 1864, and large numbers of the Remington 1858 were ordered by the US government. It remained in service until 1873. Powerful and durable, the Remington is well respected by those who know their firearms.
 
-**Smith & Wesson Model 3** : The Model 3 is a single-action, cartridge-firing, top-break revolver first produced in 1868. It was adopted by the US Army in 1870, and thousands were manufactured for the military of the Russian Empire. The revolver was so successful that it found its way into service in countries all across the world. It’s readily available in the Old West.
+**Smith & Wesson Model 3** : The Model 3 is a single-action, cartridge-firing, top-break revolver first produced in 1870. It was adopted by the US Army that same year, and thousands were manufactured for the military of the Russian Empire. The revolver was so successful that it found its way into service in countries all across the world. It’s readily available in the Old West.
 
-**Starr Revolver** : Designed in the late 1850s by Ebanezer Townsend Starr, this .44 caliber double-action weapon was widely used during the Civil War. Production continued into the late 1860s, and the revolver is common across the Old West.
+**Starr Revolver** : Designed in the late 1850s by Ebenezer Townsend Starr, this .44 caliber double-action weapon was widely used during the Civil War. Production continued into the late 1860s, and the revolver is common across the Old West.
 
-**Webley British Bulldog** : Designed in 1868 by the British inventor Philip Webley, the double-action Webley Bulldog came into circulation across Britain and America in 1872. With a short 2 ½ inch barrel and either .44 or .45 caliber, the Bulldog is easy to conceal and packs a punch at close quarters.
+**Webley British Bulldog** : Developed in the early 1870s by the British firm Philip Webley & Son, the double-action Webley Bulldog came into circulation across Britain and America in 1872. With a short 2 ½ inch barrel and either .44 or .45 caliber, the Bulldog is easy to conceal and packs a punch at close quarters.
 
 **Deringer** : The Deringer, sometimes mis-spelled Derringer, is a small, palm-sized pistol that is easy to conceal in a pocket, a boot top, or even up a sleeve. It gained infamy as the weapon used in the assassination of Abraham Lincoln in 1865. It has a very short effective range, and is usually a single-shot gun, but some variants have more than one barrel.
 
 ##### Rifles, Shotguns and Bows
-| Weapon | Action | Attack Mod | Dam | Crit | Range | Qualities | Ammo | Wt | Cost |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Standard Rifle | Lever | 0 | 2 | 1 | L* | - | 12 | 1 | $16 |
-| Sharps Rifle 1874 | Breech | +1 | 3 | 1 | D* | CALIBRATED, POWERFUL, PIERCING, SIGHTS | 1 | 1 | $35 |
-| Spencer Carbine | Lever | 0 | 3 | 1 | L* | POWERFUL, CALIBRATED | 7 | 1 | $22 |
-| Winchester Model 1866 | Lever | +1 | 2 | 1 | L* | RELIABLE | 15 | 1 | $25 |
-| Winchester Model 1873 | Lever | +2 | 2 | 1 | L* | CALIBRATED | 15 | 1 | $35 |
-| Standard Shotgun | Breech | +1 | 3 | 3 | M* | RELIABLE | 2 | 1 | $12 |
-| Hartford Coachgun | Breech | +1 | 3 | 2 | S* | SAWN-OFF | 2 | 1 | $25 |
-| Roper Repeating Shotgun | Lever | +1 | 3 | 3 | M* | HARD TO LOAD | 4 | 1 | $25 |
-| Wells Fargo Coachgun | Breech | +2 | 4 | 3 | S* | SAWN-OFF, POWERFUL, PIERCING | 2 | 1 | $25 |
-| Standard Bow | Special | 0 | 1 | 1 | M* | PIERCING | N/A | 1/2 | N/A |
-| Quality Bow | Special | +1 | 2 | 1 | L* | PIERCING | N/A | 1/2 | N/A |
 
-(* D=Distant, L=Long, M=Medium, S=Short)
+| Weapon                  | Action  | Attack Mod | Dam | Crit | Range | Qualities                              | Ammo | Wt  | Cost |
+| ----------------------- | ------- | ---------- | --- | ---- | ----- | -------------------------------------- | ---- | --- | ---- |
+| Standard Rifle          | Lever   | 0          | 2   | 1    | L\*   | -                                      | 12   | 1   | $16  |
+| Sharps Rifle 1874       | Breech  | +1         | 3   | 1    | D\*   | CALIBRATED, POWERFUL, PIERCING, SIGHTS | 1    | 1   | $35  |
+| Spencer Carbine         | Lever   | 0          | 3   | 1    | L\*   | POWERFUL, CALIBRATED                   | 7    | 1   | $22  |
+| Winchester Model 1866   | Lever   | +1         | 2   | 1    | L\*   | RELIABLE                               | 15   | 1   | $25  |
+| Winchester Model 1873   | Lever   | +2         | 2   | 1    | L\*   | CALIBRATED                             | 15   | 1   | $35  |
+| Standard Shotgun        | Breech  | +1         | 3   | 3    | M\*   | RELIABLE                               | 2    | 1   | $12  |
+| Hartford Coachgun       | Breech  | +1         | 3   | 2    | S\*   | SAWN-OFF                               | 2    | 1   | $25  |
+| Roper Repeating Shotgun | Lever   | +1         | 3   | 3    | M\*   | HARD TO LOAD                           | 4    | 1   | $25  |
+| Wells Fargo Coachgun    | Breech  | +2         | 4   | 3    | S\*   | SAWN-OFF, POWERFUL, PIERCING           | 2    | 1   | $25  |
+| Standard Bow            | Special | 0          | 1   | 1    | M\*   | PIERCING                               | N/A  | 1/2 | N/A  |
+| Quality Bow             | Special | +1         | 2   | 1    | L\*   | PIERCING                               | N/A  | 1/2 | N/A  |
+
+(\* D=Distant, L=Long, M=Medium, S=Short)
 
 **Remington-Elliot ‘Pepper Box’** : The Remington-Elliot Pepper Box, also called the Zig-Zag Deringer, is a .22 caliber, four barreled pistol, which is as easy to conceal as the Deringer itself. It is not a traditional double-action pistol—the action of the trigger finger pushing away on the ring-shaped trigger guard rotates the firing pin to the next barrel in sequence, but it does not require a Prepare action before firing.
 
@@ -668,20 +672,20 @@ The Weapons Tables on the following pages take account of the weapon’s qualiti
 
 ##### Melee Weapons
 
-| Weapon | Attack Mod | Dam | Crit | Range | Qualities | Ammo | Wt | Cost |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Bullwhip | 0 | 1 | 4 | N* | PIERCING | N/A | 1/2 | $10 |
-| Cavalry Sword | +2 | 2 | 1 | A* | MOUNTED | N/A | 1 | $25 |
-| Club | 0 | 2 | 3 | A* | - | N/A | 1 | $1 |
-| Knife | 0 | 1 | 2 | A* | - | N/A | 1/2 | $3 |
-| Lance (Wahukeza) | +2 | 2 | 1 | N* | WEIGHTED, PIERCING, MOUNTED | N/A | 1 | N/A |
-| Lasso | +1 | Grapple | N/A | S* | - | N/A | 1/2 | $2 |
-| Quality Blade | +1 | 2 | 1 | A* | BALANCED, SHARPENED | N/A | 1/2 | $15 |
-| Tomahawk | +1 | 2 | 1 | A* | BALANCED, SHARPENED, FORGIVING | N/A | 1 | N/A |
-| Dynamite (one stick) | 8 Dice Blast | 4 | 2 | S* | - | N/A | 1/4 | $1 |
-| Fist | 0 | 1 | 4 | A* | - | N/A | N/A | N/A |
+| Weapon               | Attack Mod   | Dam     | Crit | Range | Qualities                      | Ammo | Wt  | Cost |
+| -------------------- | ------------ | ------- | ---- | ----- | ------------------------------ | ---- | --- | ---- |
+| Bullwhip             | 0            | 1       | 4    | N\*   | PIERCING                       | N/A  | 1/2 | $10  |
+| Cavalry Sword        | +2           | 2       | 1    | A\*   | MOUNTED                        | N/A  | 1   | $25  |
+| Club                 | 0            | 2       | 3    | A\*   | -                              | N/A  | 1   | $1   |
+| Knife                | 0            | 1       | 2    | A\*   | -                              | N/A  | 1/2 | $3   |
+| Lance (Wahukeza)     | +2           | 2       | 1    | N\*   | WEIGHTED, PIERCING, MOUNTED    | N/A  | 1   | N/A  |
+| Lasso                | +1           | Grapple | N/A  | S\*   | -                              | N/A  | 1/2 | $2   |
+| Quality Blade        | +1           | 2       | 1    | A\*   | BALANCED, SHARPENED            | N/A  | 1/2 | $15  |
+| Tomahawk             | +1           | 2       | 1    | A\*   | BALANCED, SHARPENED, FORGIVING | N/A  | 1   | N/A  |
+| Dynamite (one stick) | 8 Dice Blast | 4       | 2    | S\*   | -                              | N/A  | 1/4 | $1   |
+| Fist                 | 0            | 1       | 4    | A\*   | -                              | N/A  | N/A | N/A  |
 
-(* S=Short, N=Near, A=Arm’s Length)
+(\* S=Short, N=Near, A=Arm’s Length)
 **Bullwhip** : Single-tailed bullwhips made of braided leather were common in the Old West. As the name suggests, they were used to drive cattle or a team of horses pulling a wagon or carriage. To use a bullwhip you use the LIGHT-FINGERED ability. It does damage and can cause injury, but the real advantage of the bullwhip is when you want to make a Called Strike against an enemy: making a Called Strike with a bullwhip only brings a −2 penalty instead of −3.
 
 **Cavalry Sword** : Originally used by cavalrymen, the 1860 Light Cavalry Saber became popular among infantry and senior officers during the Civil War. Made of steel and brass, they are ubiquitous across the Old West, often personalized with bespoke engravings and gilding.
@@ -702,62 +706,62 @@ Conditions reduce the effectiveness of your weapon, and may even break the weapo
 
 ##### Weapon Qualities - Ranged
 
-| Weapon | Quality | Impact |
-| --- | --- | --- |
-| Pistol | CALIBRATED | The weapon is so well calibrated its aim is true. Gain +1 bonus to the weapon’s Attack modifier. |
-| Pistol | CONCEALABLE | Small and compact, a pistol with this quality is easily concealed about your person. Those trying to spot it get a −1 penalty on their HAWKEYE test. |
-| Pistol | FANNING | The gun is ideal for fanning. You gain a +1 bonus to your SHOOTIN’ ability when fanning with this weapon. |
-| Pistol | FAST DRAW | The weapon is designed for the quick draw. You gain a +1 bonus to the Draw. |
-| Pistol | HEAVY | The pistol is heavy in your hand and kicks like a mule but delivers a powerful blast. It does +1 extra damage, but has a −1 penalty to Draw. |
-| Pistol | HIDDEN | A palm-sized gun designed for concealment. Those trying to spot it suffer a −3 penalty on their HAWKEYE test. |
-| Pistol | HOT LOADER | Loading is slow, so anything that makes it quicker can only be a good thing. This gun has a swappable revolver cylinder (2 actions for full reload). |
-| Pistol | LIGHT | The weapon is very small and counts as a Tiny item, but it’s not made for fast drawing so you suffer a −1 penalty on the Draw. |
-| Pistol | LONG BARREL | A long barrel makes gunplay easier, but it’s slower on the draw. Gain a +1 bonus to SHOOTIN’, but a −1 penalty on the Draw. |
-| Pistol | SHORT BARREL | A short barrel isn’t great for accuracy, but it’s quicker to get that iron from your holster. Gain a +1 bonus on Draw, but a −1 penalty on SHOOTIN’. |
-| Pistol | SIGHTS | Well-made sights make shooting at range easy. Range negatives are one die less for all ranges when using an Aim action before making a shot. |
-| Any | BALANCED | The weapon feels good in your hand and you can’t help but shoot straight with it. Grants a +1 bonus to SHOOTIN’. |
-| Any | MAINTAINED | Beautifully made with maintenance in mind, this weapon is easy to keep working. Once per scene you may reroll all Trouble dice showing a ‘1’, but only before pushing. |
-| Any | PIERCING | The weapon is renowned for being deadly in the hands of an expert. Gain +1 to the Units die on critical injury rolls. |
-| Any | POWERFUL | The weapon packs a real punch. Grants +1 to the weapon’s Damage. |
-| Any | RELIABLE | Tough and sturdy, this weapon is reliable and just doesn’t break. If Trouble is rolled while using this weapon, the amount of Trouble is reduced by 1, to a minimum of 1. |
-| Shotgun | SAWN-OFF | A short-barreled shotgun is deadly in close quarters, but terrible further away. Grants a +1 bonus to SHOOTIN’ but the maximum range is Short. |
+| Weapon  | Quality      | Impact                                                                                                                                                                    |
+| ------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pistol  | CALIBRATED   | The weapon is so well calibrated its aim is true. Gain +1 bonus to the weapon’s Attack modifier.                                                                          |
+| Pistol  | CONCEALABLE  | Small and compact, a pistol with this quality is easily concealed about your person. Those trying to spot it get a −1 penalty on their HAWKEYE test.                      |
+| Pistol  | FANNING      | The gun is ideal for fanning. You gain a +1 bonus to your SHOOTIN’ ability when fanning with this weapon.                                                                 |
+| Pistol  | FAST DRAW    | The weapon is designed for the quick draw. You gain a +1 bonus to the Draw.                                                                                               |
+| Pistol  | HEAVY        | The pistol is heavy in your hand and kicks like a mule but delivers a powerful blast. It does +1 extra damage, but has a −1 penalty to Draw.                              |
+| Pistol  | HIDDEN       | A palm-sized gun designed for concealment. Those trying to spot it suffer a −3 penalty on their HAWKEYE test.                                                             |
+| Pistol  | HOT LOADER   | Loading is slow, so anything that makes it quicker can only be a good thing. This gun has a swappable revolver cylinder (2 actions for full reload).                      |
+| Pistol  | LIGHT        | The weapon is very small and counts as a Tiny item, but it’s not made for fast drawing so you suffer a −1 penalty on the Draw.                                            |
+| Pistol  | LONG BARREL  | A long barrel makes gunplay easier, but it’s slower on the draw. Gain a +1 bonus to SHOOTIN’, but a −1 penalty on the Draw.                                               |
+| Pistol  | SHORT BARREL | A short barrel isn’t great for accuracy, but it’s quicker to get that iron from your holster. Gain a +1 bonus on Draw, but a −1 penalty on SHOOTIN’.                      |
+| Pistol  | SIGHTS       | Well-made sights make shooting at range easy. Range negatives are one die less for all ranges when using an Aim action before making a shot.                              |
+| Any     | BALANCED     | The weapon feels good in your hand and you can’t help but shoot straight with it. Grants a +1 bonus to SHOOTIN’.                                                          |
+| Any     | MAINTAINED   | Beautifully made with maintenance in mind, this weapon is easy to keep working. Once per scene you may reroll all Trouble dice showing a ‘1’, but only before pushing.    |
+| Any     | PIERCING     | The weapon is renowned for being deadly in the hands of an expert. Gain +1 to the Units die on critical injury rolls.                                                     |
+| Any     | POWERFUL     | The weapon packs a real punch. Grants +1 to the weapon’s Damage.                                                                                                          |
+| Any     | RELIABLE     | Tough and sturdy, this weapon is reliable and just doesn’t break. If Trouble is rolled while using this weapon, the amount of Trouble is reduced by 1, to a minimum of 1. |
+| Shotgun | SAWN-OFF     | A short-barreled shotgun is deadly in close quarters, but terrible further away. Grants a +1 bonus to SHOOTIN’ but the maximum range is Short.                            |
 
 **Wells Fargo Coachgun**
 
 ##### Weapon Qualities - Melee
 
-| Weapon | Quality | Impact |
-| --- | --- | --- |
-| Any | BALANCED | The weapon sits well in your hand and helps you make the blow. Grants a +1 bonus to FIGHTIN’. |
-| Any | FORGIVING | The weapon is reliable and easy to use. You can ignore one die of Trouble on your first roll when using this weapon as if you had spent a point of Faith (but not after a pushed roll). |
-| Any | MOUNTED | This weapon is especially deadly when used from horseback. After a pushed roll, when mounted, you can push again for free, although Trouble still applies. |
-| Any | PIERCING | The weapon is renowned for being deadly in the hands of an expert. Grants +1 to the Units die on critical injury rolls. |
-| Any | SHARPENED | The weapon is made to inflict as much damage as possible. Gain +1 to the weapon’s Damage. |
-| Any | SLEEK | It’s designed to be drawn fast. You can draw this weapon as a free action. |
-| Any | TOUGHENED | The weapon cannot be broken by the outcome of Trouble. |
-| Any | WEIGHTED | The weapon is beautifully weighted to give you an advantage in the fight. Gain a +1 bonus to FIGHTIN’. |
+| Weapon | Quality   | Impact                                                                                                                                                                                  |
+| ------ | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Any    | BALANCED  | The weapon sits well in your hand and helps you make the blow. Grants a +1 bonus to FIGHTIN’.                                                                                           |
+| Any    | FORGIVING | The weapon is reliable and easy to use. You can ignore one die of Trouble on your first roll when using this weapon as if you had spent a point of Faith (but not after a pushed roll). |
+| Any    | MOUNTED   | This weapon is especially deadly when used from horseback. After a pushed roll, when mounted, you can push again for free, although Trouble still applies.                              |
+| Any    | PIERCING  | The weapon is renowned for being deadly in the hands of an expert. Grants +1 to the Units die on critical injury rolls.                                                                 |
+| Any    | SHARPENED | The weapon is made to inflict as much damage as possible. Gain +1 to the weapon’s Damage.                                                                                               |
+| Any    | SLEEK     | It’s designed to be drawn fast. You can draw this weapon as a free action.                                                                                                              |
+| Any    | TOUGHENED | The weapon cannot be broken by the outcome of Trouble.                                                                                                                                  |
+| Any    | WEIGHTED  | The weapon is beautifully weighted to give you an advantage in the fight. Gain a +1 bonus to FIGHTIN’.                                                                                  |
 
 ##### Weapon Conditions (Ranged)
 
-| D6 | Condition | Impact |
-| --- | --- | --- |
-| 1 | DIRTY | When you attack with this weapon your final total of successes is reduced by 1, to a minimum of 0. |
-| 2 | DAMAGED BORE | The weapon is low powered. The damage rating is reduced by 1, to a minimum of 1. |
-| 3 | HARD TO LOAD | Loading takes an extra action per bullet. |
-| 4 | GREASY | The weapon loses its punch, and its Crit Rating is increased by 1. |
-| 5 | MISALIGNED | The weapon ain’t shootin’ straight. Suffer a −1 penalty on SHOOTIN’ rolls. |
-| 6 | WEAK HAMMER | If the weapon suffers Trouble twice in the same scene it breaks beyond repair. |
+| D6  | Condition    | Impact                                                                                             |
+| --- | ------------ | -------------------------------------------------------------------------------------------------- |
+| 1   | DIRTY        | When you attack with this weapon your final total of successes is reduced by 1, to a minimum of 0. |
+| 2   | DAMAGED BORE | The weapon is low powered. The damage rating is reduced by 1, to a minimum of 1.                   |
+| 3   | HARD TO LOAD | Loading takes an extra action per bullet.                                                          |
+| 4   | GREASY       | The weapon loses its punch, and its Crit Rating is increased by 1.                                 |
+| 5   | MISALIGNED   | The weapon ain’t shootin’ straight. Suffer a −1 penalty on SHOOTIN’ rolls.                         |
+| 6   | WEAK HAMMER  | If the weapon suffers Trouble twice in the same scene it breaks beyond repair.                     |
 
 ##### Weapon Conditions (Melee)
 
-| D6 | Condition | Impact |
-| --- | --- | --- |
-| 1 | BLUNT | When you attack with this weapon your final total of successes is reduced by 1, to a minimum of 0. |
-| 2 | LOOSE HANDLE | The weapon loses its punch, and its Crit Rating is increased by 1. |
-| 3 | BENT | The weapon is bent or twisted, and harder to handle. Suffer a −1 penalty to FIGHTIN’ rolls. |
-| 4 | HARD TO HOLD | When you suffer Trouble after a pushed roll, add +1 to the Trouble total when using this weapon. |
-| 5 | CHIPPED | Your weapon loses a random weapon quality. |
-| 6 | WEAKENED | If the weapon suffers Trouble twice in the same scene it breaks beyond repair. |
+| D6  | Condition    | Impact                                                                                             |
+| --- | ------------ | -------------------------------------------------------------------------------------------------- |
+| 1   | BLUNT        | When you attack with this weapon your final total of successes is reduced by 1, to a minimum of 0. |
+| 2   | LOOSE HANDLE | The weapon loses its punch, and its Crit Rating is increased by 1.                                 |
+| 3   | BENT         | The weapon is bent or twisted, and harder to handle. Suffer a −1 penalty to FIGHTIN’ rolls.        |
+| 4   | HARD TO HOLD | When you suffer Trouble after a pushed roll, add +1 to the Trouble total when using this weapon.   |
+| 5   | CHIPPED      | Your weapon loses a random weapon quality.                                                         |
+| 6   | WEAKENED     | If the weapon suffers Trouble twice in the same scene it breaks beyond repair.                     |
 
 ### Gambling
 
@@ -788,14 +792,15 @@ The stakes for a Session can be any amount agreed upon by those playing. Each pl
 
 Now you see how the cards are treating you during this Session of play. Depending on the cards you get you must choose the Tactic you are going to use to try and win. There are three Tactics: Cheat, Bluff and Play. Roll D6 on the Damned Cards Table to see what cards you’re dealt during this Session and the dice modifiers for the different Tactics.
 
-| D6 | The damned cards | Cheat | Bluff | Play |
-| --- | --- | --- | --- | --- |
-| 1 | The deck is givin’ you nothin’! | +3 | 0 | −2 |
-| 2 | The cards are angry with you | +2 | +1 | −1 |
-| 3 | Just about evens, but you’re not happy | +1 | +2 | 0 |
-| 4 | Just about evens, but it’s ok | 0 | +2 | +1 |
-| 5 | The deck is lovin’ you, givin’ you all you want! | −1 | +1 | +2 |
-| 6 | Aces high! You’re on a killin’ run! | −2 | 0 | +3 |
+| D6  | The damned cards                                 | Cheat | Bluff | Play |
+| --- | ------------------------------------------------ | ----- | ----- | ---- |
+| 1   | The deck is givin’ you nothin’!                  | +3    | 0     | −2   |
+| 2   | The cards are angry with you                     | +2    | +1    | −1   |
+| 3   | Just about evens, but you’re not happy           | +1    | +2    | 0    |
+| 4   | Just about evens, but it’s ok                    | 0     | +2    | +1   |
+| 5   | The deck is lovin’ you, givin’ you all you want! | −1    | +1    | +2   |
+| 6   | Aces high! You’re on a killin’ run!              | −2    | 0     | +3   |
+
 ##### Choose Your Tactic
 
 ##### No Successes?
@@ -883,21 +888,21 @@ There are twelve breeds of horse available, as shown below. The stats in the tab
 
 **Tennessee Walker** : The Tennessee Walker originated in the late 18th century, when Narragansett and Canadian Pacer horses were bred with Mustangs on the plains of Tennessee. Sure-footed, they are used for a wide range of tasks, including farm work and racing.
 
-| Horse | Riding Mod | Grit | Quick | Cunning | FIGHTIN’ | RESILIENCE | Qualities | Flaws |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| American Quarter | 0 | 5 | 4 | 3 | 1 | 2 | FAST, +1 Random | +2 Random |
-| American Saddlebred | 0 | 6 | 2 | 3 | 1 | 2 | HARDY, +1 Random | +2 Random |
-| Appaloosa (rare) | −1 | 7 | 3 | 3 | 1 | 3 | STEADY, PAINTED COAT, +1 Random | HARD RIDING, +1 Random |
-| Arabian (rare) | 0 | 4 | 5 | 2 | 1 | 2 | FAST, GRACEFUL, +1 Random | TEMPERAMENTAL, +2 Random |
-| Cayuse (rare) | 0 | 5 | 4 | 3 | 3 | 2 | ORNERY, STRONG, +1 Random | UNRULY, +1 Random |
-| Criollo | 0 | 6 | 2 | 4 | 0 | 4 | STAMINA, +1 Random | +2 Random |
-| Missouri Fox Trotter | +1 | 6 | 3 | 4 | 1 | 3 | EASY TO RIDE, +1 Random | +2 Random |
-| Morgan | 0 | 4 | 5 | 3 | 1 | 2 | FAST, +1 Random | +2 Random |
-| Mustang | −1 | 5 | 4 | 4 | 1 | 0 | HOT HORSE, +1 Random | HARD RIDING, +1 Random |
-| Paint / Pinto | +1 | 5 | 4 | 3 | 1 | 2 | PAINTED COAT, SUREFOOTED, +1 Random | +2 Random |
-| Palomino | +1 | 4 | 3 | 4 | 0 | 0 | GRACEFUL, +1 Random | NO FIGHTIN’ SPIRIT, +1 Random |
-| Tennessee Walker | 0 | 4 | 5 | 3 | 0 | 0 | SUREFOOTED, +1 Random | +2 Random |
-| Donkey / Mule | 0 | 6 | 2 | 2 | 0 | 1 | ORNERY | STUBBORN |
+| Horse                | Riding Mod | Grit | Quick | Cunning | FIGHTIN’ | RESILIENCE | Qualities                           | Flaws                         |
+| -------------------- | ---------- | ---- | ----- | ------- | -------- | ---------- | ----------------------------------- | ----------------------------- |
+| American Quarter     | 0          | 5    | 4     | 3       | 1        | 2          | FAST, +1 Random                     | +2 Random                     |
+| American Saddlebred  | 0          | 6    | 2     | 3       | 1        | 2          | HARDY, +1 Random                    | +2 Random                     |
+| Appaloosa (rare)     | −1         | 7    | 3     | 3       | 1        | 3          | STEADY, PAINTED COAT, +1 Random     | HARD RIDING, +1 Random        |
+| Arabian (rare)       | 0          | 4    | 5     | 2       | 1        | 2          | FAST, GRACEFUL, +1 Random           | TEMPERAMENTAL, +2 Random      |
+| Cayuse (rare)        | 0          | 5    | 4     | 3       | 3        | 2          | ORNERY, STRONG, +1 Random           | UNRULY, +1 Random             |
+| Criollo              | 0          | 6    | 2     | 4       | 0        | 4          | STAMINA, +1 Random                  | +2 Random                     |
+| Missouri Fox Trotter | +1         | 6    | 3     | 4       | 1        | 3          | EASY TO RIDE, +1 Random             | +2 Random                     |
+| Morgan               | 0          | 4    | 5     | 3       | 1        | 2          | FAST, +1 Random                     | +2 Random                     |
+| Mustang              | −1         | 5    | 4     | 4       | 1        | 0          | HOT HORSE, +1 Random                | HARD RIDING, +1 Random        |
+| Paint / Pinto        | +1         | 5    | 4     | 3       | 1        | 2          | PAINTED COAT, SUREFOOTED, +1 Random | +2 Random                     |
+| Palomino             | +1         | 4    | 3     | 4       | 0        | 0          | GRACEFUL, +1 Random                 | NO FIGHTIN’ SPIRIT, +1 Random |
+| Tennessee Walker     | 0          | 4    | 5     | 3       | 0        | 0          | SUREFOOTED, +1 Random               | +2 Random                     |
+| Donkey / Mule        | 0          | 6    | 2     | 2       | 0        | 1          | ORNERY                              | STUBBORN                      |
 
 All horses are capable of kicking and biting, unless they have the DOCILE flaw, although you will need the **companion** talent if you want your horse to kick or bite for you. Basic horse attacks, which can be modified by qualities or flaws, are:
 
@@ -920,67 +925,70 @@ Player characters will come across horses in a variety of ways: you may gain one
 
 Roll D66 to identify the horse, then D6 to see what sex it is and what stage of life it’s at. Note that if your horse is an Old Knacker you should reduce its Grit, Quick and Cunning by 1 each.
 
-| Horse | Roll | Adult Stallion (1–3) | Old Knacker (4–5) | Breeding Mare (6) |
-| --- | --- | --- | --- | --- |
-| American Quarter | 11–14 | $75 | $40 | $100 |
-| American Saddlebred | 15–22 | $100 | $50 | $125 |
-| Appaloosa (rare) | 23–24 | $225 | $150 | $750 |
-| Arabian (rare) | 25–26 | $250 | $200 | $1000 |
-| Cayuse (rare) | 31–32 | $225 | $150 | $750 |
-| Criollo | 33–35 | $125 | $60 | $250 |
-| Missouri Fox Trotter | 36–42 | $75 | $40 | $100 |
-| Morgan | 43–45 | $100 | $50 | $150 |
-| Mustang | 46–52 | $50 | $30 | $75 |
-| Paint / Pinto | 53–56 | $100 | $50 | $100 |
-| Palomino | 61–63 | $150 | $100 | $250 |
-| Tennessee Walker | 64–66 | $50 | $30 | $100 |
-| Donkey / Mule | — | $25 | $15 | N/A |
+| Horse                | Roll  | Adult Stallion (1–3) | Old Knacker (4–5) | Breeding Mare (6) |
+| -------------------- | ----- | -------------------- | ----------------- | ----------------- |
+| American Quarter     | 11–14 | $75                  | $40               | $100              |
+| American Saddlebred  | 15–22 | $100                 | $50               | $125              |
+| Appaloosa (rare)     | 23–24 | $225                 | $150              | $750              |
+| Arabian (rare)       | 25–26 | $250                 | $200              | $1000             |
+| Cayuse (rare)        | 31–32 | $225                 | $150              | $750              |
+| Criollo              | 33–35 | $125                 | $60               | $250              |
+| Missouri Fox Trotter | 36–42 | $75                  | $40               | $100              |
+| Morgan               | 43–45 | $100                 | $50               | $150              |
+| Mustang              | 46–52 | $50                  | $30               | $75               |
+| Paint / Pinto        | 53–56 | $100                 | $50               | $100              |
+| Palomino             | 61–63 | $150                 | $100              | $250              |
+| Tennessee Walker     | 64–66 | $50                  | $30               | $100              |
+| Donkey / Mule        | —     | $25                  | $15               | N/A               |
+
 ##### Qualities
 
-| D66 | Quality | Impact |
-| --- | --- | --- |
-| 11-14 | None | Just nothin'. |
-| 15-16 | SURE-FOOTED | This horse knows how to avoid trouble. If you suffer Trouble that relates to the horse, the scale of that Trouble is reduced by 1, to a minimum of 1. |
-| 21-22 | GOOD DISPOSITION | Good natured and willing. Gain a +1 bonus to ANIMAL HANDLIN' when training this horse. |
-| 23-24 | HARDY | This horse is tougher than most. Grants +1 to the horse's Grit. |
-| 25-26 | STAMINA | This horse can endure more than other horses. Grants +1 to the horse's RESILIENCE. |
-| 31-32 | STRONG | It's a mighty beast. The horse's kick does 3 damage instead of 2, with a Crit Rating of 1. |
-| 33-34 | ORNERY | This horse is always ready to kick or bite, given half the chance. Gain +1 to its FIGHTIN'. |
-| 35-36 | LOYAL | This horse has given itself to one rider, and one rider only. Anyone other than the owner suffers a -3 penalty to ANIMAL HANDLIN' tests relating to the horse, and if an ANIMAL HANDLIN' test is failed the horse is immediately spooked. |
-| 41-42 | FLEET-FOOTED | Swift as the wind. Grants +1 to the horse's Quick. |
-| 43-44 | STEADY | This horse stays calm when spooked. Deduct -1 from the D6 roll when this horse is spooked. |
-| 45-46 | FAST | This horse was meant to ride the plains. The rider can push ANIMAL HANDLIN' twice when galloping, at the normal cost for both pushes. |
-| 51-52 | GOOD LEARNER | This horse is easy to train. Grants +1 to its Cunning. |
-| 53-54 | HOT HORSE | This horse just loves to run. Gain a +1 bonus to ANIMAL HANDLIN' when galloping. |
-| 55-56 | ROCK SOLID | This horse cannot be spooked. |
-| 61-62 | EASY TO RIDE | Gain a +1 bonus to ANIMAL HANDLIN' when riding this horse. |
-| 63 | **PAINTED COAT** | Striking colors and patterns. Gain a +1 bonus to ANIMAL HANDLIN' for Native American characters. |
-| 64 | **STUNNING STEED** | This horse is the perfect example of its breed. Its value is 50% greater than that listed for the breed. |
-| 65 | GRACEFUL | The horse is beautiful and full of grace, and is worth double the normal price. |
-| 66 | **THE PERFECT HORSE** | This horse loses any flaws it may have and cannot gain a flaw. It is the "perfect" horse. |
+| D66   | Quality               | Impact                                                                                                                                                                                                                                    |
+| ----- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 11-14 | None                  | Just nothin'.                                                                                                                                                                                                                             |
+| 15-16 | SURE-FOOTED           | This horse knows how to avoid trouble. If you suffer Trouble that relates to the horse, the scale of that Trouble is reduced by 1, to a minimum of 1.                                                                                     |
+| 21-22 | GOOD DISPOSITION      | Good natured and willing. Gain a +1 bonus to ANIMAL HANDLIN' when training this horse.                                                                                                                                                    |
+| 23-24 | HARDY                 | This horse is tougher than most. Grants +1 to the horse's Grit.                                                                                                                                                                           |
+| 25-26 | STAMINA               | This horse can endure more than other horses. Grants +1 to the horse's RESILIENCE.                                                                                                                                                        |
+| 31-32 | STRONG                | It's a mighty beast. The horse's kick does 3 damage instead of 2, with a Crit Rating of 1.                                                                                                                                                |
+| 33-34 | ORNERY                | This horse is always ready to kick or bite, given half the chance. Gain +1 to its FIGHTIN'.                                                                                                                                               |
+| 35-36 | LOYAL                 | This horse has given itself to one rider, and one rider only. Anyone other than the owner suffers a -3 penalty to ANIMAL HANDLIN' tests relating to the horse, and if an ANIMAL HANDLIN' test is failed the horse is immediately spooked. |
+| 41-42 | FLEET-FOOTED          | Swift as the wind. Grants +1 to the horse's Quick.                                                                                                                                                                                        |
+| 43-44 | STEADY                | This horse stays calm when spooked. Deduct -1 from the D6 roll when this horse is spooked.                                                                                                                                                |
+| 45-46 | FAST                  | This horse was meant to ride the plains. The rider can push ANIMAL HANDLIN' twice when galloping, at the normal cost for both pushes.                                                                                                     |
+| 51-52 | GOOD LEARNER          | This horse is easy to train. Grants +1 to its Cunning.                                                                                                                                                                                    |
+| 53-54 | HOT HORSE             | This horse just loves to run. Gain a +1 bonus to ANIMAL HANDLIN' when galloping.                                                                                                                                                          |
+| 55-56 | ROCK SOLID            | This horse cannot be spooked.                                                                                                                                                                                                             |
+| 61-62 | EASY TO RIDE          | Gain a +1 bonus to ANIMAL HANDLIN' when riding this horse.                                                                                                                                                                                |
+| 63    | **PAINTED COAT**      | Striking colors and patterns. Gain a +1 bonus to ANIMAL HANDLIN' for Native American characters.                                                                                                                                          |
+| 64    | **STUNNING STEED**    | This horse is the perfect example of its breed. Its value is 50% greater than that listed for the breed.                                                                                                                                  |
+| 65    | GRACEFUL              | The horse is beautiful and full of grace, and is worth double the normal price.                                                                                                                                                           |
+| 66    | **THE PERFECT HORSE** | This horse loses any flaws it may have and cannot gain a flaw. It is the "perfect" horse.                                                                                                                                                 |
+
 ##### Flaws
 
-| D66 | Flaw | Impact |
-| --- | --- | --- |
-| 11-14 | Nothing | No flaw. |
-| 15-16 | UNRULY | This horse has an unruly nature and can be troublesome. The scale of any Trouble that relates to this horse is increased by 1, to a maximum of 4. |
-| 21-22 | LIVELY DISPOSITION | Excitable and lively, this horse has a mind of its own. Suffer a -1 penalty to ANIMAL HANDLIN' when breaking or training this horse. |
-| 23-24 | CLUMSY | This horse is less agile than most and has -1 to its Quick. |
-| 25-26 | EASILY BLOWN | This horse has no stamina. When in a chase this horse suffers a -2 penalty to its RESILIENCE roll when testing for exhaustion. |
-| 31-32 | HIGH SPIRITED | Flighty and energetic. The horse's RESILIENCE is reduced by 1. |
-| 33-34 | STUBBORN | This horse is hard to train, either due to dim wits or a stubborn refusal to cooperate. Its Cunning is reduced by 1. |
-| 35-36 | TEMPERAMENTAL | This horse gets frustrated and difficult when things go against it. Suffer a -1 penalty to ANIMAL HANDLIN' when the horse has suffered any Shakes or Hurts. |
-| 41-42 | LAZY | This horse just can't be bothered. Ignore the first success rolled when making an ANIMAL HANDLIN' roll related to this horse. |
-| 43-44 | NO FIGHTIN' SPIRIT | This horse shies away from trouble and doesn't want to get involved. It suffers a -1 penalty to its FIGHTIN'. |
-| 45-46 | WEAK | The horse's Grit is reduced by 1. |
-| 51-52 | AGGRESSIVE | The horse will kick or bite when approached, at the GM's discretion, unless calmed with an ANIMAL HANDLIN' roll. |
-| 53-54 | NERVOUS | The horse has a nervous disposition and jumps at any surprise. Add +1 to the D6 roll when this horse is spooked. |
-| 55-56 | HARD RIDING | It's a tough horse to handle. Suffer a -1 penalty to ANIMAL HANDLIN' when riding this horse. |
-| 61-62 | BRONCO | When spooked the horse automatically bucks (number 6 on the Spooked Horse Table). |
-| 63 | UGLY | This horse looks so bad in one way or another that its value is reduced by 50%. |
-| 64 | DOCILE | This horse will never kick or bite, no matter the provocation. |
-| 65 | INFERTILE | The horse cannot be used for breeding. |
-| 66 | **THE WORST HORSE** | Roll twice again for flaws, ignoring a score of 11-14. These new flaws are Permanent flaws. |
+| D66   | Flaw                | Impact                                                                                                                                                      |
+| ----- | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 11-14 | Nothing             | No flaw.                                                                                                                                                    |
+| 15-16 | UNRULY              | This horse has an unruly nature and can be troublesome. The scale of any Trouble that relates to this horse is increased by 1, to a maximum of 4.           |
+| 21-22 | LIVELY DISPOSITION  | Excitable and lively, this horse has a mind of its own. Suffer a -1 penalty to ANIMAL HANDLIN' when breaking or training this horse.                        |
+| 23-24 | CLUMSY              | This horse is less agile than most and has -1 to its Quick.                                                                                                 |
+| 25-26 | EASILY BLOWN        | This horse has no stamina. When in a chase this horse suffers a -2 penalty to its RESILIENCE roll when testing for exhaustion.                              |
+| 31-32 | HIGH SPIRITED       | Flighty and energetic. The horse's RESILIENCE is reduced by 1.                                                                                              |
+| 33-34 | STUBBORN            | This horse is hard to train, either due to dim wits or a stubborn refusal to cooperate. Its Cunning is reduced by 1.                                        |
+| 35-36 | TEMPERAMENTAL       | This horse gets frustrated and difficult when things go against it. Suffer a -1 penalty to ANIMAL HANDLIN' when the horse has suffered any Shakes or Hurts. |
+| 41-42 | LAZY                | This horse just can't be bothered. Ignore the first success rolled when making an ANIMAL HANDLIN' roll related to this horse.                               |
+| 43-44 | NO FIGHTIN' SPIRIT  | This horse shies away from trouble and doesn't want to get involved. It suffers a -1 penalty to its FIGHTIN'.                                               |
+| 45-46 | WEAK                | The horse's Grit is reduced by 1.                                                                                                                           |
+| 51-52 | AGGRESSIVE          | The horse will kick or bite when approached, at the GM's discretion, unless calmed with an ANIMAL HANDLIN' roll.                                            |
+| 53-54 | NERVOUS             | The horse has a nervous disposition and jumps at any surprise. Add +1 to the D6 roll when this horse is spooked.                                            |
+| 55-56 | HARD RIDING         | It's a tough horse to handle. Suffer a -1 penalty to ANIMAL HANDLIN' when riding this horse.                                                                |
+| 61-62 | BRONCO              | When spooked the horse automatically bucks (number 6 on the Spooked Horse Table).                                                                           |
+| 63    | UGLY                | This horse looks so bad in one way or another that its value is reduced by 50%.                                                                             |
+| 64    | DOCILE              | This horse will never kick or bite, no matter the provocation.                                                                                              |
+| 65    | INFERTILE           | The horse cannot be used for breeding.                                                                                                                      |
+| 66    | **THE WORST HORSE** | Roll twice again for flaws, ignoring a score of 11-14. These new flaws are Permanent flaws.                                                                 |
+
 NB: Qualities and flaws marked with **...** are permanent and cannot be trained or removed.
 
 #### Riding your Horse
@@ -1007,13 +1015,14 @@ Not all horses want to be ridden, and this is reflected in their Wildness. Wildn
 >
 > _The rodeo horse should have a Wildness score of 3, which gives a −3 penalty to ANIMAL HANDLIN’ and means that it gets Spooked every Round. The objective is for the rider to remain in the saddle for as many Rounds as possible, by succeeding with an ANIMAL HANDLIN’ roll once per Round. Start each Round by rolling on the Spooked Horse Table to see how spooked the horse is. Resolve the effects of that result—including any additional ANIMAL HANDLIN’ rolls as required—before the rider rolls to see if they stay in the saddle. If at any point the ability roll is failed the rider has been unseated and suffers the effects of a fall from a horse (page 84). The winner is the rider who stays aboard the bucking bronco the longest._
 
-| Wildness | ANIMAL HANDLIN' penalty | The horse's behavior |
-| --- | --- | --- |
-| 0 | None | A bridle horse—fully broken and comfortable with a rider. |
-| 1 | −1 | A two-rein horse—uncomfortable with a rider but can be ridden. |
-| 2 | −2 | A hackamore—very uncomfortable with a rider, but can be ridden. An ANIMAL HANDLIN' roll, as a fast action, is required each Round to keep it calm. |
-| 3 | −3 | A snaffle bit horse—automatically spooked by having a rider. Roll on the Spooked Horse Table every Round. |
-| 4 | −3 | A bronco—a horse of this level of wildness will buck every Round a rider is seated upon it, in an attempt to throw the rider. Counts as a result of 6 on the Spooked Horse Table. |
+| Wildness | ANIMAL HANDLIN' penalty | The horse's behavior                                                                                                                                                              |
+| -------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0        | None                    | A bridle horse—fully broken and comfortable with a rider.                                                                                                                         |
+| 1        | −1                      | A two-rein horse—uncomfortable with a rider but can be ridden.                                                                                                                    |
+| 2        | −2                      | A hackamore—very uncomfortable with a rider, but can be ridden. An ANIMAL HANDLIN' roll, as a fast action, is required each Round to keep it calm.                                |
+| 3        | −3                      | A snaffle bit horse—automatically spooked by having a rider. Roll on the Spooked Horse Table every Round.                                                                         |
+| 4        | −3                      | A bronco—a horse of this level of wildness will buck every Round a rider is seated upon it, in an attempt to throw the rider. Counts as a result of 6 on the Spooked Horse Table. |
+
 #### Training your Horse
 
 Wild horses can be caught and broken, and any horse can be trained, although a character must have the **bronc buster** talent to break and train horses. Catching a wild horse counts as a chase (page 129).
@@ -1054,11 +1063,11 @@ A chase follows these stages:
 **Chases on Foot and Horseback** : Sometimes a chase involves participants who are not all on foot, all on horseback or all using a wagon or cart. In these situations the pursuer gains a modification to their dice pool, as noted in the table below.
 
 | Quarry \\ Pursuer | On foot | On horseback | Wagon or cart | Stagecoach |
-| --- | --- | --- | --- | --- |
-| On Foot | 0 | −3 | −1 | −2 |
-| On Horseback | +3 | 0 | +2 | +1 |
-| Wagon or Cart | +1 | −2 | 0 | −1 |
-| Stagecoach | +2 | −1 | +1 | 0 |
+| ----------------- | ------- | ------------ | ------------- | ---------- |
+| On Foot           | 0       | −3           | −1            | −2         |
+| On Horseback      | +3      | 0            | +2            | +1         |
+| Wagon or Cart     | +1      | −2           | 0             | −1         |
+| Stagecoach        | +2      | −1           | +1            | 0          |
 
 **Driving Hard** : During a chase you exert yourself to escape your pursuers or catch your quarry. However, you can drive yourself or your horse even harder by declaring you are “driving hard”. You must declare this at the start of the Round. You gain a +2 bonus to your MOVE or ANIMAL HANDLIN’ roll for that Round. This bonus stacks with any other modifiers you may have.
 
@@ -1076,13 +1085,13 @@ Picking up your quarry’s trail requires a HAWKEYE roll. This can be managed as
 
 If the HAWKEYE test succeeds you have picked up the trail and can follow it. Additional successes beyond the first allow you to move faster and close the gap between you and your quarry, or learn more information about who you are tracking (for example, the rough number in the party, are they mounted or on foot, or other relevant information as decided by the GM).
 
-| Conditions Dice modifier Penalty dice equal to the number of successes on the The quarry is actively hiding their tracks quarry’s NATURE roll −1 to −2 The quarry is just one or two people The test is made at night −2 −1 to −3 The trail is old |  |
-| --- | --- |
-| The weather is terrible for tracking (blizzard, heavy rain, strong winds, etc) | −1 to −3 |
-| The environment is terrible for tracking (many rivers or brooks, dense undergrowth, rocky ground, etc) | −1 to −3 |
-| The quarry is a large group, with horses and/or wagons | +1 to +3 |
-| The environment is great for tracking (dusty or sandy ground, damp ground, grassy plains, etc) | +1 to +3 |
-| The weather is good for tracking (pristine snow, dry dusty ground, etc) | +1 to +3 |
+| Conditions Dice modifier Penalty dice equal to the number of successes on the The quarry is actively hiding their tracks quarry’s NATURE roll −1 to −2 The quarry is just one or two people The test is made at night −2 −1 to −3 The trail is old |          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| The weather is terrible for tracking (blizzard, heavy rain, strong winds, etc)                                                                                                                                                                     | −1 to −3 |
+| The environment is terrible for tracking (many rivers or brooks, dense undergrowth, rocky ground, etc)                                                                                                                                             | −1 to −3 |
+| The quarry is a large group, with horses and/or wagons                                                                                                                                                                                             | +1 to +3 |
+| The environment is great for tracking (dusty or sandy ground, damp ground, grassy plains, etc)                                                                                                                                                     | +1 to +3 |
+| The weather is good for tracking (pristine snow, dry dusty ground, etc)                                                                                                                                                                            | +1 to +3 |
 
 If you fail the HAWKEYE test you can still head in the direction you suspect your quarry may have taken, and make another HAWKEYE roll after a Shift has passed. This test, however, suffers an additional -1 penalty. If this is failed you may try again after another Shift, but now with a −2 penalty. You can try this for a third time, with a −3 penalty, but if this third attempt fails you have no way of picking up the trail. Give up.
 
@@ -1133,27 +1142,27 @@ If the NATURE roll to make camp fails, anyone relying on the camp for a decent n
 ##### Traveling Table
 
 | Method of travel | Road or trail | Easy terrain | Hard terrain |
-| --- | --- | --- | --- |
-| On foot | 10 miles | 8 miles | 5 miles |
-| On horseback | 15 miles | 12 miles | 5 miles |
-| Cart or Wagon | 10 miles | 6 miles | 1 mile |
-| Stagecoach | 20 miles | 6 miles | 1 mile |
+| ---------------- | ------------- | ------------ | ------------ |
+| On foot          | 10 miles      | 8 miles      | 5 miles      |
+| On horseback     | 15 miles      | 12 miles     | 5 miles      |
+| Cart or Wagon    | 10 miles      | 6 miles      | 1 mile       |
+| Stagecoach       | 20 miles      | 6 miles      | 1 mile       |
 
-| Animal | Grit | Quick | Cunning | FIGHTIN' (Grit) | MOVE (Quick) | HAWKEYE (Cunning) | Attacks |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Bear—Black | 5 | 3 | 3 | 3 | 3 | 1 | Bite: Damage 2, Crit 1; Swipe: Damage 3, Crit 2; Toughness: 1 |
-| Bear—Grizzly | 8 | 5 | 3 | 4 | 4 | 1 | Bite: Damage 3, Crit 1; Swipe: Damage 4, Crit 1; Toughness: 2 |
-| Bison (Buffalo) | 7 | 5 | 2 | 1 | 2 | 2 | Trample: Damage 3, Crit 2; Gore: Damage 2, Crit 1; Toughness: 4 |
-| Dog—Guard | 4 | 3 | 2 | 3 | 2 | 3 | Bite: Damage 2, Crit 2 (+1 FIGHTIN' if Grappling) |
-| Dog—Tracker | 2 | 4 | 3 | 0 | 2 | 5 | Bite: Damage 1, Crit 2 |
-| Dog—Coyote | 2 | 3 | 2 | 1 | 2 | 2 | Bite: Damage 2, Crit 2 |
-| Mountain Lion | 3 | 5 | 3 | 3 | 3 | 3 | Leap: Surprise Attack, Damage 2, Crit 1, cannot be Blocked; Bite: Damage 2, Crit 1 |
-| Wolf—Gray | 3 | 4 | 4 | 3 | 4 | 4 | Bite: Damage 2, Crit 1 (+1 to FIGHTIN' when Grappling); Pack: Damage 4, Crit 1, +3 bonus to attack rolls |
-| Scorpion—Arizona Bark | 1 | - | - | 2 | - | - | Sting: Damage 1, Crit NA, Venom: Lethal 1 |
-| Snake—Water Moccasin | 2 | 2 | 3 | 3 | 2 | 2 | Bite: Damage 1, Crit 4, Venom: Lethal 3 |
-| Snake—Western Diamondback Rattlesnake | 2 | 2 | 3 | 3 | 2 | 2 | Bite: Damage 1, Crit 4, Venom: Lethal 2 |
-| Spider—Black Widow | 1 | - | - | 2 | - | - | Bite: Damage 1, Crit NA, Venom: Lethal 2 |
-| Spider—Brown Recluse | 1 | - | - | 2 | - | - | Bite: Damage 1, Crit NA, Venom: Lethal 2 |
+| Animal                                | Grit | Quick | Cunning | FIGHTIN' (Grit) | MOVE (Quick) | HAWKEYE (Cunning) | Attacks                                                                                                  |
+| ------------------------------------- | ---- | ----- | ------- | --------------- | ------------ | ----------------- | -------------------------------------------------------------------------------------------------------- |
+| Bear—Black                            | 5    | 3     | 3       | 3               | 3            | 1                 | Bite: Damage 2, Crit 1; Swipe: Damage 3, Crit 2; Toughness: 1                                            |
+| Bear—Grizzly                          | 8    | 5     | 3       | 4               | 4            | 1                 | Bite: Damage 3, Crit 1; Swipe: Damage 4, Crit 1; Toughness: 2                                            |
+| Bison (Buffalo)                       | 7    | 5     | 2       | 1               | 2            | 2                 | Trample: Damage 3, Crit 2; Gore: Damage 2, Crit 1; Toughness: 4                                          |
+| Dog—Guard                             | 4    | 3     | 2       | 3               | 2            | 3                 | Bite: Damage 2, Crit 2 (+1 FIGHTIN' if Grappling)                                                        |
+| Dog—Tracker                           | 2    | 4     | 3       | 0               | 2            | 5                 | Bite: Damage 1, Crit 2                                                                                   |
+| Dog—Coyote                            | 2    | 3     | 2       | 1               | 2            | 2                 | Bite: Damage 2, Crit 2                                                                                   |
+| Mountain Lion                         | 3    | 5     | 3       | 3               | 3            | 3                 | Leap: Surprise Attack, Damage 2, Crit 1, cannot be Blocked; Bite: Damage 2, Crit 1                       |
+| Wolf—Gray                             | 3    | 4     | 4       | 3               | 4            | 4                 | Bite: Damage 2, Crit 1 (+1 to FIGHTIN' when Grappling); Pack: Damage 4, Crit 1, +3 bonus to attack rolls |
+| Scorpion—Arizona Bark                 | 1    | -     | -       | 2               | -            | -                 | Sting: Damage 1, Crit NA, Venom: Lethal 1                                                                |
+| Snake—Water Moccasin                  | 2    | 2     | 3       | 3               | 2            | 2                 | Bite: Damage 1, Crit 4, Venom: Lethal 3                                                                  |
+| Snake—Western Diamondback Rattlesnake | 2    | 2     | 3       | 3               | 2            | 2                 | Bite: Damage 1, Crit 4, Venom: Lethal 2                                                                  |
+| Spider—Black Widow                    | 1    | -     | -       | 2               | -            | -                 | Bite: Damage 1, Crit NA, Venom: Lethal 2                                                                 |
+| Spider—Brown Recluse                  | 1    | -     | -       | 2               | -            | -                 | Bite: Damage 1, Crit NA, Venom: Lethal 2                                                                 |
 
 **Black Bear** : Black bears range in size from 150 lbs up to 500 lbs or more, but this is still smaller than their grizzly cousins. They can be found all over the West but favor forests and mountains. Generally non-aggressive, black bears try to avoid contact with people but attack if they feel that they or their cubs are threatened.
 
