@@ -32,7 +32,14 @@ Three separate units of time are used in _Tales of the Old West_: the Round, the
 
 #### Range Table
 
-Range Description Right next to you—any hand-to-hand fighting with fists or clubs, knives, toma- Arm’s Length hawks and so on, happens at this range Within a few meters—weapons can be thrown at this range, and firearms can be Near pretty brutal this close in Up to 25 meters away—gunfights at this range can be deadly, and you can’t lasso a Short steer or horse beyond this range Up to about 50 meters away—it’s harder to hit a target with a pistol at this range, Medium and fighting here really calls for a rifle Long Up to about 150 meters away—a decent rifle is your only choice for this range Distant Over 150 meters, up to a maximum of 1000 meters, at the GM’s discretion
+| Range | Description |
+| --- | --- |
+| Arm’s Length | Right next to you—any hand-to-hand fighting with fists or clubs, knives, tomahawks and so on, happens at this range. |
+| Near | Within a few meters—weapons can be thrown at this range, and firearms can be pretty brutal this close in. |
+| Short | Up to 25 meters away—gunfights at this range can be deadly, and you can’t lasso a steer or horse beyond this range. |
+| Medium | Up to about 50 meters away—it’s harder to hit a target with a pistol at this range, and fighting here really calls for a rifle. |
+| Long | Up to about 150 meters away—a decent rifle is your only choice for this range. |
+| Distant | Over 150 meters, up to a maximum of 1000 meters, at the GM’s discretion. |
 
 #### Drawing the Initiative
 
@@ -227,7 +234,27 @@ All the actions of the duel play out within the space of one Round, and effectiv
 
 #### Conflict Modifications
 
-Factor Modification Aimed shot / All-out attack +2 Called Shot / Strike -3 Aiming / All-out attack on +1 Called Shot / Strike Quick Shot -2 Active Target at Arm’s Length -3 Inactive Target at Arm’s Length +3 Near range +1 Short range 0 Medium range -1 Long range -2 Distant range -3 Target in Partial Cover -1 Target in Good Cover -2 Called Shots Target in Heavy Cover only Large target +2 Small target -2 Dim light -1 Darkness -3 Initiated the grapple +2
+| Factor | Modification |
+| --- | --- |
+| Aimed shot / All-out attack | +2 |
+| Called Shot / Strike | -3 |
+| Aiming / All-out attack on Called Shot / Strike | +1 |
+| Quick Shot | -2 |
+| Active Target at Arm’s Length | -3 |
+| Inactive Target at Arm’s Length | +3 |
+| Near range | +1 |
+| Short range | 0 |
+| Medium range | -1 |
+| Long range | -2 |
+| Distant range | -3 |
+| Target in Partial Cover | -1 |
+| Target in Good Cover | -2 |
+| Target in Heavy Cover | Called Shot only |
+| Large target | +2 |
+| Small target | -2 |
+| Dim light | -1 |
+| Darkness | -3 |
+| Initiated the grapple | +2 |
 
 **Go for Your Guns** : The gunfighters make an opposed LIGHT-FINGERED roll to Draw their guns, with the following modifications to their dice pools:
 
@@ -304,9 +331,22 @@ In _Tales of the Old West_ , you’ll need to keep count of the number of bullet
 
 You can reload two cartridges per fast action—which means a revolver takes three actions to fully reload, a double-barreled shotgun, one action, and a rifle with a magazine capacity of 15 takes four Rounds.
 
-Sneak attack Range modifier Arm’s Length -2 Short -1 Medium 0 Long +1 Ambush +2
+| Sneak attack | Range modifier |
+| --- | --- |
+| Arm’s Length | -2 |
+| Short | -1 |
+| Medium | 0 |
+| Long | +1 |
+| Ambush setup | +2 |
 
-Barrier Cover rating Bush 1 Wicker Fence 2 Furniture 3 Wooden Door 4 Wooden Wall 5 Adobe Wall 8
+| Barrier | Cover rating |
+| --- | --- |
+| Bush | 1 |
+| Wicker Fence | 2 |
+| Furniture | 3 |
+| Wooden Door | 4 |
+| Wooden Wall | 5 |
+| Adobe Wall | 8 |
 
 #### Bows & Slingshots
 
