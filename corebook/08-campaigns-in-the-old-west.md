@@ -824,6 +824,34 @@ The Town Fortune roll determines an event relating to your town, that might add 
 
 #### Example Town Tracker
 
+### Campaign Seeds
+
+The following are concrete scenario frameworks drawn from documented historical conditions, suitable for one to three sessions each. They are not complete adventures—they are ignition points.
+
+**The False Survey.** A land agent has been filing fraudulent survey returns, claiming rich farmland as worthless desert to prevent homestead settlement and preserve a cattle baron's grazing access. A family has been driven off their legal claim by legal threats backed by guns. The party is hired to find the corrupt surveyor who can testify, gather the documentary evidence, and get both to the federal land office alive. The cattle baron has hired killers, and the local sheriff works for him.
+
+**The Forged Deed.** A prosperous Mexican ranching family is being dispossessed through a forged land grant. Their title, valid under Spanish law and supposedly guaranteed by the Treaty of Guadalupe Hidalgo, has been replaced in the county records with a forgery. The original is missing. Someone has a copy—in a dead man's saddlebag, in a San Francisco lawyer's office, in the possession of a man who is afraid to come forward. Find it before the sheriff serves the eviction papers.
+
+**The Poison Water.** A mining operation upstream has contaminated the only reliable water source for a small ranching community. The ranchers are dying—cattle first, then people. The mining company has lawyers, money, and friends in the territorial government. The party must gather evidence, find experts willing to testify, and get the case before a judge who isn't already in the company's pocket.
+
+**The Election.** A territorial election is three days away. A reform candidate, if elected, will investigate the corruption that has run the territory for a decade. The machine is using every tool available: fraud, coercion, violence. The reform campaign needs protection, needs evidence of ballot fraud gathered and preserved, and needs its candidate alive. The party may be working for either side—or trying to ensure the election is actually free, which both sides will oppose for their own reasons.
+
+**The Medicine Show Murder.** A traveling medicine show has left a dead man in the last three towns it visited. The deaths were ruled natural causes—heart failure, the doctor said—but the dead men each paid a very large sum for a private "treatment" the day before they died. The showman is charming, elusive, and always one town ahead. What is he selling, who are his real targets, and is he working alone?
+
+**The Safe Passage.** A prominent witness to a major crime—or a family fleeing a range war, or a mixed-race couple trying to reach a state where their marriage is legal, or a government surveyor carrying reports of land fraud that would embarrass powerful men—needs to travel three hundred miles across territory where they will be killed if found. The party is hired to get them there. Pursuit is inevitable. The terrain is not cooperative.
+
+**The Burned-Out Homestead.** The party arrives at a farm to find it burned, the family missing. The tracks lead in three different directions and the story that the nearest town tells doesn't add up. Was it raiders? The land company? A personal feud? One of the missing family members is still alive somewhere nearby, and someone in town knows more than they're saying.
+
+**The Reporter's Story.** A young correspondent for an Eastern newspaper has ridden into the territory to report on conditions. She has found a story bigger than she expected—evidence of systematic fraud in federal Indian agency contracts that implicates men in Washington. She sent one wire before disappearing. The party has to find her, find what she found, and decide whether getting that story published will save lives or start a war.
+
+**The Counterfeiter.** High-quality counterfeit banknotes—better than most people have ever seen—are circulating across three counties. The plates must have been made by a genuine engraver, possibly a former US Mint employee. The Secret Service, established in 1865 specifically to combat counterfeiting, has sent one agent who has been in town for two weeks and is running out of leads. He needs help from people who know the territory and the people in it. Not everyone he suspects is guilty. Some of the guilty ones are protected.
+
+**The Circuit Court.** A travelling federal judge arrives in town to hold court for a week. The docket includes a dozen cases—civil claims, criminal charges, a disputed will, a murder. Half the cases involve powerful local interests; the judge's clerk has already been bribed once. The defendants and plaintiffs all want the party's help in different ways. Some are guilty; some are innocent; most are both, depending on which charge you're looking at. The judge is honest but mortal, and there are men who do not want him to reach the next town.
+
+**The Telegraph Sabotage.** The telegraph line connecting this part of the territory to the outside world has been cut and the operator attacked—the morning before a large payroll shipment was due to pass through. Someone didn't want word to get out in either direction. Who cut the wire, what do they want, and what else is moving on the road today that the party should know about?
+
+**The Quarantine.** A herd of cattle has been flagged as infected with Texas Fever—the tick-borne disease that could devastate local herds if it spread. The cattle must be destroyed or contained for weeks. The owner is a man who has borrowed everything to buy this herd and will be ruined if it's destroyed. He believes the quarantine is fraudulent—a competitor's trick to remove him from the market. Is he right? Is the fever real? A town's beef supply and a man's livelihood are both on the line, and someone is lying.
+
 ### Campaign Tales
 
 There are many tales to be told in the Old West. These campaign tales are intended to provide ideas and inspiration for GMs, either to create new campaigns, roll these tales into your existing campaign, or as one-off adventures. As such, feel free to take these tales and modify them to fit your own game.
