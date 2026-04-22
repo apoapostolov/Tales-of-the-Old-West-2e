@@ -411,7 +411,7 @@ To understand the world, its warnings and its bounty, to grow a crop, or find so
 - You may give one success to another player character in the same trouble as you.
 - You gain a +1 bonus to a later ability roll relating to this one.
 
-HAWKEYE when they try to track you. You can choose this stunt multiple times if you roll several extra successes.
+- You cover your tracks, imposing a −1 penalty to any HAWKEYE roll when they try to track you. You can choose this stunt multiple times if you roll several extra successes.
 
 - You impress someone.
 
@@ -435,8 +435,6 @@ To dig out a bullet without causing further injury, seal a wound against infecti
 
 **Recovery** : A person who has suffered so much damage to Quick or Grit that the attribute has been reduced to zero is Broken, and cannot act any further. If you apply your DOCTORIN’ ability to them and your roll succeeds, they get back on their feet and immediately recover a number of attribute points equal to the number of successes you roll.
 
-- You give an opponent a −1 penalty to their
-
 **Save a Life** : The most important application of DOCTORIN’ is giving first aid to save the life of someone who has suffered a critical injury. A failed roll at this point could mean the end for your patient, so be careful!
 
 Read more about damage in Chapter 5.
@@ -457,6 +455,12 @@ To understand forces and materials enough to construct a bridge, build a house, 
 - You do it quietly.
 - You show off.
 
+#### Performin’ (Docity)
+
+To convince another person to see things your way, reveal to them an emotional truth, capture their heart with song, hide your intentions, lie, or just convince them you are honorable, roll PERFORMIN’. Your chances are affected by your negotiating position (page 77).
+
+**Failure** : Your performance is transparent and clumsy. Your target is not won over—they won’t listen and won’t agree. They will persuade others that you are mistaken at best, or a charlatan at worst.
+
 **Success** : If you succeed, you persuade them. Or, if they choose to resist your persuasion, they take damage to Docity (Doubts) or Cunning (Vexes) equal to the number of successes you beat them by. Even if your target chooses to do what you want, they can still demand something in return, although they do not have to. The GM decides what that entails, but it must be reasonable enough for you to be able to meet those demands.
 
 **Stunts** : For each extra success rolled beyond the first, choose one stunt applicable to the situation. Suggestions include:
@@ -466,9 +470,3 @@ To understand forces and materials enough to construct a bridge, build a house, 
 - Your opponent is impressed by you and will try to help you later on in some way. Details are up to the GM.
 
 **Being persuaded** : NPCs and other player characters can persuade you, using the rules for social conflict (page 76). If their roll succeeds, you must either agree to what’s being proposed, offer a deal of some kind, or take damage to Docity (Doubts) or Cunning (Vexes) equal to the number of successes they beat you by. Then it is up to the GM (or the other player) whether your adversary accepts your offer or not, or whether the social conflict continues and another roll is required.
-
-#### Performin’ (Docity)
-
-To convince another person to see things your way, reveal to them an emotional truth, capture their heart with song, hide your intentions, lie, or just convince them you are honorable, roll PERFORMIN’. Your chances are affected by your negotiating position (page 77).
-
-**Failure** : Your performance is transparent and clumsy. Your target is not won over—they won’t listen and won’t agree. They will persuade others that you are mistaken at best, or a charlatan at worst.
