@@ -1,8 +1,8 @@
 ## Chapter 2 - Your Player Character
 
-> _“IT’S NEVER TOO LATE TO BECOME WHO YOU WANT TO BE. I HOPE YOU LIVE A LIFE THAT YOU’RE PROUD OF, AND IF YOU FIND THAT YOU’RE NOT, I HOPE YOU HAVE THE STRENGTH TO START OVER.”_
+> _“YOU MUST PAY FOR EVERYTHING IN THIS WORLD ONE WAY AND ANOTHER. THERE IS NOTHING FREE EXCEPT THE GRACE OF GOD.”_
 >
-> — F. SCOTT FITZGERALD
+> — MATTIE ROSS, *TRUE GRIT*, CHARLES PORTIS
 
 Player characters in _Tales of the Old West_ are defined by their attributes, which represent physical and mental qualities, their abilities, which represent general skills, and their talents, which represent the specialized skills that make them unique. They are also defined by their Faith, their Big Dream, and their relationships.
 
@@ -404,7 +404,7 @@ Choose between one and three of these talents, depending on your age:
 
 **Big Dream** - choose from one of the options below or decide for yourself:
 
-- You want to play poker with Bat Masterton and win.
+- You want to play poker with Bat Masterson and win.
 - Cooper revolver and D6 rounds.
 - Lockpicking set.
 - Bottle of good whiskey.
@@ -504,16 +504,13 @@ Choose between one and three of these talents, depending on your age:
 **Big Dream** - choose from one of the options below or decide for yourself:
 
 - You want nothing more than a few acres of land, a family, and a life of peace.
-- You will not rest until every lawbreaker has
-  - been driven from your town.
+- You will not rest until every lawbreaker has been driven from your town.
 - You came west to escape the law back east, so it’s ironic that all you want is to enforce the law here.
 
 **Faith** - choose from the following or come up with a core belief for your character:
 
-- As a Quaker I am uplifted by my Society of
-  - Friends.
-- The wide open plain and the river give me
-  - everything I need.
+- As a Quaker I am uplifted by my Society of Friends.
+- The wide open plain and the river give me everything I need.
 - I live by the avenging hand of St Michael, and the iron of my gun.
 
 **Gear** - choose two of the starting items below. You also get 2D6 × $10 in cash:
@@ -618,8 +615,7 @@ Choose between one and three of these talents, depending on your age:
 **Big Dream** - choose from one of the options below or decide for yourself:
 
 - Brought up in the saddle, you aim to prove a woman is just as capable as any man, if not more.
-- For generations your people have lived and worked this land—you must protect it from
-  - the settlers and pass it on to future generations.
+- For generations your people have lived and worked this land—you must protect it from the settlers and pass it on to future generations.
 - Your dreams are only as big as the next town, where you aim to get drunk, win at cards, and make love.
 
 **Faith** - choose from the following or come up with a core belief for your character:
@@ -650,7 +646,7 @@ Choose between one and three of these talents, depending on your age:
 
 - **LIGHT-FOOTED** . You walk like the spirits, and leave no trail behind you. You gain +1 bonus to your NATURE roll when you’re trying to avoid someone tracking you.
 - **MOUNTAIN FOLK** . You have lived your life in the mountains. Gain a +1 bonus to NATURE and RESILIENCE tests when in the wilderness.
-- **BOW MASTER** . The bow is the weapon of a true man from a more civilized culture. You can use a bow up to Long range with no penalties.
+- **BOW MASTER** . Most men have forgotten the bow. You have not. You can use a bow up to Long range with no penalties.
 - **TRACKER** . You know how to move, track and hunt. You are an expert tracker and get a +1 bonus when tracking in the wilderness.
 
 **Big Dream** - choose from one of the options below or decide for yourself:

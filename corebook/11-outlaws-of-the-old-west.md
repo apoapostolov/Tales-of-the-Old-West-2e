@@ -101,6 +101,51 @@ The GM may increase or reduce Cohesion directly when events plainly justify it.
 
 Cohesion should not swing every session. Save changes for moments that really tell on the gang.
 
+### Band Resources
+
+An outlaw band tracks three resources beyond cash and Cohesion. They are not ledger entries. They are pressure gauges that tell the GM and the players how much room the gang still has to move.
+
+#### Refuge
+
+`Refuge` measures how the gang stands with a single important settlement, camp, trading post, ranch, or hidden community. Track it only for places that actually matter to the gang's survival.
+
+| Refuge | Meaning |
+| --- | --- |
+| `+2` | The place will hide you, feed you quietly, pass messages, and lie to the law if pressed. |
+| `+1` | The place deals with you, but wants discretion and quick business. |
+| `0` | No special help. You are just another party of riders. |
+| `-1` | The place is wary, talks to strangers, and may refuse service. |
+| `-2` | The place will warn the law, deny shelter, or sell you out. |
+
+Refuge starts at 0 for any settlement the gang has not yet dealt with. Raise it by spending money, doing favors, or making yourself useful. Lose it by leaving a mess behind, killing someone local, cheating a merchant, or making the town look dangerous to outsiders. A town's `Law`, `Civic`, and `Mercantile` aspects all bear on what Refuge can do for the gang and what costs them.
+
+#### Fence Access
+
+`Fence Access` measures whether the gang can turn stolen goods into clean money.
+
+| Fence Access | Meaning |
+| --- | --- |
+| `0` | No fence. Hot loot sits in camp or must be sold openly at heavy risk. |
+| `1` | A petty fence. Can move jewelry, guns, whiskey, and small goods at a fair discount. |
+| `2` | A serious fence. Can move cattle, horses, payroll paper, and larger goods through a network. |
+
+A fence is usually a notable gang member, a corrupt merchant, a Nuevo Mexicano trader, or a settlement contact reached through Refuge. Losing a fence—through arrest, betrayal, or the law's attention—drops Fence Access immediately. Building a new one takes time, goodwill, and often money.
+
+#### Horseflesh
+
+`Horseflesh` measures the state of the gang's riding animals as a band resource.
+
+| Horseflesh | Meaning |
+| --- | --- |
+| `3` | Fresh remounts, sound tack, and horses fit for hard flight or hard pursuit. |
+| `2` | Serviceable. The gang can ride, but cannot outrun professionals for long. |
+| `1` | Tired, lame, hungry, poorly shod, or too few mounts for the gang's size. |
+| `0` | The gang cannot move fast or far. Flight is a stumble. |
+
+Horseflesh drops after hard flight from a posse, a bad winter at the hideout, drought, poor grazing, or stolen mounts lost in a score gone wrong. Restore it by taking the `Buy Through Fences` hideout activity, rustling a fresh remuda, or dealing with a competent wrangler.
+
+When Horseflesh is 0 or 1, any well-mounted pursuer gains an advantage overtaking the gang.
+
 > *Jeb Collier had held men together on less than this, but not much less. Two boys were dead, the Wells Fargo box had turned out to be mostly vouchers and papers, and Luther Vale was pacing the firelight with his hand never far from the butt of his Remington. Jeb stood up when the talk began to turn. He did not shout. He named the dead boys, said what they had earned, and counted twenty-dollar pieces into their brothers' hands where everyone could see it. The camp stayed ugly but it stayed a camp. That was enough for one night.*
 
 ### Recruitment, Notable Members, and Loyalty
@@ -196,6 +241,18 @@ There is no single honest way to split stolen money. Every gang does it differen
 This split should be agreed before the job. If the player characters change it afterward in their own favor, test Gang Cohesion.
 
 Stolen stock, jewelry, bonds, silverware, church plate, or railroad goods are not cash until fenced. Until then they are trouble wrapped in canvas.
+
+#### Loot Categories
+
+Not all take converts to cash the same way. Three categories cover most of what outlaws steal:
+
+| Category | Examples | How It Converts |
+| --- | --- | --- |
+| `Clean Cash` | Coin, notes, payroll money pulled directly from a box | Spendable at once. No fence required. |
+| `Hot Goods` | Jewelry, guns, whiskey, watches, express packages, negotiable bonds | Requires `Fence Access 1` or better to move at reasonable value. Without a fence, sells at a fraction of value or raises Exposure. |
+| `Hot Stock` | Cattle, horses, mules | Requires `Fence Access 2` or special local conditions—an altered brand, a trusted drover, a territory where no one is asking. The longer it sits, the more it talks. |
+
+Most scores will produce a mix. A bank vault yields Clean Cash. A stage hold-up is mostly Hot Goods with some cash if the passengers have coin. A cattle raid is entirely Hot Stock. The gang that steals cattle has a resource and a problem in the same animal.
 
 #### Gang Expenses
 
@@ -326,6 +383,20 @@ Wanted status can fall if:
 
 Wanted status does not replace `Fame` and `Reputation`. It sharpens them. When the gang's crimes become widely known, the GM may award Fame as normal. Just remember that Fame earned this way is dangerous Fame. It may make rough folk respect you, but it will also sour Reputation among decent townsfolk, raise the cost of doing business, and make every stranger's stare worth noticing.
 
+#### Who Is Chasing You
+
+Different pursuers work in different ways. A county sheriff and a railroad detective are both trouble, but they are not the same trouble.
+
+| Pursuer | How They Pressure the Gang |
+| --- | --- |
+| Sheriff and Posse | Quick local response. Neighbors and townsmen. Short pursuit that fades after two hard days in rough country if no blood was spilled. |
+| Ranch Outfit or Range Detectives | Know the stock, the brands, and the trails. Best at tracing stolen animals and tracking across cattle country. May work quietly before acting. |
+| Railroad or Express Detectives | Company money and station networks. They travel ahead by telegraph. Stay interested long after a county sheriff has moved on. |
+| Federal Marshals | Warrants, persistence, cross-jurisdiction authority. Slower to arrive but harder to lose. A federal warrant does not stop at the county line. |
+| Rival Gang | No interest in due process. Will take horses, fence access, hideout location, and heads if the price is right. Can also be bought or bargained with. |
+
+Each pursuer class has different tactics. A ranch outfit confiscates horses and shuts down the local fence. A railroad detective buys informants and watches the wire. A federal marshal crosses county lines. The gang that knows who is chasing them can make better choices about what to give up and where to run.
+
 #### Escalation
 
 | D6 | Who Comes Next? |
@@ -434,10 +505,10 @@ A false-preacher outfit using revivals, donations, medicine shows, and dry-gulch
 
 ### A Season of Outlaw Life
 
-The Harper gang consists of two player characters, four ordinary hands, and one notable member called Mexican Joe, who acts as scout and horse wrangler. That makes them a `Hideout Crew`. Their Cohesion is 3 and they have a concealed hideout in the bad hills north of town from the old Outlaws Group Concept.
+The Harper gang consists of two player characters, four ordinary hands, and one notable member called Mexican Joe, who acts as scout and horse wrangler. That makes them a `Hideout Crew`. Their Cohesion is 3, Horseflesh is 2, and Fence Access is 1—Mexican Joe also rides as the gang's connection to a crooked trader in a river town. Refuge with that town is +1. They have a concealed hideout in the bad hills north of town from the old Outlaws Group Concept.
 
-In spring they rob a stage carrying courthouse fees. The score is messy but profitable. They pay fair, buy feed, and take their cash to a fence in a river town. Cohesion rises to 4. At the `Turn of the Season` they choose `Scout a Target`, spending much of the next three months learning the habits of a railroad payroll clerk.
+In spring they rob a stage carrying courthouse fees. The score yields Hot Goods—jewelry and a locked dispatch box—and some Clean Cash from the passengers. They pay fair, move the Hot Goods through their fence, and buy fresh horses. Cohesion rises to 4, Horseflesh to 3. At the `Turn of the Season` they choose `Scout a Target`, spending much of the next three months learning the habits of a railroad payroll clerk.
 
-In summer the payroll score goes wrong. One ordinary hand is captured, two horses are shot out from under the gang, and the take is poor. The leader decides to leave the captured man, fearing a marshal trap. That choice calls for a Cohesion test. The leader fails. Cohesion drops to 3 and the GM rolls Gang Trouble: a notable member feels cheated and their Loyalty falls by 1.
+In summer the payroll score goes wrong. One ordinary hand is captured, two horses are shot out from under the gang, and the take is poor—a payroll box that turns out to be mostly vouchers, which is Hot Goods they cannot easily move. Horseflesh drops to 1. The leader decides to leave the captured man, fearing a marshal trap. That choice calls for a Cohesion test. The leader fails. Cohesion drops to 3 and the GM rolls Gang Trouble: a notable member feels cheated and their Loyalty falls by 1.
 
 Come fall, the gang can ride for easier country, try to rescue the captured hand before he talks, or strike one rich score to settle the camp and buy a winter's peace. That is outlaw play in *Tales of the Old West*: profit, pressure, memory, and no safe road for very long.

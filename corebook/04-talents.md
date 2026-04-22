@@ -20,7 +20,7 @@ Riding comes as naturally to you as breathing does to everyone else.
 
 ### Bow Master
 
-The bow is the weapon of a true man from a more civilized culture.
+The bow is a weapon of patience and silence. Most men who carry iron have never had to learn it.
 
 **Basic** : You can use a bow up to Long range with no penalties.
 
