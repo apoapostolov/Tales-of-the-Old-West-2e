@@ -497,12 +497,12 @@ The prices in this chapter assume a decent ordinary market: a settlement with mi
 
 Before the GM decides a price for something uncommon, first judge how easy it is to obtain in the current settlement:
 
-| Availability | Meaning |
-| ------------ | ------- |
-| `Common` | Everyday goods and services. If the settlement is functioning at all, someone can usually sell it to you. |
-| `Uncommon` | Useful but not everywhere. A buyer usually needs a better town, the right business, or a little time to ask around. |
-| `Rare` | Specialized, expensive, restricted, or easily exhausted. You only find it in strong markets or through a named contact. |
-| `Very Rare` | Exceptional gear, expert service, or dangerous trade. It usually requires a major town, a special amenity, mail order, or a scenario of its own. |
+| Availability | Meaning                                                                                                                                          |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `Common`     | Everyday goods and services. If the settlement is functioning at all, someone can usually sell it to you.                                        |
+| `Uncommon`   | Useful but not everywhere. A buyer usually needs a better town, the right business, or a little time to ask around.                              |
+| `Rare`       | Specialized, expensive, restricted, or easily exhausted. You only find it in strong markets or through a named contact.                          |
+| `Very Rare`  | Exceptional gear, expert service, or dangerous trade. It usually requires a major town, a special amenity, mail order, or a scenario of its own. |
 
 Use the town or settlement around you to shift that availability up or down:
 
@@ -544,12 +544,12 @@ Beyond that, the shelves are picked over, the horse lot is thinned out, the best
 
 Once something has been found, judge what the market is doing to the price:
 
-| Market condition | Price |
-| ---------------- | ----- |
-| Surplus, hard competition, desperate seller | `-25%` |
-| Ordinary availability | listed price |
-| One step scarcer than normal | `+25%` |
-| Two steps scarcer than normal | `+50%` |
+| Market condition                               | Price           |
+| ---------------------------------------------- | --------------- |
+| Surplus, hard competition, desperate seller    | `-25%`          |
+| Ordinary availability                          | listed price    |
+| One step scarcer than normal                   | `+25%`          |
+| Two steps scarcer than normal                  | `+50%`          |
 | Barely obtainable, urgent demand, panic buying | `+100%` or more |
 
 Used goods, stolen goods, or patched frontier goods may be cheaper, but they often come `Poor`, `Worn`, or entangled with somebody else's problem.
@@ -558,39 +558,40 @@ Used goods, stolen goods, or patched frontier goods may be cheaper, but they oft
 
 Ordinary goods can be bought at four broad quality grades. Weapons that already gain explicit weapon qualities do not normally gain an extra benefit from this table; their workmanship is already represented elsewhere.
 
-| Grade | Price | Effect |
-| ----- | ----- | ------ |
-| `Poor` | `-25%` | Shoddy, patched, or second-hand. It resells badly, gives a poor impression, and the GM may rule it becomes `Worn` the first time it is pushed hard. |
-| `Worn` | `-10%` | Used hard but still serviceable. It functions, but it shows the miles and may be one step closer to breaking down, failing, or drawing attention at the wrong moment. |
-| `Standard` | listed price | Solid, ordinary frontier quality. |
-| `Fine` | `+50%` | Better made, better looking, and easier to resell. When workmanship or appearance matters, it may count as the one applicable gear bonus for `+1`, or else ignore the first ordinary `Worn` result from hard use, as chosen when bought. |
+| Grade      | Price        | Effect                                                                                                                                                                                                                                   |
+| ---------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `Poor`     | `-25%`       | Shoddy, patched, or second-hand. It resells badly, gives a poor impression, and the GM may rule it becomes `Worn` the first time it is pushed hard.                                                                                      |
+| `Worn`     | `-10%`       | Used hard but still serviceable. It functions, but it shows the miles and may be one step closer to breaking down, failing, or drawing attention at the wrong moment.                                                                    |
+| `Standard` | listed price | Solid, ordinary frontier quality.                                                                                                                                                                                                        |
+| `Fine`     | `+50%`       | Better made, better looking, and easier to resell. When workmanship or appearance matters, it may count as the one applicable gear bonus for `+1`, or else ignore the first ordinary `Worn` result from hard use, as chosen when bought. |
 
 ##### General Gear
 
-| Item                      | Cost    | Weight | Rarity    |
-| ------------------------- | ------- | ------ | --------- |
-| Basic Rations for 1 week  | $2      | 2      | Common    |
-| Bullets / shells          | $1/20   | Tiny   | Common    |
-| Clothes (standard)        | 50c–$2  | -      | Common    |
-| Clothes (fancy)           | $5–50   | -      | Uncommon  |
-| Coffin                    | $7.5    | 6      | Common    |
-| Deck of cards             | $1–5    | Tiny   | Common    |
-| Gold, 1oz                 | $20     | Tiny   | Rare      |
-| Handcuffs                 | $1–5    | Tiny   | Uncommon  |
-| Lemonade (bottle)         | 5c      | ½      | Common    |
-| Lockpicks (set)           | $5      | Tiny   | Uncommon  |
-| Matches (box)             | 50c     | Tiny   | Common    |
-| Newspaper                 | 10c     | Tiny   | Common    |
-| Oil Lantern               | $1      | ½      | Common    |
-| Pelt, Bear                | 70c–$1  | 2      | Uncommon  |
-| Pelt, Bison               | $1–2    | 2      | Uncommon  |
-| Pelt, Wolf                | $1–2    | 1      | Uncommon  |
-| Rope, 20’ length          | $2      | ½      | Common    |
-| Saddle & Gear             | $30–100 | 2      | Uncommon  |
-| Silver, 1oz               | $1.50   | Tiny   | Common    |
-| Tobacco goods             | $1–5    | Tiny   | Common    |
-| Whiskey, sipping (bottle) | 50c     | ½      | Common    |
-| Whiskey, good (bottle)    | $2      | ½      | Uncommon  |
+| Item                     | Cost    | Weight | Rarity   |
+| ------------------------ | ------- | ------ | -------- |
+| Basic Rations for 1 week | $2      | 2      | Common   |
+| Bullets / shells         | $1/20   | Tiny   | Common   |
+| Clothes (standard)       | 50c–$2  | -      | Common   |
+| Clothes (fancy)          | $5–50   | -      | Uncommon |
+| Coffin                   | $7.5    | 6      | Common   |
+| Deck of cards            | $1–5    | Tiny   | Common   |
+| Gold, 1oz                | $20     | Tiny   | Rare     |
+| Handcuffs                | $1–5    | Tiny   | Uncommon |
+| Lemonade (bottle)        | 5c      | ½      | Common   |
+| Lockpicks (set)          | $5      | Tiny   | Uncommon |
+| Matches (box)            | 50c     | Tiny   | Common   |
+| Newspaper                | 10c     | Tiny   | Common   |
+| Oil Lantern              | $1      | ½      | Common   |
+| Pelt, Bear               | 70c–$1  | 2      | Uncommon |
+| Pelt, Bison              | $1–2    | 2      | Uncommon |
+| Pelt, Wolf               | $1–2    | 1      | Uncommon |
+| Rope, 20’ length         | $2      | ½      | Common   |
+| Saddle & Gear            | $30–100 | 2      | Uncommon |
+| Silver, 1oz              | $1.50   | Tiny   | Common   |
+| Tobacco goods            | $1–5    | Tiny   | Common   |
+| Whiskey, rough (bottle)  | $1-$2   | ½      | Common   |
+| Whiskey, decent (bottle) | $2-$3   | ½      | Uncommon |
+| Whiskey, named (bottle)  | $3-$5   | ½      | Rare     |
 
 ##### Specialized Gear
 
@@ -621,63 +622,67 @@ You’re not only going to want gear to help you make your way in the Old West, 
 
 ##### Basic Services
 
-| Item                                   | Cost     |
-| -------------------------------------- | -------- |
-| Barbering                              | $2       |
-| Bed for 1 night, communal              | 20c      |
-| Board and lodging for 1 night, basic   | $1       |
-| Board and lodging for 1 night, quality | $2       |
-| Beer                                   | 10c      |
-| Coffee, 1 cup                          | 25c      |
-| Doctor, tooth extraction               | $3       |
-| Doctor, consultation                   | $2       |
-| Homestead Act filing fee               | $14      |
-| Laundry                                | $1       |
-| Meal, basic                            | 25c      |
-| Meal, decent                           | $1–2     |
-| Meal, fancy                            | $5       |
-| Railroad, coast to coast               | $300     |
-| Stabling costs                         | 25c/day  |
-| Stagecoach ticket                      | 10c/mile |
-| Trick with a soiled dove               | $1+      |
-| Undertaking services                   | $10+     |
-| Whiskey in single-bit bar              | 10c      |
-| Whiskey in two-bit bar                 | 25c      |
+| Item                                   | Cost          |
+| -------------------------------------- | ------------- |
+| Haircut                                | 25c           |
+| Shave                                  | 10c           |
+| Bath                                   | 25c           |
+| Bed for 1 night, communal              | 20c           |
+| Board and lodging for 1 night, basic   | $1            |
+| Board and lodging for 1 night, quality | $2            |
+| Beer                                   | 5-10c         |
+| Coffee, 1 cup                          | 5c            |
+| Doctor, tooth extraction               | $3            |
+| Doctor, consultation                   | $2            |
+| Homestead Act filing fee               | $14           |
+| Laundry                                | $1            |
+| Meal, basic                            | 25c           |
+| Meal, decent                           | $1–2          |
+| Meal, fancy                            | $5            |
+| Railroad, emigrant passage             | $65-$110      |
+| Railroad, transcontinental first class | $135-$150     |
+| Stabling, stall only                   | 50c-$1/day    |
+| Stabling, stall and feed               | 75c-$1.50/day |
+| Stagecoach ticket                      | 10c/mile      |
+| Trick with a soiled dove               | $1+           |
+| Undertaking services                   | $25-$100      |
+| Whiskey in single-bit bar              | 10c           |
+| Whiskey in two-bit bar                 | 25c           |
 
 Many services follow the same availability rules as gear. A barber is `Common`; a lawyer, doctor, skilled guide, or competent tutor may be only `Uncommon` or `Rare` outside a strong settlement. In hard country, getting the right pair of hands is often harder than paying them.
 
 ##### Specialist Services
 
-| Service | Cost |
-| ------- | ---- |
-| Apothecary, draught or tonic | 50c-$3 |
-| Attorney, ordinary paperwork or advice | $5 |
-| Attorney, serious case or land dispute | $25+ |
-| Blacksmith, simple repair or shoeing one horse | $1 |
-| Farrier, difficult shoeing or tack adjustment | $2 |
-| Gunsmith, cleaning and tune-up | $2 |
-| Gunsmith, meaningful repair | $5+ |
-| Guide, settled country, per day | $2 |
-| Guide, bad country or hostile country, per day | $5+ |
-| Messenger, local urgent delivery | 25c-$1 |
-| Midwife or nurse, per day | $1-$3 |
-| Tutor, drillmaster, or riding instructor, per Shift | $1-$3 |
-| Veterinary help for a horse or mule | $2-$5 |
-| Wagon repair, minor | $2 |
-| Wagon repair, major | $10+ |
-| Watchman or guard, per night | $2-$4 |
+| Service                                             | Cost   |
+| --------------------------------------------------- | ------ |
+| Apothecary, draught or tonic                        | 50c-$3 |
+| Attorney, ordinary paperwork or advice              | $5     |
+| Attorney, serious case or land dispute              | $25+   |
+| Blacksmith, simple repair or shoeing one horse      | $1     |
+| Farrier, difficult shoeing or tack adjustment       | $2     |
+| Gunsmith, cleaning and tune-up                      | $2     |
+| Gunsmith, meaningful repair                         | $5+    |
+| Guide, settled country, per day                     | $2     |
+| Guide, bad country or hostile country, per day      | $5+    |
+| Messenger, local urgent delivery                    | 25c-$1 |
+| Midwife or nurse, per day                           | $1-$3  |
+| Tutor, drillmaster, or riding instructor, per Shift | $1-$3  |
+| Veterinary help for a horse or mule                 | $2-$5  |
+| Wagon repair, minor                                 | $2     |
+| Wagon repair, major                                 | $10+   |
+| Watchman or guard, per night                        | $2-$4  |
 
 When a service lines up with the training rules in chapter 2, use the chapter 2 fee if it is more specific. The service prices above are broader market anchors for hiring help in play.
 
 ##### Hired Hands and Day Labor
 
-| Role | Cost |
-| -------- | ---- |
+| Role                                             | Cost   |
+| ------------------------------------------------ | ------ |
 | Camp hand, stable hand, or kitchen help, per day | 50c-$1 |
-| Ranch hand or laborer, per day | $1-$2 |
-| Teamster or wagon driver, per day | $1-$3 |
-| Trail scout or interpreter, per day | $2-$5 |
-| Armed guard, per day | $2-$4 |
+| Ranch hand or laborer, per day                   | $1-$2  |
+| Teamster or wagon driver, per day                | $1-$3  |
+| Trail scout or interpreter, per day              | $2-$5  |
+| Armed guard, per day                             | $2-$4  |
 
 Daily wages assume ordinary work and rough conditions. Dangerous work, bad weather, outlaw country, secrecy, or poor reputation can easily raise the price by half again or more.
 
@@ -734,23 +739,23 @@ The Weapons Tables on the following pages take account of the weapon’s qualiti
 | Weapon                     | Action | Draw Mod | Attack Mod | Dam | Crit | Range | Qualities                          | Ammo | Wt  | Cost | Rarity   |
 | -------------------------- | ------ | -------- | ---------- | --- | ---- | ----- | ---------------------------------- | ---- | --- | ---- | -------- |
 | Colt 1860 New Army         | Single | 0        | +1         | 2   | 1    | M\*   | RELIABLE, FANNING                  | 6    | 1/2 | $15  | Common   |
-| Colt 45 Peacemaker         | Single | -1       | +2         | 3   | 1    | M\*   | LONG BARREL, POWERFUL              | 6    | 1/2 | $28  | Rare     |
+| Colt 45 Peacemaker         | Single | -1       | +2         | 3   | 1    | M\*   | LONG BARREL, POWERFUL              | 6    | 1/2 | $20  | Rare     |
 | Colt Walker                | Single | -1       | +2         | 2   | 1    | M\*   | LONG BARREL, HEAVY, MAINTAINED     | 6    | 1/2 | $20  | Uncommon |
 | Cooper                     | Double | +2       | 0          | 2   | 1    | M\*   | FAST DRAW, CONCEALABLE, CALIBRATED | 5    | 1/2 | $18  | Uncommon |
 | Manhattan Navy             | Single | 0        | +2         | 2   | 1    | M\*   | CALIBRATED                         | 6    | 1/2 | $24  | Uncommon |
 | Metropolitan Navy 1864     | Single | 0        | +1         | 2   | 1    | M\*   | CALIBRATED, RELIABLE               | 6    | 1/2 | $16  | Common   |
 | Remington 1858             | Single | 0        | 0          | 3   | 1    | M\*   | POWERFUL, FANNING                  | 6    | 1/2 | $20  | Common   |
-| Smith & Wesson Model 3     | Single | -1       | +1         | 2   | 1    | M\*   | HEAVY                              | 6    | 1/2 | $30  | Rare     |
+| Smith & Wesson Model 3     | Single | -1       | +1         | 2   | 1    | M\*   | HEAVY                              | 6    | 1/2 | $22  | Rare     |
 | Starr Revolver             | Double | +1       | 0          | 2   | 1    | M\*   | -                                  | 6    | 1/2 | $10  | Common   |
 | Webley British Bulldog     | Double | -1       | 0          | 3   | 1    | S\*   | CONCEALABLE, POWERFUL              | 5    | 1/2 | $15  | Uncommon |
-| Deringer                   | Single | -1       | 0          | 2   | 2    | N\*   | HIDDEN, LIGHT, POWERFUL            | 1    | T   | $32  | Rare     |
+| Derringer                  | Single | -1       | 0          | 2   | 2    | N\*   | HIDDEN, LIGHT, POWERFUL            | 1    | T   | $6   | Rare     |
 | Remington Elliot Pepperbox | Double | -1       | +1         | 1   | 2    | N\*   | HIDDEN, LIGHT                      | 4    | T   | $25  | Rare     |
 
 (\* M=Medium, S=Short, N=Near)
 
 **Colt 1860 New Army** : A reliable stalwart of the Civil War, more than 200,000 were made between 1860 and 1873. The Colt 1860 Army is a .44 caliber single-action revolver that fires a conical-tipped bullet. The Colt Navy is a smaller .36 caliber version of the same gun.
 
-**Colt 45 Peacemaker** : The famous Colt 45, designed by William Mason and Charles Richards, was patented in 1872 and became the standard issue sidearm for the US Army in 1873—thousands were manufactured. Excellent for fanning, or feathering, the hammer, the Peacemaker is perhaps the most commonly used weapon in the Old West of the 1870s.
+**Colt 45 Peacemaker** : The famous Colt 45, designed by William Mason and Charles Richards, was patented in 1872 and became the standard issue sidearm for the US Army in 1873. In that year it is still a new arrival, but it quickly became one of the defining revolvers of the later 1870s West, especially among soldiers, lawmen, and those who could afford a modern cartridge arm.
 
 **Colt Walker** : An older design, the Colt Walker was first manufactured in the late 1840s and suffered from a wide range of faults. However, it saw widespread use during the Civil War and many Colt Walker revolvers can still be found in the 1870s.
 
@@ -762,13 +767,13 @@ The Weapons Tables on the following pages take account of the weapon’s qualiti
 
 **Remington 1858** : Remington posted the patent for their revolver in 1858, but production didn’t start until 1861. Sales of the revolver were boosted by the Colt factory fire in 1864, and large numbers of the Remington 1858 were ordered by the US government. It remained in service until 1873. Powerful and durable, the Remington is well respected by those who know their firearms.
 
-**Smith & Wesson Model 3** : The Model 3 is a single-action, cartridge-firing, top-break revolver first produced in 1870. It was adopted by the US Army that same year, and thousands were manufactured for the military of the Russian Empire. The revolver was so successful that it found its way into service in countries all across the world. It’s readily available in the Old West.
+**Smith & Wesson Model 3** : The Model 3 is a single-action, cartridge-firing, top-break revolver first produced in 1870. It was adopted by the US Army that same year, and thousands were manufactured for the military of the Russian Empire. The revolver was so successful that it found its way into service in countries all across the world. It is present in the Old West, but in 1873 it remains a dearer and less common sight than the older percussion arms still riding many belts.
 
 **Starr Revolver** : Designed in the late 1850s by Ebenezer Townsend Starr, this .44 caliber double-action weapon was widely used during the Civil War. Production continued into the late 1860s, and the revolver is common across the Old West.
 
 **Webley British Bulldog** : Developed in the early 1870s by the British firm Philip Webley & Son, the double-action Webley Bulldog came into circulation across Britain and America in 1872. With a short 2 ½ inch barrel and either .44 or .45 caliber, the Bulldog is easy to conceal and packs a punch at close quarters.
 
-**Deringer** : The Deringer, sometimes mis-spelled Derringer, is a small, palm-sized pistol that is easy to conceal in a pocket, a boot top, or even up a sleeve. It gained infamy as the weapon used in the assassination of Abraham Lincoln in 1865. It has a very short effective range, and is usually a single-shot gun, but some variants have more than one barrel.
+**Derringer** : The pocket derringer takes its name from Henry Deringer, though the doubled spelling had become common by the 1870s. It is a small, palm-sized pistol that is easy to conceal in a pocket, a boot top, or even up a sleeve. It gained infamy as the weapon used in the assassination of Abraham Lincoln in 1865. It has a very short effective range, and is usually a single-shot gun, though some variants have more than one barrel.
 
 ##### Rifles, Shotguns and Bows
 
@@ -788,15 +793,15 @@ The Weapons Tables on the following pages take account of the weapon’s qualiti
 
 (\* D=Distant, L=Long, M=Medium, S=Short)
 
-**Remington-Elliot ‘Pepper Box’** : The Remington-Elliot Pepper Box, also called the Zig-Zag Deringer, is a .22 caliber, four barreled pistol, which is as easy to conceal as the Deringer itself. It is not a traditional double-action pistol—the action of the trigger finger pushing away on the ring-shaped trigger guard rotates the firing pin to the next barrel in sequence, but it does not require a Prepare action before firing.
+**Remington-Elliot ‘Pepper Box’** : The Remington-Elliot Pepper Box, also called the Zig-Zag Derringer, is a .22 caliber, four barreled pistol, which is as easy to conceal as the derringer itself. It is not a traditional double-action pistol—the action of the trigger finger pushing away on the ring-shaped trigger guard rotates the firing pin to the next barrel in sequence, but it does not require a Prepare action before firing.
 
-**Sharps Rifle 1874** : Christian Sharps patented the first Sharps rifle in 1848, and it soon became an icon of the Old West. Widely used, the rifle is a favorite of buffalo hunters. Made in a range of large calibers, it is deadly in the hands of an expert marksman, with an effective range of over 500m, with some claiming kills up to 1000m. However, at shorter ranges (Arm’s Length, Near, and Short) it suffers a −3 penalty. The 1874 model was first produced in 1871.
+**Sharps Rifle 1874** : Christian Sharps patented the first Sharps rifle in 1848, and Sharps arms had already made a name for themselves long before the middle of the 1870s. The Model 1874 became one of the signature buffalo rifles of the great hide hunts. Made in a range of large calibers, it is deadly in the hands of an expert marksman, with an effective range of over 500m, with some claiming kills up to 1000m. However, at shorter ranges (Arm’s Length, Near, and Short) it suffers a −3 penalty.
 
 **Spencer Carbine** : This light, lever-action rifle was designed by Christopher Spencer in 1860, and became the mainstay of Union cavalry during the Civil War. It saw service across the continents of America, Europe, and elsewhere. The rifle is normally reloaded by inserting the cartridges one at a time, unless you use a Blakeslee cylinder—a cartridge box invented by Erastus Blakeslee with seven cartridges that can be quickly emptied into the magazine tube—in which case it takes just two actions to fully reload the carbine.
 
 **Winchester Model 1866** : Manufactured by the Winchester Repeating Arms Company, the Model 1866 was developed from the Henry rifle of 1860 and quickly became popular around the world. The rifle is affectionately nicknamed the “Yellow Boy” for its distinctively colored receiver made of an alloy of bronze and brass.
 
-**Winchester Model 1873** : The next generation of Winchester rifles ushered the Model 1873 into production, a rifle that became one of the most popular across the Old West. It makes use of the new centerfire cartridge instead of the rimfire cartridges of old, which improves reliability and performance. In time, the Winchester Repeating Arms Company would market the Model 1873 rifle as “the rifle that won the West”.
+**Winchester Model 1873** : The next generation of Winchester rifles brought the Model 1873 into production. In the game's opening year it is still a new arm, but it would become one of the best-known rifles of the later Old West. It makes use of the new centerfire cartridge instead of the rimfire cartridges of old, which improves reliability and performance. In time, the Winchester Repeating Arms Company would market the Model 1873 rifle as “the rifle that won the West”.
 
 **Bow** : Native American bows are made of a huge variety of different wood. Ash, hickory, mulberry, Osage orange, cedar, walnut, and birch are all used, often wrapped in animal sinews to strengthen the powerful weapon—powerful enough, at shorter ranges, to penetrate the thick hides of the buffalo. Bows do not have an “action” as such, but a fast action is required to Prepare the weapon and nock the arrow.
 
@@ -804,7 +809,7 @@ The Weapons Tables on the following pages take account of the weapon’s qualiti
 
 **Roper Repeating Shotgun** : Patented in 1866 by Sylvester Roper, this shotgun employs a long hammer and a four chamber cylinder to allow the user to shoot four times before reloading. The weapon needs to be readied with a Prepare action before each shot. The loading gate is positioned on top of the cylinder and reloading the gun requires each spent shell to be removed one at a time and a new shell loaded—a slow process.
 
-**Wells Fargo Coachgun** : The name given to the sawn-off double-barreled shotguns given to guards on the Wells Fargo & Co stagecoaches in the 1860s, although perhaps more commonly called “messenger’s guns”. First produced in 1858 these shotguns are manufactured to a fine quality, and are ubiquitous across the West.
+**Wells Fargo Coachgun** : The name given to the sawn-off double-barreled shotguns carried by guards on Wells Fargo & Co. stagecoaches in the 1860s, though the period term “messenger’s gun” was often heard just as readily. First produced in 1858, these shotguns are made to a fine quality and are strongly associated with express and stage defense across the West.
 
 ##### Melee Weapons
 
@@ -842,25 +847,25 @@ Conditions reduce the effectiveness of your weapon, and may even break the weapo
 
 ##### Weapon Qualities - Ranged
 
-| Weapon  | Quality      | Impact                                                                                                                                                                    |
-| ------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Pistol  | CALIBRATED   | The weapon is so well calibrated its aim is true. Gain +1 bonus to the weapon’s Attack modifier.                                                                          |
-| Pistol  | CONCEALABLE  | Small and compact, a pistol with this quality is easily concealed about your person. Those trying to spot it get a −1 penalty on their HAWKEYE test.                      |
-| Pistol  | FANNING      | The gun is ideal for fanning. You gain a +1 bonus to your SHOOTIN’ ability when fanning with this weapon.                                                                 |
-| Pistol  | FAST DRAW    | The weapon is designed for the quick draw. You gain a +1 bonus to the Draw.                                                                                               |
-| Pistol  | HEAVY        | The pistol is heavy in your hand and kicks like a mule but delivers a powerful blast. It does +1 extra damage, but has a −1 penalty to Draw.                              |
-| Pistol  | HIDDEN       | A palm-sized gun designed for concealment. Those trying to spot it suffer a −3 penalty on their HAWKEYE test.                                                             |
-| Pistol  | HOT LOADER   | Loading is slow, so anything that makes it quicker can only be a good thing. This gun has a swappable revolver cylinder (2 actions for full reload).                      |
-| Pistol  | LIGHT        | The weapon is very small and counts as a Tiny item, but it’s not made for fast drawing so you suffer a −1 penalty on the Draw.                                            |
-| Pistol  | LONG BARREL  | A long barrel makes gunplay easier, but it’s slower on the draw. Gain a +1 bonus to SHOOTIN’, but a −1 penalty on the Draw.                                               |
-| Pistol  | SHORT BARREL | A short barrel isn’t great for accuracy, but it’s quicker to get that iron from your holster. Gain a +1 bonus on Draw, but a −1 penalty on SHOOTIN’.                      |
-| Pistol  | SIGHTS       | Well-made sights make shooting at range easy. Range negatives are one die less for all ranges when using an Aim action before making a shot.                              |
-| Any     | BALANCED     | The weapon feels good in your hand and you can’t help but shoot straight with it. Grants a +1 bonus to SHOOTIN’.                                                          |
+| Weapon  | Quality      | Impact                                                                                                                                                                                                                            |
+| ------- | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pistol  | CALIBRATED   | The weapon is so well calibrated its aim is true. Gain +1 bonus to the weapon’s Attack modifier.                                                                                                                                  |
+| Pistol  | CONCEALABLE  | Small and compact, a pistol with this quality is easily concealed about your person. Those trying to spot it get a −1 penalty on their HAWKEYE test.                                                                              |
+| Pistol  | FANNING      | The gun is ideal for fanning. You gain a +1 bonus to your SHOOTIN’ ability when fanning with this weapon.                                                                                                                         |
+| Pistol  | FAST DRAW    | The weapon is designed for the quick draw. You gain a +1 bonus to the Draw.                                                                                                                                                       |
+| Pistol  | HEAVY        | The pistol is heavy in your hand and kicks like a mule but delivers a powerful blast. It does +1 extra damage, but has a −1 penalty to Draw.                                                                                      |
+| Pistol  | HIDDEN       | A palm-sized gun designed for concealment. Those trying to spot it suffer a −3 penalty on their HAWKEYE test.                                                                                                                     |
+| Pistol  | HOT LOADER   | Loading is slow, so anything that makes it quicker can only be a good thing. This gun has a swappable revolver cylinder (2 actions for full reload).                                                                              |
+| Pistol  | LIGHT        | The weapon is very small and counts as a Tiny item, but it’s not made for fast drawing so you suffer a −1 penalty on the Draw.                                                                                                    |
+| Pistol  | LONG BARREL  | A long barrel makes gunplay easier, but it’s slower on the draw. Gain a +1 bonus to SHOOTIN’, but a −1 penalty on the Draw.                                                                                                       |
+| Pistol  | SHORT BARREL | A short barrel isn’t great for accuracy, but it’s quicker to get that iron from your holster. Gain a +1 bonus on Draw, but a −1 penalty on SHOOTIN’.                                                                              |
+| Pistol  | SIGHTS       | Well-made sights make shooting at range easy. Range negatives are one die less for all ranges when using an Aim action before making a shot.                                                                                      |
+| Any     | BALANCED     | The weapon feels good in your hand and you can’t help but shoot straight with it. Grants a +1 bonus to SHOOTIN’.                                                                                                                  |
 | Any     | MAINTAINED   | Beautifully made with maintenance in mind, this weapon is easy to keep working. Once per scene, after a roll with this weapon would generate Trouble from rolled `1`s, you may reroll those `1`s once before Trouble is assessed. |
-| Any     | PIERCING     | The weapon is renowned for being deadly in the hands of an expert. Gain +1 to the Units die on critical injury rolls.                                                     |
-| Any     | POWERFUL     | The weapon packs a real punch. Grants +1 to the weapon’s Damage.                                                                                                          |
-| Any     | RELIABLE     | Tough and sturdy, this weapon is reliable and just doesn’t break. If Trouble is rolled while using this weapon, the amount of Trouble is reduced by 1, to a minimum of 1. |
-| Shotgun | SAWN-OFF     | A short-barreled shotgun is deadly in close quarters, but terrible further away. Grants a +1 bonus to SHOOTIN’ but the maximum range is Short.                            |
+| Any     | PIERCING     | The weapon is renowned for being deadly in the hands of an expert. Gain +1 to the Units die on critical injury rolls.                                                                                                             |
+| Any     | POWERFUL     | The weapon packs a real punch. Grants +1 to the weapon’s Damage.                                                                                                                                                                  |
+| Any     | RELIABLE     | Tough and sturdy, this weapon is reliable and just doesn’t break. If Trouble is rolled while using this weapon, the amount of Trouble is reduced by 1, to a minimum of 1.                                                         |
+| Shotgun | SAWN-OFF     | A short-barreled shotgun is deadly in close quarters, but terrible further away. Grants a +1 bonus to SHOOTIN’ but the maximum range is Short.                                                                                    |
 
 **Wells Fargo Coachgun**
 
@@ -1379,7 +1384,7 @@ The Old West is filled with all kinds of non-player characters, and here are jus
 LABOR 1, MOVE 1, HAWKEYE 1, PRESENCE 1, LIGHT-FINGERED 1, INSIGHT 2, RESILIENCE 1
 Charming, charismatic and hard working, the average working girl knows her mind and is working to find a better life, for herself and those she cares about.
 **Talents:** CALMING MANNER, CHARMING, SHILL.
-**Gear:** Deringer pistol, deck of cards, tobacco.
+**Gear:** Derringer pistol, deck of cards, tobacco.
 
 **BOUNTY HUNTER** — GRIT 5, QUICK 4, CUNNING 3, DOCITY 2
 PRESENCE 1, MOVE 1, HAWKEYE 2, INSIGHT 1

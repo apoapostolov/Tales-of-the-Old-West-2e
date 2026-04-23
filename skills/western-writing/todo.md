@@ -1,11 +1,14 @@
 # Western Writing Skill — Build Plan
 
-**Status (April 2026, fully verified):** Phases 5–10 complete.
-Phase 11 (the dark/R+ companion `references/dark-frontier.md`)
-complete. Phase 12 (three remaining content gaps: childhood,
-music/entertainment, the hunt) identified but not started.
-The skill library is complete and consistent for all
-canonical western subjects covered to date.
+**Status (April 2026, fully verified):** Phases 5–12 complete.
+Phase 11 added the dark/R+ companion
+`references/dark-frontier.md`. Phase 12 added the three
+remaining content modules: `knowledge/childhood.md`,
+`knowledge/music-and-entertainment.md`, and
+`knowledge/the-hunt.md`. All three are wired into the
+SKILL.md library with explicit load triggers. The skill
+library is complete and consistent for all canonical western
+subjects identified to date.
 
 **Phase 8 deviation (resolved):** The plan said to append
 exemplars #21-#27 to `examples/scenes.md`. The AI instead
@@ -593,7 +596,7 @@ Three subjects the canon contains that the skill does not
 have a dedicated module for. None are blocking; all would
 strengthen the skill if addressed.
 
-- [ ] **P3** `knowledge/childhood.md` — children's lives
+- [x] **P3** `knowledge/childhood.md` — children's lives
       on the frontier as a centered subject. The homestead
       child's day (chores by age, schooling when available,
       play). The town child's day. The ranch boy who becomes
@@ -604,9 +607,13 @@ strengthen the skill if addressed.
       schoolmarm). Toys, games, songs. The rite-of-passage
       moments (first horse, first gun, first work for pay).
       Cross-reference `women-domestic-world.md` and
-      `dark-frontier.md`. Length ~400 lines.
+      `dark-frontier.md`. RESOLVED: 13 sections including
+      Native/Mexican/Black/Chinese child specifics, the
+      orphan/bound-out/parceled-out, the child in the work
+      across six occupational settings, vocabulary, and
+      before/after passage. SKILL.md library entry added.
 
-- [ ] **P3** `knowledge/music-and-entertainment.md` — what
+- [x] **P3** `knowledge/music-and-entertainment.md` — what
       filled the evenings. The fiddle and the banjo (the
       tunes that travel: _Buffalo Gals, Sweet Betsy from Pike,
       The Old Chisholm Trail, Streets of Laredo_). The square
@@ -619,9 +626,15 @@ strengthen the skill if addressed.
       beginnings as cowboy contest (formal rodeo from the
       1880s; informal contests from the 1860s). Period
       newspapers as entertainment. The dime novel as the
-      cowboy's reading. Length ~400 lines.
+      cowboy's reading. RESOLVED: 15 sections including
+      home instruments, German/Welsh/Czech/Mexican/Chinese/
+      Black musical traditions, the minstrel show, the
+      circus and freak show, Wild West shows as the
+      moment the West becomes its own performance, and
+      explicit ragtime-is-next-decade caution. SKILL.md
+      library entry added.
 
-- [ ] **P3** `knowledge/the-hunt.md` — hunting as profession
+- [x] **P3** `knowledge/the-hunt.md` — hunting as profession
       beyond what `work-and-trades.md` and `frontier-survival.md`
       contain. The buffalo hide hunter (the camp, the stand,
       the Sharps rifle, the skinners, the wagon to the
@@ -635,4 +648,10 @@ strengthen the skill if addressed.
       reference `peoples-and-conflict.md` for the political
       consequence of the buffalo slaughter, and
       `dark-frontier.md` §12 for its institutional character.
-      Length ~400 lines.
+      RESOLVED: 10 sections covering all five professional
+      hunting roles plus residual fur trapper/trader. The
+      buffalo section names major figures (Mooar, Dixon,
+      Tilghman, Mayer), Adobe Walls, the bone trade, the
+      end of the herd, and the Native witness as second
+      character in any honest scene. SKILL.md library
+      entry added.

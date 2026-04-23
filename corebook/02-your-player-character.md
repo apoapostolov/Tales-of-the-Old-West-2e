@@ -413,7 +413,7 @@ Choose between one and three of these talents, depending on your age:
 **Gear** - choose two of the starting items below. You also get 2D6 × $10 in cash:
 
 - Doctoring Bag. Contains basic items, simple medicines, and elixirs. It gives +1 bonus to DOCTORIN’ rolls.
-- Deringer and D6 rounds.
+- Derringer and D6 rounds.
 - Arabian Horse with saddle and tack.
 - Pipe and tobacco.
 

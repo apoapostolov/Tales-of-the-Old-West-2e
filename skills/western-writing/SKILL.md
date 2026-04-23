@@ -270,6 +270,66 @@ the modules you need. Do not skim and draft.
   underground vocabulary, sound, smell, and light; before /
   after worked passage. **Load for any scene set in or
   around a hardrock mine.**
+- `knowledge/childhood.md` — the frontier child as a
+  centered subject. The day by age and place (homestead,
+  ranch, town, mining camp); the cradle and the nursery;
+  the small graves and the diseases that filled them
+  (diphtheria, scarlet fever, whooping cough, measles,
+  cholera infantum, typhoid, accident); the one-room
+  school (the schoolhouse, the schoolmarm, McGuffey,
+  the school day, the discipline); toys, games, songs,
+  books, the dime novel; the rites of passage (first
+  trousers, first wages, first ride alone, first gun,
+  first horse, first work for hire, first dance,
+  baptism, departure); the Native, Mexican, Black, and
+  Chinese child specifically; the orphan, the bound-out,
+  the orphan train; the child in the work (homestead,
+  mine, railroad, domestic service, trades, shows); the
+  vocabulary, sound, smell, and sight of the child's
+  world; before / after worked passage. **Load for any
+  scene with a child as POV or as significant presence.**
+- `knowledge/music-and-entertainment.md` — what filled
+  the evenings. The fiddle and the country dance (the
+  instrument, the fiddler, the repertoire by name, the
+  square dance and the round dance, the night-herd
+  song); the home instruments (harmonica, banjo, guitar,
+  parlor organ, piano, accordion, concertina); the
+  saloon piano and the dance hall (the period
+  repertoire — _Lorena, In the Gloaming, Silver Threads_
+  — and the explicit note that ragtime is the next
+  decade); the German Liederkranz, the Welsh chapel
+  choir, the Czech band, the Mexican corrido, the
+  Chinese opera, the Black church and the Black saloon
+  pianist; the medicine show; the touring theatrical
+  and operatic companies (Edwin Booth, Joseph
+  Jefferson, Sarah Bernhardt, the Black Crook, the Tom
+  show); the minstrel show; the Chautauqua and the
+  lyceum; the circus and the side show; the Wild West
+  show as the moment the West becomes its own
+  performance; the rodeo's beginnings; the dime novel;
+  the vocabulary, sound, smell, light; before / after
+  worked passage. **Load for any scene involving music,
+  dance, theater, or organized entertainment.**
+- `knowledge/the-hunt.md` — hunting as profession.
+  The buffalo hide hunter (the economics, the outfit,
+  the stand, the Sharps rifle, the skinning, the
+  abandoned flesh, the camp, the hazards including the
+  Native response, the major figures, the end of the
+  trade); the market hunter for restaurant and railroad
+  camp meat (deer, antelope, elk, prairie chicken); the
+  wolfer and his strychnine bait (the lowest social
+  standing on the frontier, the collateral damage, the
+  Cypress Hills); the professional sporting guide for
+  Eastern and European tourists (Buffalo Bill, the Earl
+  of Dunraven, Grand Duke Alexis, the Eastern hunting
+  party); the contract hunter at the army post; the
+  residual fur trapper and the trader; the vocabulary,
+  sound, smell, light; before / after worked passage.
+  Cross-references `knowledge/peoples-and-conflict.md`
+  for the political consequence of the buffalo
+  slaughter and `references/dark-frontier.md` §12 for
+  its institutional character. **Load for any scene
+  involving a working hunter.**
 
 ### examples/ — the shelf
 

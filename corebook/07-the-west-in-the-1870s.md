@@ -4,7 +4,7 @@
 >
 > — CHARLES M RUSSELL, ARTIST OF THE OLD WEST
 
-While the period of history called “the Wild West” covers a relatively short amount of time—no more than 40 or 50 years—it is not an isolated part of history: many different cultures and events, interwoven over the preceding centuries, converged to create this place and the people who lived in it. The West was a melting pot of every European culture and heritage forced upon a landscape that was already occupied by Native American tribes, the Mexican and Pueblan descendants of the empire of Old Spain and its antecedents, and a huge variety of animal and plant life. Add to this the forced immigration of Africans in bondage and all the legacies which that created, and the West was an incredibly diverse place—a place that was, at one and the same time, blessed with opportunity, cursed by hardship, and riven with conflict and struggle.
+While the period of history often called “the Wild West” covers a relatively short amount of time—no more than 40 or 50 years—it is not an isolated part of history: many different cultures and events, interwoven over the preceding centuries, converged to create this place and the people who lived in it. The West was a melting pot of every European culture and heritage forced upon a landscape that was already occupied by Native American tribes, Mexican, Hispano, and Pueblo communities whose roots long predated U.S. expansion, and a huge variety of animal and plant life. Add to this the forced immigration of Africans in bondage and all the legacies which that created, and the West was an incredibly diverse place—a place that was, at one and the same time, blessed with opportunity, cursed by hardship, and riven with conflict and struggle.
 
 In _Tales of the Old West_ we want all this history to be recognized. How you decide to play it in your campaign is down to you, but the more you weave in the intricate and exciting complexities of real historical life in the West of the 1870s, the more rewarding we think your game will be.
 
@@ -36,7 +36,7 @@ The great expanse of the Old West covers the states of Minnesota, Iowa, Missouri
 
 **Washington Territory** : Lush and forested in the north and west, with a rocky and rugged coastline and the Cascade Range, a mountain range including Mount Rainier and Mount St Helens. The east of the territory is semi-arid with dense forests growing along river valleys.
 
-**Oregon** : The Cascade Range reaches into Oregon, with its high peaks and heavy forests in the west. This part of the state is temperate, wet and lush while the east is, on the whole, semi-arid high desert, with the forested Blue Mountains and the Rogue Valley.
+**Oregon** : The Cascade Range reaches into Oregon, with its high peaks and heavy forests in the west. This part of the state is temperate, wet and lush, while much of the east is semi-arid high desert and interior basin country. The forested Blue Mountains rise in the northeast, while the Rogue Valley lies in the southwest.
 
 We have listed some of the sources that have inspired us at the end of this chapter and encourage you to explore this history in greater detail for yourself.
 
@@ -44,17 +44,17 @@ We have listed some of the sources that have inspired us at the end of this chap
 
 > _The sweeping expanse of the Old West is a hugely varied and complex environment that needs a full book to describe in detail. So here we have just tried to give a flavor of that variety, as a taster to get you started._
 
-**Idaho Territory** : A rugged land of the Rocky Mountains and the Bitterroot Range, with snowcapped peaks, rapids, vast lakes, rivers, gorges, and widespread forests. In the mountainous northwest you can find the enormous trail of Hell’s Canyon, while to the south the land flattens into the Snake River plain.
+**Idaho Territory** : A rugged land of the Rocky Mountains and the Bitterroot Range, with snowcapped peaks, rapids, vast lakes, rivers, gorges, and widespread forests. In the mountainous northwest you can find the enormous trench of Hell’s Canyon, while to the south the land flattens into the Snake River Plain.
 
-**Montana Territory** : The western edge of the territory is dominated by the Rocky Mountains, and is heavily forested, with lakes and waterfalls. To the east of the mountains, Montana is a territory of sweeping grassy plains and prairies as the Great Plains reach this far north, including eroded bluffs called Badlands. Montana is called ‘Big Sky Country’ for a reason.
+**Montana Territory** : The western edge of the territory is dominated by the Rocky Mountains, and is heavily forested, with lakes and waterfalls. To the east of the mountains, Montana is a territory of sweeping grassy plains and prairies as the Great Plains reach this far north, including eroded bluffs called Badlands. The country opens wide there, with wind, distance, and sky seeming to swallow the horizon.
 
 **Wyoming Territory** : Mountainous and semi-arid, the Great Plains to the south meet the Rocky Mountains in Wyoming. In the northwest, the Yellowstone National Park holds pride of place, established by an act of Congress in 1872, while the High Plains dominate the east.
 
-**Dakota Territory** : Wide and fertile grasslands with low mountains in the south, forested river valleys and a temperate climate. The Missouri river divides the territory down the middle. The Black Hills stand in the west, while the Great Plains meet the Red River Valley in the north. As in Montana, there are extensive Badlands in the west, where the land has eroded into striking rock formations.
+**Dakota Territory** : Wide grasslands, river breaks, wooded bottoms, and a temperate continental climate. The Missouri River divides the territory down the middle. The Black Hills rise in the west, while the Great Plains meet the Red River Valley in the east and north. As in Montana, there are extensive Badlands in the west, where the land has eroded into striking rock formations.
 
 **Nebraska** : Rolling plains, with low hills and grasslands to the east—the Dissected Till Plains—that meets the treeless prairies of the Great Plains to the west. There are woodlands to the east and in the northwest, and expansive wetlands, with lakes, marshes, swamps, and backwaters. Nebraska achieved statehood in 1867—the newest state in the Union when the game begins.
 
-**Kansas** : The western two thirds are covered by the central Great Plains, marked by shallow gullies called draws, created by water erosion. To the east the land gently rises, forming grasslands and forests. The state is pock-marked by hills and low mountain ranges such as Flint Hills in the southeast, and the Smoky Hills to the west.
+**Kansas** : The western two thirds are covered by the central Great Plains, marked by shallow gullies called draws, created by water erosion. To the east the land gently rises, forming grasslands and forests. The Flint Hills run through the east-central country, while the Smoky Hills roll across the center of the state.
 
 **Indian Territory** : The southeast is mountainous and heavily forested, with the notable Ouachita Mountains. The land rises to the west, meeting the High Plains in the territory’s panhandle. In between the two are the notorious Cross Timbers, a narrow forest that runs from Kansas in the north into Texas in the south—described as a “forest of cast iron” the Cross Timbers is so dense that many choose to go around it.
 
@@ -66,7 +66,7 @@ We have listed some of the sources that have inspired us at the end of this chap
 
 **Arizona Territory** : The northeastern third of the territory rests on the high Colorado Plateau. The Colorado river flows through here, and the Grand Canyon, on its journey to the west. With its high and low elevation deserts, deep river canyons, and mountain ranges, the land is arid and dry. Temperatures can get very high in the south.
 
-**Utah Territory** : Located at the convergence of the Colorado Plateau, the Great Basin, and the Rocky Mountains, Utah Territory has a very diverse landscape. The western half sits on the Colorado Plateau, with the Mojave Desert to the south and the Great Salt Lake desert and the Bonneville Salt Flats to the north. The mountains have large forests and varied climates.
+**Utah Territory** : Located at the convergence of the Colorado Plateau, the Great Basin, and the Rocky Mountains, Utah Territory has a very diverse landscape. Much of the west lies in the Great Basin, with salt flats, desert basins, and isolated mountain ranges, while the east and southeast belong to the canyon country and high tablelands of the Colorado Plateau. The Mojave reaches into the southwest, and the mountains carry large forests and varied climates.
 
 #### The Western Expansion
 
@@ -88,7 +88,7 @@ The environmental cost was immense and immediate. Hydraulic mining in California
 
 **1845** : Texas is incorporated into the Union as a state. This starts the chain of events that leads to the Mexican–American War, which breaks out in hostilities the following year.
 
-**1848** : The US defeats Mexico and enormous swathes of once-Mexican territory in the west are ceded to the US. As a result of this, along with the Gadsden Purchase, the borders of the Wild West are now set. The Treaty of Guadalupe Hidalgo guarantees the land and citizenship rights of Mexicans remaining in the ceded territories—promises that will be systematically broken in the decades to come.
+**1848** : The US defeats Mexico and enormous swathes of once-Mexican territory in the west are ceded to the US. As a result of this, along with the Gadsden Purchase, the political map of the later western frontier is largely set. The Treaty of Guadalupe Hidalgo guarantees the land and citizenship rights of Mexicans remaining in the ceded territories—promises that will be systematically broken in the decades to come.
 
 **1849** : Following the discovery of gold along the American River, the California Gold Rush takes place. Thousands flock west in search of their fortunes. The influx triggers a wave of violence against California’s Native peoples. Within a year, miners, settlers, and state-funded militia units begin organized campaigns of killing, kidnapping, and enslavement targeting Native communities.
 
@@ -278,7 +278,7 @@ For a campaign, the medicine show as a travelling party base—moving from town 
 
 Every town of any size had at least one newspaper, often two or three competing for readers and political patronage. Frontier editors wielded enormous influence: they shaped public opinion, backed political candidates, printed wanted notices, whipped up mob sentiment, and occasionally got shot for their opinions. The editor's office was frequently targeted by those he criticized—presses were smashed, editors were horsewhipped, and at least a few were murdered.
 
-Yellow journalism was emerging in this period: the deliberate exaggeration, fabrication, or sensationalization of news to drive circulation. The James gang's sympathetic press coverage was a direct product of this environment—editor John Newman Edwards of the Kansas City Times practically invented Jesse James as a romantic outlaw, turning a violent bank robber into a folk hero through the power of print. A party working with or against a yellow journalist creates fascinating moral questions about truth, narrative, and consequences.
+Sensational and openly partisan journalism was already common in this period, even if the later label “yellow journalism” had not yet attached itself to it. The James gang's sympathetic press coverage was a direct product of this environment—editor John Newman Edwards of the Kansas City Times practically invented Jesse James as a romantic outlaw, turning a violent bank robber into a folk hero through the power of print. A party working with or against such a journalist creates fascinating moral questions about truth, narrative, and consequences.
 
 The newspaper editor as a patron NPC or party role is underused. He knows everything that happens in town—people come to him with tips, rumors, complaints, and grievances. He needs stories investigated, witnesses tracked down, and evidence gathered. He can print revelations that change the political landscape of a campaign in a single issue—or be silenced before he does. A reporter has been murdered before publishing a story. A rival paper is running a smear campaign that is destroying a fair election. A newspaper editor discovers that the town's most respected citizen is a wanted man. Each is a campaign engine.
 
@@ -852,7 +852,6 @@ There had long been an abolitionist movement against slavery in the US, but it t
 > _Enslaved people were literally treated as livestock, with some slave owners taking more interest in the welfare of their so-called property than others. The men were referred to as “bucks”, the women as “wenches”. Slave auctions would see children sold away from their mothers, and husbands and wives torn apart, usually never to see one another again. In one example, slave traders would gather enslaved people and ship them down the Mississippi to the New Orleans markets, literally “selling them down the river”. In some places the enslaved were fitted with bells, so they were easier to track down should they run away. So-called pattyrollers were hired to track and capture runaways, and had a terrible reputation for brutality—captured runaways were sure to be punished, often brutally, sometimes fatally._
 >
 > _One of the most pervasive and least discussed realities of slavery was the epidemic of sexual violence against enslaved women. Rape by slaveholders was legal, routine, and economically incentivized—children born of these assaults were themselves enslaved, increasing the owner’s “property.” This was not a marginal phenomenon; it was structural to the institution. Enslaved women had no legal recourse and no right to refuse. The DNA record confirms what the historical record long made clear: sexual exploitation of enslaved women was systematic and pervasive. It must be named for what it was._
-
 
 ### Convict Leasing and the Black Codes
 

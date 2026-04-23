@@ -1,6 +1,6 @@
 ## Chapter 4 - Talents
 
-> *“IF YOU CLIMB IN THE SADDLE, BE READY FOR THE RIDE!”*
+> _“IF YOU CLIMB IN THE SADDLE, BE READY FOR THE RIDE!”_
 >
 > — OLD WEST SAYING
 
@@ -365,6 +365,14 @@ You have lived your life in the mountains.
 **Basic** : Gain a +1 bonus to NATURE and RESILIENCE tests when in the wilderness.
 
 **Advanced** : You do not suffer any conditions until twice the usual time has elapsed, and gain an extra +2 bonus when making camp or constructing a shelter.
+
+### Polyglot
+
+You have grown up among more than one people, or spent enough years trading, scouting, courting, preaching, serving, or simply surviving among them that another tongue sits easy in your mouth.
+
+**Basic** : Choose one additional spoken language or sign system that fits your upbringing and the campaign, such as Spanish in the borderlands, German in a hill-country settlement, Plains Indian Sign Language, or a specific Native language such as Comanche, Diné, Apache, or Lakota. You can hold ordinary conversation in it, ask questions, bargain, follow directions, and understand common gossip without a language barrier. When dealing in that language, gain a +1 bonus to `PERFORMIN'` or `INSIGHT`, whichever best fits the scene.
+
+**Advanced** : Choose a second additional spoken language or sign system. You can interpret between any languages you know well enough to speak, and you are hard to mislead by dialect, euphemism, or a witness who thinks they can lose you in translation. Gain a +1 bonus to `BOOKLEARNIN'`, `INSIGHT`, or `PERFORMIN'` when translating testimony, reading names or notices aloud, or smoothing parley between speakers who do not share a tongue. If you also have `Educated`, you can slowly read and write simple letters, signs, and ledgers in the languages you know through this talent.
 
 ### Pistoleer
 
