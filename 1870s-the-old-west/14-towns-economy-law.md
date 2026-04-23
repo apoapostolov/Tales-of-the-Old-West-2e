@@ -52,17 +52,12 @@ The saloon was the meeting hall, the post office (mail held behind the bar), the
 
 The trade ran a clear hierarchy.
 
-**The parlor house** was the high end. A two-story Victorian house with a parlor, a piano, a madame, six to twelve women. A gentleman caller bought drinks (champagne five dollars the bottle), spent time in the parlor, and went upstairs. Five to twenty dollars the visit. The women were paid relatively well and worked in conditions the rest of the trade did not have.
-
-**The dance hall** charged customers ten to twenty-five cents the dance, after which the customer bought the woman a drink (the bar cut her in on the drink). Many dance-hall women were also prostitutes.
-
-**The saloon girl** worked the floor of a saloon, pushing drinks. Often a prostitute as well. Worked on commission from the bar.
-
-**The crib** was a single-room shack, often in a row of identical cribs along a back alley — Dodge's Tin Can Alley, Leadville's Stillborn Alley. The lowest rung. The woman might see twenty or thirty men a night at fifty cents to a dollar. Disease, addiction, violence, and suicide were the endpoints. Most crib girls were dead or gone by thirty.
-
-**The hog ranch** was a roadhouse-brothel outside an Army post. Whiskey, gambling, women. Famously violent.
-
-**The married-out** was a prostitute who married a customer or a saloon man and left the trade. A common path out for the lucky.
+- **The parlor house** was the high end. A two-story Victorian house with a parlor, a piano, a madame, six to twelve women. A gentleman caller bought drinks (champagne five dollars the bottle), spent time in the parlor, and went upstairs. Five to twenty dollars the visit. The women were paid relatively well and worked in conditions the rest of the trade did not have.
+- **The dance hall** charged customers ten to twenty-five cents the dance, after which the customer bought the woman a drink (the bar cut her in on the drink). Many dance-hall women were also prostitutes.
+- **The saloon girl** worked the floor of a saloon, pushing drinks. Often a prostitute as well. Worked on commission from the bar.
+- **The crib** was a single-room shack, often in a row of identical cribs along a back alley — Dodge's Tin Can Alley, Leadville's Stillborn Alley. The lowest rung. The woman might see twenty or thirty men a night at fifty cents to a dollar. Disease, addiction, violence, and suicide were the endpoints. Most crib girls were dead or gone by thirty.
+- **The hog ranch** was a roadhouse-brothel outside an Army post. Whiskey, gambling, women. Famously violent.
+- **The married-out** was a prostitute who married a customer or a saloon man and left the trade. A common path out for the lucky.
 
 The reformer's account of the trade as uniformly degraded was a distortion; the celebrant's account of _soiled doves with hearts of gold_ was a distortion the other way. The real population ran from highly paid madames to children dying of syphilis in back alleys. Write any specific woman by her position. Do not generalize.
 
@@ -134,23 +129,35 @@ A cowhand returning from a drive with a hundred dollars could spend it all in te
 
 ### The federal layer
 
-**The deputy U.S. marshal** was a federal officer with jurisdiction in federal cases — mail robbery, federal land disputes, crimes in federal territories, crimes in Indian Territory. The most respected lawmen on the frontier. Bass Reeves, Heck Thomas, Bill Tilghman, Chris Madsen — the _Three Guardsmen_ of Indian Territory — were deputy U.S. marshals. Paid by fee: so much per arrest, mileage, return. **The U.S. marshal** was the administrative head, appointed by the President, ran the deputies, kept a courthouse office. **The federal court:** Judge Isaac Parker at Fort Smith, Arkansas had jurisdiction over the Indian Territory through the 1880s — the _Hanging Judge,_ who sent seventy-nine men to the gallows.
+- **The deputy U.S. marshal** was a federal officer with jurisdiction in federal cases — mail robbery, federal land disputes, crimes in federal territories, crimes in Indian Territory. The most respected lawmen on the frontier. Bass Reeves, Heck Thomas, Bill Tilghman, Chris Madsen — the _Three Guardsmen_ of Indian Territory — were deputy U.S. marshals. Paid by fee: so much per arrest, mileage, return.
+- **The U.S. marshal** was the administrative head, appointed by the President, ran the deputies, kept a courthouse office.
+- **The federal court:** Judge Isaac Parker at Fort Smith, Arkansas had jurisdiction over the Indian Territory through the 1880s — the _Hanging Judge,_ who sent seventy-nine men to the gallows.
 
 ### The territorial / state layer
 
-**The sheriff** was the elected county officer who served warrants, ran the jail, collected county taxes, served civil process, and could appoint deputies. The most powerful local law in most Western counties. **The Texas Rangers** were a state mounted force of approximately five hundred men in companies of thirty to eighty, with statewide jurisdiction. Effective and brutal. Suppressed Comanche raiding, hunted outlaws, fought Mexican raiders along the Rio Grande, and played a role in extralegal violence against Tejanos. **Arizona Rangers** and **New Mexico Mounted Police** were similar state forces, later — 1900s.
+- **The sheriff** was the elected county officer who served warrants, ran the jail, collected county taxes, served civil process, and could appoint deputies. The most powerful local law in most Western counties.
+- **The Texas Rangers** were a state mounted force of approximately five hundred men in companies of thirty to eighty, with statewide jurisdiction. Effective and brutal. Suppressed Comanche raiding, hunted outlaws, fought Mexican raiders along the Rio Grande, and played a role in extralegal violence against Tejanos.
+- **Arizona Rangers** and
+- **New Mexico Mounted Police** were similar state forces, later — 1900s.
 
 ### The town / municipal layer
 
-**The town marshal** was hired by the town council with jurisdiction inside town limits. The town marshal in a cattle town like Dodge or Tombstone enforced the no-firearms-in-town ordinance (every cattle town had one in some form), broke up fights, walked his rounds at night, collected fines. **The constable** was a lower municipal officer. **The night watchman** was hired by businesses to walk a beat — often by Wells Fargo to guard the bank or the express office.
+- **The town marshal** was hired by the town council with jurisdiction inside town limits. The town marshal in a cattle town like Dodge or Tombstone enforced the no-firearms-in-town ordinance (every cattle town had one in some form), broke up fights, walked his rounds at night, collected fines.
+- **The constable** was a lower municipal officer.
+- **The night watchman** was hired by businesses to walk a beat — often by Wells Fargo to guard the bank or the express office.
 
 ### The private layer
 
-**Pinkerton agents** worked for the national detective agency hired by banks, railroads, and mine owners. Strikebreakers — often brutally — bounty hunters, infiltrators. Hated in working-class country. **Stock detectives and range detectives** were hired by the cattlemen's associations of Wyoming, Montana, and Texas. Some were killers (Tom Horn). The Johnson County War (Wyoming, 1892) was fought between the large ranchers' detectives and the small ranchers and homesteaders. **Wells Fargo detectives** investigated stage and express robberies; James B. Hume was the most famous. **Private guards** for companies, mines, and ranches.
+- **Pinkerton agents** worked for the national detective agency hired by banks, railroads, and mine owners. Strikebreakers — often brutally — bounty hunters, infiltrators. Hated in working-class country.
+- **Stock detectives and range detectives** were hired by the cattlemen's associations of Wyoming, Montana, and Texas. Some were killers (Tom Horn). The Johnson County War (Wyoming, 1892) was fought between the large ranchers' detectives and the small ranchers and homesteaders.
+- **Wells Fargo detectives** investigated stage and express robberies; James B. Hume was the most famous.
+- **Private guards** for companies, mines, and ranches.
 
 ### The extralegal layer
 
-**Vigilance committees** were self-appointed citizen groups that arrested, tried, and hanged suspected criminals when (or before) the legal authority acted. The famous: the San Francisco Committee of Vigilance (1851 and 1856), the Montana Vigilantes (1864–65, who hanged Sheriff Henry Plummer's gang in Bannack and Virginia City), the Ku Klux Klan and the White Leagues in the Reconstruction South. **Lynch mobs** were less organized than vigilance committees — a crowd, sometimes drunk, that took a prisoner from the jail and hanged him. Common. Jails in the West frequently lost their prisoners. **Posses** — a sheriff or marshal could deputize the _posse comitatus,_ any able-bodied man within his jurisdiction, to pursue a fugitive. A posse was the line between law and mob, and the line moved.
+- **Vigilance committees** were self-appointed citizen groups that arrested, tried, and hanged suspected criminals when (or before) the legal authority acted. The famous: the San Francisco Committee of Vigilance (1851 and 1856), the Montana Vigilantes (1864–65, who hanged Sheriff Henry Plummer's gang in Bannack and Virginia City), the Ku Klux Klan and the White Leagues in the Reconstruction South.
+- **Lynch mobs** were less organized than vigilance committees — a crowd, sometimes drunk, that took a prisoner from the jail and hanged him. Common. Jails in the West frequently lost their prisoners.
+- **Posses** — a sheriff or marshal could deputize the _posse comitatus,_ any able-bodied man within his jurisdiction, to pursue a fugitive. A posse was the line between law and mob, and the line moved.
 
 ---
 
@@ -170,9 +177,8 @@ A real frontier trial sounded quick — a murder trial often lasted one or two d
 
 Two corrections to the popular myth.
 
-**Most western towns were not violent.** Dodge City in its peak year had five killings. Tombstone in 1881 had five (one was the OK Corral). A modern American city of the same size has more. The bulk of arrests in any cattle town were for drunkenness, disorderly conduct, and prostitution — the latter licensed and fined as a revenue source.
-
-**The big violence was in the country, not the town.** Range wars, Indian Wars, vigilante actions in the unsettled country, the lynching of Mexicans and Black men in the Texas borderlands and the Reconstruction South, the killing of homesteaders by hired guns of the cattle barons — the West's real body counts were here. The _gunfighter walking the dusty street at high noon_ is a single tradition out of many. Use it sparingly. Use the rest.
+- **Most western towns were not violent.** Dodge City in its peak year had five killings. Tombstone in 1881 had five (one was the OK Corral). A modern American city of the same size has more. The bulk of arrests in any cattle town were for drunkenness, disorderly conduct, and prostitution — the latter licensed and fined as a revenue source.
+- **The big violence was in the country, not the town.** Range wars, Indian Wars, vigilante actions in the unsettled country, the lynching of Mexicans and Black men in the Texas borderlands and the Reconstruction South, the killing of homesteaders by hired guns of the cattle barons — the West's real body counts were here. The _gunfighter walking the dusty street at high noon_ is a single tradition out of many. Use it sparingly. Use the rest.
 
 ---
 
@@ -188,11 +194,9 @@ This reality is missed in the screen-cowboy western. The cattle baron in the pag
 
 ## 8. What the Town Smells Like, Sounds Like
 
-**Smell.** Horse manure in the street, constant — a town of two thousand had perhaps a thousand horses. Wood smoke from cookstoves and forges. Bakery bread in the morning. Tobacco. Whiskey through the saloon doors. Coal smoke from the railroad. Outhouse stench in summer. Flowers in the spring along the fenced yards of the respectable houses.
-
-**Sound.** Wagon wheels on dirt or on plank sidewalks. Iron shoes on the same. Hammers in the smith's shop. Piano in the saloon at night, badly tuned. The locomotive's whistle three times a day. The court bell. The school bell. The church bell on Sunday. Drunks shouting in the late hours. A pistol shot now and then, often at the moon.
-
-**Sight.** Mud or dust in the streets, depending on weather. False-front frame buildings with the storefront one story taller than the building behind. Boardwalks with hitching rails out front. Tied horses. Loose dogs. Children. Few trees in most western towns; planted ones were a status symbol.
+- **Smell.** Horse manure in the street, constant — a town of two thousand had perhaps a thousand horses. Wood smoke from cookstoves and forges. Bakery bread in the morning. Tobacco. Whiskey through the saloon doors. Coal smoke from the railroad. Outhouse stench in summer. Flowers in the spring along the fenced yards of the respectable houses.
+- **Sound.** Wagon wheels on dirt or on plank sidewalks. Iron shoes on the same. Hammers in the smith's shop. Piano in the saloon at night, badly tuned. The locomotive's whistle three times a day. The court bell. The school bell. The church bell on Sunday. Drunks shouting in the late hours. A pistol shot now and then, often at the moon.
+- **Sight.** Mud or dust in the streets, depending on weather. False-front frame buildings with the storefront one story taller than the building behind. Boardwalks with hitching rails out front. Tied horses. Loose dogs. Children. Few trees in most western towns; planted ones were a status symbol.
 
 A town scene with two or three of these on the page reads true. A town scene with none reads like a movie set, which is what too many published westerns settle for.
 

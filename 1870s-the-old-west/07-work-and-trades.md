@@ -80,13 +80,11 @@ Train robberies were a real and lucrative crime. The James-Younger gang, the Ren
 
 Before the railroads reached every town and after, much of the West moved by wagon.
 
-**Mule trains** — a string of pack mules in single file carrying ore from a mine to a railhead, supplies in to a remote camp.
+- **Mule trains** — a string of pack mules in single file carrying ore from a mine to a railhead, supplies in to a remote camp.
+- **Wagon trains** — long heavy wagons, often coupled in pairs (the _trail wagon_ coupled behind the _lead wagon,_ with one team pulling both), drawn by eight to fourteen oxen or mules. The Russell, Majors & Waddell company at peak operated 75,000 oxen and 6,250 wagons and employed 5,000 men.
 
-**Wagon trains** — long heavy wagons, often coupled in pairs (the _trail wagon_ coupled behind the _lead wagon,_ with one team pulling both), drawn by eight to fourteen oxen or mules. The Russell, Majors & Waddell company at peak operated 75,000 oxen and 6,250 wagons and employed 5,000 men.
-
-**The freighter — the mule skinner or bullwhacker.** The man who drove the team. _Mule skinner_ for mule teams (worked from a saddle on the near-wheel mule, with a single rein — the _jerk line_ — and voice commands to the lead pair). _Bullwhacker_ for ox teams (walked on the left side of the team with a long whip). A profane trade. The bullwhacker's _blue streak_ of cursing was famous.
-
-**Stagecoach.** Concord coach, six-horse team, drivers — the _whip_ or _jehu_ held the reins and the _messenger_ sat next to him with a coach gun. Through the 1870s and 1880s before the rail extension closed each route. Wells Fargo, Butterfield Overland Mail, Holladay's Overland.
+- **The freighter — the mule skinner or bullwhacker.** The man who drove the team. _Mule skinner_ for mule teams (worked from a saddle on the near-wheel mule, with a single rein — the _jerk line_ — and voice commands to the lead pair). _Bullwhacker_ for ox teams (walked on the left side of the team with a long whip). A profane trade. The bullwhacker's _blue streak_ of cursing was famous.
+- **Stagecoach.** Concord coach, six-horse team, drivers — the _whip_ or _jehu_ held the reins and the _messenger_ sat next to him with a coach gun. Through the 1870s and 1880s before the rail extension closed each route. Wells Fargo, Butterfield Overland Mail, Holladay's Overland.
 
 The freighter and driver was a respected character. Charles Russell painted them. Mark Twain rode the Overland west and wrote _Roughing It_ about it.
 
@@ -172,33 +170,20 @@ A homestead wife's working day was longer than her husband's and relentless. Men
 
 Brief notes — each could fill a chapter.
 
-**Telegraph operator.** A skilled job. Decoded Morse by ear. In a small-town depot the telegrapher was often the most literate person in town. Some women operators (Western Union began hiring women in the 1860s).
-
-**Newspaper editor.** Set type by hand, ran the Washington press, wrote the editorials. Often shot at; sometimes killed.
-
-**Surveyor.** Federal land surveyors laid out the township-and-range grid that organized the public domain. State and county surveyors did boundary work. The transit and the Gunter's chain.
-
-**Lawyer.** A man with two years' reading in another lawyer's office, examined by the local court, admitted to the bar. Rode a circuit between county courts. Did wills, deeds, divorce, criminal defense. The frontier lawyer was a maker of careers — Lincoln had been one a generation earlier, and hundreds followed him into local and territorial politics.
-
-**Doctor.** See Chapter 23.
-
-**Schoolteacher.** Often a single woman in her early twenties on a one- or two-year contract. Boarded with a local family. Quit the trade on marriage; most jurisdictions did not employ married women as teachers.
-
-**Saloon-keeper.** Almost always a man. Often immigrant (Irish, German). Often the largest taxpayer in his town.
-
-**Madam.** The owner of a parlor house. Often a retired prostitute. A businesswoman. Some — Mattie Silks of Denver, Diamond Lil of Leadville — were locally famous.
-
-**Banker.** A respectable merchant who took in deposits, loaned at eight to twelve percent interest, lived on the spread. Often the banker also owned the largest store and the freight company.
-
-**Cook.** In a saloon, a hash house, a hotel, a cattle camp, a logging camp, a mining mess hall. Often Chinese in the Pacific West.
-
-**Laundry.** Often Chinese in the Pacific West, often Mexican or Black women elsewhere.
-
-**Domestic servant.** Often immigrant or Black or Native woman.
-
-**Soldier.** Thirteen dollars a month for a private. Three-year enlistment. Hard discipline, monotonous garrison life punctuated by campaigns. Heavy drinking, frequent desertion (a quarter to a third of enlistments deserted before the term was up). See Chapter 19.
-
-**Cowboy.** See Chapter 16.
+- **Telegraph operator.** A skilled job. Decoded Morse by ear. In a small-town depot the telegrapher was often the most literate person in town. Some women operators (Western Union began hiring women in the 1860s).
+- **Newspaper editor.** Set type by hand, ran the Washington press, wrote the editorials. Often shot at; sometimes killed.
+- **Surveyor.** Federal land surveyors laid out the township-and-range grid that organized the public domain. State and county surveyors did boundary work. The transit and the Gunter's chain.
+- **Lawyer.** A man with two years' reading in another lawyer's office, examined by the local court, admitted to the bar. Rode a circuit between county courts. Did wills, deeds, divorce, criminal defense. The frontier lawyer was a maker of careers — Lincoln had been one a generation earlier, and hundreds followed him into local and territorial politics.
+- **Doctor.** See Chapter 23.
+- **Schoolteacher.** Often a single woman in her early twenties on a one- or two-year contract. Boarded with a local family. Quit the trade on marriage; most jurisdictions did not employ married women as teachers.
+- **Saloon-keeper.** Almost always a man. Often immigrant (Irish, German). Often the largest taxpayer in his town.
+- **Madam.** The owner of a parlor house. Often a retired prostitute. A businesswoman. Some — Mattie Silks of Denver, Diamond Lil of Leadville — were locally famous.
+- **Banker.** A respectable merchant who took in deposits, loaned at eight to twelve percent interest, lived on the spread. Often the banker also owned the largest store and the freight company.
+- **Cook.** In a saloon, a hash house, a hotel, a cattle camp, a logging camp, a mining mess hall. Often Chinese in the Pacific West.
+- **Laundry.** Often Chinese in the Pacific West, often Mexican or Black women elsewhere.
+- **Domestic servant.** Often immigrant or Black or Native woman.
+- **Soldier.** Thirteen dollars a month for a private. Three-year enlistment. Hard discipline, monotonous garrison life punctuated by campaigns. Heavy drinking, frequent desertion (a quarter to a third of enlistments deserted before the term was up). See Chapter 19.
+- **Cowboy.** See Chapter 16.
 
 ---
 

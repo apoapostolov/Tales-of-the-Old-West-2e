@@ -40,35 +40,43 @@ Western weather kills more often than men do. Each region has its own killers.
 
 ### The high plains (Texas Panhandle through the Dakotas)
 
-**Blue norther.** A cold front out of Canada that drops the temperature 50°F in two hours. Black-blue cloud bank on the northern horizon. Wind to fifty mph. Stock and unprepared men die. Stories of riders frozen to the saddle. Common October–April.
-
-**Chinook.** A warm dry wind off the Rockies in winter that raises the temperature 40°F in a day and melts snow. Welcome but treacherous — the melt re-freezes that night.
-
-**Hailstorm.** Summer. Hail the size of marbles to baseballs. Kills calves and drives a herd into stampede.
-
-**Tornado.** Spring and summer. The warning was the green cast in the western sky.
-
-**Lightning.** The leading cause of stampedes. A single bolt hitting a tree near the herd put 2,500 cattle on their feet in seconds.
-
-**Drought.** Multi-year droughts (notably 1886–87 on the northern plains) killed millions of cattle. The _Big Die-Up_ ended the open-range era.
-
-**The Hard Winter of 1886–87.** Snow in November, blizzards through January, temperatures below −40°F across Montana and Wyoming. Cattle starved by the hundreds of thousands. Charles M. Russell drew it on a postcard: a single starving cow surrounded by wolves, captioned _Waiting for a Chinook._
+- **Blue norther.** A cold front out of Canada that drops the temperature 50°F in two hours. Black-blue cloud bank on the northern horizon. Wind to fifty mph. Stock and unprepared men die. Stories of riders frozen to the saddle. Common October–April.
+- **Chinook.** A warm dry wind off the Rockies in winter that raises the temperature 40°F in a day and melts snow. Welcome but treacherous — the melt re-freezes that night.
+- **Hailstorm.** Summer. Hail the size of marbles to baseballs. Kills calves and drives a herd into stampede.
+- **Tornado.** Spring and summer. The warning was the green cast in the western sky.
+- **Lightning.** The leading cause of stampedes. A single bolt hitting a tree near the herd put 2,500 cattle on their feet in seconds.
+- **Drought.** Multi-year droughts (notably 1886–87 on the northern plains) killed millions of cattle. The _Big Die-Up_ ended the open-range era.
+- **The Hard Winter of 1886–87.** Snow in November, blizzards through January, temperatures below −40°F across Montana and Wyoming. Cattle starved by the hundreds of thousands. Charles M. Russell drew it on a postcard: a single starving cow surrounded by wolves, captioned _Waiting for a Chinook._
 
 ### The Southwest desert (Arizona, New Mexico, west Texas)
 
-**Heat.** Summer afternoons over 110°F. A man without water dies in hours. **Cold nights.** Desert temperatures drop 50°F after sundown; a man without a blanket can freeze in July. **Dust storm (haboob).** A wall of brown dust sometimes thousands of feet high, advancing across the desert ahead of a thunderstorm. Visibility to zero. **Flash flood.** A summer thunderstorm twenty miles upstream can send a wall of water down a dry arroyo without warning. The arroyo a man slept in last night becomes the river that drowns him today. **Sandstorm.** Wind off the desert with sand at forty mph. Eyes, mouth, lungs choked.
+- **Heat.** Summer afternoons over 110°F. A man without water dies in hours.
+- **Cold nights.** Desert temperatures drop 50°F after sundown; a man without a blanket can freeze in July.
+- **Dust storm (haboob).** A wall of brown dust sometimes thousands of feet high, advancing across the desert ahead of a thunderstorm. Visibility to zero.
+- **Flash flood.** A summer thunderstorm twenty miles upstream can send a wall of water down a dry arroyo without warning. The arroyo a man slept in last night becomes the river that drowns him today.
+- **Sandstorm.** Wind off the desert with sand at forty mph. Eyes, mouth, lungs choked.
 
 ### The mountains (Rockies, Sierras, Cascades, Bitterroots)
 
-**Snow** September through May at altitude. Snowed-in passes, snowed-in cabins. **Avalanche** on steep slopes after fresh snow. **Lightning above timberline** strikes the ridge man. **Hypothermia** — a wet rider in a Rocky Mountain summer rain at 9,000 feet can be in serious trouble in two hours. **Altitude sickness** — a man from the lowlands climbing fast to 10,000 feet is sick the first night.
+- **Snow** September through May at altitude. Snowed-in passes, snowed-in cabins.
+- **Avalanche** on steep slopes after fresh snow.
+- **Lightning above timberline** strikes the ridge man.
+- **Hypothermia** — a wet rider in a Rocky Mountain summer rain at 9,000 feet can be in serious trouble in two hours.
+- **Altitude sickness** — a man from the lowlands climbing fast to 10,000 feet is sick the first night.
 
 ### The Pacific coast and Great Basin
 
-**Sierra winter.** Donner-Party country. The Sierras catch Pacific storms and dump thirty feet of snow per season at altitude. **Great Basin summer.** Hot, dry, alkali. Death Valley. **Coast fog.** Wet, cold, persistent. A man on horseback along the California coast in winter is wet for three months.
+- **Sierra winter.** Donner-Party country. The Sierras catch Pacific storms and dump thirty feet of snow per season at altitude.
+- **Great Basin summer.** Hot, dry, alkali. Death Valley.
+- **Coast fog.** Wet, cold, persistent. A man on horseback along the California coast in winter is wet for three months.
 
 ### The southern plains (Texas, Oklahoma)
 
-**Heat with humidity** in eastern Texas — dehydrating, sapping. **Norther** as on the high plains. **Tornado** alley. **Drought** cycles. **Hurricane** along the coast — the 1875 and 1886 Indianola hurricanes destroyed the Texas port.
+- **Heat with humidity** in eastern Texas — dehydrating, sapping.
+- **Norther** as on the high plains.
+- **Tornado** alley.
+- **Drought** cycles.
+- **Hurricane** along the coast — the 1875 and 1886 Indianola hurricanes destroyed the Texas port.
 
 ---
 
@@ -78,7 +86,11 @@ Fire is life and fire is death.
 
 ### Starting a fire
 
-**Matches.** Available everywhere by the 1850s. Lucifer matches in the 1830s, friction matches by the 1860s. A man carried matches in a tin or a watertight rubber bag. Wet matches were useless. **Flint and steel** — older method, kept as backup. A flint-and-steel man with charcloth and good tinder could raise a flame in two minutes in dry weather, twenty in wet. **Burning glass** (a magnifying lens) in sun. **Pistol shot into a wad of tinder** — mountain man's trick. **Bow drill and friction** — Native technique. Slow.
+- **Matches.** Available everywhere by the 1850s. Lucifer matches in the 1830s, friction matches by the 1860s. A man carried matches in a tin or a watertight rubber bag. Wet matches were useless.
+- **Flint and steel** — older method, kept as backup. A flint-and-steel man with charcloth and good tinder could raise a flame in two minutes in dry weather, twenty in wet.
+- **Burning glass** (a magnifying lens) in sun.
+- **Pistol shot into a wad of tinder** — mountain man's trick.
+- **Bow drill and friction** — Native technique. Slow.
 
 ### Tinder, kindling, fuel
 
@@ -98,15 +110,11 @@ Prairie fires raced faster than a horse could run, fueled by dry grass. A grass 
 
 There were maps. They were often wrong. The wagon trails were known and marked by ruts and graves. Off the trails a man navigated by sun, by stars, by landmarks, by dead reckoning.
 
-**Sun and time.** A pocket watch, kept wound and reset against true noon (the sun at zenith). Solar noon was the practical reset. A man without a watch read the sun's height to estimate time. The shadow at noon pointed north (in the northern hemisphere).
-
-**Stars.** The North Star (Polaris). Found by the pointer stars of the Big Dipper. A traveler at night moved by the stars.
-
-**Landmarks.** A mountain peak, a butte, a notch on the horizon. A traveler carried a mental map of his country. The Native scouts knew the country in detail no Anglo surveyor matched. The Army hired Pawnee, Apache, Crow scouts for this reason.
-
-**Dead reckoning.** Estimate of speed and direction over time gives position. A man riding thirty miles a day on a known compass heading knew approximately where he was on the third day even with no landmark.
-
-**Trail signs.** Plains tribes and mountain men marked trails: a bent grass clump with the bend pointing the direction; stones piled in a small cairn; a blaze cut on a tree (in country that had trees); a skull on a stake at the head of a draw. A man who could read sign could follow a trail two days old. A man who could not could pass within ten yards of a man hiding in the brush.
+- **Sun and time.** A pocket watch, kept wound and reset against true noon (the sun at zenith). Solar noon was the practical reset. A man without a watch read the sun's height to estimate time. The shadow at noon pointed north (in the northern hemisphere).
+- **Stars.** The North Star (Polaris). Found by the pointer stars of the Big Dipper. A traveler at night moved by the stars.
+- **Landmarks.** A mountain peak, a butte, a notch on the horizon. A traveler carried a mental map of his country. The Native scouts knew the country in detail no Anglo surveyor matched. The Army hired Pawnee, Apache, Crow scouts for this reason.
+- **Dead reckoning.** Estimate of speed and direction over time gives position. A man riding thirty miles a day on a known compass heading knew approximately where he was on the third day even with no landmark.
+- **Trail signs.** Plains tribes and mountain men marked trails: a bent grass clump with the bend pointing the direction; stones piled in a small cairn; a blaze cut on a tree (in country that had trees); a skull on a stake at the head of a draw. A man who could read sign could follow a trail two days old. A man who could not could pass within ten yards of a man hiding in the brush.
 
 ---
 
@@ -128,11 +136,9 @@ The modern sense of distance is wrong. Get this right or lose verisimilitude.
 | Stagecoach, with team changes                  | 100–125 miles in 24 h                                   |
 | Train                                          | 20–30 mph cruising; coast-to-coast in 7 days after 1869 |
 
-**Horse-killing facts.** A horse run hard for a day is no good for a week. A horse run hard for two days is dead or ruined. A man riding for his life changed horses if he could. If he could not, he killed the horse he was on by the second day. Killing a man's horse in the desert was killing the man.
-
-**Walking.** Hands hated to walk. Boots were not made for it. A cowhand afoot was a man in trouble, and the joke in the bunkhouse was _a cowboy on the ground is just a man with the wrong hat._
-
-**River crossings.** A flooded river stopped travel. Wagons were caulked (the box sealed with pitch and floated as a boat) or built up on logs or simply waited. Many drowned.
+- **Horse-killing facts.** A horse run hard for a day is no good for a week. A horse run hard for two days is dead or ruined. A man riding for his life changed horses if he could. If he could not, he killed the horse he was on by the second day. Killing a man's horse in the desert was killing the man.
+- **Walking.** Hands hated to walk. Boots were not made for it. A cowhand afoot was a man in trouble, and the joke in the bunkhouse was _a cowboy on the ground is just a man with the wrong hat._
+- **River crossings.** A flooded river stopped travel. Wagons were caulked (the box sealed with pitch and floated as a boat) or built up on logs or simply waited. Many drowned.
 
 ---
 
@@ -140,27 +146,17 @@ The modern sense of distance is wrong. Get this right or lose verisimilitude.
 
 A working knowledge of where things are.
 
-**The Llano Estacado (Staked Plains).** West Texas, eastern New Mexico. A flat, treeless, water-poor high plateau, escarpment on the east. Comanche country until Mackenzie's 1874 Palo Duro campaign broke them. Almost no surface water; the few _playas_ (rain-pools) were the only stops. The Comanchero traders crossed it east-to-west to trade with the tribes.
-
-**The Brazos and Pecos.** The Brazos River — central Texas, ran east, the heart of ranch country. The Pecos River — west Texas / eastern New Mexico, ran south, alkali, treacherous quicksand. _West of the Pecos_ came to mean lawless country (Judge Roy Bean's _Law West of the Pecos_).
-
-**The Sonoran Desert.** Southern Arizona, northern Mexico. Saguaro country. Cholla, ocotillo, mesquite. Apache country. Hot. Dry. Beautiful in the spring bloom.
-
-**The Mojave.** Southern California, southern Nevada. Higher and colder than the Sonoran. Joshua trees. Death Valley.
-
-**The Sierra Nevada.** California's eastern wall. The Donner Pass. Yosemite. Goldfields on the western slope (1849 onward).
-
-**The Rockies.** Spine of the continent. Pikes Peak, Long's Peak, the Tetons, the Wind Rivers, the Bitterroots. Mining country: gold and silver in Colorado (Cripple Creek, Leadville), Montana (Helena, Butte), the Black Hills.
-
-**The Great Basin.** Nevada and western Utah. Cold desert, high, salty. Mormon country (Salt Lake settled 1847). Comstock Lode (Virginia City) silver.
-
-**The Black Hills.** Western South Dakota / eastern Wyoming. Lakota sacred ground. Custer's 1874 expedition found gold; the Gold Rush of 1875–76 brought Deadwood, Lead, the breaking of the treaty, the Great Sioux War, the Little Bighorn.
-
-**The Northern Plains (Wyoming, Montana, Dakotas).** High, cold, rolling grass. Lakota, Cheyenne, Crow, Blackfoot, Arapaho country. Cattle country after 1880, ruined by 1886–87.
-
-**The Indian Territory.** Modern Oklahoma. Resettled tribes from the Trail of Tears (Cherokee, Choctaw, Creek, Chickasaw, Seminole) in the east. Wild tribes and the unassigned lands in the west. _No-Man's Land_ on the panhandle. Outlaws hid here. Federal court at Fort Smith (Judge Parker, the _Hanging Judge_) had jurisdiction.
-
-**The Pacific Northwest.** Oregon, Washington, Idaho. Wetter, forested. Nez Perce country (Chief Joseph's 1877 retreat). Settlement after the Oregon Trail in the 1840s.
+- **The Llano Estacado (Staked Plains).** West Texas, eastern New Mexico. A flat, treeless, water-poor high plateau, escarpment on the east. Comanche country until Mackenzie's 1874 Palo Duro campaign broke them. Almost no surface water; the few _playas_ (rain-pools) were the only stops. The Comanchero traders crossed it east-to-west to trade with the tribes.
+- **The Brazos and Pecos.** The Brazos River — central Texas, ran east, the heart of ranch country. The Pecos River — west Texas / eastern New Mexico, ran south, alkali, treacherous quicksand. _West of the Pecos_ came to mean lawless country (Judge Roy Bean's _Law West of the Pecos_).
+- **The Sonoran Desert.** Southern Arizona, northern Mexico. Saguaro country. Cholla, ocotillo, mesquite. Apache country. Hot. Dry. Beautiful in the spring bloom.
+- **The Mojave.** Southern California, southern Nevada. Higher and colder than the Sonoran. Joshua trees. Death Valley.
+- **The Sierra Nevada.** California's eastern wall. The Donner Pass. Yosemite. Goldfields on the western slope (1849 onward).
+- **The Rockies.** Spine of the continent. Pikes Peak, Long's Peak, the Tetons, the Wind Rivers, the Bitterroots. Mining country: gold and silver in Colorado (Cripple Creek, Leadville), Montana (Helena, Butte), the Black Hills.
+- **The Great Basin.** Nevada and western Utah. Cold desert, high, salty. Mormon country (Salt Lake settled 1847). Comstock Lode (Virginia City) silver.
+- **The Black Hills.** Western South Dakota / eastern Wyoming. Lakota sacred ground. Custer's 1874 expedition found gold; the Gold Rush of 1875–76 brought Deadwood, Lead, the breaking of the treaty, the Great Sioux War, the Little Bighorn.
+- **The Northern Plains (Wyoming, Montana, Dakotas).** High, cold, rolling grass. Lakota, Cheyenne, Crow, Blackfoot, Arapaho country. Cattle country after 1880, ruined by 1886–87.
+- **The Indian Territory.** Modern Oklahoma. Resettled tribes from the Trail of Tears (Cherokee, Choctaw, Creek, Chickasaw, Seminole) in the east. Wild tribes and the unassigned lands in the west. _No-Man's Land_ on the panhandle. Outlaws hid here. Federal court at Fort Smith (Judge Parker, the _Hanging Judge_) had jurisdiction.
+- **The Pacific Northwest.** Oregon, Washington, Idaho. Wetter, forested. Nez Perce country (Chief Joseph's 1877 retreat). Settlement after the Oregon Trail in the 1840s.
 
 ---
 
@@ -338,11 +334,9 @@ By the late 1860s and through the 1870s and 1880s, the western frontier became a
 
 ### The clientele
 
-**The American Eastern sportsman.** The merchant or banker or attorney from Philadelphia or Boston or New York with the means and the leisure for a six-week hunt. He came by rail with his case of English shotguns and his .45-70 hunting rifle and his servant and his wife if she was sporting (the Eastern sporting wife was a defined type). He took the trip to write about for the local sporting paper, to bring back trophies, to escape his business.
-
-**The British and European nobleman.** The more famous version. The Earl of Dunraven made repeated trips to the Estes Park region of Colorado in the 1870s and eventually attempted to acquire the entire valley. Sir William Drummond Stewart had toured the Rockies in the 1830s and 1840s and set the template. Grand Duke Alexis of Russia made the famous 1872 buffalo hunt with George Custer and Buffalo Bill Cody. The European sporting party came with a retinue and a budget.
-
-**The American officer's hunt.** Not strictly professional guiding but related. Senior officers stationed at frontier posts often organized hunting trips with civilian scouts and Native guides. The officer's wife or visiting Eastern relative was often included.
+- **The American Eastern sportsman.** The merchant or banker or attorney from Philadelphia or Boston or New York with the means and the leisure for a six-week hunt. He came by rail with his case of English shotguns and his .45-70 hunting rifle and his servant and his wife if she was sporting (the Eastern sporting wife was a defined type). He took the trip to write about for the local sporting paper, to bring back trophies, to escape his business.
+- **The British and European nobleman.** The more famous version. The Earl of Dunraven made repeated trips to the Estes Park region of Colorado in the 1870s and eventually attempted to acquire the entire valley. Sir William Drummond Stewart had toured the Rockies in the 1830s and 1840s and set the template. Grand Duke Alexis of Russia made the famous 1872 buffalo hunt with George Custer and Buffalo Bill Cody. The European sporting party came with a retinue and a budget.
+- **The American officer's hunt.** Not strictly professional guiding but related. Senior officers stationed at frontier posts often organized hunting trips with civilian scouts and Native guides. The officer's wife or visiting Eastern relative was often included.
 
 ### The guide
 
@@ -398,31 +392,54 @@ The trapper is a solitary figure. The trader is a social one. Both are working m
 
 ### Buffalo hunting
 
-**Stand** — the hunter's prone position and the episode of shooting from it. **The herd** — the group of animals being hunted. **The sentinel, the leader, the watcher** — the dominant cow the hunter shot first. **Shooting sticks** — the crossed wooden sticks the hunter used as a rest for the rifle. **The hide, the robe** — the skin; _robe_ for the heavy winter coat used for sleighs and carriages. **Tongue, hump, marrow gut, fleece, boudins** — the cuts of buffalo meat the hunters ate (the tongues sometimes salted and shipped; the rest consumed in camp). **Stretching, fleshing, salting** — the preparation of the hide. **The bone trade, the bone wagon, the bone pile** — the secondary trade in skeletons for fertilizer. **The buffalo gun, the Big Fifty** — the Sharps rifle in heavy caliber. **Cartridge box, ammunition belt, primer pouch** — the hunter's gear. **Skinner, fleecer, fleshing knife** — the skinning vocabulary. **The runner** — the hunter who shot from horseback at a galloping herd, the older technique, mostly displaced by the stand. **The poison hunter** — disparaging, a hunter who used poison rather than the rifle, rare in the buffalo trade.
+- **Stand** — the hunter's prone position and the episode of shooting from it.
+- **The herd** — the group of animals being hunted.
+- **The sentinel, the leader, the watcher** — the dominant cow the hunter shot first.
+- **Shooting sticks** — the crossed wooden sticks the hunter used as a rest for the rifle.
+- **The hide, the robe** — the skin; _robe_ for the heavy winter coat used for sleighs and carriages.
+- **Tongue, hump, marrow gut, fleece, boudins** — the cuts of buffalo meat the hunters ate (the tongues sometimes salted and shipped; the rest consumed in camp).
+- **Stretching, fleshing, salting** — the preparation of the hide.
+- **The bone trade, the bone wagon, the bone pile** — the secondary trade in skeletons for fertilizer.
+- **The buffalo gun, the Big Fifty** — the Sharps rifle in heavy caliber.
+- **Cartridge box, ammunition belt, primer pouch** — the hunter's gear.
+- **Skinner, fleecer, fleshing knife** — the skinning vocabulary.
+- **The runner** — the hunter who shot from horseback at a galloping herd, the older technique, mostly displaced by the stand.
+- **The poison hunter** — disparaging, a hunter who used poison rather than the rifle, rare in the buffalo trade.
 
 ### Market hunting and meat
 
-**Game, meat, venison.** _Venison_ for deer meat specifically, not for game generally as in modern usage. _Game_ was the live animal; _meat_ was what came back to camp. **Field-dressing, gutting, bleeding out** — the immediate post-kill work. **Hanging, aging, curing** — the processing. **Quarter, side, saddle, hindquarter, forequarter** — the cuts. **Jerky, jerk meat** — sun-dried thin strips of meat. **Pemmican** — the pounded dried meat with fat and berries, a Native preparation adopted by the trappers and the freighters.
+- **Game, meat, venison.** _Venison_ for deer meat specifically, not for game generally as in modern usage. _Game_ was the live animal; _meat_ was what came back to camp.
+- **Field-dressing, gutting, bleeding out** — the immediate post-kill work.
+- **Hanging, aging, curing** — the processing.
+- **Quarter, side, saddle, hindquarter, forequarter** — the cuts.
+- **Jerky, jerk meat** — sun-dried thin strips of meat.
+- **Pemmican** — the pounded dried meat with fat and berries, a Native preparation adopted by the trappers and the freighters.
 
 ### Wolfing
 
-**Bait, set bait, lay a bait** — the poisoned carcass. **Strychnine, strych, the powder** — the poison. **Scalp, scalping, the scalp tally** — the bounty work. **Pelt, pelt house, fur shed** — the pelt trade.
+- **Bait, set bait, lay a bait** — the poisoned carcass.
+- **Strychnine, strych, the powder** — the poison.
+- **Scalp, scalping, the scalp tally** — the bounty work.
+- **Pelt, pelt house, fur shed** — the pelt trade.
 
 ### General
 
-**Skinning knife, butcher knife, boning knife, steel** — the blades. **Pack mule, pack horse, pack saddle, panniers** — the transport. **Cabin, line shack, base camp, hunting camp** — the hunter's accommodation. **Outfit** — the hunter's organized expedition with men, animals, equipment, and supplies. **Sign** — the tracks, droppings, browse marks, and other physical evidence of game presence; _cutting sign, reading sign._ **Stalk, approach, shot** — the sequence of the hunt. **Kill, take, drop** — the hunter's terms for the successful shot. _Took ten head, dropped a five-point bull, killed a sow with two cubs._
+- **Skinning knife, butcher knife, boning knife, steel** — the blades.
+- **Pack mule, pack horse, pack saddle, panniers** — the transport.
+- **Cabin, line shack, base camp, hunting camp** — the hunter's accommodation.
+- **Outfit** — the hunter's organized expedition with men, animals, equipment, and supplies.
+- **Sign** — the tracks, droppings, browse marks, and other physical evidence of game presence; _cutting sign, reading sign._
+- **Stalk, approach, shot** — the sequence of the hunt.
+- **Kill, take, drop** — the hunter's terms for the successful shot. _Took ten head, dropped a five-point bull, killed a sow with two cubs._
 
 ---
 
 ## 16. Sound, Smell, Light
 
-**The buffalo hunter's stand.** The crack of the Sharps and the long roll of the echo across the rolling country. The smell of the burning powder hanging on the still air. The herd's confused bellowing as the leaders went down. The crash of the heavy bodies hitting the ground. The wind across the grass between shots. The hunter working the breech and loading and shouldering and firing again. The smell of the powder mixing with the smell of the blood as the kill grew. The skinners arriving at noon and the smell of opened animals rising from the field.
-
-**The market hunter's morning.** The cold dawn at the watering place. The buck coming in to drink. The hunter at the edge of the brush with the rifle on the rest. The single shot. The buck dropping. The hunter walking out across the meadow in the first light. The smell of the wet grass and the buck's last breath. The work with the knife opening the carcass. The blood pooling on the frosted ground.
-
-**The wolfer's bait.** The dead horse opened on the prairie three days. The smell carrying for miles. The dead wolves around it in the morning, contorted, their lips drawn back from their teeth. The ravens and the eagles dead at the edges. The silence of the country. The wolfer with his knife scalping the carcasses and stuffing the scalps in his bag.
-
-**The guide's evening camp.** The tent in the mountain meadow. The hobbled horses cropping in the dark. The cook at the fire. The Eastern sportsman in his city boots beside the fire with his glass of whiskey and his cigar. The guide with his coffee at the edge of the firelight. The talk of the next day's hunt. The stars in the sky over the mountains. The smell of the wood smoke and the meat cooking.
+- **The buffalo hunter's stand.** The crack of the Sharps and the long roll of the echo across the rolling country. The smell of the burning powder hanging on the still air. The herd's confused bellowing as the leaders went down. The crash of the heavy bodies hitting the ground. The wind across the grass between shots. The hunter working the breech and loading and shouldering and firing again. The smell of the powder mixing with the smell of the blood as the kill grew. The skinners arriving at noon and the smell of opened animals rising from the field.
+- **The market hunter's morning.** The cold dawn at the watering place. The buck coming in to drink. The hunter at the edge of the brush with the rifle on the rest. The single shot. The buck dropping. The hunter walking out across the meadow in the first light. The smell of the wet grass and the buck's last breath. The work with the knife opening the carcass. The blood pooling on the frosted ground.
+- **The wolfer's bait.** The dead horse opened on the prairie three days. The smell carrying for miles. The dead wolves around it in the morning, contorted, their lips drawn back from their teeth. The ravens and the eagles dead at the edges. The silence of the country. The wolfer with his knife scalping the carcasses and stuffing the scalps in his bag.
+- **The guide's evening camp.** The tent in the mountain meadow. The hobbled horses cropping in the dark. The cook at the fire. The Eastern sportsman in his city boots beside the fire with his glass of whiskey and his cigar. The guide with his coffee at the edge of the firelight. The talk of the next day's hunt. The stars in the sky over the mountains. The smell of the wood smoke and the meat cooking.
 
 ---
 

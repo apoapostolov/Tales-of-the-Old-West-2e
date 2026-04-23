@@ -66,7 +66,12 @@ Maternal mortality was high enough that every frontier child knew at least one f
 
 The graveyard behind the church or at the edge of the family's section contained more child markers than adult markers.
 
-**Diphtheria** was the first killer — a bacterial infection of the throat with a leathery membrane that grew until the child suffocated. It hit preschool children hardest and could empty a frontier county of children in a single autumn. **Scarlet fever** — streptococcus — brought the characteristic rash and the fever. It killed by itself or left damage to the heart and the kidneys, and the survivor was often weakened for life. **Whooping cough** (pertussis) made the child cough in long racking spasms in which he could not catch breath. It lasted weeks. It killed the smaller children by exhaustion and by suffocation. **Measles** brought the rash, the fever, the cough; the measles itself sometimes killed; the secondary pneumonia killed more often. **Cholera infantum** was summer diarrhea in nursing infants, killing by dehydration in three days; rural mothers dreaded the August week of consecutive deaths in the neighborhood. **Typhoid fever** came from the contaminated well; the child took fever, took to bed, declined for three weeks, sometimes recovered, often did not. And then **accidents**: the kick of the horse or the mule, the fall from the wagon, the scald from the kettle, the drowning in the creek, the burn from the open fire, the cut from the axe, the rattlesnake at the woodpile.
+- **Diphtheria** was the first killer — a bacterial infection of the throat with a leathery membrane that grew until the child suffocated. It hit preschool children hardest and could empty a frontier county of children in a single autumn.
+- **Scarlet fever** — streptococcus — brought the characteristic rash and the fever. It killed by itself or left damage to the heart and the kidneys, and the survivor was often weakened for life.
+- **Whooping cough** (pertussis) made the child cough in long racking spasms in which he could not catch breath. It lasted weeks. It killed the smaller children by exhaustion and by suffocation.
+- **Measles** brought the rash, the fever, the cough; the measles itself sometimes killed; the secondary pneumonia killed more often.
+- **Cholera infantum** was summer diarrhea in nursing infants, killing by dehydration in three days; rural mothers dreaded the August week of consecutive deaths in the neighborhood.
+- **Typhoid fever** came from the contaminated well; the child took fever, took to bed, declined for three weeks, sometimes recovered, often did not. And then **accidents**: the kick of the horse or the mule, the fall from the wagon, the scald from the kettle, the drowning in the creek, the burn from the open fire, the cut from the axe, the rattlesnake at the woodpile.
 
 The mother who buried three of her ten children was not unusual. The mother who buried five was within the range. The grave markers in any frontier churchyard tell the story; the period photographs of the markers show row after row of small stones with short dates.
 
@@ -150,23 +155,15 @@ The household with books had a Bible, a McGuffey Reader or two, a hymnal, someti
 
 The frontier child's growing up was marked by specific transitions.
 
-**First trousers.** The boy went into long pants at five or six, having worn dresses and pinafores before. The transition was a small ceremony in some households.
-
-**First chore that earned wages.** Often herding a neighbor's cow or holding horses at a wedding or a funeral for a few cents.
-
-**First long ride alone.** The boy sent on horseback to the next ranch or the next town with a message or to fetch the doctor. Eight or nine for a short ride, twelve for a real distance.
-
-**First gun of his own.** The .22 at twelve or so. A larger rifle (a single-shot Stevens or an old Springfield) at fourteen or fifteen. A revolver, if the family ran to it, in late teens.
-
-**First horse of his own.** A pony at six or seven in a ranch family. A green colt to break and train at twelve or so. A grown saddle horse at fifteen.
-
-**First work for hire.** The boy hired out at fourteen or fifteen for harvest, then for a season on a ranch, then for a year as a hand. The girl hired out at the same age as a hired girl in a neighboring household or as help at the hotel.
-
-**First dance, first courting.** The play-party at twelve or thirteen, the real dance at fifteen, the courting at sixteen or seventeen.
-
-**Confirmation, baptism, the public profession of faith.** The Methodist child went to the altar at the revival when he felt the call, often at twelve or thirteen. The Catholic child made his first communion at the age set by the parish (usually seven). The Baptist child was immersed in the creek when he professed at twelve or fifteen. The Mormon child was baptized at eight.
-
-**Departure.** The boy left for work, for the army, for the West further west. The girl married out. The household contracted. The mother counted her children at table at twenty and again at thirty and the count did not match.
+- **First trousers.** The boy went into long pants at five or six, having worn dresses and pinafores before. The transition was a small ceremony in some households.
+- **First chore that earned wages.** Often herding a neighbor's cow or holding horses at a wedding or a funeral for a few cents.
+- **First long ride alone.** The boy sent on horseback to the next ranch or the next town with a message or to fetch the doctor. Eight or nine for a short ride, twelve for a real distance.
+- **First gun of his own.** The .22 at twelve or so. A larger rifle (a single-shot Stevens or an old Springfield) at fourteen or fifteen. A revolver, if the family ran to it, in late teens.
+- **First horse of his own.** A pony at six or seven in a ranch family. A green colt to break and train at twelve or so. A grown saddle horse at fifteen.
+- **First work for hire.** The boy hired out at fourteen or fifteen for harvest, then for a season on a ranch, then for a year as a hand. The girl hired out at the same age as a hired girl in a neighboring household or as help at the hotel.
+- **First dance, first courting.** The play-party at twelve or thirteen, the real dance at fifteen, the courting at sixteen or seventeen.
+- **Confirmation, baptism, the public profession of faith.** The Methodist child went to the altar at the revival when he felt the call, often at twelve or thirteen. The Catholic child made his first communion at the age set by the parish (usually seven). The Baptist child was immersed in the creek when he professed at twelve or fifteen. The Mormon child was baptized at eight.
+- **Departure.** The boy left for work, for the army, for the West further west. The girl married out. The household contracted. The mother counted her children at table at twenty and again at thirty and the count did not match.
 
 ---
 

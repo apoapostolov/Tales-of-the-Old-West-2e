@@ -10,11 +10,9 @@ The mine happens in the dark, in noise, in rock dust, in a space few outside the
 
 The 1870s West had two kinds of hard-rock mining and one kind of soft.
 
-**Hardrock gold and silver** is what the fiction almost always means: an underground mine following a vein of ore in consolidated rock — granite, quartzite, porphyry. Nevada (Comstock), Colorado (Leadville, Cripple Creek), Arizona (Tombstone, Globe), Idaho (Coeur d'Alene), Montana (Butte) are the canonical districts.
-
-**Placer gold** is worked at the surface — streams and gravels, the prospector's world (covered in Chapter 7).
-
-**Coal** is a different world — underground, shaft-based, but in softer sedimentary rock, often in company towns with a different ethnic and political character. Coal does not appear in western fiction nearly as often as silver and gold.
+- **Hardrock gold and silver** is what the fiction almost always means: an underground mine following a vein of ore in consolidated rock — granite, quartzite, porphyry. Nevada (Comstock), Colorado (Leadville, Cripple Creek), Arizona (Tombstone, Globe), Idaho (Coeur d'Alene), Montana (Butte) are the canonical districts.
+- **Placer gold** is worked at the surface — streams and gravels, the prospector's world (covered in Chapter 7).
+- **Coal** is a different world — underground, shaft-based, but in softer sedimentary rock, often in company towns with a different ethnic and political character. Coal does not appear in western fiction nearly as often as silver and gold.
 
 This chapter covers the hardrock mine.
 
@@ -58,7 +56,8 @@ The men crowd the cage — six men, plus the shift boss who rides with them to t
 
 Most of the shift is drilling. The miners work in pairs: one man holds the **drill steel** — a tapered iron rod — against the rock face and turns it a quarter revolution after each blow. The other man swings the **sledge** — a four-pound hammer in the single-jack, an eight-pounder in the double-jack. The rhythm is the mine's heartbeat: strike, turn, strike, turn. The steel goes in an inch at a time. A twelve-inch hole takes twenty minutes. The noise in the drift — the ringing of the steel, the bass thud of the sledge on the striker's end — carries through the rock.
 
-**Single-jack** work is a man alone: small hammer, lighter steel, slower. Used in tight spaces, in raises where a second man cannot stand. **Double-jack** work requires trust. If the striker misses the steel, the holder's hands take the blow. The men who have worked together for years do not look at each other during the strike. They listen for the rhythm.
+- **Single-jack** work is a man alone: small hammer, lighter steel, slower. Used in tight spaces, in raises where a second man cannot stand.
+- **Double-jack** work requires trust. If the striker misses the steel, the holder's hands take the blow. The men who have worked together for years do not look at each other during the strike. They listen for the rhythm.
 
 By the 1870s, mechanical drills powered by compressed air are appearing in the larger mines. The men call them **widow makers** because the water injection that dampens the dust often ran dry and the dry-drill dust went into the lungs. A man on a widow maker in an unventilated stope was breathing his future silicosis with every breath.
 
@@ -162,27 +161,20 @@ The mining wars of the 1890s (Coeur d'Alene, 1892; Cripple Creek, 1894) were the
 
 A mine in the 1870s killed men reliably.
 
-**Cave-in.** A timber that failed, a stope that had been mined too wide, a section of rock that moved without warning. The cave might bury a single man or collapse a level. Most bodies were recovered. Some were not. A section of the Comstock known as the Dead Zone was sealed off in 1869 after a cave trapped eleven men. The bodies stayed.
-
-**Fire.** The mine's worst enemy in a timbered operation. A candle knocked from a timber crack, a carbide lamp dropped into wood shavings, a fuse left burning. Once the square-set timber caught, the fire spread through the mine's ventilation like a chimney. The men below the fire were in a chimney. The Yellow Jacket fire at the Comstock in 1869 killed thirty-seven men. No fire doors were standard in 1870s mines. In fiction, the mine fire is the catastrophe from which there is no waking up.
-
-**Flooding.** Every mine at depth is wet. The shallower levels are drained by pumps. The pumps stop when the steam engine stops. A flooded lower level means pumping for weeks before it can be worked again. A man who falls into a flooded sump does not come up. The sump is black water in the dark at the bottom of everything.
-
-**Gas.** Carbon monoxide and hydrogen sulfide accumulate in dead-end drifts and raises. A canary carried by the shift boss to a worked-out face was not a metaphor when the practice began — it was safety equipment. The canary died first. The shift boss then had thirty seconds to turn around.
-
-**Silicosis.** The slow killer. Rock dust into the lungs, deposited over years, forming scar tissue that replaced lung. The dry-drill widow maker was its agent. A miner who had been underground twenty years often could not climb the stairs from the boarding house dining room to his bunk without stopping to breathe. He did not usually say what he had.
+- **Cave-in.** A timber that failed, a stope that had been mined too wide, a section of rock that moved without warning. The cave might bury a single man or collapse a level. Most bodies were recovered. Some were not. A section of the Comstock known as the Dead Zone was sealed off in 1869 after a cave trapped eleven men. The bodies stayed.
+- **Fire.** The mine's worst enemy in a timbered operation. A candle knocked from a timber crack, a carbide lamp dropped into wood shavings, a fuse left burning. Once the square-set timber caught, the fire spread through the mine's ventilation like a chimney. The men below the fire were in a chimney. The Yellow Jacket fire at the Comstock in 1869 killed thirty-seven men. No fire doors were standard in 1870s mines. In fiction, the mine fire is the catastrophe from which there is no waking up.
+- **Flooding.** Every mine at depth is wet. The shallower levels are drained by pumps. The pumps stop when the steam engine stops. A flooded lower level means pumping for weeks before it can be worked again. A man who falls into a flooded sump does not come up. The sump is black water in the dark at the bottom of everything.
+- **Gas.** Carbon monoxide and hydrogen sulfide accumulate in dead-end drifts and raises. A canary carried by the shift boss to a worked-out face was not a metaphor when the practice began — it was safety equipment. The canary died first. The shift boss then had thirty seconds to turn around.
+- **Silicosis.** The slow killer. Rock dust into the lungs, deposited over years, forming scar tissue that replaced lung. The dry-drill widow maker was its agent. A miner who had been underground twenty years often could not climb the stairs from the boarding house dining room to his bunk without stopping to breathe. He did not usually say what he had.
 
 ---
 
 ## 11. Vocabulary, Sound, Smell, Light
 
-**Vocabulary.** **Drift** — horizontal tunnel. **Crosscut** — tunnel perpendicular to drift, cutting across to reach a vein. **Stope** — open working space above/below the drift. **Raise** — vertical opening driven upward. **Winze** — vertical opening driven downward. **Sump** — the lowest point in the mine, where water collects. **Collar** — the surface opening of the shaft. **Square-set** — the interlocking timber frame. **Muck** — broken ore and waste rock after a blast. **Mucking car** or **car** — the steel ore tub on rails. **Skip** — another term for the ore car. **Cage** — the elevator in the shaft. **Kibble** — a bucket used to lift rock in shaft-sinking before a cage is installed. **Single-jack** — one man, small hammer, alone at the face. **Double-jack** — two men, large sledge, one holds the steel. **Widow maker** — a mechanical drill (compressed-air drill). **Fuse** — the burning cord that fires the charge. **Hangfire** — a fuse that does not fire on schedule; the most dangerous thing underground. **Blackleg / scab** — a non-union worker. **Cousin Jack** — a Cornish miner.
-
-**Sounds.** Underground is not silent. It is the ring of steel on steel when a double-jack pair is drilling — a sustained metallic note that echoes down the drift and back. The crack and rumble of a blast behind the sealed drift door — felt in the chest before it reaches the ears. The drip of water on rock, irregular, constant. The creak of the square-set timber under pressure — the mine is always moving, always settling, always talking in the language of wood under load. After a big blast, the absolute silence before the dust arrives — a second of nothing, then the roar.
-
-**Smells.** Spent black powder or dynamite: acrid, sulfurous, long-lasting, clings to wool. Carbide lamp: sharp, like a struck match. Wet timber: pine sap and rot at once. The miner's sweat: salt and iron. Hot rock: dry, mineral, faintly metallic at depth.
-
-**Light.** A candle gives three to four feet of usable light. A carbide lamp gives eight to ten feet. Beyond that is the dark. The dark is total. Darker than any dark above ground because there is no sky for the eyes to reach toward. The man who drops his candle underground goes still and does not move until he finds it. The worked face catches the candle's light in the facets of fresh-broken rock — quartz crystals, flecks of native silver, the dull yellow of iron pyrite that fools no one who has been underground a week. The ore the company wants is often undistinguished: gray, heavy, sulfidic, nothing that looks like wealth.
+- **Vocabulary.** **Drift** — horizontal tunnel. **Crosscut** — tunnel perpendicular to drift, cutting across to reach a vein. **Stope** — open working space above/below the drift. **Raise** — vertical opening driven upward. **Winze** — vertical opening driven downward. **Sump** — the lowest point in the mine, where water collects. **Collar** — the surface opening of the shaft. **Square-set** — the interlocking timber frame. **Muck** — broken ore and waste rock after a blast. **Mucking car** or **car** — the steel ore tub on rails. **Skip** — another term for the ore car. **Cage** — the elevator in the shaft. **Kibble** — a bucket used to lift rock in shaft-sinking before a cage is installed. **Single-jack** — one man, small hammer, alone at the face. **Double-jack** — two men, large sledge, one holds the steel. **Widow maker** — a mechanical drill (compressed-air drill). **Fuse** — the burning cord that fires the charge. **Hangfire** — a fuse that does not fire on schedule; the most dangerous thing underground. **Blackleg / scab** — a non-union worker. **Cousin Jack** — a Cornish miner.
+- **Sounds.** Underground is not silent. It is the ring of steel on steel when a double-jack pair is drilling — a sustained metallic note that echoes down the drift and back. The crack and rumble of a blast behind the sealed drift door — felt in the chest before it reaches the ears. The drip of water on rock, irregular, constant. The creak of the square-set timber under pressure — the mine is always moving, always settling, always talking in the language of wood under load. After a big blast, the absolute silence before the dust arrives — a second of nothing, then the roar.
+- **Smells.** Spent black powder or dynamite: acrid, sulfurous, long-lasting, clings to wool. Carbide lamp: sharp, like a struck match. Wet timber: pine sap and rot at once. The miner's sweat: salt and iron. Hot rock: dry, mineral, faintly metallic at depth.
+- **Light.** A candle gives three to four feet of usable light. A carbide lamp gives eight to ten feet. Beyond that is the dark. The dark is total. Darker than any dark above ground because there is no sky for the eyes to reach toward. The man who drops his candle underground goes still and does not move until he finds it. The worked face catches the candle's light in the facets of fresh-broken rock — quartz crystals, flecks of native silver, the dull yellow of iron pyrite that fools no one who has been underground a week. The ore the company wants is often undistinguished: gray, heavy, sulfidic, nothing that looks like wealth.
 
 ---
 

@@ -148,11 +148,9 @@ A Spanish-speaking character in English narration: write the English clean, indi
 
 > _I encountered the gentleman at the corral and brought to his attention that the bay had thrown a shoe. He neither spoke nor acknowledged me, but proceeded to inspect the animal._
 
-**The immigrant.** Imports syntax from his first language. The German speaker puts the verb at the end (_the bay her shoe had thrown_). The Mexican speaker uses Spanish word order (_the bay, she has thrown a shoe_). The Chinese speaker (in pidgin English) drops articles and conjugates loosely (_bay horse lose shoe_). Use lightly. A heavy hand makes the character a cartoon. One marker per long speech is enough.
-
-**The military man.** Brisk, abrupt, declarative. Military jargon (_detachment, company, troop, picket, vidette, skirmish line, double time_). Profane in the field, formal in HQ. _Sir_ and _Captain_ and _Colonel_ used liberally.
-
-**The preacher.** Biblical cadence — the King James was the model. Long sentences, rolling parallel structure. Latinate when reading; plainer when extemporizing.
+- **The immigrant.** Imports syntax from his first language. The German speaker puts the verb at the end (_the bay her shoe had thrown_). The Mexican speaker uses Spanish word order (_the bay, she has thrown a shoe_). The Chinese speaker (in pidgin English) drops articles and conjugates loosely (_bay horse lose shoe_). Use lightly. A heavy hand makes the character a cartoon. One marker per long speech is enough.
+- **The military man.** Brisk, abrupt, declarative. Military jargon (_detachment, company, troop, picket, vidette, skirmish line, double time_). Profane in the field, formal in HQ. _Sir_ and _Captain_ and _Colonel_ used liberally.
+- **The preacher.** Biblical cadence — the King James was the model. Long sentences, rolling parallel structure. Latinate when reading; plainer when extemporizing.
 
 > _Brethren, the Lord did not bring us out of bondage, did not lead us through the wilderness, did not deliver us upon this land of milk and honey, that we should forget Him in the prosperity of our hand._
 
@@ -164,11 +162,9 @@ A Spanish-speaking character in English narration: write the English clean, indi
 
 The nineteenth century was rich and fluent in profanity, but the profanity differed from ours.
 
-**The rough male register.** _God damn, goddamned, by God, damnation, hell, hell-fire, the very devil, son of a bitch, bastard, bastard's bastard, whoreson._ _Shit_ and _piss_ were old words and used in male company. _Fuck_ existed and was used (American working-class profanity has been continuous since at least the seventeenth century) but written record is poor because of print law and editorial bowdlerization. _Cock, prick_ — period-correct. The cunt-word — period; used; rare in mixed company.
-
-**Constrained registers.** Around women, in church, in print: euphemism. _Dad-burn, dad-blame, by gum, by jingo, dagnabbit, dang, darn, gosh, golly, gee whillikers, gee whiz, jiminy, jeez, blame me, doggone, blasted, confound it._ _Heck, dang, gosh_ are post-1850s euphemisms and period-correct. A rough character switching into the polite register in front of a lady is a common period beat. The audience watches the effort.
-
-**The rule.** If you write profanity, write it because the moment requires it. A man under fire swears. A man in church does not. A man at a card table swears in proportion to his hand. A man addressing a strange woman in the street does not swear at all. Underwriting profanity is more period-accurate than over-writing it. Most published nineteenth-century writing scrubbed the profanity out entirely. The audience that has read the period knows the prose was cleaner than the speech. A modern western that lays the profanity on thick can read like a 1970s parody. The trick is selective use — make every _goddamn_ land.
+- **The rough male register.** _God damn, goddamned, by God, damnation, hell, hell-fire, the very devil, son of a bitch, bastard, bastard's bastard, whoreson._ _Shit_ and _piss_ were old words and used in male company. _Fuck_ existed and was used (American working-class profanity has been continuous since at least the seventeenth century) but written record is poor because of print law and editorial bowdlerization. _Cock, prick_ — period-correct. The cunt-word — period; used; rare in mixed company.
+- **Constrained registers.** Around women, in church, in print: euphemism. _Dad-burn, dad-blame, by gum, by jingo, dagnabbit, dang, darn, gosh, golly, gee whillikers, gee whiz, jiminy, jeez, blame me, doggone, blasted, confound it._ _Heck, dang, gosh_ are post-1850s euphemisms and period-correct. A rough character switching into the polite register in front of a lady is a common period beat. The audience watches the effort.
+- **The rule.** If you write profanity, write it because the moment requires it. A man under fire swears. A man in church does not. A man at a card table swears in proportion to his hand. A man addressing a strange woman in the street does not swear at all. Underwriting profanity is more period-accurate than over-writing it. Most published nineteenth-century writing scrubbed the profanity out entirely. The audience that has read the period knows the prose was cleaner than the speech. A modern western that lays the profanity on thick can read like a 1970s parody. The trick is selective use — make every _goddamn_ land.
 
 ---
 
@@ -176,21 +172,14 @@ The nineteenth century was rich and fluent in profanity, but the profanity diffe
 
 Period naming. Get this right and the period sounds itself.
 
-**Anglo first names (men).** Common: William (Will, Bill), Charles (Charlie, Chas), James (Jim, Jimmie, Jamie), John (Jack), Robert (Bob, Rob), Thomas (Tom), George, Henry (Hank, Hal), Joseph (Joe), David (Dave), Daniel (Dan), Samuel (Sam), Edward (Ed, Ned, Ted), Richard (Dick, Rich), Frank, Andrew (Andy), Albert (Al, Bert), Walter (Walt), Arthur, Ernest, Frederick (Fred), Harry, Jesse, Patrick (Pat), Michael (Mike), Peter (Pete). Period and biblical: Hiram, Silas, Ezra, Ezekiel, Elijah, Eli, Enoch, Hezekiah, Mordecai, Obadiah, Theophilus, Zachariah, Ebenezer, Phineas, Jephtha, Caleb, Reuben, Amos, Asa, Cyrus, Hosea, Obed, Levi, Othello (Black), Cuffee (Black), Quash (Black). Biblical and classical names common across regions; particularly common among rural southerners and Black men (the latter often biblical names taken on emancipation).
-
-**Anglo first names (women).** Common: Mary, Sarah, Elizabeth (Bess, Betsy, Liz, Eliza, El, Beth), Margaret (Maggie, Meg, Peggy), Anna (Annie), Anne (Nancy is a common nickname for Anne), Jane (Jenny), Susan (Susie, Sue), Catherine (Kate, Kitty), Martha (Patsy, Mattie), Frances (Fanny), Lucy, Ellen (Nell, Nellie), Emma, Grace, Hannah, Rebecca (Becky), Emily, Caroline (Carrie), Charlotte (Lottie, Lotta), Sophia, Helen, Florence, Ruth. Period: Prudence, Patience, Mercy, Charity, Hope, Faith, Temperance, Constance, Drusilla, Lavinia, Tabitha, Henrietta, Augusta, Almira, Amelia, Eliza, Eleanor, Theodora.
-
-**Anglo last names.** The standard English / Scots / Irish / Welsh palette: Smith, Johnson, Williams, Brown, Jones, Miller, Davis, Wilson, Anderson, Thomas, Taylor, Moore, Jackson, Martin, Lee, Thompson, White, Harris, Clark, Lewis, Walker, Hall, Allen, Young, King, Wright, Scott, Green, Baker, Adams, Nelson, Mitchell, Roberts, Carter, Phillips, Evans, Turner, Parker, Edwards, Collins, Stewart, Murphy, Cook, Bell, Russell, Cooper, Reed, Bailey, Bennett, Watson, Howard, Foster, Powell, Sullivan, Reynolds, Fisher, Cole.
-
-**Mexican names.** Men: José, Juan, Manuel, Pedro, Francisco, Antonio, Miguel, Luis, Jesús, Domingo, Tomás, Diego, Felipe, Enrique, Alejandro, Eduardo, Salvador, Roberto, Ramón, Ricardo, Vicente, Mario, Mateo, Pablo, Jorge. Women: María, Ana, Elena, Carmen, Rosa, Isabel, Luisa, Teresa, Juana, Dolores, Esperanza, Concepción, Guadalupe, Soledad, Catalina, Mercedes, Pilar, Beatriz. Surnames: García, Martínez, López, Rodríguez, Hernández, González, Pérez, Sánchez, Ramírez, Torres, Ortiz, Gutiérrez, Salazar, Vargas, Romero, Castillo, Mendoza, Aguilar, Núñez, Vega, Flores. Compound: García y López — Spanish naming convention.
-
-**Black names.** Many freedmen took new names on emancipation. Common: Lincoln, Washington, Jefferson, Freeman, Liberty, January / February / March (born in those months). Also biblical (Moses, Caleb, Joshua). Surnames: often the former owner's surname; sometimes an entirely new name.
-
-**Native names.** A complex matter. Many Native people had multiple names: a birth name, a youth name, an adult name (taken on a deed or vision), sometimes a name taken on conversion or by Anglo imposition. The English names given by Anglos (Sitting Bull, Crazy Horse, Red Cloud, Spotted Tail, Black Kettle, Roman Nose, Geronimo, Cochise, Sequoyah) are translations of, or in Geronimo's case mispronunciations of, the original. Use the Native name where you can, in the language of the people. _Tȟašúŋke Witkó_ for Crazy Horse (Lakota). _Quanah Parker_ (Comanche, mixed Anglo). Quote names accurately; do not invent generic Native names.
-
-**Chinese names.** Chinese surname first, given name second. Chen, Wong, Lee, Liu, Zhang, Wang, Lin, Huang, Yang, Wu. Given names two syllables typically. Anglos in the period often called Chinese men _John_ generically or used a single given-name segment with no surname.
-
-**Saloon, ranch, and town names.** Saloons: the Long Branch (Dodge), the Crystal Palace (Tombstone), the Bird Cage Theatre (Tombstone), the Oriental, the Alhambra, the Bull's Head, the Lady Gay, the Brown Jug, the Bucket of Blood (multiple). Often colorful; often named for an animal, a precious thing, a play, a proper name. Often _the_ + adjective + noun. Ranches: the brand became the name (the JA, the XIT, the Three-D, the Quarter Circle Box, the Lazy S). Or geography (the Goodnight, the Pitchfork, the Matador, the Spur). Towns: incorporated under a name proposed by the founder (often himself), the railroad superintendent, a politician whom the founders wished to flatter, an Eastern hometown, or geography. Spanish names for older Mexican towns. Native-derived names mediated through Anglo mishearing (Wichita, Cheyenne, Omaha, Pawnee).
+- **Anglo first names (men).** Common: William (Will, Bill), Charles (Charlie, Chas), James (Jim, Jimmie, Jamie), John (Jack), Robert (Bob, Rob), Thomas (Tom), George, Henry (Hank, Hal), Joseph (Joe), David (Dave), Daniel (Dan), Samuel (Sam), Edward (Ed, Ned, Ted), Richard (Dick, Rich), Frank, Andrew (Andy), Albert (Al, Bert), Walter (Walt), Arthur, Ernest, Frederick (Fred), Harry, Jesse, Patrick (Pat), Michael (Mike), Peter (Pete). Period and biblical: Hiram, Silas, Ezra, Ezekiel, Elijah, Eli, Enoch, Hezekiah, Mordecai, Obadiah, Theophilus, Zachariah, Ebenezer, Phineas, Jephtha, Caleb, Reuben, Amos, Asa, Cyrus, Hosea, Obed, Levi, Othello (Black), Cuffee (Black), Quash (Black). Biblical and classical names common across regions; particularly common among rural southerners and Black men (the latter often biblical names taken on emancipation).
+- **Anglo first names (women).** Common: Mary, Sarah, Elizabeth (Bess, Betsy, Liz, Eliza, El, Beth), Margaret (Maggie, Meg, Peggy), Anna (Annie), Anne (Nancy is a common nickname for Anne), Jane (Jenny), Susan (Susie, Sue), Catherine (Kate, Kitty), Martha (Patsy, Mattie), Frances (Fanny), Lucy, Ellen (Nell, Nellie), Emma, Grace, Hannah, Rebecca (Becky), Emily, Caroline (Carrie), Charlotte (Lottie, Lotta), Sophia, Helen, Florence, Ruth. Period: Prudence, Patience, Mercy, Charity, Hope, Faith, Temperance, Constance, Drusilla, Lavinia, Tabitha, Henrietta, Augusta, Almira, Amelia, Eliza, Eleanor, Theodora.
+- **Anglo last names.** The standard English / Scots / Irish / Welsh palette: Smith, Johnson, Williams, Brown, Jones, Miller, Davis, Wilson, Anderson, Thomas, Taylor, Moore, Jackson, Martin, Lee, Thompson, White, Harris, Clark, Lewis, Walker, Hall, Allen, Young, King, Wright, Scott, Green, Baker, Adams, Nelson, Mitchell, Roberts, Carter, Phillips, Evans, Turner, Parker, Edwards, Collins, Stewart, Murphy, Cook, Bell, Russell, Cooper, Reed, Bailey, Bennett, Watson, Howard, Foster, Powell, Sullivan, Reynolds, Fisher, Cole.
+- **Mexican names.** Men: José, Juan, Manuel, Pedro, Francisco, Antonio, Miguel, Luis, Jesús, Domingo, Tomás, Diego, Felipe, Enrique, Alejandro, Eduardo, Salvador, Roberto, Ramón, Ricardo, Vicente, Mario, Mateo, Pablo, Jorge. Women: María, Ana, Elena, Carmen, Rosa, Isabel, Luisa, Teresa, Juana, Dolores, Esperanza, Concepción, Guadalupe, Soledad, Catalina, Mercedes, Pilar, Beatriz. Surnames: García, Martínez, López, Rodríguez, Hernández, González, Pérez, Sánchez, Ramírez, Torres, Ortiz, Gutiérrez, Salazar, Vargas, Romero, Castillo, Mendoza, Aguilar, Núñez, Vega, Flores. Compound: García y López — Spanish naming convention.
+- **Black names.** Many freedmen took new names on emancipation. Common: Lincoln, Washington, Jefferson, Freeman, Liberty, January / February / March (born in those months). Also biblical (Moses, Caleb, Joshua). Surnames: often the former owner's surname; sometimes an entirely new name.
+- **Native names.** A complex matter. Many Native people had multiple names: a birth name, a youth name, an adult name (taken on a deed or vision), sometimes a name taken on conversion or by Anglo imposition. The English names given by Anglos (Sitting Bull, Crazy Horse, Red Cloud, Spotted Tail, Black Kettle, Roman Nose, Geronimo, Cochise, Sequoyah) are translations of, or in Geronimo's case mispronunciations of, the original. Use the Native name where you can, in the language of the people. _Tȟašúŋke Witkó_ for Crazy Horse (Lakota). _Quanah Parker_ (Comanche, mixed Anglo). Quote names accurately; do not invent generic Native names.
+- **Chinese names.** Chinese surname first, given name second. Chen, Wong, Lee, Liu, Zhang, Wang, Lin, Huang, Yang, Wu. Given names two syllables typically. Anglos in the period often called Chinese men _John_ generically or used a single given-name segment with no surname.
+- **Saloon, ranch, and town names.** Saloons: the Long Branch (Dodge), the Crystal Palace (Tombstone), the Bird Cage Theatre (Tombstone), the Oriental, the Alhambra, the Bull's Head, the Lady Gay, the Brown Jug, the Bucket of Blood (multiple). Often colorful; often named for an animal, a precious thing, a play, a proper name. Often _the_ + adjective + noun. Ranches: the brand became the name (the JA, the XIT, the Three-D, the Quarter Circle Box, the Lazy S). Or geography (the Goodnight, the Pitchfork, the Matador, the Spur). Towns: incorporated under a name proposed by the founder (often himself), the railroad superintendent, a politician whom the founders wished to flatter, an Eastern hometown, or geography. Spanish names for older Mexican towns. Native-derived names mediated through Anglo mishearing (Wichita, Cheyenne, Omaha, Pawnee).
 
 ---
 
@@ -372,13 +361,10 @@ Reading: the published diaries of pioneer women (Lillian Schlissel's _Women's Di
 
 By the 1870s photography was widespread in the West. The cabinet card and the stereograph were standard formats. Itinerant photographers traveled the country making portraits, and established studios operated in every town of size. Famous landscape photographers — William Henry Jackson, Timothy O'Sullivan, A. J. Russell — documented the West's geography.
 
-**Carte de visite.** A small (about 2.5 by 4 inch) photograph mounted on a card. Used as a calling card; collected by family and friends.
-
-**Cabinet card.** A larger (about 4.5 by 6.5 inch) photograph mounted on a stiff card. Standard portrait format from the late 1860s through the 1890s.
-
-**Tintype.** A photograph on a thin iron plate. Cheap, durable, common at fairs and street photographers.
-
-**Stereograph.** A pair of nearly identical photographs mounted side by side on a card. Viewed through a stereoscope (a household viewer) for a 3-D effect. Massively popular for landscapes.
+- **Carte de visite.** A small (about 2.5 by 4 inch) photograph mounted on a card. Used as a calling card; collected by family and friends.
+- **Cabinet card.** A larger (about 4.5 by 6.5 inch) photograph mounted on a stiff card. Standard portrait format from the late 1860s through the 1890s.
+- **Tintype.** A photograph on a thin iron plate. Cheap, durable, common at fairs and street photographers.
+- **Stereograph.** A pair of nearly identical photographs mounted side by side on a card. Viewed through a stereoscope (a household viewer) for a 3-D effect. Massively popular for landscapes.
 
 A photograph in a scene can carry memory (the dead son's photograph on the mantel), identify (the sheriff has a photograph of the fugitive; the deputy compares the photograph to the man at the bar), establish past (the faded photograph from before the war), or be made (the scene of the family sitting for the photographer is itself a period event — the long exposure, the held still poses, the formality).
 
@@ -388,21 +374,14 @@ A photograph in a scene can carry memory (the dead son's photograph on the mante
 
 Beyond the basic 1870s formality already discussed, specific document types had specific registers.
 
-**Legal register.** Latinate, repetitive, formulaic. _Know all men by these presents. To-wit. The party of the first part. Hereby grant, sell, and convey. Witness my hand and seal._
-
-**Newspaper register.** Florid, formal, periphrastic. _It is our painful duty to record. We are reliably informed. Repaired to. Wended his way. The aforesaid. The lately deceased._
-
-**Telegraph register.** Telegraphic. Stripped to nouns and verbs. _Arrived. Goods sold. Returning Thursday._
-
-**Personal letter register.** Formal salutations, then variable. The writer's education and situation determine register beyond the openings and closings.
-
-**Diary register.** Often minimal — the labor and weather. The fuller diaries swing into reflection in their own characteristic voice.
-
-**Sermon register.** Scripturally saturated, rhythmic, building.
-
-**Government / military register.** Formal, bureaucratic, hierarchical. _I have the honor to report. In compliance with instructions. Most respectfully submitted._
-
-**Cattle-trade register.** Brand-and-tally. _Forty head, three-up, mixed yearlings and twos, branded J-bar-H on left hip, swallow-fork in left ear._ The vocabulary is specific to the trade.
+- **Legal register.** Latinate, repetitive, formulaic. _Know all men by these presents. To-wit. The party of the first part. Hereby grant, sell, and convey. Witness my hand and seal._
+- **Newspaper register.** Florid, formal, periphrastic. _It is our painful duty to record. We are reliably informed. Repaired to. Wended his way. The aforesaid. The lately deceased._
+- **Telegraph register.** Telegraphic. Stripped to nouns and verbs. _Arrived. Goods sold. Returning Thursday._
+- **Personal letter register.** Formal salutations, then variable. The writer's education and situation determine register beyond the openings and closings.
+- **Diary register.** Often minimal — the labor and weather. The fuller diaries swing into reflection in their own characteristic voice.
+- **Sermon register.** Scripturally saturated, rhythmic, building.
+- **Government / military register.** Formal, bureaucratic, hierarchical. _I have the honor to report. In compliance with instructions. Most respectfully submitted._
+- **Cattle-trade register.** Brand-and-tally. _Forty head, three-up, mixed yearlings and twos, branded J-bar-H on left hip, swallow-fork in left ear._ The vocabulary is specific to the trade.
 
 ---
 

@@ -176,21 +176,14 @@ Many saloons offered a free lunch with the purchase of a drink: cold cuts, chees
 
 ## 7. Specific Foods Worth Knowing
 
-**Coffee.** The West's universal beverage. Drunk by everyone, all day. Bought green (unroasted), roasted at home or at the camp, ground (often crushed in a sock with a stone if no grinder available), brewed strong by boiling. The grounds were left in the pot or strained through cheesecloth. Sweetened with sugar or molasses if available; black if not. A cup at every halt, every meal, every conversation.
-
-**Sourdough.** A flour-and-water mixture left to ferment with wild yeasts. The starter was kept and refreshed; a good starter could be decades old. Used for bread, biscuits, pancakes. Every trail cook, every Alaskan prospector (_sourdough_ became a term for the veteran prospector), and every careful homestead woman kept a sourdough.
-
-**Pemmican.** Treated in Chapter 2. Adopted by some Anglo trappers and traders. Compact, portable, kept for years.
-
-**Dried fruit.** Apples, peaches, apricots, plums dried in the sun. Reconstituted in water for pies, cobblers, compotes. The standard winter fruit. Dried fruit was traded by the wagonload between regions: Utah fruit traveled to mining camps, Oregon fruit traveled south.
-
-**Mush.** Cornmeal cooked in water or milk to a porridge. Eaten hot at breakfast. Leftover mush sliced and fried for a later meal. The poor man's daily bread.
-
-**Side meat (salt pork).** Pork belly cured in salt brine, packed in barrels. Kept for months. Sliced and fried, the grease used for cooking. The trail-drive and homestead fat source.
-
-**Hardtack.** The army cracker. Flour, water, salt, baked dry, dried further. Lasted indefinitely if kept dry. Eaten softened in coffee, fried in pork grease, or crumbled into stew. Often weevily after long storage; the soldiers tapped them on the table to shake out the weevils before eating.
-
-**Fresh meat sources.** _Beef_ — common where available; trail-drive crews ate beef from the herd, ranches ate beef regularly, towns had butcher shops. _Pork_ — common in farming areas; salt pork from the smokehouse year-round, fresh pork at hog-killing time in fall. _Game_ — deer, antelope, elk where available; buffalo where the herds remained (declining rapidly through the 1870s); wild turkey in the southern plains and Texas; prairie chicken on the plains; sage hen in the Great Basin. _Fish_ — trout in mountain streams, catfish in the Mississippi-Missouri-Arkansas-Red drainages, salmon in the Pacific Northwest. Less universal than meat, but present.
+- **Coffee.** The West's universal beverage. Drunk by everyone, all day. Bought green (unroasted), roasted at home or at the camp, ground (often crushed in a sock with a stone if no grinder available), brewed strong by boiling. The grounds were left in the pot or strained through cheesecloth. Sweetened with sugar or molasses if available; black if not. A cup at every halt, every meal, every conversation.
+- **Sourdough.** A flour-and-water mixture left to ferment with wild yeasts. The starter was kept and refreshed; a good starter could be decades old. Used for bread, biscuits, pancakes. Every trail cook, every Alaskan prospector (_sourdough_ became a term for the veteran prospector), and every careful homestead woman kept a sourdough.
+- **Pemmican.** Treated in Chapter 2. Adopted by some Anglo trappers and traders. Compact, portable, kept for years.
+- **Dried fruit.** Apples, peaches, apricots, plums dried in the sun. Reconstituted in water for pies, cobblers, compotes. The standard winter fruit. Dried fruit was traded by the wagonload between regions: Utah fruit traveled to mining camps, Oregon fruit traveled south.
+- **Mush.** Cornmeal cooked in water or milk to a porridge. Eaten hot at breakfast. Leftover mush sliced and fried for a later meal. The poor man's daily bread.
+- **Side meat (salt pork).** Pork belly cured in salt brine, packed in barrels. Kept for months. Sliced and fried, the grease used for cooking. The trail-drive and homestead fat source.
+- **Hardtack.** The army cracker. Flour, water, salt, baked dry, dried further. Lasted indefinitely if kept dry. Eaten softened in coffee, fried in pork grease, or crumbled into stew. Often weevily after long storage; the soldiers tapped them on the table to shake out the weevils before eating.
+- **Fresh meat sources.** _Beef_ — common where available; trail-drive crews ate beef from the herd, ranches ate beef regularly, towns had butcher shops. _Pork_ — common in farming areas; salt pork from the smokehouse year-round, fresh pork at hog-killing time in fall. _Game_ — deer, antelope, elk where available; buffalo where the herds remained (declining rapidly through the 1870s); wild turkey in the southern plains and Texas; prairie chicken on the plains; sage hen in the Great Basin. _Fish_ — trout in mountain streams, catfish in the Mississippi-Missouri-Arkansas-Red drainages, salmon in the Pacific Northwest. Less universal than meat, but present.
 
 ---
 

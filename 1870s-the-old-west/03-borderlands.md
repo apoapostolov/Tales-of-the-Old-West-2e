@@ -108,11 +108,9 @@ A scene with a corrido sung in a Mexican border town cantina can carry historica
 
 The border bandit was a complicated figure. Some were criminals by any measure. Some were Robin Hood figures in their communities, robbing the Anglo establishment and sharing with Hispanic poor. Some were political — the boundary between banditry and revolutionary politics on the nineteenth-century border was thin.
 
-**Juan Cortina** (Juan Nepomuceno Cortina) was a Mexican rancher of Brownsville who led an armed uprising in 1859 — the Cortina War — protesting Anglo abuses against Mexicans in south Texas. He continued to operate as a political-military figure on both sides of the border for decades. Both bandit and patriot, depending on perspective.
-
-**Joaquín Murrieta** was a California gold-rush-era outlaw, killed (or perhaps not — the head shown was disputed) by California Rangers in 1853. The legend grew enormous on both sides.
-
-**Tiburcio Vásquez** was a California outlaw, captured and hanged in 1875. He was the last of the major Hispanic outlaws of California.
+- **Juan Cortina** (Juan Nepomuceno Cortina) was a Mexican rancher of Brownsville who led an armed uprising in 1859 — the Cortina War — protesting Anglo abuses against Mexicans in south Texas. He continued to operate as a political-military figure on both sides of the border for decades. Both bandit and patriot, depending on perspective.
+- **Joaquín Murrieta** was a California gold-rush-era outlaw, killed (or perhaps not — the head shown was disputed) by California Rangers in 1853. The legend grew enormous on both sides.
+- **Tiburcio Vásquez** was a California outlaw, captured and hanged in 1875. He was the last of the major Hispanic outlaws of California.
 
 The historian Eric Hobsbawm's concept of the _social bandit_ applies to many border figures: the outlaw who is supported by his community, who robs the powerful and shares with the poor, who embodies a resistance to dominant institutions. Not all bandits were social bandits, but many border figures fit the pattern. The Mexican bandit who robbed only Anglo ranches and never Mexican ones, and who could ride through Mexican villages unmolested, was operating in a different moral economy than the random highwayman.
 

@@ -52,13 +52,10 @@ The capture and breaking of wild horses — a substantial industry in the West t
 
 ### Capture
 
-**The walk-down.** A team of mustangers (typically three to six men, multiple horses each) located a wild herd and pursued it on a relay basis. Each rider would push the herd until his horse tired, then drop back and a fresh rider took over. The wild herd, unable to rest, eventually exhausted itself and could be driven into a corral or caught individually. A walk-down might take days.
-
-**The trap corral.** A corral built in a canyon or draw with wing fences leading into it. The herd was driven into the wings and on into the corral, the gate slammed shut behind. Required scouting to find herds that used predictable water or travel routes.
-
-**The water trap.** A corral built around a water source the herd used. The mustangers waited until the herd entered to drink, then closed the gate. Effective in dry country where water was scarce.
-
-**Roping individuals.** A mounted rider on a fast, tough horse cut individual animals from the herd and roped them. The roped horse was thrown, hobbled, and held until it could be led back to camp.
+- **The walk-down.** A team of mustangers (typically three to six men, multiple horses each) located a wild herd and pursued it on a relay basis. Each rider would push the herd until his horse tired, then drop back and a fresh rider took over. The wild herd, unable to rest, eventually exhausted itself and could be driven into a corral or caught individually. A walk-down might take days.
+- **The trap corral.** A corral built in a canyon or draw with wing fences leading into it. The herd was driven into the wings and on into the corral, the gate slammed shut behind. Required scouting to find herds that used predictable water or travel routes.
+- **The water trap.** A corral built around a water source the herd used. The mustangers waited until the herd entered to drink, then closed the gate. Effective in dry country where water was scarce.
+- **Roping individuals.** A mounted rider on a fast, tough horse cut individual animals from the herd and roped them. The roped horse was thrown, hobbled, and held until it could be led back to camp.
 
 ### Breaking
 
@@ -88,9 +85,8 @@ A major western entertainment, especially in Texas, the Southwest, and Californi
 
 **The match race** was the classic western race. Two horses, one race, a short distance — a quarter-mile to a half-mile in Texas; longer distances in California. The horses ran from a standing start on a straight track: sometimes a graded race track at a town, sometimes a straight stretch of road, sometimes a measured course on the prairie. The match race was the occasion for substantial betting. The Texas "quarter race" (quarter-mile sprint) was a particular form, drawing on the short-distance racing tradition the Anglo-American settlers brought from the South. The Steeldust horses excelled at this distance.
 
-**The Mexican carrera.** The Hispanic horse racing tradition. The carrera de caballos was a community event with substantial betting, often run on Sunday after Mass on a designated track at the village edge. The Mexican gambler at the carrera was a recognizable figure; the prize horse was the village's pride.
-
-**The track meet.** In the larger western towns, formal race tracks operated with multiple races per day, organized betting (parimutuel and bookmaker), and thoroughbred racing on the Eastern model. San Francisco, Sacramento, and (later) Denver were the principal centers.
+- **The Mexican carrera.** The Hispanic horse racing tradition. The carrera de caballos was a community event with substantial betting, often run on Sunday after Mass on a designated track at the village edge. The Mexican gambler at the carrera was a recognizable figure; the prize horse was the village's pride.
+- **The track meet.** In the larger western towns, formal race tracks operated with multiple races per day, organized betting (parimutuel and bookmaker), and thoroughbred racing on the Eastern model. San Francisco, Sacramento, and (later) Denver were the principal centers.
 
 ---
 
@@ -100,13 +96,10 @@ Horse theft was a major western crime, distinct from cattle rustling though ofte
 
 ### Methods
 
-**The bunch theft.** A group of horses driven off a range and taken cross-country to a distant market. Required getting the horses to a place where they would not be recognized. Cross-border theft was common — Texas horses driven into Mexico (and vice versa), Wyoming horses driven into Colorado.
-
-**The single-horse theft.** A specific horse taken from a corral, hitching rail, or pasture. Typically a riding horse the thief intended to use himself. The thief might leave his own worn-out horse in trade.
-
-**The remuda theft.** The theft of a working ranch's or trail outfit's horse herd. Catastrophic for the victim — the outfit could not work without horses.
-
-**The Indian raid.** Plains tribes practiced horse raiding as a major economic and prestige activity. Raids took horses from other tribes, from Hispanic ranches, and from white settlements. The cultural framework was different from white horse theft, but the economic effect on the victim was similar.
+- **The bunch theft.** A group of horses driven off a range and taken cross-country to a distant market. Required getting the horses to a place where they would not be recognized. Cross-border theft was common — Texas horses driven into Mexico (and vice versa), Wyoming horses driven into Colorado.
+- **The single-horse theft.** A specific horse taken from a corral, hitching rail, or pasture. Typically a riding horse the thief intended to use himself. The thief might leave his own worn-out horse in trade.
+- **The remuda theft.** The theft of a working ranch's or trail outfit's horse herd. Catastrophic for the victim — the outfit could not work without horses.
+- **The Indian raid.** Plains tribes practiced horse raiding as a major economic and prestige activity. Raids took horses from other tribes, from Hispanic ranches, and from white settlements. The cultural framework was different from white horse theft, but the economic effect on the victim was similar.
 
 ### Brand alteration and penalty
 
@@ -152,15 +145,18 @@ Chapter 15 covers the saddle, the bit, and the basic gear. This section expands 
 
 ### Saddles beyond the basic stock saddle
 
-**The Mexican saddle (silla),** the original parent of the western stock saddle: high pommel, high cantle, big horn, ornately tooled, heavy and durable. **The Texas saddle,** a development of the Mexican saddle for Texas cattle work: lower than the Mexican, with the strong horn for roping. **The California saddle,** a development of the Mexican saddle for California vaquero work: more ornate than the Texas saddle, with specific details (the round skirt, the differing rigging). **The McClellan saddle,** the U.S. Cavalry's service saddle (adopted 1859, used through World War II): a spare, open-tree saddle designed to spare the horse's back on long rides — hard on the rider's seat. **The English saddle,** used for race horses and by some Eastern-trained riders, rare on the working range. **The pack saddle** — the sawbuck or aparejo: the sawbuck a wooden cross-frame strapped to the pack animal; the aparejo a Mexican-derived padded cushion saddle that distributed load better. The aparejo was preferred by serious packers.
+- **The Mexican saddle (silla),** the original parent of the western stock saddle: high pommel, high cantle, big horn, ornately tooled, heavy and durable.
+- **The Texas saddle,** a development of the Mexican saddle for Texas cattle work: lower than the Mexican, with the strong horn for roping.
+- **The California saddle,** a development of the Mexican saddle for California vaquero work: more ornate than the Texas saddle, with specific details (the round skirt, the differing rigging).
+- **The McClellan saddle,** the U.S. Cavalry's service saddle (adopted 1859, used through World War II): a spare, open-tree saddle designed to spare the horse's back on long rides — hard on the rider's seat.
+- **The English saddle,** used for race horses and by some Eastern-trained riders, rare on the working range.
+- **The pack saddle** — the sawbuck or aparejo: the sawbuck a wooden cross-frame strapped to the pack animal; the aparejo a Mexican-derived padded cushion saddle that distributed load better. The aparejo was preferred by serious packers.
 
 ### Boots, spurs, chaps
 
-**Boots** were high-heeled, pointed-toed, underslung-heeled. The high heel kept the foot from slipping through the stirrup; the pointed toe slid in easily; the underslung heel caught on the stirrup if the horse fell, helping the rider pull free. The boots were typically pulled on (no laces) and reached well up the calf.
-
-**Spurs** were worn on the boots. Various types: the Texas spur (small rowel, short shank), the California spur (large rowel, long shank, often with jingles), the Mexican spur (the largest, most ornate). Spurs were used to signal the horse more than to punish; the experienced rider used the spur lightly.
-
-**Chaps** were leather leg coverings worn over the trousers to protect against brush, weather, rope burn, and accidental falls. Two main types: shotgun chaps (full-length tubes pulled on like trousers) and batwing chaps (open at the back, buckled around the leg). Plus the Mexican chaparreras (the parent type) and the woollies (winter chaps with the hair left on).
+- **Boots** were high-heeled, pointed-toed, underslung-heeled. The high heel kept the foot from slipping through the stirrup; the pointed toe slid in easily; the underslung heel caught on the stirrup if the horse fell, helping the rider pull free. The boots were typically pulled on (no laces) and reached well up the calf.
+- **Spurs** were worn on the boots. Various types: the Texas spur (small rowel, short shank), the California spur (large rowel, long shank, often with jingles), the Mexican spur (the largest, most ornate). Spurs were used to signal the horse more than to punish; the experienced rider used the spur lightly.
+- **Chaps** were leather leg coverings worn over the trousers to protect against brush, weather, rope burn, and accidental falls. Two main types: shotgun chaps (full-length tubes pulled on like trousers) and batwing chaps (open at the back, buckled around the leg). Plus the Mexican chaparreras (the parent type) and the woollies (winter chaps with the hair left on).
 
 ### The rope
 
@@ -198,11 +194,9 @@ The ceremonial dimensions of horse culture appear in funeral practices (the kill
 
 Render the horseman through his vocabulary. The specific terms carry the period.
 
-**Mouth** is a verb — to examine a horse's teeth to judge its age. _He mouthed the gelding and pronounced him eight years old._ A **mouthy** horse has a hard mouth that does not respond to the bit. **Wind** is the horse's breathing capacity — _sound of wind_ meant healthy lungs; _broken wind_ was heaves, a chronic respiratory condition. **Hand** is the unit of horse height, four inches; _fifteen and a half hands_ was about 5'2" at the withers. **Withers** is the high point at the base of the horse's neck where it joins the back. **Hocks** is the major joint of the horse's hind leg.
-
-**Cinch** or **girth** is the strap holding the saddle on — _cinch_ in Western usage, _girth_ in English. **Latigo** is the leather strap by which the cinch was fastened. **Off side** and **near side** are the right side and the left side of the horse; the horse was traditionally mounted from the near (left) side. **Up** means mounted — _he was up by daylight._
-
-**Bunch up** is a horse drawing his legs together and rounding his back, often as a prelude to bucking. **Crow-hop** is a mild buck — the horse hopping with all four legs, not violently. **Sun-fish** is a serious buck — the horse twisting the body in mid-air, presenting the belly to the sun; a sun-fishing horse threw most riders. **Rear** is the horse standing on his hind legs, dangerous; a rearing horse can fall over backwards on the rider. **Bog down** is a horse trapped in mud or a bog. **Founder** is laminitis, a severe inflammation of the horse's feet, often from overfeeding or overwork. **Galled** is a horse with sore patches under the saddle or harness from rubbing. **Pulled up lame** is a horse that became lame on the trail and could not continue at speed. **Saddle-sore** is either the rider after long riding, or the horse with sore patches. **Throw a shoe** is a horseshoe coming off in the field — a horse without a shoe might quickly become lame on stony ground.
+- **Mouth** is a verb — to examine a horse's teeth to judge its age. _He mouthed the gelding and pronounced him eight years old._ A **mouthy** horse has a hard mouth that does not respond to the bit. **Wind** is the horse's breathing capacity — _sound of wind_ meant healthy lungs; _broken wind_ was heaves, a chronic respiratory condition. **Hand** is the unit of horse height, four inches; _fifteen and a half hands_ was about 5'2" at the withers. **Withers** is the high point at the base of the horse's neck where it joins the back. **Hocks** is the major joint of the horse's hind leg.
+- **Cinch** or **girth** is the strap holding the saddle on — _cinch_ in Western usage, _girth_ in English. **Latigo** is the leather strap by which the cinch was fastened. **Off side** and **near side** are the right side and the left side of the horse; the horse was traditionally mounted from the near (left) side. **Up** means mounted — _he was up by daylight._
+- **Bunch up** is a horse drawing his legs together and rounding his back, often as a prelude to bucking. **Crow-hop** is a mild buck — the horse hopping with all four legs, not violently. **Sun-fish** is a serious buck — the horse twisting the body in mid-air, presenting the belly to the sun; a sun-fishing horse threw most riders. **Rear** is the horse standing on his hind legs, dangerous; a rearing horse can fall over backwards on the rider. **Bog down** is a horse trapped in mud or a bog. **Founder** is laminitis, a severe inflammation of the horse's feet, often from overfeeding or overwork. **Galled** is a horse with sore patches under the saddle or harness from rubbing. **Pulled up lame** is a horse that became lame on the trail and could not continue at speed. **Saddle-sore** is either the rider after long riding, or the horse with sore patches. **Throw a shoe** is a horseshoe coming off in the field — a horse without a shoe might quickly become lame on stony ground.
 
 These terms came to the horseman's mouth naturally and gave the period its weight.
 

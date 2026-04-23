@@ -10,17 +10,12 @@ The working West moved by procedure. A man saddled his horse the same way every 
 
 Skilled work in the period had six properties.
 
-**Tense is present or simple past, never conditional.** The work happens. _He pulls the cinch_ or _He pulled the cinch._ Not _He would pull the cinch._ Not _One would._
-
-**Nouns are specific.** The thing has a name. _Latigo,_ not _strap._ _Honda,_ not _loop._ _Snaffle,_ not _bit_ when the accuracy matters.
-
-**Verbs are strong.** _Slap, pull, throw, dally, pop, set, draw, cut._ No copulas where a verb will do.
-
-**Sequence over explanation.** _First, then, then._ The reader is shown the order. The reader infers the reason.
-
-**No interior.** The worker does not narrate his feelings. He works. The narrator does not narrate the worker's feelings either.
-
-**Short clauses.** The breath of the prose is the breath of the work. Long sentences for waiting; short sentences for hands moving.
+- **Tense is present or simple past, never conditional.** The work happens. _He pulls the cinch_ or _He pulled the cinch._ Not _He would pull the cinch._ Not _One would._
+- **Nouns are specific.** The thing has a name. _Latigo,_ not _strap._ _Honda,_ not _loop._ _Snaffle,_ not _bit_ when the accuracy matters.
+- **Verbs are strong.** _Slap, pull, throw, dally, pop, set, draw, cut._ No copulas where a verb will do.
+- **Sequence over explanation.** _First, then, then._ The reader is shown the order. The reader infers the reason.
+- **No interior.** The worker does not narrate his feelings. He works. The narrator does not narrate the worker's feelings either.
+- **Short clauses.** The breath of the prose is the breath of the work. Long sentences for waiting; short sentences for hands moving.
 
 The bad version reads: _Bowman saddled his horse, carefully ensuring that the cinch was properly tightened so as to prevent the saddle from shifting during the ride, an unfortunate occurrence that could potentially lead to injury for both horse and rider._ The good version: _Bowman threw the blanket on. He set the saddle on top of the blanket and slid it back along the bay's spine until it sat right. He pulled the cinch through the latigo and drew it up by feel. He waited for the bay to let out his breath and then he drew it up the rest of the way._ Specific gear, specific behavior of the animal — every cowman knows the bay puffs out his belly to keep the cinch loose — no explanation, no fear of safety.
 
@@ -138,13 +133,10 @@ Beat down the snow to a flat spot or build the fire on a platform of green logs.
 
 ### Beans, biscuit, bacon, beef, coffee
 
-**Beans.** Wash the beans the night before, set them to soak in cold water. In the morning pour off the water, cover them fresh with water two fingers above the beans, set the pot on the fire. Add a chunk of salt pork and a handful of salt. Boil down to a slow simmer, cover, leave them. Three hours, the beans are soft. Four hours, they are right. Six hours, you add more water and they are still right.
-
-**Sourdough biscuit.** Take a cup of starter from the keg, pour into the bowl. Add water, salt, lard, flour. Work it up to a stiff dough. Pinch off pieces, set them in the Dutch oven greased with bacon fat. Set the oven on the coals, set coals on the lid. Twenty minutes. The biscuit comes up brown on top and bottom and the inside is sour and tender. Save back a cup of starter for the next day. Feed it flour and water, keep the keg warm.
-
-**Bacon and beef.** Bacon is sliced thin, laid in the iron skillet, fried crisp, drained. The grease is saved. Beef when fresh, from a steer killed for the camp, is cut into steaks, salted, fried in the bacon grease. The trimmings go in the beans. The bones boil for soup with whatever the cook has — a handful of beans, a wild onion, a piece of jerky.
-
-**Coffee.** Coffee bean is parched in the skillet over the fire, ground in a hand-mill or pounded in a flour sack with a hammer. Boil water in the pot. Throw in a handful of ground coffee. Boil five minutes. Throw in a dipper of cold water to settle the grounds. Pour. The coffee is black, gritty, hot, strong. A cowboy drinks four or six cups in a day.
+- **Beans.** Wash the beans the night before, set them to soak in cold water. In the morning pour off the water, cover them fresh with water two fingers above the beans, set the pot on the fire. Add a chunk of salt pork and a handful of salt. Boil down to a slow simmer, cover, leave them. Three hours, the beans are soft. Four hours, they are right. Six hours, you add more water and they are still right.
+- **Sourdough biscuit.** Take a cup of starter from the keg, pour into the bowl. Add water, salt, lard, flour. Work it up to a stiff dough. Pinch off pieces, set them in the Dutch oven greased with bacon fat. Set the oven on the coals, set coals on the lid. Twenty minutes. The biscuit comes up brown on top and bottom and the inside is sour and tender. Save back a cup of starter for the next day. Feed it flour and water, keep the keg warm.
+- **Bacon and beef.** Bacon is sliced thin, laid in the iron skillet, fried crisp, drained. The grease is saved. Beef when fresh, from a steer killed for the camp, is cut into steaks, salted, fried in the bacon grease. The trimmings go in the beans. The bones boil for soup with whatever the cook has — a handful of beans, a wild onion, a piece of jerky.
+- **Coffee.** Coffee bean is parched in the skillet over the fire, ground in a hand-mill or pounded in a flour sack with a hammer. Boil water in the pot. Throw in a handful of ground coffee. Boil five minutes. Throw in a dipper of cold water to settle the grounds. Pour. The coffee is black, gritty, hot, strong. A cowboy drinks four or six cups in a day.
 
 ### Pitching and striking camp
 
@@ -306,13 +298,10 @@ Setting an ambush: pick high ground. Pick cover. Pick a field of fire. Pick a wa
 
 The procedures above are _too clean_ to drop directly into a scene. They are reference. When you write the scene you do four things.
 
-**Cut.** A reader does not need every step. Pick the three or four that carry the scene.
-
-**Disrupt.** Things go wrong. The cinch slips. The latigo knot has dried. The rope burns the gloved hand. The fire spits because the wood is wet. The disruption is the scene.
-
-**Embed.** The procedure is interleaved with the character's perception, the weather, the conversation.
-
-**End on weight.** The procedure ends on the consequence: the saddle sits right, the herd is bedded, the wound is sewn, the man is dead.
+- **Cut.** A reader does not need every step. Pick the three or four that carry the scene.
+- **Disrupt.** Things go wrong. The cinch slips. The latigo knot has dried. The rope burns the gloved hand. The fire spits because the wood is wet. The disruption is the scene.
+- **Embed.** The procedure is interleaved with the character's perception, the weather, the conversation.
+- **End on weight.** The procedure ends on the consequence: the saddle sits right, the herd is bedded, the wound is sewn, the man is dead.
 
 The raw procedure: _Lay the blanket smooth. Set the saddle. Pull the cinch through the latigo. Wait for the horse to blow. Pull again. Tie off._
 

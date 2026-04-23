@@ -12,7 +12,11 @@ The frontier army of the 1870s was small — about twenty-five thousand men — 
 
 The standard frontier post was an open square — the parade ground — surrounded by buildings.
 
-**Officers' row** ran along one side of the square: wood-frame or adobe houses for the officers and their families, the post commander's house usually the largest. Officers' row was the post's social center. **Enlisted barracks** stood opposite officers' row — long single-story buildings (wood, adobe, or stone), each housing a company (about fifty men in the 1870s), a single open bay with bunks along both walls, small attached kitchen and mess, the first sergeant's room at one end. **Headquarters** or the adjutant's office was a small building, often near the flagpole at the parade ground's center. The **quartermaster** and **commissary storehouses** were heavy buildings containing the post's supplies, guarded. **Stables** stood at cavalry posts — long open barns, with the saddler's shop and farrier's shop nearby. The **hospital** was small (one or two wards), staffed by a contract surgeon. The **guardhouse** was the post's jail. The **sutler's store** or post trader's was a civilian business licensed to operate at the post, selling goods (tobacco, canned food, whisky, clothing) to officers and enlisted at posted prices — the post's only commercial space. **Laundresses' quarters** (Soapsuds Row) were often a separate row of shacks where the post's laundresses, frequently soldiers' wives, lived and worked.
+- **Officers' row** ran along one side of the square: wood-frame or adobe houses for the officers and their families, the post commander's house usually the largest. Officers' row was the post's social center.
+- **Enlisted barracks** stood opposite officers' row — long single-story buildings (wood, adobe, or stone), each housing a company (about fifty men in the 1870s), a single open bay with bunks along both walls, small attached kitchen and mess, the first sergeant's room at one end.
+- **Headquarters** or the adjutant's office was a small building, often near the flagpole at the parade ground's center. The **quartermaster** and **commissary storehouses** were heavy buildings containing the post's supplies, guarded.
+- **Stables** stood at cavalry posts — long open barns, with the saddler's shop and farrier's shop nearby. The **hospital** was small (one or two wards), staffed by a contract surgeon. The **guardhouse** was the post's jail. The **sutler's store** or post trader's was a civilian business licensed to operate at the post, selling goods (tobacco, canned food, whisky, clothing) to officers and enlisted at posted prices — the post's only commercial space.
+- **Laundresses' quarters** (Soapsuds Row) were often a separate row of shacks where the post's laundresses, frequently soldiers' wives, lived and worked.
 
 Most posts had no walls. The stockade fort of the movies was largely a fiction by the 1870s; the open plan was standard. A few exceptions — Fort Apache, some older posts — had walls.
 
@@ -30,7 +34,17 @@ The relationship between the company commander and the first sergeant is one of 
 
 The army day was structured by bugle calls. The bugler was a critical figure; he announced every transition of the day to the entire post.
 
-**Reveille,** about sunrise: bugle call, formation in front of barracks, roll call. **Stable call** (cavalry): men go to the stables to feed, water, groom, and clean stalls — cavalry was forty percent horse-care. **Mess call** (breakfast): coffee, hardtack or bread, salt pork or beef, occasional eggs. **Sick call:** men reporting illness present at the hospital. **Fatigue call:** work details — wood-cutting, hay-cutting, repairing buildings, carrying supplies, digging latrines. The soldier's daily work was largely manual labor, not military exercise. **Drill** when held: formation drill, weapons drill, mounted drill (cavalry); frequency varied — some posts drilled daily, some rarely. **Mess call** (dinner, midday): the main meal — beef stew, beans, bread, coffee; vegetables were rare. **Fatigue continues.** **Stable call:** evening care of horses. **Mess call** (supper): light meal, often leftovers. **Retreat** (sunset): formation, lowering of the flag. **Tattoo**, about 9 p.m.: final formation, roll call. **Taps:** lights out.
+- **Reveille,** about sunrise: bugle call, formation in front of barracks, roll call.
+- **Stable call** (cavalry): men go to the stables to feed, water, groom, and clean stalls — cavalry was forty percent horse-care.
+- **Mess call** (breakfast): coffee, hardtack or bread, salt pork or beef, occasional eggs.
+- **Sick call:** men reporting illness present at the hospital.
+- **Fatigue call:** work details — wood-cutting, hay-cutting, repairing buildings, carrying supplies, digging latrines. The soldier's daily work was largely manual labor, not military exercise.
+- **Drill** when held: formation drill, weapons drill, mounted drill (cavalry); frequency varied — some posts drilled daily, some rarely.
+- **Mess call** (dinner, midday): the main meal — beef stew, beans, bread, coffee; vegetables were rare.
+- **Fatigue continues.** **Stable call:** evening care of horses.
+- **Mess call** (supper): light meal, often leftovers.
+- **Retreat** (sunset): formation, lowering of the flag. **Tattoo**, about 9 p.m.: final formation, roll call.
+- **Taps:** lights out.
 
 The day was punctuated by guard mount about 9 a.m., when the new guard detail relieved the old. Guard duty was twenty-four hours and was rotated through the company.
 
@@ -112,15 +126,11 @@ The army drank. The post commander drank. The general drank — Grant's reputati
 
 (See Chapter 9 for the broader period speech reference.) Specific army features:
 
-**Rank in address.** Officers were addressed by rank: _Captain, Lieutenant, Colonel._ Enlisted by _Sergeant, Corporal._ A private was addressed by surname or as _Soldier_ or _Trooper._
-
-**The colonel's voice.** Officers from West Point had a Latin-saturated formal English. _I should be obliged, I am inclined to think, sir._
-
-**The first sergeant's voice.** Old-army NCOs were often Irish or German immigrants. The voice was practical, profane (in the field, less in earshot of officers), specific. _Move it, you sons of bitches. Mount up. Mount up._
-
-**The recruit's voice.** The new soldier in 1875 was often a recent immigrant (Irish, German, English, Italian) or an Eastern man with no other prospect. Multiple accents in the ranks.
-
-**The reports.** Written reports used a formal bureaucratic register: _I have the honor to report, in compliance with instructions, the command marched at sunrise._ A field report had its own form. A letter of complaint had its own form. A request for transfer had its own form. A scene of an officer dictating a report is a scene in which the formal voice can be heard against the informal voice of the surrounding day.
+- **Rank in address.** Officers were addressed by rank: _Captain, Lieutenant, Colonel._ Enlisted by _Sergeant, Corporal._ A private was addressed by surname or as _Soldier_ or _Trooper._
+- **The colonel's voice.** Officers from West Point had a Latin-saturated formal English. _I should be obliged, I am inclined to think, sir._
+- **The first sergeant's voice.** Old-army NCOs were often Irish or German immigrants. The voice was practical, profane (in the field, less in earshot of officers), specific. _Move it, you sons of bitches. Mount up. Mount up._
+- **The recruit's voice.** The new soldier in 1875 was often a recent immigrant (Irish, German, English, Italian) or an Eastern man with no other prospect. Multiple accents in the ranks.
+- **The reports.** Written reports used a formal bureaucratic register: _I have the honor to report, in compliance with instructions, the command marched at sunrise._ A field report had its own form. A letter of complaint had its own form. A request for transfer had its own form. A scene of an officer dictating a report is a scene in which the formal voice can be heard against the informal voice of the surrounding day.
 
 ---
 
@@ -128,7 +138,12 @@ The army drank. The post commander drank. The general drank — Grant's reputati
 
 The army campaign in the West offered specific failure modes.
 
-**Heat exhaustion.** Summer marches in the southern plains and the Southwest killed horses and men. A forced march in July might mean a third of the horses dead by the end. **Frostbite.** Winter campaigns (the army made many in the late 1860s and 1870s, on the theory that Indians were less mobile in winter) produced amputations from frostbite. Custer's 1868 winter campaign and the 1876–77 northern campaign were brutal. **Sickness.** Dysentery was the army's killer. Bad water, bad food, bad latrine discipline. A campaign could lose more men to sickness than to combat. **Desertion.** Men slipped away from the column, especially when the pursuit was futile and the column had been out for weeks. **Failure to find the enemy.** The most common campaign result. The column marched, marched, marched, and saw no Indians at all. **Ambush.** When the column did find the enemy, it was often on the enemy's terms. The Fetterman fight (1866), the Wagon Box fight (1867), the Little Bighorn (1876), the Wounded Knee aftermath (1890) — each is a study in the army's vulnerabilities.
+- **Heat exhaustion.** Summer marches in the southern plains and the Southwest killed horses and men. A forced march in July might mean a third of the horses dead by the end.
+- **Frostbite.** Winter campaigns (the army made many in the late 1860s and 1870s, on the theory that Indians were less mobile in winter) produced amputations from frostbite. Custer's 1868 winter campaign and the 1876–77 northern campaign were brutal.
+- **Sickness.** Dysentery was the army's killer. Bad water, bad food, bad latrine discipline. A campaign could lose more men to sickness than to combat.
+- **Desertion.** Men slipped away from the column, especially when the pursuit was futile and the column had been out for weeks.
+- **Failure to find the enemy.** The most common campaign result. The column marched, marched, marched, and saw no Indians at all.
+- **Ambush.** When the column did find the enemy, it was often on the enemy's terms. The Fetterman fight (1866), the Wagon Box fight (1867), the Little Bighorn (1876), the Wounded Knee aftermath (1890) — each is a study in the army's vulnerabilities.
 
 A campaign novel that ends without a battle is historically more accurate than one that ends with glorious victory. The army's frustration is the campaign's real subject.
 
