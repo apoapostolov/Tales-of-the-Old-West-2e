@@ -36,11 +36,20 @@ A result of 1 on any of your Trouble dice could be bad for you. However, this Tr
 
 #### Sixes Mean Success
 
-To succeed with your action you must roll at least one 6, called a success. A 6 on any die, including Trouble dice, counts as a success. If you roll more than one success your action has worked out even better than you’d hoped and you can achieve other additional effects—we call these stunts.
+To succeed with your action you must roll at least one 6, called a success. A 6 on any die, including Trouble dice, counts as a success. If you roll more than one success your action has worked out even better than you’d hoped and you can achieve other additional effects.
+
+For many non-combat actions, and for most procedures elsewhere in this book, read the total number of successes like this:
+
+- `0 successes` : Failure. You do not get what you wanted, and the situation may worsen.
+- `1 success` : Limited success. You achieve something, but not cleanly, fully, or safely.
+- `2 successes` : Complete success. You achieve your aim cleanly.
+- `3 or more successes` : Critical success. You achieve your aim cleanly and gain some extra advantage, insight, speed, or leverage.
+
+This is the default way to read ability rolls unless a more specific rule says otherwise.
 
 #### Stunts
 
-Any extra successes beyond the first are used to perform stunts. In a violent conflict, stunts can convert into extra damage or the chance to critically injure your enemy, but they can also be used for more imaginative outcomes in any situation: force an opponent to move, fall over or drop something; cause a horse to buck; craft something of exceptional beauty; earn trust or make a friend; or cheat more brilliantly at cards. Stunts are only limited by your imagination, but the GM always has the final say on what is possible and the potential outcomes.
+In a violent conflict, or in any rule that specifically spends extra successes, any successes beyond the first are used to perform stunts. In a fight, these can convert into extra damage or the chance to critically injure your enemy, but they can also be used for more imaginative outcomes in any situation: force an opponent to move, fall over or drop something; cause a horse to buck; craft something of exceptional beauty; earn trust or make a friend; or cheat more brilliantly at cards. Stunts are only limited by your imagination, but the GM always has the final say on what is possible and the potential outcomes.
 
 #### The Art of Failure
 

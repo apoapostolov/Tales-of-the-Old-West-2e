@@ -8,8 +8,6 @@ Talents give you the edge over the other guy and set you apart from the small fo
 
 Each talent in Tales of the Old West is tiered into two ranks of increasingly powerful capability, Basic and Advanced. You must have already learned the Basic rank of a talent before you can acquire the Advanced rank, and you cannot spend XP to acquire both the Basic and Advanced ranks at the same time. Once you have earned the Basic talent you keep any benefits it gives you if you later take the Advanced rank.
 
-Basic talents cost 4 XP and Advanced talents cost 6 XP.
-
 ### Born in the Saddle
 
 Riding comes as naturally to you as breathing does to everyone else.

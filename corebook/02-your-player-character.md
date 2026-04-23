@@ -2,7 +2,7 @@
 
 > _“YOU MUST PAY FOR EVERYTHING IN THIS WORLD ONE WAY AND ANOTHER. THERE IS NOTHING FREE EXCEPT THE GRACE OF GOD.”_
 >
-> — MATTIE ROSS, *TRUE GRIT*, CHARLES PORTIS
+> — MATTIE ROSS, _TRUE GRIT_, CHARLES PORTIS
 
 Player characters in _Tales of the Old West_ are defined by their attributes, which represent physical and mental qualities, their abilities, which represent general skills, and their talents, which represent the specialized skills that make them unique. They are also defined by their Faith, their Big Dream, and their relationships.
 
@@ -60,7 +60,7 @@ Your abilities are the knowledge and skills you have acquired during your life. 
 
 ### Big Dream
 
-Your immediate goal in the game is to survive. But in the long run, mere survival is not enough. You also have a motivation of your own, something you dream will one day come to pass, that keeps you on your feet when it would be easier to just lay down and die. You should choose your own Big Dream, or allow it to develop in your first few scenarios. During play you gain extra Experience Points (XP) if you risk or sacrifice something to move closer to seeing your Big Dream come true.
+Your immediate goal in the game is to survive. But in the long run, mere survival is not enough. You also have a motivation of your own, something you dream will one day come to pass, that keeps you on your feet when it would be easier to just lay down and die. You should choose your own Big Dream, or allow it to develop in your first few scenarios. During play, risking or sacrificing something to move closer to that dream is one of the clearest reasons for the GM to award you extra Experience Points (XP).
 
 ### Talents
 
@@ -126,15 +126,25 @@ But you can see what this town could become, the life you could forge here—the
 
 #### Experience
 
-The lessons your character learns during the game are measured in Experience Points (XP). You receive XP after the end of each adventure or game session (at the GM’s discretion). Talk it through and let the whole group discuss what has happened. Ask yourself the following questions—each time you answer “yes” you gain 1 XP:
+The lessons your character learns during the game are measured in Experience Points (XP). XP should be awarded more slowly and more deliberately than in fast, question-based systems. The GM simply judges how much the player characters have gone through, how much changed, and how costly the session was.
 
-- Did you participate in the game session? You get one XP just for being there.
-- Did you risk or sacrifice something significant to help realize your Big Dream?
-- Did you risk or sacrifice something significant for any other character? Gain an additional XP if that character was your Pardner.
-- Did you perform an extraordinary action of some kind?
-- Did you act in accordance with your Faith?
+Use the following as the default pace:
 
-You might also be awarded XP for scenario-specific achievements.
+- Short session: `1 XP`
+- Long session: `2 XP`
+- If the session included a fight, chase, disaster, or reversal that could easily have killed or ruined the player characters, award `+1 XP`
+
+These are guidelines, not a checklist. A quiet session of town business and conversation may still earn `1 XP`. A long and brutal session that changes the course of the campaign may earn `3 XP`.
+
+#### Milestones, Downtime, and Legacy
+
+- Minor milestone: `+2 XP` to each present player character. Examples include exposing a traitor, saving a homestead, breaking a gang, or securing a valuable alliance.
+- Major milestone: `+4 XP` to each present player character. Examples include finishing a tale, toppling a major foe, founding a town, or changing the balance of power in a region.
+- Downtime: if months pass while the player characters ranch, study, travel, build, recover, or train, the GM may award `1 XP` per season of meaningful downtime.
+
+Legacy XP honors dead or retired player characters. When a player character leaves play, count how many sessions they were part of, take half that number (rounded up), and add half of their unspent XP (rounded down). The result becomes Legacy XP for that player's next character.
+
+Legacy XP may be spent during character creation, but no ability may start above `3`, and no talent may be bought above the `Basic` rank with Legacy XP unless the GM agrees.
 
 The GM has the final word when it comes to how much XP each character should get. Write down the XP on your character sheet.
 
@@ -142,7 +152,7 @@ See Chapter 8 for more about towns, how to set yours up and how you get it flour
 
 ### Character Development
 
-At the end of an adventure the player characters will be able to take stock, learn from the experiences they have had and earn Experience Points (XP). You will also see how well they have supported their home town and earn Settlement Points (SP). This is the time to check your dreams—has your Big Dream changed because of your recent experiences, and are you still close with those you thought were friends?
+At the end of a session, adventure, or longer stretch of play, the player characters can take stock of what they have lived through, earn Experience Points (XP), and see how well they have supported their home town through Settlement Points (SP). This is also the time to check your dreams—has your Big Dream changed because of your recent experiences, and are you still close with those you thought were friends?
 
 #### Settlements
 
@@ -156,11 +166,46 @@ The GM has the final word on how many SP the players have earned, but we recomme
 
 #### Spending XP
 
-You can use your XP to improve your abilities and talents, or to learn new ones. You can only spend XP when your player character gets a chance to rest, or between game sessions. You can also spend any SP you have earned to develop your home town during the Turn of the Season (page 180).
+You can use your XP to improve your attributes, abilities, and talents. You can only spend XP when your player character gets a chance to rest and study, or between sessions if the fiction allows it. You can also spend any SP you have earned to develop your home town during the Turn of the Season (page 180).
 
-**ABILITIES** : To increase an ability level by one point costs 5 XP. Learning a new ability (at level 1) also costs 5 XP.
+XP buys potential. Time, effort, and often a teacher turn that potential into real growth.
 
-**TALENTS** : Learning a talent at the Basic rank costs 4 XP, and at the Advanced rank costs another 6 XP. You must learn the Basic rank before you can learn the Advanced, and you can only increase a talent by one rank per session.
+#### Training and Advancement
+
+Training normally takes one `Shift` of focused effort per day. You may only focus on one line of study at a time. These training shifts do not need to be consecutive, but you gain the new rank only after the time and XP cost have both been paid.
+
+If you have a teacher, trainer, or mentor with a higher relevant rating than your own, use the lower XP and time costs. Without one, each training shift ends with a `DOCITY` roll. If that roll fails, the time was spent but no real progress was made that day.
+
+#### Raising Attributes
+
+Raising an attribute costs `(new attribute value x 10)` XP. No teacher is required, but attributes cannot be raised above `5`.
+
+| From | To  | XP Cost |
+| ---- | --- | ------- |
+| 2    | 3   | `30`    |
+| 3    | 4   | `40`    |
+| 4    | 5   | `50`    |
+
+#### Raising Abilities
+
+| Ability Rank | XP with Teacher | XP without Teacher | Time with Teacher | Time without Teacher | Typical Fee per Shift     |
+| ------------ | --------------- | ------------------ | ----------------- | -------------------- | ------------------------- |
+| `0 -> 1`     | `3`             | `4`                | `1 Shift`         | `1 Shift`            | a small favor, or `$0.25` |
+| `1 -> 2`     | `6`             | `8`                | `1 Shift`         | `2 Shifts`           | `$0.50`                   |
+| `2 -> 3`     | `9`             | `12`               | `2 Shifts`        | `3 Shifts`           | `$0.75`                   |
+| `3 -> 4`     | `12`            | `16`               | `2 Shifts`        | `4 Shifts`           | `$1`                      |
+| `4 -> 5`     | `15`            | `20`               | `3 Shifts`        | `5 Shifts`           | `$2`                      |
+
+#### Raising Talents
+
+Talents in _Tales of the Old West_ only have two ranks, but they are broad and potent. For advancement purposes, treat the `Basic` rank as roughly equivalent to a second-rank talent in a more granular game, and the `Advanced` rank as roughly equivalent to a third-rank talent.
+
+| Talent Rank         | XP with Teacher | XP without Teacher | Time with Teacher | Time without Teacher | Typical Fee per Shift |
+| ------------------- | --------------- | ------------------ | ----------------- | -------------------- | --------------------- |
+| `0 -> Basic`        | `6`             | `18`               | `2 Shifts`        | `6 Shifts`           | `$1.50`               |
+| `Basic -> Advanced` | `9`             | `27`               | `3 Shifts`        | `9 Shifts`           | `$2`                  |
+
+You must learn the `Basic` rank before the `Advanced` rank. You cannot learn both ranks of the same talent at once.
 
 #### Find a New Dream
 
@@ -318,7 +363,7 @@ Add these additional points to the base scores for your attributes and abilities
 
 Each archetype comes with four suggested talents, noted with their descriptions. Select between one and three talents, according to the age of your character.
 
-Each archetype offers a selection of Big Dreams and Faiths. Choose one of each, or use them as inspiration to help you come up with your own. Your Big Dream earns you Experience Points when you work towards achieving it. Your Faith is your source of Faith Points and powers your ability to push your roll (page 40).
+Each archetype offers a selection of Big Dreams and Faiths. Choose one of each, or use them as inspiration to help you come up with your own. Your Big Dream helps guide the GM's Experience Point awards when you work toward it. Your Faith is your source of Faith Points and powers your ability to push your roll (page 40).
 
 Finally choose two of the four pieces of gear listed with each archetype, roll your starting cash and you are ready to play.
 
@@ -1125,7 +1170,7 @@ Each player should write their Faith down in one short sentence of half a dozen 
 
 ##### What Is Your Big Dream?
 
-Your immediate goal in the game is to live another day. But in the long run, mere survival is not enough. You also have a motivation of your own, something you dream will one day come to pass, that keeps you on your feet when it would be easier to just lay down and die. You should choose your own Big Dream, or allow it to develop in your first few sessions. During play you will gain extra XP if you risk or sacrifice something to move closer to realizing your Big Dream.
+Your immediate goal in the game is to live another day. But in the long run, mere survival is not enough. You also have a motivation of your own, something you dream will one day come to pass, that keeps you on your feet when it would be easier to just lay down and die. You should choose your own Big Dream, or allow it to develop in your first few sessions. During play, risking or sacrificing something to move closer to realizing your Big Dream is one of the strongest reasons for the GM to award you extra XP.
 
 ##### Who Is Your Pardner?
 
