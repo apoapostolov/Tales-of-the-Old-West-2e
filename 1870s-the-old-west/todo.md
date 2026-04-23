@@ -19,53 +19,53 @@ Vignettes will be integrated from `skills/western-writing/examples/scenes.md`.
 
 ### Front Matter
 
-- [ ] **Introduction & Editorial** (Welcome to the harsh reality of the 1870s US)
+- [x] **Introduction & Editorial** (Welcome to the harsh reality of the 1870s US)
 
 ### Book 1: Society & Peoples
 
-- [ ] **The Peoples and the Conflict** (Source: `peoples-and-conflict.md`)
-- [ ] **Native Cultures** (Source: `native-material-culture.md`)
-- [ ] **The Borderlands** (Source: `borderlands.md`)
-- [ ] **Childhood on the Frontier** (Source: `childhood.md`)
-- [ ] **The Women of the West** (Source: `women-domestic-world.md`)
+- [x] **The Peoples and the Conflict** (Source: `peoples-and-conflict.md`)
+- [x] **Native Cultures** (Source: `native-material-culture.md`)
+- [x] **The Borderlands** (Source: `borderlands.md`)
+- [x] **Childhood on the Frontier** (Source: `childhood.md`)
+- [x] **The Women of the West** (Source: `women-domestic-world.md`)
 
 ### Book 2: Daily Life & Survival
 
-- [ ] **Food & Drink** (Source: `food-culture.md`)
-- [ ] **Work & Trades** (Source: `work-and-trades.md`)
-- [ ] **Material Culture** (Source: `material-culture.md`)
-- [ ] **Language, Literacy & Print** (Source: `language-and-diction.md`, `documents-and-print.md`)
-- [ ] **Religion & Faith** (Source: `religion-and-faith.md`)
-- [ ] **Frontier Survival & The Hunt** (Source: `frontier-survival.md`, `the-hunt.md`)
+- [x] **Food & Drink** (Source: `food-culture.md`)
+- [x] **Work & Trades** (Source: `work-and-trades.md`)
+- [x] **Material Culture** (Source: `material-culture.md`)
+- [x] **Language, Literacy & Print** (Source: `language-and-diction.md`, `documents-and-print.md`)
+- [x] **Religion & Faith** (Source: `religion-and-faith.md`)
+- [x] **Frontier Survival & The Hunt** (Source: `frontier-survival.md`, `the-hunt.md`)
 
 ### Book 3: The Economy & Logistics
 
-- [ ] **1870s Availability** (Source: `1870s-availability.md`)
-- [ ] **Prices & Anchors** (Source: `prices-and-anchors.md`)
-- [ ] **Towns, Economy & Law** (Source: `towns-economy-law.md`)
-- [ ] **Competence & Procedures** (Source: `competence-procedures.md`)
+- [x] **1870s Availability** (Source: `1870s-availability.md`)
+- [x] **Prices & Anchors** (Source: `prices-and-anchors.md`)
+- [x] **Towns, Economy & Law** (Source: `towns-economy-law.md`)
+- [x] **Competence & Procedures** (Source: `competence-procedures.md`)
 
 ### Book 4: Professions of the West
 
-- [ ] **Cowboy Life** (Source: `cowboy-life.md`)
-- [ ] **Horse Culture** (Source: `horse-culture.md`)
-- [ ] **Mining Camps** (Source: `mining-camps.md`)
-- [ ] **Army Life** (Source: `army-life.md`)
+- [x] **Cowboy Life** (Source: `cowboy-life.md`)
+- [x] **Horse Culture** (Source: `horse-culture.md`)
+- [x] **Mining Camps** (Source: `mining-camps.md`)
+- [x] **Army Life** (Source: `army-life.md`)
 
 ### Book 5: Vice & Violence
 
-- [ ] **Outlaw Craft** (Source: `outlaw-craft.md`)
-- [ ] **Gambling** (Source: `gambling.md`)
-- [ ] **Music & Entertainment** (Source: `music-and-entertainment.md`)
+- [x] **Outlaw Craft** (Source: `outlaw-craft.md`)
+- [x] **Gambling** (Source: `gambling.md`)
+- [x] **Music & Entertainment** (Source: `music-and-entertainment.md`)
 
 ### Book 6: The End of the Trail
 
-- [ ] **Medicine & Death** (Source: `medicine-and-death.md`)
-- [ ] **The Dark Frontier** (Source: `dark-frontier.md`)
+- [x] **Medicine & Death** (Source: `medicine-and-death.md`)
+- [x] **The Dark Frontier** (Source: `dark-frontier.md`)
 
 ### Book 7: The Landscapes
 
-- [ ] **Regional Landscapes** (Source: `regional-landscapes.md`)
+- [x] **Regional Landscapes** (Source: `regional-landscapes.md`)
 
 ---
 
