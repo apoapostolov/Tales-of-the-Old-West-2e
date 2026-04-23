@@ -118,7 +118,7 @@ specific NPCs, specific access, specific opportunities.
 
 ### 3. The faction-action bullets
 
-A bulleted list naming how each faction's agents *behave*
+A bulleted list naming how each faction's agents _behave_
 based on the track. This is the GM's reference card.
 
 > - High `Army Respect` pushes Rowe to grant freedom, ask
@@ -141,7 +141,7 @@ A player who decides to betray Hannah Calder loses
 or not Hannah survives, whether or not she finds out. The
 character has revealed something.
 
-A player who *fails* to protect Hannah from a Lakota raid
+A player who _fails_ to protect Hannah from a Lakota raid
 because they were outnumbered does not lose `Local Goodwill`.
 The intent was honorable; the dice were bad. The chapter does
 not punish bad rolls with track shifts.
@@ -150,8 +150,8 @@ not punish bad rolls with track shifts.
 
 `+1` or `-1`. That is the standard.
 
-`+2` or `-2` only for choices that are *flagged in the
-chapter text* as catastrophic or transformative. For example:
+`+2` or `-2` only for choices that are _flagged in the
+chapter text_ as catastrophic or transformative. For example:
 "If they sell Keene to Vane, `Local Goodwill -2`."
 
 Never shift `+3` or higher. If a choice feels that big,
@@ -159,7 +159,7 @@ break it into multiple choices each shifting `+1`.
 
 ### When to tell the players
 
-Players should *feel* their standing through fiction, not see
+Players should _feel_ their standing through fiction, not see
 the numbers.
 
 - NPCs from a high-standing faction become more open, offer
@@ -194,7 +194,7 @@ Example:
 - Lowest: `Army Respect -2` → cost: military hostility,
   legal exposure.
 - Combined positive: `Local Goodwill +2`, `Survey Leverage
-  +2` → coalition: ranchers and surveyors back the party in
++2` → coalition: ranchers and surveyors back the party in
   Bozeman.
 
 Write the end-states to support these readings.
