@@ -723,7 +723,7 @@ Conditions reduce the effectiveness of your weapon, and may even break the weapo
 | Pistol  | SHORT BARREL | A short barrel isn’t great for accuracy, but it’s quicker to get that iron from your holster. Gain a +1 bonus on Draw, but a −1 penalty on SHOOTIN’.                      |
 | Pistol  | SIGHTS       | Well-made sights make shooting at range easy. Range negatives are one die less for all ranges when using an Aim action before making a shot.                              |
 | Any     | BALANCED     | The weapon feels good in your hand and you can’t help but shoot straight with it. Grants a +1 bonus to SHOOTIN’.                                                          |
-| Any     | MAINTAINED   | Beautifully made with maintenance in mind, this weapon is easy to keep working. Once per scene you may reroll all Trouble dice showing a ‘1’, but only before pushing.    |
+| Any     | MAINTAINED   | Beautifully made with maintenance in mind, this weapon is easy to keep working. Once per scene, after a roll with this weapon would generate Trouble from rolled `1`s, you may reroll those `1`s once before Trouble is assessed. |
 | Any     | PIERCING     | The weapon is renowned for being deadly in the hands of an expert. Gain +1 to the Units die on critical injury rolls.                                                     |
 | Any     | POWERFUL     | The weapon packs a real punch. Grants +1 to the weapon’s Damage.                                                                                                          |
 | Any     | RELIABLE     | Tough and sturdy, this weapon is reliable and just doesn’t break. If Trouble is rolled while using this weapon, the amount of Trouble is reduced by 1, to a minimum of 1. |

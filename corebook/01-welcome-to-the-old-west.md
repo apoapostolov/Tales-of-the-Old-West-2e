@@ -70,7 +70,7 @@ To document your character, you use a character sheet. How you create your chara
 
 #### Dice
 
-As a character in Tales of the Old West, you will have to take risks. Sooner or later, you will end up in situations where the outcome is uncertain, no matter how cunning you are. It’s time to break out the dice. Tales of the Old West uses a modified version of Free League Publishing’s Year Zero Engine, with D6 dice pools and the reroll, or “push”, mechanic. You only need six-sided dice (known as D6) to play. You will need a handful of dice, five of which must all be the same color—these five are your Trouble dice (we explain how these work on page 38).
+As a character in Tales of the Old West, you will have to take risks. Sooner or later, you will end up in situations where the outcome is uncertain, no matter how cunning you are. It’s time to break out the dice. Tales of the Old West uses a modified version of Free League Publishing’s Year Zero Engine, with D6 dice pools and the reroll, or “push”, mechanic. You only need a handful of six-sided dice (known as D6) to play.
 
 #### The Game Master
 

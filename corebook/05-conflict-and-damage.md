@@ -550,7 +550,7 @@ If you take damage, you catch fire and continue to burn, suffering another attac
 
 ##### Dynamite and Explosions
 
-Handling and using dynamite is governed by the OPERATE ability, but under any circumstances it is a dangerous and highly skilled task. When handling dynamite, Trouble dice are always active, and apply after the first roll, even when that roll is not pushed. Only characters who possess the **miner 49er** talent are expert enough to avoid this troublesome problem.
+Handling and using dynamite is governed by the OPERATE ability, but under any circumstances it is a dangerous and highly skilled task. Dynamite rolls are always at least `Desperate`, and Trouble is assessed after the first roll even when that roll is not pushed. Only characters who possess the **miner 49er** talent are expert enough to reduce that exposure in ordinary circumstances.
 
 The force of an explosion is measured in Blast Power. One stick of dynamite has a Blast Power of 8, two or three sticks tied together have a Blast Power of 12, and a bundle of dynamite sticks has a Blast Power of 16. For each person within Short range of the blast when the detonation occurs, roll a number of dice equal to the Blast Power. For every success rolled, the victim suffers one point of damage. The roll cannot be pushed. Victims at Arm’s Length from the detonation suffer two points of damage per success instead of one. Depending on the circumstances the GM may call for a critical injury as a result of the explosion.
 

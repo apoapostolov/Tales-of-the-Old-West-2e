@@ -709,7 +709,7 @@ The GM can build scores by answering those questions directly or by rolling on t
 
 #### Running a Score as an Operation
 
-Many scores should not be reduced to one roll and a shrug. Run them as an operation made up of linked situations. The GM presents the next immediate problem. The players say how the gang means to handle it. One acting hand rolls for the band using the most relevant ability. Successes are accumulated toward the job's completion, while trouble marks the job's slide toward disaster.
+Many scores should not be reduced to one roll and a shrug. Run them as an operation made up of linked situations. The GM presents the next immediate problem. The players say how the gang means to handle it. One acting hand rolls for the band using the most relevant ability. Successes are accumulated toward the job's completion, while Trouble marks the job's slide toward disaster.
 
 Use the following operation scales:
 
@@ -721,12 +721,22 @@ Use the following operation scales:
 
 Each successful roll adds its successes to the operation's Progress. The score succeeds once the Progress target is met.
 
-Trouble is marked when:
+Before each operation check, the GM says whether the attempt is:
 
-- a roll gets `0` successes in a dangerous situation
-- a pushed roll produces Trouble
-- the gang chooses noise, blood, or speed over safety
-- the fiction plainly says the job has become harder
+- `Safe`
+- `Risky`
+- `Desperate`
+
+The players then roll the normal pool only. No Trouble Dice are added to the roll.
+
+Mark Trouble like this:
+
+- `Safe`: No Trouble from the roll itself unless the gang chooses noise, blood, speed, or some other plainly dangerous trade.
+- `Risky`: On `0` successes, mark `1` Trouble. Then count the `1`s rolled; for every two `1`s, mark `1` additional Trouble.
+- `Desperate`: On `0` successes, mark `1` Trouble. Then count the `1`s rolled; each `1` marks `1` additional Trouble.
+- If a pushed check still fails, mark `1` additional Trouble.
+
+Successful `Risky` and `Desperate` rolls usually ignore `1`s unless the fiction says the gang got what it wanted in a loud, bloody, or compromising way.
 
 Use Trouble as a rising pressure track:
 
@@ -743,7 +753,24 @@ Different stages of an operation should call on different abilities. A bank job 
 
 These targets are calibrated so a normal operation usually takes about 3 to 6 checks. A Small Hit should feel like a fast caper, a Medium Heist like a rough evening or a long day, and a Big Operation like a real campaign event. If a plan is likely to need more checks than that, split it into phases or let the job become two linked operations. That keeps Trouble meaningful instead of turning every score into a slow grind. In practice, a competent gang should expect Trouble to matter before the work is finished, not after it is already safe.
 
-> *The first check got them into the bank yard. The second got the clerk to open the inner door. On the third, Charley failed the `LIGHT-FINGERED` roll on the safe and Trouble climbed to `2`. They pushed on anyway. Jeb then got `2` successes on `PRESENCE` to hold the room together and the gang reached its Progress target just before Trouble hit the limit. That is the shape you want: a score that still succeeds, but only after the dice have made the players feel the walls closing in.*
+Use `Safe` when failure would be inconvenient but not immediately compromising. Use `Risky` when discovery, delay, suspicion, or narrowing options are plausible. Use `Desperate` when the gang is forcing the issue under pressure and any ugly turn could break the shape of the operation.
+
+> *The first check got them into the bank yard. The second, a `Risky` `PERFORMIN'` roll, got the clerk to open the inner door. On the third, Charley failed the `LIGHT-FINGERED` roll on the safe and rolled three `1`s, so Trouble climbed to `2`. They pushed on anyway and still failed, which raised Trouble to `3`. Jeb then got `2` successes on `PRESENCE` to hold the room together and the gang reached its Progress target just before Trouble hit the limit. That is the shape you want: a score that still succeeds, but only after the dice have made the players feel the walls closing in.*
+
+#### Hidden Bad Luck
+
+Sometimes a job goes sour not because of one bad roll, but because the gang made several bad decisions and luck finally came to collect. This is a hidden GM-side check, not another thing for the players to manage.
+
+Consider a hidden bad-luck check only when at least two of the following are true in the same operation or immediate aftermath:
+
+- the gang already chose noise over caution
+- the gang already chose speed over concealment
+- the gang left a witness, captive, or wounded man unresolved
+- the gang pushed a key check and failed
+- the gang kept working after Trouble had already become serious
+- the gang trusted a weak contact or shaky refuge anyway
+
+If that pattern is there, the GM may introduce a hard delayed consequence: the wrong deputy is warned, a horse throws a shoe at the wrong hour, a captive talks too soon, a posse cuts the gang off at water, or a nervous fence decides to save his own neck. This should feel like compounded outlaw misjudgment catching up with the gang, not random punishment from nowhere.
 
 #### After the Score
 
