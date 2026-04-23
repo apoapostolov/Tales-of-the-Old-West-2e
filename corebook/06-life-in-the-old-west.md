@@ -523,6 +523,23 @@ As a rule of thumb:
 - `Rare`: dynamite, repeating shotguns, high-quality tack, fine clothing, skilled surgery, expert tutors, and unusually good horses
 - `Very Rare`: exceptional custom rigs, elite tutors, scarce imported goods, and any specialist who is famous in his line
 
+##### Strong Markets
+
+A settlement counts as a `strong market` if its `Mercantile` rank is `5-6`, or if it has `Mercantile 4` together with a `Railroad Station`, `Express Mail Route`, or another major trade advantage the GM accepts.
+
+In a `strong market`:
+
+- `Rare` legal goods and services may be bought openly if the buyer can pay
+- one `Very Rare` legal good or service may at least be located, commissioned, or ordered without turning the whole matter into a separate adventure
+- after a successful search, the buyer may choose either ordinary price or immediate access; immediate access raises the price by one scarcity step
+
+Strong markets are not bottomless. For any one buyer or party, a town can usually satisfy only:
+
+- two `Rare` purchases of the same kind in the same week without strain
+- one `Very Rare` purchase of a given kind in the same week unless the GM says the town is exceptional in that trade
+
+Beyond that, the shelves are picked over, the horse lot is thinned out, the best doctor is already busy, or every gunsmith in town knows somebody is buying in quantity. Further purchases of the same kind are one step harder to obtain until time passes, a new shipment arrives, or the buyer goes elsewhere.
+
 ##### Scarcity and Price
 
 Once something has been found, judge what the market is doing to the price:
