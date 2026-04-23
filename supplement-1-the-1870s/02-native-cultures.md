@@ -4,186 +4,197 @@
 >
 > — TASHUNKE WITKO (CRAZY HORSE), OGLALA LAKOTA, 1875
 
-The previous chapter laid out the borders of the conflict. This one drops down to the dirt. It puts the lodge pole, the willow basket, and the fleshing knife directly into the hand. A Comanche rider and a Diné weaver sitting at the same trade-camp fire occupy worlds that share a geography and absolutely nothing else. Their realities are built from what they eat, how they move, how they weather the winter, and the physical weight of what they carry.
+The previous chapter set out who the Native nations were and what was being done to them. This one goes lower. It puts the tipi pole and the basket and the loom in the hand. A Comanche man and a Diné woman at the same campfire sit in worlds that share a country and almost nothing else. The difference is in the hand, in the verb, in the seasonal round, in what the woman owns and what the man rides.
+
+What follows is organized by region and nation. Each section gives the physical world: shelter, food economy, the man's material kit, the woman's material kit, the seasonal round, and the work.
 
 ---
 
-## 1. Southern Plains — The Comanche
+## 1. Southern Plains — the Comanche
 
-The Comanche dictated the history of the southern plains for a century and a half. By 1870, the horse had so completely rebuilt their society that their pre-equestrian, pedestrian past survived only as myth. They were a fiercely mobile, mounted power, pulling immense wealth in livestock out of Mexico and Texas.
-_(For deep campaign reference: Pekka Hämäläinen, The Comanche Empire)_
+The dominant power of the southern plains through the mid-1870s. A horse culture so completely transformed by the horse that the pre-horse Comanche life is distant memory by 1870. Mounted, mobile, raiding, and wealthy in horses. For deeper reading: Pekka Hämäläinen, _The Comanche Empire_; S. C. Gwynne, _Empire of the Summer Moon_ (useful but Eurocentric in places).
 
-### Shelter
+### Shelter — the tipi
 
-The Comanche lived in the buffalo-hide tipi. A standard cover required twelve to twenty cow hides, painstakingly scraped to a uniform thinness and stitched with sinew by the women of the camp. Creating a new lodge cover demanded weeks of heavy, cooperative labor. The frame required fifteen to twenty lodgepole pines, each twenty to thirty feet long. Because the southern plains lacked this timber, bands mounted entirely separate expeditions into the Sangre de Cristo or Wichita Mountains specifically to harvest poles.
+The Plains tipi is the dominant Comanche dwelling. Its cover is twelve to twenty buffalo-cow hides, scraped thin and sewn together by the women; a new cover took weeks of work and the cooperation of multiple families, and the smoke-darkened upper portion was always trimmed and replaced first. The poles are fifteen to twenty lodgepole pines, twenty to thirty feet long, harvested in the mountains — the Sangre de Cristos for southern bands, the Wichita Mountains for some — on a separate trip made for that purpose alone. The footprint is twelve to twenty feet across at the base, slightly oval, with the back wall sloped more steeply for wind resistance. The door is a small low flap that faces east as a near-universal rule. Two smoke flaps at the top are controlled by poles outside and turned to keep the smoke drawing regardless of wind.
 
-The structure threw a footprint twelve to twenty feet across, pitched slightly asymmetric to brace against the relentless plains wind. A low door flap almost universally faced east to catch the morning sun. At the peak, two smoke flaps, manipulated by long exterior poles, kept the central fire drawing cleanly regardless of how the wind shifted.
+The interior is built around a central fire pit, with sleeping platforms ranged around the wall and parfleche bags hung from the lodge poles. A backrest of willow rods holds the place of honor at the back, opposite the door — the man's place. Women and children take the sides. The women of the family raise the tipi; an experienced woman could put one up in twenty minutes. The men did not raise tipis.
 
-Inside, sleeping platforms lined the perimeter, with painted parfleche bags hung from the lodge poles to keep them off the damp ground. A willow-rod backrest marked the man's place of honor at the rear of the lodge, directly opposite the door. The women and children occupied the sides. A skilled Comanche woman—and women exclusively erected and struck the lodges—could drop a tipi from a pack horse and have it standing against the wind in twenty minutes.
+### Food economy
 
-### The Food Economy
+The buffalo was the center of the southern Comanche food economy through the early 1870s. The hunt was organized, communal, and on horseback, the kill butchered on the ground. Choice cuts — the tongue, the hump, the liver eaten raw — were eaten on the spot. The rest was loaded onto travois and brought back to camp for drying and pemmican preparation. Pemmican itself was dried buffalo meat pounded with fat and dried berries, stored in parfleche bags, the staple winter food. It could be eaten dry, cooked into stew, or carried on a raid.
 
-Through the early 1870s, the buffalo remained the absolute center of gravity for the Comanche economy. The hunt was a massive, highly coordinated mounted operation. Killers dropped the animals, and the butchering happened immediately in the grass. The choice cuts—the tongue, the hump, and the liver (eaten raw while still hot)—were consumed on the spot. The women loaded the massive bulk of the meat onto horse-drawn travois to be dragged back to camp for drying.
+Gathered foods filled the rest of the larder: mesquite beans, prickly pear fruit, plums, sand cherries, wild onions, all the women's domain. The mesquite-bean meal was a significant secondary staple in the southern range. Trade and raid added beef cattle, corn from the agricultural Pueblo and Wichita neighbors, dried fish from trading partners, and sugar and coffee and metal goods from the Comancheros — the New Mexican traders who worked the southern plains as middlemen in the captive and livestock trade.
 
-Winter survival depended entirely on pemmican: dried, pulverized buffalo meat pounded with rendered fat and dried plums or berries, packed solidly into rawhide parfleches. It kept for months and fueled war parties operating hundreds of miles from base camp.
+### The man's kit
 
-Women gathered the critical secondary staples: mesquite beans, prickly pear fruit, sand cherries, and wild onions. Mesquite-bean meal kept the southern bands alive when the buffalo scattered. Through the Comanchero trade—the New Mexican middlemen operating out of the Llano Estacado—the Comanche supplemented their diet with Mexican beef, Pueblo corn, raw sugar, and coffee.
+A Comanche man's wealth and status was his horse herd. A wealthy man owned fifty to three hundred horses. A poor man owned five or ten. Each man kept a war horse and a buffalo horse separate from the rest — the war horse hobbled near the lodge, the buffalo horse trained for the chase.
 
-### The Man's Kit
+The bow was short, three to four feet, made of Osage orange (bois d'arc) where available, sinew-backed for strength. The Comanche bow was famous for its power at close range from horseback; a Comanche could shoot multiple arrows in the time a man could fire and reload a single-shot rifle. Arrows were reed or dogwood shaft, three feathers, iron point cut from trade iron — barrel hoops or wagon tires, often as not — and each man marked his arrows so a kill could be claimed. The lance was eight to ten feet, iron-pointed, often decorated, and carried by the warrior class. The shield was heavy buffalo bull-hide painted with protective designs received in vision; it was a sacred object and not just a defense. A trade-iron knife rode in a beaded sheath at the belt and was used constantly for cutting, eating, and butchering. By the 1870s many Comanches had rifles — Henry repeaters, Spencer carbines, the occasional Sharps. Ammunition was the limit on the gun; the bow had no such limit.
 
-A Comanche man measured his political and social weight strictly by the size of his horse herd. A powerful man easily ran three hundred head; a poor man struggled along with five. From the herd, a warrior separated his two most critical assets: a heavily trained buffalo horse for the hunt, and a war horse kept hobbled directly outside his lodge, ready to mount instantly.
+Dress was a breechclout and leggings of buckskin or trade cloth, with a hard-soled Plains moccasin on the foot and a buffalo robe in winter, fur side in. Hair was worn long, often in two braids wrapped with fur or cloth. Face paint was applied for war and ceremony.
 
-Their primary weapon was a devastatingly short, sinew-backed bow, three to four feet long, carved from Osage orange (bois d'arc). From the back of a running horse, a Comanche warrior could loose half a dozen driving arrows before a Texas Ranger could reload a single-shot percussion rifle. The arrows used dogwood or reed shafts, fletched with three feathers and tipped with iron salvaged from wagon tires or barrel hoops. Warriors marked their shafts distinctly to settle disputes over kills.
+### The woman's kit
 
-For close work, they carried an eight-to-ten-foot iron-tipped lance and a heavy buffalo bull-hide shield. The shield possessed intense sacred power, painted with protective designs pulled from visions; it was a spiritual defense first, and a physical one second. An iron trade-knife rode constantly at the belt for butchering, combat, and eating. By the 1870s, repeaters—Henrys, Spencers, and the occasional heavy-bore Sharps—flooded the plains. The only thing limiting the Comanche's use of them was the constant, desperate hunt for fixed ammunition.
+The travois — two long poles attached to a horse or dog with a hide platform between them — was the transport device, and the Comanche woman managed the family's movement of camp. The fleshing knife was a scraping tool for hide preparation made from buffalo bone with an iron blade lashed to it. The hide stake was a wooden stake driven into the ground; the hide was pegged out for fleshing and drying. The awl was bone or iron, used for sewing hides and beadwork. The mortar and pestle were wooden, used for pounding pemmican and mesquite beans. The parfleche — a rawhide envelope painted with geometric designs — held dried meat, pemmican, and personal goods, and was the woman's craft made by women.
 
-A warrior wore a buckskin breechclout, leggings, and hard-soled moccasins built for the stirrup, wrapping himself in a fur-inward buffalo robe against the winter wind. He wore his hair long, usually separated into two braids wrapped in beaver fur or trade cloth.
+Beadwork and quillwork covered dress, moccasins, cradles, and bags; this was the woman's artistic domain, and by the 1870s glass trade beads had largely replaced porcupine quills. The dress itself was a two-skin garment — two deer or antelope hides sewn at the shoulders and sides — with a beaded yoke and fringed sleeves, worn over moccasins and knee-length leggings. Hair was long, often parted in the middle.
 
-### The Woman's Kit
+### The seasonal round
 
-The Comanche woman commanded the camp's logistics. She managed the travois—two long poles lashed to a horse’s flanks supporting a hide cargo deck—moving the entire village when the grass ran out. She carried a fleshing knife, an L-shaped scraper chipped from buffalo bone and lashed to an iron blade, used to strip fat from hides pegged out tight against the earth.
+In winter, the bands camped in the Llano Estacado canyons — Palo Duro, Tule, Quitaque — for shelter from the wind, with horses on grass in the canyon bottoms and the long boredom of the cold months stretched between. In spring, camp moved out onto the plains; buffalo hunting resumed; raiding parties rode south into Mexico. In summer the major encampments were on the plains for the Comanche moon — the August moon of raiding — with the great social gatherings, courtship, and trading. In fall came the major buffalo hunt for winter meat, hides prepared for trade, and the slow movement back toward winter ground.
 
-She worked bone awls to punch heavy seams through leather, executing the intricate beadwork that marked a family's status. By the 1870s, imported glass trade beads had entirely replaced traditional porcupine quills. She stored the family's survival rations in parfleches—heavy rawhide envelopes painted in striking geometric abstractions that served as the primary canvas for Comanche women's art. Her dress consisted of two matched deer or antelope hides sewn at the shoulders, heavily fringed at the sleeves, worn over knee-high leggings and moccasins.
+By 1875 the buffalo were nearly gone. The Red River War of 1874–75 broke the southern Comanche power. The last free Comanches surrendered to the army at Fort Sill in 1875.
 
-### The Seasonal Round
+### Writer's notes
 
-Winter was an endurance test. The bands dropped down into the deep, wind-sheltered canyons of the Llano Estacado—Palo Duro, Tule, Quitaque—surviving on pemmican while the horses cropped the sparse bottom-grass. In the spring, the camps crawled back up onto the caprock to resume the buffalo hunt and launch the first raiding parties south across the Rio Grande. Summer brought the great social gatherings, the trading fairs, and the "Comanche Moon"—the bright August nights universally understood in Texas as the season of maximum raiding danger. Autumn demanded the massive, frantic buffalo hunts required to put up enough meat and robes to survive the coming freeze.
+The Comanche woman was not a beast of burden. She was a skilled craftsperson, the camp's chief logistician, and in many cases a trader of consequence. The Comanche raid was not random violence. It was an economic activity with specific goals: horses, captives (for ransom or adoption), and goods.
 
-By 1875, that cycle collapsed. The buffalo hunters had exterminated the herds, and Ranald Mackenzie's cavalry broke the southern bands during the Red River War of 1874–75. The last free bands surrendered at Fort Sill, their horse herds slaughtered and left to rot in the canyons.
-
-### Campaign Reality: Comanches in Play
-
-A Comanche woman was the camp's chief logistician, an artisan, and often a shrewd trader, not a beast of burden. A Comanche raid was an organized, economic military operation designed to extract specific wealth: horses, trade goods, and captives.
-
-The captive economy defined much of the borderlands. Comanche bands abducted hundreds of Mexican, Tejano, and Anglo children. Some were held for immediate ransom; many others were fully adopted into the band, losing their original languages and living their entire lives as Comanches. Quanah Parker’s mother, Cynthia Ann Parker, represents only the most famous example of a massive, complex captive network operating across the Southwest.
+The captive question is its own subject. Comanche bands held many captives, especially Mexican and Tejano children. Some were adopted into the band; some were ransomed; some lived their lives as Comanches. Quanah Parker's mother, Cynthia Ann Parker, was a famous case. The captive's experience is rarely written without distortion.
 
 ---
 
-## 2. Northern Plains — The Lakota
+## A Comanche Scout in His Mother Tongue
 
-The Lakota Sioux held the northern plains in an iron grip. Following the 1868 Fort Laramie Treaty, they possessed a massive reservation encompassing the sacred Black Hills. When Custer's 1874 expedition confirmed gold in the Hills, the resulting white invasion triggered the Great Sioux War (1876–77), leading to the Little Bighorn, the brutal winter campaigns, and the final confinement of the free bands.
+> The scout knelt at the edge of the grass and put his hand flat on the ground. The dust under his palm was warm from the sun and dry under that, and beneath the dryness was the cool that meant the rain three days back had not gone far. He held his hand still and listened with it. The horses had crossed here in the night. Six of them, unshod, two of them the same animal he had ridden behind out of Adobe Walls four summers before. He knew the print as another man knows a face.
+>
+> He stood and looked east where the sky was still pale. He did not speak. There was no one with him to speak to. He thought in the words his mother had given him and there were no English words for the thought and he did not need any. He thought, in his own tongue, that they had come the long way around, the way the grandfathers went, and that they would be at the seep by noon. He turned and went back to his horse.
 
-### Shelter
+---
 
-Lakota lodges followed the same structural engineering as the Comanche but generally stood larger. Men of high martial or spiritual distinction occupied elaborately painted lodges that served as massive, circular canvases recording personal visions or counting coup.
+## 2. Northern Plains — the Lakota
 
-The physical layout of the camp was intensely disciplined. The bands pitched their lodges in a strict, traditional circle—the _hocoka_—with the opening always facing east and the council lodge seated perfectly in the center. During massive summer gatherings—like the one camped along the Little Bighorn River in 1876—several thousand lodges formed vast, overlapping concentric rings that stretched for miles along the river timber.
+The dominant power of the northern plains in the 1870s. Agreed by treaty (Fort Laramie 1868) to a reservation including the Black Hills; gold discovered there in 1874; war 1876–77; defeat and confinement by 1881. Suggested reading: Joseph Marshall III, _The Day the World Ended at Little Bighorn_; James Welch (Blackfeet/Gros Ventre), _Killing Custer_; the WPA-era interviews collected by Walter Campbell and others.
 
-### The Food Economy
+### Shelter — the tipi, Lakota variations
 
-Like the Comanche, the Lakota economy ran on buffalo blood. _Wasna_ (pemmican) provided the winter baseline. Women dug wild prairie turnips (_timpsila_) in the early summer, using fire-hardened digging sticks, supplementing the meat with wild plums, June berries, and chokecherries. By 1876, the northern herds were thinning dramatically, though the localized hunts continued through 1880. By 1883, the great northern herds ceased to exist.
+Lakota tipis were similar to the Comanche but generally larger and more elaborately painted. The famous Lakota painted tipis — rare, reserved for men of distinction — recorded vision experiences and war honors.
 
-### The Warrior Societies
+The camp circle is the form. Lakota bands camped in a specific circle, the _hocoka_, with the tribal council lodge in the center and the opening of the circle facing east. The arrangement of family lodges in the circle was prescribed by tradition. A camp circle of a major gathering — the 1876 gathering at the Little Bighorn, for instance — might include thousands of lodges in multiple concentric circles.
 
-Lakota men organized themselves into fiercely loyal warrior societies—the _akicita_—that acted as camp police, organized the massive buffalo surrounds, and rode into combat together. Belonging to the Strong Hearts, the Kit Foxes, or the Crow Owners defined a man’s political and martial identity. Each society maintained its own specific regalia, its own war songs, and its own violently defended honor codes.
+### Food economy
+
+The same buffalo-centered economy as the Comanche, with some variations in vocabulary and supplement. _Wasna_ is the Lakota term for pemmican. Wild turnip (_timpsila_) was gathered by women in early summer with the digging stick. Wild plums, June berries, and chokecherries filled out the gathered foods.
+
+By 1876 the northern buffalo were declining but not yet gone. The buffalo hunt continued through 1880 in the northern range; by 1883 the herds were extinct on the open plains.
+
+### The warrior society
+
+Lakota men belonged to warrior societies — the _akicita_ — that policed the camp, organized hunts, and fought together. The major societies included the Strong Hearts, the Kit Foxes, the Crow Owners, and others. A man's society membership was a defining identity. The societies had their own regalia, songs, and duties.
 
 ### The Sun Dance
 
-The Sun Dance served as the spiritual anchor of the year, held during the massive summer gatherings. Over four days, dancers fulfilled vows made during the brutal winter. Some men underwent the piercing: bone skewers were driven through their chest or back muscles and lashed by rawhide ropes to the central cottonwood pole. The dancers leaned back against the ropes, blowing eagle-bone whistles, dancing until the flesh finally tore free. It was an agonizing, voluntary offering of the only thing a man truly owned—his own body—made to _Wakan Tanka_, the Great Mystery.
+The annual major ceremony, held in summer. Vows made during the year were fulfilled. The dance lasted four days. Some dancers underwent piercing — skewers through the chest muscles, attached by rawhide thongs to a central pole, danced against until the flesh tore free. The piercing was a vow of suffering offered to the Wakan Tanka.
 
-In 1881, the U.S. government violently outlawed the Sun Dance. The ceremony immediately went underground, surviving in absolute secrecy for a century.
+The U.S. government banned the Sun Dance on reservations in 1881. The dance went underground and was practiced secretly through the long suppression that ended only with the Indian Religious Freedom Act of 1978.
 
-### The Winter Count
+### The winter count
 
-The Lakota maintained hard historical records. Each winter, the band's chosen historian painted a single, highly stylized pictograph onto a buffalo hide, recording the year's defining event (e.g., "The Year the Stars Fell" for the 1833 meteor shower). These Winter Counts served as chronological ledgers and legal histories, passed down through generations.
+The Lakota historical record. Each winter, a band's designated keeper added one pictograph to a buffalo hide, recording the year's most memorable event. Winter counts were generational and were used as calendars and as historical references. Several notable winter counts — Lone Dog, American Horse, Battiste Good — survive in museum collections.
 
-### The Man's Kit
+### The man's kit
 
-Lakota weaponry mirrored the southern plains, with distinct cultural markers. The sacred pipe (_chanunpa_) was the spiritual center of diplomacy and prayer, carved from red catlinite (pipestone) with a long wooden stem. War honors were meticulously recorded: the massive, eagle-feather war bonnets so heavily associated with the plains did not exist as mere decoration. A man had to earn every single feather through specific, witnessed acts of extreme bravery, usually involving counting coup (striking an armed enemy without killing him).
+The general inventory matched the Comanche, with variations. The pipe — the Lakota _chanunpa_, the sacred pipe — had a catlinite (red pipestone) bowl and a wooden stem, often decorated. The pipe was a sacred object central to prayer and treaty-making. Eagle feathers carried specific war honors; the Lakota war bonnet was developed and elaborated in the late nineteenth century, and by the 1870s the bonnet was an established honor with each feather marking a war honor (counting coup, taking a horse, killing an enemy). The hair-fringed war shirt was worn by men of the Shirt Wearer society; the fringes were hair, often the wearer's own or that of dead enemies depending on the source. A man with a hair-fringed shirt was a man of recognized distinction.
 
-Men inducted into the absolute highest echelon of Lakota leadership wore the hair-fringed war shirt. The fringes consisted of human hair, freely given by relatives or taken from the dead, marking the wearer as a man responsible for the very survival of the band.
+### Writer's notes
 
-### Campaign Reality: Lakota in Play
+The Lakota are not _the Sioux._ Sioux is an Algonquian exonym applied by the French and is a complex collective term. The Lakota are the western, plains branch — Oglala, Hunkpapa, Mniconjou, Sicangu, Sihasapa, Itazipco, Oohenumpa. Use the specific band name when possible.
 
-"Sioux" is an old French-Algonquian insult meaning "little snakes." The people are the Lakota, divided into seven western bands: Oglala, Hunkpapa, Mniconjou, Sicangu, Sihasapa, Itazipco, and Oohenumpa. A campaign dealing with these people must use the specific band names.
+The Black Hills, _Pahá Sápa_, are sacred. They are not a backdrop. A Lakota character does not look at the Black Hills the way a white prospector does.
 
-The Black Hills (_Pahá Sápa_) are the literal center of the Lakota spiritual universe. A Lakota character does not view the Hills as a repository for timber and gold; they view it exactly as a Catholic views the Vatican. The 1876 encampment at the Little Bighorn was not a mobilizing army. It was a massive, vulnerable summer gathering of families that the U.S. Cavalry rode down on.
-
----
-
-## 3. The Southwest — The Apache
-
-The Apache are not a single tribe, but a collection of distinct, brilliant, and lethal mountain-desert peoples: the Chiricahua covering southeast Arizona and northern Mexico; the Mescalero in southern New Mexico; the Jicarilla in the northern mountains; the Western Apache in the central Arizona scrub; and the Lipan holding out in Texas.
-
-### Shelter
-
-The Apache did not haul heavy buffalo tipis through the jagged desert ranges; they built the wickiup. An Apache woman could bend willow or cottonwood saplings into a dome, lash it tight, and thatch it with bear-grass, brush, or hides in under two hours. Standing roughly five feet high at the center, the wickiup dropped a tiny footprint. It was disposable architecture built for a people who needed to vanish in an afternoon. An Apache _ranchería_ (camp) consisted of a handful of these brush domes, usually tucked into the jagged, unapproachable throat of a box canyon, invisible until a man was standing directly in it.
-
-### The Food Economy
-
-The Apache operated a raid-and-gather economy. The desert Southwest lacked the immense biomass of the buffalo plains. Their staple was the heavy heart of the agave plant (mescal). Women hacked the massive plants out of the rocks and baked them for three days in buried, stone-lined pit ovens. The resulting dense, sweet mescal could be dried, stored, and carried for months. Pine nuts (pinyon) gathered from the high timber provided heavy winter calories, supplemented by juniper berries, sotol, and yucca fruit.
-
-They sourced their heavy protein through extreme violence, pulling cattle, horses, and mules out of Mexican and Anglo settlements. For thirty years, the Apache economy depended substantially on highly organized, long-range livestock raiding, fencing the stolen animals through sympathetic, corrupt Mexican and Anglo intermediaries who asked no questions.
-
-### The Raid
-
-The Apache raid was the most terrifyingly effective military tactic on the continent. A small, hardened unit of six to twenty men left their horses in a hidden, remote base camp and moved into target territory entirely on foot. Striking at dawn, they stripped a ranch of its stock and drove the animals back across jagged, waterless geology that shattered cavalry horses. An Apache raiding party could cover seventy miles of broken rock on foot in a single day. The U.S. Army simply could not follow them. In 1885, Geronimo’s band of less than forty men and women successfully tied down five thousand U.S. troops and thousands of Mexican soldiers by weaponizing the landscape against them.
-
-### The Man's Kit
-
-The Apache bow was a short, brutal weapon crafted from mulberry or juniper and reinforced with heavy sinew. For the arrows, they married a cane shaft to a dense hardwood foreshaft. The legend of the Apache poison arrow—a mixture of rotting deer blood and rattlesnake venom painted onto the points—was a documented reality in several bands, inducing lethal septicemia even from glancing hits.
-
-Warriors wore knee-high moccasins built with a hard, upturned toe specifically designed to deflect cactus spines and rattlesnake strikes in the desert brush. They did not wear feathers. They fought in cloth headbands holding back shoulder-length hair, wearing buckskin breechclouts or, increasingly in the 1870s, stolen calico shirts and canvas trousers. By the 1880s, the bow had largely given way to Winchester repeaters purchased through the black market in Sonora.
-
-### The Woman's Kit
-
-Apache women executed some of the most sophisticated basketry in the world. They gathered, stripped, and wove willow and devil's claw into massive burden baskets carried via a leather tumpline strapped across the forehead. Infants spent their first year tightly laced into intricately crafted cradleboards. The lethal, agonizing work of sourcing, cutting, and baking the agave for the mescal pits belonged entirely to the women, standing as the most critical survival labor of the Apache year.
-
-### Campaign Reality: Apaches in Play
-
-The Apache were not howling savages; they were arguably the finest light infantry and asymmetric guerrilla fighters in modern military history. Geronimo (Goyahkla) was an incredibly polarizing figure—a deeply spiritual medicine man, a ruthless war leader, and frequently a massive logistical problem for his own people. Crucially, the U.S. Army only managed to hunt down the Chiricahua bands by employing Western Apache scouts to do the tracking. A campaign involving the Apache must address the bitter, internal politics of the scouts hunting their own cousins.
+The 1876 gathering on the Little Bighorn was the largest Plains Indian camp ever assembled. It was not a war camp; it was a summer encampment. The battle came to it.
 
 ---
 
-## 4. The Southwest — The Diné (Navajo)
+## 3. Southwest — the Apache
 
-The largest Native nation in the United States. They were sheep herders, weavers, silversmiths, and dry-land agriculturalists, inextricably bound to the brutal, beautiful red-rock country boarded by their Four Sacred Mountains. In 1864, Kit Carson engineered their destruction, starving them into submission and forcing the Long Walk—a death march to the concentration camp at Bosque Redondo (Fort Sumner). The 1868 treaty finally allowed the survivors to walk home. The 1870s were the decade of painful, quiet resurrection.
+The Apache is several distinct groups: the Chiricahua (southeast Arizona, southwest New Mexico, northern Sonora and Chihuahua), the Mescalero (south-central New Mexico), the Jicarilla (northern New Mexico), the Western Apache (central Arizona), and the Lipan (Texas and northern Mexico). They are not one nation. Suggested reading: Eve Ball, _Indeh: An Apache Odyssey_; Geronimo's autobiography (as told to S. M. Barrett, 1906); Angie Debo, _Geronimo: The Man, His Time, His Place_.
 
-### Shelter
+### Shelter — the wickiup
 
-The hogan is the only proper Diné dwelling. It is a single room, built of heavy timber and plastered over with thick red mud. As an absolute religious mandate, the door faces east to welcome the dawn. By the 1870s, the older "forked-stick" style (a conical frame of three interlocked posts covered in earth) had largely given way to the "cribbed-log" hogan—heavy cedar or pine logs laid horizontally in an interlocking octagon, corbeled steeply inward to form a domed roof, with the entire external structure buried under hardened earth to bleed off the desert heat.
+The Apache wickiup is a brush dome, not a tipi. Eight to ten feet across, four to five feet high at the center. The frame is bent willow or cottonwood saplings, covered with brush, grass, or hides depending on season and material availability. The wickiup is built fast — a few hours — and abandoned when the camp moves. It is a temporary dwelling for a mobile people. The Apache did not haul a tipi; they built where they stopped.
 
-Inside, the family lived around a central fire pit directly beneath the smoke hole. There was no furniture; sheepskins covered the dirt floor for sitting and sleeping. The woman’s heavy vertical loom stood permanently anchored against the west wall. Tools hung from pegs driven into the logs. During the blazing summers, the family often lived entirely outside under a brush ramada (an open-sided shade structure), reserving the hogan for sleeping, cold weather, and ceremony.
+The _ranchería_ — the Apache camp — was a cluster of wickiups, often hidden in a brushy canyon or on the side of a mountain where it was difficult to approach.
 
-### The Sheep Economy
+### Food economy
 
-The Diné built their entire civilization around the Spanish _churro_ sheep. Returning from the Bosque Redondo in 1868, they had nothing. By the mid-1870s, they had rebuilt the flocks. The flock was the family’s bank account, its food, and its insulation. A standard family ran fifty to several hundred head of sheep mixed with a few goats; a powerful man ran thousands.
+The Apache economy was raid-and-gather, not buffalo-based. The Southwest ecology supported less large game.
 
-Women and children handled the daily herding, moving the animals constantly between high summer alpine pastures and low winter scrub. The herds operated in tandem with the dogs, which were working partners, not pets. Women sheared the flock in the spring. Mutton provided the core protein, replacing the deer they had hunted before the Long Walk. They wasted nothing; they ate the blood, the intestines, and the organs, and used the sinew for sewing.
+Mescal, the heart of the agave plant, was the staple gathered food. The women cut it, baked it for two or three days in a pit oven (the _mescal pit_), and the baked heart became the year's most important food. Mescal could be dried and stored. Pinyon nuts were gathered in the fall in the mountain country and were a major winter food. Mesquite beans, juniper berries, sotol, and yucca fruit filled out the seasonal supplements. Game — deer, antelope, rabbits, occasional elk — supplied protein, taken with bow and rifle by hunters who were among the best in the country.
 
-### The Weaving
+Cattle and horses came from raids on Mexican and Anglo ranches. The Apache economy from the 1860s through the 1880s was substantially based on raiding for livestock, traded with sympathetic Mexican and Anglo intermediaries.
 
-The Diné woman was the economic engine of her family, operating an immense, vertical wooden loom anchored to the earth and the hogan roof. She carded the raw wool, spun it on a thigh-rolled drop spindle, and dyed it using native plants (rabbitbrush for yellow), imported indigo for blue, and Mexican cochineal for blood-red.
+### The raid
 
-By the 1870s, the Diné were producing the legendary "Chief's Blankets"—utterly waterproof, iron-hard textiles so valuable that Plains Indian chiefs traded piles of buffalo robes or strings of horses to acquire a single one.
+The Apache raid was the celebrated military art. Small parties — six to twenty men — moved out without horses ridden into the target country. The horses were left at a remote camp; the party moved on foot through difficult country, struck at dawn, took livestock, and drove them back across country no pursuit could follow.
 
-### The Silver
+The Apache could cover seventy miles a day on foot through mountains. The Army could not follow. The campaign against Geronimo's small band in 1885–86 tied up five thousand soldiers because the Army could not catch the Apache in the country the Apache chose.
 
-Diné silversmithing was born in the 1850s, learned from itinerant Mexican smiths, and by the 1870s it was exploding as an art form. The early work was massive and heavy—thick cast rings, wide bracelets, and fist-sized silver _conchos_ strung onto heavy leather belts. They hammered the silver out of melted U.S. and Mexican coins (the Mexican peso was highly prized for its pure silver content). This early silver was entirely for Diné wear, functioning as portable, wearable wealth; the fragile, turquoise-heavy jewelry made for white tourists came decades later.
+### The man's kit
 
-### The Clan System
+The bow was shorter than the Plains bow, of mulberry or juniper, sinew-backed. The arrow had a cane shaft with a hardwood foreshaft. The Apache poison arrow was real — a deer-blood and rattlesnake-venom mixture used in some bands — though not as universally as legend claimed. A steel knife rode in a sheath at the belt. By the 1880s most Apache warriors had rifles, often Winchester repeaters taken or bought from Mexican sources.
 
-The Diné operate on a strict matrilineal system. A child belongs entirely to the mother's clan, and is "born for" the father's clan. A man's most important male figure is not his father, but his mother's brother. When introducing themselves, a Diné identifies their exact lineage: _"I am Bitter Water Clan, born for Big Water Clan."_ Marrying within your own clan is considered catastrophic incest. The clan system dictates where you can sleep, who you must feed, and exactly what ceremonies you can participate in.
+A cloth headband held the long hair; the Apache wore no feather bonnets. The distinctive Apache moccasin was knee-high with a turned-up toe — to push aside thorns and rattlesnakes — often with a hard sole. Dress was buckskin shirt and breechclout, or by the 1870s often a calico shirt and trade-cloth pants. Practical for the country.
 
-### The Man's Kit
+### The woman's kit
 
-The Diné man rode, but he didn't obsess over horse-wealth the way a Comanche did. His status markers were silver and velvet. He wore a dark velveteen shirt (a style imported through Spanish trade), heavy wool trousers cut down the sides, and rust-red dyed moccasins. A wealthy man wore pounds of silver: heavy concho belts, brutalist silver bracelets, and the silver _naja_ (the heavy crescent pendant of the squash blossom necklace). He carried a rifle for hunting and a short knife for shearing and butchering.
+Apache women were master basket weavers. The burden basket — carried with a tumpline across the forehead — and the storage baskets were central to the household economy. Apache basketry is among the finest in North America. The cradleboard distinguished the family; an infant spent the first year strapped into it for most of the day. Some Apache groups, notably the Western Apache, made pottery; most relied on baskets and on trade pottery from Pueblo neighbors. The mescal-baking knowledge — the selection of the agave, the preparation, the timing of the bake — was the women's knowledge and the year's most important culinary work.
 
-### The Woman's Kit
+### Writer's notes
 
-The loom was her anchor. She carried a heavy wooden batten (a comb to beat down the tight weft threads), a spindle, and iron hand-cards. She operated the heavy stone _mano_ and _metate_ to grind the family's corn—for while sheep were wealth, corn was the sacred food that kept them alive. Following the Long Walk, Diné women adopted the dress of the U.S. Army officers' wives they had seen at Fort Sumner: a dark, fitted velveteen blouse worn over a massive, thickly pleated, tiered calico or wool skirt, finished with silver jewelry and moccasins.
-
-### Campaign Reality: The Diné in Play
-
-The Long Walk (1864–1868) is the absolute defining trauma of the Diné experience. Any 1870s Diné character either walked that death march themselves or was raised by someone who did. They do not view Kit Carson as a frontier hero; he is the man who burned their peach orchards and starved their children. Following 1868, the Diné did not fight the U.S. Army. They had survived the end of their world, and the 1870s for them were strictly about rebuilding the flocks and staying alive on the reservation.
+The Apache were not _savages on horseback._ They were a sophisticated mountain people whose military art was the most successful resistance to U.S. military power in North American history. Geronimo (Goyahkla) was a complex figure — religious leader, war leader, sometimes a problem to his own people, the last man to surrender, in September 1886. The Apache campaigns of the 1880s used Apache scouts, mostly Western Apache, against Chiricahua bands. The internal Apache politics is rarely written honestly.
 
 ---
 
-## 5. The Southwest — The Pueblo
+## 4. Southwest — the Diné (Navajo)
 
-The Pueblo peoples are the ancient, original agriculturalists of the Rio Grande valley and the high western mesas. They are not a single tribe. They are a collection of intensely sovereign, fiercely independent city-states inhabiting identical geographical spaces but speaking completely unrelated languages (Tanoan, Keresan, Zuni, and Hopi).
+The largest Native nation in the United States. Sheep herders, weavers, silversmiths, agriculturalists. Bound to the country between the Four Sacred Mountains. Subjected to the Long Walk (1864) and the four years at the Bosque Redondo (Fort Sumner, 1864–1868). The treaty of 1868 established the reservation. The 1870s were the rebuilding decade. Suggested reading: Ruth Underhill, _The Navajos_ (older but solid); Jennifer Nez Denetdale, _Reclaiming Diné History_; the WPA Navajo interviews.
 
-For the Pueblos, the 1870s represented unbroken continuity. They had already survived the Spanish Empire and the Mexican Republic. They lived in the identical stone and adobe, multi-story apartment blocks their ancestors had built centuries prior.
+### Shelter — the hogan
+
+The hogan is the traditional Diné dwelling: single room, log construction, mud-plastered, with the door facing east as a near-universal rule.
+
+The forked-stick hogan is the older form — three or four forked posts set in the ground forming a conical frame, covered with bark and earth. The cribbed-log hogan is the dominant form by the 1870s — logs laid horizontally in a hexagonal or octagonal pattern, corbeled inward to form the roof, the whole covered with earth.
+
+The interior is built around a central fire with the smoke hole above. Sheepskins lie on the floor for sitting and sleeping. A loom stands against one wall for the women's weaving, and tools hang from pegs. In hot weather a brush ramada — an open shade structure — serves as the summer shelter; the hogan is for cold weather and ceremony.
+
+### The sheep economy
+
+The Diné received sheep — originally Spanish churro — in the 1600s and built a pastoral economy around them. By the 1870s the Diné flock was rebuilding from the slaughter at Fort Sumner. A family kept fifty to several hundred sheep and a few goats; the flock was the family's wealth, and a wealthy man's flock numbered in the thousands. Herding was done by women and children primarily; the flock moved between summer and winter pastures, and the dog was essential. Wool was sheared in spring as the raw material for the women's weaving. Mutton was the principal protein source; the sheep also provided hide and sinew, and almost the entire animal was used.
+
+### The weaving
+
+The Diné woman's defining craft. The vertical loom is two upright posts and crossbars. The wool is carded, spun, dyed (with native plant dyes — indigo from trade, red from cochineal trade, yellow from native plants), and woven into blankets and rugs.
+
+By the 1870s the great Chief's Blanket period was declining and the rug period — woven for the trader, not for native use — was beginning. The 1870s blanket is the high point of the art and is found in major museum collections.
+
+### The silver
+
+The Diné silversmithing tradition began in the 1850s, learned from Mexican silversmiths, and was well-established by the 1870s. The early silverwork — heavy rings, conchos for belts, bracelets, the squash blossom necklace — was made for native wear. The trader-driven silverwork comes later.
+
+### The clan system
+
+The Diné are matrilineal. A child belongs to the mother's clan and _is born for_ the father's clan. There are about sixty clans. A Diné introduces himself by clan: _I am Bitter Water Clan, born for Big Water Clan._ Marriage between members of the same clan is forbidden. The clan system organizes ceremony, mutual aid, and identity.
+
+### The man's kit
+
+The Diné man was a horseman, though the herd was not the central economic unit it was for the Comanche. The bow and the rifle followed the same general pattern as among other groups. Silver was the marker of station; a man's belt was often heavy with silver conchos, and his bracelets and rings were both ornament and portable wealth. Dress ran to a velveteen shirt (introduced from Spanish and Mexican trade), wool trousers, and moccasins.
+
+### The woman's kit
+
+The loom was the defining tool. With it went the weaving comb (a wooden comb for beating down the weft), the spindle (a simple drop spindle with a wooden whorl), and the cards (trade goods for preparing the wool). Grinding stones — the mano and metate — served the corn; the Diné agricultural economy was smaller than the Pueblo's, but corn was a significant food. The two-piece dress, a blouse with a long pleated skirt, became the standard women's dress in the late nineteenth century, modeled on the dress of army wives at Fort Sumner during captivity. The squash blossom necklace, the silver belt, the moccasins finished the dress.
+
+### Writer's notes
+
+The Long Walk and the Bosque Redondo are not optional context. Any 1870s Diné character lived through that catastrophe or was the child of those who did. Kit Carson is not a hero in any Diné account. The Diné did not fight the U.S. extensively after 1868. The 1870s Diné experience is rebuilding, not war.
+
+---
+
+## 5. Southwest — the Pueblo
+
+The Pueblo peoples of the Rio Grande and the western mesas. Ancestral inhabitants of multi-story stone and adobe villages. Agriculturalists. Speakers of multiple unrelated language families — Tanoan, Keresan, Zuni, Hopi. Each pueblo is a sovereign community.
+
+The 1870s Pueblo experience is continuity. The pueblos had survived Spanish, Mexican, and now American rule, maintaining their ceremonial calendars, languages, and land bases. The Pueblo Lands Act controversies came later, in the 1920s.
 
 ### The pueblo
 
@@ -195,36 +206,32 @@ Construction is adobe brick, puddled adobe in the earlier sites and formed brick
 
 The Pueblo economy was corn, beans, and squash, with significant cotton in some southern pueblos and the peach orchards introduced in the historic period (notably at Hopi).
 
-### Agricultural Economy
+Corn was the staple, ceremonially central. Six major colors — white, yellow, red, blue, speckled, black — each carried ceremonial associations. Corn was ground by women on stone metates, multiple times, to produce flour of progressively finer texture. Irrigation served the Rio Grande pueblos through ditches (acequias) drawn from the river. The mesa pueblos — Hopi, Acoma — used dryland farming and floodwater farming on the bottoms of washes. Beans and squash were the companion crops; the three-sisters planting (corn, beans, squash in the same hill) was practiced.
 
-The Pueblo survived by dry-farming in a desert that actively wanted them dead. Taos had the luxury of mountain water, but the western pueblos like Hopi grew their corn by planting it a foot deep in pure sand, relying entirely on sporadic summer thunderstorms. Corn was not just food; it was the religious center of their universe. Women ground the blue, white, yellow, and red corn daily on the _mano and metate_, baking thin, papery _piki_ bread on flat, greased stones. The men supplemented the diet by hunting deer and rabbit, while trade with the Diné and passing Comanches brought in buffalo meat and hides in exchange for the Pueblo's surplus corn.
+### The ceremonial calendar
 
-### The Ceremonial Year
+The Pueblo year is organized by ceremony. Each pueblo has its own calendar. Some events — the Hopi katsina cycle, the Zuni Shalako, the Rio Grande saint's day dances — are well-documented. The internal ceremonial life is extensive and largely closed to outsiders. The Pueblo dances visible to outsiders (the Corn Dance at Santo Domingo, the Buffalo Dance at Tesuque, the Eagle Dance at San Juan, the Deer Dance at Taos) are public. The ceremonies behind them are not.
 
-The Pueblo calendar is a grueling, continuous cycle of religious obligation. Their dances—such as the Hopi Katsina cycle or the Rio Grande Corn Dances—are not performances; they are physical labor required to keep the universe turning and to pull rain out of a clear sky. While outsiders (and player characters) might be permitted to watch the public Plaza dances, the internal, grueling ceremonial preparations that take place inside the _kivas_ are absolutely closed to the uninitiated.
+### The man's kit
 
-### The Kit
+The hoe — wooden, with a metal blade after trade contact — was the agricultural tool. Bow and arrow and lance were used for ceremony and for hunting. The katsina mask, in some pueblos, is a ceremonial object of great power. Dress was the cotton manta (a single rectangular cloth) belted at the waist, with cotton or wool leggings and moccasins. The Pueblo man's dress varied by pueblo.
 
-The central tool of the Pueblo man was the heavy, iron-bladed trade hoe used to work the arid fields. He dressed simply: a woven cotton _manta_ (a heavy, rectangular cloth) belted at the waist, white cotton trousers, and soft moccasins.
+### The woman's kit
 
-The Pueblo woman ground corn for hours every day, her hands and shoulders shaped by the heavy stone _metate_. She produced the finest coil-built, pit-fired pottery on the continent, with each Pueblo defining its own strict artistic identity (the impossibly thin-walled white-with-black-geometric pots of Acoma, the deeply polished black-on-black wares of Santa Clara and San Ildefonso). She wore a dark wool _manta_ draped over one shoulder, belted at the waist with a heavy red woven sash, completed with thick, white buckskin leggings wrapped vertically to the knee to protect against brush and snakebite. Unmarried Hopi girls wore their hair wrapped into the iconic, massive "squash-blossom" whorls over each ear.
+The metate and mano were used daily for hours; Pueblo women's hands and arms were shaped by the work. Pueblo pottery is some of the finest in North America — coil-built (not wheel-thrown), hand-polished, painted with native pigments, pit-fired. Each pueblo had its own pottery tradition: Acoma's thin walls, Santa Clara's black, Zuni's geometric designs, San Ildefonso's later black-on-black. The Pueblo manta dress over one shoulder, with a belt, moccasins, and white wrapped leggings finished the dress. Hair was worn in a bun by married women or in a squash-blossom whorl by unmarried young women among the Hopi.
 
-### Campaign Reality: Pueblos in Play
+### Writer's notes
 
-Acoma is not Taos. Zuni is not Hopi. They do not share gods, they do not share languages, and they operate under entirely local, sovereign governance. A writer executing a campaign in this space must respect the absolute secrecy of the _kiva_. Write what happens in the plaza, under the sun; do not invent the closed religious rituals of the underground chambers.
+The Pueblo are not one people. Each pueblo is sovereign and has its own language, ceremonies, and history. Acoma is not Taos. Zuni is not Hopi. Ceremonial life is largely closed; a writer who invents kiva ceremonies has crossed a line. Write what is publicly known and stop there. The 1870s Pueblo were under U.S. sovereignty for the first time and had specific legal questions — status, citizenship, land — being worked out.
 
 ---
 
 ## 6. Plains Indian Sign Language
 
-The Plains were a collision point for dozens of nations speaking mutually unintelligible languages. To manage trade, diplomacy, and warfare across this linguistic barrier, they built a massive, physical lingua franca: Plains Indian Sign Language (PISL).
+Across the plains nations, a sign language was used for inter-tribal communication. Many tribes spoke mutually unintelligible languages; sign was the lingua franca. A working knowledge of sign was expected of plains men. A trader, a scout, an army interpreter all signed. Sign vocabulary covered hundreds of common concepts: tribe names, animals, terrain, numbers, trade goods, friendship, war, peace.
 
-A working knowledge of Sign was mandatory for survival. A Comanche, a Lakota, an Army scout, and a Comanchero trader could sit around a fire and conduct two hours of complex political negotiation without speaking a single spoken word. The vocabulary covered hundreds of hyper-specific concepts: trade values, geographical warnings, military alliances, and tribal designations.
+A scene that includes inter-tribal contact can show sign being used. The signs are described, not the words. The reader infers the conversation.
 
-When writing characters communicating across language barriers, do not just say "they signed." Describe the specific physical reality of the hands. The reader understands the meaning through the motion.
+A few example signs, described, not pictured: _Friend_ is two fingers raised together at the chest. _White man_ is a horizontal line across the forehead, the brim of a hat. _Question_ is a flat hand raised, palm forward, rotated. _Buffalo_ is two index fingers held curved up at the temples — the horns. _River_ is a wavy horizontal motion of the hand.
 
-- _White Man:_ A flat hand drawn horizontally across the forehead, indicating the brim of a hat.
-- _Question:_ A flat hand raised in front of the chest, palm forward, rotated slightly back and forth.
-- _Buffalo:_ Both index fingers hooked upward at the temples to indicate horns.
-- _River:_ A flattened hand moved forward while undulating to mimic flowing water.
-  _(For campaign use: William Tomkins’s Indian Sign Language (1929) remains an invaluable sourcebook for the physical motions)._
+For a deeper reference, William Tomkins's _Indian Sign Language_ (1929; widely available reprint) preserves a substantial corpus.

@@ -2,81 +2,84 @@
 
 > _“EVERY MAN ON THIS COUNTRY CARRIES A HISTORY ON HIS BACK. SOME OF THEM CARRY TWO.”_
 
-The American West of 1865–1890 was the most demographically crowded and volatile region on the continent. Mexicans ran cattle on lands their great-grandfathers had settled long before the United States printed a map. Black freedmen rode as cavalrymen taking bullets in the desert scrub, Chinese laborers blasted train beds through solid granite, and German, Bohemian, and Czech farmers cursed the sod as they tried to force wheat from the plains. Irish navvies laid the rails; Cornish Cousin Jacks drilled out the silver and copper in suffocating, deep-earth shafts. French-Canadian trappers were already ghosts of a dying trade, wandering the northern borderlands. And dozens of Native nations—each bearing their own language, government, laws, and centuries of territorial conflict—waged brutal wars against the encroachment of the forts and the wire.
+The American West of 1865–1890 was the most demographically mixed region of the country. Mexicans whose families had been there for two centuries before the United States existed. Black freedmen and Buffalo Soldiers. Chinese laborers. German farmers. Irish railroad navvies. Cornish hard-rock miners. Bohemian and Czech homesteaders. French Canadians in the trapping country. Dozens of Native nations, each with its own language, law, and history.
 
-Every man standing at the bar or riding the trail held his own community, his own faith, his local cadence of speech, and almost always a long, bitter grievance he had not forgotten. The frontier was crowded, armed, and deeply contested.
+What follows is the working population. Each of the people described here had a community, a faith, a language, and almost always a long memory of grievance. The country was as crowded and as contested as a country can be.
 
 ---
 
 ## 1. Anglo-Americans
 
-"Anglo" is a flattening term for men who had violently disagreed with one another back east, had shot each other to pieces during the war, and frequently brought those same resentments out onto the prairie. They did not share a contiguous culture. A hat pushed back on a bar rail gave away nothing until the man under it spoke.
+The category called _white_ or _Anglo_ flattens what was never one people. The hat in the saloon and the boot up on the rail belonged to men who would not have shared a pew in the country they came from, and who often did not share one in the country they had reached.
 
 ### a. Southerners
 
-This was the dominant cut of man on the cattle frontier. Former Confederates, sons of ruined planters, or drifters whose brothers had been buried at Shiloh, they poured into Texas, where the state’s culture fused with Mexican vaquero practices to forge the defining cattle industry of the era. The long drives up to Kansas carried the Southern drawl north alongside the longhorns, and with it traveled the honor-culture and hair-trigger pride of the deep South.
+The largest single group on the cattle frontier. Many were Confederate veterans, or sons of veterans, or men who had lost brothers in the war. Texas was a Confederate state, and the Texas-to-Kansas drives carried south Texas culture — itself a fusion of Mexican vaquero technique with a Gulf-coast Anglo tradition — north onto the open range. The southern accent was the dominant one in cow country, and the southern code of honor and grievance came with it.
 
-A southerner in 1875 came from an impoverished, occupied land—Reconstruction lasted until 1877—and resented Federal authority as an absolute principle. Out West, he encountered that same authority as the U.S. Army blocking his road, or the Federal Treasury demanding his coin at the bank window. Men wore Confederate-gray slouch hats into the 1890s entirely by design, a deliberate uniform signaling who they were and who they would refuse to kneel to. Unreconstructed bitterness drove much of the violence on the trail.
+A Southerner in 1875 came from a defeated country, an occupied country (Reconstruction lasted from 1865 to 1877), and an impoverished country. He had often lost family in the war. He resented Federal authority on principle, and he encountered it in the West as the Army on his road and the Treasury at his bank. Some men wore Confederate gray hats deliberately into the 1890s as a signal anyone who needed to know would read. The unreconstructed Southerner is a real character on this country and not an exaggeration.
 
 ### b. Yankees
 
-These men hailed from New England and the Mid-Atlantic. Out on the frontier, they became the merchants, the bankers, the lawyers, the newspaper editors, and the high-ranking army officers holding the forts. Southerners loathed them for what they represented and what their armies had done to the South, yet tolerated them because the Yankees controlled the hard currency and the supply chains.
+New Englanders and Mid-Atlantic men. Often the merchants, the bankers, the editors, the schoolteachers, the army officers. Disliked by the Southerners for what they were and what they had done, and tolerated for the cash they brought.
 
 ### c. Midwesterners
 
-They came out of Iowa, Illinois, Ohio, Missouri, and Kansas. Methodist or Baptist, deeply rooted in plow agriculture rather than cattle, they were the homesteaders and the operators of the small, struggling ranches. They formed the spine of the wagon-train emigrations and formed the primary, grinding push of settlement onto the drought-stricken plains.
+Iowans, Illinoisans, Ohioans, Missourians, Kansans. Many homesteaders, many small ranchers. Often Methodist or Baptist. They were the bulk of the wagon-train emigration of the 1840s through the 1860s, and after the war they were the bulk of the homestead push onto the plains.
 
-### d. Mountain Men and Old Timers
+### d. Mountain men and old timers
 
-By 1875, they were ghosts holding onto a world that no longer existed. The trapping era died in the 1840s when the silk hat destroyed the beaver market. Jim Bridger lived until 1881; Kit Carson passed in 1868. These were the men who had married Shoshone or Ute women, lived entirely between cultures, and spoke Spanish, broken French, and half a dozen sign languages. They were replaced by the grim, mechanical slaughter of the buffalo hunters, and finally by the cattlemen. An old timer drinking in a saloon who remembered the Green River rendezvous of the 1830s was treated as a museum piece.
+A vanishing class by 1875. The trapping era ended in the 1840s when the silk hat killed the beaver market. A few old beaver men were still around: Jim Bridger died in 1881, Kit Carson in 1868. They had often married Native women, lived between cultures, and spoke half a dozen Native languages, Spanish, and a broken French. They were replaced first by the buffalo hunters and then by the cowmen. By the late 1870s a man who could remember the rendezvous on the Green River was already a curiosity in the saloon.
 
-### e. Easterners on the Move
+### e. Easterners on the move
 
-They showed up looking for an escape or an adventure. Remittance men—younger sons of affluent families—lived out of the better hotel rooms, surviving on a quarterly check mailed from Boston or London. The Eastern dude, rigged out in buckskin two sizes too clean, paid exorbitant fees for a hunting trip and swallowed the outlandish lies his guides fed him as gospel. Failed lawyers and ruined clerks got off the stagecoach, brushed the alkaline dust from their coats, and rented a desk on Front Street or took over the bankrupt local newspaper. Consumptives filled the boardinghouses of Las Vegas, New Mexico, and Colorado Springs, sent west for the dry air, sitting on the verandas each evening coughing blood into handkerchiefs as the sun set. They were universally condescended to by the working hands, though a few turned out harder than their clothes suggested.
+A regular feature of the Western town. The remittance man — a younger son of a wealthy family sent West with a quarterly check from home — drank in the better hotel and rode out occasionally to look at country he would never own. The Eastern dude on a hunting trip (Owen Wister, Theodore Roosevelt) bought outfits two sizes too clean and listened to lies told to him as gospel. The failed lawyer or the failed clerk starting over took the editor's chair at the local paper or hung out a shingle on Front Street. The consumptive sent for the dry climate filled the boarding houses of Colorado Springs and Las Vegas, New Mexico, and coughed his way out to the porch each evening to watch the sun go down. All of them were the source of condescension and amusement among the working population, and all of them sometimes turned out to be more than they looked.
 
 ---
 
 ## 2. Mexicans, Tejanos, Hispanos, Californios
 
-The Spanish-speaking populations had held the Southwest for generations before the United States acquired the territory via the Mexican Cession of 1848 and the Gadsden Purchase of 1853. Like the Anglos, they possessed distinct histories depending on the ground they stood on.
+The pre-existing Spanish-speaking population of the territories the United States had taken in the Mexican Cession of 1848 and the Gadsden Purchase of 1853. They were not one people either. Each region had its own community, its own history, its own grievance.
 
-The **Tejanos** owned roots stretching back to the eighteenth-century Spanish outposts at San Antonio. Many had their massive land grants stolen by the Anglo legal system in the years following annexation. Yet Tejano practices built the Texas cattle industry from the dirt up. Everything from the rope to the saddle to the roundup belonged to them, and the cowboy's working vocabulary directly derived from the Tejano tongue: _lariat_ (la reata), _lasso_ (lazo), _ranch_ (rancho), _rodeo, corral, remuda, mustang, bronco, chaps_ (chaparreras), _sombrero_, and _buckaroo_ (an Anglo butchering of _vaquero_).
+The **Tejanos** were Mexican-Texans. Some families went back to the eighteenth-century Spanish settlements at San Antonio and along the Rio Grande. Many were dispossessed of their land grants under the Anglo legal system after annexation. They provided the foundational ranching culture of Texas — the rope, the saddle, the brand, the round-up — and half the working vocabulary of the cowman's trade: _lariat, lasso, ranch, rodeo, corral, remuda, mustang, bronco, chaps, sombrero,_ and the word _buckaroo_ itself, which is _vaquero_ worn down by an Anglo tongue.
 
-The **Hispanos** constituted the population of New Mexico and southern Colorado, representing a settlement older than any English-speaking presence west of the Mississippi. Santa Fe was founded in 1610. The Hispano world was largely agrarian, centered on massive sheep-raising operations. The surrounding culture remained fiercely Catholic, dominated in rural areas by the Penitente brotherhood—a lay religious order staging Holy Week flagellations and crucifixion processions that profoundly disturbed the visiting priests sent out from Baltimore.
+The **Hispanos** were the Spanish-speaking population of New Mexico and southern Colorado, an older settlement than any Anglo presence west of the Mississippi. Santa Fe was founded in 1610. The Hispano world was largely rural, sheep-raising, and deeply Catholic. The Penitente brotherhood — a lay religious order famous for its Holy Week flagellation and crucifixion processions — was a major rural institution and a foreign country to any visiting priest from Baltimore.
 
-The **Californios** held the great pre-1848 ranchos across California. They were violently dispossessed during the gold rush, their vast holdings stripped from them by the Anglo land courts.
+The **Californios** were the pre-1848 Spanish-speaking Californians. They were largely dispossessed in the gold rush and the years that followed. The grand rancho era ended quickly under the Anglo land courts.
 
-**Mexican immigrants** crossed the border constantly, filling labor gangs, working the mines, and riding as vaqueros. For decades, the border remained merely ink on a surveyor’s map, unpoliced and invisible in the dust.
+The **Mexican immigrants** of the period were laborers, vaqueros, and miners. They crossed the border for work and frequently across it. The border, until very late in the century, was a line on a map that few cared to police.
 
-The Anglo–Mexican dynamic was poisonous, infected by the Mexican-American War, the Texas Revolution, and the wholesale theft of Spanish land grants. Anglo violence against Tejanos and Mexicans went largely unpunished. The Texas Rangers massacred hundreds of Mexicans across the borderlands—the _La Matanza_ killings of 1915–1919 were the culmination of a half-century of sanctioned terror. Historian William Carrigan estimates 597 lynchings of Mexicans in the United States between 1848 and 1928, a per-capita rate echoing the Black lynchings in the post-war South.
+The Anglo–Mexican relationship was poisoned by the Mexican-American War, by the Texas Revolution before it, and by Anglo land theft after. Anglo violence against Tejanos and Mexicans was endemic and largely unpunished. The Texas Rangers killed hundreds of Mexicans in the borderland through the period; the _La Matanza_ of 1915–1919 was a peak, but the violence ran for half a century before. Lynching of Mexicans in California, Arizona, New Mexico, and Texas was common — the historian William Carrigan estimates 597 lynchings of Mexicans in the United States between 1848 and 1928, a per-capita rate similar to Black lynchings of the same period.
 
-A Mexican vaquero did not ride out on the trail as a cheerful sidekick. He rode out carrying the history of a stolen country, his own Catholic faith, and the daily reality of the lynch rope.
+A Mexican on this country is not a colorful sidekick or a bandit type. He has a community, a faith, a language, often an old grievance and a long memory of it.
 
 ---
 
 ## 3. African Americans
 
-Following Emancipation, thousands of formerly enslaved men and women walked away from the ruined South and headed west. In 1879, the Exodusters broke for Kansas in such staggering numbers that the river towns went completely bare of provisions trying to feed them. They cut new, all-Black settlements directly into the prairie hardpan: Nicodemus in Kansas, and later Boley in Oklahoma. Some of these towns put down deep roots; others blew away in the dust within a decade.
+Massively under-represented in the screen tradition. Real and substantial in the West.
 
-Black cowboys worked every major cattle trail. On the great drives pushing up from Texas to the Kansas railheads, roughly one in four working hands was Black. Bose Ikard rode for the legendary cattleman Charles Goodnight, carrying the outfit’s bankroll through hostile country. When Ikard died, Goodnight carved into his headstone: _Splendid behavior, never failed a duty._ Nat Love drove cattle, fought in the saloons, and later wrote his own legend as Deadwood Dick. Bill Pickett invented bulldogging—the brutal, bone-snapping rodeo art of wrestling a steer to the dirt by biting its upper lip—and made his name in the arenas.
+After Emancipation, thousands of formerly enslaved people moved west. The largest single movement was the **Exodusters** of 1879, who poured into Kansas in such numbers that the river towns ran out of food for them. All-Black towns were planted across the prairie: Nicodemus, Kansas (1877), Boley, Oklahoma (1903), Mound Bayou, Mississippi (1887, just outside the West but the same movement). Some lasted; some did not.
 
-Federal law enforcement on the frontier relied heavily on Black deputies. Bass Reeves, born into slavery in Arkansas, escaped into the Indian Territory during the Civil War and learned the land. When Judge Isaac Parker took over the Federal court at Fort Smith, Reeves took the badge. He rode for thirty-two years, survived dozens of gunfights, and brought in over three thousand arrests.
+- **Black cowboys** were a working presence on every major drive. The best estimates put roughly one in four working cowhands on the great Texas-to-Kansas drives as Black. Bose Ikard rode for Charles Goodnight, kept the trail boss's money for him, and was inscribed by Goodnight on his tombstone with the words _Splendid behavior, never failed a duty._ Nat Love published an autobiography in 1907 and named himself Deadwood Dick. Bill Pickett invented bulldogging — the steer wrestling trick of biting a steer on the lip — and made his name in the rodeo arenas.
+- **Bass Reeves** was the most consequential Black lawman of the West. Born enslaved in Arkansas, he escaped during the Civil War and was recruited as a Deputy U.S. Marshal in the Indian Territory by Judge Parker. He made over three thousand arrests in his career and is often cited as a possible original for the Lone Ranger.
 
-The Army’s Black regiments—the 9th and 10th Cavalry, and the 24th and 25th Infantry—were organized in 1866. Native warriors called them Buffalo Soldiers. The Army handed them the most desolate posts, the oldest horses, and the most rancid rations in the supply chain. In return, the regiments recorded the lowest desertion rates in the military while fighting in the brutal heat of the Apache campaigns, the Red River War, and the Mexican border clashes.
+The **Buffalo Soldiers** were the Army's Black regiments — the 9th and 10th U.S. Cavalry and the 24th and 25th U.S. Infantry, formed in 1866. They were stationed across the Southwest and Plains and fought in the Apache campaigns, the Red River War, against the Comanche, and along the Mexican border. The name was given them by the Plains Indians; the precise reason is debated (comparable courage; the texture of their hair). They received the worst posts and the worst supplies, suffered lower desertion rates than white units, and accumulated a high incidence of distinguished service.
 
-Black women anchored these communities. They worked as cooks, laundresses, domestics, midwives, and schoolteachers. Many ran their own homesteads and boarding houses, serving as the financial spine of their families in an economy where Black men’s wages were chronically suppressed.
+**Black women in the West** worked as cooks, laundresses, domestic servants, prostitutes (often in segregated houses or as the lowest-status workers in mixed houses), schoolteachers in Black communities, and sometimes as ranchers and homesteaders in their own right.
 
-The weight of Federal law fluctuated wildly depending on where a man was standing. The 13th, 14th, and 15th Amendments existed on paper everywhere. In Kansas, a Black man could find a relatively open community. Cross into post-Reconstruction Texas or the later Oklahoma statehood years, and he faced the full, legalized violence of Jim Crow. A man’s physical safety depended entirely on which side of the river he pitched his camp.
+The 13th, 14th, and 15th Amendments were Federal law. Their enforcement on the Western frontier varied. Some states — Kansas in particular — had relatively open Black communities. Others, Texas and Oklahoma after statehood, imposed Jim Crow with its full violence. A Black man's experience varied entirely with where he was.
 
 ---
 
 ## 4. The Chinese
 
-They came first for the California gold fields, arriving in the 1850s. A decade later, the Central Pacific Railroad imported them by the thousands. Between 1865 and 1869, twenty thousand Chinese laborers swung sledges, packed black powder, and graded the railbed over the Sierras through lethal winter storms. When the golden spike was driven, the railroad cut them loose. They fanned out across the West to work as hard-rock miners, fishermen, vegetable farmers, cooks, and laundrymen. If a Texas cowhand sent a filthy shirt out to be boiled in Dodge City or Cheyenne, a Chinese man almost certainly did the washing.
+The Chinese came first to the California gold fields in the 1850s, then in great numbers to build the Central Pacific Railroad. From 1865 to 1869, perhaps twelve thousand to twenty thousand Chinese laborers blasted and graded the line over the Sierras. After the railroad they spread across the West as miners, laundrymen, cooks, vegetable gardeners, fishermen on the California coast, and domestic servants. The shirt the cowhand sent out to be washed in Dodge or Cheyenne was almost certainly washed by a Chinese man.
 
-This population was overwhelmingly, intentionally male. Chinese custom discouraged women from leaving, and the U.S. Page Act of 1875 essentially barred them under the pretext of preventing prostitution. The men lived in isolated bachelor communities, mailing their wages back across the Pacific in red paper envelopes, hoping to eventually follow the money home. Most of them died in America.
+Most were men. The population was deliberately kept male by Chinese custom and by U.S. law. The Page Act of 1875 effectively barred Chinese women on the pretext of preventing prostitution, and the Chinese Exclusion Act of 1882 barred most Chinese immigration outright. The men sent money home, intended to return, often did not.
 
-Overt, organized violence against them was a permanent condition of Western life. A white mob murdered eighteen Chinese men in the Los Angeles massacre of 1871. In 1885, white miners slaughtered twenty-eight Chinese workers in Rock Springs, Wyoming. Two years later, horse thieves rode into Hells Canyon, Oregon, murdered thirty-four Chinese miners, and stripped their bodies of gold dust. By the late 1880s, armed posses forcibly expelled the entire Chinese populations from Tacoma, Seattle, Eureka, and dozens of mountain camps, marching them to the trains at gunpoint.
+Anti-Chinese violence was extreme. The Los Angeles massacre of 1871 killed eighteen Chinese at the hands of a white mob. The Rock Springs massacre in Wyoming in 1885 killed twenty-eight Chinese miners. The Hells Canyon massacre in Oregon in 1887 killed thirty-four Chinese miners and robbed their bodies. Anti-Chinese expulsions cleared Tacoma, Seattle, Eureka, and dozens of mining towns of their entire Chinese populations through the late 1880s.
+
+A Chinese man on this country lived in a country whose laws and customs were arrayed against his existence. He had a story and likely a family ten thousand miles away that he sent paper money to in red envelopes.
 
 ---
 
@@ -110,130 +113,148 @@ Overt, organized violence against them was a permanent condition of Western life
 
 ## 5. The Native Nations
 
-The West was fragmented by hundreds of sovereign Native nations. Each governed its own territory, levied its own wars, spoke its own tongue, and operated complex economies based on hunting, agriculture, and cross-plains trade.
+Not _Indians_ as a single people. Hundreds of nations across the West, each with its own language, government, religion, law, economy. A few of the major ones a traveler in the West would have encountered are described here. They are presented region by region.
 
-### The Southern Plains
+### a. Southern Plains
 
-The **Comanche** commanded the horseback empire of the southern plains—an immense territory encompassing Texas, eastern New Mexico, and the desolate Llano Estacado. Divided into six major bands, they dictated the terms of survival on the plains for a hundred and fifty years. Under Quanah Parker, the son of a Comanche leader and an Anglo captive, the Quahadi band fought a brilliant, doomed rearguard action. Colonel Ranald Mackenzie broke their power by slaughtering their massive winter horse herd at Palo Duro Canyon in the autumn of 1874. They surrendered at Fort Sill the following year.
+The **Comanche** were the horseback empire of the southern plains — Texas, eastern New Mexico, the Llano Estacado. Six bands carried the name (Quahadi, Yamparika, Penateka, Nokoni, Kotsoteka, Kwahadi, with spellings variable in the Anglo record). They were the dominant power on the southern plains for a hundred and fifty years. Quanah Parker, born of a Comanche father and an Anglo captive mother, was the last war chief; his band surrendered at Fort Sill in 1875 after Colonel Mackenzie's destruction of their winter camp at Palo Duro Canyon the previous autumn.
 
-The **Kiowa** rode as fierce allies of the Comanche. Renowned as horsemen, their raiding parties struck deep into Texas and Old Mexico. They capitulated alongside the Comanche in 1875.
+The **Kiowa** were allied with the Comanche through the period — plains horsemen and raiders into Texas and Mexico. They surrendered in 1875.
 
-The **Apache** were a fractured people—Chiricahua, Mescalero, Jicarilla, Lipan, and Western Apache bands spread across the blistering mountains and deserts of the Southwest. They mastered irregular, asymmetric warfare. Under the brilliant strategic minds of Cochise, Victorio, and Geronimo, the Chiricahua fought the combined weight of the U.S. and Mexican armies to a bloody, exhausting stalemate for an entire generation.
+The **Apache** were not one people but several: Chiricahua, Mescalero, Jicarilla, Lipan, Western Apache, scattered across the Southwest. They were irregular warfare specialists. The Chiricahua under Cochise (until his death in 1872), then under Victorio (until 1880), and finally under Geronimo (until 1886) fought the U.S. Army to a stalemate for a generation.
 
-The **Southern Cheyenne and Arapaho** splintered south from their northern kin to hunt the Arkansas River valley. They absorbed the most horrific blows of the plains wars. In 1864, Colonel John Chivington’s Colorado militia rode down on Black Kettle’s peaceful camp at Sand Creek, ignoring the white flag flying above the chief's lodge, and butchered over 150 people, mostly women and children. Four years later, George Custer’s 7th Cavalry hit Black Kettle’s new camp on the Washita River, killing the chief and slaughtering the village's pony herd in the snow.
+The **Cheyenne and Arapaho** were originally northern plains peoples; some bands moved south to the Arkansas River. The Sand Creek Massacre of 1864 — when Colonel Chivington's Colorado militia attacked Black Kettle's peaceful camp under a white flag and killed 150 to 200 mostly women and children — and the Washita Massacre of 1868, when Custer's 7th Cavalry attacked Black Kettle's camp again and killed him this time, were southern Cheyenne tragedies.
 
-### The Northern Plains
+### b. Northern Plains
 
-The **Lakota Sioux** held the north. Seven divisions—Oglala, Hunkpapa, Sicangu, and others—controlled a massive hunting territory stretching from the Dakotas into Wyoming. Led by men like Red Cloud, Spotted Tail, Crazy Horse, and Sitting Bull, they successfully forced the United States to abandon the Bozeman Trail forts in 1868. When gold was struck in the Black Hills, the U.S. broke the treaty, triggering the Great Sioux War. After annihilating Custer at the Little Bighorn in 1876, the Lakota bands were hunted down relentlessly through the winter. The massacre of Big Foot's band at Wounded Knee in 1890 drove the final, bloody nail into the era.
+The **Lakota Sioux** were the dominant power of the northern plains. Seven divisions carried the name: Oglala, Hunkpapa, Sicangu, Mnikowoju, Sihasapa, Itazipco, Oohenupa. Sitting Bull was Hunkpapa, Crazy Horse was Oglala, Red Cloud and Spotted Tail were respectively Oglala and Sicangu. They fought the U.S. through the 1860s in Red Cloud's War, which ended in the Treaty of Fort Laramie in 1868, and again through the Great Sioux War of 1876–77 — the Little Bighorn, Crazy Horse's surrender, the flight of Sitting Bull to Canada and his return. The Wounded Knee Massacre of 1890 ended the era.
 
-The **Northern Cheyenne and Arapaho** rode and fought closely alongside the Lakota through the worst years of the northern conflict.
+The **Northern Cheyenne and Arapaho** were allies of the Lakota in most fights.
 
-The **Crow** held the Yellowstone country. They were traditional, bitter enemies of the Lakota. Because the Lakota constantly pressed their borders, Crow warriors frequently allied with the U.S. Army, riding as invaluable scouts against their older, more immediate northern rivals.
+The **Crow** were traditional enemies of the Lakota and allied themselves with the U.S. Army as scouts. The Lakota and Crow had been fighting each other on that country for longer than there had been a United States.
 
-The **Blackfoot** confederacy dominated northern Montana and the prairie sweeping up into Canada. Catastrophic smallpox epidemics in 1837 and 1869 gutted their numbers, but they remained a formidable power on the high line.
+The **Blackfoot** held northern Montana and into Canada. Smallpox epidemics in 1837 and again in 1869 destroyed huge fractions of their population.
 
-The **Pawnee** of Nebraska stood as ancient enemies of the Lakota. Like the Crow, many Pawnee men enlisted as highly effective Army scouts to strike back against Sioux war parties.
+The **Pawnee** of Nebraska were traditional enemies of the Lakota; Pawnee scouts served the Army.
 
-### The Southwest
+### c. Southwest
 
-The **Diné** (Navajo) constituted the largest Native nation in the United States. In 1864, Kit Carson waged a scorched-earth economic campaign against them, destroying their peach orchards and sheep flocks before forcing them on the brutal Long Walk to the concentration camp at Bosque Redondo. After four years of mass starvation, the surviving Diné negotiated a return to a fraction of their homeland. They rebuilt their deep-rooted culture as sheep-raisers, silversmiths, and world-renowned weavers, firmly anchoring their presence on the Colorado Plateau.
+The **Diné**, called Navajo by the Spanish and the Anglo, were and are the largest Native nation in the United States. The Long Walk of 1864 — a forced march from their homeland to Bosque Redondo in eastern New Mexico, with mass starvation along the way and at the destination — ended in 1868 with the return to a reduced reservation. The Diné were and are sheep-raisers, weavers (the Navajo blankets are world-famous), silverworkers. Their continuing presence on the Colorado Plateau is one of the great facts of the American Southwest.
 
-The **Hopi** farmed the high, dry mesas of northeastern Arizona. They occupied twelve ancient villages and largely avoided the sprawling cavalry wars erupting around them.
+The **Hopi** are a Pueblo people on the high mesas of northeast Arizona — twelve villages, agricultural, ancient. They were largely peaceful through the period.
 
-The **Pueblo** nations lived in nineteen enduring, adobe-built communities along the Rio Grande. They represent the oldest continuously inhabited settlements in North America. Following centuries of Spanish colonial pressure—punctuated by the bloody, successful Pueblo Revolt of 1680—their culture became a complex synchronization of indigenous tradition and Spanish Catholicism.
+The **Pueblo nations** are Tewa, Tiwa, Towa, Keres, and Zuni speakers. Nineteen pueblos along the Rio Grande and to the west of it. They are the oldest continuously inhabited communities in the United States. They were largely Catholic by 1875 — Spanish conversion since the sixteenth century, with the Pueblo Revolt of 1680 a major interruption.
 
-### The Northwest and Great Basin
+### d. Northwest and Great Basin
 
-The **Nez Perce** bred the finest horses in the Wallowa Valley of Oregon. When the government ordered them to a cramped reservation in 1877, Chief Joseph and his sub-chiefs led 800 people on a desperate, 1,170-mile fighting retreat across Idaho, Wyoming, and Montana. Pursued by multiple army columns, they stopped forty miles short of sanctuary at the Canadian border.
+The **Nez Perce** of the Wallowa Valley in Oregon are remembered for Chief Joseph's retreat — 1,170 miles across Idaho, Wyoming, and Montana, pursued by the U.S. Army, ending forty miles from the Canadian border with Joseph's surrender and the words history has made famous: _From where the sun now stands, I will fight no more forever._ The year was 1877.
 
-The **Modoc** fought an impossible war in 1872. Captain Jack and roughly fifty warriors retreated into the jagged lava beds of northern California, holding off hundreds of U.S. soldiers for months. They assassinated General E.R.S. Canby during a peace parley before the Army finally dragged them out of the rock.
+The **Modoc** of northern California and southern Oregon fought the Modoc War of 1872–73 — Captain Jack and fifty warriors held off the Army for months in the lava beds, killed General Canby (the only U.S. general killed in the Indian Wars), and were eventually overcome.
 
-The **Bannock and Shoshone** controlled the harsh scrub of the Great Basin and the Snake River country, scraping existence from an unforgiving landscape.
+The **Bannock and Shoshone** held the Great Basin and the Snake River. Sacagawea, of the Shoshone, had guided Lewis and Clark seventy years before.
 
-The **Ute** commanded the high mountain parks of Colorado and Utah, successfully navigating the early pressures of the silver rushes before being steadily squeezed onto tight reservations by the end of the 1870s.
+The **Ute** held Colorado and Utah.
 
-### Indian Territory
+### e. Indian Territory
 
-In the 1830s, the U.S. government brutally evicted the Cherokee, Choctaw, Creek, Chickasaw, and Seminole from the Southeast, marching them along the Trail of Tears into Indian Territory (modern Oklahoma). By 1875, these nations operated constitutional governments, built courthouses, funded schools, and printed bilingual newspapers. Because many of their leading families had held enslaved people and fought for the Confederacy, the Federal government used Reconstruction as an excuse to impose punishing new treaties that stripped away millions of acres of their land.
+The five so-called _civilized tribes_ — Cherokee, Choctaw, Creek (Muscogee), Chickasaw, Seminole — were removed from the Southeast in the 1830s on the Trail of Tears and resettled in the Indian Territory, which is the modern Oklahoma. By 1875 they had constitutional governments, courts, schools, and newspapers; the _Cherokee Phoenix_ printed in two languages. Many of these nations had been slaveholders before the Civil War; many fought on each side of it; the Reconstruction treaties of 1866 imposed Federal terms on them. The Allotment Acts of the 1880s and 1890s broke up their tribal lands. Oklahoma statehood came in 1907.
 
-The western half of Indian Territory became a massive holding pen for defeated plains tribes. Because state law halted at the territory line, white outlaws poured across the border to hide in the brush, turning the region into a violent, jurisdictional nightmare overseen by the overstretched Federal marshals riding out of Fort Smith.
+The Indian Territory also held the resettled Plains tribes after their wars — Comanche, Cheyenne, and others — on reservations carved out of the western half. The Territory was Federal jurisdiction; Judge Parker's court at Fort Smith had jurisdiction over Anglo crimes in it. Outlaws hid in the Territory because state law did not reach them.
+
+### f. Writing and playing Native characters
+
+Use the **specific nation**, not _Indian_ but _Comanche, Lakota, Diné._ Use the people's own name where you know it.
+
+Use the **specific religion**. A Lakota in 1875 may follow Lakota traditional religion (the Sun Dance, the seven sacred rites) or be a Christian (some were) or both.
+
+Use the **specific language**. Lakota, Comanche, Diné Bizaad, Apache — different language families. A Comanche and a Cheyenne do not understand one another's tongue. They use Plains Indian Sign Language for cross-tribal communication.
+
+Use the **specific period**. A Comanche in 1840 is at the height of Comanche power. In 1875 he is on a reservation, his horse herd shot, his bands broken. Period-correct, every time.
+
+Use **specific persons** — names from the actual record (carefully, these are not mascots) or invented within the naming conventions of the people.
+
+Avoid the noble-savage cliché _and_ the murderous-savage cliché. Both are inventions of Anglo writers and neither is the Native person.
+
+For deeper reading, the references that matter are _Black Elk Speaks_ (Black Elk and Neihardt), _The Comanche Empire_ (Hämäläinen), _Empire of the Summer Moon_ (Gwynne, popular history of the Comanche), N. Scott Momaday's _House Made of Dawn_ and _The Way to Rainy Mountain_, James Welch's _Fools Crow_ (a Blackfoot novel set in the 1870s and arguably the best historical novel of Native life by a Native writer), Leslie Marmon Silko's _Ceremony_, Joy Harjo, and Louise Erdrich. A good GM and a good player read at least two of these before writing or playing a Native character.
 
 ---
 
-## 6. European Immigrants
+## 6. European immigrants
 
-The frontier absorbed a massive, constant tide of European immigration. Ship-manifests emptied directly onto the western rail lines.
+The frontier was a continuing destination for European immigration through the period.
 
-The **Germans** broke ground in the Texas Hill Country and thickly settled Wisconsin, Minnesota, and the Dakotas. They arrived as farmers, specialized mechanics, and freighters. They also built the great breweries—Busch, Pabst, Schlitz, Coors. If a frontiersman walked into a back-alley gunsmith shop in San Antonio or Dodge to get a firing pin filed, the man at the vise was usually a German named Schwarz or Müller.
+The **Germans** settled the Texas Hill Country (Fredericksburg and New Braunfels, established in the 1840s by the Adelsverein), Wisconsin, Minnesota, and the Dakotas. They were the brewers of the country — Adolphus Busch, Frederick Pabst, Jacob Schlitz, Adolph Coors — and they were also farmers, freighters, and gunsmiths. The individual gunmaker on a back street in San Antonio or Dodge was as often as not a German named Schwarz or Müller. Lutheran or Catholic.
 
-The **Irish** provided the muscle that pushed the Union Pacific railroad west from Omaha. They flooded into the Army, making up a third of the enlisted ranks shivering in the frontier forts. They dominated the saloons and took over the heavy labor in the mining towns—Butte, Montana, ran on Irish labor and Irish brawls for decades.
+The **Irish** built the Union Pacific from Omaha west. They were Catholics often, soldiers in the Army (a third or more of enlisted men through the period were Irish-born), workers in the mines (Butte was an Irish mining town through the period and after), and saloon-keepers in every town that had a saloon.
 
-The **Scandinavians** claimed the freezing northern prairies. Norwegians, Swedes, and Danes hacked wheat farms out of the Dakota and eastern Montana dirt, bringing their Lutheran faith to a landscape entirely indifferent to it.
+The **Scandinavians** — Norwegians, Swedes, Danes — took the northern prairies: Minnesota, the Dakotas, eastern Montana. They were wheat farmers and Lutherans. Ole Rölvaag's _Giants in the Earth_ is the great novel of their immigration.
 
-The **Cornish** arrived from the played-out tin mines of England to work the silver and copper veins of Butte, Leadville, and the Comstock. The _Cousin Jacks_ brought advanced, life-saving underground architecture with them—the Cornish pump and the square-set timbering technique. The entire Western hard-rock industry ran on Cornish engineering.
+The **Cornish** were the hardrock miners — the _Cousin Jacks_. They came from the played-out tin mines of Cornwall to the silver and copper mines of Butte, Leadville, and the Comstock. They were Wesleyan Methodist often. They brought specific mining techniques with them — the Cornish square-set timbering, the Cornish pump — and the working methods of the West's underground are owed to them.
 
-The **Italians** hauled rock, laid track, and dug coal in the lethal, gas-filled mines of Colorado and Wyoming. In California, they planted the Napa Valley vineyards.
+The **Italians** were stoneworkers, miners (especially in the coal fields of Colorado and Wyoming after the 1880s), railroad laborers, and farmers. The Napa Valley vineyards were Italian-planted.
 
-The **Bohemian and Czech** immigrants took to the plains of Nebraska, burying their families in the sod as they tried to survive the droughts and the locust swarms.
+The **Welsh** were coal miners, principally in Pennsylvania but also in the western coalfields.
 
-The **Mormons** fled profound religious persecution in the East, crossing the plains in 1847 to carve a religious empire out of the Salt Lake basin. Under the iron theocracy of Brigham Young, they aggressively colonized Utah, southern Idaho, and northern Arizona. Plural marriage remained an open practice until 1890. A Methodist salesman stepping off a train in Salt Lake City found himself in a tightly wound, hyper-organized society that functioned completely outside normal American social rhythms.
+The **Bohemian and Czech** settlers took Nebraska and the Plains. Catholic. Willa Cather wrote them in _My Ántonia_ and _O Pioneers!_ — there is no better introduction to that immigration than her two books.
 
-The **Volga Germans**—ethnic Germans expelled from Russia—arrived on the plains of Kansas and the Dakotas hauling sacks of Turkey Red wheat. That specific, hardy seed survived the brutal plains winters and transformed the entire agricultural economy of the West.
+The **French Canadians** belonged to the older trapping country: the Rockies, the upper Missouri. The mountain man Jim Beckwourth (mixed Black and white American), the trapper Toussaint Charbonneau (French Canadian and Sacagawea's husband). By 1875 they were a fading presence.
+
+The **Mormons** were religious refugees from the Eastern United States after the persecutions of the 1830s and 40s. The Salt Lake settlement of 1847 became the seed of the colonization of much of Utah, southern Idaho, southern Nevada, and northern Arizona. Plural marriage was practiced openly until 1890. Mormon society was distinct, theocratic under Brigham Young through 1877, and not at all the country a Methodist drummer from Indiana would recognize as American.
+
+The **Russians and Eastern Europeans** brought the Volga Germans (Russian-Germans expelled by Russification policies after 1871) to settle Kansas and the Dakotas; they brought with them the Turkey Red wheat that became the Plains' staple crop. Russian Jews settled urban centers, Denver and San Francisco principally.
 
 ---
 
 ## 7. Women in this country
 
-The frontier skewed overwhelmingly male. In 1880, the Wyoming census recorded seventy-five men for every twenty-five women in the working-age population. In the high mountain mining camps, the ratio often spiked to ninety-five to five. That sheer demographic imbalance shaped every layer of frontier society: it drove up the economic and social leverage of any woman, ensured the near-immediate remarriage of widows, fueled a massive prostitution economy, heightened the crushing isolation of women marooned on the homesteads, and amplified the political power of women where they did organize. Wyoming granted women's suffrage in 1869, followed by Utah in 1870. The men understood the arithmetic.
+The frontier was statistically male. The 1880 census of Wyoming showed seventy-five men for every twenty-five women in the working-age population. Mining camps could run ninety-five men to five women. This shaped everything: the economic and social value of any woman, the high rate of marriage and the rapid remarriage of widows, the size of the prostitution economy, the acute isolation of homestead women, and the relative power of women in territorial politics. Wyoming granted women's suffrage in 1869, the first U.S. jurisdiction to do so. Utah followed in 1870. Statehood in those states kept the suffrage on the books.
 
-The **Anglo wife** generally ran a homestead, managed the books for a ranch, or followed an Army husband from post to post. Women like Elizabeth Bacon Custer, Frances Roe, and Martha Summerhayes left behind diaries detailing the suffocating boredom, the heat, and the sudden terrors of garrison life.
+The **Anglo wife** was the wife of a homesteader, a rancher, a townsman, or a soldier. The army wives at the western posts kept letters and diaries that are among the best sources we have on the frontier — Elizabeth Bacon Custer, Frances Roe, Martha Summerhayes.
 
-The **Anglo single woman** stepped off the trains to work as a schoolteacher, a nurse, a milliner, or a dressmaker. By the 1880s, the typewriter opened up stenographer positions. A hard core of single women proved their claims under the Homestead Act or prospected entirely in their own right.
+The **Anglo single woman** was a schoolteacher, nurse, stenographer (after the typewriter spread in the 1880s), milliner, dressmaker, or prostitute. A few were prospectors, ranchers, and homesteaders in their own right.
 
-The **Mexican woman** navigated an older Catholic culture that often proved far less restricted in matters of social mixing than the rigid Anglo Protestant model. She anchored the settlement communities as a mother, widow, washerwoman, or business owner navigating the edges of the border economy.
+The **Mexican woman** was wife, mother, widow, washerwoman, cook, laundress, or prostitute, and her older Catholic culture was often less restricted than the Anglo Protestant model in matters of social mixing.
 
-The **Black woman** worked as a cook, a laundress, a domestic, or a midwife. In the all-Black settlements of the prairies, she stood at the head of the classroom. Because white employers relentlessly suppressed Black men's wages, Black women often remained the primary financial engine holding their families together.
+The **Black woman** was cook, laundress, domestic servant, midwife, prostitute, or schoolteacher in a Black school. She was often the economic anchor of a Black family because Black men's wages were lower than her own.
 
-The **Native woman** operated within completely different economic systems than the Anglos. A Diné woman owned the family's sheep flock and the hogan outright; descent and inheritance passed directly through the matrilineal line. A Lakota woman possessed the tipi and everything inside it. An Apache woman dictated household affairs and stepped directly into band decision-making. The Anglo perception of Native women as "drudges" stemmed entirely from an inability to understand a world where women quietly held the property rights.
+The **Native woman** lived in a wide range of gender economies. A Diné woman owned the family's sheep flock and the hogan; descent and inheritance were matrilineal. A Lakota woman owned the tipi and its contents. An Apache woman ran her household and shared in band decisions. The Anglo assumption of Native women as drudges was a misunderstanding of different gender economies.
 
-The **Chinese woman** was an extreme rarity. Many were smuggled in as indentured prisoners—the so-called yellow slave trade—locked into brothels in San Francisco or the mining camps. Before Donaldina Cameron launched her mission rescues in 1895, these women possessed absolutely no legal protectors.
+The **Chinese woman** was rare. Most were brought as indentured prostitutes — the so-called yellow slave trade. Donaldina Cameron's mission rescues in San Francisco from 1895 onward freed many; before that they had no protector at all.
 
-A fuller, grounded account of the women's world appears in Chapter 5.
-
----
-
-## 8. The Conflicts
-
-Every piece of ground in the West was fought over. Every entry below represents a backdrop for a campaign.
-
-### The Indian Wars
-
-The Plains Wars raged without interruption from 1854 to 1890. The major engagements dictate the timeline of the era: the Sand Creek Massacre (1864), the Fetterman Fight (1866), the Washita Massacre (1868), the Red River War of 1874–75 that finally destroyed the southern plains tribes, the Great Sioux War of 1876–77 that claimed Custer at the Little Bighorn and eventually forced Crazy Horse’s capitulation, the desperate Nez Perce retreat of 1877, and the long, bitter Apache Wars (1849–1886) commanded by Cochise, Victorio, and Geronimo. The era closed in blood at Wounded Knee in 1890, when the 7th Cavalry gunned down between 250 and 300 Lakota, dumping the bodies, mostly women and children, into a mass grave.
-
-### The Range Wars
-
-The **Lincoln County War** (1878) tore New Mexico apart. Initially a localized feud between two rival mercantile outfits attempting to monopolize cattle contracts, it escalated into a county-wide shooting war and birthed the legend of Billy the Kid.
-The **Johnson County War** (1892) erupted when Wyoming’s wealthy cattle barons hired a private army of Texas gunmen to invade the county and assassinate accused rustlers and small ranchers. The small operators and the citizens of Buffalo surrounded the invasion force, and the cattlemen survived only because a Federal cavalry detachment rode out to rescue them.
-The **Mason County War** (1875) saw Anglo and German factions slitting each other’s throats across Texas. When barbed wire hit the plains in the 1880s, fence-cutting wars flared across the entire cattle frontier.
-
-### The Labor Wars
-
-Industrial violence gripped the late-century West. The **Great Railroad Strike of 1877** and the **Haymarket Affair** of 1886 in Chicago sent shockwaves out to the territories. Men died in the mud during the **Coeur d'Alene mining wars** of 1892 and 1899, and the **Cripple Creek strikes** in Colorado in 1894. The Western Federation of Miners and the Wobblies (IWW) tried to organize the hard-rock drifts and the timber camps. The syndicates crushed them with dynamite, Pinkertons, and state militias.
-
-### The Borderlands
-
-The Texas–Mexico border was a permanent, bleeding wound. Cattle rustling ran in both directions. The Texas Rangers operated not as police, but as an Anglo paramilitary death squad. Juan Cortina launched organized cross-border raids from 1859 to 1875. The Salt War of 1877 in San Elizario degenerated into one of the ugliest, most racially charged massacres of the decade.
-
-### Reconstruction Violence
-
-Texas choked on Reconstruction. The Texas State Police (1870–73) and the violently reorganized Rangers hunted down freedmen and Republican lawmen as enthusiastically as they hunted horse thieves. White paramilitary organizations—the Ku Klux Klan and the White Man's Union—systematically intimidated and murdered freedmen trying to forge a life west of the Sabine River. White-supremacist violence is baked firmly into the Western soil; it belongs entirely in this book.
+A fuller account of the women's world appears in Chapter 5.
 
 ---
 
-## 9. Setting the Table
+## 8. The conflicts
 
-The West was not a monolithic Anglo-Protestant expanse with a few generic minorities pasted into the background for color. It was a vicious, contested zone where differing peoples slammed into one another, carrying grudges that stretched back a hundred years, layering new massacres over the old ones.
+A short ledger. Each entry is a possible setting; each is a backdrop for character.
 
-Every character stepping onto the street carries a very specific history. A Comanche warrior in 1875 has just watched the American cavalry slaughter his world in an icy canyon. A Tejano vaquero has watched the local judge hand his ancestral pastures over to an Anglo syndicate. A Black freedman has survived the whip, the war, and the burning of his neighbor's farm. A Mormon has been driven across half a continent at gunpoint and now watches Federal marshals riding with arrest warrants for his spiritual leaders. An Irish cavalryman has crossed the ocean from a famine-starved island to take arrows in the desert. A Chinese laborer has survived the blasting caps in the Sierras, constantly watching the horizon for a white mob with a rope.
+### a. The Indian Wars
 
-Write them, and play them, as carriers of those histories. The West gets colder, larger, and far truer when you do.
+The Plains War, 1854 to 1890, ran through innumerable engagements. The major ones a player or GM should know by name are the Sand Creek Massacre (1864), the Fetterman Fight (1866), the Washita Massacre (1868), the Red River War of 1874–75 that broke the southern plains tribes, the Great Sioux War of 1876–77 that gave us the Little Bighorn and Crazy Horse's surrender, the Nez Perce War of 1877, the Apache Wars from 1849 through 1886 under Cochise, Victorio, and Geronimo in succession, and Wounded Knee in 1890. The last engagement killed 250 to 300 Lakota, mostly women and children, by the 7th Cavalry. It ended the era.
+
+### b. The range wars
+
+The **Lincoln County War** in New Mexico (1878) was a small war between two mercantile factions; Billy the Kid's name was made in it. The **Johnson County War** in Wyoming (1892) saw the big cattlemen's hired guns invade a county to kill suspected rustlers and small ranchers; the town of Buffalo and the small ranchers besieged the invaders, and only a Federal cavalry intervention saved the cattlemen from being killed. The **Mason County War** in Texas (1875) was an Anglo–German factional fight. Many smaller fence-cutting wars erupted across the cattle country after barbed wire reached it.
+
+### c. The labor wars
+
+The **Great Railroad Strike of 1877**. The **Haymarket Affair** in Chicago in 1886, whose Western reverberations were strong. The **Coeur d'Alene mining war** in Idaho in 1892 and again in 1899. The **Cripple Creek strikes** in Colorado in 1894 and 1903–04. The Western Federation of Miners and the Industrial Workers of the World (the Wobblies) organized the hardrock miners and the timber camps. They were brutally repressed.
+
+### d. The borderlands
+
+The Texas–Mexico border was its own war zone. Cattle theft ran both ways. Anglo violence against Tejanos. Mexican raiding into Texas. The Texas Rangers operated as a paramilitary force. Juan Cortina's raids ran from 1859 to 1875. The Salt War of 1877 in San Elizario was as ugly as anything that happened on the country in the period.
+
+### e. Reconstruction violence
+
+Texas in particular saw heavy Reconstruction-era violence. The Texas State Police of 1870–73, then the reorganized Rangers, fought freedmen and Republican lawmen as much as they fought outlaws. White-supremacist organizations — the Ku Klux Klan and later the White Man's Union — intimidated and killed freedmen and Republican voters. This is part of the Western story; it is rarely written; and it belongs in this book.
+
+---
+
+## 9. The mistake to avoid
+
+The mistake is to write or to play the West as a costume drama in which contemporary American types ride horses. The corrective is to remember that the West was not a homogeneous Anglo-Protestant country with cosmetic minorities pasted in for color. It was a contested zone of peoples with grievances against one another going back generations, layered onto recent grievances of the most violent kind.
+
+Every character carries a specific history. A Comanche in 1875 has just lost his world. A Tejano in 1875 has watched his family's land grant pass into Anglo hands by lawyer's papers he could not read. A Black freedman in 1875 has lived through slavery and the war. A Mormon in 1875 has been driven across half a continent and now watches the Federal government move to prosecute his marriages. An Irish soldier in 1875 has crossed the ocean from a famine country. A Chinese laborer in 1875 has buried friends in the Sierra snowdrifts and is months from a mob's torches.
+
+Write each of them, and play each of them, as the carrier of his own history. The West gets larger and stranger and truer as you do.
