@@ -88,6 +88,21 @@ the modules you need. Do not skim and draft.
   disease, futility, suicide, the residue of slavery, Native
   genocide. How to write the actual West without flinching and
   without exploitation.
+- `references/dark-frontier.md` — the R+ companion to
+  `uncomfortable-truths.md`. The harder material the canon
+  sometimes renders directly: sexual violence and captivity,
+  lynching and the racial pogrom, prairie madness and the
+  line-shack derangement, torture by all parties, cannibalism
+  (Donner, Packer), the drug economies (laudanum, morphine,
+  opium, alcohol's medical course), domestic violence and the
+  family killing, child abuse and the orphan train, slavery
+  beyond 1865 (Comanche peonage, debt peonage, Chinese sex
+  slavery), the starving homestead, institutional animal
+  cruelty. The four exploitation tells and the rules for
+  rendering hard scenes without becoming pornography. **Load
+  for any scene where the literary restraint of
+  `uncomfortable-truths.md` will not carry the weight the
+  story needs.**
 - `references/speech-patterns.md` — voice fingerprints by
   archetype: the laconic ranch hand, the orotund judge, the
   silent gunman, the educated woman, the plain-spoken woman,

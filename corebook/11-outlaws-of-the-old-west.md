@@ -243,6 +243,19 @@ Do not roll this die in every ordinary season. `Gang Expenses` already cover nor
 
 Start the gang at `D10` if reasonably supplied, `D8` if already short or on the run, or `D12` if it has just stocked up through a rich score, a strong refuge, or the `Buy Through Fences` hideout activity.
 
+Large stores are bulky. A band's `Provisions` die assumes extra pack stock, mules, draft oxen, carts, or wagons carrying what the gang cannot simply tie behind the saddle. These are additional animals and loads beyond the gang's ordinary riding mounts. They do not improve `Horsestock`. If anything, they burden it.
+
+Use the following as a rule of thumb for how much transport the gang must maintain to justify a given `Provisions` die:
+
+| Provisions | Crew | Gang | Outfit |
+| --- | --- | --- | --- |
+| `D6` | saddle-bags and one spare pack saddle are enough | one pack animal or a light handcart | two pack animals or a cart |
+| `D8` | one pack mule or pack horse | two pack animals or one light wagon | four pack animals or one wagon |
+| `D10` | two pack animals or one light cart | four pack animals or one wagon | eight pack animals or two wagons |
+| `D12` | three pack animals or one proper wagon with draft stock | six pack animals or two wagons | twelve pack animals or three wagons |
+
+If the gang loses the needed transport, abandons it in flight, or never had it in the first place, its `Provisions` die cannot honestly stay that high for long. Step it down by one at the next meaningful strain, or immediately if the loss was sudden and obvious.
+
 Roll the die when supplies are meaningfully strained:
 
 - once per week when the gang is hiding or riding in hard country away from reliable Refuge
@@ -252,6 +265,8 @@ Roll the die when supplies are meaningfully strained:
 If the die rolls `1-2`, step it down one size. If a `D4` rolls `1-2`, the gang's provisions are exhausted.
 
 At `D6` or lower, the gang is eating short. Apply `-1 die` where hunger, feed shortage, or shabby camp supply would plainly matter, such as leadership rolls to keep the camp civil, winter pressure, or checks to maintain `Horsestock`. At `D4`, every argument is sharper and every refuge call for food or shelter should feel desperate.
+
+If the gang insists on keeping full stores close at hand while moving fast, the burden cuts the other way. A gang still dragging the transport needed for `D10` or `D12` provisions through rough flight suffers `-1 die` on `Move Camp`, concealment, or `Hard Ride and Flight` unless it first abandons some stores, splits the loads, or has unusually favorable ground.
 
 If `Provisions` are exhausted, the GM should immediately force the issue. Test `Cohesion`, reduce `Horsestock` by `1`, or require an urgent refuge, forage, or resupply play before the gang can rest easy.
 

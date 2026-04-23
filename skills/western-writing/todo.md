@@ -1,9 +1,11 @@
 # Western Writing Skill — Build Plan
 
-**Status (April 2026, fully verified):** All phases complete.
-Phases 5–9 done by prior AI. Phase 10 corrections identified
-and resolved by audit. The skill library is complete and
-consistent.
+**Status (April 2026, fully verified):** Phases 5–10 complete.
+Phase 11 (the dark/R+ companion `references/dark-frontier.md`)
+complete. Phase 12 (three remaining content gaps: childhood,
+music/entertainment, the hunt) identified but not started.
+The skill library is complete and consistent for all
+canonical western subjects covered to date.
 
 **Phase 8 deviation (resolved):** The plan said to append
 exemplars #21-#27 to `examples/scenes.md`. The AI instead
@@ -550,3 +552,87 @@ the original plan. Four issues found; one is blocking.
       present and complete including §8 rewrites. - `references/landscape-as-prose.md` — sections 1-12
       present including §9 regional passages, §10 rewrites. - `references/violence-as-craft.md` — sections 1-12
       present including §10 rewrites. - `knowledge/outlaw-craft.md` — sections 1-12 present.
+
+---
+
+## Phase 11 — Dark / R+ content gap
+
+Identified April 2026 by audit against the question "what
+darkness is the skill still blind to." `uncomfortable-truths.md`
+covers race, women, disease, futility, suicide, and animal
+cruelty at a literary-restraint register. It acknowledges
+sexual violence, lynching, addiction, and madness without
+rendering them. The R+ companion was missing.
+
+- [x] **P1** Create `references/dark-frontier.md` — the R+
+      companion to `uncomfortable-truths.md`. Sections:
+      the four exploitation tells; sexual violence (categories,
+      how to render, the hard cases); lynching, the vigilance
+      committee, and the racial pogrom (Rock Springs, Hells
+      Canyon, Tacoma, Seattle, Eureka); madness on the frontier
+      (prairie madness, the line shack rider, the prospector
+      alone, religious mania, the Civil War legacy); torture
+      by all parties; cannibalism (Donner, Packer); the drug
+      economies (laudanum, morphine, opium dens, alcohol's
+      medical course); domestic violence and the family
+      killing; children (mortality, bound-out, orphan train,
+      abuse the period did not name); slavery beyond 1865
+      (Comanche peonage, Diné/Pueblo captives, debt peonage,
+      Chinese sex slavery); the starving homestead;
+      institutional animal cruelty (pit fights, the Red
+      River horse slaughter, the buffalo hide hunt); the
+      author's stance in R+ register. Cross-referenced with
+      uncomfortable-truths.md and added to SKILL.md library
+      with load trigger.
+
+---
+
+## Phase 12 — Remaining content gaps (low priority)
+
+Three subjects the canon contains that the skill does not
+have a dedicated module for. None are blocking; all would
+strengthen the skill if addressed.
+
+- [ ] **P3** `knowledge/childhood.md` — children's lives
+      on the frontier as a centered subject. The homestead
+      child's day (chores by age, schooling when available,
+      play). The town child's day. The ranch boy who becomes
+      a horse-holder at twelve and a hand at fifteen. The
+      orphan train and the bound-out child (factual depth
+      beyond what `dark-frontier.md` covers in §9). School
+      (the one-room schoolhouse, the McGuffey readers, the
+      schoolmarm). Toys, games, songs. The rite-of-passage
+      moments (first horse, first gun, first work for pay).
+      Cross-reference `women-domestic-world.md` and
+      `dark-frontier.md`. Length ~400 lines.
+
+- [ ] **P3** `knowledge/music-and-entertainment.md` — what
+      filled the evenings. The fiddle and the banjo (the
+      tunes that travel: _Buffalo Gals, Sweet Betsy from Pike,
+      The Old Chisholm Trail, Streets of Laredo_). The square
+      dance and the play-party. The saloon piano (and its
+      common repertoire: ragtime arrives in the 1890s; before
+      that, parlor songs and minstrel-show tunes). The
+      medicine show and the patent-medicine pitchman. The
+      touring theatrical company (Edwin Booth in Denver, the
+      Chautauqua circuit, the Tom shows). The rodeo's
+      beginnings as cowboy contest (formal rodeo from the
+      1880s; informal contests from the 1860s). Period
+      newspapers as entertainment. The dime novel as the
+      cowboy's reading. Length ~400 lines.
+
+- [ ] **P3** `knowledge/the-hunt.md` — hunting as profession
+      beyond what `work-and-trades.md` and `frontier-survival.md`
+      contain. The buffalo hide hunter (the camp, the stand,
+      the Sharps rifle, the skinners, the wagon to the
+      railhead). The market hunter (deer, antelope, elk for
+      restaurants and railroad camps). The wolfer (poison
+      baits, bounty system, the wolfer's social standing as
+      lower than the buffalo hunter's). The professional
+      guide for Eastern and European sporting parties (Buffalo
+      Bill's first career, the Earl of Dunraven in Estes
+      Park). The military hunter who supplied a fort. Cross-
+      reference `peoples-and-conflict.md` for the political
+      consequence of the buffalo slaughter, and
+      `dark-frontier.md` §12 for its institutional character.
+      Length ~400 lines.

@@ -714,20 +714,20 @@ The Weapons Tables on the following pages take account of the weapon’s qualiti
 
 ##### Revolvers and Pistols
 
-| Weapon                     | Action | Draw Mod | Attack Mod | Dam | Crit | Range | Qualities                          | Ammo | Wt  | Cost |
-| -------------------------- | ------ | -------- | ---------- | --- | ---- | ----- | ---------------------------------- | ---- | --- | ---- |
-| Colt 1860 New Army         | Single | 0        | +1         | 2   | 1    | M\*   | RELIABLE, FANNING                  | 6    | 1/2 | $15  |
-| Colt 45 Peacemaker         | Single | -1       | +2         | 3   | 1    | M\*   | LONG BARREL, POWERFUL              | 6    | 1/2 | $28  |
-| Colt Walker                | Single | -1       | +2         | 2   | 1    | M\*   | LONG BARREL, HEAVY, MAINTAINED     | 6    | 1/2 | $20  |
-| Cooper                     | Double | +2       | 0          | 2   | 1    | M\*   | FAST DRAW, CONCEALABLE, CALIBRATED | 5    | 1/2 | $18  |
-| Manhattan Navy             | Single | 0        | +2         | 2   | 1    | M\*   | CALIBRATED                         | 6    | 1/2 | $24  |
-| Metropolitan Navy 1864     | Single | 0        | +1         | 2   | 1    | M\*   | CALIBRATED, RELIABLE               | 6    | 1/2 | $16  |
-| Remington 1858             | Single | 0        | 0          | 3   | 1    | M\*   | POWERFUL, FANNING                  | 6    | 1/2 | $20  |
-| Smith & Wesson Model 3     | Single | -1       | +1         | 2   | 1    | M\*   | HEAVY                              | 6    | 1/2 | $30  |
-| Starr Revolver             | Double | +1       | 0          | 2   | 1    | M\*   | -                                  | 6    | 1/2 | $10  |
-| Webley British Bulldog     | Double | -1       | 0          | 3   | 1    | S\*   | CONCEALABLE, POWERFUL              | 5    | 1/2 | $15  |
-| Deringer                   | Single | -1       | 0          | 2   | 2    | N\*   | HIDDEN, LIGHT, POWERFUL            | 1    | T   | $32  |
-| Remington Elliot Pepperbox | Double | -1       | +1         | 1   | 2    | N\*   | HIDDEN, LIGHT                      | 4    | T   | $25  |
+| Weapon                     | Action | Draw Mod | Attack Mod | Dam | Crit | Range | Qualities                          | Ammo | Wt  | Cost | Rarity   |
+| -------------------------- | ------ | -------- | ---------- | --- | ---- | ----- | ---------------------------------- | ---- | --- | ---- | -------- |
+| Colt 1860 New Army         | Single | 0        | +1         | 2   | 1    | M\*   | RELIABLE, FANNING                  | 6    | 1/2 | $15  | Common   |
+| Colt 45 Peacemaker         | Single | -1       | +2         | 3   | 1    | M\*   | LONG BARREL, POWERFUL              | 6    | 1/2 | $28  | Rare     |
+| Colt Walker                | Single | -1       | +2         | 2   | 1    | M\*   | LONG BARREL, HEAVY, MAINTAINED     | 6    | 1/2 | $20  | Uncommon |
+| Cooper                     | Double | +2       | 0          | 2   | 1    | M\*   | FAST DRAW, CONCEALABLE, CALIBRATED | 5    | 1/2 | $18  | Uncommon |
+| Manhattan Navy             | Single | 0        | +2         | 2   | 1    | M\*   | CALIBRATED                         | 6    | 1/2 | $24  | Uncommon |
+| Metropolitan Navy 1864     | Single | 0        | +1         | 2   | 1    | M\*   | CALIBRATED, RELIABLE               | 6    | 1/2 | $16  | Common   |
+| Remington 1858             | Single | 0        | 0          | 3   | 1    | M\*   | POWERFUL, FANNING                  | 6    | 1/2 | $20  | Common   |
+| Smith & Wesson Model 3     | Single | -1       | +1         | 2   | 1    | M\*   | HEAVY                              | 6    | 1/2 | $30  | Rare     |
+| Starr Revolver             | Double | +1       | 0          | 2   | 1    | M\*   | -                                  | 6    | 1/2 | $10  | Common   |
+| Webley British Bulldog     | Double | -1       | 0          | 3   | 1    | S\*   | CONCEALABLE, POWERFUL              | 5    | 1/2 | $15  | Uncommon |
+| Deringer                   | Single | -1       | 0          | 2   | 2    | N\*   | HIDDEN, LIGHT, POWERFUL            | 1    | T   | $32  | Rare     |
+| Remington Elliot Pepperbox | Double | -1       | +1         | 1   | 2    | N\*   | HIDDEN, LIGHT                      | 4    | T   | $25  | Rare     |
 
 (\* M=Medium, S=Short, N=Near)
 
@@ -755,19 +755,19 @@ The Weapons Tables on the following pages take account of the weapon’s qualiti
 
 ##### Rifles, Shotguns and Bows
 
-| Weapon                  | Action  | Attack Mod | Dam | Crit | Range | Qualities                              | Ammo | Wt  | Cost |
-| ----------------------- | ------- | ---------- | --- | ---- | ----- | -------------------------------------- | ---- | --- | ---- |
-| Standard Rifle          | Lever   | 0          | 2   | 1    | L\*   | -                                      | 12   | 1   | $16  |
-| Sharps Rifle 1874       | Breech  | +1         | 3   | 1    | D\*   | CALIBRATED, POWERFUL, PIERCING, SIGHTS | 1    | 1   | $35  |
-| Spencer Carbine         | Lever   | 0          | 3   | 1    | L\*   | POWERFUL, CALIBRATED                   | 7    | 1   | $22  |
-| Winchester Model 1866   | Lever   | +1         | 2   | 1    | L\*   | RELIABLE                               | 15   | 1   | $25  |
-| Winchester Model 1873   | Lever   | +2         | 2   | 1    | L\*   | CALIBRATED                             | 15   | 1   | $35  |
-| Standard Shotgun        | Breech  | +1         | 3   | 3    | M\*   | RELIABLE                               | 2    | 1   | $12  |
-| Hartford Coachgun       | Breech  | +1         | 3   | 2    | S\*   | SAWN-OFF                               | 2    | 1   | $25  |
-| Roper Repeating Shotgun | Lever   | +1         | 3   | 3    | M\*   | HARD TO LOAD                           | 4    | 1   | $25  |
-| Wells Fargo Coachgun    | Breech  | +2         | 4   | 3    | S\*   | SAWN-OFF, POWERFUL, PIERCING           | 2    | 1   | $25  |
-| Standard Bow            | Special | 0          | 1   | 1    | M\*   | PIERCING                               | N/A  | 1/2 | N/A  |
-| Quality Bow             | Special | +1         | 2   | 1    | L\*   | PIERCING                               | N/A  | 1/2 | N/A  |
+| Weapon                  | Action  | Attack Mod | Dam | Crit | Range | Qualities                              | Ammo | Wt  | Cost | Rarity   |
+| ----------------------- | ------- | ---------- | --- | ---- | ----- | -------------------------------------- | ---- | --- | ---- | -------- |
+| Standard Rifle          | Lever   | 0          | 2   | 1    | L\*   | -                                      | 12   | 1   | $16  | Common   |
+| Sharps Rifle 1874       | Breech  | +1         | 3   | 1    | D\*   | CALIBRATED, POWERFUL, PIERCING, SIGHTS | 1    | 1   | $35  | Rare     |
+| Spencer Carbine         | Lever   | 0          | 3   | 1    | L\*   | POWERFUL, CALIBRATED                   | 7    | 1   | $22  | Uncommon |
+| Winchester Model 1866   | Lever   | +1         | 2   | 1    | L\*   | RELIABLE                               | 15   | 1   | $25  | Common   |
+| Winchester Model 1873   | Lever   | +2         | 2   | 1    | L\*   | CALIBRATED                             | 15   | 1   | $35  | Rare     |
+| Standard Shotgun        | Breech  | +1         | 3   | 3    | M\*   | RELIABLE                               | 2    | 1   | $12  | Common   |
+| Hartford Coachgun       | Breech  | +1         | 3   | 2    | S\*   | SAWN-OFF                               | 2    | 1   | $25  | Uncommon |
+| Roper Repeating Shotgun | Lever   | +1         | 3   | 3    | M\*   | HARD TO LOAD                           | 4    | 1   | $25  | Rare     |
+| Wells Fargo Coachgun    | Breech  | +2         | 4   | 3    | S\*   | SAWN-OFF, POWERFUL, PIERCING           | 2    | 1   | $25  | Uncommon |
+| Standard Bow            | Special | 0          | 1   | 1    | M\*   | PIERCING                               | N/A  | 1/2 | N/A  | Uncommon |
+| Quality Bow             | Special | +1         | 2   | 1    | L\*   | PIERCING                               | N/A  | 1/2 | N/A  | Rare     |
 
 (\* D=Distant, L=Long, M=Medium, S=Short)
 
@@ -791,18 +791,18 @@ The Weapons Tables on the following pages take account of the weapon’s qualiti
 
 ##### Melee Weapons
 
-| Weapon               | Attack Mod   | Dam     | Crit | Range | Qualities                      | Ammo | Wt  | Cost |
-| -------------------- | ------------ | ------- | ---- | ----- | ------------------------------ | ---- | --- | ---- |
-| Bullwhip             | 0            | 1       | 4    | N\*   | PIERCING                       | N/A  | 1/2 | $10  |
-| Cavalry Sword        | +2           | 2       | 1    | A\*   | MOUNTED                        | N/A  | 1   | $25  |
-| Club                 | 0            | 2       | 3    | A\*   | -                              | N/A  | 1   | $1   |
-| Knife                | 0            | 1       | 2    | A\*   | -                              | N/A  | 1/2 | $3   |
-| Lance (Wahukeza)     | +2           | 2       | 1    | N\*   | WEIGHTED, PIERCING, MOUNTED    | N/A  | 1   | N/A  |
-| Lasso                | +1           | Grapple | N/A  | S\*   | -                              | N/A  | 1/2 | $2   |
-| Quality Blade        | +1           | 2       | 1    | A\*   | BALANCED, SHARPENED            | N/A  | 1/2 | $15  |
-| Tomahawk             | +1           | 2       | 1    | A\*   | BALANCED, SHARPENED, FORGIVING | N/A  | 1   | N/A  |
-| Dynamite (one stick) | 8 Dice Blast | 4       | 2    | S\*   | -                              | N/A  | 1/4 | $1   |
-| Fist                 | 0            | 1       | 4    | A\*   | -                              | N/A  | N/A | N/A  |
+| Weapon               | Attack Mod   | Dam     | Crit | Range | Qualities                      | Ammo | Wt  | Cost | Rarity   |
+| -------------------- | ------------ | ------- | ---- | ----- | ------------------------------ | ---- | --- | ---- | -------- |
+| Bullwhip             | 0            | 1       | 4    | N\*   | PIERCING                       | N/A  | 1/2 | $10  | Common   |
+| Cavalry Sword        | +2           | 2       | 1    | A\*   | MOUNTED                        | N/A  | 1   | $25  | Uncommon |
+| Club                 | 0            | 2       | 3    | A\*   | -                              | N/A  | 1   | $1   | Common   |
+| Knife                | 0            | 1       | 2    | A\*   | -                              | N/A  | 1/2 | $3   | Common   |
+| Lance (Wahukeza)     | +2           | 2       | 1    | N\*   | WEIGHTED, PIERCING, MOUNTED    | N/A  | 1   | N/A  | Rare     |
+| Lasso                | +1           | Grapple | N/A  | S\*   | -                              | N/A  | 1/2 | $2   | Common   |
+| Quality Blade        | +1           | 2       | 1    | A\*   | BALANCED, SHARPENED            | N/A  | 1/2 | $15  | Uncommon |
+| Tomahawk             | +1           | 2       | 1    | A\*   | BALANCED, SHARPENED, FORGIVING | N/A  | 1   | N/A  | Uncommon |
+| Dynamite (one stick) | 8 Dice Blast | 4       | 2    | S\*   | -                              | N/A  | 1/4 | $1   | Rare     |
+| Fist                 | 0            | 1       | 4    | A\*   | -                              | N/A  | N/A | N/A  | Common   |
 
 (\* S=Short, N=Near, A=Arm’s Length)
 **Bullwhip** : Single-tailed bullwhips made of braided leather were common in the Old West. As the name suggests, they were used to drive cattle or a team of horses pulling a wagon or carriage. To use a bullwhip you use the LIGHT-FINGERED ability. It does damage and can cause injury, but the real advantage of the bullwhip is when you want to make a Called Strike against an enemy: making a Called Strike with a bullwhip only brings a −2 penalty instead of −3.
