@@ -1,0 +1,112 @@
+## 3. Money and Prices in the Town
+
+(See Chapter 13 for the full anchor sheet; the table below is the working subset for a town scene.)
+
+| Item                                | Price             |
+| ----------------------------------- | ----------------- |
+| Loaf of bread                       | 5¢                |
+| Beer (schooner)                     | 5¢                |
+| Whiskey (shot)                      | 10–25¢            |
+| Bottle of whiskey (rotgut / bonded) | $1–2 / $3–5       |
+| Hash-house meal / hotel meal        | 25–50¢ / $1–2     |
+| Hotel room (boarding / decent)      | 25¢–$1 / $1–3     |
+| Suit (ready-made)                   | $10–25            |
+| Boots (working / custom)            | $5–10 / $15–30    |
+| Stetson hat                         | $5–10             |
+| Levi's jeans (1873+)                | $1.50             |
+| Working saddle                      | $40–60            |
+| Colt SAA (1873)                     | $17               |
+| Winchester '73                      | $40–50            |
+| Box of pistol cartridges            | $1.50             |
+| Working horse                       | $25–50            |
+| Steer (Texas / delivered Kansas)    | $5–8 / $20–25     |
+| Stagecoach fare                     | 10–15¢ per mile   |
+| Train fare (coach)                  | 3–5¢ per mile     |
+| Telegram (first ten words)          | 50¢–$1 + per word |
+| Doctor visit / setting a bone       | $1–2 / $5         |
+| Shave / bath                        | 10¢ / 25¢         |
+
+A cowhand returning from a drive with a hundred dollars could spend it all in ten days of full hotel, full bottle, full table.
+
+---
+
+## 4. Law on the Frontier — Who Did What
+
+### The federal layer
+
+- **The deputy U.S. marshal** was a federal officer with jurisdiction in federal cases — mail robbery, federal land disputes, crimes in federal territories, crimes in Indian Territory. The most respected lawmen on the frontier. Bass Reeves, Heck Thomas, Bill Tilghman, Chris Madsen — the _Three Guardsmen_ of Indian Territory — were deputy U.S. marshals. Paid by fee: so much per arrest, mileage, return.
+- **The U.S. marshal** was the administrative head, appointed by the President, ran the deputies, kept a courthouse office.
+- **The federal court:** Judge Isaac Parker at Fort Smith, Arkansas had jurisdiction over the Indian Territory through the 1880s — the _Hanging Judge,_ who sent seventy-nine men to the gallows.
+
+### The territorial / state layer
+
+- **The sheriff** was the elected county officer who served warrants, ran the jail, collected county taxes, served civil process, and could appoint deputies. The most powerful local law in most Western counties.
+- **The Texas Rangers** were a state mounted force of approximately five hundred men in companies of thirty to eighty, with statewide jurisdiction. Effective and brutal. Suppressed Comanche raiding, hunted outlaws, fought Mexican raiders along the Rio Grande, and played a role in extralegal violence against Tejanos.
+- **Arizona Rangers** and
+- **New Mexico Mounted Police** were similar state forces, later — 1900s.
+
+### The town / municipal layer
+
+- **The town marshal** was hired by the town council with jurisdiction inside town limits. The town marshal in a cattle town like Dodge or Tombstone enforced the no-firearms-in-town ordinance (every cattle town had one in some form), broke up fights, walked his rounds at night, collected fines.
+- **The constable** was a lower municipal officer.
+- **The night watchman** was hired by businesses to walk a beat — often by Wells Fargo to guard the bank or the express office.
+
+### The private layer
+
+- **Pinkerton agents** worked for the national detective agency hired by banks, railroads, and mine owners. Strikebreakers — often brutally — bounty hunters, infiltrators. Hated in working-class country.
+- **Stock detectives and range detectives** were hired by the cattlemen's associations of Wyoming, Montana, and Texas. Some were killers (Tom Horn). The Johnson County War (Wyoming, 1892) was fought between the large ranchers' detectives and the small ranchers and homesteaders.
+- **Wells Fargo detectives** investigated stage and express robberies; James B. Hume was the most famous.
+- **Private guards** for companies, mines, and ranches.
+
+### The extralegal layer
+
+- **Vigilance committees** were self-appointed citizen groups that arrested, tried, and hanged suspected criminals when (or before) the legal authority acted. The famous: the San Francisco Committee of Vigilance (1851 and 1856), the Montana Vigilantes (1864–65, who hanged Sheriff Henry Plummer's gang in Bannack and Virginia City), the Ku Klux Klan and the White Leagues in the Reconstruction South.
+- **Lynch mobs** were less organized than vigilance committees — a crowd, sometimes drunk, that took a prisoner from the jail and hanged him. Common. Jails in the West frequently lost their prisoners.
+- **Posses** — a sheriff or marshal could deputize the _posse comitatus,_ any able-bodied man within his jurisdiction, to pursue a fugitive. A posse was the line between law and mob, and the line moved.
+
+---
+
+## Saturday Night in Front Street
+
+> The piano in the Long Branch was working over a tune nobody could place. The cowhands from the Slaughter outfit had come into town that afternoon, their horses tied three deep at the rail, and were down to silver dollars and shouting. Wyatt walked the boardwalk on the north side with the eight-pointed star on his vest and a sawed-off Belgian gun under his arm. The deadline ran along the tracks. The boys knew the deadline. None of them had crossed. One of them — Cleveland, the youngest, no older than seventeen — was in the alley between the saloon and the dance hall with a girl named May, and his pay for four months on the trail was in May's silk garter inside half an hour. Wyatt did not look down the alley. The piano kept on. The night went forward. A pistol shot from the south side a little after midnight; nobody dead, somebody's hat ruined. Wyatt walked back the other way and the lamps in the front windows of the saloons threw long yellow blocks on the dust of the street.
+
+---
+
+## 5. The Court
+
+The justice of the peace was the local elected magistrate. He heard small civil cases and minor criminal matters, could marry people, swore out warrants, fined drunks. He did not need legal training in most jurisdictions. The police court or mayor's court heard ordinance violations in town. The county or district court heard the major cases — often a circuit judge who rode a circuit of several counties, holding court in each in season.
+
+A trial: twelve-man jury. The accused had counsel if he could pay. Court-appointed counsel for capital cases by the 1880s in most jurisdictions. Witness testimony, cross-examination, closing arguments. Verdict.
+
+The sentence: hanging for murder in most jurisdictions, replaced by long prison terms in the 1890s in some states. Penitentiary for serious felonies — Yuma in Arizona, Cañon City in Colorado, Deer Lodge in Montana, Huntsville in Texas, Leavenworth federal. County jail for misdemeanors. Fines.
+
+A real frontier trial sounded quick — a murder trial often lasted one or two days. Crowded; the town turned out. The press was present; the newspaper printed the testimony in full. The hanging, when it came, was public, well attended (in some places by ticketed admission), and followed by a picnic. Public hangings were largely abolished by state law in the late nineteenth century, but private ones (with selected witnesses inside the jail yard) continued.
+
+---
+
+## 6. The Reality of Frontier Crime
+
+Two corrections to the popular myth.
+
+- **Most western towns were not violent.** Dodge City in its peak year had five killings. Tombstone in 1881 had five (one was the OK Corral). A modern American city of the same size has more. The bulk of arrests in any cattle town were for drunkenness, disorderly conduct, and prostitution — the latter licensed and fined as a revenue source.
+- **The big violence was in the country, not the town.** Range wars, Indian Wars, vigilante actions in the unsettled country, the lynching of Mexicans and Black men in the Texas borderlands and the Reconstruction South, the killing of homesteaders by hired guns of the cattle barons — the West's real body counts were here. The _gunfighter walking the dusty street at high noon_ is a single tradition out of many. Use it sparingly. Use the rest.
+
+---
+
+## 7. The Big Picture of the Economy
+
+The West was a colonial economy supplying raw materials to the industrial East and to Europe. **Cattle:** beef on the hoof shipped east; hides shipped to Europe; tallow for candles and soap. **Mining:** gold, silver, copper, lead, zinc shipped east and to Europe. **Hides and furs:** buffalo hides (1872–83) shipped east for industrial belting and for fashionable robes; beaver had been the trade of the mountain men a generation earlier. **Lumber:** Sierra and Pacific Northwest timber. **Wheat:** California, Kansas, the Dakotas — shipped east and to Europe. **Wool:** the New Mexico, Wyoming, and Montana sheep flocks.
+
+The frontier was capital-poor. Eastern and European money financed the cattle barons (Scottish syndicates owned vast ranches in Wyoming and the Texas Panhandle). British and Eastern money financed the railroads. Local currency was scarce. Credit ran the small economy.
+
+This reality is missed in the screen-cowboy western. The cattle baron in the page version is not a man on a horse — he is a syndicate, a New York or Edinburgh director who has never been west of Pittsburgh. The drover who works for him is the bottom of a long financial chain whose top sits in a London office. Write this and the West gets larger and stranger.
+
+---
+
+## 8. What the Town Smells Like, Sounds Like
+
+- **Smell.** Horse manure in the street, constant — a town of two thousand had perhaps a thousand horses. Wood smoke from cookstoves and forges. Bakery bread in the morning. Tobacco. Whiskey through the saloon doors. Coal smoke from the railroad. Outhouse stench in summer. Flowers in the spring along the fenced yards of the respectable houses.
+- **Sound.** Wagon wheels on dirt or on plank sidewalks. Iron shoes on the same. Hammers in the smith's shop. Piano in the saloon at night, badly tuned. The locomotive's whistle three times a day. The court bell. The school bell. The church bell on Sunday. Drunks shouting in the late hours. A pistol shot now and then, often at the moon.
+- **Sight.** Mud or dust in the streets, depending on weather. False-front frame buildings with the storefront one story taller than the building behind. Boardwalks with hitching rails out front. Tied horses. Loose dogs. Children. Few trees in most western towns; planted ones were a status symbol.
+
+A town scene with two or three of these on the page reads true. A town scene with none reads like a movie set, which is what too many published westerns settle for.

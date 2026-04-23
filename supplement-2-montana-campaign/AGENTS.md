@@ -61,10 +61,38 @@ This folder is for outlaw-band planning, ledgers, and development notes.
 When writing manuscript prose for this supplement:
 
 - follow the `western-writing` skill guidance
+- run a mandatory final pass against `skills/western-writing/references/anti-ai-patterns.md`
+- use [research/07-npc-creation-helper.md](/mnt/c/git-public/tales-of-the-old-west-2e/supplement-2-montana-campaign/research/07-npc-creation-helper.md) whenever creating named NPCs, generic NPCs, or appendix statblocks
+- use [research/08-location-statblock-helper.md](/mnt/c/git-public/tales-of-the-old-west-2e/supplement-2-montana-campaign/research/08-location-statblock-helper.md) whenever creating settlement, village, farm, ranch, camp, ferry, roadhouse, fort-orbit, or other location statblocks
 - keep chronology locked to `1873`
 - distinguish verified history from plausible synthesis and fictionalized table content
 - preserve the gritty, concrete, non-generic prose register used elsewhere in the repo
 - avoid planning language in manuscript files
+
+## Mandatory Tone
+
+This is mandatory for final prose in `book-content/`.
+
+- write in hard, plain, concrete sentences
+- prefer physical facts over thematic explanation
+- end paragraphs on weight: a noun, a body, a piece of weather, a threat, a refusal
+- do not write in essay voice, blog voice, hype voice, or summary voice
+- do not stack abstract contrasts when a concrete example will do the work
+- do not use AI-signature phrasing from `anti-ai-patterns.md`
+- if a sentence sounds like it is explaining the setting from above it, rewrite it from the ground
+- if a paragraph could fit in a generic RPG sourcebook, cut it and write it again
+- **Vary Sentence Length and Structure**: Do not exclusively use short, declarative sentences. Mix long, rhythmic sentences carrying sensory detail with occasional short, punchy sentences for dramatic impact. Never start three consecutive sentences with the same pronoun or noun.
+- **Show, Don't Tell (No Signposting)**: Do not write sentences holding the reader's hand like "This distinction matters to a campaign because..." or "Players should note that...". Present the brutal realities of the setting (weather, bribery, distances) and let those facts inherently prove why they matter.
+- **Avoid 'AI Meta-Commentary'**: Never address the reader's expectations directly (e.g., "If your knowledge comes from films..." or "Foreign readers should note..."). Write with total narrative confidence.
+- **Banish Formulaic Transitions & Paragraphs**: Do not use words like _Furthermore, Moreover, In conclusion, As such, It is important to note_. Ban the "five-paragraph essay" structure (topic sentence, three supporting lines, concluding summary). Let the ideas flow naturally from one paragraph into the next based on narrative momentum.
+- **Ground Descriptions in the Concrete**: Instead of saying "the economy was expanding," describe what that looks like: "the sudden arrival of assay offices, fraudulent deeds, and heavy freight wagons choking the muddy roads."
+- **Kill the Adjectives and Adverbs**: Delete words like _rugged, menacingly, suddenly, very, extremely_. Rely on strong verbs and precise nouns. Instead of saying the man "walked dangerously," say he "carried a shotgun loose across his saddle pommel."
+- **Ban AI Cliché Language**: Absolutely no usage of words like _tapestry, crucible, delve, testament to, stark reminder, navigate, landscape of, bustling, vibrant_.
+- **Unflinching Realism**: Do not sanitize the Old West. Write plainly about the disease, the freezing mud, the starvation, the overt racism, and the cruelty. Do not apologize for it, over-explain it, or romanticize it. Treat the setting with a cold, documentary eye.
+- **Dialogue Formatting**: Whenever the manuscript includes read-aloud text or direct spoken lines, use proper quotation marks and italicize the spoken words. For stand-alone spoken lines in scene text, prefer blockquote formatting, for example `> _"Saddle up."_`
+- **Preserve all Markdown Structure**: Maintain all bullet lists, numbered lists, blockquotes, and tables exactly as they are architected. Rewrite the content inside the structures, but never flatten a list into a paragraph.
+- **No Information Loss**: You are changing the tone, not the data. Every period price, named historical figure, date, and defined game term must survive the translation. Do not delete facts to achieve a sparser tone. Minimal removal of historical text—if you remove detail the reader may want, recover it.
+- **1-to-1 Translation of Dictionaries/Lists**: When encountering a list of slang, items, or gear, translate each item on its own dedicated line.
 
 ## Structural Standard
 

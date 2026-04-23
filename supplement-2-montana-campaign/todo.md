@@ -14,9 +14,9 @@ This document is the master plan for building a massive sandbox campaign supplem
 ## Product Spine
 
 - [x] Write territory introduction and scope statement
-- [ ] Write brief history of Montana Territory to January 1873
-- [ ] Write landscape chapter summary for western valleys, mining belt, Missouri corridor, and northern/eastern plains
-- [ ] Define the central sandbox proposition for the whole book
+- [x] Write brief history of Montana Territory to January 1873
+- [x] Write landscape chapter summary for western valleys, mining belt, Missouri corridor, and northern/eastern plains
+- [x] Define the central sandbox proposition for the whole book
 - [ ] Decide whether the core territory-wide campaign spine is a single conspiracy or three competing macro-conflicts
 - [x] Audit the user's Montana thesis against dated historical context
 - [x] Produce a first settlement-scope proposal
@@ -120,6 +120,10 @@ This document is the master plan for building a massive sandbox campaign supplem
 - [ ] Add law-and-order escalation tables
 - [ ] Add outlaw retaliation tables
 - [ ] Add Army intervention tables
+- [x] Create detailed opening-adventure event plan with 18-20 beats and branching dilemmas
+- [x] Write NPC creation helper for Montana adventure and settlement appendix work
+- [x] Draft starter adventure manuscript chapter `02`
+- [x] Draft appendix chapter `02A` statblocks for named starter-adventure cast
 
 ## Prompt Queue
 
@@ -171,10 +175,11 @@ Use these as prompt-sized writing tasks.
 44. [ ] Build cattle, horse, freight, and mining price anchors specific to Montana.
 45. [ ] Build a quick-start campaign opening in three different regions.
 46. [ ] Build an outlaw campaign start package using the same territory.
+47. [ ] Convert the Yellowstone opener plan into a full session-by-session manuscript draft with named NPCs and TotOW2e hooks.
 
 ## Deliverables Checklist
 
-- [ ] Master territory chapter
+- [x] Master territory chapter
 - [ ] Major settlement chapter set
 - [ ] Moderate settlement chapter set
 - [ ] Faction dossier

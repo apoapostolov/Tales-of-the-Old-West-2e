@@ -8,7 +8,7 @@ A price in 1875 measured the distance between a man and what he wanted. The pinc
 
 ## 1. Wages — The Working West
 
-A worker's wage is the most useful anchor a scene can carry. It tells the reader what a man's day is worth and lets the reader weigh every price against it.
+A worker's wage sets the anchor. It marks what a man's day is worth and weighs the prices against the sweat.
 
 ### Cattle country
 
@@ -23,7 +23,7 @@ A worker's wage is the most useful anchor a scene can carry. It tells the reader
 | Ranch foreman (resident)          | $60–100/month + found               |
 | Stock detective / range detective | $100–150/month + expenses           |
 
-_Found_ means food, lodging, and sometimes a horse — cash pay only, on top. Drovers were paid for the months of the drive (April–October typically) and then turned out. A drive ran four to six months; a cowhand finished a typical drive with $100–$200 cash, and most spent it in two weeks on whiskey, women, gambling, hotel, clothing, and a good meal. _Broke as a cowboy in November_ is period.
+_Found_ provides the food, the lodging, and the horse. The money pays the rest. The syndicates paid the drovers for the heavy months of the drive (April to October) and turned them out. The drive ran four to six months. A cowhand closed the drive holding a hundred or two hundred dollars cash. He burned it in two weeks on the whiskey, the women, the faro bank, the hotel bed, the fresh clothing, and the heavy meals. _Broke as a cowboy in November_ held the truth.
 
 ### Mining country
 
@@ -39,7 +39,7 @@ _Found_ means food, lodging, and sometimes a horse — cash pay only, on top. Dr
 | Mine superintendent                  | $200–500/month                                  |
 | Assayer                              | $100–200/month                                  |
 
-The eight-hour day was a union demand from the 1860s; the ten-hour day was common. Mining-camp prices ran two to three times cattle-country prices because everything came in by mule until the railroad reached the camp.
+The men struck for the eight-hour day from the 1860s; the ten-hour shift broke the men in the dark. The mining-camp prices doubled or tripled the cattle-country prices. The mules packed the freight up the raw dirt grades until the iron reached the camp.
 
 ### Railroad
 
@@ -54,7 +54,7 @@ The eight-hour day was a union demand from the 1860s; the ten-hour day was commo
 | Stationmaster                    | $50–100/month  |
 | Surveyor                         | $100–200/month |
 
-The Chinese laborers who built the Central Pacific were paid $30/month _with no found_ — they bought their own food and lodging — substantially less than the white workers who were paid $35/month _with found._
+The syndicate paid the Chinese laborers building the Central Pacific thirty dollars a month _with no found_. The men bought their own food and constructed their own lodging. The syndicate paid the white workers thirty-five dollars a month _with found._
 
 ### Military
 
@@ -69,7 +69,7 @@ The Chinese laborers who built the Central Pacific were paid $30/month _with no 
 | Major             | $200/month + allowances         |
 | Colonel           | $300+/month + allowances        |
 
-Pay was higher in the field, on re-enlistment, and for skilled trades (farrier, saddler, bandsman). The Buffalo Soldiers (the all-Black 9th and 10th Cavalry, 24th and 25th Infantry) drew the same pay as white soldiers — equal pay was unusual for Black labor of the period, and the Army was the largest employer of Black men in the country at standard white wages.
+The War Department raised the pay in the field, upon the re-enlistment, and for the skilled men (the farrier, the saddler, the bandsman). The Buffalo Soldiers—the Black cavalrymen of the 9th and 10th, the infantrymen of the 24th and 25th—drew the exact pay of the white soldiers. The equal pay broke the standard custom for the Black labor of the period. The Army stood as the heavy employer of the Black men at the uniform white rate.
 
 ### Trades and town
 
@@ -99,13 +99,13 @@ Pay was higher in the field, on re-enlistment, and for skilled trades (farrier, 
 | Town marshal                   | $75–125/month + fees                 |
 | Deputy U.S. Marshal            | per fee + mileage                    |
 
-The schoolmarm was paid less than the male teacher, by custom. Bass Reeves, Heck Thomas, and the other deputy marshals worked for fees and mileage — a successful deputy made a good living, an unsuccessful one starved.
+The town paid the schoolmarm less than the male teacher. Bass Reeves, Heck Thomas, and the deputy marshals rode the territory for the fees and the mileage. The successful deputy lived well. The unsuccessful man starved.
 
 ### Domestic, service, and the trade
 
-A laundress earned fifty cents to a dollar a day or per piece. A domestic servant earned eight to fifteen dollars a month with room and board. A private cook fifteen to twenty-five. A wet nurse ten to fifteen a week. A midwife five to fifteen per delivery. A seamstress fifty cents to a dollar a day. A hash-slinger waitress twenty to thirty a month plus room, board, and tips.
+The laundress washed the shirts for fifty cents to a dollar a day, or charged by the piece. The domestic servant cleaned the house for eight to fifteen a month, holding the room and the board. The private cook earned fifteen to twenty-five. The wet nurse took ten to fifteen a week. The midwife caught the baby for five to fifteen the delivery. The seamstress worked the cloth for fifty cents to a dollar the day. The hash-house waitress took twenty to thirty a month, drawing the room, the board, and the coins left on the table.
 
-In the trade, a top parlor-house madame who owned her house and took a share might clear three hundred to a thousand dollars a month or more. A parlor-house woman fifty to a hundred and fifty dollars a week kept. A dance-hall girl fifteen to thirty dollars a week plus commission on drinks. A saloon girl ten to twenty plus commission. A crib girl five to fifteen kept — the bottom of the trade.
+In the trade, the heavy parlor-house madame who owned her property and took the house share cleared three hundred to a thousand dollars the month. A parlor-house woman kept fifty to a hundred and fifty dollars a week. The dance-hall girl spun the men for fifteen to thirty dollars a week against a commission on the poured drinks. The saloon girl took ten to twenty and the commission. The crib girl kept five to fifteen in the cramped darkness, marking the bottom of the trade.
 
 ---
 
@@ -128,13 +128,13 @@ In the trade, a top parlor-house madame who owned her house and took a share mig
 | Coffee (cup, restaurant)              | 5¢     |
 | Tea (cup, restaurant)                 | 5¢     |
 
-A working cowman walking into a saloon with $5 silver in his pocket can drink for two days. With $50 he can drink and gamble and visit the women for a week. With $100 he can do all of that and ride out broke.
+A working cowman walked into a saloon with a five-dollar gold piece. He drank for two days. He walked in with fifty dollars; he drank, he gambled the faro bank, he climbed the stairs to the women, and he kept the run for a week. He walked in with a hundred dollars, lived like an Eastern king, and rode out broke on the seventh morning.
 
 ### Food at the mercantile
 
-Flour ran three to five cents a pound, cornmeal two to four. Granulated sugar eight to twelve cents, loaf ten to fifteen. Salt two to four. Green-bean coffee twenty to thirty cents a pound, Arbuckles' Ariosa twenty-five to thirty-five. Tea fifty cents to a dollar fifty. Dried beans five to eight cents, rice eight to twelve, lard ten to fifteen in the tin pail. Sliced bacon ten to eighteen, salt pork eight to twelve, ham twelve to twenty. Fresh beef from the butcher eight to twelve a pound, pork ten to fifteen. Eggs (when available) fifteen to thirty cents the dozen. Butter (when available) twenty-five to forty a pound. Cheese fifteen to twenty-five.
+The flour cost three to five cents the pound, the cornmeal two to four. The granulated sugar set the clerk at eight to twelve cents, the heavy loaf sugar at ten to fifteen. Salt ran two to four. The raw green-bean coffee weighed out at twenty to thirty cents the pound; the Arbuckles' Ariosa pushed twenty-five to thirty-five. The tea commanded fifty cents to a dollar fifty. The dried beans sold for five to eight cents, the rice eight to twelve, the lard ten to fifteen in the tin bucket. The butcher sliced the bacon for ten to eighteen cents, the cut salt pork for eight to twelve, the ham for twelve to twenty. The fresh beef off the block went eight to twelve a pound, the pork ten to fifteen. The eggs commanded fifteen to thirty cents the dozen when the farmer brought them. The butter brought twenty-five to forty a pound. The cheese ran fifteen to twenty-five.
 
-Canned milk (Borden's) twenty-five to forty cents a can. Canned tomatoes fifteen to twenty-five, canned peaches twenty-five to forty, canned oysters twenty-five to fifty. Crackers ten to fifteen a pound from the barrel; hardtack five to ten. Pickles a nickel each from the barrel. Molasses fifty cents to a dollar a gallon. Vinegar twenty-five to fifty. Dried apples ten to fifteen cents a pound, dried peaches twelve to eighteen, raisins fifteen to twenty-five. Pepper, cinnamon, nutmeg ten to twenty-five cents the ounce. A yeast cake a nickel.
+The clerk passed the Borden's canned milk across the counter for twenty-five to forty cents the can. The tins of tomatoes cost fifteen to twenty-five, the heavy peaches twenty-five to forty, the canned oysters twenty-five to fifty. The crackers broke out of the barrel at ten to fifteen cents a pound; the hardtack sold for five to ten. The clerk pulled the pickles from the brine with the wooden tongs for a nickel each. The clerk drew molasses from the spigot for fifty cents to a dollar the gallon. The vinegar stood at twenty-five to fifty. Dried apples ran ten to fifteen cents the pound, the peaches twelve to eighteen, the heavy raisins fifteen to twenty-five. The pepper, the cinnamon, and the nutmeg demanded ten to twenty-five cents the ounce. A yeast cake cost a nickel.
 
 ### Restaurant meals
 
@@ -152,31 +152,31 @@ Canned milk (Borden's) twenty-five to forty cents a can. Canned tomatoes fifteen
 
 ### Lodging
 
-A bunkhouse bunk was free for hands. A boarding-house room ran twenty-five cents to a dollar a night, four to eight a week. A frame-hotel single ran a dollar to two a night, a decent hotel two to three, a grand hotel single three to five and a suite five to ten. A Pullman berth on the train was two to three dollars the night. A stable for one horse fifty cents to a dollar; with feed seventy-five cents to a dollar fifty. Camping outside town was free.
+The bunkhouse bunk cost the ranch hand nothing. A boarding-house room took twenty-five cents to a dollar a night from a man, four to eight the week. The frame-hotel single took a dollar or two the night, the decent hotel two to three, the grand hotel single three to five, and the heavy suite five to ten. The porter folded the Pullman berth on the train for two to three dollars the night. A man stood his horse in the stable for fifty cents to a dollar; he fed the beast for seventy-five cents to a dollar fifty. The men camping on the dirt outside the town limit paid nothing.
 
 ### Tobacco and personal services
 
-A plug of chewing tobacco ran ten to twenty-five cents. A pouch of loose smoking ten to twenty-five. A small bag of Bull Durham five to ten. Cigars ran from a nickel for the cheap one to ten or fifteen for a decent one to twenty-five or fifty for a premium Cuban. A clay pipe a nickel or a dime; a corncob or briar twenty-five to fifty.
+The man bit the cut-plug chewing tobacco for ten to twenty-five cents. He paid ten to twenty-five for the pouch of loose smoking leaf. The small bag of Bull Durham ran a nickel to a dime. The cigars set him back a nickel for the swept floor sweepings, ten or fifteen cents for a decent roll, and twenty-five or fifty for the premium Cuban heavy leaf. The fragile clay pipe cost a nickel or a dime; the heavy corncob or the briar sold for twenty-five to fifty.
 
-A haircut a quarter, a shave a dime to fifteen cents, a bath a quarter to fifty cents, a hot bath with towel fifty cents. A shoeshine a nickel or a dime. Laundry a nickel to a dime per shirt, a quarter to fifty cents per dress. Mending ten to twenty-five cents a garment. A tintype photograph a quarter to fifty cents; a cabinet card a dollar to two; several copies three to five.
+The barber sheared the hair for a quarter, scraping the jaw for a dime or fifteen cents. He drew the bath for a quarter or fifty cents. The boy shined the leather boots for a nickel or a dime. The Chinese laundry washed the heavy work shirt for a nickel or a dime, and scrubbed the dress for a quarter or fifty cents. The mending ran ten to twenty-five cents the garment. The photographer shot the tintype image for a quarter or fifty cents; he shot the heavy cabinet card for a dollar or two, charging three to five for the bundled copies.
 
 ### Communications
 
-Letter postage was three cents the half-ounce within the United States; foreign five to ten cents; postcard a penny. The local weekly newspaper was a nickel a copy and two to five dollars the year. A telegram of the first ten words ran twenty-five to fifty cents locally and a dollar to two transcontinentally, with two to ten cents per additional word. International cable was a dollar to three per word.
+The stage and the rail ran the letter at three cents the half-ounce within the borders; they crossed the ocean for five to ten cents. The postcard cost a penny. The local weekly printed the ink for a nickel the copy and two to five dollars the year. The telegraph clerk tapped the key for twenty-five to fifty cents locally on the first ten words, and a dollar or two on the transcontinental line, charging two to ten cents on the added word. The international cable crossed the deep water for a dollar to three the word.
 
 ---
 
 ## Settling Up
 
-> Ramsey came down to the mercantile the morning after the drive paid off and laid out what he owed against the year. The sheriff had wanted his fee for the inquest on the Mexican boy who had drowned at Doan's, ten dollars. The doctor had wanted his fee for the broken arm Jim had taken in the stampede at the Cimarron, eight. The smith had wanted a dollar fifty for the new shoes on the bay. The bunkhouse cook had wanted a dollar he had advanced Charlie at Caldwell. Ramsey paid them out of the leather pouch on his hip, in twenty-dollar gold pieces and in silver dollars and in Mexican pesos that the merchant weighed on the small balance and credited at face. When he was done he had four gold pieces and eleven silver dollars left and he was the closest thing to rich he had been in three years. He bought a new hat and a Sunday coat and rode home.
+> Ramsey walked down the dirt street to the mercantile in the morning sun. The drive had paid off in the night. He laid out what he carried against the ledger for the year. He owed the sheriff the ten-dollar fee for the inquest on the Mexican boy who drowned at Doan's crossing. He owed the doctor the eight dollars for setting Jim's broken arm in the stampede at the Cimarron. He owed the blacksmith a dollar fifty for the new iron shoes on the bay horse. He owed the bunkhouse cook the silver dollar he advanced Charlie at Caldwell. Ramsey paid the men out of the heavy leather pouch riding his hip. He laid down the twenty-dollar gold pieces, the silver dollars, and the heavy Mexican pesos. The merchant weighed the pesos on the small brass balance and credited the man at face. When Ramsey finished he stood holding four gold pieces and eleven silver dollars. He stood the closest to rich he had been in three years. He bought a Stenton hat and a Sunday coat and rode out.
 
 ---
 
 ## 3. Transportation — Fares and Hires
 
-Stagecoach fare ran ten to fifteen cents a mile. Train fare in coach three to five cents a mile, first class five to ten, the emigrant car one to three. The Pullman berth two to three dollars a night extra. New York to San Francisco in 1879 was forty to sixty in coach, a hundred to a hundred and fifty first class, twenty to thirty in emigrant. Steamboat fare on the Missouri or Mississippi ran fifty cents to two dollars per hundred miles. Freight by rail ran one to three cents the ton-mile; by wagon ten to twenty.
+The stagecoach company collected ten to fifteen cents the mile. The railroad conductor punched the coach ticket at three to five cents the mile, the first class at five to ten, the wooden emigrant car at one to three. The Pullman porter charged two to three dollars the night for the berth. A man rode the iron from New York to San Francisco in 1879 for forty to sixty dollars in coach, a hundred to a hundred and fifty first class, twenty to thirty in the emigrant car. The steamboats thrashing the Missouri or the Mississippi commanded fifty cents to two dollars the hundred miles. The railroad hauled freight at one to three cents the ton-mile; the heavy dead-axle wagons dragged it through the dirt for ten to twenty.
 
-Hire a buggy and team for the day, two to five dollars. Hire a saddle horse for the day, a dollar to two. Stage relays were included in the fare.
+A man hired the buggy and the driving team for two to five dollars the day. He hired a saddle horse for a dollar or two. The stagecoach company covered the heavy horse relays in the set ticket fare.
 
 ---
 
@@ -206,97 +206,97 @@ Hire a buggy and team for the day, two to five dollars. Hire a saddle horse for 
 
 ### Tack, saddles, clothing
 
-A working Texas saddle, plain, ran forty to sixty dollars. A custom Spanish-rigged ornate saddle a hundred to two hundred. A working bridle five to ten; a silver-mounted bridle twenty-five to a hundred. A saddle blanket two to five. A forty- to fifty-foot lariat, hemp or rawhide, two to five. Working spurs two to five; silver-inlaid spurs fifteen to fifty. A quirt one to three. Working leather chaps five to fifteen; woolly chaps and batwings ten to twenty-five. Working boots five to ten; custom boots fifteen to thirty. A Stetson Boss of the Plains five to ten; a premium Stetson ten to twenty. A bandanna twenty-five to fifty cents. Levi's jeans a dollar fifty. A wool shirt a dollar to two; a cotton shirt fifty cents to a dollar fifty. Wool trousers two to four. A working wool coat five to ten. A buffalo winter coat twenty-five to fifty.
+The working Texas saddle—plain, heavy leather—cost forty to sixty dollars. The custom Spanish-rigged saddle, stamped and heavy, took a hundred to two hundred. The working bridle ran five to ten dollars; the silver-mounted bridle twenty-five to a hundred. The saddle blanket cost two to five. The lariat—forty or fifty feet of hemp or braided rawhide—swung for two to five. The working spurs ran two to five; the silver-inlaid iron demanded fifteen to fifty. The quirt cost one to three. The working leather chaps took five to fifteen; the woolly chaps and the heavy batwings grabbed ten to twenty-five. The bootmaker sold the working boots for five to ten dollars; the custom pair drew fifteen to thirty. A Stetson Boss of the Plains hat brought five to ten; the premium felt brought ten to twenty. A bandana cost twenty-five to fifty cents. Levi's riveted jeans carried a price of a dollar fifty. The heavy wool shirt ran a dollar or two; the cotton shirt fetched fifty cents to a dollar fifty. Wool trousers cost two to four. The working wool coat held at five to ten dollars. The heavy buffalo winter robe brought twenty-five to fifty.
 
 ### Horses and stock
 
-A working cow horse ran twenty-five to fifty dollars. A trained cutting horse seventy-five to a hundred and fifty. A race horse two hundred to a thousand and up. A riding or pack mule seventy-five to a hundred and fifty; a draft mule a hundred and fifty to two hundred and fifty. A draft ox fifty to a hundred. A Texas longhorn steer in Texas five to eight dollars; the same steer delivered Kansas twenty to twenty-five. A dairy cow twenty-five to fifty. A brood mare forty to eighty. A decent stallion a hundred to three hundred; a Thoroughbred or Spanish-blooded stallion five hundred to two thousand. A laying hen twenty-five to fifty cents. A hog five to fifteen dollars. A sheep a dollar fifty to three.
+The working cow horse rode for twenty-five to fifty dollars. The trained cutting horse doubled that, seventy-five to a hundred and fifty. The fast race horse burned two hundred to a thousand and beyond. The riding or pack mule sold for seventy-five to a hundred and fifty; the heavy draft mule pushed a hundred and fifty to two hundred and fifty. The draft ox pulled for fifty to a hundred. A Texas longhorn steer in Texas brought five to eight dollars; the same heavy steer delivered to the Kansas railhead brought twenty to twenty-five. A dairy cow sold for twenty-five to fifty. The brood mare went forty to eighty. The stallion started at a hundred to three hundred; the Thoroughbred or the Spanish-blooded stallion cost five hundred to two thousand the head. The laying hen brought twenty-five to fifty cents. The heavy hog ran five to fifteen dollars. The sheep cost a dollar fifty to three.
 
 ---
 
 ## 5. Tools, Household, Land
 
-An axe ran a dollar to two. A hatchet fifty cents to a dollar. A hammer the same. A handsaw one to three. A walking steel plow fifteen to twenty-five; a sulky riding plow twenty-five to fifty. A reaper a hundred and fifty to two hundred and fifty; a mower a hundred to a hundred and fifty.
+The man bought the axe for a dollar or two. The hatchet cost him fifty cents or a dollar. The hammer cost the same. He pulled the handsaw for one to three dollars. The walking steel plow broke the earth for fifteen to twenty-five; the sulky riding plow cost twenty-five to fifty. McCormick's heavy reaper sold for a hundred and fifty to two hundred and fifty; the mower cost a hundred to a hundred and fifty.
 
-A small sheet-iron cookstove ten to twenty-five dollars; a cast-iron range forty to a hundred. A parlor heating stove fifteen to fifty. A Singer sewing machine fifty to a hundred; cheaper brands twenty-five to fifty. A wringer washtub five to fifteen. A hand kerosene lantern a dollar to two; a table kerosene lamp one to three. Kerosene twenty-five to forty cents the gallon. A box of a hundred matches five to ten cents. A bar of soap five to ten cents. A tin plate or tin cup five to fifteen cents. A tin coffee pot a quarter to fifty cents. A cast-iron Dutch oven a dollar fifty to three. A cast-iron skillet one to two. A quart Mason jar five to ten cents.
+The small sheet-iron cookstove warmed the room for ten to twenty-five dollars; the heavy cast-iron range demanded forty to a hundred. The parlor heating stove brought fifteen to fifty. The Singer sewing machine cost fifty to a hundred; the cheaper iron models ran twenty-five to fifty. The wringer washtub sold for five to fifteen. The hand-carried kerosene lantern burned a dollar or two; the table lamp one to three. The kerosene poured at twenty-five to forty cents the gallon. The box of a hundred sulfur matches brought five to ten cents. The heavy bar of soap cost five to ten cents. The tin plate or the tin cup brought five to fifteen cents. The tin coffee pot cost a quarter or fifty cents. The heavy cast-iron Dutch oven sold for a dollar fifty to three. The cast-iron skillet brought one or two. A quart Mason jar cost five to ten cents.
 
-Calico ran eight to fifteen cents the yard, gingham ten to twenty, wool serge fifty cents to a dollar, broadcloth one to three. A ready-made dress five to fifteen. A ready-made suit ten to twenty-five; a tailored suit twenty-five to seventy-five.
+The clerk cut the calico from the bolt at eight to fifteen cents a yard, the gingham at ten to twenty. The wool serge cost fifty cents to a dollar a yard, the broadcloth one to three. The ready-made dress hung for five to fifteen dollars. The ready-made suit sold for ten to twenty-five; the tailored broadcloth suit ran twenty-five to seventy-five.
 
 ### Land
 
-A homestead under the 1862 Act was free with five years' residence and improvement plus a fourteen-dollar filing fee. A pre-emption claim ran $1.25 an acre after six months' residence. Railroad land grants on alternate sections went two to five dollars an acre. State school land one to two. Cash entry from the federal government $1.25. An improved farm in Iowa or Illinois twenty to forty an acre. Cattle range on the Texas open range was free. Fenced cattle range from the late 1870s ran ten cents to fifty cents an acre. A small frontier-town lot twenty-five to a hundred dollars; a boom-town lot five hundred to two thousand. A small frame frontier building two hundred to five hundred. A two-story brick commercial building two thousand to five thousand.
+The federal government granted the quarter-section homestead free after five years of heavy work and improvement, taking only the fourteen-dollar filing fee. The pre-emption claim sold for $1.25 an acre after six months' residence on the dirt. The railroad lands on the alternate sections sold for two to five dollars the acre. The state school land ran one to two dollars. The straight federal cash entry sold for $1.25. The improved working farm in Iowa or Illinois brought twenty to forty an acre. The open grass on the Texas plains ran free. The fenced cattle range of the later 1870s leased for ten cents to fifty cents an acre. The small dirt lot in the frontier town cost twenty-five to a hundred dollars; the heavy boom-town lot jumped to five hundred or two thousand. The rough frame building cost two hundred to five hundred to nail together. The two-story brick commercial building stacked two thousand to five thousand dollars.
 
 ---
 
 ## 6. Medical, Court, and Law
 
-A doctor's office visit ran a dollar to two. A house call in town two to five. A house call out of town twenty-five cents to a dollar a mile. Setting a broken bone five to ten dollars. Pulling a tooth a quarter to a dollar. Delivering a baby five to fifteen. Major surgery (an amputation) twenty-five to a hundred. A day in a Sister of Charity hospital fifty cents to a dollar. A bottle of patent medicine fifty cents to a dollar fifty. Quinine and laudanum twenty-five to fifty cents the ounce. Morphine five to ten cents the grain. A medicinal pint of whiskey fifty cents to a dollar. Eye glasses one to five.
+The doctor sat in the office for a dollar or two. He rode the horse through the town for two to five. He rode out into the county taking twenty-five cents to a dollar the mile. He set the shattered bone for five to ten dollars. He pulled the tooth with the pliers for a quarter or a dollar. He delivered the baby into the bloody sheets for five to fifteen. He amputated the crushed leg for twenty-five to a hundred. The Sisters of Charity offered the cot in the hospital for fifty cents to a dollar a day. The peddler sold the bottle of patent medicine for fifty cents to a dollar fifty. Quinine and laudanum brought twenty-five to fifty cents the ounce. The morphine took five to ten cents the grain. The medicinal pint of whiskey cost fifty cents to a dollar. Eye glasses cost one to five dollars.
 
-Filing a lawsuit one to five dollars. A lawyer's fee on a simple matter five to twenty-five; on a felony defense fifty to five hundred. Bail on a misdemeanor twenty-five to a hundred; on a felony five hundred to five thousand; on a capital charge denied or ten thousand and up. A marriage license one to three. Probate filing five to twenty-five. Recording a deed one to five. Filing a brand one to five. A notary fee a quarter to fifty cents per signature. Witness or juror fees a dollar to two a day. A coroner's inquest five to twenty-five. The sheriff's fee for a hanging twenty-five to a hundred.
+The man filed the lawsuit at the courthouse for one to five dollars. The lawyer took five to twenty-five dollars for the simple work. The felony defense commanded fifty to five hundred. The misdemeanor bail ran twenty-five to a hundred. The felony bail hung at five hundred to five thousand. The judge denied the capital bail or hung it at ten thousand and above. The marriage license cost one to three dollars. Probate filing cost five to twenty-five. Recording a land deed cost one to five. Filing the cattle brand took one to five dollars. The notary stamped the seal for a quarter or fifty cents. The witness or the juror took the hard benches for a dollar or two a day. The coroner held the bodies for an inquest at five to twenty-five. The sheriff hanged the condemned man taking twenty-five to a hundred dollars.
 
 ---
 
 ## 7. Distance and Time — How Far and How Long
 
-The other half of the anchor is _how far_ and _how long._ A character can leave Lampasas at sunup and reach Austin by nightfall (eighty miles) only on a fresh horse and a hard ride that would lame the horse. A character on the trail between Texas and Kansas does not arrive in three weeks; he arrives in three months. The wrong distance breaks the scene the way the wrong gear does.
+The second anchor was distance and time. The physical space separated a man from what he wanted. A man riding out of Lampasas at dawn hits Austin at nightfall (eighty miles) on a hard ride that breaks the horse. A man trailing the cattle from Texas does not see Kansas in three weeks; he sees it in three months. The broken distance breaks the reality. The referee guards the map.
 
 ### By foot
 
-Walking level and fresh, three miles an hour. Walking level all day, twenty-five miles in eight to ten hours. A military forced march thirty miles in a day, can be done two days running; an exceptional forced march forty miles in a day, hard on the men. A mountain trail one and a half to two miles an hour. Walking in snow without snowshoes, less than a mile an hour.
+The walking man covered three miles an hour on the flat dirt. He pushed twenty-five miles over the long day. A military column forced a heavy march at thirty miles the day for two days running, dropping the men. An exceptional march hit forty miles the day and broke the column. A man hauling himself up a mountain trail walked one and a half miles an hour. The snow dragged a man without the webs to short of a mile an hour.
 
 ### By horse
 
-Walking, four miles an hour. Trotting eight. Cantering twelve. Galloping twenty-five — sustained for one to three minutes only; longer ruins the horse. A long-day mixed walk-and-trot ride covers thirty-five to fifty miles in eight to ten hours. The Pony Express on relays of fresh horses made two hundred to two hundred and fifty miles in twenty-four hours. One man on one horse over a hard week makes two hundred and fifty to four hundred. A cattle drive on the trail keeps a ten- to fifteen-mile pace. A cavalry column on sustained march twenty-five to thirty miles a day.
+The horse walked four miles an hour. It trotted eight. It cantered twelve. It ran a full gallop at twenty-five miles an hour—but it held that pace for three minutes before the lungs failed and the beast broke. A man mixing the walk and trot covered thirty-five to fifty miles in an eight-hour day. The Pony Express riders changed the sweating horses and rode two hundred to two hundred and fifty miles in a day and a night. One man on one horse working a hard week crossed two hundred and fifty to four hundred miles. The cattle drive drifted ten to fifteen miles the day. The cavalry column pushed twenty-five to thirty miles the day on the long scout.
 
 ### By wagon
 
-An ox-drawn wagon covers two miles an hour and ten to fifteen miles a day, six to eight days a week to rest the oxen. A horse-drawn wagon three to four miles an hour and twenty to twenty-five miles a day. A mule-drawn freight wagon three miles an hour and twenty miles a day with a heavy load. A stagecoach on relays of fresh teams five to six miles an hour and a hundred to a hundred and twenty-five miles a day.
+The heavy oxen dragged the wagon two miles an hour through the dust. The man made ten to fifteen miles a day and rested the animals on the seventh day. The horse-drawn wagon moved three to four miles an hour, crossing twenty to twenty-five miles a day. The mule team pushed the heavy freight wagon three miles an hour, beating out twenty miles a day. The stagecoach company changed the teams at the swing stations, running five to six miles an hour, killing a hundred to a hundred and twenty-five miles a day.
 
 ### By rail
 
-A passenger express in 1875 averaged twenty-five to thirty-five miles an hour with forty to fifty top. A passenger local fifteen to twenty-five (frequent stops). Freight fifteen to twenty. New York to Chicago twenty-five to thirty-five hours. Chicago to Omaha twenty to twenty-four. Omaha to Sacramento (transcontinental) four to five days. Sacramento to San Francisco four hours. New York to San Francisco end-to-end seven days fast, ten typical.
+The passenger express rolled through the 1870s averaging twenty-five to thirty-five miles an hour, touching fifty on the flat iron. The local train stopped repeatedly, averaging fifteen to twenty-five. The freight hauled heavy at fifteen to twenty. A man rode the rail from New York to Chicago in thirty hours. He crossed from Chicago to Omaha in a day. He rode Omaha to Sacramento in five days. He broke from Sacramento to San Francisco in four hours. He rode from ocean to ocean in seven to ten days.
 
 ### By steamboat
 
-St. Louis to Bismarck upstream the Missouri, thirty to forty-five days. Bismarck to St. Louis downstream, ten to fifteen. St. Louis to New Orleans downstream the Mississippi, four to five. New Orleans to St. Louis upstream, ten to twelve.
+The boats pushed up the heavy Missouri current from St. Louis to Bismarck in a month or six weeks. The downriver run back to St. Louis took distinct ten or fifteen days. St. Louis to New Orleans ran downriver on the Mississippi in five days. Pushing back up to St. Louis against the water took ten to twelve.
 
 ### The trail drive (Texas to Kansas)
 
-Leaving south Texas in April or May; reaching the Red River crossing in four to five weeks (three to four hundred miles); crossing Indian Territory in six to eight weeks (another three to four hundred); reaching the Kansas trailhead — Abilene early, later Dodge or Caldwell — in June, July, or August. Total drive duration three to four months. Total distance eight hundred to fifteen hundred miles depending on origin and destination.
+The drives cut north from south Texas in April or May. The men pushed the cattle to the Red River crossing in a month (three to four hundred miles). They crossed the Indian Territory in two months (another three to four hundred). They smelled the Kansas railhead—Abilene early, Dodge or Caldwell later—in June, July, or August. A man pushed cattle on the trail for four months. He covered eight hundred to fifteen hundred miles on the horse.
 
 ### The freight haul
 
-Independence to Santa Fe, six to eight weeks. Santa Fe to Chihuahua, four to six. Salt Lake City to San Francisco, eight to ten. Bismarck or Cheyenne to Deadwood in the Black Hills, two to three weeks. Tucson to Camp Apache, five to seven days.
+The teamsters hauled the freight from Independence to Santa Fe in two months. They pushed from Santa Fe to Chihuahua in another six weeks. Salt Lake to San Francisco took two heavy months. Bismarck or Cheyenne to Deadwood took three weeks. Tucson to Camp Apache took five to seven days in the sun.
 
 ### The mail
 
-New York to San Francisco by rail, seven days in 1875. New York to Denver four. New York to Tucson (rail to El Paso, stage to Tucson) twelve to fifteen. New York to London by Cunard mail steamer, nine to ten. Western town to next county seat, one to three days. Western town to St. Louis, four to seven.
+The rail carried the mail sack from New York to San Francisco in seven days by 1875. New York to Denver took four. New York to Tucson took two weeks, the iron to El Paso and the stagecoach from there. The Cunard steamship carried the Atlantic letter to London in ten days. The stage ran the mail from one Western county seat to the next in three days. A letter from the frontier town hit St. Louis in a week.
 
 ### The telegram
 
-Any wired town to any wired town: minutes for transmission, plus a delivery boy at the destination (minutes to hours). New York to London by cable: hours.
+The key tapped a message from one wired town to another in minutes. A wired town to London across the transatlantic cable took the day. The messenger boy ran the raw paper to the hotel or the mercantile on foot.
 
 ---
 
 ## The Widow's Account
 
-> She set the basket on the counter and the merchant tipped his pencil to the page.
+> She set the heavy wicker basket on the counter. The merchant tipped his lead pencil to the page.
 >
-> “Five pounds flour. Two pounds beans. A pound of bacon. A quarter pound of coffee. A half pound of brown sugar. A tin of milk. Three boxes of matches. A bottle of laudanum the small bottle. A spool of black thread.”
+> "Five pounds flour. Two pounds beans. A pound of bacon. A quarter pound of coffee. A half pound of brown sugar. A tin of milk. Three boxes of matches. A small bottle of laudanum. A spool of black thread."
 >
-> The merchant wrote, then turned the page so she could see what he had written.
+> The merchant wrote. He spun the heavy ledger block so she could read the numbers.
 >
-> “Flour fifteen, beans sixteen, bacon fifteen, coffee seven, sugar five, milk thirty, matches fifteen, laudanum fifty, thread ten. One ninety-three.”
+> "Flour fifteen. Beans sixteen. Bacon fifteen. Coffee seven. Sugar five. Milk thirty. Matches fifteen. Laudanum fifty. Thread ten. One ninety-three."
 >
-> She nodded.
+> She nodded at the paper.
 >
-> “On the book?”
+> "On the book?"
 >
-> “Yes please.”
+> "Yes. Please."
 >
-> The merchant wrote again.
+> The merchant wrote the line.
 >
-> “Mrs. Pruitt your account is at twelve dollars and forty-seven cents. I do not press a widow but I would be obliged if some part could be paid by Christmas.”
+> "Mrs. Pruitt. Your account stands at twelve dollars and forty-seven cents. I do not press a widow, but I would be bound if some part could be paid before Christmas."
 >
 > “The boy will be fit to ride by then. He is doing the Henson's chores already and Mr. Henson has spoken of regular work at five dollars a month. We will pay it down, Mr. Sutton.”
 >
