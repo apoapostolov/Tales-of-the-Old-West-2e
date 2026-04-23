@@ -47,7 +47,7 @@ methodology.
 
 ## Active Prompt Queue
 
-### Prompt 1 — SKILL.md: Research + Feedback Pipeline Enhancement [ ]
+### Prompt 1 — SKILL.md: Research + Feedback Pipeline Enhancement [x]
 
 **Goal:** Extend SKILL.md with a Phase 0 (scope + research) prepended
 to the 14-step workflow, a Phase 3 (playtest → feedback → learnings)
@@ -59,54 +59,54 @@ appended, and updated library entries for all planned new files.
 
 **Changes:**
 
-1. [ ] After the line `Use this order when drafting a fresh adventure.
+1. [x] After the line `Use this order when drafting a fresh adventure.
 Skipping a step produces the failure modes...` and before step 1,
        insert two new steps:
-   - [ ] **Step 0a — Set scope before drafting.** One-shot / campaign
+   - [x] **Step 0a — Set scope before drafting.** One-shot / campaign
          chapter / mini-campaign. Set a word target and session count.
          See `references/scope-and-format.md`.
-   - [ ] **Step 0b — Run the research pipeline.** Primary sources,
+   - [x] **Step 0b — Run the research pipeline.** Primary sources,
          setting bibles, period grounding, worldbuilding verification.
          Do not draft until the world can answer six research questions.
          See `references/research-pipeline.md`.
          Renumber the existing steps 1-14 as steps 1-14 (no renumbering
          needed; steps 0a/0b are prepended as a Phase 0 block).
 
-2. [ ] After the current step 14, add a Phase 3 block:
-   - [ ] **Step 15 — Playtest.** Run the adventure at a live table or
+2. [x] After the current step 14, add a Phase 3 block:
+   - [x] **Step 15 — Playtest.** Run the adventure at a live table or
          arrange a controlled playtest. Take notes; do not intervene.
          See `references/playtesting.md`.
-   - [ ] **Step 16 — Collect structured feedback.** Run the post-session
+   - [x] **Step 16 — Collect structured feedback.** Run the post-session
          debrief 24 hours after the game. Use the feedback form. See
          `references/feedback-collection.md` and
          `templates/feedback-form.md`.
-   - [ ] **Step 17 — Triage and file learnings.** Categorize feedback
+   - [x] **Step 17 — Triage and file learnings.** Categorize feedback
          into: (a) fixes to this adventure, (b) patterns to avoid in
          future adventures, (c) patterns to replicate. File (b) and (c)
          in `learnings/`. See `learnings/README.md`.
 
-3. [ ] In the library section, add a new "**Phase 0: Process**" subsection
+3. [x] In the library section, add a new "**Phase 0: Process**" subsection
        with entries for all files listed in Prompts 2–4.
 
-4. [ ] Add a new "**learnings/**" subsection pointing to
+4. [x] Add a new "**learnings/**" subsection pointing to
        `learnings/README.md`.
 
-5. [ ] In "How to use this bible", add:
-   - [ ] Entry 10: For an investigation or mystery adventure, load
+5. [x] In "How to use this bible", add:
+   - [x] Entry 10: For an investigation or mystery adventure, load
          `references/investigation-structure.md` and
          `references/node-based-design.md`.
-   - [ ] Entry 11: For a horror adventure, load
+   - [x] Entry 11: For a horror adventure, load
          `references/horror-design.md`.
-   - [ ] Entry 12: For a one-shot, load `references/scope-and-format.md`
+   - [x] Entry 12: For a one-shot, load `references/scope-and-format.md`
          and `templates/one-shot-skeleton.md`.
-   - [ ] Entry 13: After every live session, run steps 15–17.
+   - [x] Entry 13: After every live session, run steps 15–17.
 
 **Validation:** SKILL.md should contain all 17 workflow steps, library
 entries for all planned files, and a learnings/ section.
 
 ---
 
-### Prompt 2 — Phase 0: `references/scope-and-format.md` [ ]
+### Prompt 2 — Phase 0: `references/scope-and-format.md` [x]
 
 **Goal:** Document the scope-setting discipline that precedes all
 drafting. Covers format decisions, structural constraints, and common
@@ -140,7 +140,7 @@ scope failures.
 
 ---
 
-### Prompt 3 — Phase 0: `references/research-pipeline.md` [ ]
+### Prompt 3 — Phase 0: `references/research-pipeline.md` [x]
 
 **Goal:** A systematic workflow for researching an adventure before
 drafting. Covers primary sources, period anchors, worldbuilding
@@ -181,7 +181,7 @@ verification, and when to stop researching.
 
 ---
 
-### Prompt 4 — Phase 3: `references/playtesting.md` [ ]
+### Prompt 4 — Phase 3: `references/playtesting.md` [x]
 
 **Goal:** How to run a controlled playtest: what to observe, what not
 to do, how to take notes, when to intervene, and what constitutes a
@@ -230,7 +230,7 @@ useful vs. useless playtest.
 
 ---
 
-### Prompt 5 — Phase 3: `references/feedback-collection.md` [ ]
+### Prompt 5 — Phase 3: `references/feedback-collection.md` [x]
 
 **Goal:** Structured post-session debrief protocol. How to collect
 actionable feedback from players and GM, how to resist defensive
@@ -278,7 +278,7 @@ responses, and how to convert raw feedback to usable learnings.
 
 ---
 
-### Prompt 6 — Phase 3: `templates/feedback-form.md` [ ]
+### Prompt 6 — Phase 3: `templates/feedback-form.md` [x]
 
 **Goal:** A printable/shareable post-session feedback questionnaire.
 Clean, short, and respecting player time.
@@ -303,7 +303,7 @@ Clean, short, and respecting player time.
 
 ---
 
-### Prompt 7 — `learnings/README.md` [ ]
+### Prompt 7 — `learnings/README.md` [x]
 
 **Goal:** Document the learnings folder system — its purpose, format,
 and how to create and use learning entries.
@@ -344,7 +344,7 @@ and how to create and use learning entries.
 
 ---
 
-### Prompt 8 — `references/investigation-structure.md` [ ]
+### Prompt 8 — `references/investigation-structure.md` [x]
 
 **Goal:** A dedicated reference for mystery and investigation adventure
 design, extending beyond `clue-discipline.md` to cover the full arc
@@ -395,7 +395,7 @@ clue-vs-conclusion distinction, and verification mechanics.
 
 ---
 
-### Prompt 9 — `references/node-based-design.md` [ ]
+### Prompt 9 — `references/node-based-design.md` [x]
 
 **Goal:** A reference for node-based scenario design — an alternative
 structural model to the three-act arc that suits investigations,
@@ -442,7 +442,7 @@ Alexandrian node theory and practical sandbox methodology.
 
 ---
 
-### Prompt 10 — `references/horror-design.md` [ ]
+### Prompt 10 — `references/horror-design.md` [x]
 
 **Goal:** A dedicated reference for horror and dread in adventure
 design. System-agnostic. Covers tension architecture, the unseen, the
@@ -499,7 +499,7 @@ and how horror pacing differs from action pacing.
 
 ---
 
-### Prompt 11 — `references/antagonist-design.md` [ ]
+### Prompt 11 — `references/antagonist-design.md` [x]
 
 **Goal:** Deep antagonist and villain construction beyond the faction
 Want/Method/View triplet. Covers motivation archaeology, the
@@ -550,7 +550,7 @@ antagonists feel inevitable rather than arbitrary.
 
 ---
 
-### Prompt 12 — `references/location-design.md` [ ]
+### Prompt 12 — `references/location-design.md` [x]
 
 **Goal:** Keyed location design — the art of writing a specific place
 (building, camp, dungeon, ship, wilderness stretch) so that a GM can
@@ -600,7 +600,7 @@ feel real without a detailed map being mandatory.
 
 ---
 
-### Prompt 13 — `references/social-encounters.md` [ ]
+### Prompt 13 — `references/social-encounters.md` [x]
 
 **Goal:** Social scene design as a distinct encounter type. Covers
 negotiation beats, persuasion structures, how social scenes generate
@@ -651,7 +651,7 @@ anti-patterns.
 
 ---
 
-### Prompt 14 — `references/clocks-and-timers.md` [ ]
+### Prompt 14 — `references/clocks-and-timers.md` [x]
 
 **Goal:** Countdown mechanics, villain timelines, and visible vs.
 hidden pressure. How to build escalation into an adventure's structure
@@ -699,7 +699,7 @@ so that delay has consequences without forcing a fixed pace.
 
 ---
 
-### Prompt 15 — `references/travel-and-wilderness.md` [ ]
+### Prompt 15 — `references/travel-and-wilderness.md` [x]
 
 **Goal:** Overland travel, hexcrawl and pointcrawl navigation,
 landmark-based design, journey pacing, and the encounter table — how
@@ -755,7 +755,7 @@ travel becomes story rather than elapsed time.
 
 ---
 
-### Prompt 16 — `templates/investigation-skeleton.md` [ ]
+### Prompt 16 — `templates/investigation-skeleton.md` [x]
 
 **Goal:** A blank scaffold for investigation and mystery adventures.
 Parallel in structure to `templates/chapter-skeleton.md` but
@@ -779,7 +779,7 @@ nodes, the suspect web, and the resolution.
 
 ---
 
-### Prompt 17 — `templates/one-shot-skeleton.md` [ ]
+### Prompt 17 — `templates/one-shot-skeleton.md` [x]
 
 **Goal:** A blank scaffold for self-contained one-shot adventures.
 Compressed version of `templates/chapter-skeleton.md` with tighter

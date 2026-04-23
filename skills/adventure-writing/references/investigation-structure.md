@@ -244,3 +244,49 @@ Before publication or playtest:
        built (one including the open-loop option).
 8. [ ] No clue text embeds a conclusion ("this is the
        murder weapon") — clues are observable facts only.
+
+## Core clues vs. supplementary clues
+
+GUMSHOE-style design distinguishes between **core clues** (the
+facts the investigation cannot proceed without) and
+**supplementary clues** (texture, alternate angles, deeper
+colour). The distinction matters even when the system is not
+GUMSHOE.
+
+- Core clues should be _automatically_ delivered when the
+  party arrives at the carrier and engages with it. Do not
+  gate core clues behind a roll. The roll determines _how_
+  the party gets the clue (clean, costly, partial), not
+  _whether_ they get it.
+- Supplementary clues can be gated behind rolls, careful
+  searches, or specific NPC pivots. Missing them does not
+  block the investigation; finding them deepens it.
+- Tag every clue in the distribution table as `CORE` or
+  `SUPP`. A roll-gated CORE clue is a single-point failure
+  even if it has three carriers, because all three carriers
+  use the same gate.
+
+The three-clue rule applies to core clues. Supplementary clues
+can be unique — the loss is texture, not the case.
+
+## The verification beat
+
+Before the players act on a theory — arresting a suspect,
+confronting the antagonist, presenting evidence to authority
+— they need a way to test the theory cheaply.
+
+A verification beat is a low-cost moment where a theory can
+be confirmed or disproved without committing to action. A
+fingerprint matched. A timeline checked against a witness
+found earlier. A second visit to a location to look for the
+specific thing the theory predicts should be there.
+
+Without verification beats, the players must commit to their
+best guess and discover its correctness through consequences.
+That is sometimes the right design (open-loop ending), but as
+a default it punishes investigation. Players who reason
+correctly should be able to confirm before they act.
+
+Write at least one verification beat per critical conclusion
+the investigation can produce. The beat is in the GM notes,
+not the scene list — it triggers when the players seek it.

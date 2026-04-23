@@ -261,3 +261,54 @@ was designed, given triggers, and never advanced
 because the GM lost track. Fix: list all active
 clocks on the GM's session sheet. Check triggers
 at the end of each scene.
+
+## Showing visible clocks at the table
+
+For visible clocks, give the GM a way to display the
+countdown to the players. This is not a system mechanic;
+it is a table aid that converts abstract time pressure
+into a felt one.
+
+Options in increasing order of preparation cost:
+
+- A line on a whiteboard or shared document: "Wagon train
+  departs: 3 days remaining."
+- A six-segment circle drawn on an index card, segments
+  ticked off as they advance.
+- A physical token (six pebbles, a small stack of cards)
+  that visibly diminishes.
+- For VTT play, a shared tracker token or a journal
+  entry visible to all players.
+
+The author's job is not to mandate a method. The author's
+job is to flag in the clock entry: "This clock is visible.
+The GM should display it at the table in some form."
+
+A visible clock that is not actually visible to the
+players is a hidden clock by accident. The pressure does
+not land.
+
+## Clock interaction effects
+
+When multiple clocks share an adventure, write down how
+they interact. Two unrelated clocks that fire on different
+triggers are independent. Two clocks that affect the same
+NPC, location, or stake are coupled.
+
+```
+CLOCK INTERACTIONS:
+
+- Holt's survey clock (villain) and Isabel's resolve
+  clock (resource): coupled. Each segment of Holt's clock
+  advances Isabel's by one (the visible eviction pressure
+  breaks her further). Stopping Holt also halts Isabel's
+  clock advancement.
+
+- Vane's discovery clock (independent): not coupled to
+  the others. Vane reports based on the party's visibility,
+  regardless of Holt's progress.
+```
+
+Document coupled clocks in the adventure's GM overview,
+not just in the individual clock entries. The GM needs
+to see the coupling at a glance to run it correctly.

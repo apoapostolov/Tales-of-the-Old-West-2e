@@ -239,3 +239,54 @@ none should be forced:
 
 Each exit has different sandbox consequences. All four
 should be possible. The players' actions determine which.
+
+## The antagonist's diary
+
+A technique that pays off disproportionately for the words
+invested: write three to five diary entries from the
+antagonist's point of view, dated in the months before the
+adventure opens.
+
+The diary is in the GM notes, not the adventure body. The
+GM may quote from it, paraphrase it, or never use it directly
+— its primary purpose is to make the antagonist live in the
+GM's head as a person who was making decisions before the
+adventure existed.
+
+Format:
+
+```
+[Date]. [One paragraph in the antagonist's voice. A small
+specific concern, a justification, a fear, a piece of
+evidence that something has shifted. The diary is not
+literary — it is what this person actually thinks about.]
+```
+
+Four or five short entries are enough. They reveal the
+antagonist's voice, their priorities, and the texture of
+their self-deception. A GM who has read these will
+instinctively portray the antagonist as a person, not as
+an obstacle.
+
+If the party recovers the diary as evidence — in a desk
+drawer, a hidden compartment, a saddlebag — the GM has
+source material to read aloud. Treat any read-aloud diary
+entries as handouts subject to the handout rules in
+`references/scope-and-format.md`.
+
+## The antagonist as a learnable system
+
+A competent adversary can be _figured out_ by attentive
+players. Their methods are consistent. Their priorities are
+legible. Their response patterns repeat enough to be
+predicted.
+
+This is a feature, not a flaw. Players who learn the
+antagonist's pattern feel rewarded for paying attention.
+An antagonist whose every move is unpredictable is
+indistinguishable from random GM fiat.
+
+When designing the response tree (above), aim for
+consistency. The same kind of provocation produces the
+same kind of response across the adventure. The party can
+use this. The adventure should let them.

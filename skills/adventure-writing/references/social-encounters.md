@@ -233,3 +233,61 @@ that nervousness manifests in behavior. An NPC who
 is nervous does something with their hands, looks
 at an exit, answers the last question before the
 current one. Behavior, not labels.
+
+## The leverage inventory
+
+Before drafting a major social encounter, write a leverage
+inventory: the specific things the party can bring into
+this conversation that affect the NPC.
+
+```
+LEVERAGE INVENTORY — Aldermoor at the land office
+
+What the party may possess by this point:
+- Knowledge of the Reyes contract irregularity
+- The forged signature page (physical evidence)
+- Testimony from the stable hand placing Holt at
+  the north pasture
+- Aldermoor's outstanding debt to the bank (rumour
+  level, unproven)
+- A relationship with Sheriff Carver (positive or
+  negative depending on prior scenes)
+
+What the NPC has heard about the party:
+- That they were asking questions in town (low risk)
+- That they spoke with Reyes (medium risk — Aldermoor
+  becomes guarded)
+- That they recovered the deed (high risk — Aldermoor
+  prepares to leave town)
+```
+
+The inventory exposes which scenes have abundant leverage
+(the party has many tools and many angles — the scene is
+rich) and which are leverage-poor (the party has nothing
+to bring — the scene will be flat or short). Adjust scene
+placement and prerequisite design based on what the
+inventory reveals.
+
+## NPC stance shifts as visible signals
+
+When an NPC's stance changes during a conversation, the
+shift should be visible to the players, not just tracked
+in the GM's notes.
+
+Signal vocabulary:
+
+- A physical change: they sit down, they uncross their arms,
+  they pour themselves a drink, they close the ledger.
+- A change in address: they switch from "sir" to a name, or
+  the reverse.
+- A change in pace: they speak faster or slower, more
+  formally or more colloquially.
+- A small admission: a fact they would not have shared
+  before the pivot.
+
+When the GM signals the shift, players read it. They
+recognize that something they did just worked. The
+conversation becomes a system the players can engage with,
+not a black box that returns a result.
+
+Write one signal per pivot in the NPC behavior entry.

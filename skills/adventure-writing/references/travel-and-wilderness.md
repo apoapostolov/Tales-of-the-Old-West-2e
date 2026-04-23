@@ -279,3 +279,78 @@ of recent activity).
 A party that gets lost and finds something is better
 off than a party that never gets lost and finds
 exactly what they planned.
+
+## Resupply and logistics
+
+A travel-heavy adventure must address resupply explicitly
+or the question will dominate play unproductively. The
+players will track ammunition, food, water, horse feed,
+fuel, medicine. Either the adventure makes resupply easy
+and assumes it offstage, or it makes resupply a mechanical
+element of pacing.
+
+**Offstage resupply** (default for short adventures):
+
+- The party returns to a town or trading post between major
+  travel segments and resupplies abstractly.
+- The author notes one line in the GM section: "Assume
+  resupply at any settled location. Ammunition and food
+  are not tracked by individual unit."
+
+**Onstage resupply** (for survival or hardship adventures):
+
+- Resources are tracked by named unit (rations, rounds,
+  doses, water-skins).
+- Each travel day consumes a stated number of units.
+- Resupply requires a specific scene at a specific location
+  — a settlement, a cache, a generous homesteader, a fallen
+  enemy's gear.
+- The depletion of resources is itself a clock; see
+  `references/clocks-and-timers.md`.
+
+A travel adventure that splits the difference — sometimes
+tracking, sometimes not — will produce arguments at the
+table. Pick a discipline and state it.
+
+## NPC travel companions
+
+If the party has NPC companions on the road (a guide, a
+witness being escorted, a wounded survivor, an unwanted
+tag-along), each one is a constraint and an opportunity.
+
+For each travelling NPC, document:
+
+- **Pace constraint**: do they slow the party? By how
+  much? (A wounded NPC moves at half pace; a child can
+  walk five hours a day, not ten.)
+- **Resource cost**: do they consume an extra supply
+  unit per day?
+- **Conversation surface**: what do they reveal about
+  themselves over the days of travel? Plan two or three
+  beats per travel companion — one early conversation, one
+  midpoint disclosure, one late surprise.
+- **Vulnerability**: what happens to them if the party is
+  ambushed, lost, or runs out of resources?
+
+A travelling NPC without these four documented becomes a
+drag on play — the GM has to invent them on the fly during
+every travel segment.
+
+## Mounted vs. unmounted travel
+
+For period and historical adventures where the difference
+matters, document the assumption. A mounted party covers
+30–40 miles a day in fair conditions on good ground; an
+unmounted party covers 15–20. A party on horseback can
+flee or pursue most threats; an unmounted party cannot.
+
+If the adventure assumes the party is mounted, make it
+explicit in the scope block. If it assumes unmounted travel,
+budget the slower distances into the journey beats and the
+clock advances. Mixed parties (one rider, three on foot)
+move at the slowest pace — plan accordingly.
+
+For non-historical adventures with equivalents (vehicles,
+mounts, magical movement), the same discipline applies.
+State the assumed mode of travel; budget time and
+resources to match.

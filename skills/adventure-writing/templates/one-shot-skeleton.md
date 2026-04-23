@@ -245,3 +245,19 @@ _[Complete before playtesting.]_
 - [ ] No railroad phrases in the scene text.
       See references/anti-railroad.md.
 - [ ] Read-aloud has been tested aloud.
+
+---
+
+## Convention-play addendum (delete if home-table only)
+
+_[Use this section if the one-shot will be run at conventions
+or with strangers. See references/scope-and-format.md.]_
+
+**Total slot length (including setup and wrap):** _[3 hr / 4 hr]_
+**Active play target:** _[~70% of slot]_
+**Pre-gen hook for each character:** _[One sentence per pre-gen
+connecting them to the central pressure.]_
+**Early-cut ending:** _[Mark which ending the GM can call at
+20 minutes out if the slot is running short.]_
+**Safety tool:** _[X-card / Lines and Veils / Open Door / etc.]_
+**Content declaration (top of GM notes):** _[List content types.]_

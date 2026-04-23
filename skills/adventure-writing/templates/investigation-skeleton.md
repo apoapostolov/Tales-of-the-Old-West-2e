@@ -361,3 +361,28 @@ _[Complete before playtesting.]_
       right, not just reads right).
 - [ ] No railroad phrases in the scene text.
       See references/anti-railroad.md.
+
+---
+
+## Content declaration (delete if not applicable)
+
+_[For investigations that touch difficult content (violence,
+harm to children, real historical atrocities, body horror, etc.),
+declare them here at the top of the GM-facing notes before the
+cold open. See SKILL.md Safety section.]_
+
+**Content present:** _[List specific content types.]_
+**Recommended safety calibration:** _[Session zero / X-card /
+Lines and Veils / etc.]_
+**Player conversation before play:** _[What the GM should
+surface with the table before the first scene.]_
+
+---
+
+## Clue tagging (CORE / SUPP)
+
+_[Re-scan the clue distribution table above. For each entry,
+tag the clue as CORE (investigation cannot proceed without it)
+or SUPP (texture, alternate angle, deeper colour). All CORE
+clues must be obtainable without a roll — the roll determines
+how, not whether. See references/investigation-structure.md.]_

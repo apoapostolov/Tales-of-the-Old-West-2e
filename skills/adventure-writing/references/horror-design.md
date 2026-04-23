@@ -301,3 +301,65 @@ always leads to immediate harm, players will stop
 investigating. Dread is earned by discovering things
 that are wrong. Harm comes from engaging the wrong
 directly, not from discovering it.
+
+## The horror session zero
+
+Horror is the one genre where session zero is structurally
+required by the adventure, not optional based on group
+preference. Treat it as part of the design.
+
+The horror session zero (10–20 minutes before play, or in a
+separate brief session):
+
+1. **Declare the content**. Read aloud the adventure's content
+   list (body horror, intimate threat, harm to specific
+   character types, real historical horrors referenced, etc.).
+2. **Calibrate**. Ask each player which content they are
+   willing to encounter, which they want kept off-page, and
+   which is hard-no. Do not require justification for any
+   answer.
+3. **Confirm the safety tool**. Confirm whichever tool the
+   table will use (X-card, Lines and Veils, Script Change,
+   Open Door). Demonstrate use. Confirm everyone can invoke
+   it without explanation.
+4. **Set the contract**. The author/GM commits to staying
+   inside the calibrated content. The players commit to
+   playing in good faith and using the tool when needed.
+
+This is not therapy. It is design. Horror that lands does
+so because the table has agreed in advance to be moved.
+Without that agreement, dread becomes discomfort or
+refusal, and the adventure misfires.
+
+## The dread budget worksheet
+
+When drafting a horror adventure, sketch the dread budget
+before writing scenes:
+
+```
+DREAD BUDGET WORKSHEET
+
+Arc I beats:
+- [Beat 1: evidence type, sense engaged, what is implied]
+- [Beat 2: ...]
+- [Beat 3: ...]
+Dread accumulated by end of Arc I: [low / medium / high]
+Reveals spent: 0 (no major reveal in Arc I)
+
+Arc II beats:
+- [Beat 1: ...]
+- [Beat 2: ...]
+Dread accumulated by mid-Arc II: [should be high]
+Reveals spent: 1 partial (the shape of the threat is
+  visible, not its full nature)
+
+Arc III beats:
+- [Confrontation / final reveal: what remains hidden, what
+  is finally seen]
+Reveals spent: 2-3 (full reveal, optional secondary reveals)
+```
+
+The worksheet exposes whether reveals are front-loaded
+(common author error) or back-loaded (the goal). It also
+surfaces dead arcs — segments with no dread accumulation
+or no escalation — before they reach the table.

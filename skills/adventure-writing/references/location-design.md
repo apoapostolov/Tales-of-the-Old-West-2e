@@ -240,3 +240,49 @@ landmark, ford)**: entries are shorter and landmark-
 based. Not every physical space has an entry — only
 named features that carry story weight. See
 `references/travel-and-wilderness.md`.
+
+## The soundscape line
+
+In addition to the immediately-visible line, write one
+short soundscape line per major location entry. What does
+this space _sound_ like at its default state?
+
+```
+Soundscape: The boiler hums. Pipes tick. Somewhere two
+floors down, a door closes — too softly to be a servant.
+```
+
+Sound carries information sight cannot:
+
+- Presence beyond line of sight (someone is downstairs).
+- The activity of the building (the boiler running means
+  the kitchen is in use).
+- Atmosphere that the visible details cannot supply.
+- Anomaly (a sound that should not be there is the
+  cleanest hook for investigation).
+
+Sound is also the cheapest tool for environmental change.
+When the party returns to a location, the soundscape can
+be different — the boiler is silent now, the kitchen has
+stopped — and the change registers immediately.
+
+Write the soundscape line for every public and private
+zone entry. For hidden zones, write what the players hear
+_just before_ they reach the zone — sound is often the
+first evidence that the zone exists.
+
+## Smell and air
+
+A single line for olfactory and air-quality cues earns its
+place in any location with a strong sensory identity.
+
+- A blacksmith's: "The air tastes of coal and iron filings."
+- A sickroom: "Stale tincture and laundry that should have
+  been changed yesterday."
+- A killing room: "The smell of recent blood, partially
+  scrubbed."
+
+Do not write smell lines for every entry — they become
+noise. Reserve them for: rooms where smell is evidence,
+rooms where smell signals a wrong, and the first entry of
+a new building or zone.

@@ -253,3 +253,44 @@ form a loose web leading to a mid-act hub. Act II nodes
 (hammer/escalation) escalate from there, converging
 on the Act III chokepoint. Act III nodes (reckoning)
 branch into the four end-states.
+
+## The default action
+
+For every node where the players might arrive but stall,
+name a **default action** — what happens if the players sit
+in this node doing nothing for an extended period.
+
+Not a punishment. A continuation. The world does not pause
+because the party is stuck:
+
+- An NPC arrives or leaves.
+- A clock advances.
+- A clue surfaces because someone walks past with it.
+- The antagonist's response tree fires the next move.
+
+The default action gives the GM something to do when the
+table goes quiet. It also signals to the players that
+deliberation is not free — the world moves whether they do
+or not.
+
+Write the default action in one line per node, in the GM
+notes. It is not a script; it is a fallback the GM uses when
+the scene needs forward motion.
+
+## Node tagging for runtime use
+
+When the adventure is at the table, the GM needs to know each
+node's runtime characteristics quickly. Tag each node with:
+
+- **Type** (Information / Decision / Encounter / Hub).
+- **Reach cost** (Free / Discovered / Earned). Free nodes are
+  reachable from the start; discovered nodes require a clue
+  or NPC referral; earned nodes require a specific prior
+  achievement.
+- **Time cost** (Quick / Standard / Long). How much session
+  time this node typically consumes.
+- **Clock impact** (None / Advances `[clock name]` / Multiple).
+
+A node with all four tags filled is a node the GM can run
+from in seconds. A node missing tags is a node that requires
+the GM to read the entry and infer — expensive at the table.
