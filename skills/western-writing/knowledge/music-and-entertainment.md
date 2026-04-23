@@ -382,6 +382,7 @@ there was no entertainment.
 ---
 
 ## 4. The German singing societies, the Welsh chapel
+
 choirs, the Czech bands
 
 The European immigrant communities of the West

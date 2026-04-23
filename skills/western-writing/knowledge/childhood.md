@@ -537,9 +537,11 @@ specific transitions.
 ---
 
 ## 8. The Native child, the Mexican child, the Black
+
 child, the Chinese child
 
 ### The Native child (specific nation matters; Comanche
+
 and Lakota as instances)
 
 Raised by the band, not only by the parents. Aunts,

@@ -1288,10 +1288,10 @@ relevant scene types.
 ## Example #21 — Mining (a shift underground)
 
 > Brennan came on at three and Dolan went off at three and
-they passed each other in the drift with the carbide lamps
-throwing their shadows on the timbered walls. Dolan's face
-was black with the dust and his eyes were red where the
-dust had got in around the lamp.
+> they passed each other in the drift with the carbide lamps
+> throwing their shadows on the timbered walls. Dolan's face
+> was black with the dust and his eyes were red where the
+> dust had got in around the lamp.
 >
 > _Anything?_ Brennan said.
 >
@@ -1304,11 +1304,11 @@ dust had got in around the lamp.
 > _Some. The pump's holding._
 >
 > Brennan went on past him and Dolan went on past him and
-they did not say more. Brennan came up to the face and the
-two men of his shift were there setting up the drill. He
-set down his lunch pail and his second carbide tin in the
-niche at the side of the drift and he took up the
-sledge.
+> they did not say more. Brennan came up to the face and the
+> two men of his shift were there setting up the drill. He
+> set down his lunch pail and his second carbide tin in the
+> niche at the side of the drift and he took up the
+> sledge.
 >
 > _Heading?_ Magruder said.
 >
@@ -1351,10 +1351,10 @@ a kind of landscape).
 
 > The bugle sounded First Call at five fifty-five and the
 > barracks lit up where the sergeants began going through
-them. Reilly sat up in his bunk and put his feet on the
-floor and reached for his pants in the dim light. The man
-in the next bunk, Karpinski, was already standing and
-pulling on his shirt.
+> them. Reilly sat up in his bunk and put his feet on the
+> floor and reached for his pants in the dim light. The man
+> in the next bunk, Karpinski, was already standing and
+> pulling on his shirt.
 >
 > _Cold this morning,_ Karpinski said.
 >
@@ -1371,16 +1371,16 @@ pulling on his shirt.
 > behind the barracks. The lieutenant came out from the
 > orderly room with his hat under his arm and read the
 > morning report. Three men sick. One man on extra duty for
-drunkenness on guard. The detail to escort the
+> drunkenness on guard. The detail to escort the
 > quartermaster wagon to the agency would leave at seven
 > sharp. Sergeant Voss would command. Reilly heard his own
 > name in the detail list.
 >
 > _Karpinski,_ Reilly said as they went back toward the
 > barracks. _I drew the agency run. You want my mess for the
-day?_
+> day?_
 >
-> _Bacon and beans?_ 
+> _Bacon and beans?_
 >
 > _Bacon and beans and whatever else they are giving out._
 >
@@ -1410,18 +1410,18 @@ post, with a cavalry company, in summer. Cross-reference
 > The dude rode into the camp with his linen suit only
 > moderately wrinkled and his hat brim still flat and he
 > dismounted in front of the chuckwagon and tied his horse to
-the wagon wheel. The cook was at the stove with his back
-turned.
+> the wagon wheel. The cook was at the stove with his back
+> turned.
 >
 > _Good evening,_ the dude said. _I am told this is the
 > Henderson outfit._
 >
 > _It might be._
 >
-> _Mr. Henderson is here?_ 
+> _Mr. Henderson is here?_
 >
 > _Mr. Henderson is up at the herd. He will be down at supper.
-> What is your business, mister?_ 
+> What is your business, mister?_
 >
 > _I have come from St. Louis on behalf of the Beef Trust to
 > inquire about the contract for the autumn shipment._
@@ -1430,14 +1430,14 @@ turned.
 >
 > _The Beef Trust._
 >
-> _I have not heard of it._ 
+> _I have not heard of it._
 >
 > _It is a consortium of the principal beef buyers of the
 > Mississippi Valley._
 >
 > _Well. There is the coffee pot. The cup is the one with
-the handle. We do not have any other kind. The biscuits in
-the dutch oven you can have one of if you keep your hands
+> the handle. We do not have any other kind. The biscuits in
+> the dutch oven you can have one of if you keep your hands
 > clean. Mr. Henderson will be down within the hour and he
 > can take care of your trust for you._
 >
@@ -1484,7 +1484,7 @@ biscuits in the dutch oven, hands clean). Cross-reference
 > She thought about the letter from her sister. She had read
 > it three times since the morning and she had still not
 > begun the answer. Her sister wanted her to come East for
-the winter. The fare was not the trouble. James would let
+> the winter. The fare was not the trouble. James would let
 > her go if she said she wanted to go. The trouble was that
 > she did not know whether she wanted to go.
 >
@@ -1523,17 +1523,17 @@ Section 3.
 ## Example #25 — Journey compression (six weeks in three paragraphs)
 
 > They left the Brazos in the second week of March with
-twenty-four hundred head and they crossed into the Indian
-Territory on the eighth day. The country opened out and the
-grass was good and they made fifteen miles a day. Two of the
-hands took fever at the Canadian and one of them died and
-they buried him in a sand draw and rode on.
+> twenty-four hundred head and they crossed into the Indian
+> Territory on the eighth day. The country opened out and the
+> grass was good and they made fifteen miles a day. Two of the
+> hands took fever at the Canadian and one of them died and
+> they buried him in a sand draw and rode on.
 >
 > They crossed the Cimarron in late April. The cattle drank
 > heavy and they lost an afternoon to it. North of the river
-the country changed. The grass was thinner and the wind was
-constant and at night the cold came down off the plains
-beyond. They had a stampede on the last night of the month
+> the country changed. The grass was thinner and the wind was
+> constant and at night the cold came down off the plains
+> beyond. They had a stampede on the last night of the month
 > and lost forty head and a horse with a broken leg they shot
 > in the morning.
 >
@@ -1543,7 +1543,7 @@ beyond. They had a stampede on the last night of the month
 > herd came in on the fourteenth, twenty-three hundred and
 > nineteen head from the twenty-four hundred they had started
 > with, and Henderson had eighteen dollars a head waiting for
-them at the bank.
+> them at the bank.
 
 **What it does well.** Three paragraphs cover roughly six
 weeks and a thousand miles. Each paragraph has its own
@@ -1566,7 +1566,7 @@ and `references/story-structure.md` (compression as craft).
 
 > The dealer turned a king to the soda and a four to the
 > hock and the layout went still while the bettors looked at
-the cards. Three coppers came off the king. One bet stayed
+> the cards. Three coppers came off the king. One bet stayed
 > on the four. The dealer pulled the cases (a six and a
 > nine), then began the next turn.
 >
@@ -1576,18 +1576,18 @@ the cards. Three coppers came off the king. One bet stayed
 > without a hit on the bigger money on the table.
 >
 > Then the dealer turned a deuce to the loser and a deuce to
-the winner. A split. The house took half. The man who had
-the deuce stack — a little man in a Sunday coat from
-someplace east — pushed his chair back and stared at the
-dealer for a moment.
+> the winner. A split. The house took half. The man who had
+> the deuce stack — a little man in a Sunday coat from
+> someplace east — pushed his chair back and stared at the
+> dealer for a moment.
 >
 > _A split,_ the dealer said. _House takes half. You want
-the other half down or pulled?_
+> the other half down or pulled?_
 >
 > _Pulled._
 >
 > The dealer counted out the half stack and pushed it across
-the layout to him. The man picked it up and put it in his
+> the layout to him. The man picked it up and put it in his
 > coat pocket and stood up and walked out without looking
 > back. He had been at the table four hours.
 >
@@ -1615,9 +1615,9 @@ Sections 1 and 2.
 > Tabenanika rose before the light and walked from the camp
 > down to the creek and washed his face and his hands in the
 > cold water. The horse was where he had picketed it in the
-grass below the cottonwoods. He spoke to the horse and the
+> grass below the cottonwoods. He spoke to the horse and the
 > horse came up and put its head against him and he stood for
-a moment with his hand on its neck.
+> a moment with his hand on its neck.
 >
 > The white men were still asleep when he came back up. The
 > lieutenant's man had let the fire die down. Tabenanika
@@ -1677,7 +1677,7 @@ for:
   frontier post or in a cavalry barracks. Cross-reference
   `knowledge/army-life.md`.
 - **Deadpan comedy** (#23) — when writing any scene where a
-greenhorn or outsider meets the West's working hands. Cross-
+  greenhorn or outsider meets the West's working hands. Cross-
   reference `references/humor-and-irony.md`.
 - **Woman from inside** (#24) — when writing any scene with a
   woman as the POV character or a major domestic interior. Cross-
