@@ -23,8 +23,8 @@ Three is too few — players can predict and game the system.
 Five or more is fine but rapidly diminishing returns.
 
 The four end-states are not "good," "bad," "neutral," and
-"secret." They are four distinct *configurations of who won
-what*, each with its own residue.
+"secret." They are four distinct _configurations of who won
+what_, each with its own residue.
 
 ### The four-axis template
 
@@ -34,10 +34,10 @@ tracks. The combinations produce four end-states.
 For example, with `Army Respect` and `Survey Leverage` as
 the cash-out axes:
 
-|                              | Army Respect HIGH         | Army Respect LOW            |
-|------------------------------|---------------------------|------------------------------|
-| **Survey Leverage HIGH**     | "Army Victory"            | "Railroad Shadow Victory"   |
-| **Survey Leverage LOW**      | "Local Montana Victory"    | "Bad Ending, Good Sandbox" |
+|                          | Army Respect HIGH       | Army Respect LOW           |
+| ------------------------ | ----------------------- | -------------------------- |
+| **Survey Leverage HIGH** | "Army Victory"          | "Railroad Shadow Victory"  |
+| **Survey Leverage LOW**  | "Local Montana Victory" | "Bad Ending, Good Sandbox" |
 
 Each cell is one end-state. Each end-state is a paragraph in
 the chapter.
@@ -62,7 +62,7 @@ Name them clearly and concretely. The Yellowstone Line uses:
   with proof, no rest.
 
 Avoid fantasy-RPG clichés ("Good Ending," "Evil Ending").
-Name what *actually happens* in the world.
+Name what _actually happens_ in the world.
 
 ### Writing each end-state
 
@@ -93,6 +93,7 @@ Write the cash-out logic explicitly. The GM should not have
 to guess.
 
 > The cash-out:
+>
 > - **Highest track** determines which end-state plays.
 > - **Second-highest track** determines a sub-variant.
 > - **Lowest track** determines the dominant cost.
@@ -111,7 +112,7 @@ provides the components.
 
 ## Multiple venues
 
-Where the reckoning *happens* is part of the ending. Different
+Where the reckoning _happens_ is part of the ending. Different
 venues yield different end-states.
 
 > Players pick the venue: Army barracks, a newspaper floor,
@@ -130,7 +131,7 @@ before the cash-out. Make it explicit.
 ## The residue beat
 
 After the multi-ending paragraphs, write one short scene that
-plays *regardless of which end-state landed*. The residue.
+plays _regardless of which end-state landed_. The residue.
 
 > Vane requests one dark meeting. Calder warns that hunters
 > probe her barn. LaRoche delivers native memory. The
@@ -141,7 +142,7 @@ The residue does three jobs:
 1. Proves the chapter does not "end" — the territory keeps
    moving.
 2. Plants the hooks for the next chapter.
-3. Names which surviving NPCs are now *active* in the
+3. Names which surviving NPCs are now _active_ in the
    sandbox versus passive.
 
 ## Sandbox exits
@@ -185,8 +186,8 @@ The exits should be a mix:
 
 ## What hunts them now
 
-A sandbox exit is what *the party can do*. There is also the
-question of *what does the party*. Write a short section
+A sandbox exit is what _the party can do_. There is also the
+question of _what does the party_. Write a short section
 naming the surviving enemies and what they intend.
 
 > If Vane survived: he leaves the territory but his network
@@ -233,12 +234,12 @@ Make the intangibles specific.
 
 ## Carrying the chapter into the sandbox
 
-A final short section that names *open threads*. Things the
+A final short section that names _open threads_. Things the
 party did not resolve. Questions the chapter raised and did
 not answer.
 
 This is distinct from sandbox exits. Exits are
-*opportunities*. Open threads are *unfinished business*.
+_opportunities_. Open threads are _unfinished business_.
 
 > The end breaks three lanes open. Army court jobs. Paper
 > chases in Helena. Local Gallatin resistance. Crow native
@@ -260,7 +261,7 @@ last paragraph is residue, not climax.
 > and power. No one speaks their theme. They demand the
 > payload. The rest bleeds out later."_
 
-The last paragraph reminds the GM how to *speak* the world
+The last paragraph reminds the GM how to _speak_ the world
 after the climax has resolved. Tone is the residue. The
 chapter is over; the voice continues.
 

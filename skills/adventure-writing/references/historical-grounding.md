@@ -24,8 +24,8 @@ period-anchor discipline.
 
 - Knowing the year, season, prices, distances, technologies,
   and social pressures of the world the chapter inhabits.
-- Choosing details that *could only have existed in this
-  specific moment*.
+- Choosing details that _could only have existed in this
+  specific moment_.
 - Letting the chapter's antagonists pursue plausible interests
   using plausible methods.
 - Naming real institutions, real treaties, real prices, real
@@ -73,7 +73,7 @@ chapter without explaining it.
 ### Content selection
 
 A good historical note tells the GM something they can use
-*right now*. Not background trivia.
+_right now_. Not background trivia.
 
 > Bad: _"Historical note: The Northern Pacific Railway was
 > chartered in 1864 by the United States Congress."_
@@ -85,7 +85,7 @@ A good historical note tells the GM something they can use
 
 The bad note is encyclopedia. The good note tells the GM
 that the players are arriving in a moment when the fight is
-about *paper, not steel* — and that shapes the chapter.
+about _paper, not steel_ — and that shapes the chapter.
 
 ### Tone
 
@@ -153,18 +153,19 @@ demands. The minimum:
 ### For fantasy/sci-fi chapters
 
 The same questions, with the world's specifics. The principle
-is the same: know the *moment* the chapter inhabits, not just
-the *setting*.
+is the same: know the _moment_ the chapter inhabits, not just
+the _setting_.
 
 A fantasy frontier chapter set "in the third year of the
 Conclave's withdrawal from the southern hills" needs:
+
 - What the Conclave was doing there.
 - Who is filling the power vacuum.
 - What products of the withdrawal are still in circulation
   (abandoned outposts, surplus weapons, pensioned soldiers,
   unredeemed promises).
 
-The grounding makes the chapter *unrepeatable*. Set it five
+The grounding makes the chapter _unrepeatable_. Set it five
 years earlier or later and it would be a different chapter.
 
 ### Where to research
@@ -185,14 +186,14 @@ The single most important grounding rule:
 
 > **Choose the specific instead of the general.**
 
-| General | Specific |
-|---------|----------|
-| "horses" | "a remuda of fourteen mules and six saddle horses, the bay too eager and the sorrel mare with a quarter-crack hoof" |
-| "a fort" | "Fort Ellis, planted in 1867 to cover the Gallatin Valley" |
-| "an officer" | "Captain Nathaniel Rowe, Army to the bone" |
-| "supplies" | "high nails, damp flour, doubled teamsters" |
-| "the railroad" | "the Northern Pacific, still mostly survey stakes" |
-| "a weapon" | "an Army-issue trapdoor Springfield, the cartridge stamped with the wrong year" |
+| General        | Specific                                                                                                            |
+| -------------- | ------------------------------------------------------------------------------------------------------------------- |
+| "horses"       | "a remuda of fourteen mules and six saddle horses, the bay too eager and the sorrel mare with a quarter-crack hoof" |
+| "a fort"       | "Fort Ellis, planted in 1867 to cover the Gallatin Valley"                                                          |
+| "an officer"   | "Captain Nathaniel Rowe, Army to the bone"                                                                          |
+| "supplies"     | "high nails, damp flour, doubled teamsters"                                                                         |
+| "the railroad" | "the Northern Pacific, still mostly survey stakes"                                                                  |
+| "a weapon"     | "an Army-issue trapdoor Springfield, the cartridge stamped with the wrong year"                                     |
 
 The specific does the grounding work. The general is
 generic. Always choose the specific, even when the chapter
@@ -208,7 +209,7 @@ A grounded chapter buys you:
 
 - **NPC plausibility.** A captain whose pay is documented,
   whose rank is reflected in his quarters, whose vocabulary
-  is period-appropriate, *feels* like a captain. The reader
+  is period-appropriate, _feels_ like a captain. The reader
   forgives the chapter's other choices.
 - **Faction plausibility.** Real institutions had real
   motives. The Northern Pacific wanted route control because
@@ -240,7 +241,7 @@ dirty." The privately is invented; the officially is real.
 Chapters set in periods with documented atrocities (Native
 genocide, slavery, child labor, sexual violence, racial
 pogrom) must handle the material honestly without becoming
-a lecture. The grounding is in the *texture*, not in the
+a lecture. The grounding is in the _texture_, not in the
 moralizing.
 
 > Good: _"A laundress kneels by Bell. She speaks hard
@@ -272,6 +273,7 @@ worker, the freedman teamster — because they were there.
 The same rules apply with the source changed.
 
 A fantasy chapter is grounded by:
+
 - The setting's calendar and the specific year/season.
 - The local political and economic moment.
 - The specific institutions and their procedures.
@@ -282,6 +284,7 @@ A fantasy chapter is grounded by:
   populations.
 
 A sci-fi chapter is grounded by:
+
 - The decade or year within the setting's chronology.
 - The specific corporate, political, or factional moment.
 - The specific tech generation in use (not "computers" but
