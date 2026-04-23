@@ -1,8 +1,6 @@
 # Chapter 19 — Army Life
 
-> _"THE HORSES CAME FIRST. THE HORSES CAME FIRST EVERY MORNING OF THE WORLD."_
->
-> — A WORKING NOTE ON CAVALRY DUTY
+> _“THE HORSES CAME FIRST. THE HORSES CAME FIRST EVERY MORNING OF THE WORLD.”_
 
 The frontier army of the 1870s was small — about twenty-five thousand men — scattered across hundreds of posts, undermanned, underpaid, and engaged in small-unit operations against highly mobile adversaries. The romantic cavalry charge of the movies was not the army's daily work. The daily work was garrison drudgery, escort duty, scouting, and the long, slow, grinding business of campaign that might never produce a battle. This chapter is the working knowledge of the post and the field column: layout, routine, pay, discharge, the ration, the cavalry on campaign, the Buffalo Soldier regiments, the officer's wife, discipline, the army's voice, and the campaign's recurring failure.
 
@@ -136,30 +134,24 @@ A campaign novel that ends without a battle is historically more accurate than o
 
 ---
 
-## 11. The Rule the Others Serve
-
-The frontier army was an institution of poor men under the command of an officer class, doing hard manual labor in difficult country, with occasional outbreaks of violence that the popular memory has elevated into the whole story. The writer's job is to render the labor and the boredom and the bugle and the coffee and the swollen fetlock, and to let the violence be the rare and shocking thing it actually was. The cavalry charge, when it comes, has the weight of all the months of work that preceded it. Without those months on the page, the charge is a cartoon. With them, it is the chapter the reader will not forget.
-
----
-
 ## Vignette — First Call
 
 > The bugle sounded First Call at five fifty-five and the barracks lit up where the sergeants began going through them. Reilly sat up in his bunk and put his feet on the floor and reached for his pants in the dim light. The man in the next bunk, Karpinski, was already standing and pulling on his shirt.
 >
-> _Cold this morning,_ Karpinski said.
+> “Cold this morning,” Karpinski said.
 >
-> _It's August._
+> “It's August.”
 >
-> _Cold for August. I tell you this country is not made for men._
+> “Cold for August. I tell you this country is not made for men.”
 >
-> _It's made for somebody. I have not figured out who._
+> “It's made for somebody. I have not figured out who.”
 >
 > The bugle sounded Reveille at six and they fell in on the parade ground in the gray light with their carbines at order arms and their mounts standing in the picket line behind the barracks. The lieutenant came out from the orderly room with his hat under his arm and read the morning report. Three men sick. One man on extra duty for drunkenness on guard. The detail to escort the quartermaster wagon to the agency would leave at seven sharp. Sergeant Voss would command. Reilly heard his own name in the detail list.
 >
-> _Karpinski,_ Reilly said as they went back toward the barracks. _I drew the agency run. You want my mess for the day?_
+> “Karpinski,” Reilly said as they went back toward the barracks. “I drew the agency run. You want my mess for the day?”
 >
-> _Bacon and beans?_
+> “Bacon and beans?”
 >
-> _Bacon and beans and whatever else they are giving out._
+> “Bacon and beans and whatever else they are giving out.”
 >
-> _All right. I will save you a coffee for tonight._
+> “All right. I will save you a coffee for tonight.”

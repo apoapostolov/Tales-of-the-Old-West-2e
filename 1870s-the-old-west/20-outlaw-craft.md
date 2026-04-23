@@ -1,8 +1,6 @@
 # Chapter 20 — Outlaw Craft
 
-> _"THE PISTOL HE HAD NOT YET DRAWN WAS STILL UNDER HIS COAT."_
->
-> — A WORKING NOTE ON THE FRONTIER KILLING
+> _“THE PISTOL HE HAD NOT YET DRAWN WAS STILL UNDER HIS COAT.”_
 
 Tales of the Old West treats the outlaw as one of its central character types. The dime novels lied about the work. The outlaw was not a romantic figure on horseback — he was a working criminal in a specific economy with specific procedures, specific risks, and a specific average life expectancy that was not long. This chapter is the corrective: the practical mechanics of train robbery, bank robbery, the road agent's stage hold-up, horse theft, cattle rustling, the fence, the hideout, the posse, and the discipline of writing the outlaw without either glorifying him or flattening him.
 
@@ -117,24 +115,6 @@ A posse was deputized by the sheriff (or, in the Indian Territory, by a U.S. mar
 A posse rode hard for two days, slower for the third. By the fourth day the men were tired, hungry, and out of grain for the horses. Most posses turned back after three days because they could not be supplied in the field. The Pinkerton Agency and the Wells Fargo detectives did the long pursuit work the local posse could not. A Pinkerton man might follow a fugitive for months, across multiple states, hiring local help as needed. The fugitive who beat a posse usually still had the Pinkertons to deal with.
 
 A posse that caught its man sometimes did not bring him back for trial. The lynch posse hanged him on the spot. The justification: he was caught with the goods, the trial was a foregone conclusion, the trip back was expensive. This was illegal but widely practiced and almost never prosecuted. (See Chapter 14 of this supplement and Chapter 24 on the dark frontier.)
-
----
-
-## 10. Writing the Outlaw Without Lies
-
-The outlaw can be a sympathetic protagonist. The dime novels lied about how. The writer's discipline.
-
-**What to refuse.** The Robin Hood lie — few outlaws gave to the poor; most kept what they took; the James brothers cultivated the image, but the reality was that the money went to themselves and their families. The chivalry lie — outlaws shot men in the back, killed witnesses, and brutalized civilians; some had codes, many did not; the chivalrous outlaw was largely a postwar Confederate myth applied to ex-guerrillas. The political lie — the James-Younger gang were not freedom fighters against Yankee oppression; they were ex-Confederate guerrillas who continued killing for money after the war ended. The clean death lie — most outlaws died ugly: shot in the street, hanged in a courthouse yard, dying of wounds in a friend's barn. The writer who gives the outlaw a noble death is lying.
-
-**What to render.** The skill — the successful outlaw was a competent man; he rode hard, shot well, planned carefully, and kept his mouth shut. The fear — the successful outlaw was afraid most of the time: of being recognized, of the man at the next table, of the sound on the lookout's hill. The love — many outlaws had wives, children, and parents who knew what they did and loved them anyway. The cost — the outlaw who survived to old age carried the dead with him; the outlaw who did not survive left a wife and children to a bad life.
-
-The model is Ron Hansen's _The Assassination of Jesse James._ Hansen renders Jesse James without endorsement and without condemnation. The man is small, vain, jumpy, murderous, devoted to his family, and certain of his own myth. The writing does not flatter him. It also does not flatten him. The reader sees the man and understands the man and is not asked to like the man.
-
----
-
-## 11. The Rule the Others Serve
-
-A western that includes outlaws must take the outlaw's work seriously as work. The procedures are specific. The economics are unfavorable. The lives are short. The writer who renders this honestly produces an outlaw character the reader believes in. The writer who renders the dime-novel version produces a cardboard hero the reader has met in a hundred bad books. The outlaw is a working criminal in a brutal trade. The prose meets him where he stands and does not look away from the rope at the end of his road.
 
 ---
 

@@ -1,10 +1,8 @@
 # Chapter 21 — Gambling
 
-> _"HE HAD BEEN AT THE TABLE FOUR HOURS."_
->
-> — A WORKING NOTE ON THE FARO LAYOUT
+> _“HE HAD BEEN AT THE TABLE FOUR HOURS.”_
 
-Gambling was the central social activity of the working West. Cowhands gambled their wages on payday. Soldiers gambled garrison pay. Miners gambled the strike. Women in the towns ran some of the most respected games. The professional gambler — well-dressed, soft-spoken, with a clean hand and a quick eye — was a specific character type, neither outlaw nor citizen but his own thing. The writer who renders a gambling scene must know the games well enough to write them without explaining them. The reader feels the rhythm of the table because the prose moves with the rhythm. This chapter is the reference for the four major games, the gambler's character, the cheating methods, the stakes, and the table as social space.
+Gambling was the central social activity of the working West. Cowhands gambled their wages on payday. Soldiers gambled garrison pay. Miners gambled the strike. Women in the towns ran some of the most respected games. The professional gambler — well-dressed, soft-spoken, with a clean hand and a quick eye — was a specific kind of man, neither outlaw nor citizen but his own thing. What follows is the four major games, the gambler's character, the cheating methods, the stakes, and the table as social space.
 
 ---
 
@@ -12,7 +10,7 @@ Gambling was the central social activity of the working West. Cowhands gambled t
 
 **Faro.** The dominant bank game of the western saloon through the 1870s and into the 1890s. A house game, played against the dealer (the "bank"). Easy to play, fast, visible, and the house edge was small — making faro the most respectable bank game by the standards of the period.
 
-**Monte.** Two distinct games sharing a name. _Spanish monte_ is a bank game with a Spanish-deck heritage, dominant in the Southwest and in border country, a regional standard alongside faro. _Three-card monte_ is a confidence game (the dealer wins because the game is rigged), played by sharps on stages, in railroad cars, in saloons — properly a swindle, not a game. The writer must distinguish.
+**Monte.** Two distinct games sharing a name. _Spanish monte_ is a bank game with a Spanish-deck heritage, dominant in the Southwest and in border country, a regional standard alongside faro. _Three-card monte_ is a confidence game (the dealer wins because the game is rigged), played by sharps on stages, in railroad cars, in saloons — properly a swindle, not a game. The two are not to be confused.
 
 **Poker.** The dominant private game of the West. Played between players, with the house taking a small rake or a table fee. Multiple variants in the period, evolving fast. The dominant western variants: _five-card draw_ (the classic — each player dealt five cards, may discard and draw replacements once, betting in two rounds) and _five-card stud_ (first card down, four up; betting after each up card; took hold from the late 1860s). Texas hold 'em did not exist in the 1870s. Stud and draw were the games.
 
@@ -22,7 +20,7 @@ Gambling was the central social activity of the working West. Cowhands gambled t
 
 ## 2. Faro — Procedure
 
-The most-played game in the West deserves the deepest treatment. The writer who can render a faro scene can render any gambling scene.
+The most-played game in the West deserves the deepest treatment.
 
 **The layout** is a green baize cloth or a printed leather mat showing the thirteen ranks (Ace through King) of one suit laid out in two rows. Players bet by placing chips (or coin) on the rank they predict. **The dealer's box** is a small metal or wooden box with one open side, sized to hold a deck of cards face-up. The cards are inserted face-up. The top card is visible through the window.
 
@@ -138,12 +136,6 @@ The respectable woman did not gamble. The disreputable woman did. The third cate
 
 ---
 
-## 10. The Rule the Others Serve
-
-The gambling table is the West's stage. Every rank, every nation, every trade gathered around it. The prose that renders a table well opens the world to the reader because everything came through it: money, news, women, deals, deaths. The writer who masters the table can write any scene the West has to offer. The rules of faro are the rules of faro. The rhythm of the deal is the rhythm of the prose. The man who is losing and the man who is cheating and the woman who is watching are the chapter's center.
-
----
-
 ## Vignette — Faro at Midnight
 
 > The dealer turned a king to the soda and a four to the hock and the layout went still while the bettors looked at the cards. Three coppers came off the king. One bet stayed on the four. The dealer pulled the cases (a six and a nine), then began the next turn.
@@ -152,10 +144,10 @@ The gambling table is the West's stage. Every rank, every nation, every trade ga
 >
 > Then the dealer turned a deuce to the loser and a deuce to the winner. A split. The house took half. The man who had the deuce stack — a little man in a Sunday coat from someplace east — pushed his chair back and stared at the dealer for a moment.
 >
-> _A split,_ the dealer said. _House takes half. You want the other half down or pulled?_
+> “A split,” the dealer said. “House takes half. You want the other half down or pulled?”
 >
-> _Pulled._
+> “Pulled.”
 >
 > The dealer counted out the half stack and pushed it across the layout to him. The man picked it up and put it in his coat pocket and stood up and walked out without looking back. He had been at the table four hours.
 >
-> _Cards,_ the dealer said. The next turn began.
+> “Cards,” the dealer said. The next turn began.

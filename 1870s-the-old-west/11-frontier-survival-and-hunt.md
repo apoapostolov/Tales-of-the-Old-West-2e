@@ -1,8 +1,6 @@
 # Chapter 11 — Frontier Survival and the Hunt
 
 > _“SIXTY MILES TO THE NEXT WATER. WE MADE THE SPRING BY SUNDOWN. THREE DAYS WITHOUT SWEET WATER. THE PECOS WAS UP. WE WENT ON WITHOUT CROSSING.”_
->
-> — A FREIGHTER'S TALLY, WEST OF THE PECOS, 1876
 
 The country in the West is a character, sometimes the antagonist. A player or GM who does not know what kills a man on the Llano Estacado, or how far a horse can travel in a day, cannot run the West. And the men who lived in that country lived by what they killed in it. The buffalo hide hunter, the market hunter, the wolfer, the sporting guide, the contract hunter at the post, the residual trapper — these were occupations in 1875, not pastimes. This chapter combines the country and the hunt: the land that kills, and the men who killed for a living in it.
 
@@ -262,14 +260,6 @@ The southern herd was effectively destroyed by 1878. The northern herd lasted un
 
 The hunters who survived their careers retired or moved to other work. Many became cowhands, some became lawmen (Tilghman, Earp), some became merchants, some drank up their stake and died in the saloons of the towns they had made rich.
 
-### How to render
-
-The hide hunter is the frontier industrial worker. He is not a sportsman. The work is monotonous, filthy, and extraordinarily destructive. The character must be rendered in the work: the rifle on the shooting sticks, the powder smoke hanging on the still morning air, the herd milling and not running, the methodical pace, the cartridge cases at the hunter's elbow, the call to the skinners as the hunter rises.
-
-The character may know what he is doing is the end of the buffalo. He may not. The Mooar brothers did not believe to the end of their lives that they had done wrong; the buffalo, they maintained, had been there to be taken. Other hunters in their later memoirs expressed something closer to remorse. Both reactions are historically present.
-
-The character should not deliver a speech about what he is doing. He does the work. The Native witness to the slaughter is the other character. The Comanche or Kiowa hunter who rides to the edge of a hunted herd's killing ground a week after the outfit has moved on, who sees the field of carcasses, who knows what it means for his people, is one of the period's central figures. His response is rage, grief, and a specific resolution that produces (in the historical case) the events of the Red River War.
-
 ---
 
 ## 10. The Market Hunter
@@ -306,10 +296,6 @@ The market hunting of game animals followed the buffalo into commercial collapse
 
 For the 1870s and 1880s, the market hunter is at his peak and is a recognized profession. He is not yet villainized; he is the practical provider of fresh meat to markets that need it. The conservation conscience that would label him a poacher is twenty years away.
 
-### How to render
-
-The market hunter is a craftsman. His work is quieter than the buffalo hunter's, more skilled, less industrial. He knows the country at a level the homesteader does not. He knows where the buck will be at first light in the third week of October when the wind is from the north and the oaks are in mast. He knows how long the carcass will keep at what temperature in what season. He knows the buyers in town and what they will pay. Render him at his work in the country, alone, with the pack mule and the rifle and the careful approach. Render the hunter's silence and the country's silence and the moment of the shot.
-
 ---
 
 ## 11. The Wolfer
@@ -344,12 +330,6 @@ The wolf was substantially exterminated from the Plains by 1900. The wolfer's pr
 
 For the 1870s and 1880s, the wolfer is present and is one of the period's recognized low occupations. He is the character the other characters do not want at their fire.
 
-### How to render
-
-The wolfer is a hard character to write sympathetically because the work itself is so ugly. The honest approach is to render him as he was: a solitary man doing solitary destructive work for a small wage in a country that allowed it. He may know what he is doing and may not care. He may know and care and continue because the alternative is starving. He may be ignorant of the consequences and may be indifferent to them when explained.
-
-Render the bait, the dead wolves the next morning, the wolfer's hands, the smell of the carcass at four days, the scalps in the wolfer's saddle bag, the silence of the country a month after the wolfer has worked it. The fact carries the weight.
-
 ---
 
 ## 12. The Professional Sporting Guide
@@ -380,12 +360,6 @@ The hunting itself was the careful pursuit of trophy animals, the long stalk, th
 
 The Eastern hunting party paid the guide $300 to $1,500 for a six-week trip depending on the party's size and the guide's reputation. The European nobleman paid more. The guide netted a substantial portion of his year's income from two or three good parties. The guide also provided introductions and access to specific country (the Wind River for elk, the Rockies for bear, the Yellowstone country for the rare experience of country not yet overhunted). The country-knowledge was the guide's principal asset.
 
-### How to render
-
-The guiding scene is the scene where the East meets the West. The guide is a working man serving a customer who is from a different world. The customer often does not understand the country or the work or the guide. The guide is professional about the customer's ignorance because he is paid to be.
-
-The Eastern sportsman is sometimes ridiculous and sometimes admirable. The literary tradition (Theodore Roosevelt's western writings, Owen Wister, the Eastern accounts in the sporting magazines of the period) has rendered him both ways. The honest approach is to render him as he is: a man with money and equipment and ambition, in a country he does not know, served by a man who does. The interaction is the scene.
-
 ---
 
 ## 13. The Military and Contract Hunter
@@ -399,10 +373,6 @@ The post hired a hunter (or a hunter and a small crew) on contract for a season 
 A contract hunter at a frontier post earned $50 to $100 a month plus a supply of ammunition. He sometimes had a small cabin near the post, sometimes lived with his family in the post sutler's settlement, sometimes had a homestead nearby. He was not a soldier and was not under military discipline; he was a civilian employee.
 
 Many of the famous frontier figures held post hunter contracts at points in their careers. Buffalo Bill held one at Fort McPherson in the late 1860s before his guiding career took off. California Joe held one at various Western posts. The standard frontier scout (the civilian employed by the army to interpret country and people for the cavalry columns) often combined the scouting work with hunting.
-
-### How to render
-
-The contract hunter is a working man embedded in the post's life without being of the post. He knows the officers and the men but is not one of them. He brings in the day's game, the cooks butcher it, the men eat it. He sleeps in his cabin or in his tent and rides out the next morning. The scenes available: the hunter coming into the post at dusk with the wagon and the day's kill; the cooks butchering on the trestles behind the mess; the lieutenant coming over to ask the hunter what the country looked like that day; the hunter giving the lieutenant the information without offering an opinion.
 
 ---
 
@@ -467,3 +437,15 @@ The frontier hunter was not a sportsman. He was a worker. The work emptied a con
 ## Vignette — The Stand at First Light
 
 > Mooar was on the rest at first light. The herd had bedded a quarter mile out and was up and grazing now and the wind was right. He picked the cow that was watching back at him on the rise and put the bullet through her chest. She went down and the herd milled and did not run. He worked the breech and loaded and shouldered and shot the next cow and the next. The powder smoke hung in the still air. The herd would not break while the leaders kept dropping where the others could not see them fall. He shot for an hour. When he stopped he counted forty-three down and the herd had finally moved off and Tom and the boys were coming up with the wagon.
+
+---
+
+## Vignette — The Blue Norther
+
+> The sky in the north went black at noon. McNair saw it first because he was riding the point and had nothing else in front of him. He sat the horse a moment. Then he turned in the saddle and called to Mendez and Mendez looked north and saw it and started riding back along the herd without waiting for orders. The boy with the wagon was already turning the team.
+>
+> The temperature began to drop while McNair was still giving the order. The wind came twenty minutes after the first sight of the cloud and it came hard. The herd had begun to drift south as the cattle felt it. McNair pulled his slicker from behind the cantle and got it on with one hand on the rein. The slicker was stiff with cold by the time he had it tied.
+>
+> The first snow came not in flakes but in pellets that stung the face. The light went out of the day. McNair could no longer see the wagon. He could no longer see Mendez. He could see his horse's ears and the gray that was the herd in front of him and that was all.
+>
+> By dark he had lost the count and was riding by the sound of the cattle. By midnight he could no longer hear them and rode by the wind on his face and what he remembered of the country. The cold had got under the slicker and he could not feel his feet in the stirrups. He thought of the boy in the wagon and could not think of him long because his mind would not stay where he put it. He rode.

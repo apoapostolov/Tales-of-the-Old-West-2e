@@ -1,8 +1,6 @@
 # Chapter 6 — Food and Drink
 
 > _“THE FIRE WAS A LOW BED OF COALS AND THE COFFEE WAS ALREADY ON. EVERYTHING ELSE THE COUNTRY HAD GIVEN US WAS ON THAT FIRE OR ABOUT TO BE.”_
->
-> — A TRAIL HAND'S RECOLLECTION, 1879
 
 The popular West has rendered food as a recurring gag — beans, beans, beans — or as a cinematic shorthand: coffee on a tin cup beside a fire. The historical record is richer. Five distinct food cultures operated in the West, each with its own ingredients, techniques, vocabulary, and meanings: the trail cook, the homestead kitchen, the mining-camp mess, the Chinese cookhouse, and the army ration. This chapter documents each.
 
@@ -196,32 +194,6 @@ Many saloons offered a free lunch with the purchase of a drink: cold cuts, chees
 
 ---
 
-## 8. Food Refusals — What to Leave Out
-
-**The bean joke.** The endless beans-and-flatulence comic refrain. Beans were one of many trail foods, not the only one. The comic emphasis on beans is a twentieth-century movie addition, not a period accuracy.
-
-**The single-meal exposition.** A scene that explains every dish on the table to the reader, with paragraphs of instruction on how each was prepared. Render food the way the diner sees it, not the way a cookbook describes it.
-
-**The anachronistic meal.** Foods that did not exist in the period or the region. Tomatoes were present and canned. Bell peppers were not common in Anglo cooking until later. Bananas appeared in port cities only after the 1870s. Refrigeration changed what was available — fresh oysters traveled to inland cities by ice-cooled railcar by the late 1870s, but not earlier and not everywhere.
-
-**The vegetarian protagonist.** The 1870s West was a meat economy. A character who refused meat for ethical reasons would have been an extraordinary anomaly and would have starved or become ill in many parts of the country. (Some religious vegetarians existed — Adventist communities were emerging — but they were rare.) Render the constraint.
-
----
-
-## 9. The Cheat-Sheet
-
-Pick the food culture for the scene: trail cook, homestead kitchen, mining mess, Chinese cookhouse, army ration, hotel dining room. Render the meal through the verbs of preparation and consumption — the cook's procedure, the diner's experience. Coffee is universal; render the brew. Sourdough is the trail and homestead bread. The Dutch oven is the trail's principal appliance. The boarding-house woman is a major mining-camp figure. The Chinese cook and cookhouse were widespread; render with respect. The Harvey House (after 1876) is a specific institution worth knowing. The free lunch is the saloon's loss-leader. Refuse the bean joke and the cookbook exposition.
-
----
-
-## 10. The Rule the Others Serve
-
-A meal in a western scene is the chapter's anchor. It is when the characters stop and sit and the country catches up to them. The food is what they have, in this place, in this season, after this much labor. The audience that is fed (in the prose, at the table) is the audience that stays.
-
-The campfire is not the cliche. The campfire is the truth. The problem is the lazy renderings. The campfire that is rendered specifically — this fire, this pot, this man holding this cup — is the one the players remember.
-
----
-
 ## Vignette — The Trail Breakfast
 
 > Coosie had been up since three. The fire was a low bed of coals and the coffee was already on. The sourdough was in the Dutch oven and the lid had its coals piled on it and would have its biscuits done in fifteen minutes more.
@@ -234,4 +206,18 @@ The campfire is not the cliche. The campfire is the truth. The problem is the la
 >
 > The first man of the crew stirred and sat up and reached for his hat.
 >
-> _Coffee,_ Coosie said, in the dawn quiet.
+> “Coffee,” Coosie said, in the dawn quiet.
+
+---
+
+## Vignette — Biscuit at Three O'Clock
+
+> Three o'clock and the cook had the fire down to a bed of coals. He set the Dutch oven in the coals and shoveled coals onto the lid. He took the keg of starter from where it had ridden warm against the chuck box and ladled a cup of it into the bowl. He poured in flour, salt, lard, water; worked it up with the heel of his hand until it was a stiff dough. He pinched off pieces the size of a hen's egg and laid them in the oven on top of one another in the bacon grease.
+>
+> The lid went back. He fed the keg of starter back: a cup of flour, a cup of water, the spoon. He covered the keg and set it in the chuck box where the warmth would keep it alive through the night.
+>
+> The biscuit would be twenty minutes. He set the coffee pot to one side of the fire and threw in three handfuls of Arbuckles' ground in the sack. The water was already hot. He let it come to a boil and stay there a minute and threw a dipper of cold water in to settle the grounds.
+>
+> He stood up. The horizon was red along the line where the sun had gone. The herd was bedded a quarter mile off and he could hear the hand on first watch riding the perimeter singing low. He could not make out the song.
+>
+> “Come and get it,” he said toward the camp. “Bread is coming up.”

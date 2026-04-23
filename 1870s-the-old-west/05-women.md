@@ -1,12 +1,8 @@
 # Chapter 5 — The Women of the West
 
 > _“THE BABY WAS BORN IN THE NIGHT AND BY DINNER SHE WAS BACK ON HER FEET. THE BREAD WAS NOT GOING TO RISE BY ITSELF.”_
->
-> — A NEIGHBOR'S LETTER, NEBRASKA TERRITORY, 1874
 
-The popular Western has been written almost entirely from the masculine sphere: the cowhand, the gunman, the lawman, the soldier. Women appear as wife, schoolmarm, prostitute, victim. The domestic world in which most western women actually lived has rarely been the novel's subject. It has not often been a campaign's, either.
-
-This chapter is the reference for getting that world on the page and at the table. It covers the woman's daily work, her spaces, her tools, her social organization, her voice, and her literature. It is organized by setting: the homestead, the ranch, the town, the mining camp, the boarding house. It does not cover the prostitute or the saloon woman in detail, because those figures are not the West's typical woman. The typical woman of the 1870s was a wife and mother managing a household under difficult conditions, and that work is what is rarely written.
+Most women of the western country in the 1870s were wives and mothers managing households under difficult conditions. What follows covers the woman's daily work, her spaces, her tools, her social organization, her voice, and her literature, organized by setting: the homestead, the ranch, the town, the mining camp, the boarding house. The prostitute and the saloon woman are not the West's typical woman and are not the subject here.
 
 ---
 
@@ -148,34 +144,6 @@ The Chinese woman in the 1870s West is rarer than the Chinese man and almost com
 
 ---
 
-## 9. The Voice — What to Refuse
-
-**The schoolmarm cliche.** The woman from the East who arrives to teach school in the rough mining camp, falls for the cowboy with a heart of gold, and is transformed (or transforms him). The dime-novel template. The historical schoolmarm was a real and complicated figure but the template has flattened her.
-
-**The fallen woman with a heart of gold.** The prostitute who is morally superior to the townspeople. Sometimes true; usually a Victorian sentimentality. Refuse the default.
-
-**The shrewish wife.** The wife who exists to be the obstacle to the man's freedom. The lazy template. The wife was often the household's intellectual and emotional center; the husband the dependent.
-
-**The Madonna.** The wife who is pure goodness, infinite patience, gentle wisdom. The Victorian's idealized woman. Refuse. The actual woman had limits, irritations, desires, ambitions, anger. Render them.
-
-**The pioneer woman as monument.** The bronze-statue treatment: the woman in sunbonnet looking heroically into the wind, the Mother of the Plains, the cliche of the modern West. The actual woman was specific: Mary Jo Henneberry from Ohio who married Pat Henneberry from County Cork and homesteaded in Holt County, Nebraska, who lost two babies and a husband and a left thumb and her religion and most of her teeth and who walked into the asylum at Norfolk in 1893. That is the actual woman.
-
----
-
-## 10. The Cheat-Sheet
-
-Pick the setting specifically — homestead, ranch, town, mining camp, Hispanic village, Native band. Each has a different woman's life. Render the day's labor: the boiler, the washboard, the garden, the chickens, the sad-iron. Render the isolation honestly; the plains woman's silence is the canon's underwritten subject. Childbirth and child-raising were the woman's career; render them. Voice should match origin and education — the homestead woman from Indiana sounds different from the ranch wife from Virginia or the mine engineer's wife from Boston. The town woman had institutions; render them. Hispanic, Native, Black, and Chinese women have specific worlds. Refuse the schoolmarm, the fallen woman, the shrew, the Madonna, the bronze monument. Read the women's literature: Cather, Foote, Garland's women, Sandoz, Cleaveland, Jordan, Jaramillo, Cabeza de Baca.
-
----
-
-## 11. The Rule the Others Serve
-
-The West that has been written is half the West. The other half is the woman in the kitchen, the woman at the wash boiler, the woman in the garden, the woman at the bedside of the sick child, the woman at the graveside of the buried one, the woman writing the letter that will not arrive in time, the woman managing the household that holds everything else together.
-
-The story that renders this woman as the central character — and not as the absent reason the man rides out — is the western that the canon needs and has mostly not received. The material is enormous and the work is real.
-
----
-
 ## Vignette — Eliza on Wash Day
 
 > Eliza had the boiler going at six o'clock and the first load of the men's shirts in the soak. The kitchen was already hot from the stove. She moved the kettle to the back burner and went out to the well for the second draw of the morning.
@@ -194,8 +162,22 @@ The story that renders this woman as the central character — and not as the ab
 >
 > She had two letters to write before breakfast. The first to her sister in St. Louis about the shipment of curtain material, which had not arrived and which she was sure had been mishandled by the railroad. The second to the Reverend Sayres about the Ladies' Aid resolution to fund the new bell. She had drafted the resolution last evening and wanted his approval before the meeting on Thursday.
 >
-> Lottie came in from the back porch with the eggs for breakfast. _Six this morning, ma'am._
+> Lottie came in from the back porch with the eggs for breakfast. “Six this morning, ma'am.”
 >
-> _Thank you, Lottie. Mr. Whittaker will be down in half an hour._
+> “Thank you, Lottie. Mr. Whittaker will be down in half an hour.”
 >
 > She went to the secretary in the parlor and took down the inkstand and the writing paper and began her first letter.
+
+---
+
+## Vignette — Eliza and the Letter
+
+> The clock in the parlor struck three and Eliza put down her sewing and went to the window. The street was empty. She had been expecting Mrs. Wheeler at half-past two and Mrs. Wheeler had not come. She stood at the window for a minute and then went back to the chair and took up the sewing again.
+>
+> The hem was nearly done. She had been at it since the noon dinner and she would have it finished before James came in for supper. The light through the lace curtain fell on her hands and on the brown muslin in her lap. She worked the needle through the fold and pulled it out and reset and worked it through again.
+>
+> She thought about the letter from her sister. She had read it three times since the morning and she had still not begun the answer. Her sister wanted her to come East for the winter. The fare was not the trouble. James would let her go if she said she wanted to go. The trouble was that she did not know whether she wanted to go.
+>
+> She had been four years in this house and she had not been back. The street outside the window was the street she knew. The clock she had wound this morning. The kitchen behind her she had cooked in two thousand times. The man who would come in at six was the man she had married before she was twenty. To go East would be to leave all that for a winter and to come back to it at thaw, and she did not know whether she would come back the same.
+>
+> She set the needle in the cushion and folded the muslin and went to the writing desk to begin the letter to her sister. She did not know what the letter would say.

@@ -1,10 +1,8 @@
 # Chapter 13 — Prices and Anchors
 
-> _"HE LAID TWO SILVER DOLLARS ON THE BAR AND THE BARTENDER SET THE BOTTLE DOWN BETWEEN THEM."_
->
-> — A WORKING NOTE ON HOW TO WRITE A 1870S TRANSACTION
+> _“HE LAID TWO SILVER DOLLARS ON THE BAR AND THE BARTENDER SET THE BOTTLE DOWN BETWEEN THEM.”_
 
-A price in prose is not a price tag. It is a fact that does work in the scene. The work is one of three things: the pinch — the character cannot afford it, and the number measures the gap between desire and means; the flush — the character can afford it easily, and the number measures freedom (the man with $300 in his pocket has options the man with $3 does not); or the pact — the price is the lever in a deal, _two hundred dollars in gold or one hundred head of your own steers._ A number that does no work in the scene is decoration; cut it. Drop a price the way the period dropped a price — plain, in the same line as the action: _Bowman laid two silver dollars on the bar._ Not _Bowman placed a sum of two dollars in silver coinage, representing payment for his drink, on the polished wood of the bar's surface._ The first earns the period; the second commits four felonies in a sentence. This chapter is the working anchor sheet. Drop the right number into the right scene and the prose grounds itself; pick the wrong one and the scene drifts.
+A price in 1875 measured the distance between a man and what he wanted. The pinch was the gap between desire and means. The flush was the freedom of the man with $300 in his pocket against the man with $3. The pact was the lever in a deal: _two hundred dollars in gold or one hundred head of your own steers._ The numbers below are the working anchors of the period — wages, room and board, drink, ammunition, horseflesh, land. Each fits against the others; together they make the floor a man stood on.
 
 ---
 
@@ -346,16 +344,46 @@ The largest gulf in the period's economy was between cash labor (the cowhand at 
 
 ---
 
-## 11. The Single Rule
-
-Every number in your scene is doing work or it is decoration. If it is decoration, cut it. If it is work, get it right. The reader who knows the period will trust the prose that gets the silver dollar right. The reader who does not know the period will trust the prose anyway, because the numbers fit each other — the wage and the meal and the bullet and the bottle all sit at the same level. Coherence is the period's voice as much as diction is. Drop the right number. Move on. Do not explain it.
-
-> _He laid two silver dollars on the bar and the bartender set the bottle down between them._
-
-That is the period in eighteen words. The bottle is a one- to two-dollar rotgut bottle. Two silver dollars buys it. Both men know it. The reader reads the scene without being told. That is the use of an anchor.
-
----
-
 ## Vignette — Settling Up
 
 > Ramsey came down to the mercantile the morning after the drive paid off and laid out what he owed against the year. The sheriff had wanted his fee for the inquest on the Mexican boy who had drowned at Doan's, ten dollars. The doctor had wanted his fee for the broken arm Jim had taken in the stampede at the Cimarron, eight. The smith had wanted a dollar fifty for the new shoes on the bay. The bunkhouse cook had wanted a dollar he had advanced Charlie at Caldwell. Ramsey paid them out of the leather pouch on his hip, in twenty-dollar gold pieces and in silver dollars and in Mexican pesos that the merchant weighed on the small balance and credited at face. When he was done he had four gold pieces and eleven silver dollars left and he was the closest thing to rich he had been in three years. He bought a new hat and a Sunday coat and rode home.
+
+---
+
+## Vignette — The Widow's Account
+
+> She set the basket on the counter and the merchant tipped his pencil to the page.
+>
+> “Five pounds flour. Two pounds beans. A pound of bacon. A quarter pound of coffee. A half pound of brown sugar. A tin of milk. Three boxes of matches. A bottle of laudanum the small bottle. A spool of black thread.”
+>
+> The merchant wrote, then turned the page so she could see what he had written.
+>
+> “Flour fifteen, beans sixteen, bacon fifteen, coffee seven, sugar five, milk thirty, matches fifteen, laudanum fifty, thread ten. One ninety-three.”
+>
+> She nodded.
+>
+> “On the book?”
+>
+> “Yes please.”
+>
+> The merchant wrote again.
+>
+> “Mrs. Pruitt your account is at twelve dollars and forty-seven cents. I do not press a widow but I would be obliged if some part could be paid by Christmas.”
+>
+> “The boy will be fit to ride by then. He is doing the Henson's chores already and Mr. Henson has spoken of regular work at five dollars a month. We will pay it down, Mr. Sutton.”
+>
+> “I do not doubt it, Mrs. Pruitt.”
+>
+> She lifted the basket. He raised the pencil to mark her goods off the counter.
+>
+> “Mrs. Pruitt.”
+>
+> She turned at the door.
+>
+> “Take the half-pound of crackers in the barrel by the stove. There is no charge. The boy is fond of them.”
+>
+> She did not answer for a moment. Then she nodded once.
+>
+> “Thank you, Mr. Sutton.”
+>
+> The bell rang as the door closed.

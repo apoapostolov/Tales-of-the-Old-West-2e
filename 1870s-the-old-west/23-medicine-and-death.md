@@ -1,10 +1,8 @@
 # Chapter 23 — Medicine and Death
 
-> _"THE SMELL CAME ON THE SECOND DAY. BY THE THIRD THE DOCTOR WOULD NOT GO IN THE ROOM."_
->
-> — A WORKING NOTE ON THE GUT-SHOT MAN
+> _“THE SMELL CAME ON THE SECOND DAY. BY THE THIRD THE DOCTOR WOULD NOT GO IN THE ROOM.”_
 
-The 19th century was a slaughterhouse compared to ours. A wound that we treat in an hour killed in 1875. A child's fever killed the child by morning. A woman who survived three deliveries was fortunate; many did not survive one. Death was at every door and the people knew it. This chapter gives the writer the medical reality and the textures of dying as it actually looked.
+The 19th century was a slaughterhouse compared to ours. A wound that today is treated in an hour killed in 1875. A child's fever killed the child by morning. A woman who survived three deliveries was fortunate; many did not survive one. Death was at every door and the people knew it. What follows is the medical reality of the period and the textures of dying as it looked.
 
 ---
 
@@ -136,15 +134,37 @@ For the writer. Real death is messier and stranger than the page usually allows.
 
 ---
 
-## 10. Writing the Dying
+## Vignette — The Doctor in the Sickroom
 
-The reader does not need every detail. The right detail.
-
-Bad: _Tom died slowly and painfully over the course of three days from his terrible gunshot wound to the abdomen, and everyone mourned him deeply._
-
-Better: _The smell came on the second day. By the third the doctor would not go in the room. Tom asked for water and they gave him laudanum instead. He spoke to his mother once, in the night, and after that did not speak again._
-
-The trick is to choose two or three concrete sensory details, trust the reader to do the math, and stop. Write the smell, the refused water, the one moment of speech. The rest is in the reader's mind, and what is in the reader's mind hits harder than what is on the page.
+> The doctor came in and shut the door behind him and set his bag on the table. The boy was on the bed under the blanket and the woman stood at the foot.
+>
+> “Tell me when it started,” the doctor said.
+>
+> “Last night about midnight,” the woman said. “He took with a chill. He has not held water down since.”
+>
+> The doctor opened the bag.
+>
+> “Mrs. Pruitt. I will need to examine him. If you would step into the kitchen for a moment.”
+>
+> “I will stay.”
+>
+> The doctor looked at her. He looked at the boy.
+>
+> “Very well.”
+>
+> The cowman in the corner had not spoken. He stood with his hat in his hands.
+>
+> “Will he live, Doc.”
+>
+> “I do not know yet, Mr. Pruitt.”
+>
+> “Tell me when you do.”
+>
+> The cowman went out and shut the door behind him. They heard his boots cross the porch and a moment later they heard him on the steps and then on the dirt of the yard.
+>
+> The doctor turned back the blanket.
+>
+> “All right, son. Let's have a look at you.”
 
 ---
 
@@ -154,26 +174,26 @@ The trick is to choose two or three concrete sensory details, trust the reader t
 >
 > Pruitt got there first. He knelt and pulled Bowman's shirt up. The wound on the side was a hole the size of a dime and the blood was coming from it in a slow steady pulse. He could not see the back wound. He pulled the shirt all the way off and looked.
 >
-> _Lie down,_ he said.
+> “Lie down,” he said.
 >
 > Bowman lay down.
 >
-> _Where else,_ Pruitt said.
+> “Where else,” Pruitt said.
 >
-> _Just the side,_ said Bowman.
+> “Just the side,” said Bowman.
 >
-> _He hit you twice._
+> “He hit you twice.”
 >
 > Bowman closed his eyes. Pruitt put the heel of his hand on the back wound and pressed. The blood ran out between his fingers and slowed. He held the pressure with one hand and reached behind him without looking.
 >
-> _Bandanna._
+> “Bandanna.”
 >
 > Someone put one in his hand. He folded it into a pad and set it under his palm and pressed again.
 >
-> _Where is Greer._
+> “Where is Greer.”
 >
-> _Coming._
+> “Coming.”
 >
-> _Tell him to bring the laudanum and the bag and the lantern. Tell him there is two holes._
+> “Tell him to bring the laudanum and the bag and the lantern. Tell him there is two holes.”
 >
 > The man went. Pruitt knelt with both knees in the dust and his hand on Bowman's back and watched Bowman's eyes go and come back and go again.

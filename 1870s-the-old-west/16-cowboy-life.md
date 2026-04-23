@@ -1,10 +1,8 @@
 # Chapter 16 — Cowboy Life
 
-> _"THE HERD HAD BEEN FOUR DAYS ON THE CIMARRON WITH NO WATER AND THE LEAD STEER HAD BEGUN TO BAWL."_
->
-> — A WORKING NOTE ON THE TEXAS-TO-KANSAS DRIVE
+> _“THE HERD HAD BEEN FOUR DAYS ON THE CIMARRON WITH NO WATER AND THE LEAD STEER HAD BEGUN TO BAWL.”_
 
-The cowhand's life is the spine of the western. Get the daily work right and a scene grounds itself. Get it wrong and the reader who knows horses puts the book down. This chapter covers the working drover and the ranch hand from roughly 1866, when the Texas-to-Kansas drives began, to about 1890, when barbed wire and the railroads ended the open range. It is the working knowledge: who he was, what he was paid, the year of the drive, the chuck wagon and what came out of it, the gear on his back, the horses under him, the bunkhouse he came home to, the order of the outfit, the sound and smell and feel of the work, and the gulf between what the cowhand was and what the screen later made of him.
+The open-range cattle business ran from roughly 1866, when the Texas-to-Kansas drives began, to about 1890, when barbed wire and the railroads ended it. What follows is the working hand of those years: who he was, what he was paid, the year of the drive, the chuck wagon and what came out of it, the gear on his back, the horses under him, the bunkhouse he came home to, the order of the outfit, the sound and smell and feel of the work.
 
 ---
 
@@ -126,12 +124,22 @@ The 20th-century screen western removed almost everything in this chapter. The c
 
 > The herd had been four days on the Cimarron with no water and the lead steer had begun to bawl. McNair sat his horse at the point and watched the gray morning come up over the grass. Behind him a thousand head moved slow in the dust their own hooves had raised. Mendez rode up out of the swing and reined in alongside.
 >
-> _They will smell water by noon,_ Mendez said.
+> “They will smell water by noon,” Mendez said.
 >
-> _They will smell something._
+> “They will smell something.”
 >
 > They sat a while. The wind moved in the grass and a bird called once and went on. McNair pulled his hat down against the sun coming.
 >
-> _Ride back and tell the boy to bring the wagon up,_ he said. _We will not make the river by dark and I want him close._
+> “Ride back and tell the boy to bring the wagon up,” he said. “We will not make the river by dark and I want him close.”
 >
 > Mendez turned the horse and rode. McNair watched the steer bawl again and the herd lift its hundred heads and lower them. He spat into the dust and put his hand to the rein. The day was already old.
+
+---
+
+## Vignette — Six Weeks to Newton
+
+> They left the Brazos in the second week of March with twenty-four hundred head and they crossed into the Indian Territory on the eighth day. The country opened out and the grass was good and they made fifteen miles a day. Two of the hands took fever at the Canadian and one of them died and they buried him in a sand draw and rode on.
+>
+> They crossed the Cimarron in late April. The cattle drank heavy and they lost an afternoon to it. North of the river the country changed. The grass was thinner and the wind was constant and at night the cold came down off the plains beyond. They had a stampede on the last night of the month and lost forty head and a horse with a broken leg they shot in the morning.
+>
+> They came up to the Arkansas on the eleventh of May and looked across at Kansas and the railhead at Newton was three days more. Henderson rode ahead to make the deal. The herd came in on the fourteenth, twenty-three hundred and nineteen head from the twenty-four hundred they had started with, and Henderson had eighteen dollars a head waiting for them at the bank.

@@ -1,16 +1,14 @@
 # Chapter 15 — Competence and Procedure
 
-> _"HE LAID THE BLANKET SMOOTH, SET THE SADDLE ON, PULLED THE CINCH THROUGH THE LATIGO, AND WAITED. THE BAY HAD LEARNED TO PUFF. BOWMAN WAITED HIM OUT."_
->
-> — A WORKING NOTE ON HOW THE WEST WORKS WHEN A MAN KNOWS HIS WORK
+> _“HE LAID THE BLANKET SMOOTH, SET THE SADDLE ON, PULLED THE CINCH THROUGH THE LATIGO, AND WAITED. THE BAY HAD LEARNED TO PUFF. BOWMAN WAITED HIM OUT.”_
 
-The best Western prose shows working men and women _at work,_ and the prose breathes because the writer knew the procedure cold. McMurtry's Pea Eye hobbling horses, McCarthy's John Grady Cole breaking colts, Portis's Rooster cleaning his rifle, Hansen's Bob Ford packing a wound — every one written by an author who had done the thing or had read men who had. This chapter is the procedural reference. It collects how the working West did its work — horsemanship, cattle, camp, survival, firearms, wagons, doctoring, scouting — in the same plain register a player or GM should imitate when running the work itself: present-tense or simple past, short clauses, trade-specific nouns, no commentary. The reader who knows the work will recognize it. The reader who does not will trust the prose.
+The working West moved by procedure. A man saddled his horse the same way every morning of his life, and the order of the steps was the difference between a horse he could ride and a horse that bucked him off in the yard. What follows is the procedural knowledge of the country — horsemanship, cattle, camp, survival, firearms, wagons, doctoring, scouting — set down in the order a competent hand would have run it.
 
 ---
 
-## 1. The Competence Register
+## 1. The Order of the Work
 
-The competence register is the prose mode used to describe skilled work as it is being done. It has six properties.
+Skilled work in the period had six properties.
 
 **Tense is present or simple past, never conditional.** The work happens. _He pulls the cinch_ or _He pulled the cinch._ Not _He would pull the cinch._ Not _One would._
 
@@ -328,4 +326,18 @@ Read the procedures. Write the work.
 
 ## Vignette — Saddling at First Light
 
-> The bay was the third one Pea Eye called out of the remuda and the bay knew it. Pea Eye walked in slow with the loop down at his side and threw it when the bay was broadside. The bay pulled once and gave it up. Pea Eye worked the loop up the neck and slipped the bridle on while the bay was still figuring whether to bother. He led him out. He laid the blanket smooth and set the saddle on and slid it back into the seat. He pulled the cinch through the latigo and drew it up to where it would go and waited. The bay puffed. Pea Eye watched the line of the horizon east where the sun was about to come over and the bay let his breath out and Pea Eye drew the cinch the rest of the way and tied it off. He swung up. The first cold cup of the morning was still in his hand from the cook's fire and he drank what was left of it and threw the grounds. He turned the bay south where Captain Call had said to be at sunup and they went.
+> The bay was the third one Bowman called out of the remuda and the bay knew it. Bowman walked in slow with the loop down at his side and threw it when the bay was broadside. The bay pulled once and gave it up. Bowman worked the loop up the neck and slipped the bridle on while the bay was still figuring whether to bother. He led him out. He laid the blanket smooth and set the saddle on and slid it back into the seat. He pulled the cinch through the latigo and drew it up to where it would go and waited. The bay puffed. Bowman watched the line of the horizon east where the sun was about to come over and the bay let his breath out and Bowman drew the cinch the rest of the way and tied it off. He swung up. The first cold cup of the morning was still in his hand from the cook's fire and he drank what was left of it and threw the grounds. He turned the bay south where Henderson had said to be at sunup and they went.
+
+---
+
+## Vignette — Caught in the Open
+
+> The blizzard came on at noon. By two o'clock he could not see the bay's head past the saddle horn. He turned the bay's tail to the wind and let him walk.
+>
+> An hour of that and the bay stopped. There was a low place off to the right. He could not see it but the bay had found it. He got down. The wind took him sideways and he went to one knee in the snow and got up.
+>
+> He led the bay into the lee of the bank and worked the saddle off and got the blanket and the slicker and the bedroll. He set the saddle for a windbreak and dug the snow out behind it down to the grass. The bay stood with his head down. He looped the rein over a stub of brush and made it fast and pulled the bay around so the bay was the second wall of the windbreak.
+>
+> No fire. There was nothing to burn and he could not have kept a match alight. He sat down between the saddle and the bay with the blanket over him and the slicker over the blanket and pulled the bay's head close. The bay blew warm into his neck and his hat. He pulled the brim down.
+>
+> The night was a long time coming. When it came he could not tell.

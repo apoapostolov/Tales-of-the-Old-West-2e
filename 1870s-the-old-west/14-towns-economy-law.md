@@ -1,8 +1,6 @@
 # Chapter 14 — Towns, Economy, and Law
 
-> _"FRONT STREET IN DODGE WAS FIVE HUNDRED YARDS OF SALOON AND DANCE HALL AND CRIB. THE DEADLINE RAN DOWN THE TRACKS AND ARMED MEN DID NOT CROSS IT TO THE NORTH SIDE. THIS WAS LAW IN A CATTLE TOWN."_
->
-> — A WORKING NOTE ON THE FRONTIER MUNICIPALITY
+> _“FRONT STREET IN DODGE WAS FIVE HUNDRED YARDS OF SALOON AND DANCE HALL AND CRIB. THE DEADLINE RAN DOWN THE TRACKS AND ARMED MEN DID NOT CROSS IT TO THE NORTH SIDE. THIS WAS LAW IN A CATTLE TOWN.”_
 
 The frontier town is the second great setting of the West after the open country. Get the geography of a town right — what it has, who runs what, where the law sits and where it does not — and a town scene grounds itself. This chapter covers the cattle town, the mining camp, the railroad town, the army-post town, the small county seat, and the older Mexican town. It covers money, prices, businesses, lawmen, courts, and how violence ended, legally and otherwise.
 

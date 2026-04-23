@@ -1,12 +1,8 @@
 # Chapter 7 — Work and Trades
 
 > _“HE SET THE STEEL AND HIS PARTNER SWUNG. THE STEEL RANG AND THE DUST ROSE. THEY WORKED THROUGH THE WATCH WITHOUT SPEAKING.”_
->
-> — A SHIFT BOSS REMEMBERING THE COMSTOCK, 1878
 
-A western lives or dies on the credibility of the work shown. Most of the day in any character's life is the work he does to stay fed. This chapter is the working knowledge of the trades that filled the West — the open-range cowman, the hardrock miner, the railroad fireman, the freighter, the smith, the tracker, the buffalo hunter, the homesteader, and a long roll of others.
-
-The risk is to write in generalities. _He worked the mine. He broke a horse. He drove the herd north._ The fix is detail. Two or three concrete actions, the right one for the trade, and the audience believes you. The chapter that follows is what those concrete actions look like.
+Most of a man's day in the western country was the work he did to stay fed. What follows is the working knowledge of the trades that filled the West — the open-range cowman, the hardrock miner, the railroad fireman, the freighter, the smith, the tracker, the buffalo hunter, the homesteader, and a long roll of others.
 
 ---
 
@@ -206,20 +202,40 @@ Brief notes — each could fill a chapter.
 
 ---
 
-## 11. Render the Work
-
-The risk is to write in generalities. _He worked the mine. He broke a horse. He drove the herd north._ The fix is detail. Two or three concrete actions, the right one for the trade, and the audience believes you. _He set the steel and his partner swung. The steel rang and the dust rose. They worked through the watch without speaking and at the change he sat down on the muck and poured a cup of cold coffee out of a tin and drank it._
-
-That paragraph is set in a real mine in a real shift. A general one is set in a movie. Choose.
-
----
-
 ## Vignette — Branding at the Spring Roundup
 
 > They had the calf down on its left side and Tomás had its head and Roy had its heels and Wesley brought the iron from the fire. The iron was bright orange at the brand and dulling already in the morning air. Wesley set it square and the calf bawled and the smoke came up between his hands and through his fingers and the smell of burnt hair was in his mouth like a coin.
 >
-> _Off,_ Tomás said.
+> “Off,” Tomás said.
 >
 > Wesley lifted the iron and turned it and looked at the brand and put the iron back in the fire. Roy took up the knife and bent and cut the ear and let the calf up. The calf went a few steps and stood and shook its head and its mother was already coming through the herd to it bawling.
 >
 > Wesley stood and wiped his forearm across his face and his sleeve came away black. He took up the next iron from the fire and turned to look at the next calf they were dragging in.
+
+---
+
+## Vignette — The Dude at the Chuckwagon
+
+> The dude rode into the camp with his linen suit only moderately wrinkled and his hat brim still flat and he dismounted in front of the chuckwagon and tied his horse to the wagon wheel. The cook was at the stove with his back turned.
+>
+> “Good evening,” the dude said. “I am told this is the Henderson outfit.”
+>
+> “It might be.”
+>
+> “Mr. Henderson is here?”
+>
+> “Mr. Henderson is up at the herd. He will be down at supper. What is your business, mister?”
+>
+> “I have come from St. Louis on behalf of the Beef Trust to inquire about the contract for the autumn shipment.”
+>
+> “On behalf of the what.”
+>
+> “The Beef Trust.”
+>
+> “I have not heard of it.”
+>
+> “It is a consortium of the principal beef buyers of the Mississippi Valley.”
+>
+> “Well. There is the coffee pot. The cup is the one with the handle. We do not have any other kind. The biscuits in the dutch oven you can have one of if you keep your hands clean. Mr. Henderson will be down within the hour and he can take care of your trust for you.”
+>
+> The dude considered the cook's back for a moment and then went to the coffee pot and poured himself a cup with care and stood holding the cup in both hands as if he were not sure what to do with it.

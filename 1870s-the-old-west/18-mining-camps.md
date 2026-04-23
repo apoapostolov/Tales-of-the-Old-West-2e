@@ -1,10 +1,8 @@
 # Chapter 18 — Mining Camps
 
-> _"DO NOT EXPLAIN THE WORK. DO NOT ADMIRE IT FROM OUTSIDE. SET THE CANDLE IN THE CRACK. PICK UP THE STEEL. HOLD."_
->
-> — A WORKING NOTE ON WRITING THE MINE SCENE
+> _“THE STEEL RANG AGAINST THE ROCK AND THE DUST CAME OFF THE FACE AND THE CARBIDE LAMP THREW THEIR SHADOWS LONG ON THE TIMBERED WALLS. THEY HAD BEEN AT IT SIX HOURS. THEY HAD TWO MORE TO GO.”_
 
-The mine is one of the few western settings where the work is invisible. The cattle drive happens under the sky. The mine happens in the dark, in noise, in rock dust, in a space the reader has never been. The writer who gets this wrong puts too much light in and not enough weight. This chapter is the working knowledge of the hardrock camp of the 1870s and 1880s — what kind of mine, what the underground actually looks like, the eight hours of a shift, the men in their order, the surface camp, the boarding house, the company store, the Cornish, the union and the Pinkertons, the hazards, and the vocabulary by which a mining scene proves itself to the reader who knows the work.
+The mine happens in the dark, in noise, in rock dust, in a space few outside the trade have stood in. What follows is the hardrock camp of the 1870s and 1880s — what kind of mine, what the underground looks like, the eight hours of a shift, the men in their order, the surface camp, the boarding house, the company store, the Cornish, the union and the Pinkertons, the hazards, and the vocabulary of the work.
 
 ---
 
@@ -188,30 +186,24 @@ A mine in the 1870s killed men reliably.
 
 ---
 
-## 12. The Rule the Others Serve
-
-The mine is work. It is skilled work that kills the worker's body over years, that can kill him in an instant, that takes place in total dark at depth in conditions no human body was designed for. The man who goes down the shaft at six in the morning and comes up at two in the afternoon has done something the reader has never done and cannot imagine. The writer's job is to put the reader underground in a body that knows the work. Do not explain the work. Do not admire it from outside. Set the candle in the crack. Pick up the steel. Hold.
-
----
-
 ## Vignette — Shift Change at Three
 
 > Brennan came on at three and Dolan went off at three and they passed each other in the drift with the carbide lamps throwing their shadows on the timbered walls. Dolan's face was black with the dust and his eyes were red where the dust had got in around the lamp.
 >
-> _Anything?_ Brennan said.
+> “Anything?” Brennan said.
 >
-> _The face is hard. We took out maybe four feet on the day shift. The vein's still there but she's narrower than she was on Tuesday._
+> “The face is hard. We took out maybe four feet on the day shift. The vein's still there but she's narrower than she was on Tuesday.”
 >
-> _Water?_
+> “Water?”
 >
-> _Some. The pump's holding._
+> “Some. The pump's holding.”
 >
 > Brennan went on past him and Dolan went on past him and they did not say more. Brennan came up to the face and the two men of his shift were there setting up the drill. He set down his lunch pail and his second carbide tin in the niche at the side of the drift and he took up the sledge.
 >
-> _Heading?_ Magruder said.
+> “Heading?” Magruder said.
 >
-> _Same as before. Two holes high, two low, one in the middle. The vein's running west by the look of it. Brennan said the face is hard tonight._
+> “Same as before. Two holes high, two low, one in the middle. The vein's running west by the look of it. Brennan said the face is hard tonight.”
 >
-> _It's been hard all week._
+> “It's been hard all week.”
 >
 > The other man, the one called Pete, was holding the steel against the rock. Magruder swung the sledge and the steel rang and rock dust came off the face. Pete turned the steel a quarter and Magruder swung again. The rhythm came in within a minute and they did not speak again until the hole was three inches deep. Then Pete pulled out the dust and blew through the hole and put the steel back in and they went on.

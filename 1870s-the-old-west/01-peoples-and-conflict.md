@@ -1,12 +1,10 @@
 # Chapter 1 — The Peoples and the Conflict
 
 > _“EVERY MAN ON THIS COUNTRY CARRIES A HISTORY ON HIS BACK. SOME OF THEM CARRY TWO.”_
->
-> — A FREIGHTER OUT OF FORT GRIFFIN, OVERHEARD IN 1876
 
-The American West of 1865–1890 was the most demographically mixed region of the country. The screen tradition shrank it to white men and Indians and put a clean brush across the dirt. The actual country had Mexicans whose families had been there for two centuries before the United States existed, Black freedmen and Buffalo Soldiers, Chinese laborers, German farmers, Irish railroad navvies, Cornish hard-rock miners, Bohemian and Czech homesteaders, French Canadians in the trapping country, and dozens of Native nations each with its own language, law, and history. A western that flattens this mix into _cowboys and Indians_ is not a western about the West. It is a western about a movie.
+The American West of 1865–1890 was the most demographically mixed region of the country. Mexicans whose families had been there for two centuries before the United States existed. Black freedmen and Buffalo Soldiers. Chinese laborers. German farmers. Irish railroad navvies. Cornish hard-rock miners. Bohemian and Czech homesteaders. French Canadians in the trapping country. Dozens of Native nations, each with its own language, law, and history.
 
-This chapter gives you the working population. Each of the people described here had a community, a faith, a language, and almost always a long memory of grievance. Write them so. Play them so. Let the country be as crowded and as contested as the country actually was.
+What follows is the working population. Each of the people described here had a community, a faith, a language, and almost always a long memory of grievance. The country was as crowded and as contested as a country can be.
 
 ---
 
@@ -52,7 +50,7 @@ The **Mexican immigrants** of the period were laborers, vaqueros, and miners. Th
 
 The Anglo–Mexican relationship was poisoned by the Mexican-American War, by the Texas Revolution before it, and by Anglo land theft after. Anglo violence against Tejanos and Mexicans was endemic and largely unpunished. The Texas Rangers killed hundreds of Mexicans in the borderland through the period; the _La Matanza_ of 1915–1919 was a peak, but the violence ran for half a century before. Lynching of Mexicans in California, Arizona, New Mexico, and Texas was common — the historian William Carrigan estimates 597 lynchings of Mexicans in the United States between 1848 and 1928, a per-capita rate similar to Black lynchings of the same period.
 
-A Mexican character on this country is not a colorful sidekick or a bandit type. He has a community, a faith, a language, often an old grievance and a long memory of it. Write him so.
+A Mexican on this country is not a colorful sidekick or a bandit type. He has a community, a faith, a language, often an old grievance and a long memory of it.
 
 ---
 
@@ -70,7 +68,7 @@ The **Buffalo Soldiers** were the Army's Black regiments — the 9th and 10th U.
 
 **Black women in the West** worked as cooks, laundresses, domestic servants, prostitutes (often in segregated houses or as the lowest-status workers in mixed houses), schoolteachers in Black communities, and sometimes as ranchers and homesteaders in their own right.
 
-The 13th, 14th, and 15th Amendments were Federal law. Their enforcement on the Western frontier varied. Some states — Kansas in particular — had relatively open Black communities. Others, Texas and Oklahoma after statehood, imposed Jim Crow with its full violence. A Black character's experience varied entirely with where he was. Get the geography right.
+The 13th, 14th, and 15th Amendments were Federal law. Their enforcement on the Western frontier varied. Some states — Kansas in particular — had relatively open Black communities. Others, Texas and Oklahoma after statehood, imposed Jim Crow with its full violence. A Black man's experience varied entirely with where he was.
 
 ---
 
@@ -82,7 +80,7 @@ Most were men. The population was deliberately kept male by Chinese custom and b
 
 Anti-Chinese violence was extreme. The Los Angeles massacre of 1871 killed eighteen Chinese at the hands of a white mob. The Rock Springs massacre in Wyoming in 1885 killed twenty-eight Chinese miners. The Hells Canyon massacre in Oregon in 1887 killed thirty-four Chinese miners and robbed their bodies. Anti-Chinese expulsions cleared Tacoma, Seattle, Eureka, and dozens of mining towns of their entire Chinese populations through the late 1880s.
 
-A Chinese character on this country is a man in a country whose laws and customs are arrayed against his existence. He has a story and likely a family ten thousand miles away that he sends paper money to in red envelopes. Use his actual conditions and not the caricature.
+A Chinese man on this country lived in a country whose laws and customs were arrayed against his existence. He had a story and likely a family ten thousand miles away that he sent paper money to in red envelopes.
 
 ---
 
@@ -238,26 +236,26 @@ Write each of them, and play each of them, as the carrier of his own history. Th
 
 ## Vignette — Two Voices in a Saloon
 
-> _You ride for him?_
+> “You ride for him?”
 >
-> _I do._
+> “I do.”
 >
-> _You been with him long?_
+> “You been with him long?”
 >
-> _Long enough._
+> “Long enough.”
 >
 > The bartender set the bottle down between them. The man on the right side of the bar took the bottle by the neck and poured for himself and set it back. He did not pour for the other man.
 >
-> _I knew his brother,_ he said.
+> “I knew his brother,” he said.
 >
-> _Did you._
+> “Did you.”
 >
-> _In Brownsville. Year before last._
+> “In Brownsville. Year before last.”
 >
-> _Then you know more about him than I do._
+> “Then you know more about him than I do.”
 >
 > The man on the left took the bottle and poured. He filled the glass past the line a careful drinker would have stopped at and he watched the other man's face while he did it. The other man did not look up.
 >
-> _I am not looking for anything,_ the first man said.
+> “I am not looking for anything,” the first man said.
 >
-> _No man is, until he finds it._
+> “No man is, until he finds it.”

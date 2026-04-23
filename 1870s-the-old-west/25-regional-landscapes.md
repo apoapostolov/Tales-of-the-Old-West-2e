@@ -1,12 +1,8 @@
 # Chapter 25 — Regional Landscapes
 
-> _"PICK THE COUNTRY. LEARN THE COUNTRY. RENDER THE COUNTRY WITH THE VERBS AND NOUNS THE COUNTRY CONTAINS."_
->
-> — A WORKING NOTE ON LANDSCAPE
+> _“THE COUNTRY EAST OF THE PECOS LAY FLAT AND PALE TO A HORIZON THAT DID NOT SEEM TO COME ANY CLOSER FOR THE RIDING. A MAN COULD SEE A MOUNTED FIGURE TEN MILES OFF AND NOT KNOW WHETHER IT WAS AN HOUR AWAY OR FOUR.”_
 
-The American West is not one country. It is a dozen distinct ecologies, each with its own light, weather, plants, animals, terrain, and seasonal rhythm. A novel set in the Llano Estacado is not the same novel as one set in the Black Hills. The writer who treats the West as one country produces flat prose. The writer who renders the specific country produces prose that the reader can stand in.
-
-This chapter walks through the major regions a 1870s western might cross. Each section gives the country's sensory palette — light, sound, smell, texture — together with its key plants and animals, its weather, its seasonal rhythm, and a worked passage at the right register.
+The American West is not one country. It is a dozen distinct ecologies, each with its own light, weather, plants, animals, terrain, and seasonal rhythm. The Llano Estacado is not the Black Hills, the Sonoran is not the Sierra, the Great Basin is not the Pacific Northwest. What follows walks through the major regions a man of the 1870s might cross. Each section gives the country's sensory palette — light, sound, smell, texture — together with its key plants and animals, its weather, and its seasonal rhythm.
 
 ---
 
@@ -150,9 +146,7 @@ Wind in the sage — the basin's constant. The pinyon jay's call in the foothill
 
 ---
 
-## 9. The Cheat-Sheet by Region
-
-For the writer assembling a campaign or a story:
+## 9. The Regions in Brief
 
 - **Llano Estacado:** vast, level, treeless, the great sky, the wind, the playas, buffalo and pronghorn, the canyons.
 - **Northern Plains:** rolling grass, sage, buffalo (until 1880s), brutal weather, the buttes, the Black Hills.
@@ -162,18 +156,6 @@ For the writer assembling a campaign or a story:
 - **Pacific Northwest:** the wet west, the dry east, Douglas fir and salmon and rain.
 - **California:** valley, Sierra, coast, the redwoods, the dry summers and wet winters.
 - **Great Basin:** sage, basin and range, the salt flats, the bristlecone pines.
-
----
-
-## 10. Refusing the Generic Landscape
-
-The temptation is to write _the western landscape_ as a single thing — sand and sage and tumbleweed under a big sky. The temptation is to render the desert the way a Hollywood location scout would render it. The temptation is to make the country backdrop.
-
-Refuse. A scene set in the Llano is not a scene set in the Sonoran. The grasses are different. The trees are different. The animals are different. The weather is different. The smells are different. The light is different. The historical inhabitation is different.
-
-The reader who has been in the country knows when the prose is wrong. The reader who has not been in the country can be put there if the prose is right, or can be lied to if it is wrong. The lie always shows.
-
-A western set in a specific country is harder to write than a western set in _the West._ The specific country requires research and the willingness to be limited by what was actually there. The result is prose with weight. The generic country is easier to write, and the writing shows it. Pick the country. Learn the country. Render the country with the verbs and nouns the country contains. The novel that lives in a specific country is the novel the reader walks out of and back into. The generic novel is the one the reader closes.
 
 ---
 

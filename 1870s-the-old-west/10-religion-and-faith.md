@@ -1,8 +1,8 @@
 # Chapter 10 — Religion and Faith
 
-> _“THERE IS NO MAN HERE THIS EVENING WHO HAS NOT FELT THE CUT OF IT. THERE IS NO WOMAN HERE WHO HAS NOT HEARD THE STILL SMALL VOICE IN THE WILDERNESS OF HER HEART. THE LORD IS CALLING YOU. HE IS CALLING YOU TONIGHT.”_
+> _“THE LORD IS MY SHEPHERD; I SHALL NOT WANT. HE MAKETH ME TO LIE DOWN IN GREEN PASTURES; HE LEADETH ME BESIDE THE STILL WATERS. YEA, THOUGH I WALK THROUGH THE VALLEY OF THE SHADOW OF DEATH, I WILL FEAR NO EVIL: FOR THOU ART WITH ME.”_
 >
-> — A METHODIST CIRCUIT RIDER AT THE CLOSE OF A REVIVAL, KANSAS, 1875
+> — PSALM 23, KING JAMES BIBLE
 
 The popular West has been written largely as a secular space: the cowboy and the gunman act in a world without God. The historical West was nothing of the kind. The 1870s West was a deeply religious country. The circuit-riding preacher was as common a figure as the deputy sheriff. The revival meeting shaped towns. The Catholic mission was a power in the Southwest. The Mormon settlements were a sovereign religious polity in the Great Basin. The Black church traveled west with Black migrants. The Sunday morning of any western town was full.
 
@@ -244,54 +244,26 @@ Black congregations sang the spirituals listed earlier and many others. Catholic
 
 ---
 
-## 9. Refusing the False Moves
-
-**The hypocrite preacher.** The preacher who is secretly a fraud — a swindler, a seducer, a coward in disguise — is the western's oldest cheap religious move. Real frauds existed, but the move is so overused it has lost its force. A more interesting religious character is a believer whose life is failing in spite of his faith or because of it.
-
-**The death-bed conversion.** The dying outlaw who finds Jesus at the last moment. A staple of Victorian sentimental fiction. Refuse it unless you can render it as the difficult, ambiguous, not-quite-believable moment it usually was.
-
-**The deus ex machina prayer.** The character prays and the prayer is answered by an intervention that solves the plot problem. Refuse. Render prayers that are not answered, or answered in ways the character did not expect or want.
-
-**The reduction of religion to social control.** The view that religion was just the rich man's mechanism for keeping the poor man docile. Some of this happened. But the reduction misses what religion actually was for the believer: a way of making sense of suffering, a community, a discipline, a relationship with what the believer experienced as real. Render the experience, not just the function.
-
-**The pious atheist narrator.** The narrator who treats all religious characters as deluded, all religious experience as merely psychological, all religious institutions as merely political. This is the modern educated voice projected backward. In the 1870s most people, including most narrators worth reading, took religious experience seriously even when they did not share it. Calibrate accordingly.
-
----
-
-## 10. The Cheat-Sheet
-
-Pick the tradition specifically — Methodist circuit rider, Baptist revivalist, Presbyterian town minister, Catholic priest, Mormon bishop, Black AME preacher. Each operates by different procedures and speaks in a different voice. The church is a building, an institution, and a community; render all three. The preacher's voice is scripturally saturated; quote the King James Version. The hymn is the music; name it. The cemetery tells the town's history. The conversion experience is _felt_; render the feeling, not just the doctrine. The Catholic Southwest is a different world — the mission church, the priest, the _santos_, the Penitentes. The Mormon settlement is a sovereign religious community; render its distinct organization. The Black church carried west with Black migrants — the spirituals, the call-and-response preaching, the AME and Baptist congregations. Refuse the hypocrite preacher and the death-bed conversion as default moves.
-
----
-
-## 11. The Rule the Others Serve
-
-The 1870s West was a religious country. The character who never thinks about God, never attends a service, never quotes a Bible verse, never crosses himself, is a modern character in a costume. The character of the period thought about salvation, sin, and providence in some specific tradition's vocabulary, even when he was a backslider or a doubter or a cheerful infidel.
-
-Render the religious world the character moves in. Render his relationship to it — believing, doubting, fleeing, returning. The story that gets religion right gets the period right. The story that ignores religion is writing about a West that did not exist.
-
----
-
 ## Vignette — The Funeral
 
 > The grave was a four-foot trench in the dry ground at the edge of the cemetery. Two men had dug it through the morning and the dirt stood in two piles beside it. The wind moved the piles slightly.
 >
 > Reverend Heaston stood at the head of the grave with his Bible open. The mourners stood around the grave: the widow Eliza Patten in her mother-in-law's black bonnet, her two children to either side, and a dozen people from the town behind them. Patten's partner Isaac Coberly stood with his hat in his hands.
 >
-> _The Lord is my shepherd,_ Heaston said. _I shall not want._
+> “The Lord is my shepherd,” Heaston said. “I shall not want.”
 >
 > The wind took some of the words. The widow's bonnet moved. The older child looked at the box and then looked at her mother and then looked at the box.
 >
-> _He maketh me to lie down in green pastures,_ Heaston said. _He leadeth me beside the still waters._
+> “He maketh me to lie down in green pastures,” Heaston said. “He leadeth me beside the still waters.”
 >
 > The town had no green pastures and no still waters. The coffin was pine and had been built by Coberly in the morning. Patten was forty-one years old. He had died of a kick from a mule.
 >
 > Heaston closed the Bible.
 >
-> _We commit our brother to the ground,_ he said. _Earth to earth. Ashes to ashes. Dust to dust. In the sure and certain hope of the resurrection unto eternal life._
+> “We commit our brother to the ground,” he said. “Earth to earth. Ashes to ashes. Dust to dust. In the sure and certain hope of the resurrection unto eternal life.”
 >
 > The two men who had dug the grave lowered the box into it on ropes. Coberly stepped forward and threw the first handful of dirt onto the lid. The widow stepped forward and threw the second.
 >
 > Then the two men with the shovels filled the grave while the others stood and watched. The sound of the dirt on the lid lasted as long as it lasted. When the trench was full one of the men packed it down with the back of the shovel.
 >
-> Heaston put on his hat and walked over to the widow and said _The supper at the church is ready when you are._
+> Heaston put on his hat and walked over to the widow and said, “The supper at the church is ready when you are.”

@@ -1,10 +1,8 @@
 # Chapter 12 — What Existed and What Did Not
 
-> _"THE COWBOY WITH A ZIPPER, THE SHERIFF WITH A FLASHLIGHT, THE SALOON WITH A JUKEBOX — EACH ONE SNAPS THE SPELL."_
->
-> — A WORKING NOTE TO THE GAME MASTER
+> _“SHE BROUGHT THE LAMP DOWN OFF THE HIGH SHELF AND TRIMMED THE WICK AND LIT IT WITH A MATCH STRUCK ON THE IRON OF THE STOVE. THE FLAME CAUGHT AND STEADIED AND THREW HER SHADOW LONG AGAINST THE WALL.”_
 
-The wrong-decade object is the most reliable way to lose the West at the table. The cowman drinking a Coca-Cola in 1879. The homesteader loading her .30-30. The sheriff thumbing on a flashlight. The saloon with electric bulbs above the bar. Each error breaks the spell, and the spell is fragile. This chapter is the strict catalog of what a player or GM can put in a 1870s scene and what must be kept out. The decade in question runs from January 1, 1870 through December 31, 1879 — early (1870–73), mid (1874–76), late (1877–79). Where a technology arrived mid-decade it is dated. Where it was widespread by the end of the decade it is so noted. The bias should always be toward _not yet._ The West of fiction arrives later than the West of history because the technology took a year to a decade to reach a Texas ranch from a New York factory. A telephone existed in Boston in 1876; it did not reach the west Texas range for another twenty years. If you are not certain a thing existed in 1875, do not put it in 1875.
+The wrong-decade object is the most reliable way to lose the West. The cowman drinking a Coca-Cola in 1879. The homesteader loading her .30-30. The sheriff thumbing on a flashlight. The saloon with electric bulbs above the bar. Each error breaks the spell, and the spell is fragile. The decade in question runs from January 1, 1870 through December 31, 1879 — early (1870–73), mid (1874–76), late (1877–79). Where a technology arrived mid-decade it is dated. Where it was widespread by the end of the decade it is so noted. The bias should always be toward _not yet._ The West of the imagination arrives later than the West of history because the technology took a year to a decade to reach a Texas ranch from a New York factory. A telephone existed in Boston in 1876; it did not reach the west Texas range for another twenty years.
 
 ---
 
@@ -204,7 +202,7 @@ A short list of period-correct phrasings paired with the modern wrong-period sub
 
 ## 9. Common Wrong-Decade Errors
 
-A short field guide to errors a writer can make in 1870s prose.
+A short field guide to the errors most often made about 1870s material life.
 
 The flashlight — battery-powered electric torch invented 1899; in the 1870s the man takes the lantern. The matchbook — book matches 1892; in the 1870s the matches are in a tin or a small wooden box, or the lucifers are loose in the pocket. The flashbulb — magnesium flash powder from 1887; no photography flash before that, with studio portraits using natural light or skylights. The wristwatch — pocket watch only; the wristwatch is post-1900 (military adoption WWI). A man in 1875 takes out his pocket watch, snaps the case open, and consults it.
 
@@ -216,14 +214,6 @@ The cowboy with mirrored sunglasses — sunglasses for general wear arrive in th
 
 ---
 
-## 10. The Cross-Check
-
-When in doubt, run the object through this five-question gate before putting it in your 1875 scene. **When was it invented?** A patent date is the floor. **When was it commercialized?** Often years after invention. **When did it reach the West?** Often years after commercialization — many Eastern goods take five to ten years to become routine on the frontier. **Could a man in your scene's town and trade afford it?** The Stetson at five to ten dollars was within a cowman's reach; the two-hundred-dollar spring carriage was not. **Would the character know it by your name?** A cowman in 1875 does not call his pistol a _Peacemaker_ or a _.45 Long Colt_ the way a 1990s hobbyist does. He calls it his pistol, his Colt, his six-shooter, his hogleg. If the object passes the gate, it is in the scene. If not, substitute, omit, or reset the year.
-
-Use this chapter every time a scene includes a specific object, technology, transaction, or service. The prose that gets the gear right earns trust. The prose that puts the wrong-decade object in the right-decade story breaks trust, and the reader does not come back.
-
----
-
 ## Vignette — The Wrong Decade
 
-> The new hand at the bunkhouse pulled a metal cylinder from his pocket and thumbed a switch and a white beam fell across the floor. The boys looked at it. Charlie set down his coffee. _Where in the name of God,_ he said, _did you get that._ The new hand looked at the thing in his hand and looked at Charlie and his face went the color of his shirt. The wind went out of the room. He put the thing back in his pocket and did not take it out again that winter and the boys did not speak of it but they did not forget it either, and when he drew his pay in the spring nobody was sorry to see him ride out.
+> The new hand at the bunkhouse pulled a metal cylinder from his pocket and thumbed a switch and a white beam fell across the floor. The boys looked at it. Charlie set down his coffee. “Where in the name of God,” he said, “did you get that.” The new hand looked at the thing in his hand and looked at Charlie and his face went the color of his shirt. The wind went out of the room. He put the thing back in his pocket and did not take it out again that winter and the boys did not speak of it but they did not forget it either, and when he drew his pay in the spring nobody was sorry to see him ride out.

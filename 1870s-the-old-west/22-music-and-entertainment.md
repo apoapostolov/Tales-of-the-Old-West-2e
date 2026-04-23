@@ -1,8 +1,6 @@
 # Chapter 22 — Music and Entertainment
 
-> _"THE FIDDLER AT THE WAGON HAD QUIT AT SUPPER AND WAS ASLEEP UNDER THE WAGON."_
->
-> — A WORKING NOTE ON THE EVENING
+> _“THE FIDDLER AT THE WAGON HAD QUIT AT SUPPER AND WAS ASLEEP UNDER THE WAGON.”_
 
 The popular West has rendered music as a tin cup of coffee at the campfire and a lonesome harmonica at sundown. The reality was louder, more various, and more constant. The frontier ran on music. The trail hand sang to settle the herd. The homestead family sang at evening worship. The town fiddler played the Friday-night dance until the lamps were turned down at one in the morning. The German immigrant brought his concertina and his choral society. The Mexican household sang the corridos of the border war. The Black soldier at Fort Davis sang the spirituals his mother had taught him in Louisiana. The Cornish miner sang the chapel hymns of his village. The opera house in Leadville and the opera house in Tombstone booked Edwin Booth and Sarah Bernhardt and the Black Crook road company and pulled them off the Atchison train. Most of what the reader imagines as silence on the frontier was filled with sound the period made for itself.
 
@@ -199,12 +197,6 @@ The dime novel was the boy's reading and the working-class adult's reading. It w
 
 ---
 
-## 14. The Rule the Others Serve
-
-The frontier evening was loud. The reader's imagination supplies silence; the country supplied sound. Render the sound, name the instrument, name the song, and the evening stands. The fiddle is the West's principal instrument. The trail hand sings to settle the herd. The country dance is the rural West's principal social institution. The saloon piano plays parlor songs and sentimental ballads — ragtime is the next decade. Edwin Booth has played in Denver and Leadville. The minstrel show is racist by any modern standard and is enormously popular. The dime novel is already shaping what the frontier participant thinks he is doing while he is doing it. The West's musical culture is not Anglo by default.
-
----
-
 ## Vignette — Second Watch
 
-> Pruitt was on second watch and had been singing _Streets of Laredo_ for an hour when he ran out of verses he knew and started over. The herd was bedded along the dry wash and was not going to bolt. He sang the verses in the same low voice he had heard his uncle sing them in Lampasas in the year his mother died. The fiddler at the wagon had quit at supper and was asleep under the wagon. The other men were asleep where they had thrown their rolls. Pruitt rode the slow circle around the herd and sang the verse about the boy who had been shot in the breast and was dying.
+> Pruitt was on second watch and had been singing “Streets of Laredo” for an hour when he ran out of verses he knew and started over. The herd was bedded along the dry wash and was not going to bolt. He sang the verses in the same low voice he had heard his uncle sing them in Lampasas in the year his mother died. The fiddler at the wagon had quit at supper and was asleep under the wagon. The other men were asleep where they had thrown their rolls. Pruitt rode the slow circle around the herd and sang the verse about the boy who had been shot in the breast and was dying.

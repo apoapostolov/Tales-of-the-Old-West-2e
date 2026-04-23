@@ -1,12 +1,12 @@
 # Chapter 3 — The Borderlands
 
-> _“THE RIVER WAS A LINE ON A MAP. A LINE ON A MAP IS A THING A LAWYER MADE. A THING A LAWYER MADE WILL NOT KEEP A COW HOME.”_
+> _“POBRE MÉXICO, TAN LEJOS DE DIOS Y TAN CERCA DE LOS ESTADOS UNIDOS.”_
 >
-> — A SOUTH TEXAS RANCHER, 1877
+> — PORFIRIO DÍAZ
 
 The popular West has been written almost entirely from the Anglo side of the border. The historical West does not work that way. The border was a porous, violent, commercial, intermarried, and contested zone. The same families lived on both sides. The same cattle and horses crossed in both directions, often multiple times in their lives, often without anyone's permission. The same languages — Spanish, English, the various Native languages, the trade pidgin — were heard on both sides.
 
-A western set on the border that does not render the Mexican side, the Mexican characters, the Mexican institutions, and the Mexican-American population is writing the wrong country. This chapter is the reference for getting it right.
+What follows is the country on both sides of the line: the Mexican side and the Anglo side, the institutions of each, and the population that lived between them.
 
 ---
 
@@ -46,9 +46,9 @@ The 1870s saw the beginning of northward migration of working Mexicans seeking e
 
 Spanish was dominant south of the border and a major language north of it. English spread rapidly north of the border and was rare south of it. Native languages were spoken in their own communities — Yaqui, Mayo, Tarahumara, Comanche, Apache, and others. Border Spanish was a specific dialect with regional vocabulary, English loanwords, and idioms not found in Spain or central Mexico. Caló was the argot of the border, a mixed Spanish–English–Native vocabulary used in some specific communities; the pachuco caló was a later development.
 
-### A scene's language
+### The languages in the room
 
-A scene set on the border should render the language mix honestly. Render Spanish dialogue in English with occasional Spanish words — specifically the words for which there is no English equivalent: _mesa, arroyo, rebozo, alcalde, jefe, vaquero._ For longer Spanish utterances, render in Spanish with a clean translation following or implicit in context. Avoid ungrammatical English as a marker of Spanish-speaker (the Speedy Gonzales register); render the Spanish-speaker's English as the English of an educated bilingual when appropriate, and as hesitant or limited only when the character would actually have hesitant or limited English. Use _usted/tú_ distinctions where they matter to the scene. The English _you_ flattens a social signal that the Spanish-speaking character would hear.
+On the border the language mix runs through the day. Spanish speakers and English speakers cross at every counter and every corral. The Spanish words that have no clean English equivalent — _mesa, arroyo, rebozo, alcalde, jefe, vaquero_ — go straight into the Anglo's working speech. The Spanish-speaker's English, when he has it, is the English of an educated bilingual; the Anglo who has been on the border long enough has the Spanish of a working bilingual. The _usted/tú_ distinction carries weight a Spanish-speaker hears that the English _you_ erases.
 
 ---
 
@@ -160,31 +160,15 @@ A scene at a Mexican hacienda has specific furniture: the casco's adobe walls, t
 
 ---
 
-## 12. The Cheat-Sheet
-
-Render both sides of the border. The border was not a wall; it was a zone. Render the language mix honestly — Spanish words for Spanish things, and don't use bad English as shorthand for a Spanish-speaker. Know the institutions: the rurales, the Texas Rangers, the customs officers, the alcaldes, the consulates. Know the trade: cattle and horses moving in both directions, legal and illegal. The corrido is the border's other history; a scene with a corrido can carry the people's perspective. The bandit is often more than a bandit — render the political, economic, and moral dimensions. The Trans-Pecos and Big Bend are specific country; use the regional landscape chapter. The hacienda is the rural Mexican setting and has specific architecture, social organization, and voice. Intermarried families are the border's social fabric; render them.
-
----
-
-## 13. The Rule the Others Serve
-
-The border is not the edge of the West. It is the West's other half. A novel — or a campaign — that treats Mexico as backdrop, Mexicans as supporting cast, and Spanish as decoration is a story that has not done its work.
-
-The honest border story renders the river crossings, the ranching estates, the cantinas with corridos, the rurales and the Rangers, the Anglo-Hispanic families, the smugglers and the patriots and the exiles. It uses Spanish where Spanish belongs. It treats the Mexican character as a person with politics and a history. It refuses the cartel of bad clichés that has dominated the border in American fiction since the dime novels.
-
-The border is the West's most fertile setting for the writer or the GM who can do the work. The work is real.
-
----
-
 ## Vignette — The Trail Down to the River
 
 > The trail came down out of the Chisos in the late afternoon and the river was visible from the divide as a thin green line in the brown country. Carlson sat his horse and looked at it.
 >
-> _Three more hours,_ Romero said. _The crossing is at Boquillas. The water will be low this time of year._
+> “Three more hours,” Romero said. “The crossing is at Boquillas. The water will be low this time of year.”
 >
-> _And then?_
+> “And then?”
 >
-> _Then we are in Coahuila, and the man we want is at his ranch ten miles south. If he is there._
+> “Then we are in Coahuila, and the man we want is at his ranch ten miles south. If he is there.”
 >
 > Carlson nodded and started his horse down the trail. The country between him and the river was ocotillo and creosote and the sotol stalks standing dry from last year's bloom. A roadrunner crossed the trail ahead of them and was gone into the brush.
 
@@ -194,6 +178,6 @@ The border is the West's most fertile setting for the writer or the GM who can d
 >
 > Don Eulalio Vargas came out of the front door of the main house in a clean white shirt and a dark jacket. He was an old man with white hair and a face the color of saddle leather and eyes that did not give anything away.
 >
-> _Caballeros,_ he said, _bienvenidos. He estado esperando._
+> “Caballeros,” he said, “bienvenidos. He estado esperando.”
 >
 > Romero answered him in the formal Spanish that Vargas would expect. Carlson stood behind, his hat in his hand.

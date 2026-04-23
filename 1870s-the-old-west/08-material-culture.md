@@ -1,12 +1,8 @@
 # Chapter 8 — Material Culture: Iron, Leather, Cloth
 
 > _“THE GUN HAD RIDDEN IN HIS BELT THROUGH FIVE WET WINTERS AND THE BLUING WAS ALL OFF THE MUZZLE AND THE CYLINDER FACE AND THE GRIP WAS WORN TO HIS HAND.”_
->
-> — A WICHITA GUNSMITH'S NOTEBOOK, 1881
 
-This chapter is the gear reference. Every object in it should be written with weight, smell, sound, cost, failure mode, and use. A western that names a Colt without knowing it is single-action loses the audience that knows.
-
-The frontier was, beneath everything else, a material culture: iron, leather, and cloth, made and remade by hand and by small machine, traded across the country in wagons and sold across the counters of mercantiles. What follows is the inventory of the things a person of the period actually held.
+The frontier was, beneath everything else, a material culture: iron, leather, and cloth, made and remade by hand and by small machine, traded across the country in wagons and sold across the counters of mercantiles. Each object had its weight, smell, sound, cost, and failure mode. What follows is the inventory of the things a person of the period actually held.
 
 ---
 
@@ -236,8 +232,8 @@ These are the textures the prose puts on the page and the table.
 >
 > Mr. Pruitt finished and the man took his nails and went out past Wesley without a word. Mr. Pruitt looked over and waited.
 >
-> _A pound of the green coffee,_ Wesley said. _And a tin of the matches. And a box of the .44-40s if you have them._
+> “A pound of the green coffee,” Wesley said. “And a tin of the matches. And a box of the .44-40s if you have them.”
 >
-> Mr. Pruitt turned to the shelf for the cartridges. _On account?_
+> Mr. Pruitt turned to the shelf for the cartridges. “On account?”
 >
-> _Cash,_ Wesley said, and laid two coins on the counter.
+> “Cash,” Wesley said, and laid two coins on the counter.

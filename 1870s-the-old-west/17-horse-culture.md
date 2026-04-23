@@ -1,8 +1,6 @@
 # Chapter 17 — Horse Culture
 
-> _"THE HORSE MADE THE WEST POSSIBLE."_
->
-> — A WORKING NOTE ON THE PERIOD'S CENTRAL ANIMAL
+> _“BOWMAN THREW THE BLANKET ON. HE SET THE SADDLE ON TOP AND SLID IT BACK ALONG THE BAY'S SPINE UNTIL IT SAT RIGHT. THE BAY HAD LEARNED TO PUFF AND HELD HIS BREATH AGAINST THE RIG. BOWMAN STOOD WITH HIS SHOULDER TO THE BAY'S SHOULDER AND WAITED HIM OUT.”_
 
 The horse in the West was the principal means of transportation, the principal beast of burden, the principal instrument of war, the principal status object, the principal subject of pride and theft and ceremony. A western that does not get the horse right is a western that has not done its work. This chapter is the reference for the horse on the page in his full economic, cultural, and physical reality — beyond what Chapter 15 (saddling, riding, trail care) and Chapter 16 (the cowhand's string) already cover. Breeds and types, mustanging, the cavalry remount, racing, theft, the trade, the equipment, the ceremony, the vocabulary, and the relationship.
 
@@ -206,13 +204,7 @@ Render the horseman through his vocabulary. The specific terms carry the period.
 
 **Bunch up** is a horse drawing his legs together and rounding his back, often as a prelude to bucking. **Crow-hop** is a mild buck — the horse hopping with all four legs, not violently. **Sun-fish** is a serious buck — the horse twisting the body in mid-air, presenting the belly to the sun; a sun-fishing horse threw most riders. **Rear** is the horse standing on his hind legs, dangerous; a rearing horse can fall over backwards on the rider. **Bog down** is a horse trapped in mud or a bog. **Founder** is laminitis, a severe inflammation of the horse's feet, often from overfeeding or overwork. **Galled** is a horse with sore patches under the saddle or harness from rubbing. **Pulled up lame** is a horse that became lame on the trail and could not continue at speed. **Saddle-sore** is either the rider after long riding, or the horse with sore patches. **Throw a shoe** is a horseshoe coming off in the field — a horse without a shoe might quickly become lame on stony ground.
 
-A scene with a horse will deploy these terms naturally; the writer who reaches for them gives the period weight.
-
----
-
-## 10. The Rule the Others Serve
-
-The horse on the page is not transportation — not in the western. The horse is a partner, a status, a working tool, a target of theft, a subject of ceremony, a measure of wealth, a measure of skill. The character with a horse is in a relationship the writer must render with as much specificity as the character's relationships with other people. A western that gets the horse right has done its fundamental work. A western that does not — that treats the horse as a generic mount or as set dressing — has missed the period's central animal. The horse made the West possible.
+These terms came to the horseman's mouth naturally and gave the period its weight.
 
 ---
 
@@ -220,30 +212,30 @@ The horse on the page is not transportation — not in the western. The horse is
 
 > The trader had four head in the corral when Colter rode up. Colter looked them over from the saddle for a minute and then climbed down and tied his own horse to the rail.
 >
-> _What you got?_
+> “What you got?”
 >
-> _Three saddle horses and a pack mule. The bay mare is six years old, sound as a dollar, broken to anything you want her broken to. The sorrel gelding's eight, pretty good cow horse, been on two trail drives. The little dun is green-broke, only five, but he'll make somebody a hand. The mule's old, fifteen years, but he'll pack two hundred pounds all day._
+> “Three saddle horses and a pack mule. The bay mare is six years old, sound as a dollar, broken to anything you want her broken to. The sorrel gelding's eight, pretty good cow horse, been on two trail drives. The little dun is green-broke, only five, but he'll make somebody a hand. The mule's old, fifteen years, but he'll pack two hundred pounds all day.”
 >
 > Colter went into the corral. He went to the bay first and ran his hand down her near foreleg and picked up the foot and looked at it. He set the foot down and walked around her and ran his hand down each leg in turn. He stood at her shoulder and pulled her lips back and looked at her teeth.
 >
-> _Six?_ he said.
+> “Six?” he said.
 >
-> _Six this spring._
+> “Six this spring.”
 >
-> _She's eight._
+> “She's eight.”
 >
-> _Well. Maybe seven._
+> “Well. Maybe seven.”
 >
-> _Eight. The cups are gone out of these incisors._
+> “Eight. The cups are gone out of these incisors.”
 >
 > The trader did not argue further. Colter went to the sorrel and mouthed him too and then put a halter on him and led him out into the open and jogged him in a circle. The sorrel was sound. The dun he handled briefly and passed by; he did not want a green horse. The mule he checked the feet and the back.
 >
-> _Forty for the bay,_ he said. _Sixty-five for the sorrel. Twenty for the mule. I'll give you a hundred and twenty-five for the three._
+> “Forty for the bay,” he said. “Sixty-five for the sorrel. Twenty for the mule. I'll give you a hundred and twenty-five for the three.”
 >
-> _A hundred and fifty._
+> “A hundred and fifty.”
 >
-> _A hundred and thirty._
+> “A hundred and thirty.”
 >
-> _A hundred and forty._
+> “A hundred and forty.”
 >
 > Colter took out his wallet and counted out a hundred and forty dollars in greenbacks and laid them on the corral rail.

@@ -1,12 +1,12 @@
 # Chapter 2 — Native Cultures: The Daily Physical World
 
-> _“THE COUNTRY THAT WAS HERE BEFORE WE WERE HERE IS STILL HERE. IT DOES NOT BELONG TO US BECAUSE WE NAMED IT. IT BELONGED TO PEOPLE WHO HAD A NAME FOR EVERY ARROYO IN IT.”_
+> _“ONE DOES NOT SELL THE EARTH UPON WHICH THE PEOPLE WALK.”_
 >
-> — A SURVEYOR'S LETTER FROM THE PALO DURO, 1879
+> — TASHUNKE WITKO (CRAZY HORSE), OGLALA LAKOTA, 1875
 
-The previous chapter set out who the Native nations were and what was being done to them. This one goes lower. It puts the tipi pole and the basket and the loom in the hand. The political level is where the screen tradition stops; the material level is where the writing has to live. If a Comanche man and a Diné woman sit at the same campfire, they are sitting in worlds that share a country and almost nothing else. The difference is in the hand, in the verb, in the seasonal round, in what the woman owns and what the man rides.
+The previous chapter set out who the Native nations were and what was being done to them. This one goes lower. It puts the tipi pole and the basket and the loom in the hand. A Comanche man and a Diné woman at the same campfire sit in worlds that share a country and almost nothing else. The difference is in the hand, in the verb, in the seasonal round, in what the woman owns and what the man rides.
 
-This chapter is organized by region and nation. Each section gives the physical world: shelter, food economy, the man's material kit, the woman's material kit, the seasonal round, and the verbs of the work. Each section closes with what to refuse and what to read further.
+What follows is organized by region and nation. Each section gives the physical world: shelter, food economy, the man's material kit, the woman's material kit, the seasonal round, and the work.
 
 ---
 
@@ -230,36 +230,8 @@ For a deeper reference, William Tomkins's _Indian Sign Language_ (1929; widely a
 
 ---
 
-## 7. Writing and Playing the Native Character — the Rules
-
-This module ends as the violence module ends: with hard rules. The Native character in western fiction has been more often written badly than any other character type. The rules are not optional.
-
-**Rule 1: specificity over abstraction.** The character is Comanche, or Lakota Hunkpapa, or Chiricahua Apache, or Hopi Bear Clan. Not _an Indian._ The specifics determine everything — what he eats, what he wears, what he believes, how he travels, how he speaks. _Indian_ is a colonial abstraction.
-
-**Rule 2: the material, not the mystical.** The strongest Native scenes are grounded in physical specifics: the work, the food, the camp, the horse, the seasonal round. Vague spiritual gestures are white writers' shorthand for _I do not know what I am writing about._ The material level is where the prose has to live.
-
-**Rule 3: the language problem.** A Native character thinks and speaks in a language that is not English. The writer or GM working in English has to make a choice. Either render the speech in stylized English — a simplified, slightly formal English that signals to the listener that another language is being heard, avoiding the worst pidgin clichés (_heap big, ugh, kemo sabe_) and using a clean, short, declarative register — or render it in naturalized English, the way a translator would, and trust that the original was a fluent native-language utterance. Either is correct. Pick one and hold to it. Do not mix.
-
-**Rule 4: the conceptual world.** A Native character does not have the same conceptual furniture as a white character. The categories of relation, ownership, time, sacred, profane, kin, and self are different. The careful writer reads the ethnographies and tries to render the difference without exoticizing it. A Comanche man's relationship to his horse is not the relationship of a cowhand to his mount. A Diné woman's relationship to her loom is not the relationship of a homestead wife to her quilt. The differences matter.
-
-**Rule 5: refuse the four lies.** The _noble savage_ — the Native character who is pure, wise, and tragic — is a stereotype that flatters the white writer and erases the Native person. The _savage savage_ — cruel, irrational, animal — is the dime-novel lie. The _vanishing Indian_ — whose story is his own disappearance — is a refusal to look; he does not disappear; he is still here in 1875 and in 1925 and in 2025. The _pan-Indian_ — whose nation is unspecified, whose customs are a mash-up of plains and southwest and woodland — is a failure of research.
-
-**Rule 6: read the source.** For any nation, read at least one work by a member of that nation or a recognized scholar of it. A short list: for Comanche, Hämäläinen's _The Comanche Empire_; for Lakota, Joseph Marshall III's _The Lakota Way_; for Apache, Geronimo's autobiography and Eve Ball's _Indeh_; for Diné, Ruth Underhill's _The Navajos_ and Edward Sapir's ethnographies; for Pueblo, Alfonso Ortiz's (San Juan Pueblo) _The Tewa World_. For general background, the novels of James Welch — _Fools Crow_ and _Winter in the Blood_ — are essential.
-
-**Rule 7: the captive question.** Many western settings include the captive — the white or Mexican person taken as a child, raised in the band, returned (or not) in adulthood. The captive experience is one of the West's recurring subjects. The careful writer knows that the captive's testimony is complicated: many returned captives preferred the band to the colonial society. Cynthia Ann Parker's case is the canonical example. The captive scene can be the bridge between worlds, but it must be written from the captive's actual divided experience, not from sentimental repatriation narratives.
-
----
-
-## 8. The Rule the Others Serve
-
-A Native character on a page or in a session is a person of a specific nation in a specific year facing a specific situation that the writer or GM must take seriously enough to research. The flat figure on the ridge — the silhouette, the threat, the symbol — is the western's oldest sin and the one the canon has worked hardest to abandon.
-
-The prose meets the Native character on his ground, in his lodge, with his tools in his hands and his language in his head. The writer who cannot do this should write a different character. The writer who will do this can write the western that has not yet been written enough times.
-
----
-
 ## Vignette — A Comanche Scout in His Mother Tongue
 
 > The scout knelt at the edge of the grass and put his hand flat on the ground. The dust under his palm was warm from the sun and dry under that, and beneath the dryness was the cool that meant the rain three days back had not gone far. He held his hand still and listened with it. The horses had crossed here in the night. Six of them, unshod, two of them the same animal he had ridden behind out of Adobe Walls four summers before. He knew the print as another man knows a face.
 >
-> He stood and looked east where the sky was still pale. He did not speak. There was no one with him to speak to. He thought in the words his mother had given him and there were no English words for the thought and he did not need any. He thought, _They have come the long way around, the way our grandfathers went, and they will be at the seep by noon._ He turned and went back to his horse.
+> He stood and looked east where the sky was still pale. He did not speak. There was no one with him to speak to. He thought in the words his mother had given him and there were no English words for the thought and he did not need any. He thought, in his own tongue, that they had come the long way around, the way the grandfathers went, and that they would be at the seep by noon. He turned and went back to his horse.

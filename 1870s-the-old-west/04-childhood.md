@@ -1,12 +1,8 @@
 # Chapter 4 — Childhood on the Frontier
 
 > _“THE BABY WENT IN MARCH AND THE TWO OLDEST IN AUGUST AND THE LITTLE ONE THE NEXT MARCH AGAIN. THERE WERE STILL FIVE OF THEM AT THE TABLE. SHE COUNTED EVERY NIGHT.”_
->
-> — A KANSAS HOMESTEAD WIDOW'S DIARY, 1879
 
-The popular western has rendered the frontier child as a sketch: the boy at his father's stirrup, the girl on the schoolroom step, the orphan saved by the gunman. The historical record is fuller and harder. The frontier child worked from the time he could carry a bucket. He was at risk of death from twenty diseases the East had tamed by the 1880s. He was educated by his mother, his older sister, and a five-month schoolmarm if his county had one. He buried siblings and was buried by parents at rates the modern reader finds difficult to credit. He played with what was at hand — the corn-husk doll, the willow whistle, the dog, the country itself.
-
-The writer or GM who centers a frontier child does not sentimentalize. The child is a small working person with a small body and a large country. The country shapes him. The work shapes him. The losses shape him. Render those, and the child stands.
+The frontier child worked from the time he could carry a bucket. He was at risk of death from twenty diseases the East had tamed by the 1880s. He was educated by his mother, his older sister, and a five-month schoolmarm if his county had one. He buried siblings and was buried by parents at rates the modern reader finds difficult to credit. He played with what was at hand — the corn-husk doll, the willow whistle, the dog, the country itself. He was a small working person with a small body and a large country, and the country shaped him.
 
 ---
 
@@ -234,7 +230,7 @@ The orphan train movement (1854–1929) sent about 250,000 children from the eas
 
 The child arrived knowing nothing about the family that took him. He sometimes was renamed. He sometimes was sent back at the next train. He sometimes ran. The movement's record is mixed: many children found genuine homes; many did not.
 
-How to render the orphan train scene. The child stands on the church steps in the line. The local men walk the line and look. The child whose hair is the color the chooser likes, whose teeth are straight, whose body looks like it can lift a hundred pounds, is taken first. The child who is sickly, who is too small, who does not look strong, is taken last or returned to the train. The agent keeps the records; the family signs the indenture; the wagon drives away. The child does not know where he is going. He is eight.
+The child stood on the church steps in the line. The local men walked the line and looked. The child whose hair was the color the chooser liked, whose teeth were straight, whose body looked like it could lift a hundred pounds, was taken first. The child who was sickly, who was too small, who did not look strong, was taken last or returned to the train. The agent kept the records; the family signed the indenture; the wagon drove away. The child did not know where he was going. He was eight.
 
 ---
 
@@ -258,7 +254,7 @@ In the **shows** the child rider in the Mexican circus, the child acrobat in the
 
 ## 11. The Vocabulary, the Sound, the Smell
 
-The child's world had a specific vocabulary. The writer or GM who centers a child should know it.
+The child's world had a specific vocabulary.
 
 The period words for the child by age are these. _Babe, infant, suckling_ for the nursing child. _Toddler, little chap, little one_ for two to four. _Tow-head, button, tyke_ for the small child, often blond. _Boy, girl, child_ as the general word. _Lad, lass_ slightly archaic, used by the older generation. _Youngster, young one_ common. _Young 'un_ the most common spoken form on the frontier. _Brat, whelp_ disparaging. _Half-grown, sprout, stripling_ for the boy of twelve to fifteen. _Young man, young woman_ for the grown child by fifteen or sixteen. _Hand, hired girl_ for the working teenager.
 
@@ -270,14 +266,6 @@ What the child saw: the country at adult-knee height; the stove from below; the 
 
 ---
 
-## 12. The Cheat-Sheet
-
-The frontier child works from when he can carry a bucket. Render him at his work. He buries siblings and is buried by parents at rates the modern reader finds difficult. Render the small graves and the household that goes on. He is educated by his mother, by his older sister, and by a five-month schoolmarm if he is lucky. Render the McGuffey, the slate, the recitation, the hickory switch. He plays with what is at hand: the corn-husk doll, the willow whistle, the pocketknife, the dog. Render the specific toy and the specific game. The Native child, the Mexican child, the Black child, the Chinese child each have specific worlds; do not render them as variations on the white homestead child. The orphan, the bound-out, the parceled-out are common; render the indenture, the new household, the silence the child carries. The child's day is a working day; the play is in the gaps; the play is not the whole day. The mortality is the floor under everything; the graveyard behind the church is the reader's reminder; do not flinch from it; do not perform grief over it.
-
-The frontier child stood at the edge of the country and the country shaped him. Render the country and the child stands. Do not put the child between the reader and the country.
-
----
-
 ## Vignette — Caleb at the Woodpile
 
-> Caleb was at the woodpile when she called. He brought the chips in his apron held up by the corners and emptied them in the box by the stove. She was at the table flouring the board. He stood a moment and watched her hands. _Get on,_ she said, not turning. He went out for the cow. The dog came around the corner of the barn and followed him. The cow was at the far end of the pasture. He went down through the grass with the halter over his shoulder.
+> Caleb was at the woodpile when she called. He brought the chips in his apron held up by the corners and emptied them in the box by the stove. She was at the table flouring the board. He stood a moment and watched her hands. “Get on,” she said, not turning. He went out for the cow. The dog came around the corner of the barn and followed him. The cow was at the far end of the pasture. He went down through the grass with the halter over his shoulder.
