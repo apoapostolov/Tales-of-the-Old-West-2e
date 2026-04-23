@@ -40,20 +40,20 @@ Refuge starts at 0 for any settlement the gang has not yet dealt with. Raise it 
 
 A fence is usually a notable gang member, a corrupt merchant, a Nuevo Mexicano trader, or a settlement contact reached through Refuge. Losing a fence$($em)through arrest, betrayal, or the law's attention$($em)drops Fence Access immediately. Building a new one takes time, goodwill, and often money.
 
-#### Horseflesh
+#### Horsestock
 
-``Horseflesh`` measures the state of the gang's riding animals as a band resource.
+``Horsestock`` measures the state of the gang's riding animals as a band resource.
 
-| Horseflesh | Meaning |
+| Horsestock | Meaning |
 | --- | --- |
 | ``3`` | Fresh remounts, sound tack, and horses fit for hard flight or hard pursuit. |
 | ``2`` | Serviceable. The gang can ride, but cannot outrun professionals for long. |
 | ``1`` | Tired, lame, hungry, poorly shod, or too few mounts for the gang's size. |
 | ``0`` | The gang cannot move fast or far. Flight is a stumble. |
 
-Horseflesh drops after hard flight from a posse, a bad winter at the hideout, drought, poor grazing, or stolen mounts lost in a score gone wrong. Restore it by taking the ``Buy Through Fences`` hideout activity, rustling a fresh remuda, or dealing with a competent wrangler.
+Horsestock drops after hard flight from a posse, a bad winter at the hideout, drought, poor grazing, or stolen mounts lost in a score gone wrong. Restore it by taking the ``Buy Through Fences`` hideout activity, rustling a fresh remuda, or dealing with a competent wrangler.
 
-When Horseflesh is 0 or 1, any well-mounted pursuer gains an advantage overtaking the gang.
+When Horsestock is 0 or 1, any well-mounted pursuer gains an advantage overtaking the gang.
 
 "@
 

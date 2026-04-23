@@ -411,7 +411,7 @@ To understand the world, its warnings and its bounty, to grow a crop, or find so
 - You may give one success to another player character in the same trouble as you.
 - You gain a +1 bonus to a later ability roll relating to this one.
 
-- You cover your tracks, imposing a −1 penalty to any HAWKEYE roll when they try to track you. You can choose this stunt multiple times if you roll several extra successes.
+- You give an opponent a −1 penalty to their HAWKEYE when they try to track you. You can choose this stunt multiple times if you roll several extra successes.
 
 - You impress someone.
 

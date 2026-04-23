@@ -1,0 +1,926 @@
+# Competence Procedures — How the Working West Did Its Work
+
+This file is the procedural reference. The best western prose
+shows working men and women _at work,_ and the prose breathes
+because the writer knew the procedure cold. McMurtry's Pea Eye
+hobbling horses, McCarthy's John Grady Cole breaking colts,
+Portis's Rooster cleaning his rifle, Hansen's Bob Ford packing
+a wound — every one written by an author who had done it or
+had read men who had.
+
+This file gives you the procedures. Each one is rendered in the
+_terse competence register_ you should imitate when writing the
+work itself: present-tense, second-person or third-person,
+short clauses, trade-specific nouns, no commentary. The reader
+who knows the work will recognize it. The reader who does not
+will trust the prose.
+
+Use this file two ways:
+
+1. **As reference.** When a scene puts a character at work,
+   read the procedure and write the scene with the right
+   nouns, verbs, and sequence.
+2. **As model prose.** Each procedure below is also a sample of
+   the competence register you should reach for when narrating
+   any skilled work, even outside this list.
+
+Cross-reference `knowledge/cowboy-life.md` (work routine and
+trail life), `knowledge/material-culture.md` (gear specs),
+`knowledge/frontier-survival.md` (terrain and weather),
+`knowledge/medicine-and-death.md` (wounds and disease).
+
+---
+
+## 1. The competence register — what it is and how to write it
+
+The competence register is the prose mode used to describe
+skilled work as it is being done. It has six properties:
+
+1. **Present-tense or simple past, never conditional.** The
+   work happens. _He pulls the cinch_ or _He pulled the cinch._
+   Not _He would pull the cinch._ Not _One would._
+2. **Specific nouns.** The thing has a name. _Latigo,_ not
+   _strap._ _Honda,_ not _loop._ _Snaffle,_ not _bit_ (when
+   accuracy matters).
+3. **Strong verbs.** _Slap, pull, throw, dally, pop, set,
+   draw, cut._ No copulas where a verb will do.
+4. **Sequence over explanation.** _First, then, then._ The
+   reader is shown the order. The reader infers the reason.
+5. **No interior.** The worker does not narrate his feelings.
+   He works. The narrator does not narrate the worker's
+   feelings either.
+6. **Short clauses.** The breath of the prose is the breath
+   of the work. Long sentences for waiting; short sentences
+   for hands moving.
+
+**Bad (AI default):**
+
+> Bowman saddled his horse, carefully ensuring that the
+> cinch was properly tightened so as to prevent the saddle
+> from shifting during the ride, an unfortunate occurrence
+> that could potentially lead to injury for both horse and
+> rider.
+
+**Good (competence register):**
+
+> Bowman threw the blanket on. He set the saddle on top of
+> the blanket and slid it back along the bay's spine until
+> it sat right. He pulled the cinch through the latigo and
+> drew it up by feel. He waited for the bay to let out his
+> breath and then he drew it up the rest of the way.
+
+Notice in the good version: specific gear (_blanket, saddle,
+cinch, latigo_), specific behavior of the animal (_let out
+his breath_ — every cowman knows the bay puffs out his belly
+to keep the cinch loose), no explanation, no fear of safety.
+
+---
+
+## 2. Horsemanship procedures
+
+### a. Catching a horse out of the remuda
+
+> The wrangler runs the rope corral around the herd at first
+> light. The men come up with their bridles in hand. Each
+> hand calls his horse. He walks in slow, the loop down at
+> his side. He throws when the horse is broadside. He works
+> the loop up the neck before the horse can pull, takes the
+> bridle in his left hand, slips the bit into the mouth, sets
+> the headstall over the ears, and walks the horse out. The
+> next hand goes in.
+
+### b. Saddling
+
+> Lay the blanket smooth, hair side up against the back. No
+> wrinkles. The saddle goes on at a small angle and you slide
+> it back into the seat. Cinch from the off side or near
+> side, depending on how you were taught — most cowmen near
+> side. Pull the latigo through the cinch ring twice, draw it
+> snug, wait. The horse will blow out the breath he was
+> holding. Pull again. Tie off. Check the latigo knot. Step
+> back. Look at the rigging from behind to see it sits
+> straight.
+
+### c. Mounting
+
+> Reins gathered in the left hand. Mane in the same hand.
+> Left foot in the stirrup. Hand on the horn. Swing up. Settle
+> light. Find the right stirrup. Sit a moment before you ask.
+
+### d. Hobbling
+
+> Two leather hobbles joined by a swivel. Pick up the off
+> forefoot, set the cuff above the fetlock, buckle. Pick up
+> the near forefoot, set the cuff, buckle. The horse can
+> walk a step at a time and graze. He cannot run. Hobble
+> only horses that know hobbles. A horse new to it will
+> throw himself trying to bolt and break a leg.
+
+### e. Throwing a rope (head catch)
+
+> The loop is built large. The honda runs free. You hold the
+> coils in the left hand and the loop in the right. You swing
+> overhead twice or three times to set the loop open. You
+> throw at the head when the steer's eye is on you and the
+> horns are presented. You let the slack run as the loop
+> drops. The honda cinches when you take the slack.
+
+### f. Throwing a rope (heel catch)
+
+> Two ropers work the heel catch in branding. The header
+> takes the head. The heeler watches the hind feet. The trick
+> is to throw the loop flat and trip it just as the back feet
+> step into it. The heeler picks up the loop with his throw
+> and the rope tightens around both fetlocks above the
+> hooves. The two ropes stretch the calf out for the iron.
+
+### g. Dallying
+
+> When the loop is on the steer, you wrap the rope around the
+> saddle horn — the dally. One wrap if the steer is small.
+> Two if he is large or fighting. Hold the tail of the rope
+> in the gloved hand. _Never_ put a finger between the rope
+> and the horn. Men have lost fingers and hands. The rope
+> burns through leather glove and meat both.
+
+### h. Tying off
+
+> When the dally is set and the steer is held, you can hard-
+> and-fast tie if your saddle is rigged for it (the
+> California way) or you can hold the dally (the Texas way).
+> Hard-and-fast is faster but unforgiving. If the steer goes
+> over a bluff with the rope tied hard, the horse goes too.
+> The dally lets you spill the rope.
+
+### i. Trotting and pacing
+
+> A working horse trots eight miles in an hour. He walks
+> four. A long ride alternates: walk twenty minutes, trot
+> twenty minutes, walk again. A trotted-out horse with sweat
+> drying in the cold is a foundered horse next morning.
+> Cool him before you stand him up.
+
+### j. Watering
+
+> A hot horse will founder on cold water. Walk him out before
+> you let him drink, or pull him off after a few swallows and
+> walk him further. He will tell you when he is ready by
+> standing easy and breathing slow.
+
+### k. Shoeing (basic)
+
+> Pick up the foot. Clean the frog with the hoof pick. Trim
+> the wall with the nippers. Rasp flat. Set the cold shoe to
+> check fit; or, if hot-shoeing, set the heated shoe to the
+> wall briefly to mark the burn. Drive the nails in pairs,
+> outside in, tipping the points to come out the wall — never
+> through the sole. Twist off the points with the clinching
+> hammer. Clinch the cut ends down into the wall. Rasp the
+> nail clinches smooth. Set the foot down. Pick up the next.
+
+A man shoes four feet in an hour if he knows the work and the
+horse stands.
+
+### l. Treating a saddle sore
+
+> Lift the saddle off, look at the back. White sweat-burn is
+> warning. Open sores get rest and salve. The sore back goes
+> bareback or with a sheepskin pad. The sore back ridden
+> hard becomes a sour horse and a useless one.
+
+### m. Doctoring a foundered horse
+
+> Walk him slow. Do not stand him in the stall. Stand him in
+> a creek if you have one — cool water in the feet draws the
+> heat. Cut down the grain ration. The first foundering can
+> be brought back. The second leaves a horse short-strided
+> for life.
+
+### n. Breaking a colt (the gentling way)
+
+> Snub him to a post. Brush him all over. Lift each foot
+> until he gives it. Rope him in the corral, run the rope
+> around his neck, around his haunches, until he leads. Sack
+> him out — wave a saddle blanket over him until he stops
+> flinching. Throw the blanket on his back. Take it off. On
+> again. Off. Saddle him with the cinch loose. Walk him with
+> the saddle. Cinch up. Bridle him. Ride him in the corral.
+> Ride him outside.
+
+A patient man takes ten days to break a colt this way. A
+hurry man rides him bucking the third day, the colt sours,
+and he is fixed for life.
+
+### o. Breaking a colt (the busting way)
+
+> Snub him. Saddle him by force. Bridle him. Hold him while
+> the rider mounts. Turn him loose. The colt bucks until he
+> stops bucking. Repeat the next day. Repeat the next day.
+> The colt is broken or broken-legged inside a week.
+
+The busting way was common in the cattle country and
+produced fast, hard horses with permanent bad habits.
+
+---
+
+## 3. Cattle work
+
+### a. The branding
+
+> The fire is built and the irons heated. The hands rope the
+> calves out of the herd. A header takes the head, a heeler
+> takes the back feet, the calf is stretched on the ground.
+> Two flankers pin the calf — one with a knee on the neck and
+> the other with a foot on the bottom hind leg, pulling the
+> top leg back. The brander brings the iron, sets it on the
+> hip with a quick steady press, lifts off when the smoke
+> rises and the smell of burnt hair hits the nose. A second
+> man marks the ear with a knife — underbit, overbit,
+> swallowfork, depending on the brand. A third man, if a bull
+> calf is being made a steer, takes the testicles with a
+> knife and the calf is altered. The whole work on a single
+> calf takes about ninety seconds when the crew is
+> practiced.
+
+A practiced crew brands two hundred calves in a long day.
+
+### b. Cutting
+
+> A hand on a cutting horse rides into the herd and works
+> the cow he wants out. The horse does the work — turns and
+> blocks and turns again, anticipating the cow. The rider
+> sits steady, holds the horn, lets the horse work. A good
+> cutting horse cuts a cow out in under a minute and the
+> rider hardly touches the rein.
+
+### c. Bedding the herd
+
+> The herd beds at sundown on chosen ground — high if rain
+> threatens, sheltered if cold, away from arroyos in monsoon
+> country. The hands ride the herd at dusk to settle them.
+> Once down, two riders circle the herd through the night,
+> riding opposite directions, meeting at the head and the
+> tail. They sing or hum to the cattle. The singing keeps
+> the cattle quiet and warns the cattle of the rider's
+> approach (a sudden silhouette will spook a sleeping herd
+> into a stampede).
+
+### d. The stampede
+
+> A herd stampedes from a sound — a clap of thunder, a
+> match-strike, a coyote crossing — or from a smell. The
+> nearest rider rides for the lead and turns it into a
+> circle. The other riders close in and tighten the circle.
+> A turned herd circles until it tires, sometimes two or
+> three hours. A herd not turned runs ten or twenty miles
+> and scatters across the country. The crew gathers them
+> through the next several days. Some are never recovered.
+
+### e. The river crossing
+
+> The lead steer is pushed in. He swims. The herd follows.
+> Riders work the flanks to keep them from milling (a milling
+> herd in deep water drowns). The hands strip their gear off
+> and tie the gear to the saddles to keep it dry. They swim
+> beside their horses, hands on the saddle. The crossing of
+> the Red River, the Canadian, the Cimarron, the Arkansas,
+> the Platte, the Powder, took men and horses and steers
+> every season.
+
+### f. Roping a steer for doctoring
+
+> The hand rides up alongside, throws the loop on the head
+> from horseback, dallies. A second rider takes the heels.
+> The steer is stretched. The wound is doctored — a salve
+> for screwworms, a brand on a fresh wound to seal it, a
+> pull on a stuck calf in a heifer, a tooth examined. The
+> ropes are slipped, the steer rises, runs back to the herd.
+
+### g. Checking a sick cow
+
+> Look at the eyes. Bright, clear, alert: well. Dull,
+> sunken, oozing: sick. Look at the nose. Wet and cool: well.
+> Dry and warm: fevered. Look at the manure. Firm: well.
+> Loose or bloody: scour, dysentery, blackleg. Look at the
+> walk. Steady: well. Stumbling: blind staggers, locoweed,
+> larkspur poisoning. A sick cow stays with the herd or is
+> cut out and shot, depending.
+
+### h. Pulling a calf
+
+> A heifer in difficult labor. Wash the arm to the shoulder.
+> Reach in. Find the calf. The presentation is what matters
+> — head and front feet means a normal pull; one foot back,
+> head turned, breech, hip-locked all mean different work.
+> Reposition if you can. Set the calf-puller chain on the
+> front feet above the fetlock. Pull on the contraction. Rest
+> on the rest. The calf comes or it does not. If it does not,
+> the heifer is shot.
+
+---
+
+## 4. Camp and trail procedures
+
+### a. Building a fire in wind
+
+> Find the lee of a rock or a bank. Scrape the duff to bare
+> dirt. Lay your tinder — the dry inner bark of a juniper
+> stripped to fluff, a wad of dry grass, a corner torn from
+> a piece of paper. Build a tripod of pencil-thick twigs
+> over the tinder. Strike on the lee side of your body to
+> shield the spark. Once the tinder catches, feed twig by
+> twig, then by thumb-thick sticks, then by the wrist-thick
+> wood. Ten minutes of patience saves an hour of cold
+> matches.
+
+### b. Building a fire in rain
+
+> Find dry tinder under a downed log, in the bark of a
+> cedar, in a hollow tree. Split a wet stick down the middle
+> with the hatchet — the inside is dry. Build small. Get the
+> heart going hot before you set wet wood. The wet wood will
+> dry in the heat once the heart is right.
+
+### c. Building a fire in snow
+
+> Beat down the snow to a flat spot or build the fire on a
+> platform of green logs. A fire built on snow sinks into a
+> well as the snow melts and goes out. Build the windbreak
+> behind the fire — the heat reflects off the snow wall and
+> warms the man on the open side.
+
+### d. Cooking the camp meal — beans
+
+> Wash the beans the night before, set them to soak in cold
+> water. In the morning pour off the water, cover them fresh
+> with water two fingers above the beans, set the pot on the
+> fire. Add a chunk of salt pork and a handful of salt. Boil
+> down to a slow simmer, cover, leave them. Three hours, the
+> beans are soft. Four hours, they are right. Six hours, you
+> add more water and they are still right.
+
+### e. Cooking the camp meal — sourdough biscuit
+
+> Take a cup of starter from the keg, pour into the bowl.
+> Add water, salt, lard, flour. Work it up to a stiff dough.
+> Pinch off pieces, set them in the Dutch oven greased with
+> bacon fat. Set the oven on the coals, set coals on the
+> lid. Twenty minutes. The biscuit comes up brown on top and
+> bottom and the inside is sour and tender. Save back a cup
+> of starter for the next day. Feed it flour and water,
+> keep the keg warm.
+
+### f. Cooking the camp meal — bacon and beef
+
+> Bacon is sliced thin, laid in the iron skillet, fried
+> crisp, drained. The grease is saved. Beef — when fresh,
+> from a steer killed for the camp — is cut into steaks,
+> salted, fried in the bacon grease. The trimmings go in the
+> beans. The bones boil for soup with whatever the cook has
+> — a handful of beans, a wild onion, a piece of jerky.
+
+### g. Coffee
+
+> Coffee bean is parched in the skillet over the fire,
+> ground in a hand-mill or pounded in a flour sack with a
+> hammer. Boil water in the pot. Throw in a handful of
+> ground coffee. Boil five minutes. Throw in a dipper of
+> cold water to settle the grounds. Pour. The coffee is
+> black, gritty, hot, strong. A cowboy drinks four or six
+> cups in a day.
+
+### h. Pitching camp
+
+> Choose ground above any flood line. Above any draw that
+> could run in a flash flood. Out of the bottom of any
+> canyon a tree might fall into. Upwind of the picket line
+> (the horses shed flies). Hard ground for the bedrolls.
+> Wood and water nearby. The cook sets the chuck wagon
+> wheels into the wind to break the wind off the fire.
+
+### i. Striking camp
+
+> Bedrolls rolled and tied. Cookware washed (sand and water
+> if no soap), packed in the chuck box. Coffee pot last —
+> the cook drinks the last cup, throws the grounds, packs
+> the pot. Fire put out cold — water poured, ashes stirred,
+> water poured again. A man can lay his hand on a put-out
+> fire. If he cannot, it is not put out. Saddle, mount,
+> ride.
+
+### j. Picketing horses
+
+> Drive a stout iron picket pin into the ground. Tie a
+> twenty-foot rope to the pin, the other end to the
+> horse's halter or a hobble. The horse grazes in a circle.
+> Move the pin twice a day to fresh grass. A picketed horse
+> is safer from theft and from wandering than a hobbled one
+> but he eats less. A picketed horse left untended overnight
+> can foul his rope and be down by morning.
+
+### k. Standing watch
+
+> The night herders ride two-hour watches. The first watch
+> at dusk to about ten. The second to midnight. The third
+> to two. The fourth — the worst — to first light. The
+> watch sings or hums. He carries his rifle across the
+> saddle. He listens for the wrong sound — silence where
+> there should be the herd's breath, the horse's snort
+> warning of a wolf or a stranger.
+
+### l. Reading a man's age and trade by his hands
+
+> A cowman's hands are calloused on the palm and inside the
+> right thumb (the rope), with a permanent indent on the
+> ring finger of the left hand (the bridle rein). A miner's
+> hands are calloused all over and his fingernails are
+> permanently grimed in the cuticle. A farmer's hands are
+> calloused on the inside of the index finger (the plow
+> handle). A teamster's hands are scarred on the back from
+> the popper of his whip catching him. A printer's hands are
+> stained with ink along the right thumb. A doctor's hands
+> are clean and quick.
+
+---
+
+## 5. Survival procedures
+
+### a. Finding water
+
+> Look for the green line — cottonwoods and willows mark
+> a creek. Look for the trail of game converging downhill —
+> deer and javelina go to water at dawn and dusk. Look for
+> the dry watercourse and dig in the inside of a bend below
+> the gravel. Look for the bee — where there are bees there
+> is water within five miles. The Apache rule: water is
+> never far if you know what to read.
+
+### b. Conserving water
+
+> Keep the mouth shut. Breathe through the nose. Do not eat
+> if you have no water — digestion costs more water than the
+> food returns. Move at night. Lie up in the shade through
+> the day. A pebble under the tongue keeps the mouth wet.
+> Strip the shirt and wet it from any spring before you go on
+> — the wet cloth cools the body without losing sweat.
+
+### c. Crossing a desert
+
+> Forty miles between waters is the rule. If you are sure of
+> the next water, you can do it in a day's ride or a night's
+> ride. If you are not sure, you do not start. Carry water
+> for the horse as well as for the man — three gallons each
+> if you can.
+
+### d. Crossing a river (man and horse)
+
+> Strip the gear. Tie it high to the saddle in oilcloth.
+> Pull the cinch loose so the saddle does not turn under the
+> swimming horse. Lead the horse in upstream of where you
+> want to land — the current sets you down. Slip off and
+> swim alongside, hand on the saddle horn, downstream of the
+> horse. If the horse goes under, let him go and swim free.
+> A drowning horse will pull a man to the bottom.
+
+### e. Reading the weather
+
+> Mares' tails (high cirrus) twelve hours ahead of a front.
+> Halo around the moon: rain inside a day. Cumulus piling
+> tall in the afternoon: thunderstorm by evening. A morning
+> red sky: weather coming. An evening red sky: weather
+> going. A north wind in the high country: snow before
+> morning. The weather of the high plains turns in an hour.
+> The weather of the desert turns in ten minutes.
+
+### f. Surviving a blizzard
+
+> Get out of the wind first. Anything for a windbreak — the
+> lee of a wagon, the lee of a horse, the lee of a snowbank
+> dug into. Build a fire if you can; if not, eat the cold
+> food you have, lie down, cover with the blanket and the
+> saddle, lie still. Movement loses heat. The horse is your
+> heat — a man down between the horse's body and a wall has
+> survived nights at twenty below.
+
+### g. Surviving a thunderstorm on the plains
+
+> Get off the horse. Get off the high ground. Drop any iron.
+> Do not stand under the lone tree. Crouch on the balls of
+> the feet, feet together, hands off the ground, head down.
+> The strike that comes near throws a man flat and stops his
+> heart. A second man can sometimes start the heart again
+> with chest pressure.
+
+### h. Avoiding the rattlesnake
+
+> He sounds his rattle when alarmed. Stop, locate him, walk
+> around him. He will not chase. The danger is the snake you
+> step on without seeing. Wear high boots in snake country.
+> Do not put hand or foot into a place you cannot see —
+> under a rock, in a woodpile, in a sleeping bag left
+> unrolled overnight.
+
+### i. Treating a snake bite (period)
+
+> Cut the bite open with a clean knife. Suck out the blood
+> and venom — spit, suck again — for fifteen or twenty
+> minutes. Tie a tourniquet above the bite, loose enough to
+> stop the lymph but not the artery. Loosen and tighten
+> every fifteen minutes. Send for a doctor. The patient may
+> die. He may live. In the period, perhaps a third of bitten
+> men died of a rattler bite; a copperhead bite was less
+> often fatal.
+
+(Modern medicine: do not cut, do not suck. Period medicine
+did and we are writing the period.)
+
+### j. Building a shelter (lean-to)
+
+> Find two trees ten feet apart. Cut a long pole, lay it
+> across at chest height, bound to the trees with rope or
+> bark. Cut shorter poles and lean them against the cross-
+> pole at a 45° angle, sloping back. Cover the leaning poles
+> with bark, or pine boughs laid butt-up shingled, or canvas
+> if you have it. The open side faces away from the wind
+> and toward the fire. A lean-to and a fire keep a man
+> through a night that would kill him otherwise.
+
+### k. Navigating without a compass
+
+> The sun rises east, sets west. At noon it is south (in the
+> northern hemisphere). The North Star is found by tracing
+> a line up the two stars at the front of the Big Dipper —
+> the line passes through Polaris. Moss is not reliable —
+> it grows on whatever side of the tree is wet, not always
+> north. Snow lies longer on the north slope. Streams run
+> downhill, and downhill in most of the West eventually
+> finds a settlement.
+
+### l. Reading a track
+
+> A horse track: the print of the shoe (a worked horse) or
+> the print of the hoof (an unshod horse, often Indian).
+> Width of stride: three to four feet at the walk, eight at
+> the trot, twelve at the gallop. A man on foot: the print
+> of the boot or the moccasin. Heel deep: the man is
+> carrying weight or is heavy. Toe scuffing: the man is
+> tired or limping. Distance between prints: the gait.
+> Direction of broken grass: which way he went. A track in
+> dust holds for hours; in mud, days; in snow, until snowfall
+> or thaw.
+
+### m. Tracking a man
+
+> Take the trail by walking parallel to it, not on it (you
+> will obscure it). Read the spacing for gait. Read disturbed
+> brush for height — broken twigs at chest height mean a man,
+> at saddle height mean a rider. Look for spit, droppings,
+> a discarded match, a smear of tobacco juice, a print of a
+> hand where he braced going up. The Apache could track a
+> man over rock by the grease of his moccasin sole on the
+> stone. The Anglo tracker reads what the Anglo tracker can
+> read.
+
+### n. Setting a snare
+
+> A loop of fine wire or twine. Set the loop at the
+> animal's head height — six inches above the run for a
+> rabbit, eighteen inches for a fox. Tie off to a sapling
+> bent over and held by a notched trigger; when the loop
+> tightens it springs the trigger and the sapling jerks the
+> animal up. Set the snare on the run. Do not handle the
+> wire with bare hands if you can avoid it; the smell warns.
+
+### o. Field dressing a deer
+
+> Hang the deer by the hocks if you can; otherwise lay her
+> on her back, head uphill. Open from the breastbone to the
+> pelvis with the knife point up so as not to puncture the
+> gut. Cut around the diaphragm and free the lungs and
+> heart. Pull the gut down and out. The liver is good — set
+> it aside. Cut the windpipe and esophagus, pull. The carcass
+> is empty. Hang it to cool. Skin and butcher when cool.
+
+### p. Butchering a beef
+
+> Knock the steer with a hammer between the eyes. Cut the
+> throat. Bleed out for ten minutes. Hoist the carcass by
+> the hind legs. Skin from the hocks down. Open the belly,
+> pull the gut out into a tub. Save liver, kidneys, heart,
+> tongue, sweetbreads. Cut the head off. Saw the carcass
+> down the spine into halves. Halve again into quarters.
+> Hang in a cool shed or wrap and pack into the chuck
+> wagon. A beef provides a hundred pounds of meat for the
+> trail crew that lasts three days in cool weather.
+
+---
+
+## 6. Firearms procedures
+
+### a. Loading a percussion revolver (Colt 1851/1860, Remington
+
+1858.
+
+> Put the hammer at half-cock. Pour a measured charge of
+> black powder into each chamber from the muzzle end of the
+> cylinder (the chamber faces forward; the loading lever
+> works on the front of the frame). Set a felt wad over each
+> charge. Set a round ball over each wad and seat it with
+> the loading lever — the lever rams the ball down tight.
+> Put a cap on each nipple at the back of the cylinder. Set
+> the hammer at safety (between two nipples, if your model
+> permits). Reload time for a six-shot: 60-90 seconds for a
+> practiced man.
+
+### b. Loading a cartridge revolver (Colt SAA, Smith & Wesson
+
+Schofield)
+
+> SAA: open the loading gate, put the hammer on half-cock
+> (which lets the cylinder rotate), drop a cartridge into
+> each chamber as it comes around, close the gate, set the
+> hammer at full safety (an empty chamber under the hammer if
+> you carry six; a full cylinder if you carry five). The
+> Schofield: break the action open by pressing the latch on
+> top of the frame and tipping the barrel forward, eject all
+> six cases at once with the star extractor, drop in six
+> cartridges, snap the action shut. Schofield is faster.
+
+### c. Cleaning a revolver after firing
+
+> Remove the cylinder. Pour boiling water through each
+> chamber to dissolve the black-powder fouling. Pour boiling
+> water through the barrel from breech to muzzle. Push a
+> cleaning patch through each chamber and through the bore
+> until the patch comes out clean. Wipe everything dry. Oil
+> lightly. Black powder fouling rusts the steel within a day
+> if not cleaned.
+
+### d. Loading a Sharps rifle
+
+> Push down the lever in front of the trigger guard — this
+> drops the breechblock. Insert the cartridge into the
+> chamber. Close the lever (the breechblock rises and locks).
+> Cock the hammer. Aim. Fire. Open the lever — the spent
+> case ejects.
+
+### e. Loading a Winchester '73
+
+> Push cartridges through the loading gate on the right side
+> of the receiver into the magazine tube, one at a time, up
+> to fifteen rounds. Work the lever down and back to chamber
+> the first round and cock the hammer. Aim. Fire. Work the
+> lever to eject and chamber the next. The lever is the
+> rifle's whole virtue: a good man fires fifteen aimed
+> rounds in twenty seconds.
+
+### f. Sighting a rifle (period iron sights)
+
+> The rear sight has a notch (a V or a square). The front
+> sight has a blade (a bead or a post). Align the front
+> sight in the notch of the rear sight, level across the
+> top, with the target sitting on top of the front sight or
+> covered by it. Hold the breath at the bottom of an exhale.
+> Squeeze, do not pull, the trigger. The shot should
+> surprise the shooter.
+
+### g. Cleaning a long gun
+
+> Run a brass rod with a slotted tip through the bore from
+> breech to muzzle, with a patch of clean cotton soaked in
+> water for black powder, in solvent for cartridge. Push
+> through, never pull a patch back through (the dirt comes
+> back into the bore). Continue with clean dry patches until
+> the patch comes out clean. Oil the bore lightly. Wipe the
+> action. Set the rifle aside muzzle down so any oil drains
+> out of the bore.
+
+### h. Carrying a pistol safely
+
+> The Colt SAA fires if dropped on the hammer (the firing
+> pin rests on the primer of the chambered round). A
+> knowledgeable man loads five rounds and rests the hammer
+> on an empty chamber. The Schofield and the Smith & Wesson
+> have rebounding hammers that are safer to carry six-up.
+> The Remington 1858 percussion has safety notches between
+> the nipples — set the hammer in a notch and it does not
+> drop on a cap.
+
+---
+
+## 7. Wagon and harness procedures
+
+### a. Hitching a four-up
+
+> Bring the wheelers (the rear pair) into position at the
+> tongue. Hook the breast collars to the singletrees, the
+> traces to the hooks, the bridle reins to the driver's
+> seat. Bring the leaders (the front pair) ahead of the
+> wheelers. Hook the leaders' traces to the lead bar. Run
+> the lines (the reins) from the leaders' bits, through
+> rings on the wheelers' hames, back to the driver's hand.
+> The four-up is hitched. Walk around once. Check every
+> buckle.
+
+### b. Driving a wagon
+
+> Right foot on the brake. Lines in the left hand, whip in
+> the right. _Cluck_ to start. _Whoa_ to stop. Light pressure
+> on the right line turns right; on the left, left. The good
+> driver does not need to use the whip or the voice. The bad
+> driver fights the team.
+
+### c. Greasing the wheels
+
+> Stop on level ground. Block the wheels. Jack the axle. Pull
+> the linchpin and slide the wheel off the axle. Wipe the
+> axle clean. Pack the hub with axle grease (a heavy black
+> grease in a wooden box). Slide the wheel back on. Replace
+> the linchpin. Drop the jack. Repeat for each wheel. A
+> wagon's wheels are greased every fifty miles in dry country
+> or every twenty in mud.
+
+### d. Mending a broken wheel
+
+> The wheel comes off. The broken spoke is removed. A new
+> spoke is shaped from straight oak with a draw knife and
+> driven in. The felloe (the wooden rim segment) is mended or
+> replaced. The iron tire is heated red-hot in a fire, set
+> over the wheel, hammered into place, and quenched with
+> water — the cold-shrunk iron clamps the wheel tight.
+
+### e. Driving an oxen team
+
+> Oxen are guided by voice and the bullwhacker's whip. _Gee_
+> for right. _Haw_ for left. _Whoa_ for stop. The whip is
+> not used to strike — its crack carries the command. Oxen
+> walk two miles per hour. They do not founder, do not run,
+> do not need shoeing as often as horses, eat what is on the
+> trail, and are eaten when they die or when the trail is
+> done.
+
+---
+
+## 8. Doctoring (period)
+
+### a. Cleaning a wound
+
+> Wash the hands if you can (the value of clean hands was
+> not understood until Lister; period doctors and most
+> period laymen did not). Wash the wound with whiskey or
+> with water boiled and cooled. Pick out any foreign matter
+> (cloth, splinters of bone, dirt). Stop the bleeding with
+> pressure or with a tourniquet. Sew the wound shut with a
+> needle and silk thread or horsehair if there is any
+> chance of healing clean. Bandage with clean cloth.
+
+### b. Setting a broken arm
+
+> Sit the patient down. Pull the arm straight against
+> resistance to align the bone. Hold while a second man
+> wraps splints (peeled willow or pine slats) along the
+> arm, top and bottom. Bind the splints with cloth strips.
+> Set the arm in a sling. Keep the arm still for six weeks.
+> A clean break in a young man heals well. A compound
+> fracture is often fatal from infection.
+
+### c. Setting a broken leg
+
+> The patient lies on his back. Two men pull the leg long
+> against resistance. Splint top and bottom — long boards
+> for the femur, shorter for the tibia. Bind. Keep the leg
+> elevated. The leg is six to ten weeks healing. The
+> patient cannot work for three months. Many men with
+> broken legs were ruined by the time they could walk again.
+
+### d. Pulling a tooth
+
+> The patient sits and grips the seat. The dentist (or the
+> blacksmith) sets the tooth-pliers on the tooth, rocks side
+> to side to break the ligament, pulls. The tooth comes out
+> or breaks. If it breaks, the dentist digs out the root
+> with a probe. The patient bleeds, swabs with cotton, eats
+> soft food for three days. Whiskey is the anesthetic. By
+> the late period (1880s), some dentists had ether or
+> nitrous.
+
+### e. Treating a fever
+
+> Cool the body. Wet cloths on forehead and chest. A bath
+> in tepid water in serious cases. Sip cool water. Quinine
+> for malarial fever. Whiskey for the chills. The fever
+> breaks or it does not. If it does not in five days, the
+> patient often dies.
+
+### f. Treating dysentery
+
+> Bismuth (subnitrate) by the spoonful four times a day.
+> Boiled water. Boiled rice. No solid food. The patient is
+> down two weeks if he survives. Dehydration kills.
+
+### g. Delivering a baby
+
+> The midwife's work, often. The mother walks until her
+> water breaks. She lies down on a bed prepared with a
+> rubber sheet under the cotton. The midwife examines for
+> the presentation. Normal: head down, face toward the
+> mother's spine. The midwife coaches breathing through the
+> contractions. The baby crowns, the head turns, the
+> shoulders slip out, the rest follows. The cord is tied
+> off in two places and cut between with clean scissors.
+> The placenta delivers within the hour. The mother is
+> washed, wrapped, fed. The baby is washed, wrapped, given
+> to the breast.
+
+Childbed fever (puerperal sepsis) killed thousands of
+mothers a year before clean technique was understood. A
+midwife who washed her hands had better outcomes than a
+doctor who did not.
+
+---
+
+## 9. Tracking and scouting
+
+### a. Sign-cutting (military)
+
+> A scouting party rides a wide arc across the line of
+> march of a suspected enemy. The scouts read the ground for
+> tracks. When tracks are found — the _cut_ of the sign —
+> the scouts assess: how many, what sort (shod or unshod),
+> how recent (the freshness of the dung, the dryness of the
+> hoofprints, the wilt of the disturbed grass), which way.
+> Report back.
+
+### b. Estimating an Indian camp from sign
+
+> Count fire rings. Each fire is a small group, perhaps four
+> to eight people. Count travois trails (parallel drag-lines
+> in the dirt). Each travois carries a lodge. A lodge holds
+> a family of perhaps six. Count horse droppings: a few hours'
+> ride suggests a few days' camping. The Apache scout for the
+> Army could read a camp's size, age, and direction in
+> minutes.
+
+### c. Following a wounded animal
+
+> Look for blood. Bright red and frothy: lung shot, the
+> animal will die within a quarter mile. Dark red: heart or
+> liver shot, dies within a half mile. Pink and watery: gut
+> shot, may run miles before dying. Track on the blood. The
+> animal beds in cover. Approach quietly.
+
+### d. Setting an ambush
+
+> Pick high ground. Pick cover. Pick a field of fire. Pick
+> a way out. Set the men back from the trail by twenty to
+> fifty yards — close enough to hit, far enough to retreat.
+> Hold fire until the target is fully in the kill zone. The
+> first volley kills the leaders; the second catches those
+> who turn to run.
+
+The Apache was the master of this work in the period.
+Crook's columns learned to fight Apache only by hiring
+Apache scouts.
+
+---
+
+## 10. The format itself — how to use these in prose
+
+The procedures above are _too clean_ to drop directly into
+prose. They are reference documents. When you write the scene,
+you do four things:
+
+1. **Cut.** A reader does not need every step. Pick the three
+   or four that carry the scene.
+2. **Disrupt.** Things go wrong. The cinch slips. The latigo
+   knot has dried. The rope burns the gloved hand. The fire
+   spits because the wood is wet. The disruption is the scene.
+3. **Embed.** The procedure is interleaved with the
+   character's perception, the weather, the conversation.
+4. **End on weight.** The procedure ends on the consequence:
+   the saddle sits right, the herd is bedded, the wound is
+   sewn, the man is dead.
+
+**Procedure (raw):**
+
+> Lay the blanket smooth. Set the saddle. Pull the cinch
+> through the latigo. Wait for the horse to blow. Pull
+> again. Tie off.
+
+**Scene (using the procedure):**
+
+> He laid the blanket smooth, set the saddle on, pulled the
+> cinch through the latigo, and waited. The bay had learned
+> to puff. Bowman waited him out, watching the hills to the
+> east where the dust still lay along the line where the
+> herd had passed at first light. The bay let his breath go
+> and Bowman drew the latigo up and tied it off. He stood
+> back and looked at the rigging. It sat right. He picked
+> up the reins and swung up.
+
+The scene is the procedure plus the character plus the
+country plus the small refusal of the horse plus the look
+at the horizon. None of it is wasted. All of it is _the man
+saddling his horse for the work of the day._
+
+Read the procedures. Write the work.

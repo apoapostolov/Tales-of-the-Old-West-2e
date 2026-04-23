@@ -218,7 +218,7 @@ Delegation notes:
 - Emphasize pressure, scarcity, and movement.
 - Keep accounting abstract unless a detail produces meaningful drama.
 
-### [ ] Prompt 6 — Build examples, tables, and premade bands
+### [x] Prompt 6 — Build examples, tables, and premade bands
 
 Add the support material that makes the appendix usable at the table.
 
@@ -248,7 +248,7 @@ Delegation notes:
 - Premade bands should vary by region, social makeup, and criminal method.
 - Avoid turning every gang into a celebrity gang.
 
-### [ ] Prompt 7 — Run final integration and manuscript audit
+### [x] Prompt 7 — Run final integration and manuscript audit
 
 Audit the appendix against the rest of ToOW2e before any release-quality pass.
 

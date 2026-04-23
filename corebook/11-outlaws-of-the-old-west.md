@@ -36,7 +36,7 @@ If the group has fewer than three such folk, then they are still a posse, not ye
 | --- | --- | --- |
 | Hideout Crew | 3-6 outlaws beyond the player characters | Fast-moving, easy to conceal, good for robberies, rustling, ambushes, and flight. |
 | Gang | 7-15 outlaws beyond the player characters | A real local threat. Sheriffs take notice, ranchers form posses, and rival outlaws begin to weigh your strength. |
-| Big Outfit | 16-30 outlaws beyond the player characters | Too large to pass unnoticed. Feeding, paying, and hiding such a body of riders is a campaign in itself. |
+| Outfit | 16-30 outlaws beyond the player characters | Too large to pass unnoticed. Feeding, paying, and hiding such a body of riders is a campaign in itself. |
 
 Anything larger than this is no longer a simple outlaw gang. It becomes a private army, a political problem, or an outright insurrection, and should be handled as a special case by the GM rather than routine outlaw play.
 
@@ -119,6 +119,18 @@ An outlaw band tracks three resources beyond cash and Cohesion. They are not led
 
 Refuge starts at 0 for any settlement the gang has not yet dealt with. Raise it by spending money, doing favors, or making yourself useful. Lose it by leaving a mess behind, killing someone local, cheating a merchant, or making the town look dangerous to outsiders. A town's `Law`, `Civic`, and `Mercantile` aspects all bear on what Refuge can do for the gang and what costs them.
 
+#### Calling on Refuge
+
+When the gang needs something from a settlement—shelter from a posse, a doctor for the wounded, supplies, a safe stable, or word about law activity—the character with the strongest relationship there makes a `PRESENCE` or `PERFORMIN’` roll. Add dice equal to the current Refuge score if positive, or remove dice equal to its absolute value if negative.
+
+**0 successes:** The place will not help and the refusal has consequences. A merchant talks to the wrong man, a farmer bolts his door and sends his boy to town, or an innkeeper quietly passes word to the deputy. Reduce Refuge with this settlement by 1.
+
+**1 success (limited):** Help is given, but grudgingly and at a price—higher costs, visible discomfort, or conditions attached. The gang spent goodwill to get this. Refuge holds but the debt is felt.
+
+**2 successes (full):** The settlement does what the gang needs without incident or complaint. Refuge holds steady.
+
+**3 successes or more:** The place goes further than the gang asked. A warning about a posse they had not heard of, an introduction to a potential fence, or something quietly set aside against a harder day. Consider raising Refuge by 1 if the relationship has been well tended.
+
 #### Fence Access
 
 `Fence Access` measures whether the gang can turn stolen goods into clean money.
@@ -131,22 +143,138 @@ Refuge starts at 0 for any settlement the gang has not yet dealt with. Raise it 
 
 A fence is usually a notable gang member, a corrupt merchant, a Nuevo Mexicano trader, or a settlement contact reached through Refuge. Losing a fence—through arrest, betrayal, or the law's attention—drops Fence Access immediately. Building a new one takes time, goodwill, and often money.
 
-#### Horseflesh
+#### Horsestock
 
-`Horseflesh` measures the state of the gang's riding animals as a band resource.
+`Horsestock` measures the state of the gang's riding animals as a band resource.
 
-| Horseflesh | Meaning |
+| Horsestock | Meaning |
 | --- | --- |
 | `3` | Fresh remounts, sound tack, and horses fit for hard flight or hard pursuit. |
 | `2` | Serviceable. The gang can ride, but cannot outrun professionals for long. |
 | `1` | Tired, lame, hungry, poorly shod, or too few mounts for the gang's size. |
 | `0` | The gang cannot move fast or far. Flight is a stumble. |
 
-Horseflesh drops after hard flight from a posse, a bad winter at the hideout, drought, poor grazing, or stolen mounts lost in a score gone wrong. Restore it by taking the `Buy Through Fences` hideout activity, rustling a fresh remuda, or dealing with a competent wrangler.
+Horsestock drops after hard flight from a posse, a bad winter at the hideout, drought, poor grazing, or stolen mounts lost in a score gone wrong. Restore it by taking the `Buy Through Fences` hideout activity, rustling a fresh remuda, or dealing with a competent wrangler.
 
-When Horseflesh is 0 or 1, any well-mounted pursuer gains an advantage overtaking the gang.
+When Horsestock is 0 or 1, any well-mounted pursuer gains an advantage overtaking the gang.
 
 > *Jeb Collier had held men together on less than this, but not much less. Two boys were dead, the Wells Fargo box had turned out to be mostly vouchers and papers, and Luther Vale was pacing the firelight with his hand never far from the butt of his Remington. Jeb stood up when the talk began to turn. He did not shout. He named the dead boys, said what they had earned, and counted twenty-dollar pieces into their brothers' hands where everyone could see it. The camp stayed ugly but it stayed a camp. That was enough for one night.*
+
+### Towns and Outlaw Life
+
+Towns are not neutral ground. They have economic interests, political divisions, moral tolerances, and men with guns. The outlaw who walks into one without reading it first has already made a mistake.
+
+#### Reading a Town
+
+The town aspects from Chapter 8 do double work in outlaw play. Each one answers a different question for the gang.
+
+| Aspect | What It Tells the Gang |
+| --- | --- |
+| `Law` | How fast the town organizes pursuit, posts notices, and supports the sheriff or marshal |
+| `Mercantile` | Whether there are fences, corrupt clerks, liquid markets for stolen goods, or buyers who ask few questions |
+| `Civic` | Whether the town stands together against trouble or is divided by old grudges, class hatred, and competing loyalties |
+| `Welfare` | Whether strangers can disappear quietly, find a doctor without comment, stable horses without remark, and rent a room without filling out a ledger |
+
+A town with high Law and low Mercantile will hunt you hard and refuse your money. A town with low Law and high Mercantile will deal with you if you keep things quiet. The same town can be lawful on paper and corrupt in practice. That is more western than any flat lawful/lawless distinction.
+
+#### Town Tags for Outlaw Play
+
+For settlements that matter to the campaign, the GM may add one of the following tags to capture its character for outlaw purposes. These can be derived from existing aspects rather than tracked separately if preferred.
+
+| Tag | Meaning |
+| --- | --- |
+| `Soft Town` | Weak law, divided interests, or enough vice that a gang can vanish there briefly without drawing attention |
+| `Fence Town` | Stolen goods can be moved here through merchants, drovers, gamblers, or rail contacts. Fence Access rolls gain `+1 die` in this town |
+| `Sheriff’s Town` | The local law, ranchers, and merchants cooperate quickly against trouble. Law is treated as one step higher for outlaw purposes |
+
+The same town can hold more than one tag. A cattle market town might be both a `Fence Town` and a `Sheriff’s Town` during roundup season, which is a western truth of its own.
+
+#### Doing Business in a Dangerous Town
+
+When an outlaw character does business in a town—buying supplies, moving goods, consulting a doctor, or sitting in a saloon—roll `PERFORMIN’` to stay hidden, or `PRESENCE` if brazening it through. Apply the following modifiers:
+
+| Condition | Modifier |
+| --- | --- |
+| Town has `Soft Town` tag | `+1 die` |
+| Refuge with this town is `+1` or better | `+1 die` |
+| Disguise or convincing false name in play | `+1 die` |
+| Refuge with this town is `-1` or worse | `-1 die` |
+| Wanted is Regional | `-1 die` |
+| Wanted is Federal | `-2 dice` |
+| Town has `Sheriff’s Town` tag | `-1 die` |
+
+**0 successes:** Someone recognizes the gang or draws the wrong conclusion. The law is notified or a reward poster is pulled from a drawer and studied. Reduce Refuge with this town by 1 and test Cohesion if the business was critical.
+
+**1 success (limited):** Business done, but not cleanly. Someone noticed. The town grows warier. If Refuge is `0` or less, reduce it by 1.
+
+**2 successes (full):** In and out without incident.
+
+**3 successes or more:** Business done and something useful learned or gained—a rumor about a posse’s movements, a contact who might serve as a fence, a piece of intelligence about an upcoming score, or a stranger who nods instead of staring.
+
+#### Seasonal Town Interaction
+
+At each `Turn of the Season`, the gang should answer these questions for any settlement important to their survival:
+
+- Did the gang strengthen or damage Refuge here this season?
+- Did events in town—a marshal passing through, a booming market, a crop failure, a political shift—change what this town can or will offer?
+- Did the gang invest money, favors, or fear to keep one place open to them?
+
+If the gang invested money or effort to maintain a good relationship, no roll is needed—just note it. If they left a mess behind, killed someone local, or cheated a merchant, reduce Refuge by 1 without a roll.
+
+### Band Procedures
+
+When one outlaw acts alone, use the ordinary rules. When the gang's fate turns on whether the whole outfit can move, hold together, disappear, recruit, or profit as a body, use a band procedure instead.
+
+Choose one player character or notable member as the acting hand for the moment. That is the one making the roll. Then ask which part of the gang's condition truly matters here: Cohesion, Refuge, Fence Access, Horsestock, or Wanted pressure. Do not pile on every possible factor. Pick the one or two that make this moment dangerous and real.
+
+#### Band Action Checks
+
+Use this sequence whenever the gang is acting as a group rather than as a handful of separate characters:
+
+1. State the gang's aim.
+2. Choose the acting hand and the most relevant roll.
+3. Apply the most important band modifier or two.
+4. Roll and read the result against the whole gang, not just the one rider who threw the dice.
+
+The following are good defaults:
+
+| Gang Aim | Usual Roll | Most Important Band Factor |
+| --- | --- | --- |
+| steady the camp after fear, loss, or bad judgment | Leadership roll | Cohesion |
+| recruit new hands | `PRESENCE` or `PERFORMIN'` | Cohesion and Wanted |
+| get shelter, food, warning, or silence from a settlement | `PRESENCE` or `PERFORMIN’` | Refuge |
+| move Hot Goods or Hot Stock | `PRESENCE` or `PERFORMIN’` | Fence Access |
+| stay ahead of pursuers over rough country | `NATURE`, `HAWKEYE`, or `ANIMAL HANDLIN'` | Horsestock |
+| move camp quietly | `NATURE` or `HAWKEYE` | Horsestock and Wanted |
+| lie low for a season without being smoked out | `HAWKEYE` or `PERFORMIN’` | Refuge and Wanted |
+
+When a band property modifies a check, use the following unless a more specific rule in this chapter replaces it:
+
+| Band Factor | Modifier |
+| --- | --- |
+| Cohesion 5 | `+1 die` |
+| Cohesion 4-3 | no modifier |
+| Cohesion 2 | `-1 die` |
+| Cohesion 1 | `-2 dice` |
+| Horsestock 3 | `+1 die` |
+| Horsestock 2 | no modifier |
+| Horsestock 1 | `-1 die` |
+| Horsestock 0 | `-2 dice` |
+| Wanted Local | no modifier |
+| Wanted Regional | `-1 die` where recognition, pursuit, or local fear matters |
+| Wanted Federal | `-2 dice` where recognition, pursuit, or local fear matters |
+
+Use the result in the same spirit throughout the chapter:
+
+**0 successes:** The gang fails and pays for it. A property drops, heat rises, time is lost, or Gang Trouble follows.
+
+**1 success (limited):** The gang gets what it wanted, but not cleanly. Pay in time, money, horses, goodwill, or safety.
+
+**2 successes (full):** The gang gets the result sought without further cost.
+
+**3 successes or more:** The gang gets the result and something extra: better terms, a new contact, lost ground recovered, or pressure shifted onto someone else.
+
+> *By dawn the camp had three opinions and one fire. Luther wanted to move south, Charley wanted to hang the prisoner they had taken, and old Mrs. Vale wanted breakfast before foolishness. Jeb listened, spat once into the dust, and laid the matter plain enough that even the men already reaching for their saddles stopped to hear him. That was outlaw leadership. Not a speech for history. Just enough iron in the voice to keep twelve tired souls from becoming three separate disasters.*
 
 ### Recruitment, Notable Members, and Loyalty
 
@@ -173,6 +301,18 @@ Recruiting is harder:
 - where the Law aspect is high
 - when the gang is hungry, hunted, or notorious for betrayal
 - after a recent disaster
+
+Apply `+1 die` if Cohesion is 4 or 5, `-1 die` if Cohesion is 2, and `-2 dice` if Cohesion is 1. Apply `-1 die` for Wanted Regional or `-2 dice` for Wanted Federal in settled country where posters and rumor travel faster than horses.
+
+#### Recruiting Results
+
+**0 successes:** Nobody worth having comes in. At best the gang attracts one fool, one drunk, or one informer. If the gang is visibly desperate, test Cohesion.
+
+**1 success (limited):** One or two ordinary hands join, but they want an advance, a horse, or immediate proof the gang can feed them. If the gang cannot provide it, one rides off before the season ends.
+
+**2 successes (full):** The gang recruits enough ordinary hands to matter for the local circumstances. In most places that means one to three steady riders, or a single specialist's recommendation that opens the way to more later.
+
+**3 successes or more:** The gang recruits well. Gain several likely hands for the region, or one especially useful notable member prospect. If the gang is known for fair dealing, consider raising Cohesion by 1 after the next profitable split.
 
 Ordinary gang hands should usually remain background figures. Name them when needed, but do not build every rider as a full character.
 
@@ -249,10 +389,54 @@ Not all take converts to cash the same way. Three categories cover most of what 
 | Category | Examples | How It Converts |
 | --- | --- | --- |
 | `Clean Cash` | Coin, notes, payroll money pulled directly from a box | Spendable at once. No fence required. |
-| `Hot Goods` | Jewelry, guns, whiskey, watches, express packages, negotiable bonds | Requires `Fence Access 1` or better to move at reasonable value. Without a fence, sells at a fraction of value or raises Exposure. |
+| `Hot Goods` | Jewelry, guns, whiskey, watches, express packages, negotiable bonds | Requires `Fence Access 1` or better to move at reasonable value. Without a fence, sells at a fraction of value or raises heat with anyone watching. |
 | `Hot Stock` | Cattle, horses, mules | Requires `Fence Access 2` or special local conditions—an altered brand, a trusted drover, a territory where no one is asking. The longer it sits, the more it talks. |
 
 Most scores will produce a mix. A bank vault yields Clean Cash. A stage hold-up is mostly Hot Goods with some cash if the passengers have coin. A cattle raid is entirely Hot Stock. The gang that steals cattle has a resource and a problem in the same animal.
+
+#### Turning Hot Goods to Cash
+
+When the gang wants to move Hot Goods or Hot Stock through a fence, the character handling the deal makes a `PRESENCE` or `PERFORMIN’` roll. Apply the following modifiers:
+
+| Condition | Modifier |
+| --- | --- |
+| Fence Access is 2 | `+1 die` |
+| Refuge with the fence’s town is `+1` or higher | `+1 die` |
+| Refuge with the fence’s town is `-1` or lower | `-1 die` |
+| The goods are clearly connected to a recent notorious crime | `-1 die` |
+| Selling Hot Stock with only Fence Access 1 | `-2 dice` |
+
+**0 successes:** The deal falls through. The fence is nervous, cuts contact, or refuses this batch. Hot Goods stay Hot. If the gang presses, the fence’s fear makes them a liability—they may talk, drift away, or cost the gang Fence Access.
+
+**1 success (limited):** The fence takes the goods but drives a hard bargain. Receive half the fair value, or receive full value with a delay of weeks that risks a Wanted escalation.
+
+**2 successes (full):** Clean deal at the fence’s usual rate. Receive fair value after the fence’s cut.
+
+**3 successes or more:** The fence has a ready buyer or unusually good terms. Receive better-than-fair value and learn something useful—law movements, an upcoming opportunity, or a contact worth having.
+
+If the gang has no fence (`Fence Access 0`), they may still try to sell Hot Goods openly, but the roll becomes `PERFORMIN’` at `-2 dice`, and even a limited success generates heat.
+
+#### Finding a New Fence
+
+When the gang has lost its fence or wants to build a better one, this is not just a shopping errand. It is a criminal courtship. The acting character makes a `PRESENCE` or `PERFORMIN’` roll in a town or camp that could plausibly support such business.
+
+Apply the following modifiers:
+
+| Condition | Modifier |
+| --- | --- |
+| Town has `Fence Town` tag | `+1 die` |
+| Refuge with the place is `+1` or better | `+1 die` |
+| Refuge with the place is `-1` or worse | `-1 die` |
+| Wanted is Federal | `-1 die` |
+| The gang recently burned or exposed a fence | `-1 die` |
+
+**0 successes:** No one trustworthy will deal. Worse, questions begin. Wanted may rise or Refuge may fall if the approach was clumsy.
+
+**1 success (limited):** A petty buyer or nervous intermediary can be found. Gain `Fence Access 1` for this place, but the relationship is weak and expensive.
+
+**2 successes (full):** The gang establishes a working fence on decent terms. Gain `Fence Access 1`, or restore a lost `Fence Access 1` cleanly.
+
+**3 successes or more:** The gang finds stronger criminal trade than expected. Gain `Fence Access 2` in the place if that makes sense, or improve an existing petty fence into something broader and safer.
 
 #### Gang Expenses
 
@@ -264,7 +448,7 @@ At the end of each `Turn of the Season`, the gang must pay the following hideout
 | --- | --- |
 | Hideout Crew | `$25` |
 | Gang | `$75` |
-| Big Outfit | `$150` |
+| Outfit | `$150` |
 
 This cost covers food stores, ammunition, lamp oil, spare tack, bribes to informants, and the ordinary waste of outlaw life. If the gang cannot or will not pay it, reduce Cohesion by 1 and the GM should choose an appropriate shortage: hungry horses, bad powder, a leak in the hideout roof, a fence refusing further credit, or something of that kind.
 
@@ -309,6 +493,28 @@ Every score should answer six questions:
 - What fresh trouble follows even if it goes well?
 
 The GM can build scores by answering those questions directly or by rolling on the table below.
+
+#### After the Score
+
+When a score is over, do not just count dollars and move on. Resolve the band consequences while the dust is still in the air.
+
+Ask the following questions:
+
+- Was the take `Clean Cash`, `Hot Goods`, `Hot Stock`, or a mix?
+- Were shares paid fairly?
+- Did the gang leave witnesses, kill someone important, or make a public spectacle?
+- Did the gang lose horses, suffer wounds, or ride hard enough to cost Horsestock?
+- Did the score strengthen or poison Refuge with any nearby settlement?
+
+Then apply the obvious outcomes at once:
+
+- test Cohesion if shares were disputed, captives abandoned, or casualties felt pointless
+- raise Wanted if the score was public, bloody, or aimed at a railroad, bank, mail route, or federal interest
+- reduce Horsestock if the gang lost mounts, outran a posse, or drove stock too hard
+- reduce Refuge if the gang made a mess in a place they depend on
+- make a fence roll if the take is still hot and the gang tries to move it quickly
+
+If the players are unsure whether the gang has truly escaped, make a `Hard Ride and Flight` roll immediately instead of hand-waving the road between score and hideout.
 
 #### Outlaw Score Seeds
 
@@ -410,6 +616,32 @@ Each pursuer class has different tactics. A ranch outfit confiscates horses and 
 
 When the heat rises, the GM need not send these enemies straight at the player characters. Often it is more interesting if they seize horses, question a fence, frighten a compadre, or close a town against the gang instead.
 
+#### Hard Ride and Flight
+
+When the gang must stay ahead of pursuers, cross rough country fast, or drag stolen stock out from under armed attention, one acting hand makes a `NATURE`, `HAWKEYE`, or `ANIMAL HANDLIN'` roll.
+
+Apply the following modifiers:
+
+| Condition | Modifier |
+| --- | --- |
+| Horsestock is 3 | `+1 die` |
+| Horsestock is 1 | `-1 die` |
+| Horsestock is 0 | `-2 dice` |
+| The gang knows this country well | `+1 die` |
+| The gang is driving `Hot Stock` | `-1 die` |
+| The gang includes wounded riders or captives | `-1 die` |
+| Pursuers are Federal or professional detectives | `-1 die` |
+
+**0 successes:** The gang is run close, cut off, or forced into a bad choice. Reduce Horsestock by 1 and put a hard scene in front of them: abandon loot, split the gang, leave someone behind, or fight.
+
+**1 success (limited):** The gang stays ahead for now, but pays for it. Reduce Horsestock by 1, or let the gang keep its horses and instead lose time, food, or concealment. The next Refuge or town-business roll is at `-1 die` if the pursuers are still near.
+
+**2 successes (full):** The gang keeps the lead and reaches the next hiding place, water source, or turn in the country without further loss.
+
+**3 successes or more:** The gang does more than escape. It throws the trail off, gains clean distance, or reaches a place of temporary safety before the pursuers know where to look. If the gang now lies low, the GM may reduce Wanted by one step in the current district after the season turns.
+
+> *They rode in the dark with reins wet from the horses' own breath. Behind them somewhere, men from the railroad were changing mounts by lantern light and cursing into cold coffee. Mexican Joe found a stony wash, then a seam of bad country where no hoofprint kept its shape till sunrise. By the time the east went gray the gang was thirsty, saddle-sore, and half-lost. Which was to say they were still free.*
+
 ### Hideout Life
 
 Most outlaw tales are not all gun smoke and hoofbeats. A gang spends much of its life waiting: cleaning guns, doctoring wounds, arguing over shares, lying still while posses comb the country, or planning the next ugly little miracle.
@@ -432,6 +664,20 @@ If outlaw play is the heart of the campaign, then during each `Turn of the Seaso
 | Blow Money and Raise Hell | The gang has a wild good time in town. Gain `+1` Cohesion now, but Wanted rises if things get out of hand, which they often do. |
 
 The gang should only gain the benefit of one such activity each season unless the GM judges the campaign has given ample time for more.
+
+#### The Outlaw Season
+
+At each `Turn of the Season`, resolve the gang in the following order:
+
+1. Pay upkeep for the gang's scale.
+2. Choose one Hideout Activity.
+3. Apply obvious changes to `Refuge`, `Fence Access`, `Horsestock`, and `Wanted` from the season just played.
+4. Test Cohesion if the season was lean, cruel, unpaid, or divided.
+5. Roll or choose Gang Trouble if a failure, shortage, betrayal, or outside pressure calls for it.
+
+Do not force a roll for every line of this. If the answer is obvious, apply it and move on. Roll when the table genuinely does not know whether the gang can hold together, keep moving, or keep a relationship alive.
+
+As a rule of thumb, a season should leave one thing better and one thing worse. A profitable robbery may raise Cohesion while also raising Wanted. A quiet winter spent lying low may reduce Wanted while dropping Horsestock or souring tempers. Outlaw life should feel like pressure redistributed, not pressure erased.
 
 > *The hideout lay in a fold of bad country where the cottonwoods twisted up from the creek and the rock broke a rider's sight from every side. In the day the place looked dead. By dusk you could smell bacon grease and woodsmoke if the wind was wrong, hear a horse stamp in the dark, and catch the quick low laugh of a woman who knew every hand in camp and trusted none of them. That was outlaw life as often as not. Waiting, mending, counting cartridges, and trying not to think on the men counting you somewhere else.*
 
@@ -505,10 +751,10 @@ A false-preacher outfit using revivals, donations, medicine shows, and dry-gulch
 
 ### A Season of Outlaw Life
 
-The Harper gang consists of two player characters, four ordinary hands, and one notable member called Mexican Joe, who acts as scout and horse wrangler. That makes them a `Hideout Crew`. Their Cohesion is 3, Horseflesh is 2, and Fence Access is 1—Mexican Joe also rides as the gang's connection to a crooked trader in a river town. Refuge with that town is +1. They have a concealed hideout in the bad hills north of town from the old Outlaws Group Concept.
+The Harper gang consists of two player characters, four ordinary hands, and one notable member called Mexican Joe, who acts as scout and horse wrangler. That makes them a `Hideout Crew`. Their Cohesion is 3, Horsestock is 2, and Fence Access is 1—Mexican Joe also rides as the gang's connection to a crooked trader in a river town. Refuge with that town is +1. They have a concealed hideout in the bad hills north of town from the old Outlaws Group Concept.
 
-In spring they rob a stage carrying courthouse fees. The score yields Hot Goods—jewelry and a locked dispatch box—and some Clean Cash from the passengers. They pay fair, move the Hot Goods through their fence, and buy fresh horses. Cohesion rises to 4, Horseflesh to 3. At the `Turn of the Season` they choose `Scout a Target`, spending much of the next three months learning the habits of a railroad payroll clerk.
+In spring they rob a stage carrying courthouse fees. The score yields Hot Goods—jewelry and a locked dispatch box—and some Clean Cash from the passengers. Because the robbery was quick and the shares were paid fair, Cohesion rises to 4. One player character then makes the fence roll through the river-town contact. On a full success, the Hot Goods move at a decent rate and the gang has enough ready money to buy grain, ammunition, and two fresh remounts. Horsestock rises to 3. At the `Turn of the Season` they choose `Scout a Target`, spending much of the next three months learning the habits of a railroad payroll clerk.
 
-In summer the payroll score goes wrong. One ordinary hand is captured, two horses are shot out from under the gang, and the take is poor—a payroll box that turns out to be mostly vouchers, which is Hot Goods they cannot easily move. Horseflesh drops to 1. The leader decides to leave the captured man, fearing a marshal trap. That choice calls for a Cohesion test. The leader fails. Cohesion drops to 3 and the GM rolls Gang Trouble: a notable member feels cheated and their Loyalty falls by 1.
+In summer the payroll score goes wrong. One ordinary hand is captured, two horses are shot out from under the gang, and the take is poor—a payroll box that turns out to be mostly vouchers, which is Hot Goods they cannot easily move. Mexican Joe makes the `Hard Ride and Flight` roll as the gang cuts for the bad country with a posse and a railroad detective both behind them. He gets only a limited success. The gang escapes, but two more horses are blown and the trail is not as cold as he would like. Horsestock drops to 1. The leader decides to leave the captured man, fearing a marshal trap. That choice calls for a Cohesion test. The leader fails. Cohesion drops to 3 and the GM rolls Gang Trouble: a notable member feels cheated and their Loyalty falls by 1.
 
-Come fall, the gang can ride for easier country, try to rescue the captured hand before he talks, or strike one rich score to settle the camp and buy a winter's peace. That is outlaw play in *Tales of the Old West*: profit, pressure, memory, and no safe road for very long.
+Come fall, the gang faces a proper outlaw season. Upkeep still has to be paid. A refuge roll may keep the river town open to them or close it against them if the detective has been asking questions. If they choose `Lie Low`, Wanted may ease while morale sours and the horses stay poor. If they choose one rich rescue or revenge score instead, they may save the captured hand, raise Cohesion, and ruin themselves with fresh heat all in the same week. That is outlaw play in *Tales of the Old West*: profit, pressure, memory, and no safe road for very long.

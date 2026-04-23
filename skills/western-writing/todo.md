@@ -1,6 +1,6 @@
 # Western Writing Bible — Build Plan
 
-Status: in progress
+Status: Phase 5 in progress
 Owner: agent
 Goal: turn `western-writing` from a single style guide into a
 comprehensive, example-led writing bible an AI can read once and
@@ -8,78 +8,52 @@ use to draft prose that sits beside McCarthy, McMurtry, Portis,
 Leonard, Hall, Lansdale, Swarthout, and Hansen without sounding
 imported.
 
-## Phase 1 — Skeleton
+## Phase 5 — Doubling: speech, competence, period strictness
 
-- [x] Plan file structure (references/, knowledge/, examples/)
-- [x] Write `todo.md` with phased build
-- [x] Rewrite `SKILL.md` as a compact entry point that points to
-      every module and lays out the non-negotiable rules
+Goal: roughly double the bible's depth in the areas where AI
+drafts most often miss — character speech fingerprints,
+working-man competence prose, hard 1870s availability lines,
+and concrete numerical anchors (prices, wages, distances,
+durations).
 
-## Phase 2 — References (how to write)
-
-- [x] `references/voices.md` — extended author canon, properties,
-      sample passages, and what to copy / what to refuse
-- [x] `references/prose-craft.md` — sentence shape, paragraph
-      jobs, dialogue mechanics, exposition modes, scene grammar,
-      with before/after rewrites
-- [x] `references/anti-ai-patterns.md` — full taxonomy of AI
-      tells with detection regex hints and worked rewrites
-- [x] `references/masculinity-and-code.md` — gritty masculinity
-      as craft, codes of honor, archetypes, failure modes (toxic
-      masculinity vs lived masculinity), how to write male
-      interiority without modern therapy talk
-- [x] `references/uncomfortable-truths.md` — violence, race,
-      women, disease, futility, suicide, slavery's residue,
-      Native genocide, how to write these without flinching
-      and without exploitation
-
-## Phase 3 — Knowledge base (what to write about)
-
-- [x] `knowledge/cowboy-life.md` — daily routine on trail and
-      ranch, cattle drive timeline, pay, hierarchy, food, sleep
-- [x] `knowledge/material-culture.md` — firearms, edged weapons,
-      tack, clothing, tools, what they weigh, what they cost,
-      what they smell like, how they break
-- [x] `knowledge/frontier-survival.md` — water, weather, fire,
-      navigation, distance, terrain across the West
-- [x] `knowledge/medicine-and-death.md` — wounds, infection,
-      disease, period medicine, how people actually died
-- [x] `knowledge/towns-economy-law.md` — saloons, brothels,
-      banks, mercantile, currency, marshals, sheriffs, judges,
-      lynch law, vigilance committees
-- [x] `knowledge/peoples-and-conflict.md` — Anglos, Mexicans,
-      Black cowboys and Buffalo Soldiers, Chinese laborers,
-      Native nations by region, immigrant Europeans, women
-- [x] `knowledge/work-and-trades.md` — ranching, mining, railroad,
-      freighting, smithing, tracking, scouting, hunting, farming
-- [x] `knowledge/language-and-diction.md` — period slang, idiom
-      by region, what NOT to say, register by class and era
-
-## Phase 4 — Worked examples
-
-- [x] `examples/scenes.md` — ten exemplar passages across registers
-      (opener, landscape, dialogue, violence, death, work, town,
-      camp, weather, mixed rule-and-fiction bridge), each with a
-      short critique of why it works
+- [ ] `references/speech-patterns.md` — extended speech and
+      writing patterns by archetype: the laconic ranch hand,
+      the orotund judge, the talkative scout, the silent
+      gunman, the immigrant cook, the educated woman, the
+      drunk veteran, the boy. Sentence-shape fingerprints,
+      tag handling, beats, internal voice, monologue, the
+      letter and the journal as forms.
+- [ ] `knowledge/competence-procedures.md` — terse procedural
+      prose for survival and cowboying skills, modeled on the
+      stripped how-to register found in the best westerns.
+      Each procedure given as a numbered, present-tense,
+      first-or-third-person procedure a working hand would
+      know cold. Roping, branding, butchering a beef, shoeing
+      a horse, fording a river, building a fire in wind,
+      reading a track, dressing a wound, breaking a colt, etc.
+- [ ] `knowledge/1870s-availability.md` — strict, year-by-year
+      catalog of what exists and what does not in the 1870s
+      West. Goods, technologies, materials, foods, drugs,
+      services. Wrong-decade objects are the most reliable
+      AI tell after diction.
+- [ ] `knowledge/prices-and-anchors.md` — expanded price lists,
+      wages, distances, travel times, weights, capacities, and
+      other concrete anchors a writer can drop into prose to
+      ground a scene without research interruption. Indexed by
+      use (a man going broke, a cattleman flush, a freighter
+      pricing a load, a widow paying the doctor).
+- [ ] Expand `examples/scenes.md` with additional worked
+      exemplars in the registers Phase 5 highlights: the
+      competence-procedure passage, the price-and-money
+      passage, the speech-fingerprint dialogue scene, the
+      period-availability cameo, the laconic-survival passage.
+- [ ] Update `SKILL.md` library index to point to the new
+      Phase 5 modules and add a workflow note about loading
+      the competence and availability files for any prose
+      that touches work, gear, or commerce.
 
 ## Out of scope
 
 - Audio / pronunciation
 - Period photography references (defer to research)
 - Game mechanics — those live in `corebook/` and the rules skills
-
-## Corebook Cleanup
-
-- [x] Audit chapters 2-8 and 10 for broken paragraph continuations
-- [x] Fix chapter 2 broken paragraph around "Finding a Living"
-- [x] Fix chapter 5 broken paragraphs in movement, critical injuries, freezing, and hallucinogen sections
-- [x] Fix chapter 6 broken paragraphs in property, Winchester 1873, horse intro, and Wildness sections
-- [x] Fix chapter 7 broken paragraphs in geography and end-of-slavery sections
-- [x] Fix chapter 8 broken paragraphs in ambitions, Turn of the Season, Vear's Vale, and Horatio sections
-- [x] Re-run text-only verification over chapters 2-8 and 10
-- [x] Fix remaining chapter 3 Faith list extraction damage
-- [x] Fix remaining chapter 6 compadre and trap extraction damage
-- [x] Fix chapter 7 collapsed Further Reading list
-- [x] Fix later chapter 8 Land of the Free and Resting Place extraction damage
-- [x] Fix remaining chapter 6 collapsed service and travel tables
-- [x] Rebuild chapter 6 collapsed wildlife table
