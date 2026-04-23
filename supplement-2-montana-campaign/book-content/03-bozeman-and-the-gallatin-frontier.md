@@ -1,4 +1,4 @@
-# Bozeman and the Gallatin Edge
+# Gallatin and Bozeman Frontier
 
 > _The valley opens wide after the broken country east of it. Hay lies in clean windrows. Ditches catch light. Smoke lifts off cookfires. A man could mistake it for peace if he rode in at the right hour. Then he reaches the street and finds a deputy short of cells, a lawyer buying creek-bottom land from frightened widows, Army wagons coming hard from Fort Ellis, and three men in different saloons offering cash for the same missing survey paper._
 
@@ -198,6 +198,8 @@ Bozeman
 |- Bridger Canyon Settlements - 14 mi northeast / 4 hrs horseback / long half-day wagon
 |  \- Bridger Foothill Cabins - 18 mi northeast of Bozeman / 6 mi beyond the canyon road cluster
 |- Dry Creek Hay Places - 10 mi northwest / 3 hrs horseback / half-day wagon
+|- Shields Valley Ranch Line - 28 mi east / long day horseback / 1.5 days wagon
+|- Yellowstone Survey Depots - 40 mi southeast / long day horseback / 2 days wagon
 |- Hamilton - 12 mi west / 3 hrs horseback / half-day wagon
 \- Gallatin City / Three Forks Corridor - 35 mi west / long day horseback / 1.5 days wagon
 ```
@@ -210,6 +212,8 @@ Bozeman
 | Bridger Canyon Settlements | `14` miles northeast | `4` hours | long half-day | Bridger Foothill Cabins, `6` miles |
 | Bridger Foothill Cabins | `18` miles northeast | `5` hours | long day | Bridger Canyon Settlements, `6` miles |
 | Dry Creek Hay Places | `10` miles northwest | `3` hours | half-day | Hamilton, `8` miles |
+| Shields Valley Ranch Line | `28` miles east | long day | `1.5` days | Yellowstone Survey Depots, `16` miles |
+| Yellowstone Survey Depots | `40` miles southeast | long day | `2` days | Shields Valley Ranch Line, `16` miles |
 | Hamilton | `12` miles west | `3` hours | half-day | Dry Creek Hay Places, `8` miles |
 | Gallatin City / Three Forks Corridor | `35` miles west | long day | `1.5` days | Hamilton, `20` miles |
 
@@ -621,6 +625,64 @@ Trouble here runs to hay theft, arson, emergency Army purchase, water rights, an
 
 Leander Pike understands exactly how necessary his land is and exactly how little necessity protects a man. He sells to Bozeman because he must, bargains hard because he can, and sleeps badly because everybody who needs hay has a reason to smile before cheating him. The party may be drawn here when stacks burn, when Army buyers arrive with more authority than cash, or when somebody decides that controlling Dry Creek feed means controlling half the valley's courage.
 
+### Shields Valley Ranch Line
+
+This is the northern Yellowstone approach in its ranch-country form: scattered holdings, stock water, hay patches, rough household economies, and families who live far enough out to hear the first rumor of trouble before Bozeman does. The valley matters because it feeds movement toward the eastern country without pretending to control that country. Riders, drovers, scouts, and men with survey ambitions all pass through or buy from these places sooner or later.
+
+The ranch line survives on practical exchange rather than civic confidence. A household may sell horses, beeves, hay, or shelter in one month and then spend the next month wondering whether the men it helped were scouts, speculators, deserters, or thieves. The distances are longer here, the stories worse, and the authority thinner. That makes the line useful to honest travel and dishonest preparation in almost equal measure.
+
+| Travel Link | Distance | Horseback | Wagon | Notes |
+| --- | --- | --- | --- | --- |
+| Bozeman | `28` miles west | long day | `1.5` days | exposed route in bad weather |
+| Yellowstone Survey Depots | `16` miles southeast | half-day | long day | rough frontier track, often no true wagon road |
+
+| Owner Table | Value |
+| ----------- | ----- |
+| Owner | Mercer, Tate, and Holloway ranch households |
+| Working Hands | Family, hired riders, and seasonal drovers |
+| Main Resources | Horses, beeves, hay, shelter, remount support |
+| Market Outlet | Bozeman / Fort Ellis / overland traffic |
+
+| Amenity | Year | Season | Notes |
+| ------- | ---- | ------ | ----- |
+| Corrals | 1870 | Spring | |
+| Barns | 1871 | Fall | |
+| Wells | 1872 | Summer | |
+| Ditch Work | 1873 | Spring | |
+
+Trouble here runs to stock lifting, scout gossip sold twice, false warning of raiding parties, survey men buying shelter under false names, and land pressure traveling east out of Bozeman before the papers do.
+
+The ranch households on this line are useful because they know who passed, what they carried, and how many animals were fit to keep moving. They are vulnerable for the same reason. The party may come here to hire mounts, check a story from the road, or discover that some private Yellowstone venture has already secured local support with lies, credit, and promises it cannot keep.
+
+### Yellowstone Survey Depots
+
+These are not permanent towns in the usual sense. They are recurring chains of camp, store, wagon-park, corral, and clerk-table life thrown up wherever military escort, scientific curiosity, and route speculation briefly agree on a stopping point. In `1873`, that is enough to matter. A survey depot can hold maps, instruments, letters, mules, feed, and the sort of men who believe tomorrow's railroad value already belongs to them.
+
+What makes the depots playable is their instability. They may look official while existing on borrowed labor, borrowed animals, and assumptions about security that no one on the ground entirely shares. A camp that feels like the beginning of history to one easterner feels like a temporary nuisance or an irresistible target to half the country around it. When the escort moves, the depot either shrinks into refuse and ash or leaves behind one more argument about claims, routes, and who promised what.
+
+| Travel Link | Distance | Horseback | Wagon | Notes |
+| --- | --- | --- | --- | --- |
+| Bozeman | `40` miles northwest | long day | `2` days | route can worsen fast in rain, mud, or military alarm |
+| Shields Valley Ranch Line | `16` miles northwest | half-day | long day | nearest recurring supply belt |
+
+| Owner Table | Value |
+| ----------- | ----- |
+| Owner | U.S. escort command, civilian survey staff, hired teamsters |
+| Working Hands | Soldiers, mule skinners, chain men, cooks, and laborers |
+| Main Resources | Instruments, maps, wagons, remounts, feed, dispatches |
+| Market Outlet | Fort Ellis / Bozeman / survey route traffic |
+
+| Amenity | Year | Season | Notes |
+| ------- | ---- | ------ | ----- |
+| Wagon Yard | 1873 | Spring | |
+| Draft Corrals | 1873 | Spring | |
+| Field Forge | 1873 | Summer | |
+| Telegraph Tent | 1873 | Summer | |
+
+Trouble here runs to stolen maps, sabotaged instruments, frightened civilian specialists, Army escort friction, missing dispatches, and local guides selling the same route knowledge to two sides at once.
+
+The depots give the Gallatin chapter a direct frontier edge toward `The Yellowstone Line`. A party can ride there as escorts, guards, scouts, investigators, or opportunists. Once there, they have to manage the oldest western problem in a new scientific costume: distance, bad information, and too many men trying to convert geography into private power.
+
 ## Ten Good Bozeman Hooks
 
 1. A witness from `The Yellowstone Line` disappears between Sarah Renshaw's boarding house and the jail cell room.
@@ -633,5 +695,3 @@ Leander Pike understands exactly how necessary his land is and exactly how littl
 8. Fort Ellis wants a deniable recovery of property the quartermaster swears was never missing.
 9. A Crow warning reaches the party first and then, impossibly, reaches Bozeman through another mouth.
 10. A rustler band offers to return stolen horses for one paper the party should never surrender.
-
-Bozeman works because it does not resolve anything. It spreads every unresolved matter into three more. The town can feed the party, employ them, betray them, or bury them, and the valley beyond it gives every decision room to grow teeth.

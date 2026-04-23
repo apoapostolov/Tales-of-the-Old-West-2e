@@ -191,7 +191,7 @@ Counts:
 
 - `1` primary
 - `2` secondary
-- `6` tertiary
+- `8` tertiary
 
 #### Primary settlements
 
@@ -216,6 +216,8 @@ Counts:
 | Trail Creek Horse Ranches | `30-80` | remount and horse-breeding cluster |
 | Bridger Foothill Cabins | `25-60` | timber and poor-ground household cluster |
 | Dry Creek Hay Places | `20-50` | winter-feed meadows and hay cluster |
+| Shields Valley Ranch Line | `30-80` | stock and farm support along the northern Yellowstone approach |
+| Yellowstone Survey Depots | `20-60` | temporary but recurring military-scientific camp chain |
 
 ### 4. Missouri and North-Country Line
 
@@ -257,7 +259,7 @@ Counts:
 
 - `0` primary
 - `1` secondary
-- `3` tertiary
+- `1` tertiary
 
 This region stays thin on purpose. The book should not fake a settled east.
 
@@ -271,8 +273,6 @@ This region stays thin on purpose. The book should not fake a settled east.
 
 | Settlement | Expected size | Function |
 | --- | --- | --- |
-| Shields Valley Ranch Line | `30-80` | stock and farm support along the northern Yellowstone approach |
-| Yellowstone Survey Depots | `20-60` | temporary but recurring military-scientific camp chain |
 | Musselshell Ford Camps | `20-60` | crossing camps and transient road support |
 
 ## Scope Control Notes
