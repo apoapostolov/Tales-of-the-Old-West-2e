@@ -102,23 +102,133 @@ A working selection. Add as you read.
 
 ### Cowhand and drover
 
-_Aboard_ — in the saddle. _Bell mare_ — the lead mare with the bell on her, around whom the remuda gathered. _Bog rider_ — a hand whose job was to pull cows out of mud holes. _Brand-blotcher_ — a rustler who altered brands. _Brush-popper_ — a south Texas hand who worked cattle out of thick brush. _Bronc / bronco_ — an unbroken horse. _Buckaroo_ — California-Nevada term for cowhand (from _vaquero_). _Chaps / chinks_ — leather leggings. _Chuck_ — food (chuck wagon, chuck box, chuck up). _Cinch up_ — tighten the cinch; metaphorically, settle a matter. _Cookie / coosie / dough-puncher / biscuit-shooter_ — the cook. _Cowpoke_ — period-correct from poking cattle through stockcar slats. _Cut_ — to separate from the herd. _Dally_ — to wrap the rope around the saddle horn (Spanish _dale vuelta_). _Dogie_ — an orphan calf. _Drag_ — the rear of the moving herd. _Drift_ — to wander. _Fill his hand_ — draw a pistol. _Fork a horse_ — mount and ride. _Forty-rod_ — cheap whiskey (kills you at forty rods). _Greenhorn_ — newcomer. _Grub_ — food. _Hog-tie_ — bind the legs. _Honda_ — the loop at the rope's end. _Jingle_ — bring in the remuda. _Kick over the traces_ — break out of restraint. _Maverick_ — an unbranded calf. _Mossy horn_ — an old steer. _Nester_ — a homesteader (cattleman's pejorative). _Outfit_ — a ranch and crew, or a man's gear. _Point_ — the lead position on a moving herd. _Powder-burner_ — a gunfighter. _Pull leather_ — grab the saddle horn (a sign of poor riding). _Quirly_ — a roll-your-own cigarette. _Range hog_ — a man who claimed too much range. _Remuda_ — the herd of saddle horses. _Rope corral_ — a corral made by stretching a rope. _Rustler_ — a thief of stock. _Saddle bum_ — a drifting cowhand. _Savvy_ — to understand (from _sabe_). _Segundo_ — the second in command on a drive. _Sky pilot_ — a preacher. _Slick / slick-eared_ — unbranded. _Snake-eyes_ — two ones on the dice. _Sourdough_ — the cook, or a long-term hand. _Stove up_ — broken-down. _String_ — the horses assigned to one hand. _Tenderfoot_ — a newcomer (specifically one who could not yet take the saddle). _Top hand_ — the best hand. _Trail boss_ — head of the drive. _Waddy_ — a working cowhand. _Whoa_ — stop. _Wrangler / horse jingler_ — the boy who handled the remuda.
+- _Aboard_ — in the saddle.
+- _Bell mare_ — the lead mare with the bell on her, around whom the remuda gathered.
+- _Bog rider_ — a hand whose job was to pull cows out of mud holes.
+- _Brand-blotcher_ — a rustler who altered brands.
+- _Brush-popper_ — a south Texas hand who worked cattle out of thick brush.
+- _Bronc / bronco_ — an unbroken horse.
+- _Buckaroo_ — California-Nevada term for cowhand (from _vaquero_).
+- _Chaps / chinks_ — leather leggings.
+- _Chuck_ — food (chuck wagon, chuck box, chuck up).
+- _Cinch up_ — tighten the cinch; metaphorically, settle a matter.
+- _Cookie / coosie / dough-puncher / biscuit-shooter_ — the cook.
+- _Cowpoke_ — period-correct from poking cattle through stockcar slats.
+- _Cut_ — to separate from the herd.
+- _Dally_ — to wrap the rope around the saddle horn (Spanish _dale vuelta_).
+- _Dogie_ — an orphan calf.
+- _Drag_ — the rear of the moving herd.
+- _Drift_ — to wander.
+- _Fill his hand_ — draw a pistol.
+- _Fork a horse_ — mount and ride.
+- _Forty-rod_ — cheap whiskey (kills you at forty rods).
+- _Greenhorn_ — newcomer.
+- _Grub_ — food.
+- _Hog-tie_ — bind the legs.
+- _Honda_ — the loop at the rope's end.
+- _Jingle_ — bring in the remuda.
+- _Kick over the traces_ — break out of restraint.
+- _Maverick_ — an unbranded calf.
+- _Mossy horn_ — an old steer.
+- _Nester_ — a homesteader (cattleman's pejorative).
+- _Outfit_ — a ranch and crew, or a man's gear.
+- _Point_ — the lead position on a moving herd.
+- _Powder-burner_ — a gunfighter.
+- _Pull leather_ — grab the saddle horn (a sign of poor riding).
+- _Quirly_ — a roll-your-own cigarette.
+- _Range hog_ — a man who claimed too much range.
+- _Remuda_ — the herd of saddle horses.
+- _Rope corral_ — a corral made by stretching a rope.
+- _Rustler_ — a thief of stock.
+- _Saddle bum_ — a drifting cowhand.
+- _Savvy_ — to understand (from _sabe_).
+- _Segundo_ — the second in command on a drive.
+- _Sky pilot_ — a preacher.
+- _Slick / slick-eared_ — unbranded.
+- _Snake-eyes_ — two ones on the dice.
+- _Sourdough_ — the cook, or a long-term hand.
+- _Stove up_ — broken-down.
+- _String_ — the horses assigned to one hand.
+- _Tenderfoot_ — a newcomer (specifically one who could not yet take the saddle).
+- _Top hand_ — the best hand.
+- _Trail boss_ — head of the drive.
+- _Waddy_ — a working cowhand.
+- _Whoa_ — stop.
+- _Wrangler / horse jingler_ — the boy who handled the remuda.
 
 ### Mining
 
-_Color_ — gold visible in the pan. _Dust_ — gold dust. _Glory hole_ — a rich pocket of ore. _Grass roots_ — surface ore. _Hardrock_ — vein mining. _High-grade_ (verb) — to steal rich ore. _Jackleg_ — a stand-mounted air drill. _Long tom_ — the long sluice. _Make a stake_ — earn enough to leave. _Muck_ — broken ore. _Pay dirt_ — gravel that contains gold. _Placer_ — surface-gold deposit. _Single-jack / double-jack_ — drilling techniques. _Stope_ — the open space mined out. _Tailings_ — waste from milling. _Widowmaker_ — air drill (silica dust killed the operator).
+- _Color_ — gold visible in the pan.
+- _Dust_ — gold dust.
+- _Glory hole_ — a rich pocket of ore.
+- _Grass roots_ — surface ore.
+- _Hardrock_ — vein mining.
+- _High-grade_ (verb) — to steal rich ore.
+- _Jackleg_ — a xstand-mounted air drill.
+- _Long tom_ — the long sluice.
+- _Make a stake_ — earn enough to leave.
+- _Muck_ — broken ore.
+- _Pay dirt_ — gravel that contains gold.
+- _Placer_ — surface-gold deposit.
+- _Single-jack / double-jack_ — drilling techniques.
+- _Stope_ — the open space mined out.
+- _Tailings_ — waste from milling.
+- _Widowmaker_ — air drill (silica dust killed the operator).
 
 ### Soldiers
 
-_Ball_ — a bullet. _Bonnyclabber_ — sour milk. _Coffee cooler_ — a malingerer. _Dough-foot_ — infantryman. _Gibbus_ — a stockade. _Hardtack_ — a hard square biscuit. _Hog and hominy_ — Army rations. _Long roll_ — the drumbeat to assembly. _Mick_ — Irish (used by Irish themselves and against them). _Mule meat_ — bad rations. _Old man_ — the colonel. _Old soldier_ — a veteran; or as a verb, _to old-soldier it,_ to feign illness. _Padre_ — chaplain. _Salt horse_ — preserved beef. _Skirmish line_ — extended formation for combat. _Sutler_ — civilian merchant on the post. _Top_ — the first sergeant. _Webfoot_ — sailor.
+- _Ball_ — a bullet.
+- _Bonnyclabber_ — sour milk.
+- _Coffee cooler_ — a malingerer.
+- _Dough-foot_ — infantryman.
+- _Gibbus_ — a stockade.
+- _Hardtack_ — a hard square biscuit.
+- _Hog and hominy_ — Army rations.
+- _Long roll_ — the drumbeat to assembly.
+- _Mick_ — Irish (used by Irish themselves and against them).
+- _Mule meat_ — bad rations.
+- _Old man_ — the colonel.
+- _Old soldier_ — a veteran; or as a verb, _to old-soldier it,_ to feign illness.
+- _Padre_ — chaplain.
+- _Salt horse_ — preserved beef.
+- _Skirmish line_ — extended formation for combat.
+- _Sutler_ — civilian merchant on the post.
+- _Top_ — the first sergeant.
+- _Webfoot_ — sailor.
 
 ### Townsmen and professionals
 
-_Banker, lawyer, sawbones, sky pilot, schoolmarm_ — period terms. _Cardsharp_ — a professional gambler suspected of cheating. _Drummer_ — a traveling salesman. _Faro bank_ — the most popular gambling game in the West. _Fancy lady, soiled dove, fallen woman, shady lady_ — prostitute (polite to condescending). _Hash slinger_ — a waitress. _Inkslinger_ — a writer or clerk. _Sport / sporting man_ — a gambler. _Tinhorn_ — a flashy, low-grade gambler.
+- _Banker, lawyer, sawbones, sky pilot, schoolmarm_ — period terms.
+- _Cardsharp_ — a professional gambler suspected of cheating.
+- _Drummer_ — a traveling salesman.
+- _Faro bank_ — the most popular gambling game in the West.
+- _Fancy lady, soiled dove, fallen woman, shady lady_ — prostitute (polite to condescending).
+- _Hash slinger_ — a waitress.
+- _Inkslinger_ — a writer or clerk.
+- _Sport / sporting man_ — a gambler.
+- _Tinhorn_ — a flashy, low-grade gambler.
 
 ### Outlaws and criminal cant
 
-_Beef_ (verb) — to kill. _Big augur_ — the boss of a gang. _Bracelets_ — handcuffs. _Bull_ — a lawman, especially a railroad guard. _Calaboose_ — jail. _Chuckaluck_ — a dice game. _Curly wolf_ — a tough character. _Dry-gulch_ — to ambush. _Highbinder_ — a Chinese tong gunman; broadly, a thug. _Jug_ — jail. _Lay low_ — hide. _Mooch_ — beg. _On the dodge_ — fleeing the law. _Owl-hooter / owl-hoot trail_ — the outlaw life. _Plug_ (verb) — to shoot. _Pull the pin_ — leave a job or place. _Rustler_ — stock thief. _Sneak_ (verb) — burgle. _Tin star_ — a lawman (pejorative).
+- _Beef_ (verb) — to kill.
+- _Big augur_ — the boss of a gang.
+- _Bracelets_ — handcuffs.
+- _Bull_ — a lawman, especially a railroad guard.
+- _Calaboose_ — jail.
+- _Chuckaluck_ — a dice game.
+- _Curly wolf_ — a tough character.
+- _Dry-gulch_ — to ambush.
+- _Highbinder_ — a Chinese tong gunman; broadly, a thug.
+- _Jug_ — jail.
+- _Lay low_ — hide.
+- _Mooch_ — beg.
+- _On the dodge_ — fleeing the law.
+- _Owl-hooter / owl-hoot trail_ — the outlaw life.
+- _Plug_ (verb) — to shoot.
+- _Pull the pin_ — leave a job or place.
+- _Rustler_ — stock thief.
+- _Sneak_ (verb) — burgle.
+- _Tin star_ — a lawman (pejorative).
 
 ---
 
