@@ -146,6 +146,43 @@ Unknown to King, the Mortimer family back east fell on bad times. King’s mothe
 
 ### Jornada Springs
 
+| Jornada Springs Summary | Value |
+| ----------------------- | ----- |
+| Settlement Points       | 0     |
+| Bonus SP per Season     | 1     |
+
+| Civic Offices | Holder | Notable Citizens       | Role                       |
+| ------------- | ------ | ---------------------- | -------------------------- |
+| Mayor         | None   | Garland Roeburn        | Mining interests & founder |
+| Judge         | None   | Donal McGinn           | Rancher                    |
+| Sheriff       | None   | Augustine              | Rancher                    |
+| Deputy        | None   | Father Federico Cuaron | Priest                     |
+
+| Aspect          | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  | 25  | 26  | 27  | 28  | 29  | 30  |
+| --------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Rank Milestones | I   |     | II  |     |     |     | III |     |     |     |     |     | IV  |     |     |     |     |     | V   |     |     |     |     |     |     | VI  |     |     |     |     |
+| Roll            | -2  | -2  | -1  | -1  | -1  | -1  | 0   | 0   | 0   | 0   | 0   | 0   | +1  | +1  | +1  | +1  | +1  | +1  | +2  | +2  | +2  | +2  | +2  | +2  | +2  | +2  | +3  | +3  | +3  | +3  |
+| FARMING         | X   | X   | X   | X   | X   | X   |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| MERCANTILE      | X   | X   | X   | X   | X   | X   |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| NATURAL RICHES  | X   | X   |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| LAW             | X   | X   | X   |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| CIVIC           | X   | X   | X   |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| WELFARE         | X   | X   |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+
+| Prosperity | Value | 6 to 10                   | 11 to 14                  | 15 to 18                   | 19 to 23    | 24 to 27               | 28 to 31              | 32 to 36              |
+| ---------- | ----- | ------------------------- | ------------------------- | -------------------------- | ----------- | ---------------------- | --------------------- | --------------------- |
+| Modifier   |       | Minus 2 from the Tens Die | Minus 1 from the Tens Die | Minus 3 from the Units Die | No modifier | Add 3 to the Units Die | Add 1 to the Tens Die | Add 2 to the Tens Die |
+| PROSPERITY | 10    | X                         |                           |                            |             |                        |                       |                       |
+
+| Year | Season  | Amenity            | Notes            |
+| ---- | ------- | ------------------ | ---------------- |
+| 1870 | Fall    | Land Clearance     |                  |
+| 1871 | Spring  | Paddocks / Corrals |                  |
+| 1871 | Summer  | Church             | +1 SP per Season |
+| 1872 | Spring | Cemetery           |                  |
+| 1872 | Fall    | Town Square        |                  |
+| 1872 | Winter  | Bordellos          |                  |
+
 Jornada Springs, in Socorro County, was established in 1870, a small town on the eastern side of the southern Rio Grande river valley. It sits astride a rare freshwater spring of the same name which flows from the mountains of the Sierra Oscura and into the river valley. To the north, the road runs past the bleak basin and broken country of the Jornada del Muerto, now the perfect landscape for bandits to hide in. The road leads to Fort Craig, then north to Albuquerque and Santa Fe, or east to Lincoln. To the south lies El Paso and west you will find Deming, Silver City, and Steaming Rock.
 
 Jornada Springs was originally established to take advantage of the silver found in the Sierra Oscura, but has become a ranching town, located as it is, central to the excellent grazing land of the eastern Rio Grande valley. And much of the valley is still up for grabs as part of the Spanish Land Rights.
@@ -263,6 +300,46 @@ Marion and Jimmy are partners in the Freeman− Harlesden ranch. Freeman is a fo
 Bo Yin is a young Chinaman who came to the west with his father, seeking work on the railroads. His father died in an accident, but instead of making the arduous journey back to China, Bo Yin decided to make a new home here. He is both clever and cunning, has learned some English and Spanish, and is a skilled engineer—all things he **wants** to keep secret, as a clever Chinaman is seen as a threat by many white settlers. He is a popular **stalwart** of the small Chinese community in Jornada Springs, helping where he can, doing odd jobs and running errands. He works in the Raeburn mines, but **needs** to keep a low profile and hide his talents while he works on his true objective—he **intends** to steal a big find from under Raeburn’s nose, and move on with his ill-gotten gains.
 
 ### Steaming Rock
+
+| Steaming Rock Summary | Value |
+| ----------------------- | ----- |
+| Settlement Points       | 0     |
+| Bonus SP per Season     | 1     |
+
+| Civic Offices | Holder | Notable Citizens | Role |
+| --- | --- | --- | --- |
+| Mayor | Samuel Bertrand (founder) | Ellis Rockcliffe | businessman |
+| Judge | None | Hubbard McGraw | mining interets & founder |
+| Sheriff | None | Father Brayton Carmody | Rancher |
+| Deputy | None |  |  |
+
+| Aspect | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Rank Milestones | I |  | II |  |  |  | III |  |  |  |  |  | IV |  |  |  |  |  | V |  |  |  |  |  |  | VI |  |  |  |  |
+| Roll | -2 | -2 | -1 | -1 | -1 | -1 | 0 | 0 | 0 | 0 | 0 | 0 | +1 | +1 | +1 | +1 | +1 | +1 | +2 | +2 | +2 | +2 | +2 | +2 | +2 | +2 | +3 | +3 | +3 | +3 |
+| FARMING | X | X | X | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| MERCANTILE | X | X | X | X | X | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| NATURAL RICHES | X | X | X | X | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| LAW | X | X | X | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| CIVIC | X | X | X | X | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| WELFARE | X | X | X | X | X | X | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Prosperity | Value | 6 to 10 | 11 to 14 | 15 to 18 | 19 to 23 | 24 to 27 | 28 to 31 | 32 to 36 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Modifier |  | Minus 2 from the Tens Die | Minus 1 from the Tens Die | Minus 3 from the Units Die | No modifier | Add 3 to the Units Die | Add 1 to the Tens Die | Add 2 to the Tens Die |
+| PROSPERITY | 13 | X | X |  |  |  |  |  |
+
+| Year | Season | Amenity | Notes |
+| --- | --- | --- | --- |
+| 1869 | Fall | Cemetery |  |
+| 1870 | Fall | Animal Culls |  |
+| 1870 | Winter | Mines |  |
+| 1871 | Spring | Blacksmith |  |
+| 1871 | Summer | Sheriff's Office |  |
+| 1872 | Spring | Church | +1 SP per Season |
+| 1872 | Summer | Saloons |  |
+| 1872 | Fall | Gallows | |
+| 1872 | Winter | Doctor |  |
 
 Steaming Rock, in Grant County, has been growing since its establishment in 1869, and is now home to a few hundred souls. There are many diverse settlers from Europe and the east, as well as Native Americans from the local tribes. The town sits on the northern edge of the Gila Forest and mountains, alongside the small brook called Humente Creek and a string of bubbling hot springs. The creek is no more than twenty feet across and never deeper than two feet, and the springs are cool enough to bathe in.
 
@@ -391,6 +468,46 @@ Prudence, usually known as Pru, **runs** a laundry business that caters for all 
 Vaughn **owns** the Merciless Gunsmith, and crafts the finest weapons in the state (according to him). His nickname, “Merciless” was coined after rumors circulated that he shot a man in the back after accepting an honorable duel. He also **owns** two beautiful pistols with the initials ‘CD’ engraved on the ivory grips. He **needs** people to believe he made them, but some old-timers are sure they once belonged to the renowned bounty hunter, Carlos Delgado, who disappeared a few years back. Vaughn **wants** excitement in his life, as gunsmithing is a tedious business, but **wants** to keep his past the subject of rumor rather than fact. Vaughn **fears** that someone will reveal his honorless past, such as Ellis Rockcliffe—once a great friend of Delgado—who would surely be able to identify the guns.
 
 ### Carson’s Folly
+
+
+| Carson’s Folly Summary | Value |
+| ----------------------- | ----- |
+| Settlement Points       | 0     |
+| Bonus SP per Season     | 1     |
+
+| Civic Offices | Holder | Notable Citizens | Role |
+| --- | --- | --- | --- |
+| Mayor | None | Josiah Townsend | founder |
+| Judge | None | Thomas Gracelyn | hotellier |
+| Sheriff | None | Father Cobus Hennie |  |
+| Deputy | None |  |  |
+
+| Aspect | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Rank Milestones | I |  | II |  |  |  | III |  |  |  |  |  | IV |  |  |  |  |  | V |  |  |  |  |  |  | VI |  |  |  |  |
+| Roll | -2 | -2 | -1 | -1 | -1 | -1 | 0 | 0 | 0 | 0 | 0 | 0 | +1 | +1 | +1 | +1 | +1 | +1 | +2 | +2 | +2 | +2 | +2 | +2 | +2 | +2 | +3 | +3 | +3 | +3 |
+| FARMING | X | X | X | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| MERCANTILE | X | X | X | X | X | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| NATURAL RICHES | X | X | X | X | X | X | X | X | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| LAW | X | X | X | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| CIVIC | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| WELFARE | X | X | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Prosperity | Value | 6 to 10 | 11 to 14 | 15 to 18 | 19 to 23 | 24 to 27 | 28 to 31 | 32 to 36 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Modifier |  | Minus 2 from the Tens Die | Minus 1 from the Tens Die | Minus 3 from the Units Die | No modifier | Add 3 to the Units Die | Add 1 to the Tens Die | Add 2 to the Tens Die |
+| PROSPERITY | 12 | X | X |  |  |  |  |  |
+
+| Year | Season | Amenity | Notes |
+| --- | --- | --- | --- |
+| 1868 | Spring | Church | +1 SP per Season |
+| 1869 | Spring | Cemetery |  |
+| 1870 | Spring | Fur Trapping |  |
+| 1871 | Summer | animal culls |  |
+| 1871 | Fall | General Stores |  |
+| 1872 | Spring | Panning Claims | +1 SP per Season |
+| 1872 | Summer | Mines |  |
+| 1872 | Fall | Bounty Hunters | |
 
 Carson’s Folly, in Colfax County, New Mexico, was first established in 1865 by fur trapper cum trader, Josiah Townsend. It was the direct result of an argument between Townsend and the renowned frontiersman, Kit Carson. Early in 1865 Carson helped establish Fort Nichols, just over the New Mexico border with the Indian Territory (what would later become Oklahoma), to protect travelers from the Comanche who roamed the plains, their ancestral lands. Townsend questioned the location, saying it should be further west to be of any use. Carson disagreed. They argued. Townsend was cordially invited to “sling his bunk” and be on his merry way.
 

@@ -1,315 +1,245 @@
-# Location Statblock Helper for Montana Supplement
+# Village Statblock Helper for Montana Supplement
 
-This document is the working crib for writing location statblocks across the Montana book.
+This document replaces the earlier inferred location-profile model.
 
-Use it for:
+The correct source for Montana village statblocks is:
 
-- villages
-- towns
-- mining camps
-- ranches
-- farmsteads
-- ferries
-- stage stops
-- roadhouses
-- river landings
-- fort-adjacent settlements
-- agency outposts
-- mission sites
+- the settlement rules in [corebook/08-campaigns-in-the-old-west.md](/home/apoapostolov/git-public/Tales-of-the-Old-West-2e/corebook/08-campaigns-in-the-old-west.md)
+- the presentation used for `Jornada Springs` in [corebook/09-the-new-mexico-campaign.md](/home/apoapostolov/git-public/Tales-of-the-Old-West-2e/corebook/09-the-new-mexico-campaign.md)
 
-The point is table utility. A location block should tell the GM what keeps the place alive, what threatens it, and what kind of trouble belongs there.
+## Correction
 
-## Primary Reference Files
+The previous Montana helper was wrong because it treated the village statblock as a custom environment-and-pressure dashboard:
 
-- [villages/00-village-template.md](/mnt/c/git-public/tales-of-the-old-west-2e/supplement-2-montana-campaign/villages/00-village-template.md)
-- [research/01-historical-audit.md](/mnt/c/git-public/tales-of-the-old-west-2e/supplement-2-montana-campaign/research/01-historical-audit.md)
-- [research/02-settlement-scope.md](/mnt/c/git-public/tales-of-the-old-west-2e/supplement-2-montana-campaign/research/02-settlement-scope.md)
-
-## Core Principle
-
-Do not describe a place from above. Describe what keeps it standing.
-
-Good location design answers these questions fast:
-
-- Why is this place here at all?
-- What can it feed, cut, burn, haul, mine, graze, or trade?
-- What does it need brought in from elsewhere?
-- Who profits from it?
-- Who is trapped in it?
-- What season hurts it worst?
-- What faction can break it quickest?
-
-## Production Pattern
-
-Every location entry should have:
-
-1. one hard opening paragraph
-2. one statblock table
-3. resource and geology notes
-4. pressure notes
-5. people or faction presence
-6. playable hooks
-
-## Standard Location Fields
-
-Use these as the default location statblock.
-
-| Field | Meaning |
-| --- | --- |
-| Tier | Major / Moderate / Minor / Micro |
-| Location Type | Mining town / Farm village / Ranch cluster / River landing / Ferry / Stage stop / Mission / Camp / Mixed |
-| 1873 Condition | Boom / Holding / Strained / Decline / Dying / Rebound |
-| Population Pattern | Permanent / Seasonal / Mixed / Transient |
-| Water Security | Poor / Fair / Good / Strong |
-| Timber Access | Poor / Fair / Good / Strong |
-| Grazing Access | Poor / Fair / Good / Strong |
-| Arable Land | Poor / Fair / Good / Strong |
-| Mineral Base | None / Placer / Lode / Mixed |
-| Freight Access | Poor / Fair / Good / Strong |
-| Winter Risk | Low / Medium / High / Extreme |
-| Law Presence | Thin / Uneven / Firm / Corrupt-Firm |
-| Army Reach | Distant / Intermittent / Nearby / Immediate |
-| Indian-Country Pressure | Low / Medium / High / Extreme |
-| Vice Market | None / Thin / Active / Heavy |
-| Labor Pool | Thin / Seasonal / Mixed / Deep |
-| Strategic Value | Low / Medium / High / Critical |
-
-Not every tiny site needs every line spelled out in prose, but the designer should still answer them.
-
-## Micro-Site Pattern
-
-For farms, ferries, roadhouses, isolated ranches, and single-purpose posts, compress the table to what matters most:
-
-- type
-- condition
-- water
+- water security
+- timber access
+- grazing access
+- arable land
 - freight access
 - winter risk
-- law presence
-- outside pressure
+- Army reach
+- and similar tags
 
-## How to Think About Place Types
+Those are useful design notes, but they are not the corebook's village statblock.
 
-### Village
+For a real settlement entry in this project, the statblock should use the settlement system:
 
-A village is a place that expects tomorrow. It has families, stores, some repeated habit of worship or trade, and enough permanence that who owns the well, the mill, the hay field, or the ferry matters.
+1. `Settlement Points`
+2. `Bonus SP per Season`
+3. `Civic Offices`
+4. six settlement aspects:
+   - `FARMING`
+   - `MERCANTILE`
+   - `NATURAL RICHES`
+   - `LAW`
+   - `CIVIC`
+   - `WELFARE`
+5. `PROSPERITY`
+6. amenity history
 
-### Farmstead
+Montana-specific terrain, weather, Native-political pressure, Army reach, and freight logic belong in prose notes around the statblock, not inside it.
+
+## What Jornada Springs Actually Shows
+
+`Jornada Springs` uses five linked blocks:
+
+1. summary table
+2. civic-offices table
+3. aspect-track grid with `X` marks and rank milestones
+4. prosperity table
+5. amenity ledger by year and season
 
-A farmstead is not just a house. It is a food machine under strain. Think in terms of water, hay, fences, draft animals, family labor, storage, and distance from help.
+That is the template to follow.
 
-### Ranch
+## Core Rule Frame
 
-A ranch stands on grass, water, horseflesh, and control of range. Small ranches are fragile. Big ones are often overextended and violent.
+The six settlement aspects each run on tally points and ranks.
 
-### Mining Camp
+- Rank `I` begins at `1`
+- Rank `II` begins at `3`
+- Rank `III` begins at `7`
+- Rank `IV` begins at `13`
+- Rank `V` begins at `19`
+- Rank `VI` begins at `26`
 
-Ask whether the easy surface wealth is gone. If it is, the camp now lives on milling, investment, debt, wage labor, theft, and lies about the next strike.
+The GM-facing meaning of the aspects comes from the rulebook:
 
-### River Landing or Ferry
+- `FARMING`: the settlement's food production and agricultural base
+- `MERCANTILE`: trade, stores, services, and general business life
+- `NATURAL RICHES`: extractive wealth and useful raw resources
+- `LAW`: formal and informal justice, enforcement, and the grip of order
+- `CIVIC`: public life, institutions, meetings, schools, and municipal confidence
+- `WELFARE`: sanitation, danger mitigation, medicine, and how survivable the place is
 
-Such a site lives by timing. Water level, current, ice, mud banks, missing freight, and who controls the approach road matter more than prettiness.
+`PROSPERITY` is the sum of the six aspect totals. Its band sets the settlement class and Turn of the Season modifier:
 
-### Stage Stop or Roadhouse
+| Prosperity total | Description | Turn of the season modifier | Population guidance |
+| --- | --- | --- | --- |
+| 6-10 | Trading Post | `-2` to the Tens die | a couple hundred at most |
+| 11-14 | Camp | `-1` to the Tens die | up to about `500` |
+| 15-18 | Shanty | `-3` to the Units die | over `500`, under `1,000` |
+| 19-23 | Village | no modifier | around `1,000` |
+| 24-27 | Town | `+3` to the Units die | about `1,500-2,000` |
+| 28-31 | Large town | `+1` to the Tens die | more than `2,500` |
+| 32-36 | City | `+2` to the Tens die | `5,000+` |
 
-A good stage stop is a throat, not a destination. It exists because movement needs food, rest, water, horses, and a roof.
+## Required Block Format
 
-## Resource and Geology Notes
+Every full Montana settlement statblock should be built in this order.
 
-Every location should answer four plain material questions.
+### 1. Summary table
 
-### What is under the ground
+```md
+| Bozeman Summary | Value |
+| --------------- | ----- |
+| Settlement Points | 0 |
+| Bonus SP per Season | 1 |
+```
 
-- creek gravel
-- bench soil
-- timber
-- coal seam
-- placer wash
-- lode vein
-- floodplain mud
-- alkali flats
+### 2. Civic offices table
 
-### What can be produced locally
+This mirrors `Jornada Springs`.
 
-- hay
-- grain
-- beef
-- horses
-- cut timber
-- charcoal
-- ore
-- hides
-- ferry service
+```md
+| Civic Offices | Holder | Notable Citizens | Role |
+| --- | --- | --- | --- |
+| Mayor | None | [Name] | [power base] |
+| Judge | None | [Name] | [power base] |
+| Sheriff | None | [Name] | [power base] |
+| Deputy | None | [Name] | [power base] |
+```
 
-### What must be imported
+Use `None` when the office does not formally exist or is not yet filled.
 
-- flour
-- coffee
-- nails
-- machine parts
-- blasting powder
-- medicine
-- cloth
-- legal paper
+### 3. Aspect-track grid
 
-### What fails first
+This is the heart of the statblock. Copy the aspect table structure from the village template exactly, including every helper row you have added there.
 
-- water in late summer
-- feed in winter
-- labor after a bad strike
-- timber close to camp
-- law when money arrives
+At minimum, the grid must preserve:
 
-## Quick Rating Logic
+- the `Aspect` header row with columns `1` through `30`
+- the alignment row
+- the `Rank Milestones` row
+- each aspect row in order:
+  - `FARMING`
+  - `MERCANTILE`
+  - `NATURAL RICHES`
+  - `LAW`
+  - `CIVIC`
+  - `WELFARE`
 
-Use these as design anchors.
+The values are shown with `X` marks, not with a single numeric score.
 
-### Water Security
+Use this exact working pattern from the template:
 
-- `Poor`: one bad creek or hauled barrels
-- `Fair`: enough in season, doubtful in drought or freeze
-- `Good`: reliable local source, but still vulnerable
-- `Strong`: multiple reliable sources or major river control
+```md
+| Aspect          | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  | 25  | 26  | 27  | 28  | 29  | 30  |
+| --------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Rank Milestones | I   |     | II  |     |     |     | III |     |     |     |     |     | IV  |     |     |     |     |     | V   |     |     |     |     |     |     | VI  |     |     |     |     |
+| FARMING         | [X] |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| MERCANTILE      | [X] |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| NATURAL RICHES  | [X] |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| LAW             | [X] |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| CIVIC           | [X] |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| WELFARE         | [X] |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+```
 
-### Freight Access
+If you add another structural row to the template later, update this helper and copy that row into the example block instead of describing it loosely.
 
-- `Poor`: bad road, no easy pack or wagon route, seasonal isolation
-- `Fair`: reachable with effort, delays common
-- `Good`: dependable wagon, river, or linked route
-- `Strong`: sits on a key artery or landing
+### 4. Prosperity table
 
-### Law Presence
+Repeat the full prosperity-band table and mark the active band with `X`, as `Jornada Springs` does.
 
-- `Thin`: badge exists in rumor or name only
-- `Uneven`: enforcement depends on who is offended
-- `Firm`: order can be imposed most days
-- `Corrupt-Firm`: order is real, but bought
+### 5. Amenity ledger
 
-### Indian-Country Pressure
+Track how the settlement became what it is.
 
-- `Low`: the place is relatively insulated
-- `Medium`: warning, diplomacy, and route caution matter
-- `High`: movement beyond the site is contested
-- `Extreme`: the place exists under direct field danger
+```md
+| Year | Season | Amenity | Notes |
+| ---- | ------ | ------- | ----- |
+| 1871 | Spring | Wells | foundation amenity |
+| 1871 | Summer | Sheriff's Office | law takes shape |
+```
 
-## Opening Paragraph Formula
+Include `+1 SP per Season` notes for `Church` or `Newspaper` where relevant.
 
-The first paragraph should usually contain:
+## Montana-Specific Additions
 
-- what the place sits on
-- why it exists
-- what condition it is in
-- what its future depends on
+These are allowed, but they must sit outside the statblock proper.
 
-Example pattern:
+Add a short prose or bullet section after the amenity ledger for:
 
-`[Name] sits on [river / bench / creek / pass / valley edge] and lives by [freight / hay / stock / ore / ferry work]. In 1873 it is [holding / growing / fading], and one bad [winter / freight delay / court ruling / raid / washout] could break it open.`
+- county or district
+- road, river, pass, or freight position
+- winter pressure
+- Army or federal reach
+- Native political-military context in `1873`
+- what the settlement exports
+- what it must import
 
-## Special Guidance by Site
+That gives Montana its territorial specificity without breaking the corebook rules format.
 
-### Farms and ranches
+## How to Derive a Montana Settlement
 
-Add:
+Start with the actual life of the place, then map that into the six-aspect system.
 
-- household labor
-- herd count range
-- hay dependence
-- fence condition
-- nearest help
+### Farming
 
-### Villages and towns
+Ask:
 
-Add:
+- does the place feed itself well
+- is it a ranching place, farming place, or both
+- does it have hay, corrals, barns, markets, or stock trade
 
-- market day rhythm
-- vice presence
-- social split between owners and labor
-- who dominates the church, store, or paper
+### Mercantile
 
-### Isolated transport sites
+Ask:
 
-Add:
+- does it have stores, hotels, saloons, traders, blacksmiths, attorneys, doctors
+- is it on a route people rely on
+- can people buy specialist services there
 
-- crossing condition
-- replacement animals
-- who controls the toll or landing
-- how long a stranded traveler can stay alive there
+### Natural Riches
 
-## Pressure Notes
+Ask:
 
-Every finished location should carry at least three living pressures:
+- does it rest on mining, timber, trapping, fishing, clay, quarrying, or other extractive base
+- how much of its confidence comes from raw material wealth
 
-- one economic
-- one human or factional
-- one seasonal or geographic
+### Law
 
-Examples:
+Ask:
 
-- the creek is dropping too early
-- two families dispute the hay bottom
-- the Army wants wagons first and payment later
-- the local trader extends credit at knife-point terms
-- the nearest saw timber is already half-cut out
+- is there a sheriff
+- is there a judge or courthouse
+- do outlaws avoid the place or work it openly
 
-## Hook Pattern
+### Civic
 
-Every location should generate at least:
+Ask:
 
-- one lawful hook
-- one outlaw hook
-- one survival hook
+- does the settlement have meetings, schools, churches, fairs, a paper, a council
+- does it behave like a community or just a camp of interests
 
-That keeps the place playable no matter what kind of party arrives.
+### Welfare
 
-## Village and Farm Quick Packages
+Ask:
 
-### Small farmstead
+- does it have wells, latrines, stables, cemetery, doctor, apothecary, fire response
+- how badly do weather, disease, industrial accidents, or remoteness hurt it
 
-- type: `Farmstead`
-- condition: `Holding` or `Strained`
-- water: `Fair`
-- freight: `Poor` or `Fair`
-- winter: `High`
-- law: `Thin`
-- note: labor shortage, debt, or stock loss usually drives the story
+## What Not to Do
 
-### Ranch cluster
+- Do not replace the six aspects with environmental tags.
+- Do not collapse the aspect grid into one summary number.
+- Do not use `Tier`, `Water Security`, `Freight Access`, `Army Reach`, or `Strategic Value` as the main village statblock fields.
+- Do not treat the prosperity label like flavor text; it is mechanically tied to Turn of the Season.
 
-- type: `Ranch cluster`
-- condition: `Holding` or `Growing`
-- grazing: `Good` or `Strong`
-- water: `Fair` or `Good`
-- freight: `Fair`
-- law: `Thin` or `Uneven`
-- note: range claims and horse theft should be nearby
+## Practical Montana Rule
 
-### Ferry crossing
+For this supplement, use two layers:
 
-- type: `Ferry`
-- condition: `Holding`
-- water: `Strong`
-- freight: `Good`
-- winter: `Extreme`
-- law: `Uneven`
-- note: tolls, stranded traffic, and missing packets belong here
+1. the corebook settlement statblock for rules-facing village format
+2. Montana prose notes for terrain, winter, Native politics, Army presence, freight, and outlaw pressure
 
-### Roadhouse or stage stop
-
-- type: `Stage stop`
-- condition: `Strained`
-- water: `Fair`
-- freight: `Good`
-- winter: `High`
-- law: `Thin`
-- note: gossip and horseflesh matter more than local virtue
-
-## Final Check
-
-Before shipping a location entry, ask:
-
-- Could a GM understand why this place exists in one paragraph?
-- Does the statblock describe actual material conditions rather than atmosphere alone?
-- Would winter, distance, and supply trouble show up in play here?
-- Is there at least one thing worth stealing, protecting, buying, burning, or lying about?
-
-If not, the place is still decorative and needs another pass.
+That preserves compatibility with the game while still making Montana feel like Montana.
