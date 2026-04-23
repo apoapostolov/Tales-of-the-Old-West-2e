@@ -1,23 +1,23 @@
 # Chapter 15 — Competence and Procedure
 
-> _"HE LAID THE BLANKET SMOOTH, SET THE SADDLE ON, PULLED THE CINCH THROUGH THE LATIGO, AND WAITED. THE BAY HAD LEARNED TO PUFF. BOWMAN WAITED HIM OUT."_
+> _“HE LAID THE BLANKET SMOOTH, SET THE SADDLE ON, PULLED THE CINCH THROUGH THE LATIGO, AND WAITED. THE BAY HAD LEARNED TO PUFF. BOWMAN WAITED HIM OUT.”_
 
-The West moved by procedure. A man saddled his horse the same way every morning of his life. The order of the steps meant the difference between a horse he could ride and a horse that bucked him off in the yard. What follows is the procedural knowledge of the country—horsemanship, cattle, camp, survival, firearms, wagons, doctoring, scouting—set down in the order a competent hand would have run it.
+The working West moved by procedure. A man saddled his horse the same way every morning of his life, and the order of the steps was the difference between a horse he could ride and a horse that bucked him off in the yard. What follows is the procedural knowledge of the country — horsemanship, cattle, camp, survival, firearms, wagons, doctoring, scouting — set down in the order a competent hand would have run it.
 
 ---
 
 ## 1. The Order of the Work
 
-Skilled work had six properties.
+Skilled work in the period had six properties.
 
-- **Tense is present or simple past, never conditional.** _He pulls the cinch._ _He pulled the cinch._ Not _He would pull the cinch._ Not _One would._
-- **Nouns are specific.** _Latigo,_ not _strap._ _Honda,_ not _loop._ _Snaffle,_ not _bit_ when the accuracy matters.
+- **Tense is present or simple past, never conditional.** The work happens. _He pulls the cinch_ or _He pulled the cinch._ Not _He would pull the cinch._ Not _One would._
+- **Nouns are specific.** The thing has a name. _Latigo,_ not _strap._ _Honda,_ not _loop._ _Snaffle,_ not _bit_ when the accuracy matters.
 - **Verbs are strong.** _Slap, pull, throw, dally, pop, set, draw, cut._ No copulas where a verb will do.
-- **Sequence over explanation.** Show the order. The reader infers the reason.
-- **No interior.** The worker does not speak his feelings. He works. The narrator does not speak them either.
-- **Short clauses.** The breath of the prose is the breath of the work. Long sentences for waiting. Short sentences for hands moving.
+- **Sequence over explanation.** _First, then, then._ The reader is shown the order. The reader infers the reason.
+- **No interior.** The worker does not narrate his feelings. He works. The narrator does not narrate the worker's feelings either.
+- **Short clauses.** The breath of the prose is the breath of the work. Long sentences for waiting; short sentences for hands moving.
 
-The bad version: _Bowman saddled his horse, carefully ensuring that the cinch was properly tightened so as to prevent the saddle from shifting during the ride, an unfortunate occurrence that could potentially lead to injury for both horse and rider._ The good version: _Bowman threw the blanket on. He set the saddle on top of the blanket and slid it back along the bay's spine until it sat right. He pulled the cinch through the latigo and drew it up by feel. He waited for the bay to let out his breath and then he drew it up the rest of the way._ Specific gear. Specific behavior of the animal. Every cowman knows the bay puffs out his belly to keep the cinch loose. No explanation. No fear. Work.
+The bad version reads: _Bowman saddled his horse, carefully ensuring that the cinch was properly tightened so as to prevent the saddle from shifting during the ride, an unfortunate occurrence that could potentially lead to injury for both horse and rider._ The good version: _Bowman threw the blanket on. He set the saddle on top of the blanket and slid it back along the bay's spine until it sat right. He pulled the cinch through the latigo and drew it up by feel. He waited for the bay to let out his breath and then he drew it up the rest of the way._ Specific gear, specific behavior of the animal — every cowman knows the bay puffs out his belly to keep the cinch loose — no explanation, no fear of safety.
 
 ---
 
@@ -29,7 +29,7 @@ The wrangler runs the rope corral around the herd at first light. The men come u
 
 ### Saddling
 
-Lay the blanket smooth, hair side up against the back. No wrinkles. The saddle goes on at a small angle and you slide it back into the seat. Cinch from the off side or near side. Most cowmen near side. Pull the latigo through the cinch ring twice, draw it snug, wait. The horse will blow out the breath he was holding. Pull again. Tie off. Check the latigo knot. Step back. Look at the rigging from behind to see it sits straight.
+Lay the blanket smooth, hair side up against the back. No wrinkles. The saddle goes on at a small angle and you slide it back into the seat. Cinch from the off side or near side, depending on how you were taught — most cowmen near side. Pull the latigo through the cinch ring twice, draw it snug, wait. The horse will blow out the breath he was holding. Pull again. Tie off. Check the latigo knot. Step back. Look at the rigging from behind to see it sits straight.
 
 ### Mounting
 
@@ -49,7 +49,7 @@ Two ropers work the heel catch in branding. The header takes the head. The heele
 
 ### Dallying
 
-When the loop is on the steer, you wrap the rope around the saddle horn—the dally. One wrap if the steer is small. Two if he is large or fighting. Hold the tail of the rope in the gloved hand. _Never_ put a finger between the rope and the horn. Men have lost fingers and hands. The rope burns through leather glove and meat both.
+When the loop is on the steer, you wrap the rope around the saddle horn — the dally. One wrap if the steer is small. Two if he is large or fighting. Hold the tail of the rope in the gloved hand. _Never_ put a finger between the rope and the horn. Men have lost fingers and hands. The rope burns through leather glove and meat both.
 
 ### Tying off
 
@@ -65,15 +65,15 @@ A hot horse will founder on cold water. Walk him out before you let him drink, o
 
 ### Shoeing
 
-Pick up the foot. Clean the frog with the hoof pick. Trim the wall with the nippers. Rasp flat. Set the cold shoe to check fit; or, if hot-shoeing, set the heated shoe to the wall briefly to mark the burn. Drive the nails in pairs, outside in, tipping the points to come out the wall—never through the sole. Twist off the points with the clinching hammer. Clinch the cut ends down into the wall. Rasp the nail clinches smooth. Set the foot down. Pick up the next. A man shoes four feet in an hour if he knows the work and the horse stands.
+Pick up the foot. Clean the frog with the hoof pick. Trim the wall with the nippers. Rasp flat. Set the cold shoe to check fit; or, if hot-shoeing, set the heated shoe to the wall briefly to mark the burn. Drive the nails in pairs, outside in, tipping the points to come out the wall — never through the sole. Twist off the points with the clinching hammer. Clinch the cut ends down into the wall. Rasp the nail clinches smooth. Set the foot down. Pick up the next. A man shoes four feet in an hour if he knows the work and the horse stands.
 
 ### The saddle sore and the foundered horse
 
-Lift the saddle off, look at the back. White sweat-burn is warning. Open sores get rest and salve. The sore back goes bareback or with a sheepskin pad. The sore back ridden hard becomes a sour horse and a useless one. A foundered horse: walk him slow. Do not stand him in the stall. Stand him in a creek if you have one—cool water in the feet draws the heat. Cut down the grain ration. The first foundering can be brought back. The second leaves a horse short-strided for life.
+Lift the saddle off, look at the back. White sweat-burn is warning. Open sores get rest and salve. The sore back goes bareback or with a sheepskin pad. The sore back ridden hard becomes a sour horse and a useless one. A foundered horse: walk him slow. Do not stand him in the stall. Stand him in a creek if you have one — cool water in the feet draws the heat. Cut down the grain ration. The first foundering can be brought back. The second leaves a horse short-strided for life.
 
 ### Breaking a colt — the gentling way
 
-Snub him to a post. Brush him all over. Lift each foot until he gives it. Rope him in the corral, run the rope around his neck, around his haunches, until he leads. Sack him out—wave a saddle blanket over him until he stops flinching. Throw the blanket on his back. Take it off. On again. Off. Saddle him with the cinch loose. Walk him with the saddle. Cinch up. Bridle him. Ride him in the corral. Ride him outside. A patient man takes ten days to break a colt this way. A hurry man rides him bucking the third day, the colt sours, and he is fixed for life.
+Snub him to a post. Brush him all over. Lift each foot until he gives it. Rope him in the corral, run the rope around his neck, around his haunches, until he leads. Sack him out — wave a saddle blanket over him until he stops flinching. Throw the blanket on his back. Take it off. On again. Off. Saddle him with the cinch loose. Walk him with the saddle. Cinch up. Bridle him. Ride him in the corral. Ride him outside. A patient man takes ten days to break a colt this way. A hurry man rides him bucking the third day, the colt sours, and he is fixed for life.
 
 ### Breaking a colt — the busting way
 
@@ -86,22 +86,20 @@ Snub him. Saddle him by force. Bridle him. Hold him while the rider mounts. Turn
 > The bay was the third one Bowman called out of the remuda and the bay knew it. Bowman walked in slow with the loop down at his side and threw it when the bay was broadside. The bay pulled once and gave it up. Bowman worked the loop up the neck and slipped the bridle on while the bay was still figuring whether to bother. He led him out. He laid the blanket smooth and set the saddle on and slid it back into the seat. He pulled the cinch through the latigo and drew it up to where it would go and waited. The bay puffed. Bowman watched the line of the horizon east where the sun was about to come over and the bay let his breath out and Bowman drew the cinch the rest of the way and tied it off. He swung up. The first cold cup of the morning was still in his hand from the cook's fire and he drank what was left of it and threw the grounds. He turned the bay south where Henderson had said to be at sunup and they went.
 
 ---
-```
 
-All historical facts, dates, numbers, places, and proper nouns preserved. Markdown structure unchanged. Prose tightened for active voice, removed explanatory softness, shortened sentences for better breath, and eliminated unnecessary adjectives while keeping full technical precision.
 ## 3. Cattle Work
 
 ### The branding
 
-The fire is built and the irons are heated. The hands rope the calves out of the herd. A header takes the head, a heeler takes the back feet. The calf is laid on the ground. Two flankers hold the calf — one with a knee on the neck and the other with a foot on the bottom hind leg, pulling the top leg back. The brander brings the iron and sets it on the hip. He holds the press steady. He lifts when the smoke rises and the smell of burnt hair hits the nose. A second man marks the ear with a knife — underbit, overbit, swallowfork, depending on the brand. A third man, if a bull calf is being made a steer, takes the testicles with a knife and alters the calf. A single calf takes about ninety seconds when the crew is practiced. A practiced crew brands two hundred calves in a long day.
+The fire is built and the irons heated. The hands rope the calves out of the herd. A header takes the head, a heeler takes the back feet, the calf is stretched on the ground. Two flankers pin the calf — one with a knee on the neck and the other with a foot on the bottom hind leg, pulling the top leg back. The brander brings the iron, sets it on the hip with a quick steady press, lifts off when the smoke rises and the smell of burnt hair hits the nose. A second man marks the ear with a knife — underbit, overbit, swallowfork, depending on the brand. A third man, if a bull calf is being made a steer, takes the testicles with a knife and the calf is altered. The whole work on a single calf takes about ninety seconds when the crew is practiced. A practiced crew brands two hundred calves in a long day.
 
 ### Cutting
 
-A hand on a cutting horse rides into the herd and works the cow he wants out. The horse does the work — turns and blocks and turns again, anticipating the cow. The rider sits and holds the horn and lets the horse work. A good cutting horse cuts a cow out in under a minute and the rider hardly touches the rein.
+A hand on a cutting horse rides into the herd and works the cow he wants out. The horse does the work — turns and blocks and turns again, anticipating the cow. The rider sits steady, holds the horn, lets the horse work. A good cutting horse cuts a cow out in under a minute and the rider hardly touches the rein.
 
 ### Bedding the herd
 
-The herd beds at sundown on chosen ground — high if rain threatens, sheltered if cold, away from arroyos in monsoon country. The hands ride the herd at dusk to settle them. Once down, two riders circle the herd through the night, riding opposite directions, meeting at the head and the tail. They sing or hum to the cattle. The singing keeps the cattle quiet and warns them of the rider's approach — a sudden silhouette will spook a sleeping herd into a stampede.
+The herd beds at sundown on chosen ground — high if rain threatens, sheltered if cold, away from arroyos in monsoon country. The hands ride the herd at dusk to settle them. Once down, two riders circle the herd through the night, riding opposite directions, meeting at the head and the tail. They sing or hum to the cattle. The singing keeps the cattle quiet and warns the cattle of the rider's approach — a sudden silhouette will spook a sleeping herd into a stampede.
 
 ### The stampede
 
@@ -109,11 +107,11 @@ A herd stampedes from a sound — a clap of thunder, a match-strike, a coyote cr
 
 ### The river crossing
 
-The lead steer is pushed in. He swims. The herd follows. Riders work the flanks to keep them from milling — a milling herd in deep water drowns. The hands strip their gear and tie it to the saddles to keep it dry. They swim beside their horses, hands on the saddle. The crossing of the Red River, the Canadian, the Cimarron, the Arkansas, the Platte, the Powder, took men and horses and steers every season.
+The lead steer is pushed in. He swims. The herd follows. Riders work the flanks to keep them from milling — a milling herd in deep water drowns. The hands strip their gear off and tie the gear to the saddles to keep it dry. They swim beside their horses, hands on the saddle. The crossing of the Red River, the Canadian, the Cimarron, the Arkansas, the Platte, the Powder, took men and horses and steers every season.
 
 ### Doctoring a steer in the field
 
-The hand rides up alongside, throws the loop on the head from horseback, and dallies. A second rider takes the heels. The steer is stretched. The wound is doctored — a salve for screwworms, a brand on a fresh wound to seal it, a pull on a stuck calf in a heifer, a tooth examined. The ropes are slipped, the steer rises, and runs back to the herd.
+The hand rides up alongside, throws the loop on the head from horseback, dallies. A second rider takes the heels. The steer is stretched. The wound is doctored — a salve for screwworms, a brand on a fresh wound to seal it, a pull on a stuck calf in a heifer, a tooth examined. The ropes are slipped, the steer rises, runs back to the herd.
 
 ### Reading a sick cow
 
@@ -141,10 +139,10 @@ Beat down the snow to a flat spot or build the fire on a platform of green logs.
 
 ### Beans, biscuit, bacon, beef, coffee
 
-- **Beans.** Wash the beans the night before. Set them to soak in cold water. In the morning pour off the water. Cover them fresh with water two fingers above the beans. Set the pot on the fire. Add a chunk of salt pork and a handful of salt. Boil down to a slow simmer. Cover. Leave them. Three hours, the beans are soft. Four hours, they are right. Six hours, you add more water and they are still right.
-- **Sourdough biscuit.** Take a cup of starter from the keg. Pour into the bowl. Add water, salt, lard, flour. Work it up to a stiff dough. Pinch off pieces. Set them in the Dutch oven greased with bacon fat. Set the oven on the coals. Set coals on the lid. Twenty minutes. The biscuit comes up brown on top and bottom and the inside is sour and tender. Save back a cup of starter for the next day. Feed it flour and water. Keep the keg warm.
-- **Bacon and beef.** Bacon is sliced thin. Lay it in the iron skillet. Fry crisp. Drain. The grease is saved. Beef when fresh, from a steer killed for the camp, is cut into steaks. Salt them. Fry in the bacon grease. The trimmings go in the beans. The bones boil for soup with whatever the cook has — a handful of beans, a wild onion, a piece of jerky.
-- **Coffee.** Coffee bean is parched in the skillet over the fire. Grind it in a hand-mill or pound it in a flour sack with a hammer. Boil water in the pot. Throw in a handful of ground coffee. Boil five minutes. Throw in a dipper of cold water to settle the grounds. Pour. The coffee is black, gritty, hot, strong. A cowboy drinks four or six cups in a day.
+- **Beans.** Wash the beans the night before, set them to soak in cold water. In the morning pour off the water, cover them fresh with water two fingers above the beans, set the pot on the fire. Add a chunk of salt pork and a handful of salt. Boil down to a slow simmer, cover, leave them. Three hours, the beans are soft. Four hours, they are right. Six hours, you add more water and they are still right.
+- **Sourdough biscuit.** Take a cup of starter from the keg, pour into the bowl. Add water, salt, lard, flour. Work it up to a stiff dough. Pinch off pieces, set them in the Dutch oven greased with bacon fat. Set the oven on the coals, set coals on the lid. Twenty minutes. The biscuit comes up brown on top and bottom and the inside is sour and tender. Save back a cup of starter for the next day. Feed it flour and water, keep the keg warm.
+- **Bacon and beef.** Bacon is sliced thin, laid in the iron skillet, fried crisp, drained. The grease is saved. Beef when fresh, from a steer killed for the camp, is cut into steaks, salted, fried in the bacon grease. The trimmings go in the beans. The bones boil for soup with whatever the cook has — a handful of beans, a wild onion, a piece of jerky.
+- **Coffee.** Coffee bean is parched in the skillet over the fire, ground in a hand-mill or pounded in a flour sack with a hammer. Boil water in the pot. Throw in a handful of ground coffee. Boil five minutes. Throw in a dipper of cold water to settle the grounds. Pour. The coffee is black, gritty, hot, strong. A cowboy drinks four or six cups in a day.
 
 ### Pitching and striking camp
 
@@ -152,13 +150,13 @@ Choose ground above any flood line. Above any draw that could run in a flash flo
 
 ### Picketing horses and standing watch
 
-A picket pin driven into the ground. A twenty-foot rope to the pin and the horse's halter or hobble. The horse grazes in a circle. Move the pin twice a day to fresh grass. Picketed safer from theft and from wandering than hobbled, but he eats less; left untended overnight he can foul his rope and be down by morning.
+A picket pin driven stout into the ground. A twenty-foot rope to the pin and the horse's halter or hobble. The horse grazes in a circle. Move the pin twice a day to fresh grass. Picketed safer from theft and from wandering than hobbled, but he eats less; left untended overnight he can foul his rope and be down by morning.
 
 The night herders ride two-hour watches. The first watch at dusk to about ten. The second to midnight. The third to two. The fourth — the worst — to first light. The watch sings or hums. He carries his rifle across the saddle. He listens for the wrong sound: silence where there should be the herd's breath, the horse's snort warning of a wolf or a stranger.
 
 ### Reading a man's age and trade by his hands
 
-A cowman's hands are calloused on the palm and inside the right thumb (the rope), with a permanent indent on the ring finger of the left hand (the bridle rein). A miner's hands are calloused all over and his fingernails are grimed in the cuticle. A farmer's hands are calloused on the inside of the index finger (the plow handle). A teamster's hands are scarred on the back from the popper of his whip. A printer's hands are stained with ink along the right thumb. A doctor's hands are clean and quick.
+A cowman's hands are calloused on the palm and inside the right thumb (the rope), with a permanent indent on the ring finger of the left hand (the bridle rein). A miner's hands are calloused all over and his fingernails are permanently grimed in the cuticle. A farmer's hands are calloused on the inside of the index finger (the plow handle). A teamster's hands are scarred on the back from the popper of his whip catching him. A printer's hands are stained with ink along the right thumb. A doctor's hands are clean and quick.
 
 ---
 
@@ -190,11 +188,11 @@ In a plains thunderstorm, get off the horse. Get off the high ground. Drop any i
 
 He sounds his rattle when alarmed. Stop, locate him, walk around him. He will not chase. The danger is the snake you step on without seeing. Wear high boots in snake country. Do not put hand or foot into a place you cannot see — under a rock, in a woodpile, in a sleeping bag left unrolled overnight.
 
-For the bite (period practice): cut the bite open with a knife. Suck out the blood and venom — spit, suck again — for fifteen or twenty minutes. Tie a tourniquet above the bite, loose enough to stop the lymph but not the artery. Loosen and tighten every fifteen minutes. Send for a doctor. The patient may die. He may live. In the period, perhaps a third of bitten men died of a rattler bite; a copperhead bite was less often fatal. (Modern medicine: do not cut, do not suck. We are writing the period.)
+For the bite (period practice): cut the bite open with a clean knife. Suck out the blood and venom — spit, suck again — for fifteen or twenty minutes. Tie a tourniquet above the bite, loose enough to stop the lymph but not the artery. Loosen and tighten every fifteen minutes. Send for a doctor. The patient may die. He may live. In the period, perhaps a third of bitten men died of a rattler bite; a copperhead bite was less often fatal. (Modern medicine: do not cut, do not suck. We are writing the period.)
 
 ### Shelter and navigation without a compass
 
-For a lean-to: find two trees ten feet apart. Cut a long pole. Lay it across at chest height, bound to the trees with rope or bark. Cut shorter poles and lean them against the cross-pole at a 45° angle, sloping back. Cover the leaning poles with bark, or pine boughs laid butt-up shingled, or canvas if you have it. The open side faces away from the wind and toward the fire. A lean-to and a fire keep a man through a night that would kill him otherwise.
+For a lean-to: find two trees ten feet apart. Cut a long pole, lay it across at chest height, bound to the trees with rope or bark. Cut shorter poles and lean them against the cross-pole at a 45° angle, sloping back. Cover the leaning poles with bark, or pine boughs laid butt-up shingled, or canvas if you have it. The open side faces away from the wind and toward the fire. A lean-to and a fire keep a man through a night that would kill him otherwise.
 
 The sun rises east, sets west. At noon it is south (in the northern hemisphere). The North Star is found by tracing a line up the two stars at the front of the Big Dipper — the line passes through Polaris. Moss is not reliable — it grows on whatever side of the tree is wet, not always north. Snow lies longer on the north slope. Streams run downhill, and downhill in most of the West eventually finds a settlement.
 
@@ -204,13 +202,13 @@ A horse track: the print of the shoe (a worked horse) or the print of the hoof (
 
 To track a man: take the trail by walking parallel to it, not on it (you will obscure it). Read the spacing for gait. Read disturbed brush for height — broken twigs at chest height mean a man, at saddle height mean a rider. Look for spit, droppings, a discarded match, a smear of tobacco juice, a print of a hand where he braced going up. The Apache could track a man over rock by the grease of his moccasin sole on the stone. The Anglo tracker reads what the Anglo tracker can read.
 
-A snare: a loop of wire or twine, set at the animal's head height — six inches above the run for a rabbit, eighteen inches for a fox. Tie off to a sapling bent over and held by a notched trigger; when the loop tightens it springs the trigger and the sapling jerks the animal up. Set the snare on the run. Do not handle the wire with bare hands if you can avoid it; the smell warns.
+A snare: a loop of fine wire or twine, set at the animal's head height — six inches above the run for a rabbit, eighteen inches for a fox. Tie off to a sapling bent over and held by a notched trigger; when the loop tightens it springs the trigger and the sapling jerks the animal up. Set the snare on the run. Do not handle the wire with bare hands if you can avoid it; the smell warns.
 
 ### Field-dressing a deer, butchering a beef
 
-For the deer: hang her by the hocks if you can; otherwise lay her on her back, head uphill. Open from the breastbone to the pelvis with the knife point up so as not to puncture the gut. Cut around the diaphragm and free the lungs and heart. Pull the gut down and out. The liver is good — set it aside. Cut the windpipe and esophagus and pull. The carcass is empty. Hang it to cool. Skin and butcher when cool.
+For the deer: hang her by the hocks if you can; otherwise lay her on her back, head uphill. Open from the breastbone to the pelvis with the knife point up so as not to puncture the gut. Cut around the diaphragm and free the lungs and heart. Pull the gut down and out. The liver is good — set it aside. Cut the windpipe and esophagus, pull. The carcass is empty. Hang it to cool. Skin and butcher when cool.
 
-For the beef: knock the steer with a hammer between the eyes. Cut the throat. Bleed out for ten minutes. Hoist the carcass by the hind legs. Skin from the hocks down. Open the belly. Pull the gut out into a tub. Save liver, kidneys, heart, tongue, sweetbreads. Cut the head off. Saw the carcass down the spine into halves. Halve again into quarters. Hang in a cool shed or wrap and pack into the chuck wagon. A beef provides a hundred pounds of meat for the trail crew that lasts three days in cool weather.
+For the beef: knock the steer with a hammer between the eyes. Cut the throat. Bleed out for ten minutes. Hoist the carcass by the hind legs. Skin from the hocks down. Open the belly, pull the gut out into a tub. Save liver, kidneys, heart, tongue, sweetbreads. Cut the head off. Saw the carcass down the spine into halves. Halve again into quarters. Hang in a cool shed or wrap and pack into the chuck wagon. A beef provides a hundred pounds of meat for the trail crew that lasts three days in cool weather.
 
 ---
 
@@ -266,15 +264,15 @@ The Colt SAA fires if dropped on the hammer (the firing pin rests on the primer 
 
 Bring the wheelers (the rear pair) into position at the tongue. Hook the breast collars to the singletrees, the traces to the hooks, the bridle reins to the driver's seat. Bring the leaders (the front pair) ahead of the wheelers. Hook the leaders' traces to the lead bar. Run the lines (the reins) from the leaders' bits, through rings on the wheelers' hames, back to the driver's hand. The four-up is hitched. Walk around once. Check every buckle.
 
-To drive: right foot on the brake. Lines in the left hand, whip in the right. Cluck to start. Whoa to stop. Light pressure on the right line turns right; on the left, left. The good driver does not need to use the whip or the voice. The bad driver fights the team.
+To drive: right foot on the brake. Lines in the left hand, whip in the right. _Cluck_ to start. _Whoa_ to stop. Light pressure on the right line turns right; on the left, left. The good driver does not need to use the whip or the voice. The bad driver fights the team.
 
 Greasing the wheels: stop on level ground. Block the wheels. Jack the axle. Pull the linchpin and slide the wheel off the axle. Wipe the axle clean. Pack the hub with axle grease (a heavy black grease in a wooden box). Slide the wheel back on. Replace the linchpin. Drop the jack. Repeat for each wheel. A wagon's wheels are greased every fifty miles in dry country or every twenty in mud.
 
 ### Mending a wheel and driving oxen
 
-The wheel comes off. The broken spoke is removed. A new spoke is shaped from oak with a draw knife and driven in. The felloe (the wooden rim segment) is mended or replaced. The iron tire is heated red-hot in a fire, set over the wheel, hammered into place, and quenched with water — the cold-shrunk iron clamps the wheel tight.
+The wheel comes off. The broken spoke is removed. A new spoke is shaped from straight oak with a draw knife and driven in. The felloe (the wooden rim segment) is mended or replaced. The iron tire is heated red-hot in a fire, set over the wheel, hammered into place, and quenched with water — the cold-shrunk iron clamps the wheel tight.
 
-Oxen are guided by voice and the bullwhacker's whip. Gee for right. Haw for left. Whoa for stop. The whip is not used to strike — its crack carries the command. Oxen walk two miles per hour. They do not founder, do not run, do not need shoeing as often as horses, eat what is on the trail, and are eaten when they die or when the trail is done.
+Oxen are guided by voice and the bullwhacker's whip. _Gee_ for right. _Haw_ for left. _Whoa_ for stop. The whip is not used to strike — its crack carries the command. Oxen walk two miles per hour. They do not founder, do not run, do not need shoeing as often as horses, eat what is on the trail, and are eaten when they die or when the trail is done.
 
 ---
 
@@ -292,7 +290,7 @@ For a leg: the patient lies on his back. Two men pull the leg long against resis
 
 ### Pulling a tooth and treating fevers
 
-The patient sits and grips the seat. The dentist (or the blacksmith) sets the tooth-pliers on the tooth, rocks side to side to break the ligament, and pulls. The tooth comes out or breaks. If it breaks, the dentist digs out the root with a probe. The patient bleeds, swabs with cotton, eats soft food for three days. Whiskey is the anesthetic. By the late period (1880s), some dentists had ether or nitrous.
+The patient sits and grips the seat. The dentist (or the blacksmith) sets the tooth-pliers on the tooth, rocks side to side to break the ligament, pulls. The tooth comes out or breaks. If it breaks, the dentist digs out the root with a probe. The patient bleeds, swabs with cotton, eats soft food for three days. Whiskey is the anesthetic. By the late period (1880s), some dentists had ether or nitrous.
 
 For fever: cool the body. Wet cloths on forehead and chest. A bath in tepid water in serious cases. Sip cool water. Quinine for malarial fever. Whiskey for the chills. The fever breaks or it does not. If it does not in five days, the patient often dies. For dysentery: bismuth (subnitrate) by the spoonful four times a day. Boiled water. Boiled rice. No solid food. The patient is down two weeks if he survives. Dehydration kills.
 
@@ -332,4 +330,3 @@ The scene that uses it: _He laid the blanket smooth, set the saddle on, pulled t
 The scene is the procedure plus the character plus the country plus the small refusal of the horse plus the look at the horizon. None of it is wasted. All of it is the man saddling his horse for the work of the day.
 
 Read the procedures. Write the work.
-```
