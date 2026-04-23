@@ -39,11 +39,23 @@ the modules you need. Do not skim and draft.
    `prose-craft.md`, and `anti-ai-patterns.md`. For a scene that
    touches a specific subject (a cattle drive, a gunfight, a
    miner's camp, a hanging) load the matching knowledge file.
-3. **Pull two or three exemplars** from `examples/scenes.md`
+3. **For any scene that touches work, gear, technology, or
+   commerce, load `knowledge/competence-procedures.md` and
+   `knowledge/1870s-availability.md`.** The first gives you the
+   procedural register and the right verbs for the work. The
+   second guarantees that nothing on the page is from the wrong
+   decade. For any scene that names a price, a wage, a distance,
+   or a span of time, also load `knowledge/prices-and-anchors.md`
+   and pick the right number from the table.
+4. **For dialogue, load `references/speech-patterns.md`** in
+   addition to `knowledge/language-and-diction.md`. The first
+   gives you the voice fingerprint of the speaker; the second
+   gives you the period diction and the kill list.
+5. **Pull two or three exemplars** from `examples/scenes.md`
    before drafting. Read them aloud. Match the cadence.
-4. **Draft, then run the anti-AI pass.** Cut anything the pass
+6. **Draft, then run the anti-AI pass.** Cut anything the pass
    catches. Rewrite. Read aloud again.
-5. **End on weight.** If the last sentence of a paragraph trails
+7. **End on weight.** If the last sentence of a paragraph trails
    into qualifier or summary, you are not done.
 
 ## The library
@@ -73,6 +85,15 @@ the modules you need. Do not skim and draft.
   disease, futility, suicide, the residue of slavery, Native
   genocide. How to write the actual West without flinching and
   without exploitation.
+- `references/speech-patterns.md` — voice fingerprints by
+  archetype: the laconic ranch hand, the orotund judge, the
+  silent gunman, the educated woman, the plain-spoken woman,
+  the boy, immigrant variations (German, Irish, Scandinavian,
+  Chinese), Black freedman public/private, Mexican/Tejano,
+  preacher. Plus writing-pattern catalogs (first-person,
+  close-third, omniscient, letter, journal, telegram,
+  newspaper, court testimony) and the discipline of beats,
+  tags, and silence.
 
 ### knowledge/ — what to write about
 
@@ -100,12 +121,52 @@ the modules you need. Do not skim and draft.
 - `knowledge/language-and-diction.md` — period slang and idiom
   by region and class, what to say, what NOT to say, registers
   for the educated, the illiterate, the immigrant, the soldier.
+- `knowledge/competence-procedures.md` — terse procedural prose
+  for survival and cowboying: catching, saddling, mounting,
+  hobbling, roping, dallying; branding, cutting, bedding,
+  stampede, river crossing, doctoring, pulling a calf; fire in
+  wind/rain/snow, beans, biscuit, bacon and beef, coffee, camp
+  routine; water finding, desert and river crossing, weather
+  reading, blizzard, lightning, snake bite, shelter, navigation,
+  tracks, snares, butchering; firearms, wagon and harness,
+  doctoring, tracking and scouting. Both reference and model
+  prose for the competence register. Load this for any scene
+  involving work.
+- `knowledge/1870s-availability.md` — strict catalog of what
+  existed and did not exist in the 1870s American West. Default
+  rule (bias toward "not yet"); decade-by-decade timeline
+  1870-1879; what is not yet anywhere (smokeless powder, .30-30,
+  semi-auto, automobile, radio, aspirin); inventories of goods,
+  services, transportation, communication, food, money,
+  currency; period vs wrong-period slang chart; common AI
+  fingerprints; a five-question cross-check. Load this for any
+  scene involving gear, technology, or commerce.
+- `knowledge/prices-and-anchors.md` — working anchor sheet of
+  concrete numbers: wages by sector (cattle, mining, railroad,
+  military, trades, domestic, the trade); foundational prices
+  (drinks, food, lodging, tobacco, services, communications,
+  transportation, firearms, tack, stock, tools, land, medical,
+  court); distance and time anchors (foot, horse, wagon, rail,
+  steamboat, trail drive, freight, mail, telegram); weights and
+  capacities; composite anchor sums (cowhand's roll, mining
+  strike, bank robbery, widow's budget, cattleman's profit);
+  scene-tool table; wages-to-prices ratio analysis. Load this
+  for any scene involving money, distance, or time.
 
 ### examples/ — the shelf
 
-- `examples/scenes.md` — ten worked exemplar passages across the
-  registers you will be asked to write. Each passage is followed
-  by a short critique that names what makes it work and what it
+- `examples/scenes.md` — twenty worked exemplar passages across
+  the registers you will be asked to write: chapter opener,
+  landscape, Leonard-register dialogue, violence, death, work
+  (branding), saloon, camp, blue norther, rules-and-fiction
+  bridge, then the Phase 5 expansions — competence procedure
+  (saddling), price-and-money scene, three-voice speech
+  fingerprints, the 1870s availability cameo, the laconic
+  survival passage, two-register dialogue (trail boss and
+  Eastern dude), the mercantile scene as anchor catalogue, the
+  trail-cook competence scene, procedural violence (gunshot
+  wound), and the letter as scene. Each passage is followed by
+  a short critique that names what makes it work and what it
   refuses to do.
 
 ## The non-negotiable rules

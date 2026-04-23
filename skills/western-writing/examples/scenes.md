@@ -495,6 +495,756 @@ breaking either.
 
 ---
 
+## 11. Competence procedure — saddling
+
+> Bowman threw the blanket on. He set the saddle on top of
+> the blanket and slid it back along the bay's spine until
+> it sat right. He pulled the cinch through the latigo and
+> drew it up by feel. The bay had learned to puff and held
+> his breath against the rig. Bowman stood with his shoulder
+> to the bay's shoulder and waited him out. Across the draw
+> the dust still hung where the herd had passed at first
+> light. The bay let his breath go and Bowman drew the latigo
+> the rest of the way and tied it off.
+>
+> He stepped back and looked at the rigging from behind. It
+> sat straight. He picked up the reins and gathered the mane
+> in his left hand and put his foot in the stirrup and swung
+> up.
+
+### Critique
+
+- The procedure is the scene. See `knowledge/competence-
+procedures.md` §1 (the competence register) and §2b
+  (saddling).
+- Specific gear: _blanket, saddle, cinch, latigo, rigging,
+  reins, mane, stirrup._ Not _strap, leather, gear._ The
+  named noun teaches the reader what the work is.
+- Strong verbs: _threw, set, slid, pulled, drew, stood,
+  waited, let go, drew, tied, stepped, looked, picked up,
+  gathered, put, swung._ No copulas. No _would._ Present
+  events in the simple past, sequential.
+- The disruption is the bay puffing his belly. Every cowman
+  knows it. The reader who does not know it is taught it
+  in one sentence without explanation. Bowman _waits him
+  out._ The reader infers the rest.
+- The country is glanced at — _across the draw the dust
+  still hung where the herd had passed at first light_ —
+  in a single sentence between the cinch-pull and the
+  release. The work is what is happening; the country is the
+  weather of the scene.
+- Ends on weight: _swung up._ Not _and rode out into the
+  morning to begin his day's labors._ The man is on the
+  horse. The next paragraph (in the larger scene) takes him
+  somewhere.
+- Note no adjectives on _bay._ Not _the patient bay,_ not
+  _the sturdy bay._ The bay is the bay. See `references/
+prose-craft.md` on earned adjectives.
+
+---
+
+## 12. The price-and-money scene
+
+> Mattie laid the gold pieces on the desk one at a time.
+> Five double eagles, a hundred dollars in gold. The lawyer
+> watched the coins go down without speaking. When she had
+> set them out she folded her hands in her lap.
+>
+> _That is for the suit and any depositions,_ she said.
+> _The retainer. There will be more when the matter is
+> tried. I will want a written statement of every expense.
+> If your firm bills mileage I will want it itemized by the
+> mile and by the day._
+>
+> _Miss Ross. You are fourteen years of age._
+>
+> _I am also the sole heir of my father's estate and the
+> party of record in the matter, sir, and I have read the
+> Code of Civil Procedure of this State. If the gold offends
+> you I will take it back and find another firm in
+> Fayetteville. The 8:15 leaves in two hours and there are
+> three trains a day._
+>
+> The lawyer looked at the coins.
+>
+> _They do not offend me, Miss Ross._
+>
+> _Then count them, sir, and write me a receipt._
+
+### Critique
+
+- The number does work. _Five double eagles, a hundred
+  dollars in gold_ (anchor: 1 double eagle = $20; weight ~33g;
+  five = ~half a pound, palmable) is the lever of the scene.
+  The price is also the social fact: a fourteen-year-old girl
+  lays a hundred dollars in gold on a lawyer's desk and the
+  lawyer cannot ignore her.
+- Period diction. _Suit, depositions, retainer, mileage, the
+  Code of Civil Procedure of this State, the party of record,
+  itemized by the mile and by the day._ Mattie speaks the
+  business. See `references/speech-patterns.md` §7 (the
+  educated woman).
+- The Portis register: long periodic sentences, no
+  contractions in formal address, no profanity, surname
+  address (_Miss Ross, sir_).
+- Period transport detail: _the 8:15 leaves in two hours and
+  there are three trains a day._ The schedule is a threat. See
+  `knowledge/prices-and-anchors.md` §4d (rail) and
+  `knowledge/1870s-availability.md` §5b.
+- The number is dropped without explanation. The reader is
+  trusted to know what a hundred dollars in gold meant. Do
+  not write _a hundred dollars in gold, a princely sum at
+  that time._
+- The lawyer's two lines do all of his characterization. He
+  starts patronizing (_Miss Ross. You are fourteen years of
+  age_). He ends instructed (_They do not offend me, Miss
+  Ross_). The girl wins the scene by knowing the price and
+  the timetable.
+- _Then count them, sir, and write me a receipt._ Ends on
+  weight. Period business; period authority.
+
+---
+
+## 13. Speech-fingerprint dialogue — three voices in a room
+
+> The doctor came in and shut the door behind him and set
+> his bag on the table. The boy was on the bed under the
+> blanket and the woman stood at the foot.
+>
+> _Tell me when it started,_ the doctor said.
+>
+> _Last night about midnight,_ the woman said. \_He took with
+> a chill. He has not held water down since.\*
+>
+> The doctor opened the bag.
+>
+> _Mrs. Pruitt. I will need to examine him. If you would
+> step into the kitchen for a moment._
+>
+> _I will stay._
+>
+> The doctor looked at her. He looked at the boy.
+>
+> _Very well._
+>
+> The cowman in the corner had not spoken. He stood with
+> his hat in his hands.
+>
+> _Will he live, Doc._
+>
+> _I do not know yet, Mr. Pruitt._
+>
+> _Tell me when you do._
+>
+> The cowman went out and shut the door behind him. They
+> heard his boots cross the porch and a moment later they
+> heard him on the steps and then on the dirt of the yard.
+>
+> The doctor turned back the blanket.
+>
+> _All right, son. Let's have a look at you._
+
+### Critique
+
+- Three speech fingerprints in one short scene. See
+  `references/speech-patterns.md` for the catalog.
+- The doctor (educated speaker, §3): _I will need, if you
+  would, very well, I do not know yet._ Latinate vocabulary,
+  no contractions in professional address, formal address by
+  surname.
+- The plain-spoken woman (§8): _He took with a chill. He has
+  not held water down since._ Functional, exact, no
+  pleasantry. The refusal _I will stay_ in three words is the
+  whole character. She does not explain. She does not argue.
+  She refuses.
+- The laconic cowman (§2): four lines. _Will he live, Doc._
+  _Tell me when you do._ He cannot stay in the room. He
+  walks out. The boots crossing the porch and the steps and
+  the yard _is_ his fear. He never names it. See
+  `references/masculinity-and-code.md`.
+- Note the no-tag discipline. _the doctor said_ once, _the
+  woman said_ once, then beats and silence. See `references/
+prose-craft.md` on attribution.
+- The boy is on the bed and does not speak. The mother
+  speaks for him. The reader does not know if he is asleep or
+  fevered to silence. The scene does not tell. The narrator
+  trusts the reader to feel the absence.
+- The kindness at the end — _All right, son. Let's have a
+  look at you_ — is the doctor's working tone with a sick
+  child, not the formal address he gave the parents. The
+  shift teaches the reader two things at once: he is gentle,
+  and he is going to do the work.
+
+---
+
+## 14. The 1870s availability cameo — small details that date a
+
+scene right
+
+> She brought the lamp down off the high shelf and set it
+> on the table. The chimney was sooted. She wiped it on her
+> apron and trimmed the wick with the scissors and lit it
+> with a match struck on the iron of the stove. The flame
+> caught and steadied and threw her shadow long against the
+> wall.
+>
+> Down the lamp went on the table by the slate the boy had
+> been writing on. _Spelling Lesson 14_ it said in chalk and
+> below it the words she had set him: _railroad, telegraph,
+> arithmetic, perseverance._ He had written each one twice
+> and the second pass was better than the first.
+>
+> She put the slate aside and put two letters down in its
+> place. The first was from her sister in Pennsylvania,
+> postmarked the second of November and arrived this morning,
+> the eleventh. The second was the bill from the mercantile.
+> She drew the lamp closer and opened the envelope.
+
+### Critique
+
+- Every period detail is correct. See `knowledge/1870s-
+availability.md`.
+- _Lamp_ with a _chimney_ and a _wick_ trimmed with
+  _scissors:_ the kerosene lamp, standard 1870s lighting
+  (see §3f). Not an electric bulb (1880s+ commercial).
+- _Match struck on the iron of the stove:_ friction match,
+  period (since 1830s); the safety match (1855) and the
+  stovetop strike are both period. See §3f.
+- _Slate_ and _chalk:_ period schoolroom standard. The
+  composition notebook becomes universal later in the
+  century.
+- _Postmarked the second of November and arrived this
+  morning, the eleventh:_ nine days mail from Pennsylvania
+  to a Western town, the period reality (see `knowledge/
+prices-and-anchors.md` §4h). The timing is invisible to
+  the reader who does not know the period and is right to
+  the reader who does.
+- _The bill from the mercantile:_ period credit practice
+  (see `knowledge/towns-economy-law.md` and `knowledge/
+prices-and-anchors.md` §3e). The merchant carried accounts
+  through the season; the bill comes around at intervals.
+- The date itself, _the eleventh,_ without a year, places
+  the reader in time without a tour-guide sentence. A
+  contemporary writer's worst tic is _In November of 1875,
+  Mary Pruitt sat down at her kitchen table and opened a
+  letter from her sister._ This passage gives the same
+  information through the postmark and the bill and the
+  spelling lesson and the lamp.
+- Notice no anachronism. No _light switch,_ no _envelope
+  with a window,_ no _typewritten bill,_ no _telephone in
+  the next room._ Each absent thing was tested against the
+  decade. The prose lives in 1875 because nothing on the
+  page is from 1925.
+
+---
+
+## 15. The laconic-survival passage
+
+> The blizzard came on at noon. By two o'clock he could not
+> see the bay's head past the saddle horn. He turned the
+> bay's tail to the wind and let him walk.
+>
+> An hour of that and the bay stopped. There was a low place
+> off to the right. He could not see it but the bay had
+> found it. He got down. The wind took him sideways and he
+> went to one knee in the snow and got up.
+>
+> He led the bay into the lee of the bank and worked the
+> saddle off and got the blanket and the slicker and the
+> bedroll. He set the saddle for a windbreak and dug the
+> snow out behind it down to the grass. The bay stood with
+> his head down. He looped the rein over a stub of brush
+> and made it fast and pulled the bay around so the bay
+> was the second wall of the windbreak.
+>
+> No fire. There was nothing to burn and he could not have
+> kept a match alight. He sat down between the saddle and
+> the bay with the blanket over him and the slicker over
+> the blanket and pulled the bay's head close. The bay
+> blew warm into his neck and his hat. He pulled the brim
+> down.
+>
+> The night was a long time coming. When it came he could
+> not tell.
+
+### Critique
+
+- The competence register applied to survival under load.
+  See `knowledge/competence-procedures.md` §5f (surviving a
+  blizzard) and §4a (fire in wind, here negated).
+- Sentence rhythm: short, declarative, sequential. _He got
+  down. The wind took him sideways and he went to one knee
+  in the snow and got up._ The rhythm of the work, broken
+  by the sentence that names a failure (_The wind took him
+  sideways_).
+- The procedure made specific by failure: he cannot light a
+  fire. The narrator names the failure flatly (_No fire.
+  There was nothing to burn and he could not have kept a
+  match alight_) and moves on. The character does not
+  complain.
+- The horse is the heat source. _He pulled the bay around
+  so the bay was the second wall of the windbreak_ — period
+  practice, see `knowledge/competence-procedures.md` §5f.
+- The breath of the horse on his neck and his hat is the
+  one piece of comfort in the scene. The narrator does not
+  underline it.
+- _The night was a long time coming. When it came he could
+  not tell._ Ends on weight and on dread. Two short
+  sentences. The man may not survive. The narrator does
+  not predict either way. See `references/anti-ai-
+patterns.md` on positive uplift endings — none here.
+- The character is unnamed. The pronoun _he_ is enough.
+  The reader has him fully in mind from the work he does.
+- No interior. No _he was afraid._ The fear is in the
+  sentence about the wind taking him sideways and the
+  sentence about the night.
+
+---
+
+## 16. The dialogue scene with two registers — the trail boss
+
+and the dude
+
+> The man stepped down off the train in a yellow coat that
+> reached to his knees. His boots were patent and his hat
+> was a low-crowned pearl-gray that no working man would
+> have worn outside an opera house.
+>
+> _You Mr. McNair?_ he said.
+>
+> _I am._
+>
+> _Henry Carruthers, of Boston. Mr. Cottrell wired you on my
+> behalf. I am to ride with your outfit as far as Dodge for
+> the purposes of a series of articles for the_ Atlantic
+> Monthly.
+>
+> McNair looked at him. He looked at the boots. He looked
+> at the hat.
+>
+> _What you got in the trunk._
+>
+> _Mostly clothes. A typewriter. Some books and my
+> photographic apparatus._
+>
+> _A what._
+>
+> _A typewriter. A machine for writing. I am told it is the
+> latest device for the journalist in the field._
+>
+> _Send it back._
+>
+> _I beg your pardon?_
+>
+> _Send it back. The trunk too. You can have a war bag. Pack
+> a change of shirts and a slicker and a blanket and what
+> tobacco you smoke. Buy boots in town before we leave.
+> Those won't last to the Red River._
+>
+> Carruthers looked at his boots.
+>
+> _I have only just bought them._
+>
+> _You have only just bought boots that will hurt your feet
+> for a week and then come apart on you. Get a pair from
+> Henson on Main Street. Tell him I sent you. He will sell
+> you a pair you can ride in._
+>
+> Carruthers stood holding his train ticket and his
+> portmanteau.
+>
+> _Anything else?_
+>
+> _Yes. Don't call me Mister. Call me McNair. Don't ride at
+> the head of the column. Don't speak to the men until they
+> speak to you. Don't draw your pistol unless I tell you.
+> Don't drink the water from any creek I have not drunk
+> from first._
+>
+> _I do not own a pistol._
+>
+> McNair looked at him a while.
+>
+> _Buy one,_ he said.
+
+### Critique
+
+- Two speech fingerprints, one against the other. See
+  `references/speech-patterns.md` §2 (the laconic ranch hand)
+  and §14 (the chart, _Eastern dude_ register from
+  `knowledge/language-and-diction.md` §6g).
+- McNair: short, declarative, imperative. _I am. Send it
+  back. Buy one._ Trade-specific commands (_war bag, slicker,
+  pack, slicker and a blanket and what tobacco you smoke_).
+  The order he gives is the entire outfitting list of a
+  trail rider in 1875.
+- Carruthers: long sentences, Latinate (_photographic
+  apparatus, the latest device for the journalist in the
+  field_), formal address (_I beg your pardon, on my behalf_),
+  the tells of the Eastern dude. _I have only just bought
+  them_ — the construction _I have only just_ is high
+  literary and dates the speaker.
+- Period detail: the typewriter as an Eastern novelty (1874
+  introduction; almost no Western adoption in 1875). See
+  `knowledge/1870s-availability.md` §3g.
+- Period detail: the _Atlantic Monthly_ (founded 1857;
+  established literary magazine; the Eastern journalist of
+  1875 writes for it). Period detail: _photographic
+  apparatus_ (wet-plate collodion, heavy and slow; an
+  ambitious Eastern photographer of 1875 brought a
+  laboratory in a wagon). See §3g.
+- Period gear: _war bag_ (the cowboy's canvas duffel), _
+  slicker_ (oilskin raincoat), _blanket,_ _tobacco._ The
+  reader is taught the kit by hearing the order.
+- Period boots: McNair's note — _Those won't last to the Red
+  River_ — is the trail boss telling the dude that fashion
+  boots are useless. _Henson on Main Street_ sells working
+  boots ($5-10, see `knowledge/prices-and-anchors.md` §3j).
+- The five _don'ts_ at the end are a complete trail-boss
+  initiation, delivered at the speed of a cowman who has no
+  time to spare.
+- _Buy one_ ends on weight. The dude does not own a pistol.
+  In 1875 on the trail to Dodge that is a problem. The
+  scene closes on the problem.
+- The narrator never tells us McNair is amused or annoyed
+  or impatient. The verbs and the silence do that work.
+  Carruthers is not flattened to a fool — he is doing his
+  job, just badly. The asymmetry of competence is the scene.
+
+---
+
+## 17. The mercantile scene — anchor as character
+
+> She set the basket on the counter and the merchant tipped
+> his pencil to the page.
+>
+> _Five pounds flour. Two pounds beans. A pound of bacon.
+> A quarter pound of coffee. A half pound of brown sugar. A
+> tin of milk. Three boxes of matches. A bottle of laudanum
+> the small bottle. A spool of black thread._
+>
+> The merchant wrote, then turned the page so she could see
+> what he had written.
+>
+> _Flour fifteen, beans sixteen, bacon fifteen, coffee
+> seven, sugar five, milk thirty, matches fifteen, laudanum
+> fifty, thread ten. One ninety-three._
+>
+> She nodded.
+>
+> _On the book?_
+>
+> _Yes please._
+>
+> The merchant wrote again.
+>
+> _Mrs. Pruitt your account is at twelve dollars and forty-
+> seven cents. I do not press a widow but I would be obliged
+> if some part could be paid by Christmas._
+>
+> _The boy will be fit to ride by then. He is doing the
+> Henson's chores already and Mr. Henson has spoken of
+> regular work at five dollars a month. We will pay it
+> down, Mr. Sutton._
+>
+> _I do not doubt it, Mrs. Pruitt._
+>
+> She lifted the basket. He raised the pencil to mark her
+> goods off the counter.
+>
+> _Mrs. Pruitt._
+>
+> She turned at the door.
+>
+> \_Take the half-pound of crackers in the barrel by the
+> stove. There is no charge. The boy is fond of them.\*
+>
+> She did not answer for a moment. Then she nodded once.
+>
+> _Thank you, Mr. Sutton._
+>
+> The bell rang as the door closed.
+
+### Critique
+
+- Anchors do most of the work. Every price is from
+  `knowledge/prices-and-anchors.md` §3b: flour 3¢/lb × 5 =
+  15¢; beans 8¢/lb × 2 = 16¢; bacon 15¢/lb; coffee 28¢/lb
+  for a quarter pound = 7¢; sugar 10¢/lb for a half = 5¢;
+  canned milk 30¢; matches 5¢/box × 3 = 15¢; laudanum 50¢;
+  thread 10¢. Total $1.93. The numbers fit each other and
+  the reader is in the period without being told.
+- The credit practice — _On the book?_ and the running
+  account at the mercantile — is period and standard
+  (`knowledge/towns-economy-law.md` and `knowledge/
+prices-and-anchors.md` §3e).
+- _I do not press a widow but I would be obliged if some
+  part could be paid by Christmas_ is the period merchant's
+  diction — formal, courteous, exact. Not _Hey Mary I'm
+  gonna need that money._
+- The boy's prospective wage (_regular work at five dollars
+  a month_) is period (see `knowledge/prices-and-anchors.md`
+  §2e — boys at chores were paid even less than the
+  schoolmarm; $5/month for a child laborer is realistic).
+- The kindness — _Take the half-pound of crackers... there
+  is no charge. The boy is fond of them_ — is the period
+  small-town economy. The merchant carries the widow because
+  the town carries the widow. The narrator does not preach
+  it. Mrs. Pruitt's pause and the single nod do the work.
+- Period detail: _the barrel by the stove_ — crackers in a
+  cracker barrel were standard mercantile fixture. _The bell
+  rang as the door closed_ — period door bell on a spring
+  fixed to the door.
+- The laudanum (50¢ for the small bottle, period diction
+  _the small bottle_ meaning the standard one-ounce bottle)
+  goes by without comment. The reader who knows the period
+  knows what laudanum is and what a widow with a sick child
+  uses it for. The reader who does not know reads it as
+  medicine. Both reads are period.
+- The basket and the pencil and the running tab and the
+  spring-bell are an entire economy on a half a page. No
+  exposition.
+
+---
+
+## 18. The trail-cook competence scene
+
+> Three o'clock and the cook had the fire down to a bed of
+> coals. He set the Dutch oven in the coals and shoveled
+> coals onto the lid. He took the keg of starter from where
+> it had ridden warm against the chuck box and ladled a cup
+> of it into the bowl. He poured in flour, salt, lard,
+> water; worked it up with the heel of his hand until it
+> was a stiff dough. He pinched off pieces the size of a
+> hen's egg and laid them in the oven on top of one another
+> in the bacon grease.
+>
+> The lid went back. He fed the keg of starter back: a cup
+> of flour, a cup of water, the spoon. He covered the keg
+> and set it in the chuck box where the warmth would keep
+> it alive through the night.
+>
+> The biscuit would be twenty minutes. He set the coffee
+> pot to one side of the fire and threw in three handfuls
+> of Arbuckles' ground in the sack. The water was already
+> hot. He let it come to a boil and stay there a minute and
+> threw a dipper of cold water in to settle the grounds.
+>
+> He stood up. The horizon was red along the line where the
+> sun had gone. The herd was bedded a quarter mile off and
+> he could hear the hand on first watch riding the perimeter
+> singing low. He could not make out the song.
+>
+> _Come and get it,_ he said toward the camp. \_Bread is
+> coming up.\*
+
+### Critique
+
+- The competence register applied to camp cooking. See
+  `knowledge/competence-procedures.md` §4d-g (beans, biscuit,
+  bacon and beef, coffee).
+- Specific gear and ingredients: _Dutch oven, coals, lid,
+  starter keg, bowl, flour, salt, lard, water, bacon grease,
+  Arbuckles', dipper._ Each item is period (Dutch oven and
+  cast-iron coals method, period sourdough starter kept warm
+  in a keg, Arbuckles' Ariosa coffee — see `knowledge/1870s-
+availability.md` §2a and §3a-b).
+- The procedure is shown but not explained: starter into the
+  bowl, dough worked, pinched off, laid in the greased oven,
+  lid set, coals piled. The reader who has baked anything
+  reads the cooking. The reader who has not is taught the
+  sequence.
+- The starter feeding (_a cup of flour, a cup of water, the
+  spoon. He covered the keg and set it in the chuck box
+  where the warmth would keep it alive through the night_)
+  is the cook's quiet competence. The reader who knows
+  sourdough nods. The reader who does not learns it.
+- Coffee per the period: _three handfuls of Arbuckles' ground
+  in the sack_ (cowboy method — beans pounded in a flour
+  sack with a hammer if no mill); _a dipper of cold water in
+  to settle the grounds_ (period trick, still used).
+- The country and the work register together: _the horizon
+  was red along the line where the sun had gone_ — landscape
+  in one sentence. _The herd was bedded a quarter mile off
+  and he could hear the hand on first watch riding the
+  perimeter singing low._ The night-herd singing (period
+  practice, calms cattle and announces the rider's
+  approach) is one line, and the cook _could not make out
+  the song_ — the narrator does not perform a transcription
+  of the song. The fact that the cook hears it without
+  knowing the words is the period.
+- _Come and get it. Bread is coming up_ ends on weight and
+  on the diction of the cook. _Bread is coming up_ is the
+  period chuck-wagon call (also _come and get it or I'll
+  throw it out_). Not _Dinner is served_ and not _Soup's on_
+  (a 20th-century phrase).
+
+---
+
+## 19. Procedural violence — the gunshot wound
+
+> The bullet took Bowman through the side under the arm and
+> went through and lodged in the muscle of the back. He
+> sat down in the dust without taking his eyes off the
+> man who had shot him. The man stood with the smoke still
+> coming off the muzzle. He looked at Bowman a moment and
+> turned and walked into the alley between the hardware and
+> the bank.
+>
+> Pruitt got there first. He knelt and pulled Bowman's
+> shirt up. The wound on the side was a hole the size of a
+> dime and the blood was coming from it in a slow steady
+> pulse. He could not see the back wound. He pulled the
+> shirt all the way off and looked.
+>
+> _Lie down,_ he said.
+>
+> Bowman lay down.
+>
+> _Where else,_ Pruitt said.
+>
+> _Just the side,_ said Bowman.
+>
+> _He hit you twice._
+>
+> Bowman closed his eyes. Pruitt put the heel of his hand
+> on the back wound and pressed. The blood ran out between
+> his fingers and slowed. He held the pressure with one
+> hand and reached behind him without looking.
+>
+> _Bandanna._
+>
+> Someone put one in his hand. He folded it into a pad and
+> set it under his palm and pressed again.
+>
+> _Where is Greer._
+>
+> _Coming._
+>
+> _Tell him to bring the laudanum and the bag and the
+> lantern. Tell him there is two holes._
+>
+> The man went. Pruitt knelt with both knees in the dust
+> and his hand on Bowman's back and watched Bowman's eyes
+> go and come back and go again.
+>
+> _Bowman._
+>
+> _I hear you._
+>
+> _Stay where I can talk to you._
+>
+> The light along the street was already long.
+
+### Critique
+
+- Period wound and period response. See `knowledge/medicine-
+and-death.md` and `knowledge/competence-procedures.md` §8.
+  Bullet, hole, blood, pressure with the heel of the hand,
+  bandanna folded into a pad, the doctor sent for with
+  laudanum (period anesthetic) and the lantern (it is going
+  to be dark before he is treated).
+- No clean violence. See SKILL.md hard rule 11. The wound is
+  meat. The wound bleeds. The man does not die theatrically
+  and does not stand back up. He sits down. He lies down.
+  His eyes go and come back.
+- The shooter does not monologue. See `references/speech-
+patterns.md` §5 (the silent gunman). He looks once and
+  walks into the alley. The reader does not know who he is
+  or why. The narrator does not tell.
+- Pruitt at work uses the competence register. _Knelt,
+  pulled, looked, said, lay, pressed, ran, slowed, folded,
+  set, pressed._ Strong verbs, sequence. _He folded it into
+  a pad and set it under his palm and pressed again_ is the
+  period bandage technique — direct pressure with a pad.
+- Dialogue is short and named. _Lie down. Where else. Just
+  the side. He hit you twice. Bandanna. Where is Greer.
+  Coming. Tell him to bring the laudanum and the bag and
+  the lantern. Tell him there is two holes._ No tags except
+  the bandanna line, which has none.
+- The laconic injured man — _Just the side. I hear you_ —
+  refuses both the catalog of his wounds and the comfort
+  he is being offered. He minimizes. The minimizing is the
+  character.
+- _Stay where I can talk to you_ is the friend's command
+  and the friend's only emotional admission. He does not
+  say _don't die._ See `references/masculinity-and-code.md`.
+- _The light along the street was already long_ ends on
+  weight. The light is going. The doctor is coming. The
+  scene closes on the race.
+- Note the absence: no mention of _shock,_ no _adrenaline,_
+  no _fight or flight,_ no _trauma response._ See `references/
+speech-patterns.md` §6 (no modern PTSD vocabulary) and
+  hard rule 10 (no anachronism of mind).
+
+---
+
+## 20. The letter as scene
+
+> _Lampasas, Texas, March 12, 1875._
+>
+> _Dear Mother,_
+>
+> _Your letter of last month finally found me here. I am
+> sorry I did not answer sooner but we have been on a drive
+> to Kansas and back. I am well. The bay horse you remember
+> me writing of has been sold. I have a sorrel now and he
+> is a good one. We had two men killed coming home, one by
+> drowning at Red River and one by lightning on the
+> Canadian. I thank God I am safe._
+>
+> _I will send you twenty dollars by Wells Fargo when this
+> reaches Austin next week. I wish it was more. The pay is
+> what it is._
+>
+> _Tell Sister to write me at Lampasas care of Wright &
+> Harris. Tell her I think of her every day._
+>
+> _Your son,_
+>
+> _Tom_
+
+### Critique
+
+- Period letter form. See `references/speech-patterns.md`
+  §15d. Date upper right, salutation, opening pleasantry
+  (_Your letter... finally found me_), body, closing,
+  valediction, signature.
+- Period diction in the cowhand's hand. _I am well. The bay
+  horse you remember me writing of has been sold. I thank
+  God I am safe. I wish it was more. The pay is what it is.
+  I think of her every day._ Plain, declarative, full
+  sentences, no contractions in the formal register of a
+  letter to one's mother. Period syntax: _the bay horse you
+  remember me writing of_ (rather than _the bay horse I
+  wrote you about,_ a more modern construction).
+- Period money: _twenty dollars by Wells Fargo_ — Wells
+  Fargo's express service was the standard way to send cash
+  west to east in 1875 (`knowledge/towns-economy-law.md`
+  §2). $20 in gold from a cowhand to his Eastern mother is
+  period and modest.
+- Period catastrophe in one sentence: _We had two men killed
+  coming home, one by drowning at Red River and one by
+  lightning on the Canadian._ No elaboration. The narrator-
+  letter-writer does not editorialize. The drowning at the
+  Red River and the lightning on the Canadian were both
+  routine causes of trail-drive death (`knowledge/medicine-
+and-death.md`, `knowledge/cowboy-life.md`).
+- The single emotional line — _Tell her I think of her every
+  day_ — is the cowhand's only confession. He cannot say it
+  to his sister. He says it to his mother to be passed on.
+  Period masculinity: feeling expressed through a request
+  for an intermediary (`references/masculinity-and-code.md`).
+- The valediction _Your son, Tom_ is period and right. Not
+  _Sincerely_ (which is period but stiffer than a son's
+  letter to his mother) and not _Love_ (which is too modern
+  in this context for a working cowhand).
+- The whole letter is a scene. The reader knows this man
+  better at the end of seventeen lines than the AI's two
+  paragraphs of _characterization_ could deliver.
+
+---
+
 ## How to use these examples
 
 When you write a passage in this skill's register, compare it
