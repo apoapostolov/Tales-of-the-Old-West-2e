@@ -55,6 +55,18 @@ In a violent conflict, or in any rule that specifically spends extra successes, 
 
 If you roll no successes in your ability roll, not only have you failed to achieve your goal, but also something else might go wrong. Feel free to elaborate on what this is and why, with the help of the GM. They might even let a failed roll have further consequences to move the story forward in a dramatic way. But you have one last chance if you really want to succeed—you can push the roll.
 
+#### Declared Effort
+
+Before a suitable roll, a player may say they are not merely trying to succeed, but trying to get more out of the action. Use the following ladder when the GM agrees the situation supports it:
+
+- `Standard`: `1` success is enough
+- `Bold`: `2` successes are needed for the upgraded payoff
+- `Desperate`: `3` successes are needed for the exceptional payoff
+
+If the roll gets at least `1` success but not enough to meet the declared higher threshold, the character still gets the ordinary successful result unless the procedure says otherwise.
+
+Declared effort works best when the player wants to do more than merely scrape by: finish the work faster, gain extra leverage in a conversation, escape more cleanly, learn more than the obvious, or produce something finer than ordinary craft.
+
 #### Don’t Roll Too Often
 
 > _It can be hard to succeed with ability rolls—if you lack the right gear or friends that could help you, there is a great risk of spectacular failure. With that in mind, you should never roll dice unless it is absolutely necessary. Save the dice for dramatic situations or tough challenges. In any other situation, the GM should simply allow you to perform whatever action you wish._
@@ -66,6 +78,8 @@ If you are desperate to succeed with an ability roll and want another chance to 
 To push your roll, reroll all dice that did not show a `6`. You can only push each roll once.
 
 Pushing your roll costs 1 Faith Point, and you can only push each roll once. But it is not without risk— as well as the chance of Trouble, each push depletes your reserves of Faith, and you risk having your Faith shaken if your reserves ever run out.
+
+When you push a roll, say how your character forces the issue. A push should mean more effort, more speed, more exposure, more emotional commitment, or more collateral risk. The reroll is mechanical, but the choice to push should also change the fiction.
 
 #### Faith Points
 
@@ -177,7 +191,7 @@ Use the following table for guidance:
 
 If you help another player character or non-player character (NPC) perform an action, they get a +1 bonus to their roll. It costs you 1 action of the same kind (slow or fast) and your help takes place during the other character’s initiative in the Round. You have to state that you are helping someone before any dice are rolled and you must have actions available in order to help. You can only help if you have at least 1 point in the ability being rolled.
 
-Up to three characters may help at one time if the GM agrees that the circumstances allow it.
+Up to three characters may help at one time if the GM agrees that the circumstances allow it. Helpers must be present and meaningfully able to assist. The GM may reduce or disallow help if the scene is cramped, rushed, secretive, chaotic, or too socially delicate for several hands to contribute.
 
 NPCs can help each other in the same way as player characters. Letting NPCs act in groups instead of individually is often an easy way to manage large numbers of NPCs in a conflict.
 
@@ -199,6 +213,16 @@ NPCs can help each other in the same way as player characters. Letting NPCs act 
 
 To increase your chance of success, you need to find some damn good gear. Gear can take many different forms—commonly including weapons, holsters and tools—and will give you a bonus to certain actions. However, some gear may give modifications to more than one type of action, and sometimes that may be a penalty as well as a bonus.
 
+For any non-combat roll, only the single best applicable gear bonus normally applies unless a rule explicitly says otherwise. Other tools may still matter in the fiction, but they do not stack into a pile of bonus dice.
+
+#### Wear and Repair
+
+Frontier gear wears out when used hard. This should only matter when the strain is dramatic: after a pushed hard-use roll, after a travel disaster, after violent misuse, or after repeated neglect. Good candidates include ropes, lockpicks, digging tools, wagon gear, harness, saddles and tack, and firearms used in foul conditions.
+
+If the GM judges that an item has taken meaningful wear, it becomes `Worn`. A `Worn` item suffers a `-1` penalty when used for the same kind of hard task again. If the same item is badly mishandled while already `Worn`, it may break, jam, fray, warp, or lose a useful quality at the GM's discretion.
+
+Repairing a `Worn` item usually takes a Shift of work and an appropriate `MAKIN'` roll. If the roll succeeds, the item is restored. If the roll fails, the item stays `Worn`, and if the item was already near ruin the GM may rule it is beyond simple field repair.
+
 #### Why Use Gear With Penalty Dice?
 
 > _Some weapons in Tales of the Old West give modifications to more than one type of action. For example, a revolver may have a modifier for taking a shot with the SHOOTIN’ ability, as well as a modifier for drawing that weapon in a duel. Some revolvers will be accurate— giving a bonus to SHOOTIN’—but feel like a lump of lead to draw from your holster—giving a penalty to your Draw roll in a duel—while others may be the other way around: less accurate, but they slide from your holster with the grace of an Arabian stallion._
@@ -207,11 +231,17 @@ To increase your chance of success, you need to find some damn good gear. Gear c
 
 In certain circumstances, where a group of characters are acting together, you make a Group roll instead of rolling individually for each character. This can apply in any situation at the GM’s discretion, but most commonly occurs when all the characters in a group are trying to be stealthy or are working together to track someone.
 
-In situations where only one person has to succeed for the group to be successful, use the highest value for the relevant ability from among the participating player characters. In situations where only one person has to fail to cause problems for the group, use the lowest.
+If the group succeeds or fails together, choose one lead character to make the roll and let others help as normal. In situations where only one person has to succeed for the group to be successful, use the highest value for the relevant ability from among the participating player characters. In situations where only one person has to fail to cause problems for the group, use the lowest.
 
 For example, when sneaking, the character with the worst MOVE ability level makes the roll for their group. They can gain help from other characters up to the maximum bonus of +3 dice.
 
 When tracking or using HAWKEYE as a group looking for something together, the character with the highest HAWKEYE ability level makes the roll for their group. Again, they can gain help from other characters.
+
+If every character must personally get through the hazard, each of them rolls. In that case, extra successes beyond the first rolled by one character may cover a companion who failed, if the fiction supports it: a helping hand on a climb, a warning hiss in the dark, a quickly caught horse, or a lie smoothly backed up.
+
+### Only One Chance
+
+As a rule, once a roll has been made and any push is resolved, that particular approach is spent. The same character cannot simply roll again for the same objective. To try again, something must materially change: the method, the position, the helper, the tools, the time pressure, or the surrounding circumstances.
 
 ### Opposed Rolls
 

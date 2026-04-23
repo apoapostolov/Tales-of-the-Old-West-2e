@@ -228,6 +228,37 @@ The gang does not need to buy a perfect horse for every soul to improve the band
 
 > *After the spring score, Jeb spent enough ready cash on four good saddle horses and fresh tack to improve more than half the gang's mounts. The GM raised Horsestock from `2` to `3`. That looked expensive on the table, but later it spared the gang worse expense. Better horses are the sort of purchase outlaws only appreciate after the first hard chase they survive because of them.*
 
+#### Optional Provisions
+
+If you are using the optional `Consumables as Resource Dice` rule from Chapter 6, the outlaw band may track one shared `Provisions` die for the gang. Use it when outlaw life is being played as a hard frontier survival game: winter camps, bad-country flight, thin grazing, and too many mouths living beyond easy reach of town.
+
+`Provisions` covers the ordinary camp stores that keep outlaw life from turning immediately savage:
+
+- trail food, coffee, salt, and cook-fire stores
+- horse feed where grazing is poor
+- lamp oil and camp basics
+- rough medical stores and other ordinary necessities
+
+Do not roll this die in every ordinary season. `Gang Expenses` already cover normal outlaw living. Use the die only when the gang is cut off, hunted, wintering rough, or choosing to live hard in country that does not easily feed it.
+
+Start the gang at `D10` if reasonably supplied, `D8` if already short or on the run, or `D12` if it has just stocked up through a rich score, a strong refuge, or the `Buy Through Fences` hideout activity.
+
+Roll the die when supplies are meaningfully strained:
+
+- once per week when the gang is hiding or riding in hard country away from reliable Refuge
+- once during `Hard Ride and Flight` if the result says the gang burned through food, feed, or camp stores
+- once at the `Turn of the Season` if the gang spent the season lying low in rough country, wintering hard, or cut off from easy resupply
+
+If the die rolls `1-2`, step it down one size. If a `D4` rolls `1-2`, the gang's provisions are exhausted.
+
+At `D6` or lower, the gang is eating short. Apply `-1 die` where hunger, feed shortage, or shabby camp supply would plainly matter, such as leadership rolls to keep the camp civil, winter pressure, or checks to maintain `Horsestock`. At `D4`, every argument is sharper and every refuge call for food or shelter should feel desperate.
+
+If `Provisions` are exhausted, the GM should immediately force the issue. Test `Cohesion`, reduce `Horsestock` by `1`, or require an urgent refuge, forage, or resupply play before the gang can rest easy.
+
+As a rule of thumb, one solid resupply through town, fence, or hideout stores raises `Provisions` by one step. A rich and secure resupply such as `Buy Through Fences`, a strong refuge willing to carry the gang, or a proper wagon-load of stores raises it by two steps or restores it to `D12`.
+
+> *The Harper gang went into the hills with `Provisions D8` because the posse forced them out before they could buy proper stores. A week later the GM called for the die. It rolled `1`, so the gang dropped to `D6`. Nobody died on the spot. The cost came later. When Jeb tried to settle a camp quarrel, he took `-1 die` because six hungry riders with bad coffee in them are never really arguing about only one thing.*
+
 ### Towns and Outlaw Life
 
 Towns are not neutral ground. They have economic interests, political divisions, moral tolerances, and men with guns. The outlaw who walks into one without reading it first has already made a mistake.
@@ -636,6 +667,8 @@ At the end of each `Turn of the Season`, the gang must pay the following hideout
 
 These figures assume a western gang living mostly off rough country and stolen opportunities, not paying full town prices for every bite. Even so, the costs are real. Contemporary prices put an average work horse around `$150`, a good saddle horse around `$200`, and a saddle around `$30`; horse feed and shoeing eat money even when pasture does part of the work. The upkeep figure therefore covers the part the gang cannot steal, graze, or improvise away: food stores, grain, lamp oil, spare tack, shoeing, ammunition, bribes to informants, and the ordinary waste of outlaw life.
 
+If you are using the optional `Provisions` die above, do not charge extra cash on top of these upkeep figures for ordinary camp food and feed. The die models shortage under pressure, not a second bill for the same beans and oats.
+
 If the gang cannot or will not pay it, reduce Cohesion by 1 and the GM should choose an appropriate shortage: hungry horses, bad powder, a leak in the hideout roof, a fence refusing further credit, or something of that kind.
 
 #### The Hideout
@@ -916,7 +949,7 @@ Apply the following modifiers:
 
 **0 successes:** The gang is run close, cut off, or forced into a bad choice. Reduce Horsestock by 1 and put a hard scene in front of them: abandon loot, split the gang, leave someone behind, or fight.
 
-**1 success (limited):** The gang stays ahead for now, but pays for it. Reduce Horsestock by 1, or let the gang keep its horses and instead lose time, food, or concealment. The next Refuge or town-business roll is at `-1 die` if the pursuers are still near.
+**1 success (limited):** The gang stays ahead for now, but pays for it. Reduce Horsestock by 1, or let the gang keep its horses and instead lose time, food, or concealment. If using the optional `Provisions` die, stepping it down by one counts as losing food and camp stores here. The next Refuge or town-business roll is at `-1 die` if the pursuers are still near.
 
 **2 successes (full):** The gang keeps the lead and reaches the next hiding place, water source, or turn in the country without further loss.
 
@@ -946,7 +979,7 @@ If outlaw play is the heart of the campaign, then during each `Turn of the Seaso
 | Drill the Gang | Gain `+1` die on the first Cohesion test of next season. |
 | Move Camp | Shift the hideout to a safer or more profitable area, but test Cohesion if weather, distance, or shortages make the move harsh. |
 | Scout a Target | Gain `+1` die on the first score of next season if the gang acts on the intelligence gathered. |
-| Buy Through Fences | Spend cash to ensure ammunition, horses, and supplies are plentiful; no risk of ordinary seasonal shortage this season. |
+| Buy Through Fences | Spend cash to ensure ammunition, horses, and supplies are plentiful; no risk of ordinary seasonal shortage this season. If using the optional `Provisions` die, raise it by two steps or restore it to `D12`. |
 | Launder Loot | Turn awkward stolen goods into cleaner cash at a fairer rate than a hasty fence would offer. |
 | Patch Up the Wounded | Wounded gang members or notable members recover better; the GM may soften the consequences of an earlier disaster. |
 | Settle Internal Trouble | Make an immediate leadership roll; on a success, raise Cohesion by 1 or restore 1 Loyalty to a single notable member. |
@@ -962,13 +995,14 @@ At each `Turn of the Season`, resolve the gang in the following order:
 1. Pay upkeep for the gang's scale.
 2. Pay the hideout's own maintenance if it is more than a temporary bolt-hole.
 3. Choose one Hideout Activity.
-4. Apply obvious changes to `Refuge`, `Fence Access`, `Horsestock`, and `Wanted` from the season just played.
-5. Test Cohesion if the season was lean, cruel, unpaid, or divided.
-6. Roll or choose Gang Trouble if a failure, shortage, betrayal, or outside pressure calls for it.
+4. If using the optional `Provisions` die, roll it now if the gang spent the season in rough country, wintering hard, or cut off from easy resupply.
+5. Apply obvious changes to `Refuge`, `Fence Access`, `Horsestock`, and `Wanted` from the season just played.
+6. Test Cohesion if the season was lean, cruel, unpaid, divided, or clearly under-supplied.
+7. Roll or choose Gang Trouble if a failure, shortage, betrayal, or outside pressure calls for it.
 
 Do not force a roll for every line of this. If the answer is obvious, apply it and move on. Roll when the table genuinely does not know whether the gang can hold together, keep moving, or keep a relationship alive.
 
-As a rule of thumb, a season should leave one thing better and one thing worse. A profitable robbery may raise Cohesion while also raising Wanted. A quiet winter spent lying low may reduce Wanted while dropping Horsestock or souring tempers. Outlaw life should feel like pressure redistributed, not pressure erased.
+As a rule of thumb, a season should leave one thing better and one thing worse. A profitable robbery may raise Cohesion while also raising Wanted. A quiet winter spent lying low may reduce Wanted while dropping `Horsestock`, stepping down `Provisions`, or souring tempers. Outlaw life should feel like pressure redistributed, not pressure erased.
 
 > *At the `Turn of the Season`, the Harper gang paid upkeep, chose `Settle Internal Trouble`, and made the leadership roll because summer had gone lean and ugly. Jeb got `2` successes. Cohesion held, Luther's Loyalty stopped slipping, and the hideout stayed a camp instead of becoming a quarrel with bedrolls. On another season that same sequence could have gone bad and sent one ordinary hand off in the night with a horse, a blanket, and half the gang's patience.*
 

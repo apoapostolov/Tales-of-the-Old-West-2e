@@ -8,6 +8,32 @@ Talents give you the edge over the other guy and set you apart from the small fo
 
 Each talent in Tales of the Old West is tiered into two ranks of increasingly powerful capability, Basic and Advanced. You must have already learned the Basic rank of a talent before you can acquire the Advanced rank, and you cannot spend XP to acquire both the Basic and Advanced ranks at the same time. Once you have earned the Basic talent you keep any benefits it gives you if you later take the Advanced rank.
 
+The talents in this chapter fall into broad functional groups. This is not a new rules layer, but it makes the list easier to read and helps the GM judge who can teach what.
+
+- `Background or heritage talents`: talents tied to upbringing, culture, or a way of life, such as `Born in the Saddle`, `Horse Warrior`, or `Light-Footed`
+- `Combat talents`: talents that sharpen violence, dueling, defense, and battlefield cunning, such as `Dead Eye`, `Defender`, `Fast Shooter`, `Lightning Fast`, or `Pugilist`
+- `Frontier talents`: talents for travel, animals, tracking, and hard country, such as `Animal Hunter`, `Bronc Buster`, `Companion`, or `Guard Dog`
+- `Social talents`: talents for charm, authority, reading people, or moving through society, such as `Authority`, `Charming`, `High Society`, or `Judge of Character`
+- `Trade and craft talents`: talents for making, repairing, medicine, or technical work, such as `Bowyer`, `Engineer`, `Forger`, `Gunsmith`, `Herbalist`, or `Smith`
+- `Outlaw and law talents`: talents tied to stealth, pursuit, legal force, and underhand work, such as `Forger`, `Light-Footed`, `Authority`, or `Judge of Character`
+
+#### Learning Talents
+
+Not every talent can be learned in the same way.
+
+Some talents can be learned slowly by hard use, imitation, and stubborn practice. This usually applies to rough frontier, physical, or practical talents. Others need real access: a teacher, a social circle, a workshop, a courthouse, a surgery, a rail yard, a military camp, or a living tradition that will actually train you.
+
+Reading and writing should not be assumed for every character in 1870. In some communities schooling is expected, books are close at hand, and children are taught their letters early. In others, labor, distance, poverty, war, language barriers, or the simple lack of a schoolhouse mean that many folk never learn more than a signature, a few memorized words, or how to recognize a Bible verse they already know by heart. Unless a character's background clearly says otherwise, full practical literacy is best treated as something learned through the `Educated` talent or an equivalent lifepath result.
+
+As a rule:
+
+- `Combat`, `frontier`, and other hard-lived talents can often be self-taught, though it takes longer
+- `Trade and craft` talents usually need tools, a workshop, and someone who already knows the work
+- `Social`, `legal`, `medical`, and `technical` talents usually require a tutor, mentor, employer, or institution
+- some talents should be gated entirely by the fiction until the character has a believable way to learn them
+
+The GM should be firm about this. XP measures readiness to grow, not the right to conjure expertise out of thin air.
+
 ### Born in the Saddle
 
 Riding comes as naturally to you as breathing does to everyone else.
@@ -133,6 +159,14 @@ You know how these new-fangled machines work and are skilled at using and repair
 **Basic** : You’re a natural with these new contraptions. You have the skills and knowledge to work as an engineer on a railroad or in a manufactory and gain a +1 bonus to OPERATE when fixing machines.
 
 **Advanced** : Machines just make sense to you. After you have pushed your OPERATE roll using a Faith Point, you can push a second time for free.
+
+### Educated
+
+You have had more schooling than most, whether from a family that valued letters, a church school, a military tutor, a mission, a one-room schoolhouse, or years of hard study by lamplight.
+
+**Basic** : You can read ordinary handbills, newspapers, letters, ledgers, and contracts, and write a plain letter or statement that another literate person can understand. You gain a +1 bonus to `BOOKLEARNIN'` when using written sources such as books, notices, maps, ledgers, legal papers, or newspapers.
+
+**Advanced** : You are practiced in study and clear writing. When you spend at least a `Shift` studying written material, copying records, or drafting a careful document, gain one bonus success on your `BOOKLEARNIN'` roll. If no roll is needed, you may instead do the work in half the usual time.
 
 ### Expert Fanning
 

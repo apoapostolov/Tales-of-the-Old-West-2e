@@ -49,6 +49,10 @@ Grab one full deck of normal playing cards with the jokers removed. All the play
 
 When all the participants in the conflict have completed their actions, the Round is over and a new Round begins. Everyone draws a new initiative card for each Round, placing it on top of the card or cards they have already drawn. All the cards are shuffled back into the deck at the end of the conflict.
 
+##### Fast Initiative (Optional)
+
+If you want a quicker and looser fight, especially for skirmishes, ambushes, and battles against minor foes, use side initiative instead of drawing cards for everyone. At the start of each Round, every player character rolls `Quick`. If at least half the player characters get a success, the player characters act before their enemies that Round. Otherwise, the enemies act first. Within each side, the exact order is worked out by the table.
+
 #### Non-Player Characters
 
 > _In typical conflicts, the GM draws one initiative card per NPC if there are few NPCs or the NPCs are key actors in the story. However, if there are many NPCs the GM can take one initiative card for all the NPCs together or split the NPCs into groups and draw one initiative card per group instead of one per individual. All the NPCs in a group act at the same time in the Turn order. In what order they act individually within the group is up to the GM._
@@ -97,8 +101,12 @@ In _Tales of the Old West_ we do not measure exact distances for movement, but l
 | Dodge | Fighting at Arm's Length | MOVE |
 | Initiate a Grapple | Fighting at Arm's Length | FIGHTIN' |
 | Maintain a Grapple | Grappled an opponent | LABOR |
-| Back Out | In a Tussle with an enemy | MOVE |
+| Retreat | In a Tussle with an enemy | MOVE |
 | Seek Cover | Cover available | - |
+| Brace | Using a long gun or waiting on a charge | - |
+| Protect Another | An ally at Arm's Length or Near | - |
+| Shove | Fighting at Arm's Length | FIGHTIN' |
+| Disarm | Fighting at Arm's Length | FIGHTIN' |
 | Ride Horse | - | ANIMAL HANDLIN' |
 | Drive Wagon (or train) | - | ANIMAL HANDLIN' or OPERATE |
 | Use Item | Varies | Varies |
@@ -108,7 +116,15 @@ In _Tales of the Old West_ we do not measure exact distances for movement, but l
 
 **Doors and Windows** : You can open an unlocked door or window with a fast action. If you need to break through a locked door or window, it requires a LABOR roll, and takes a slow action.
 
-**Back Out from the Fight** : When you are fighting an enemy at Arm’s Length you are considered to be “In a Tussle” with them. In this situation, you can’t just walk away. Instead, you must Back Out (page 71).
+**Retreat from the Fight** : When you are fighting an enemy at Arm’s Length you are considered to be “In a Tussle” with them. In this situation, you can’t just walk away. Instead, you must Retreat (page 71).
+
+#### Surprise, Sneak Attacks & Ambushes
+
+If one side truly has the drop on the other, do not just begin with everyone staring at each other. First determine whether the target spots the danger in time.
+
+A sneak attack is resolved with an opposed `MOVE` roll by the attacker against the target's `HAWKEYE`. If the attacker wins, they gain one free opening action before initiative is drawn. The target cannot Block or Dodge that opening attack unless a talent or the GM says they were already on edge enough to react.
+
+If a whole group lies in wait for another group, treat it as an ambush. Use the lowest `MOVE` among the ambushers and the highest `HAWKEYE` among the targets. If the ambushers win, the ambushing side gains the first initiative advantage in the opening Round, and one attacker may also take a free opening action before initiative is drawn.
 
 ### Fighting
 
@@ -155,6 +171,10 @@ If you are the target of an attack in a hand-to-hand fight you can choose to Blo
 
 **Blocking Unarmed** : If you are unarmed, you cannot Block armed attacks or attacks from dangerous wildlife. To Block such an attack you need to wield a sturdy weapon or tool.
 
+#### Protecting Another
+
+If an ally is at Arm's Length or Near and you can physically throw yourself into the way, you may use a fast action to Protect Another. You must declare this before the attack roll is made. If the GM agrees the position allows it, you become the target of the attack instead, or you grant your ally a `+1` bonus to their Block or Dodge if they still defend themselves. This is a reaction and breaks initiative in the same way as Blocking and Dodging.
+
 #### Grappling
 
 If you Grapple your opponent as a stunt you both become locked in a battle of strength. Once two characters are locked in a Grapple the key ability is LABOR, not FIGHTIN’. The character who instigated the Grapple has the upper hand and gains a +2 bonus to their LABOR rolls throughout the Grapple. Both characters involved in a Grapple count as Prone in regard to attacks from other characters.
@@ -171,9 +191,42 @@ If your opponent wins the roll when trying to break free, they escape the Grappl
 
 Once the Grapple is over—either the Grappled character is released or breaks free—the characters are back in an open fight, and revert to their FIGHTIN’ ability.
 
-#### Backing Out
+#### Retreating
 
-If you want to retreat but you are currently In a Tussle with an enemy, you must make a MOVE roll to Back Out of the fight. If you succeed, you move away—your distance from the enemy changes from Arm’s Length to Near. If you fail, you still move but your enemy gets a free FIGHTIN’ attack against you. The free attack doesn’t count as one of their actions in the Round and you can’t Block it.
+If you want to retreat but you are currently In a Tussle with an enemy, you must make a MOVE roll to Retreat from the fight. If you succeed, you move away—your distance from the enemy changes from Arm’s Length to Near. If you fail, you still move but your enemy gets a free FIGHTIN’ attack against you. The free attack doesn’t count as one of their actions in the Round and you can’t Block it.
+
+#### Shoving and Disarming
+
+You can use a fast action to try to `Shove` or `Disarm` an enemy at Arm's Length. Roll `FIGHTIN'`.
+
+On a success, choose the declared effect:
+
+- `Shove`: your opponent is forced back, knocked Prone, or loses position, as the situation allows
+- `Disarm`: your opponent drops one held weapon or important item within reach
+
+Extra successes can be spent as normal stunts if they make sense. A `Disarm` against a secure holster, sling, wrist loop, or both-handed hold may suffer a `-1` or `-2` penalty at the GM's discretion.
+
+#### Brace
+
+If you are holding a long gun and waiting for someone to break cover, come through a doorway, or charge across open ground, you may spend a fast action to Brace. Until your next action, you gain `+1` to the first shot you make against a target entering the lane you were covering. If the target is mounted, charging, or bursting through a narrow opening, the GM may increase that bonus to `+2`.
+
+#### Morale & Rout
+
+Not every fight should end with one side dead. For ordinary NPCs, the GM should check morale when:
+
+- the leader is Broken, captured, or killed
+- half the group is down, fleeing, or out of the fight
+- the group is plainly outmatched
+- a terrifying display, slaughter, or failed charge breaks their nerve
+
+Roll `2` dice for frightened rabble, green hands, or drunks; `4` dice for ordinary deputies, ranch hands, or hired muscle; `6` dice for hard cases, veterans, or men who still think they can win. If the roll gets a success, they hold for now. If it fails, they must do one of the following, as fits the fiction:
+
+- flee
+- surrender
+- scatter for cover
+- freeze and fight at `-2` because there is nowhere to run
+
+Religious fanatics, cornered killers, and truly disciplined troops may ignore this at the GM's discretion.
 
 #### Attacking With a Lasso
 
@@ -505,6 +558,7 @@ You must eat a ration of food at least once every day. After a day without food,
 | 64 | HEAD | Fractured skull | Yes / D6 Turns | 2D6 weeks | Stunned for 3 Rounds. -2 to all tasks | -1 to a random Cunning or Docity ability |
 | 65 | HEAD | Slashed throat | Yes -1/D6 Rounds | 3D6 days | Stunned for 3 Rounds. -2 to all tasks | 33% chance of permanent vocal impairment |
 | 66 | HEAD | Terrible hit to the head | Yes / Instant | --- | You are very dead | --- |
+
 ##### Dehydrated
 
 You must drink a ration of water at least once per day. After a day without water, you become Dehydrated. This has several effects:

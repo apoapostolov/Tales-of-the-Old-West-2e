@@ -207,6 +207,8 @@ Talents in _Tales of the Old West_ only have two ranks, but they are broad and p
 
 You must learn the `Basic` rank before the `Advanced` rank. You cannot learn both ranks of the same talent at once.
 
+Most talents also require narrative access, not just time and XP. A gunsmith needs a forge and a gunsmith to learn from, a polished society talent needs access to the circles that teach it, and advanced doctoring or engineering should rarely be learned alone in a shack. Chapter 4 groups talents by function to help the GM judge what can be self-taught and what needs a real mentor or practice context.
+
 #### Find a New Dream
 
 After any session, you may change your Big Dream and replace it with a new one. Try to connect the new dream to something that has happened during the course of the game.

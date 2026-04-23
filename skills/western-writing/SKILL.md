@@ -245,6 +245,16 @@ the modules you need. Do not skim and draft.
   the ceremonial / relational dimensions. The horseman's
   vocabulary. Load for any scene where the horse is a
   significant presence.
+- `knowledge/mining-camps.md` — the hardrock mine underground
+  and above: shaft, drift, stope, raise, square-set timber;
+  the shift (drill-load-fire-muck sequence); the camp's
+  hierarchy (superintendent, shift boss, miner, timberman,
+  mucker, hoist man, blacksmith); the Cornish miners;
+  the boarding house; the company store; the union and the
+  Pinkertons; fire, flooding, silicosis, cave-in; specific
+  underground vocabulary, sound, smell, and light; before /
+  after worked passage. **Load for any scene set in or
+  around a hardrock mine.**
 
 ### examples/ — the shelf
 
@@ -317,8 +327,8 @@ you cannot forget them.
 
 1. **No mood without object.** Every atmospheric sentence carries
    a physical noun — body part, material, tool, terrain, weather.
-   *"Danger lurked"* is banned. *"The heat rose off the hardpan
-   in visible waves"* is allowed.
+   _"Danger lurked"_ is banned. _"The heat rose off the hardpan
+   in visible waves"_ is allowed.
 
 2. **No paragraph without a job.** Before writing a paragraph,
    name its job in one word: define, describe, distinguish, warn,
@@ -335,11 +345,11 @@ you cannot forget them.
    Game terms in particular never vary.
 
 5. **No therapy, no corporate, no blog.** The manuscript and the
-   fiction do not say *meaningful, impactful, engage with, it's
+   fiction do not say _meaningful, impactful, engage with, it's
    worth noting, basically, in other words, this means that, the
    key takeaway, journey, navigate, unpack, dive into, reach out,
-   landscape* (as metaphor), *space* (as metaphor), *resonate,
-   leverage, holistic, wellness.* Full kill list in
+   landscape_ (as metaphor), _space_ (as metaphor), _resonate,
+   leverage, holistic, wellness._ Full kill list in
    `anti-ai-patterns.md`.
 
 6. **End on weight.** Sentences land on concrete nouns, bodily
@@ -348,15 +358,15 @@ you cannot forget them.
    reliable sign of generated text.
 
 7. **Earn every adjective.** One strong noun beats two modified
-   ones. *The blade* beats *the sharp, gleaming blade.* If an
+   ones. _The blade_ beats _the sharp, gleaming blade._ If an
    adjective does not change what the reader pictures, cut it.
 
 8. **No designer jargon in prose.** Internal shorthand —
-   *critical riders, proc, tuned, feature effects* — does not
+   _critical riders, proc, tuned, feature effects_ — does not
    belong in manuscript prose. Replace with plain table-language.
 
 9. **No safety scaffolding.** Do not introduce sections labeled
-   *GUARDRAILS, Content Warning, Safety Note,* or any equivalent
+   _GUARDRAILS, Content Warning, Safety Note,_ or any equivalent
    inside fiction or manuscript. If a rule has edge cases, write
    them as GM advice in one short sentence at the place the
    concern actually arises.
@@ -403,8 +413,8 @@ you cannot forget them.
 
 ## Review checklist
 
-- [ ] Could this paragraph sit beside *Lonesome Dove* or *Blood
-      Meridian* without sounding imported?
+- [ ] Could this paragraph sit beside _Lonesome Dove_ or _Blood
+      Meridian_ without sounding imported?
 - [ ] Does every atmospheric line contain a physical noun?
 - [ ] Does every paragraph do one job?
 - [ ] Do sentences end on weight, not filler?

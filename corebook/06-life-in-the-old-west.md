@@ -491,51 +491,108 @@ Remember that compadres are still non-player characters, and the GM has a say ov
 
 Every character in _Tales of the Old West_ will accumulate gear over the years. The tables below list commonly available gear, and tell you how much you might expect to pay to replace it once the West has taken it from you.
 
+##### Availability and Supply
+
+The prices in this chapter assume a decent ordinary market: a settlement with middling trade, no panic, and no pressing shortage. The frontier is not like that every day.
+
+Before the GM decides a price for something uncommon, first judge how easy it is to obtain in the current settlement:
+
+| Availability | Meaning |
+| ------------ | ------- |
+| `Common` | Everyday goods and services. If the settlement is functioning at all, someone can usually sell it to you. |
+| `Uncommon` | Useful but not everywhere. A buyer usually needs a better town, the right business, or a little time to ask around. |
+| `Rare` | Specialized, expensive, restricted, or easily exhausted. You only find it in strong markets or through a named contact. |
+| `Very Rare` | Exceptional gear, expert service, or dangerous trade. It usually requires a major town, a special amenity, mail order, or a scenario of its own. |
+
+Use the town or settlement around you to shift that availability up or down:
+
+- `Mercantile 1-2`: traded goods and specialist services are usually one step harder to find
+- `Mercantile 5-6`: traded goods and specialist services are usually one step easier to find
+- a `Railroad Station` or `Express Mail Route` makes legal manufactured goods one step easier to obtain if you are willing to wait
+- a relevant amenity such as `Blacksmith`, `Doctor`, `Apothecary`, `Horse Traders`, `Attorney's Office`, or `Federal Marshal's Office` makes the matching goods or services one step easier to obtain
+- `Law 5-6`: illicit, restricted, or suspicious goods and services are one step harder to obtain, and may be impossible openly
+- `Law 1-2`: illicit or rough services are one step easier to find, though fraud, theft, and bad quality are more likely
+- `Welfare 1-2`: decent lodging, clean stabling, and reliable doctoring are one step harder to obtain
+
+If an item or service is not available, it is not for sale here at any price. The buyer must travel, wait for delivery, or make the matter part of the story.
+
+As a rule of thumb:
+
+- `Common`: meals, rough lodging, laundry, barbering, standard clothes, basic rations, ordinary whiskey, rope, lanterns, and simple tools
+- `Uncommon`: doctoring bags, saddles, decent horses, lockpicks, decent rifles, wagon repairs, legal advice, and trained guides
+- `Rare`: dynamite, repeating shotguns, high-quality tack, fine clothing, skilled surgery, expert tutors, and unusually good horses
+- `Very Rare`: exceptional custom rigs, elite tutors, scarce imported goods, and any specialist who is famous in his line
+
+##### Scarcity and Price
+
+Once something has been found, judge what the market is doing to the price:
+
+| Market condition | Price |
+| ---------------- | ----- |
+| Surplus, hard competition, desperate seller | `-25%` |
+| Ordinary availability | listed price |
+| One step scarcer than normal | `+25%` |
+| Two steps scarcer than normal | `+50%` |
+| Barely obtainable, urgent demand, panic buying | `+100%` or more |
+
+Used goods, stolen goods, or patched frontier goods may be cheaper, but they often come `Poor`, `Worn`, or entangled with somebody else's problem.
+
+##### Quality Grades
+
+Ordinary goods can be bought at four broad quality grades. Weapons that already gain explicit weapon qualities do not normally gain an extra benefit from this table; their workmanship is already represented elsewhere.
+
+| Grade | Price | Effect |
+| ----- | ----- | ------ |
+| `Poor` | `-25%` | Shoddy, patched, or second-hand. It resells badly, gives a poor impression, and the GM may rule it becomes `Worn` the first time it is pushed hard. |
+| `Worn` | `-10%` | Used hard but still serviceable. It functions, but it shows the miles and may be one step closer to breaking down, failing, or drawing attention at the wrong moment. |
+| `Standard` | listed price | Solid, ordinary frontier quality. |
+| `Fine` | `+50%` | Better made, better looking, and easier to resell. When workmanship or appearance matters, it may count as the one applicable gear bonus for `+1`, or else ignore the first ordinary `Worn` result from hard use, as chosen when bought. |
+
 ##### General Gear
 
-| Item                      | Cost    | Weight |
-| ------------------------- | ------- | ------ |
-| Basic Rations for 1 week  | $2      | 2      |
-| Bullets / shells          | $1/20   | Tiny   |
-| Clothes (standard)        | 50c–$2  | -      |
-| Clothes (fancy)           | $5–50   | -      |
-| Coffin                    | $7.5    | 6      |
-| Deck of cards             | $1–5    | Tiny   |
-| Gold, 1oz                 | $20     | Tiny   |
-| Handcuffs                 | $1–5    | Tiny   |
-| Lemonade (bottle)         | 5c      | ½      |
-| Lockpicks (set)           | $5      | Tiny   |
-| Matches (box)             | 50c     | Tiny   |
-| Newspaper                 | 10c     | Tiny   |
-| Oil Lantern               | $1      | ½      |
-| Pelt, Bear                | 70c–$1  | 2      |
-| Pelt, Bison               | $1–2    | 2      |
-| Pelt, Wolf                | $1–2    | 1      |
-| Rope, 20’ length          | $2      | ½      |
-| Saddle & Gear             | $30–100 | 2      |
-| Silver, 1oz               | $1.50   | Tiny   |
-| Tobacco goods             | $1–5    | Tiny   |
-| Whiskey, sipping (bottle) | 50c     | ½      |
-| Whiskey, good (bottle)    | $2      | ½      |
+| Item                      | Cost    | Weight | Rarity    |
+| ------------------------- | ------- | ------ | --------- |
+| Basic Rations for 1 week  | $2      | 2      | Common    |
+| Bullets / shells          | $1/20   | Tiny   | Common    |
+| Clothes (standard)        | 50c–$2  | -      | Common    |
+| Clothes (fancy)           | $5–50   | -      | Uncommon  |
+| Coffin                    | $7.5    | 6      | Common    |
+| Deck of cards             | $1–5    | Tiny   | Common    |
+| Gold, 1oz                 | $20     | Tiny   | Rare      |
+| Handcuffs                 | $1–5    | Tiny   | Uncommon  |
+| Lemonade (bottle)         | 5c      | ½      | Common    |
+| Lockpicks (set)           | $5      | Tiny   | Uncommon  |
+| Matches (box)             | 50c     | Tiny   | Common    |
+| Newspaper                 | 10c     | Tiny   | Common    |
+| Oil Lantern               | $1      | ½      | Common    |
+| Pelt, Bear                | 70c–$1  | 2      | Uncommon  |
+| Pelt, Bison               | $1–2    | 2      | Uncommon  |
+| Pelt, Wolf                | $1–2    | 1      | Uncommon  |
+| Rope, 20’ length          | $2      | ½      | Common    |
+| Saddle & Gear             | $30–100 | 2      | Uncommon  |
+| Silver, 1oz               | $1.50   | Tiny   | Common    |
+| Tobacco goods             | $1–5    | Tiny   | Common    |
+| Whiskey, sipping (bottle) | 50c     | ½      | Common    |
+| Whiskey, good (bottle)    | $2      | ½      | Uncommon  |
 
 ##### Specialized Gear
 
-| Item                    | Cost   | Weight | Notes                                                                                                                                                                                                                                                                                                                                                 |
-| ----------------------- | ------ | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Boat—canoe              | $40    | 4      | A light canoe designed for two people and a small amount of baggage.                                                                                                                                                                                                                                                                                  |
-| Boat—rowboat            | $35    | 8      | Basic but sturdy, the rowboat can take four people easily, six at a stretch, and some baggage.                                                                                                                                                                                                                                                        |
-| Camping Gear            | $10    | 2      | Basic camping gear with bedrolls, canvas for shelter, a tinderbox and a pan for cooking. Gives a +1 bonus to NATURE rolls when making camp for the night.                                                                                                                                                                                             |
-| Cart                    | $30    | N/A    | A basic four-wheeled cart with space for three people sitting up front and carrying capacity for a lot of cargo.                                                                                                                                                                                                                                      |
-| Doctoring Bag           | $25    | 1      | Contains basic items and simple medicines and elixirs. Gives a +1 bonus to DOCTORIN’ rolls.                                                                                                                                                                                                                                                           |
-| Farming equipment       | $250   | Varies | Covers a wide range of equipment needed to manage a Farming Outfit. Without this, the Turn of the Season Business roll for a Farming Outfit suffers a −2 penalty.                                                                                                                                                                                     |
-| Holster—basic           | $2.50  | Tiny   | Nothin’ fancy, just holds your gun.                                                                                                                                                                                                                                                                                                                   |
-| Holster—Bridgeport Rig  | $50    | Tiny   | A belt holder with a special clip instead of an actual holster, making it quick to draw. Can also swivel, allowing you to take a shot without drawing. Gain a +1 bonus to the Draw during a duel if the weapon is drawn. Gain a +2 bonus to the Draw for the first shot if the weapon is not drawn (but the weapon needs to be drawn to shoot again). |
-| Holster—Law Dog         | $40    | Tiny   | Made for the quick draw, this holster gives a +1 bonus to the Draw roll during a duel.                                                                                                                                                                                                                                                                |
-| Holster—Open-toe Swivel | $25    | Tiny   | A holster with an opening through which the barrel sticks out, which can swivel, allowing a fast shot in a duel with the weapon still in the holster. Gain a +1 bonus to the Draw for the first shot, but the weapon remains in its holster—it needs to be drawn to shoot again.                                                                      |
-| Horses, Donkeys & Mules | Varies | N/A    | There are many breeds of horse to choose from. See page 120.                                                                                                                                                                                                                                                                                          |
-| Panning equipment       | $10    | Varies | Covers the range of equipment needed to manage a Panning Claim. Without this, the Turn of the Season Business roll for a Panning Outfit suffers a −2 penalty.                                                                                                                                                                                         |
-| Lasso                   | $5     | ½      | A length of stiffened rope with a loop at one end for wrangling cattle, horses, and wayward folk.                                                                                                                                                                                                                                                     |
-| Mining equipment        | $25    | Varies | A wide range of equipment needed to manage a Mining Outfit. Without this, the Turn of the Season roll for a Mining Outfit suffers a −2 penalty.                                                                                                                                                                                                       |
+| Item                    | Cost   | Weight | Rarity   | Notes                                                                                                                                                                                                                                                                                                                                                 |
+| ----------------------- | ------ | ------ | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Boat—canoe              | $40    | 4      | Uncommon | A light canoe designed for two people and a small amount of baggage.                                                                                                                                                                                                                                                                                  |
+| Boat—rowboat            | $35    | 8      | Uncommon | Basic but sturdy, the rowboat can take four people easily, six at a stretch, and some baggage.                                                                                                                                                                                                                                                        |
+| Camping Gear            | $10    | 2      | Common   | Basic camping gear with bedrolls, canvas for shelter, a tinderbox and a pan for cooking. Gives a +1 bonus to NATURE rolls when making camp for the night.                                                                                                                                                                                             |
+| Cart                    | $30    | N/A    | Common   | A basic four-wheeled cart with space for three people sitting up front and carrying capacity for a lot of cargo.                                                                                                                                                                                                                                      |
+| Doctoring Bag           | $25    | 1      | Uncommon | Contains basic items and simple medicines and elixirs. Gives a +1 bonus to DOCTORIN’ rolls.                                                                                                                                                                                                                                                           |
+| Farming equipment       | $250   | Varies | Uncommon | Covers a wide range of equipment needed to manage a Farming Outfit. Without this, the Turn of the Season Business roll for a Farming Outfit suffers a −2 penalty.                                                                                                                                                                                     |
+| Holster—basic           | $2.50  | Tiny   | Common   | Nothin’ fancy, just holds your gun.                                                                                                                                                                                                                                                                                                                   |
+| Holster—Bridgeport Rig  | $50    | Tiny   | Rare     | A belt holder with a special clip instead of an actual holster, making it quick to draw. Can also swivel, allowing you to take a shot without drawing. Gain a +1 bonus to the Draw during a duel if the weapon is drawn. Gain a +2 bonus to the Draw for the first shot if the weapon is not drawn (but the weapon needs to be drawn to shoot again). |
+| Holster—Law Dog         | $40    | Tiny   | Uncommon | Made for the quick draw, this holster gives a +1 bonus to the Draw roll during a duel.                                                                                                                                                                                                                                                                |
+| Holster—Open-toe Swivel | $25    | Tiny   | Uncommon | A holster with an opening through which the barrel sticks out, which can swivel, allowing a fast shot in a duel with the weapon still in the holster. Gain a +1 bonus to the Draw for the first shot, but the weapon remains in its holster—it needs to be drawn to shoot again.                                                                      |
+| Horses, Donkeys & Mules | Varies | N/A    | Varies   | There are many breeds of horse to choose from. See page 120.                                                                                                                                                                                                                                                                                          |
+| Panning equipment       | $10    | Varies | Uncommon | Covers the range of equipment needed to manage a Panning Claim. Without this, the Turn of the Season Business roll for a Panning Outfit suffers a −2 penalty.                                                                                                                                                                                         |
+| Lasso                   | $5     | ½      | Common   | A length of stiffened rope with a loop at one end for wrangling cattle, horses, and wayward folk.                                                                                                                                                                                                                                                     |
+| Mining equipment        | $25    | Varies | Uncommon | A wide range of equipment needed to manage a Mining Outfit. Without this, the Turn of the Season roll for a Mining Outfit suffers a −2 penalty.                                                                                                                                                                                                       |
 
 ##### A Note on Prices
 
@@ -569,6 +626,65 @@ You’re not only going to want gear to help you make your way in the Old West, 
 | Undertaking services                   | $10+     |
 | Whiskey in single-bit bar              | 10c      |
 | Whiskey in two-bit bar                 | 25c      |
+
+Many services follow the same availability rules as gear. A barber is `Common`; a lawyer, doctor, skilled guide, or competent tutor may be only `Uncommon` or `Rare` outside a strong settlement. In hard country, getting the right pair of hands is often harder than paying them.
+
+##### Specialist Services
+
+| Service | Cost |
+| ------- | ---- |
+| Apothecary, draught or tonic | 50c-$3 |
+| Attorney, ordinary paperwork or advice | $5 |
+| Attorney, serious case or land dispute | $25+ |
+| Blacksmith, simple repair or shoeing one horse | $1 |
+| Farrier, difficult shoeing or tack adjustment | $2 |
+| Gunsmith, cleaning and tune-up | $2 |
+| Gunsmith, meaningful repair | $5+ |
+| Guide, settled country, per day | $2 |
+| Guide, bad country or hostile country, per day | $5+ |
+| Messenger, local urgent delivery | 25c-$1 |
+| Midwife or nurse, per day | $1-$3 |
+| Tutor, drillmaster, or riding instructor, per Shift | $1-$3 |
+| Veterinary help for a horse or mule | $2-$5 |
+| Wagon repair, minor | $2 |
+| Wagon repair, major | $10+ |
+| Watchman or guard, per night | $2-$4 |
+
+When a service lines up with the training rules in chapter 2, use the chapter 2 fee if it is more specific. The service prices above are broader market anchors for hiring help in play.
+
+##### Hired Hands and Day Labor
+
+| Role | Cost |
+| -------- | ---- |
+| Camp hand, stable hand, or kitchen help, per day | 50c-$1 |
+| Ranch hand or laborer, per day | $1-$2 |
+| Teamster or wagon driver, per day | $1-$3 |
+| Trail scout or interpreter, per day | $2-$5 |
+| Armed guard, per day | $2-$4 |
+
+Daily wages assume ordinary work and rough conditions. Dangerous work, bad weather, outlaw country, secrecy, or poor reputation can easily raise the price by half again or more.
+
+##### Optional Module: Consumables as Resource Dice
+
+For ordinary town-centered play, count expendables loosely and buy more when it matters. If you want harsher frontier pressure, you may instead track key consumables with a resource die. This module is best for remote expeditions, outlaw flight, mountain crossings, cavalry patrols, and bad-country survival.
+
+Use these dice:
+
+- `D12`: abundant
+- `D10`: sound
+- `D8`: running down
+- `D6`: low
+- `D4`: desperate
+
+Roll the die when the supply is meaningfully used:
+
+- once per day for trail food, feed, or lamp oil on a hard journey
+- once per scene of heavy firing for loose ammunition
+- once per day of rough doctoring for medical supplies
+
+If the roll is `1-2`, step the die down one size. If a `D4` rolls `1-2`, the supply is exhausted.
+
+One purchased listed unit usually raises a depleted supply by one step. A full wagon, pack train, or proper town resupply can raise it two steps or restore it to `D12`, at the GM's discretion.
 
 ### Weapons
 
