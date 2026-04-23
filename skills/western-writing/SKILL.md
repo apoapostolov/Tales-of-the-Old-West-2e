@@ -52,7 +52,10 @@ the modules you need. Do not skim and draft.
    gives you the voice fingerprint of the speaker; the second
    gives you the period diction and the kill list.
 5. **Pull two or three exemplars** from `examples/scenes.md`
-   before drafting. Read them aloud. Match the cadence.
+   before drafting. For mining, army, humor, women's-interior,
+   journey-compression, faro, or Native-character scenes, also
+   pull from `examples/scenes-phase2.md` (#21-#27). Read them
+   aloud. Match the cadence.
 6. **Draft, then run the anti-AI pass.** Cut anything the pass
    catches. Rewrite. Read aloud again.
 7. **End on weight.** If the last sentence of a paragraph trails
@@ -94,6 +97,37 @@ the modules you need. Do not skim and draft.
   close-third, omniscient, letter, journal, telegram,
   newspaper, court testimony) and the discipline of beats,
   tags, and silence.
+- `references/pov-and-distance.md` — point of view and
+  narrative distance as craft decisions. First person, close
+  third, distant third, omniscient, multiple POV, the
+  unreliable narrator. The choice of distance and how it
+  governs every other decision in the scene. **Load before
+  drafting any scene where POV is open.**
+- `references/story-structure.md` — story shapes for the
+  western: the journey, the siege, the showdown, the cattle
+  drive, the redemption arc (and its refusals), the
+  pursuit, the return, the descent, the inheritance. Scene
+  architecture, sequence design, the chapter, the document
+  as plot device, compression and expansion of time.
+- `references/landscape-as-prose.md` — landscape as the
+  western's principal subject. Region by region, the writing
+  of weather, distance, light, season, and terrain. The
+  landscape as moral weight. Worked passages by master.
+- `references/violence-as-craft.md` — violence procedurally
+  and morally. The gunfight, the brawl, the massacre, the
+  hanging, the wounding, the long death. How to write
+  violence that lands without exploitation and without
+  flinching.
+- `references/humor-and-irony.md` — the western's comic
+  registers. Deadpan, tall tale, dry undercut, gallows humor,
+  the dude scene, McMurtry's warmth, Portis's voice, Lansdale
+  rhythm. How to write a funny western without losing the
+  weight.
+- `references/journey-narrative.md` — the journey as the
+  western's spine. Compression of distance and time, the
+  daily rhythm of long travel, the pivots, the arrivals, the
+  return, the journey that fails. Cross-references the cattle
+  drive, the wagon train, the ride, the chase.
 
 ### knowledge/ — what to write about
 
@@ -152,6 +186,65 @@ the modules you need. Do not skim and draft.
   strike, bank robbery, widow's budget, cattleman's profit);
   scene-tool table; wages-to-prices ratio analysis. Load this
   for any scene involving money, distance, or time.
+- `knowledge/outlaw-craft.md` — the working procedure of the
+  western criminal. Cattle and horse theft, brand alteration,
+  the bank job, the train job, the stage job, the safe, the
+  fence, the hideout economy, the relationship to the law.
+  Load for any scene involving a working outlaw.
+- `knowledge/native-material-culture.md` — the Native nations
+  rendered specifically: Comanche, Lakota, Apache, Diné,
+  Pueblo, plus the sign language and the seven rules for
+  writing Native characters honestly. **Load for any scene
+  involving a Native character.**
+- `knowledge/gambling.md` — faro, monte, poker, the
+  professional gambler, cheating methods, the saloon table,
+  the boom-camp game. The vocabulary, the procedure, the
+  scene mechanics.
+- `knowledge/army-life.md` — the frontier post, the cavalry
+  column, daily routine, the ration, the trooper, the
+  officer's wife, Soapsuds Row, Buffalo Soldiers, the
+  service experience. **Load for any garrison or column
+  scene.**
+- `knowledge/religion-and-faith.md` — the Methodist circuit
+  rider, the Baptist revival, the Catholic mission and
+  Penitentes, Mormon settlement, the Black church, Jewish
+  presence, plus the preacher's voice and the prayer
+  registers. Load for any scene involving worship,
+  conversion, or sacred ground.
+- `knowledge/food-culture.md` — the chuckwagon, the homestead
+  kitchen, the mining boarding house, the Chinese cookhouse,
+  the Harvey House, regional menus, period equipment, the
+  food vocabulary. Load for any scene with cooking, eating,
+  or hospitality.
+- `knowledge/regional-landscapes.md` — the West region by
+  region: Llano Estacado, Northern Plains, Texas Hill / South
+  Texas, Rockies, Southwest Deserts, Pacific Northwest,
+  California, Great Basin. Climate, terrain, vegetation,
+  human geography, voice. **Load (relevant section) with
+  `references/landscape-as-prose.md` for any landscape
+  passage.**
+- `knowledge/borderlands.md` — the US-Mexico border, the
+  rurales, Texas Rangers, the corrido, the hacienda system,
+  the Trans-Pecos, El Paso / Juárez. Race, language,
+  contraband, bandit raids, cross-border family. **Load for
+  any border scene.**
+- `knowledge/women-domestic-world.md` — the homestead woman,
+  the ranch wife, the town woman, the mining-camp woman, plus
+  Hispanic, Native, Black, and Chinese women's specific
+  worlds. The day's labor, the institutions, the literature,
+  the voice. **Load for any women-centered scene.**
+- `knowledge/documents-and-print.md` — the frontier
+  newspaper, the wanted poster, the period letter, the
+  telegram, legal documents, diaries, photographs, and the
+  specific registers of each. The document as scene anchor
+  and plot hinge.
+- `knowledge/horse-culture.md` — breeds (mustang, Steeldust /
+  quarter, Morgan, thoroughbred, draft, mule, criollo, Indian
+  pony), mustanging, the cavalry remount, racing, horse
+  theft, the horse trade, equipment beyond the basics, and
+  the ceremonial / relational dimensions. The horseman's
+  vocabulary. Load for any scene where the horse is a
+  significant presence.
 
 ### examples/ — the shelf
 
@@ -168,6 +261,52 @@ the modules you need. Do not skim and draft.
   wound), and the letter as scene. Each passage is followed by
   a short critique that names what makes it work and what it
   refuses to do.
+- `examples/scenes-phase2.md` — seven additional exemplars
+  covering domains the original twenty undercovered: mining
+  shift (#21), army morning (#22), deadpan dude / cook
+  comedy (#23), the woman from inside (#24), journey
+  compression (#25), the faro table (#26), the Native
+  character from inside (#27). Each is a floor for its scene
+  type. Load alongside `scenes.md`.
+
+## Module-loading rules of thumb
+
+In addition to the workflow above, follow these triggers when
+deciding which knowledge file to load before drafting:
+
+- **Any scene involving gambling, criminal procedure, or Army
+  life** — load `knowledge/gambling.md`,
+  `knowledge/outlaw-craft.md`, or `knowledge/army-life.md`
+  respectively.
+- **Any landscape passage** — load
+  `references/landscape-as-prose.md` and the relevant section
+  of `knowledge/regional-landscapes.md`.
+- **Any POV decision in a scene** — consult
+  `references/pov-and-distance.md` before drafting.
+- **Any scene with a Native character** — load
+  `knowledge/native-material-culture.md`.
+- **Any border scene** — load `knowledge/borderlands.md`.
+- **Any women-centered scene** — load
+  `knowledge/women-domestic-world.md`.
+- **Any scene built around a document** (newspaper, wanted
+  poster, letter, telegram, deed, will, diary) — load
+  `knowledge/documents-and-print.md`.
+- **Any scene where the horse is a significant presence
+  beyond transport** — load `knowledge/horse-culture.md`.
+- **Any scene of worship, conversion, funeral, or sacred
+  ground** — load `knowledge/religion-and-faith.md`.
+- **Any scene of cooking, eating, or hospitality** — load
+  `knowledge/food-culture.md`.
+- **Any scene with violence** — load
+  `references/violence-as-craft.md` plus
+  `knowledge/medicine-and-death.md` for wound and death
+  detail.
+- **Any comic scene** — load `references/humor-and-irony.md`.
+- **Any journey or travel sequence** — load
+  `references/journey-narrative.md`.
+- **Any structural decision** (where to start the scene, how
+  to compress, where to end) — consult
+  `references/story-structure.md`.
 
 ## The non-negotiable rules
 
@@ -283,259 +422,3 @@ you cannot forget them.
       part? Give them a ledger, a child, a wound, a debt.
 
 The bible is long. The job is harder.
----
-name: western-writing
-description: |
-  Use when drafting, revising, or reviewing manuscript-facing prose for the
-  Tales of the Old West 2E repo. Applies the voice, structure, diction, and
-  anti-AI rules so prose reads like native fiction and practical rulebook
-  text — harsh, clear, physical, atmospheric, and free of generated-text
-  tells. Covers corebook chapters, proposal prose, item and ability
-  descriptions, flavor exposition, examples, and mixed fiction-and-rule
-  bridges.
----
-
-# Western Writing
-
-This skill exists because AI cannot write good roleplaying-book
-prose by default. It produces something that looks like prose —
-grammatical, organized, superficially tonal — but reads like
-a summarization of a book rather than a page from one.
-
-The best western fiction was written by authors who thought in
-dust, iron, horse sweat, distance, and consequence. Their prose
-is not decorated. It is built. Every sentence does a job: it
-teaches a rule, grounds the world, or moves the reader closer
-to the table.
-
-This skill teaches you to match that standard, not approximate it.
-
-## The Problem This Skill Solves
-
-AI writing fails in roleplaying books in three stacked ways:
-
-1. **Surface voice.** The AI produces "western flavor" — dusty
-   trails, golden sunsets, rugged men, wide-open spaces — without
-   physical grounding. The result is mood fog that teaches nothing
-   and feels like a movie poster tagline.
-
-2. **Structural flattening.** The AI writes every paragraph the same
-   way: topic sentence, elaboration, softened conclusion. Real
-   manuscript paragraphs have shape — statement then consequence,
-   definition then procedure then exception, condition then pressure
-   then player response. The AI's paragraphs are interchangeable.
-   The manuscript's paragraphs are not.
-
-3. **Invisible AI tells.** Even when the AI avoids obvious slop,
-   it leaks: em-dash overuse, rule-of-three padding, copula
-   avoidance ("serves as" instead of "is"), elegant variation
-   (cycling synonyms to avoid repetition), negative parallelisms
-   ("not just X, but Y"), hedging stacks, and generic positive
-   conclusions. These are detectable and they break trust.
-
-This skill attacks all three layers.
-
-## Source Of Truth
-
-Read before drafting:
-
-- The corebook chapter files in `corebook/`
-- This `SKILL.md`
-
-When working in a chapter or proposal folder, also read the
-local `AGENTS.md` if present.
-
-## Fiction Voice: The McCarthy-McMurtry Line
-
-The western RPG fiction voice sits on a specific literary line
-running through Cormac McCarthy and Larry McMurtry, with
-supporting influence from Charles Portis, Elmore Leonard,
-and Oakley Hall. These are the operational models.
-
-### Cormac McCarthy
-
-McCarthy is the spine. His westerns — *Blood Meridian* (1985),
-*All the Pretty Horses* (1992), *No Country for Old Men* (2005) —
-established the modern literary western voice. Five properties:
-
-**1. Landscape as moral weight.** The desert, the plain, the river
-crossing are never backdrop. They are active. They kill. They
-outlast every character. McCarthy describes terrain the way other
-authors describe villains — with patience, scale, and implied
-threat. The land does not care. That indifference is the story.
-
-**2. Violence without commentary.** When violence happens, McCarthy
-describes it with the same detachment as weather. No moral framing,
-no slowdown for emotional processing. A man is shot and the
-narrator records the physical fact — the way the body fell, the
-sound, the dust. The reader provides the horror. McCarthy trusts
-the reader's nerve.
-
-**3. Sparse dialogue, no quotation marks.** Characters speak in
-short declarative sentences. They do not explain themselves. They
-do not narrate their feelings. What they say is a third of what
-they mean and the reader reads the silence between the words.
-In game text, this translates to: NPCs and example dialogue
-should be terse, specific, and loaded with unsaid implication.
-
-**4. Biblical cadence in prose.** McCarthy's sentences use
-polysyndeton (and...and...and) and long compound chains that
-give his prose a rhythmic, Old Testament weight. The effect is
-inevitability — things happen because they were always going to.
-Use this sparingly in manuscript prose. A rules section should
-not read like scripture. But a chapter epigraph or a fiction
-opener can.
-
-**5. No sentimentality.** McCarthy never consoles the reader.
-Characters die without redemption arcs. Loyalty is tested and
-sometimes fails. The prose offers no comfort. In a western RPG,
-this means: do not soften consequences, do not write hopeful
-paragraphs at the end of grim sections, do not reassure the
-player that their character will be fine.
-
-### Larry McMurtry
-
-McMurtry is the humanizer. *Lonesome Dove* (1985) and
-*Streets of Laredo* (1993) provide the warmth and character
-depth that McCarthy withholds. Four properties:
-
-**1. Character through habit and quirk.** McMurtry identifies
-his cowboys by what they always do: Gus McCrae talks, Woodrow
-Call works, Jake Spoon gambles. Two behavioral details and the
-character exists. Game text should introduce NPC archetypes
-the same way — by what they do, not what they look like.
-
-**2. Humor as survival.** Gus McCrae jokes constantly in
-*Lonesome Dove* — crude, warm, self-aware humor that holds
-the company together. The jokes are never clever for the reader's
-benefit. They are functional: they defuse tension, establish
-bonds, and create the only comfort available. Game examples
-and NPC dialogue can have this quality.
-
-**3. Mundane detail as authenticity.** McMurtry spends pages on
-cooking, horse care, weather, river crossings, camp routine.
-The violence is an interruption of the mundane, not the point.
-This is critical for a western RPG manuscript: the daily grind
-of frontier life is the baseline. Combat is the exception.
-
-**4. Death without heroism.** Characters in McMurtry die of
-snakebite, infection, drowning, and bad luck as often as they
-die in gunfights. The deaths are quiet and often pointless.
-This is the most authentic thing about his westerns and it
-should inform how the manuscript talks about danger, injury,
-and mortality.
-
-### Supporting Voices
-
-**Charles Portis** (*True Grit*, 1968): First-person voice with
-period-authentic diction. Mattie Ross narrates with dry precision
-and 19th-century formality. Use as a model for in-character
-narration, period dialogue, and the formal register of law,
-commerce, and institutional speech in the Old West.
-
-**Elmore Leonard** (*Hombre*, 1961; *Valdez Is Coming*, 1970):
-Clean, fast dialogue. Leonard's westerns move through conversation.
-Characters reveal themselves through what they say and how they
-say it. Use as a model for NPC speech patterns and example
-dialogue in rules text.
-
-**Oakley Hall** (*Warlock*, 1958): Moral complexity. The town
-marshal, the gambler, the miners — nobody is purely right.
-Hall's Warlock is a model for how a western setting should present
-its factions: everyone has a reason, and the players must choose
-whose reason they trust.
-
-## Hard Rules
-
-These are non-negotiable. Violating any one disqualifies
-a draft from the manuscript.
-
-1. **No mood without object.** Every atmospheric sentence must
-   contain a physical noun — a body part, a material, a tool,
-   a terrain feature, a weather condition. "Danger lurked" is
-   banned. "The heat rose off the hardpan in visible waves"
-   is allowed.
-
-2. **No paragraph without a job.** Before writing a paragraph,
-   name its job in one word: define, describe, distinguish,
-   warn, demonstrate, bridge. If you cannot name the job,
-   do not write the paragraph.
-
-3. **No AI tells.** Run a final pass for: em-dash clusters,
-   rule-of-three, copula avoidance, elegant variation,
-   negative parallelisms, hedging stacks, sycophantic
-   qualifiers, filler phrases, and generic positive endings.
-   If any survive, cut them.
-
-   **Split-sentence negative:** The pattern "It is not X. It
-   is Y." is a hard AI tell. Collapse it every time:
-   - "It is not X. It is Y." → "It is not X, but Y."
-   - "This is not a bank. It has no ledger." → "This is not a
-     bank — no lock, no ledger, no one to answer to."
-
-4. **No synonym cycling.** If the game calls it GRIT,
-   call it GRIT. Do not write "mental toughness" in one
-   sentence and "inner fortitude" in the next. Repetition is
-   cleaner than variation when the repeated word is a game term.
-
-5. **No therapy, no corporate, no blog.** The manuscript does
-   not say "meaningful," "impactful," "engage with," "it's
-   worth noting," "basically," "in other words," "this means
-   that," or "the key takeaway."
-
-6. **End on weight.** Sentences should land on concrete nouns,
-   bodily consequences, hard verbs, or material facts. Trailing
-   qualifiers, abstract summaries, and "voicey" filler at
-   the end of a sentence are the most reliable sign of
-   generated text.
-
-7. **Earn every adjective.** One strong noun beats two
-   modified ones. "The blade" beats "the sharp, gleaming
-   blade." If an adjective does not change what the reader
-   pictures, it is decoration and should be cut.
-
-8. **No game designer jargon.** Terms like "critical riders,"
-   "proc," "tuned," and "feature effects" are internal shorthand.
-   They do not belong in manuscript prose. Replace them with
-   plain description of what happens at the table.
-
-9. **No AI guardrail sections.** Do not introduce sections
-   labeled "GUARDRAILS," "Safety Note," or any equivalent.
-   If the rule has edge cases, write them as GM advice embedded
-   inside the rule itself — a short sentence placed where the
-   concern actually arises. Not a separate block.
-
-## Writing Workflow
-
-1. Identify the register: fiction opener, flavor exposition,
-   rules explanation, mixed bridge, item description,
-   example scene.
-2. Pull 2-5 exemplars from the relevant chapter.
-3. Draft with one paragraph job at a time.
-4. Check diction: concrete subjects, physical verbs,
-   material nouns, no abstract filler.
-5. Check structure: paragraph shape matches its job,
-   sentence length varies with purpose.
-6. Run anti-AI pass: scan for the tells listed in Hard
-   Rule 3.
-7. Read the draft aloud. If a sentence sounds like
-   a summary of a book rather than a page from one, rewrite.
-
-## Review Checklist
-
-Before finalizing any draft:
-
-- [ ] Could this paragraph sit beside the manuscript
-      without sounding imported?
-- [ ] Does every atmospheric line contain a physical noun?
-- [ ] Does every paragraph do one job?
-- [ ] Do sentences end on weight, not filler?
-- [ ] Are game terms used consistently, not varied?
-- [ ] Is every adjective earned?
-- [ ] Has the anti-AI pass been run?
-- [ ] If this is rules text, can it be run at the table
-      without interpretation drift?
-- [ ] If this is flavor text, does it point toward
-      use, danger, or consequence?
-- [ ] Does the draft contain any designer jargon?
-      Replace each with plain table-language.

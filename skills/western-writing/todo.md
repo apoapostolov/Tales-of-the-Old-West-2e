@@ -1,5 +1,22 @@
 # Western Writing Skill — Build Plan
 
+**Status (verified April 2026):** Phases 5, 6, 7, and 9 are
+fully complete. Phase 8 is complete with a format deviation
+(see below). Phase 10 (corrections) is new and not yet
+started.
+
+**Phase 8 deviation:** The plan said to append exemplars
+#21-#27 to `examples/scenes.md`. The AI instead created a
+separate `examples/scenes-phase2.md`. The SKILL.md library
+index covers both files, but the workflow step and scenes.md
+footer do not cross-reference the new file. This is the main
+source of Phase 10 work.
+
+**Broken cross-reference (blocking):** `examples/scenes-phase2.md`
+twice cross-references `knowledge/mining-camps.md`, which does
+not exist. This must be fixed before the skill is used for
+any mining scene.
+
 Phase 5 complete (speech-patterns, competence-procedures,
 1870s-availability, prices-and-anchors, 20 exemplars, SKILL.md
 index updated). This file tracks what remains and what is new.
@@ -56,7 +73,7 @@ scene. No Army scene. No journey compression exemplar.
 
 New craft modules to create in `references/`.
 
-- [ ] **P1** `references/pov-and-distance.md`
+- [x] **P1** `references/pov-and-distance.md`
       Point of view as a strategic craft decision. Close-third
       vs. omniscient vs. first-person in western prose. How to
       stay inside a character's perceptual range without slipping
@@ -67,7 +84,7 @@ New craft modules to create in `references/`.
       Before/after rewrites for POV drift. Length target: ~500
       lines.
 
-- [ ] **P1** `references/story-structure.md`
+- [x] **P1** `references/story-structure.md`
       How westerns are built above the sentence level. The
       canonical structural patterns: arrival-in-country opening,
       the mid-story reversal, the long-trail middle, the town
@@ -80,7 +97,7 @@ New craft modules to create in `references/`.
       western novel end vs. just stop). Before/after rewrites.
       Length target: ~500 lines.
 
-- [ ] **P1** `references/landscape-as-prose.md`
+- [x] **P1** `references/landscape-as-prose.md`
       Landscape writing as craft, not as fact dump. How to move
       from frontier-survival.md's facts into actual prose.
       The distinction between landscape as backdrop vs. landscape
@@ -95,7 +112,7 @@ New craft modules to create in `references/`.
       for: Llano Estacado, the Rio Grande, the Colorado high
       country, the Montana plains. Length target: ~500 lines.
 
-- [ ] **P2** `references/violence-as-craft.md`
+- [x] **P2** `references/violence-as-craft.md`
       A dedicated craft module. The grammar of a gunfight (the
       silence before; the speed of the event; the silence after).
       The difference between a duel, a brawl, a massacre, an
@@ -110,7 +127,7 @@ New craft modules to create in `references/`.
       Hard rules: no slow-motion; no choreography; no hero
       invulnerability. Before/after rewrites. Length: ~500 lines.
 
-- [ ] **P2** `references/humor-and-irony.md`
+- [x] **P2** `references/humor-and-irony.md`
       The complete absence of humor in current skill is a
       production defect. McMurtry is frequently funny (Call and
       Augustus, Gus's cooking, Newt's bewilderment). Portis's
@@ -126,7 +143,7 @@ New craft modules to create in `references/`.
       practical joke). What makes period humor funny vs. what
       makes it cruel. Before/after rewrites. Length: ~400 lines.
 
-- [ ] **P3** `references/journey-narrative.md`
+- [x] **P3** `references/journey-narrative.md`
       The journey is the fundamental western form (the cattle
       drive, the emigrant trek, the cavalry patrol, the
       prospector's route). How to structure a journey narrative:
@@ -148,7 +165,7 @@ New craft modules to create in `references/`.
 
 New knowledge modules to create in `knowledge/`.
 
-- [ ] **P1** `knowledge/outlaw-craft.md`
+- [x] **P1** `knowledge/outlaw-craft.md`
       The practical criminal knowledge the corebook requires.
       How outlaw gangs actually operated between jobs (the
       hideout's physical reality — not a romantic canyon camp
@@ -169,7 +186,7 @@ New knowledge modules to create in `knowledge/`.
       disaster; the Wild Bunch's actuarial problem). Writing the
       sympathetic outlaw without lies. Length: ~600 lines.
 
-- [ ] **P1** `knowledge/native-material-culture.md`
+- [x] **P1** `knowledge/native-material-culture.md`
       What peoples-and-conflict.md deliberately omits: the
       physical, daily, material world of the major nations
       encountered in 1870s fiction. Section per nation grouping:
@@ -190,7 +207,7 @@ New knowledge modules to create in `knowledge/`.
       (Hämäläinen, Gwynne, Welch, the primary sources). Length:
       ~600 lines.
 
-- [ ] **P1** `knowledge/gambling.md`
+- [x] **P1** `knowledge/gambling.md`
       Faro: the bank, the layout, the casebook, the copper,
       the call, the sucker's game. Monte: the Spanish origin,
       the layout, the dominant game of the Southwest and of
@@ -208,7 +225,7 @@ New knowledge modules to create in `knowledge/`.
       story to explain the rules. Wrote exemplars for faro and
       poker scenes. Length: ~500 lines.
 
-- [ ] **P2** `knowledge/army-life.md`
+- [x] **P2** `knowledge/army-life.md`
       The physical reality of service in the 1870s Army of the
       West. The post: layout (officer's row, enlisted barracks,
       parade ground, guard house, magazine, hospital, sutler's
@@ -227,7 +244,7 @@ New knowledge modules to create in `knowledge/`.
       Desertion. Army music (the calls and the regimental bands).
       Length: ~500 lines.
 
-- [ ] **P2** `knowledge/religion-and-faith.md`
+- [x] **P2** `knowledge/religion-and-faith.md`
       Religion was the center of most people's understanding of
       the world and it is nearly absent from the skill. The
       circuit-riding Methodist preacher (his itinerary — how
@@ -249,7 +266,7 @@ New knowledge modules to create in `knowledge/`.
       did not say. How the canonical writers use religion without
       condescension or mockery. Length: ~400 lines.
 
-- [ ] **P2** `knowledge/food-culture.md`
+- [x] **P2** `knowledge/food-culture.md`
       A dedicated module pulling together what is scattered
       across multiple files and adding what is missing. The
       trail-drive cook's full equipment list and what each
@@ -273,7 +290,7 @@ New knowledge modules to create in `knowledge/`.
       meant when a character had enough to eat. Length: ~500
       lines.
 
-- [ ] **P2** `knowledge/regional-landscapes.md`
+- [x] **P2** `knowledge/regional-landscapes.md`
       The specific sensory palettes of the eight or nine major
       sub-regions of the 1870s American West. For each: the
       ground cover and the specific plants a character would
@@ -292,7 +309,7 @@ New knowledge modules to create in `knowledge/`.
       nouns that place the reader in the country. Length:
       ~600 lines.
 
-- [ ] **P3** `knowledge/borderlands.md`
+- [x] **P3** `knowledge/borderlands.md`
       The U.S.-Mexico border region as a specific literary
       environment. The physical landscape: the Trans-Pecos,
       the Rio Grande crossings, the Chihuahuan desert, the
@@ -310,7 +327,7 @@ New knowledge modules to create in `knowledge/`.
       border town (the _presidio_ origin, the _plaza_ center,
       the two-language commercial zone). Length: ~400 lines.
 
-- [ ] **P3** `knowledge/women-domestic-world.md`
+- [x] **P3** `knowledge/women-domestic-world.md`
       A dedicated module for the women's interior world that is
       currently scattered across three files without a home.
       The domestic material culture of the frontier woman: the
@@ -330,7 +347,7 @@ New knowledge modules to create in `knowledge/`.
       Summerhayes). How to write a scene from inside a woman's
       experience vs. from outside it. Length: ~400 lines.
 
-- [ ] **P3** `knowledge/documents-and-print.md`
+- [x] **P3** `knowledge/documents-and-print.md`
       Letters, legal documents, newspapers, and official papers
       as scene props and as voices. Period newspaper content and
       voice: boosterism (the frontier paper's relentless advocacy
@@ -349,7 +366,7 @@ New knowledge modules to create in `knowledge/`.
       without making the scene about explaining the document.
       Length: ~400 lines.
 
-- [ ] **P3** `knowledge/horse-culture.md`
+- [x] **P3** `knowledge/horse-culture.md`
       The horse beyond cowboy work. Horse racing as social event
       (the quarter-mile sprint down a main street, the crowd, the
       betting, the specific vocabulary of the race). Mustang
@@ -376,7 +393,7 @@ Append to the existing 20 exemplars in `examples/scenes.md`.
 Each needs: the worked passage, then the critique that names
 what makes it work and what it refuses.
 
-- [ ] **P1** `#21 The mine — underground`
+- [x] **P1** `#21 The mine — underground`
       A hardrock miner's shift underground. The dark (only
       candles on the helmet, the tallow smell, the specific
       dimness), the sound (the drill and the hammer, the drip,
@@ -388,7 +405,7 @@ what makes it work and what it refuses.
       and the forthcoming `knowledge/army-life.md` section on
       the working mine.
 
-- [ ] **P1** `#22 The Army at the post — a soldier's morning`
+- [x] **P1** `#22 The Army at the post — a soldier's morning`
       A private (or corporal) at a frontier post, from reveille
       to stable call. Demonstrates: the specific vocabulary of
       Army life (the calls, the formation, the fatigue detail,
@@ -397,7 +414,7 @@ what makes it work and what it refuses.
       description. To be written parallel to competence-
       procedures.md — the soldier's work in the terse register.
 
-- [ ] **P1** `#23 Deadpan humor — the dude and the cook`
+- [x] **P1** `#23 Deadpan humor — the dude and the cook`
       A scene of laconic western wit. The subject: an Eastern
       visitor trying to eat trail-drive food while the cook
       watches. Demonstrates: the humor of competence gap, the
@@ -405,7 +422,7 @@ what makes it work and what it refuses.
       payoff. Shows that the skill produces comedy as well as
       weight. Critique names the McMurtry and Portis registers.
 
-- [ ] **P2** `#24 A woman's scene from the inside`
+- [x] **P2** `#24 A woman's scene from the inside`
       A homestead wife or widow in her domestic space, written
       from the inside of her experience and her perceptual range.
       Not a scene _about_ a woman — a scene _from_ a woman. Her
@@ -417,7 +434,7 @@ what makes it work and what it refuses.
       what existing western fiction does with women and what it
       refuses.
 
-- [ ] **P2** `#25 Journey compression — the middle of the trail`
+- [x] **P2** `#25 Journey compression — the middle of the trail`
       A passage that compresses ten or fourteen days of travel
       into a paragraph (the long ride, the weather, the
       accumulation of country) and then zooms in to one specific
@@ -426,7 +443,7 @@ what makes it work and what it refuses.
       contrasts it with the single-day detail. Should feel like
       a chapter of Lonesome Dove in miniature.
 
-- [ ] **P3** `#26 A gambling scene — faro`
+- [x] **P3** `#26 A gambling scene — faro`
       A scene at a faro bank. Three characters: the dealer, the
       lookout, the player. The specific mechanics of faro in the
       prose (not explained, shown). The specific vocabulary
@@ -435,7 +452,7 @@ what makes it work and what it refuses.
       is not playing faro. Critique names the knowledge in the
       forthcoming `knowledge/gambling.md`.
 
-- [ ] **P3** `#27 A Native character's scene`
+- [x] **P3** `#27 A Native character's scene`
       A scene written inside a Native character's perceptual
       range. Specific nation (Comanche or Lakota — whichever
       the writer chooses for the period). The scene should
@@ -450,15 +467,15 @@ what makes it work and what it refuses.
 
 ## Phase 9 — SKILL.md integration
 
-- [ ] Update SKILL.md library index for all new Phase 6 and
+- [x] Update SKILL.md library index for all new Phase 6 and
       Phase 7 files when they exist.
-- [ ] Add workflow note: for any scene involving gambling,
+- [x] Add workflow note: for any scene involving gambling,
       criminal procedure, or Army life, load the corresponding
       knowledge file.
-- [ ] Add workflow note: for landscape passages, load
+- [x] Add workflow note: for landscape passages, load
       `references/landscape-as-prose.md` and the relevant
       section of `knowledge/regional-landscapes.md`.
-- [ ] Add workflow note: for POV decisions in any scene,
+- [x] Add workflow note: for POV decisions in any scene,
       consult `references/pov-and-distance.md` before drafting.
 
 ---
@@ -476,3 +493,61 @@ Each new file must:
    clusters, no rule-of-three conclusions, no synonym
    cycling, no positive uplift endings.
 5. Cross-reference any file it overlaps with by name.
+
+---
+
+## Phase 10 — Corrections and loose ends
+
+Identified April 2026 by audit of all created files against
+the original plan. Four issues found; one is blocking.
+
+- [ ] **BLOCKING** Fix broken cross-reference in
+      `examples/scenes-phase2.md`. Lines 70 and 401 both
+      reference `knowledge/mining-camps.md`, which does not
+      exist. Two options:
+      a) Create `knowledge/mining-camps.md` — the dedicated
+      mining-camp module the Gap Analysis identified as
+      missing (hardrock vs. placer, the camp's layout,
+      the shift, the boarding house, the company store,
+      the union and the Pinkertons, the fire and the
+      flooding, specific vocabulary for underground work).
+      Preferred — fills a real content gap. Length ~400
+      lines. Would also need SKILL.md library entry added.
+      b) Change the cross-reference in scenes-phase2.md to
+      `knowledge/work-and-trades.md` (which covers mining
+      superficially). Fallback if (a) is deferred.
+
+- [x] **HIGH** `SKILL.md` step 5 in "How to use this bible"
+      reads: "Pull two or three exemplars from
+      `examples/scenes.md` before drafting." It does not
+      mention `examples/scenes-phase2.md`. Any agent
+      following the workflow step will miss exemplars #21-#27.
+      Fix: change step 5 to name both files.
+
+- [x] **MEDIUM** `examples/scenes.md` "How to use these
+      examples" footer (near the end of the file) does not
+      mention `examples/scenes-phase2.md` or the existence of
+      exemplars #21-#27. Add a sentence or short paragraph
+      directing the reader to `scenes-phase2.md` for the
+      Phase 8 additions.
+
+- [ ] **LOW** Phase 8 format deviation: the plan said to
+      append exemplars #21-#27 to `examples/scenes.md`; the
+      AI created a separate `examples/scenes-phase2.md`
+      instead. The two-file approach works (SKILL.md library
+      covers both), but it diverges from the original intent.
+      Decide: leave as two files (update the HIGH and MEDIUM
+      items above to match), or merge `scenes-phase2.md` into
+      `scenes.md` (append, fix numbering, update SKILL.md
+      library description, delete `scenes-phase2.md`). If
+      merging, the BLOCKING item about the cross-reference
+      still applies to whatever approach is taken.
+
+- [ ] **LOW** Several Phase 6/7 files came in below their
+      line-count targets. These are not broken, but if
+      expansion is desired: - `references/pov-and-distance.md` 357 lines (target ~500):
+      missing before/after rewrite section per spec. - `references/landscape-as-prose.md` 395 lines (target ~500):
+      missing some regional worked passages per spec. - `references/violence-as-craft.md` 425 lines (target ~500):
+      could expand the gunfight grammar section. - `knowledge/outlaw-craft.md` 487 lines (target ~600):
+      could expand the hideout economy and posse-limitation
+      sections.

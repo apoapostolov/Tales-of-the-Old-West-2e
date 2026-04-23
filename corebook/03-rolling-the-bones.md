@@ -88,6 +88,45 @@ Most of the time, only failed `Risky` or `Desperate` rolls need this counting. S
 
 When Trouble is generated, choose the relevant Trouble Outcome Table and roll on the column matching the Trouble amount: `1`, `2`, `3`, or `4+`.
 
+#### Hidden Bad Luck
+
+Sometimes a situation goes sour not because of one bad roll, but because a string of poor choices and hard conditions invite ugly luck in after them. This is a hidden GM-side check, not a thing for the players to manage.
+
+Use it when the characters have usually made at least two bad decisions in the same scene, operation, chase, or immediate aftermath. Examples include choosing noise over caution, speed over concealment, leaving a witness or captive unresolved, pushing a key roll and failing, pressing on after Trouble is already serious, or trusting a weak contact anyway.
+
+When the pattern is there, the GM secretly names the mood of the scene:
+
+- `Bad Luck`: the situation is turning sour, but it is not yet a curse
+- `Horrible Luck`: repeated bad decisions have put the characters in a truly fragile position
+
+Then the GM makes a hidden bad-luck roll:
+
+- `Bad Luck`: roll `5` dice
+- `Horrible Luck`: roll `8` dice
+
+Every `1` rolled is one point of hidden bad luck. Do not tell the players the result.
+
+Hidden bad luck is not added to the public Trouble amount. It is stored by the GM and spent later when the fiction offers a natural opening. The point of the rule is not to punish ordinary risk, but to let a chain of bad choices come back as the wrong kind of coincidence.
+
+The GM may spend hidden bad-luck points in these ways:
+
+- Spend `1` point to impose an unexpected `-1` penalty to a roll. No more than `-2` from hidden bad luck should apply to a single roll.
+- Spend `2` points to add `+1` Trouble. This added Trouble is not reduced by Faith.
+- Spend points to create a situation that must be resolved with a roll:
+  - `1` point: a small situation
+  - `2` points: a major situation
+  - `3` points: a significant situation
+
+Use the smallest consequence that fits the opening. A small situation might be a loose horse, a suspicious bark, a missed message, or a delayed wagon wheel. A major situation might be a witness, a broken agreement, a bad meeting, a wrong track, or an exposed hiding place. A significant situation should change the shape of the scene: the wrong lawman arrives, a fence turns traitor, a captive talks, a posse cuts off the water, or the gang is forced to split to survive.
+
+As a rule of thumb:
+
+- `1` hidden point should sting and complicate
+- `2` hidden points should force a hard choice
+- `3` hidden points should tilt the whole scene
+
+This should feel like compounded misjudgment catching up with the characters, not random punishment from nowhere. If the table can explain the bad luck after the fact, and the explanation sounds like outlaw life, you have used the rule well.
+
 #### Buying Off Trouble With Faith
 
 Those with Faith can mitigate the effects of Trouble and reduce its potential scale. After Trouble has been worked out, but before you roll on a Trouble Outcome Table, you may spend Faith Points to reduce the Trouble amount point for point, to a minimum of `0`. If Trouble is reduced to `0`, no Trouble Outcome is rolled.

@@ -1272,6 +1272,11 @@ specificity, lands an image the reader will remember, opens
 a window into a man or a country the reader did not know was
 there.
 
+Exemplars #21-#27 (mining underground, Army morning, deadpan
+humor, woman's interior, journey compression, faro table,
+Native character) are in `examples/scenes-phase2.md`. Load
+that file for scenes in any of those domains.
+
 Write up. The shelf is full of writers (see `references/
 voices.md`) who set the bar high and reward the writer who
 tries to clear it. Try.

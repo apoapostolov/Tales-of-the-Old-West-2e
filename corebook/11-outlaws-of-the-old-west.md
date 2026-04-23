@@ -759,18 +759,7 @@ Use `Safe` when failure would be inconvenient but not immediately compromising. 
 
 #### Hidden Bad Luck
 
-Sometimes a job goes sour not because of one bad roll, but because the gang made several bad decisions and luck finally came to collect. This is a hidden GM-side check, not another thing for the players to manage.
-
-Consider a hidden bad-luck check only when at least two of the following are true in the same operation or immediate aftermath:
-
-- the gang already chose noise over caution
-- the gang already chose speed over concealment
-- the gang left a witness, captive, or wounded man unresolved
-- the gang pushed a key check and failed
-- the gang kept working after Trouble had already become serious
-- the gang trusted a weak contact or shaky refuge anyway
-
-If that pattern is there, the GM may introduce a hard delayed consequence: the wrong deputy is warned, a horse throws a shoe at the wrong hour, a captive talks too soon, a posse cuts the gang off at water, or a nervous fence decides to save his own neck. This should feel like compounded outlaw misjudgment catching up with the gang, not random punishment from nowhere.
+Scores are one of the clearest places to use the core `Hidden Bad Luck` rule from Chapter 3. Outlaw work often invites it after at least two bad gang decisions, especially when the gang keeps pushing on after visible Trouble has already started to rise.
 
 #### After the Score
 
