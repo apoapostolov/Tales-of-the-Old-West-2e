@@ -105,6 +105,26 @@ The case that the period's law could not handle was the wife who killed the husb
 
 ---
 
+## The Cold Stove
+
+> She had not spoken since the second week of March. The cow was unmilked and the children were eating cold biscuit and the wind was in the stove pipe. Halvor stood in the door with his hat in his hand and looked at her sitting where she had been sitting since first light.
+>
+> _“Inga,”_ he said.
+>
+> She did not look at him. She was looking at the corner where the broom stood, and her hands were folded in her lap, and the youngest child was on the floor at her feet pulling at the hem of her dress.
+>
+> _“Inga, the cow needs milking.”_
+>
+> She did not answer. The wind moved a loose board on the north side of the soddy and the sound came through the wall.
+>
+> Halvor went out and milked the cow himself. When he came back into the soddy with the bucket she had not moved. He set the bucket down on the table and stood with his hat still in his hand and looked at her for a long moment. Then he put the hat on the peg and built up the fire in the cold stove and put the kettle on and lifted the youngest child off the floor and onto his hip.
+>
+> “Come on, then,” he said to the older girl. “Help me with the supper.”
+>
+> The older girl, who was nine, came over to the stove. She did not look at her mother either. She had stopped looking at her mother three days before.
+
+---
+
 ## 8. Children
 
 The frontier child was at risk in ways the period understood and did not understand.
@@ -146,23 +166,3 @@ Practices that were entertainment or industry rather than necessity.
 - **The pit fights.** Bear-and-bull fights in the California ranchos and the early Anglo California of the 1840s and 1850s. A grizzly bear chained by a hind leg to a stake; a fighting bull released into the pit; the bull gored the bear or the bear killed the bull. Sometimes bear-and-dogs. Sometimes bull-and-dogs. The audience paid admission. The fights continued in California through the 1860s and persisted in Mexican rural areas into the 1880s. Cockfighting was universal across the West. Dogfighting was common in the cities. The audience was male, working class, and gambled.
 - **The systematic killing of horses.** The cavalry pursuit of a Native band on the southern Plains was understood by both sides as a contest of horseflesh. The pursuit ran the horses to death, killed and ate the dead horses, and continued on whatever horses could be commandeered. The 1874 Red River War destroyed the horse herds of the Comanche, Kiowa, and Cheyenne by deliberate slaughter — at Palo Duro alone the Army shot over a thousand captured ponies. The break of the Plains nations was in part the break of their horses.
 - **The buffalo slaughter.** The hide hunters of the 1870s killed an estimated fifteen million buffalo in a decade. The bones were collected afterward and shipped east for fertilizer. The plains were emptied as policy. The hunter knew what he was doing and was doing it for the money. The Native witness to the slaughter watched a continent emptied of the animal his people had lived on for ten generations. The white settler who saw the bones piled at the railhead said nothing.
-
----
-
-## Vignette — The Cold Stove
-
-> She had not spoken since the second week of March. The cow was unmilked and the children were eating cold biscuit and the wind was in the stove pipe. Halvor stood in the door with his hat in his hand and looked at her sitting where she had been sitting since first light.
->
-> _“Inga,”_ he said.
->
-> She did not look at him. She was looking at the corner where the broom stood, and her hands were folded in her lap, and the youngest child was on the floor at her feet pulling at the hem of her dress.
->
-> _“Inga, the cow needs milking.”_
->
-> She did not answer. The wind moved a loose board on the north side of the soddy and the sound came through the wall.
->
-> Halvor went out and milked the cow himself. When he came back into the soddy with the bucket she had not moved. He set the bucket down on the table and stood with his hat still in his hand and looked at her for a long moment. Then he put the hat on the peg and built up the fire in the cold stove and put the kettle on and lifted the youngest child off the floor and onto his hip.
->
-> “Come on, then,” he said to the older girl. “Help me with the supper.”
->
-> The older girl, who was nine, came over to the stove. She did not look at her mother either. She had stopped looking at her mother three days before.

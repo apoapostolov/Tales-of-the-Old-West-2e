@@ -125,6 +125,22 @@ Working homestead woman: linsey-woolsey or calico dress, apron, sunbonnet outdoo
 
 ---
 
+## At the Mercantile
+
+> Wesley came up the steps and the dog went to the corner of the porch and lay down and watched the street. Inside the door the air was the brown air of all such places — coffee in a barrel, kerosene, the thin sweet of the cured meat hanging from a hook in the back, the bitter at the bottom of it of the new harness oil on the leather.
+>
+> Mr. Pruitt was at the counter weighing nails into a paper for a man Wesley did not know. Wesley stood at the door and waited. The wall behind the counter held the goods on shelves to the ceiling — the tin cans labeled in red and black, the bolts of calico in five colors, the boxes of cartridges in their pasteboards, the bottles of patent medicine, the jars of penny candy. A pair of boots hung from the rafters by the laces. A Winchester leaned against the back wall with a tag tied to the trigger guard.
+>
+> Mr. Pruitt finished and the man took his nails and went out past Wesley without a word. Mr. Pruitt looked over and waited.
+>
+> “A pound of the green coffee,” Wesley said. “And a tin of the matches. And a box of the .44-40s if you have them.”
+>
+> Mr. Pruitt turned to the shelf for the cartridges. “On account?”
+>
+> “Cash,” Wesley said, and laid two coins on the counter.
+
+---
+
 ## 5. Tools
 
 ### The cowhand's tools beyond the gun
@@ -190,19 +206,3 @@ The **chuckwagon** is gray-weathered, the iron tires worn thin, the box battered
 The **bunkhouse** smells of unwashed wool, leather, sweat, tobacco, coal-oil, the boot-grease in a dish on the table, the sourdough starter bubbling in its jar.
 
 These are the textures the prose puts on the page and the table.
-
----
-
-## Vignette — At the Mercantile
-
-> Wesley came up the steps and the dog went to the corner of the porch and lay down and watched the street. Inside the door the air was the brown air of all such places — coffee in a barrel, kerosene, the thin sweet of the cured meat hanging from a hook in the back, the bitter at the bottom of it of the new harness oil on the leather.
->
-> Mr. Pruitt was at the counter weighing nails into a paper for a man Wesley did not know. Wesley stood at the door and waited. The wall behind the counter held the goods on shelves to the ceiling — the tin cans labeled in red and black, the bolts of calico in five colors, the boxes of cartridges in their pasteboards, the bottles of patent medicine, the jars of penny candy. A pair of boots hung from the rafters by the laces. A Winchester leaned against the back wall with a tag tied to the trigger guard.
->
-> Mr. Pruitt finished and the man took his nails and went out past Wesley without a word. Mr. Pruitt looked over and waited.
->
-> “A pound of the green coffee,” Wesley said. “And a tin of the matches. And a box of the .44-40s if you have them.”
->
-> Mr. Pruitt turned to the shelf for the cartridges. “On account?”
->
-> “Cash,” Wesley said, and laid two coins on the counter.

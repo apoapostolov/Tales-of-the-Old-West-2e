@@ -58,6 +58,12 @@ The parlor house at the upper end (San Francisco, Denver, Leadville at its peak,
 
 ---
 
+## Second Watch
+
+> Pruitt was on second watch and had been singing “Streets of Laredo” for an hour when he ran out of verses he knew and started over. The herd was bedded along the dry wash and was not going to bolt. He sang the verses in the same low voice he had heard his uncle sing them in Lampasas in the year his mother died. The fiddler at the wagon had quit at supper and was asleep under the wagon. The other men were asleep where they had thrown their rolls. Pruitt rode the slow circle around the herd and sang the verse about the boy who had been shot in the breast and was dying.
+
+---
+
 ## 4. Immigrant Musical Communities
 
 The German singing society — the Liederkranz, the Sängerbund, the Turnverein — was a fixture of the German communities of San Antonio, New Braunfels, Fredericksburg, Denver, St. Louis, Davenport, Milwaukee. The society met weekly for choral rehearsal, performed at concerts and festivals, held an annual Sängerfest with neighboring societies. The repertoire was German part-songs, operatic choruses, the patriotic German repertoire. The Turnverein (turners' society) added physical culture to the music. The combined institution provided the German immigrant community with choir, gymnasium, social hall, lecture room, and beer garden under one roof.
@@ -181,9 +187,3 @@ The dime novel was the boy's reading and the working-class adult's reading. It w
 - **The medicine show.** The proprietor's voice carrying down the street. The banjo and the bones. The smell of the lamplight and the crowd. The kerosene-and-reflector lamps on poles around the platform. The bottle held up in the proprietor's hand and the lamplight catching it.
 - **The opera house.** The orchestra tuning. The murmur of the audience. The smell of the gaslight (where there was gas service) or the kerosene (where there was not) and the perfume of the women in the boxes. The gas footlights or the kerosene chimney lamps along the front of the stage. The curtain. The first hush as the curtain rises.
 - **The circus.** The calliope from a quarter mile off. The drum and the horn of the band wagon. The roar of the animals from the menagerie tent. The smell of the elephants and the cooking grease and the sawdust and the canvas. The kerosene flares around the tent's perimeter at night. The crowd's faces upturned to the high wire.
-
----
-
-## Vignette — Second Watch
-
-> Pruitt was on second watch and had been singing “Streets of Laredo” for an hour when he ran out of verses he knew and started over. The herd was bedded along the dry wash and was not going to bolt. He sang the verses in the same low voice he had heard his uncle sing them in Lampasas in the year his mother died. The fiddler at the wagon had quit at supper and was asleep under the wagon. The other men were asleep where they had thrown their rolls. Pruitt rode the slow circle around the herd and sang the verse about the boy who had been shot in the breast and was dying.

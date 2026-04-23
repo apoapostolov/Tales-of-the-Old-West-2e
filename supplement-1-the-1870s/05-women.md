@@ -58,6 +58,18 @@ Read for voice: Hamlin Garland's Mary in _Boy Life on the Prairie_ and the women
 
 ---
 
+## Eliza on Wash Day
+
+> Eliza had the boiler going at six o'clock and the first load of the men's shirts in the soak. The kitchen was already hot from the stove. She moved the kettle to the back burner and went out to the well for the second draw of the morning.
+>
+> The wind was up. It would be a good day to dry but it would also blow dust into everything she hung out. She would have to take the things in early and shake them and hang them again, or wash them a second time tomorrow.
+>
+> She brought the bucket back and filled the washtub. Her arms were already tired and the day had not started. She thought of her mother's kitchen in Ohio with the inside pump and the brick floor and she pushed the thought down because it did her no good.
+>
+> The first shirt came out of the soak and went on the washboard. She bent over it and worked the brush. The lye soap stung the skin of her hands where it had cracked from yesterday's wash. She heard one of the children crying in the back room and she did not stop.
+
+---
+
 ## 2. The Ranch Wife
 
 The wife of a cattleman or rancher. Her life was similar to the homestead woman's but with specific differences.
@@ -89,6 +101,22 @@ The town woman still did the principal household work but with more conveniences
 Church and church societies — the Methodist Ladies' Aid, the Catholic Altar Society, the Presbyterian missionary society — were the woman's social and political organizations. The Woman's Christian Temperance Union, founded in 1874, was a major women's organization of the period, organized in many towns by the late 1870s; temperance was the woman's political platform. The 1870s saw the woman's suffrage movement gathering force in the West: Wyoming Territory granted woman suffrage in 1869, Utah in 1870, Washington Territory in 1883 (revoked 1887, restored at statehood). Many western towns had local suffrage societies. Reading and study clubs, mutual education societies among women, met to discuss literature, history, and current events. Charity — care of the sick and poor, organizing relief in disasters — was largely women's work; the town's practical social services depended on it. Cultural life — lectures, music, amateur theater — was likewise organized and attended principally by women.
 
 The town woman's experience is preserved in the period's substantial woman's literature: novels, sketches, memoirs. Read Mary Hallock Foote (an Eastern artist married to a mining engineer; her memoir _A Victorian Gentlewoman in the Far West_ is an essential western document); Caroline Lockhart (a Western newspaperwoman and novelist of a slightly later period, but capturing the town woman's voice); Helen Hunt Jackson (whose _Ramona_ is one of the major western novels of the period and whose _A Century of Dishonor_ is the major Native-rights polemic of the period).
+
+---
+
+## Mrs. Whittaker in the Parlor
+
+> Mrs. Whittaker came down from her bedroom at six and the kitchen stove was already going because Lottie had laid the fire at five-thirty as instructed. The coffee was on. Mrs. Whittaker poured a cup and stood at the window looking out at the morning.
+>
+> The street was empty. The lamps had been put out an hour ago by Old Tom on his rounds. The light on the mountains east of town was the new color of late May.
+>
+> She had two letters to write before breakfast. The first to her sister in St. Louis about the shipment of curtain material, which had not arrived and which she was sure had been mishandled by the railroad. The second to the Reverend Sayres about the Ladies' Aid resolution to fund the new bell. She had drafted the resolution last evening and wanted his approval before the meeting on Thursday.
+>
+> Lottie came in from the back porch with the eggs for breakfast. “Six this morning, ma'am.”
+>
+> “Thank you, Lottie. Mr. Whittaker will be down in half an hour.”
+>
+> She went to the secretary in the parlor and took down the inkstand and the writing paper and began her first letter.
 
 ---
 
@@ -136,41 +164,7 @@ Reading: Quintard Taylor, _In Search of the Racial Frontier_; Glenda Riley, _The
 
 ---
 
-## 8. Chinese Women in the West
-
-A small population in the 1870s. Chinese male laborers came in numbers; Chinese women were rare because of immigration restrictions, cost of passage, and Chinese cultural patterns. The Chinese women who came were predominantly wives of merchants — a small class, lived in Chinatown houses, often kept secluded in the Chinese tradition — and prostitutes. A substantial fraction of Chinese women in the West were trafficked into prostitution by criminal organizations. Their stories are documented in the records of the Presbyterian mission rescue work in San Francisco (Donaldina Cameron's mission, beginning in the 1890s, past our period but the conditions were established).
-
-The Chinese woman in the 1870s West is rarer than the Chinese man and almost completely absent from the canon. A respectful rendering would begin with the historical and not with the fantasy.
-
----
-
-## Vignette — Eliza on Wash Day
-
-> Eliza had the boiler going at six o'clock and the first load of the men's shirts in the soak. The kitchen was already hot from the stove. She moved the kettle to the back burner and went out to the well for the second draw of the morning.
->
-> The wind was up. It would be a good day to dry but it would also blow dust into everything she hung out. She would have to take the things in early and shake them and hang them again, or wash them a second time tomorrow.
->
-> She brought the bucket back and filled the washtub. Her arms were already tired and the day had not started. She thought of her mother's kitchen in Ohio with the inside pump and the brick floor and she pushed the thought down because it did her no good.
->
-> The first shirt came out of the soak and went on the washboard. She bent over it and worked the brush. The lye soap stung the skin of her hands where it had cracked from yesterday's wash. She heard one of the children crying in the back room and she did not stop.
-
-## Vignette — Mrs. Whittaker in the Parlor
-
-> Mrs. Whittaker came down from her bedroom at six and the kitchen stove was already going because Lottie had laid the fire at five-thirty as instructed. The coffee was on. Mrs. Whittaker poured a cup and stood at the window looking out at the morning.
->
-> The street was empty. The lamps had been put out an hour ago by Old Tom on his rounds. The light on the mountains east of town was the new color of late May.
->
-> She had two letters to write before breakfast. The first to her sister in St. Louis about the shipment of curtain material, which had not arrived and which she was sure had been mishandled by the railroad. The second to the Reverend Sayres about the Ladies' Aid resolution to fund the new bell. She had drafted the resolution last evening and wanted his approval before the meeting on Thursday.
->
-> Lottie came in from the back porch with the eggs for breakfast. “Six this morning, ma'am.”
->
-> “Thank you, Lottie. Mr. Whittaker will be down in half an hour.”
->
-> She went to the secretary in the parlor and took down the inkstand and the writing paper and began her first letter.
-
----
-
-## Vignette — Eliza and the Letter
+## Eliza and the Letter
 
 > The clock in the parlor struck three and Eliza put down her sewing and went to the window. The street was empty. She had been expecting Mrs. Wheeler at half-past two and Mrs. Wheeler had not come. She stood at the window for a minute and then went back to the chair and took up the sewing again.
 >
@@ -181,3 +175,11 @@ The Chinese woman in the 1870s West is rarer than the Chinese man and almost com
 > She had been four years in this house and she had not been back. The street outside the window was the street she knew. The clock she had wound this morning. The kitchen behind her she had cooked in two thousand times. The man who would come in at six was the man she had married before she was twenty. To go East would be to leave all that for a winter and to come back to it at thaw, and she did not know whether she would come back the same.
 >
 > She set the needle in the cushion and folded the muslin and went to the writing desk to begin the letter to her sister. She did not know what the letter would say.
+
+---
+
+## 8. Chinese Women in the West
+
+A small population in the 1870s. Chinese male laborers came in numbers; Chinese women were rare because of immigration restrictions, cost of passage, and Chinese cultural patterns. The Chinese women who came were predominantly wives of merchants — a small class, lived in Chinatown houses, often kept secluded in the Chinese tradition — and prostitutes. A substantial fraction of Chinese women in the West were trafficked into prostitution by criminal organizations. Their stories are documented in the records of the Presbyterian mission rescue work in San Francisco (Donaldina Cameron's mission, beginning in the 1890s, past our period but the conditions were established).
+
+The Chinese woman in the 1870s West is rarer than the Chinese man and almost completely absent from the canon. A respectful rendering would begin with the historical and not with the fantasy.

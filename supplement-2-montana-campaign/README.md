@@ -11,6 +11,7 @@ The intent is to mirror the practical usability of [corebook/09-the-new-mexico-c
 
 ## Directory Layout
 
+- [book-content/](/mnt/c/git-public/Tales-of-the-Old-West-2e/supplement-2-montana-campaign/book-content): final manuscript chapters for the supplement
 - [todo.md](/mnt/c/git-public/Tales-of-the-Old-West-2e/supplement-2-montana-campaign/todo.md): master product plan and prompt backlog
 - [research/00-source-notes.md](/mnt/c/git-public/Tales-of-the-Old-West-2e/supplement-2-montana-campaign/research/00-source-notes.md): source and evidence notes
 - [villages/](/mnt/c/git-public/Tales-of-the-Old-West-2e/supplement-2-montana-campaign/villages): settlement template, index, and individual town files
@@ -20,6 +21,7 @@ The intent is to mirror the practical usability of [corebook/09-the-new-mexico-c
 ## Current Assumptions
 
 - This is a planning-first scaffold, not the finished supplement text.
+- Final book prose belongs under `book-content/`.
 - Settlement files use the New Mexico chapter's campaign-town rhythm:
   overview, power map, adventure seeds, standalone tales, and notable people.
 - Each Montana settlement file adds a statblock and a geology-resource note before the story material.

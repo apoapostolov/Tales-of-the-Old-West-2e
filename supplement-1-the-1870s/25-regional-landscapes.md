@@ -64,6 +64,12 @@ Hot summers (over a hundred routine in July and August). Mild winters with occas
 
 ---
 
+## East of the Pecos
+
+> The country east of the Pecos lay flat and pale to a horizon that did not seem to come any closer for the riding. A man could see a mounted figure ten miles off and not know whether it was an hour away or four. There was no shade. There was no water for thirty miles in any direction the riders cared to name. A coyote had crossed their track in the night. They saw its prints in the morning, fresh, going south.
+
+---
+
 ## 4. The Rocky Mountain West — Colorado, Wyoming, Idaho, Montana
 
 The high country of the Rocky Mountains and their basins. Mining country (Colorado's silver, Idaho's gold). Cattle country in the foothills and the intermountain basins. Aspen and pine and granite.
@@ -151,9 +157,3 @@ Wind in the sage — the basin's constant. The pinyon jay's call in the foothill
 - **Pacific Northwest:** the wet west, the dry east, Douglas fir and salmon and rain.
 - **California:** valley, Sierra, coast, the redwoods, the dry summers and wet winters.
 - **Great Basin:** sage, basin and range, the salt flats, the bristlecone pines.
-
----
-
-## Vignette — East of the Pecos
-
-> The country east of the Pecos lay flat and pale to a horizon that did not seem to come any closer for the riding. A man could see a mounted figure ten miles off and not know whether it was an hour away or four. There was no shade. There was no water for thirty miles in any direction the riders cared to name. A coyote had crossed their track in the night. They saw its prints in the morning, fresh, going south.

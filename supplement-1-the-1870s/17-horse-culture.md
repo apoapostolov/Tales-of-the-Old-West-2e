@@ -135,6 +135,40 @@ The horse trader's pitch was the period's characteristic salesmanship. _A four-y
 
 ---
 
+## The Horse Trade
+
+> The trader had four head in the corral when Colter rode up. Colter looked them over from the saddle for a minute and then climbed down and tied his own horse to the rail.
+>
+> “What you got?”
+>
+> “Three saddle horses and a pack mule. The bay mare is six years old, sound as a dollar, broken to anything you want her broken to. The sorrel gelding's eight, pretty good cow horse, been on two trail drives. The little dun is green-broke, only five, but he'll make somebody a hand. The mule's old, fifteen years, but he'll pack two hundred pounds all day.”
+>
+> Colter went into the corral. He went to the bay first and ran his hand down her near foreleg and picked up the foot and looked at it. He set the foot down and walked around her and ran his hand down each leg in turn. He stood at her shoulder and pulled her lips back and looked at her teeth.
+>
+> “Six?” he said.
+>
+> “Six this spring.”
+>
+> “She's eight.”
+>
+> “Well. Maybe seven.”
+>
+> “Eight. The cups are gone out of these incisors.”
+>
+> The trader did not argue further. Colter went to the sorrel and mouthed him too and then put a halter on him and led him out into the open and jogged him in a circle. The sorrel was sound. The dun he handled briefly and passed by; he did not want a green horse. The mule he checked the feet and the back.
+>
+> “Forty for the bay,” he said. “Sixty-five for the sorrel. Twenty for the mule. I'll give you a hundred and twenty-five for the three.”
+>
+> “A hundred and fifty.”
+>
+> “A hundred and thirty.”
+>
+> “A hundred and forty.”
+>
+> Colter took out his wallet and counted out a hundred and forty dollars in greenbacks and laid them on the corral rail.
+
+---
+
 ## 7. Equipment Beyond the Basics
 
 Chapter 15 covers the saddle, the bit, and the basic gear. This section expands on equipment with cultural and regional dimensions.
@@ -199,37 +233,3 @@ Render the horseman through his vocabulary. The specific terms carry the period.
 - **Bunch up** is a horse drawing his legs together and rounding his back, often as a prelude to bucking. **Crow-hop** is a mild buck — the horse hopping with all four legs, not violently. **Sun-fish** is a serious buck — the horse twisting the body in mid-air, presenting the belly to the sun; a sun-fishing horse threw most riders. **Rear** is the horse standing on his hind legs, dangerous; a rearing horse can fall over backwards on the rider. **Bog down** is a horse trapped in mud or a bog. **Founder** is laminitis, a severe inflammation of the horse's feet, often from overfeeding or overwork. **Galled** is a horse with sore patches under the saddle or harness from rubbing. **Pulled up lame** is a horse that became lame on the trail and could not continue at speed. **Saddle-sore** is either the rider after long riding, or the horse with sore patches. **Throw a shoe** is a horseshoe coming off in the field — a horse without a shoe might quickly become lame on stony ground.
 
 These terms came to the horseman's mouth naturally and gave the period its weight.
-
----
-
-## Vignette — The Horse Trade
-
-> The trader had four head in the corral when Colter rode up. Colter looked them over from the saddle for a minute and then climbed down and tied his own horse to the rail.
->
-> “What you got?”
->
-> “Three saddle horses and a pack mule. The bay mare is six years old, sound as a dollar, broken to anything you want her broken to. The sorrel gelding's eight, pretty good cow horse, been on two trail drives. The little dun is green-broke, only five, but he'll make somebody a hand. The mule's old, fifteen years, but he'll pack two hundred pounds all day.”
->
-> Colter went into the corral. He went to the bay first and ran his hand down her near foreleg and picked up the foot and looked at it. He set the foot down and walked around her and ran his hand down each leg in turn. He stood at her shoulder and pulled her lips back and looked at her teeth.
->
-> “Six?” he said.
->
-> “Six this spring.”
->
-> “She's eight.”
->
-> “Well. Maybe seven.”
->
-> “Eight. The cups are gone out of these incisors.”
->
-> The trader did not argue further. Colter went to the sorrel and mouthed him too and then put a halter on him and led him out into the open and jogged him in a circle. The sorrel was sound. The dun he handled briefly and passed by; he did not want a green horse. The mule he checked the feet and the back.
->
-> “Forty for the bay,” he said. “Sixty-five for the sorrel. Twenty for the mule. I'll give you a hundred and twenty-five for the three.”
->
-> “A hundred and fifty.”
->
-> “A hundred and thirty.”
->
-> “A hundred and forty.”
->
-> Colter took out his wallet and counted out a hundred and forty dollars in greenbacks and laid them on the corral rail.

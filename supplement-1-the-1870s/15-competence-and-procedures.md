@@ -81,6 +81,12 @@ Snub him. Saddle him by force. Bridle him. Hold him while the rider mounts. Turn
 
 ---
 
+## Saddling at First Light
+
+> The bay was the third one Bowman called out of the remuda and the bay knew it. Bowman walked in slow with the loop down at his side and threw it when the bay was broadside. The bay pulled once and gave it up. Bowman worked the loop up the neck and slipped the bridle on while the bay was still figuring whether to bother. He led him out. He laid the blanket smooth and set the saddle on and slid it back into the seat. He pulled the cinch through the latigo and drew it up to where it would go and waited. The bay puffed. Bowman watched the line of the horizon east where the sun was about to come over and the bay let his breath out and Bowman drew the cinch the rest of the way and tied it off. He swung up. The first cold cup of the morning was still in his hand from the cook's fire and he drank what was left of it and threw the grounds. He turned the bay south where Henderson had said to be at sunup and they went.
+
+---
+
 ## 3. Cattle Work
 
 ### The branding
@@ -206,6 +212,20 @@ For the beef: knock the steer with a hammer between the eyes. Cut the throat. Bl
 
 ---
 
+## Caught in the Open
+
+> The blizzard came on at noon. By two o'clock he could not see the bay's head past the saddle horn. He turned the bay's tail to the wind and let him walk.
+>
+> An hour of that and the bay stopped. There was a low place off to the right. He could not see it but the bay had found it. He got down. The wind took him sideways and he went to one knee in the snow and got up.
+>
+> He led the bay into the lee of the bank and worked the saddle off and got the blanket and the slicker and the bedroll. He set the saddle for a windbreak and dug the snow out behind it down to the grass. The bay stood with his head down. He looped the rein over a stub of brush and made it fast and pulled the bay around so the bay was the second wall of the windbreak.
+>
+> No fire. There was nothing to burn and he could not have kept a match alight. He sat down between the saddle and the bay with the blanket over him and the slicker over the blanket and pulled the bay's head close. The bay blew warm into his neck and his hat. He pulled the brim down.
+>
+> The night was a long time coming. When it came he could not tell.
+
+---
+
 ## 6. Firearms
 
 ### Loading a percussion revolver (Colt 1851 / 1860, Remington 1858)
@@ -310,23 +330,3 @@ The scene that uses it: _He laid the blanket smooth, set the saddle on, pulled t
 The scene is the procedure plus the character plus the country plus the small refusal of the horse plus the look at the horizon. None of it is wasted. All of it is the man saddling his horse for the work of the day.
 
 Read the procedures. Write the work.
-
----
-
-## Vignette — Saddling at First Light
-
-> The bay was the third one Bowman called out of the remuda and the bay knew it. Bowman walked in slow with the loop down at his side and threw it when the bay was broadside. The bay pulled once and gave it up. Bowman worked the loop up the neck and slipped the bridle on while the bay was still figuring whether to bother. He led him out. He laid the blanket smooth and set the saddle on and slid it back into the seat. He pulled the cinch through the latigo and drew it up to where it would go and waited. The bay puffed. Bowman watched the line of the horizon east where the sun was about to come over and the bay let his breath out and Bowman drew the cinch the rest of the way and tied it off. He swung up. The first cold cup of the morning was still in his hand from the cook's fire and he drank what was left of it and threw the grounds. He turned the bay south where Henderson had said to be at sunup and they went.
-
----
-
-## Vignette — Caught in the Open
-
-> The blizzard came on at noon. By two o'clock he could not see the bay's head past the saddle horn. He turned the bay's tail to the wind and let him walk.
->
-> An hour of that and the bay stopped. There was a low place off to the right. He could not see it but the bay had found it. He got down. The wind took him sideways and he went to one knee in the snow and got up.
->
-> He led the bay into the lee of the bank and worked the saddle off and got the blanket and the slicker and the bedroll. He set the saddle for a windbreak and dug the snow out behind it down to the grass. The bay stood with his head down. He looped the rein over a stub of brush and made it fast and pulled the bay around so the bay was the second wall of the windbreak.
->
-> No fire. There was nothing to burn and he could not have kept a match alight. He sat down between the saddle and the bay with the blanket over him and the slicker over the blanket and pulled the bay's head close. The bay blew warm into his neck and his hat. He pulled the brim down.
->
-> The night was a long time coming. When it came he could not tell.

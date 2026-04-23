@@ -161,6 +161,12 @@ A cowhand returning from a drive with a hundred dollars could spend it all in te
 
 ---
 
+## Saturday Night in Front Street
+
+> The piano in the Long Branch was working over a tune nobody could place. The cowhands from the Slaughter outfit had come into town that afternoon, their horses tied three deep at the rail, and were down to silver dollars and shouting. Wyatt walked the boardwalk on the north side with the eight-pointed star on his vest and a sawed-off Belgian gun under his arm. The deadline ran along the tracks. The boys knew the deadline. None of them had crossed. One of them — Cleveland, the youngest, no older than seventeen — was in the alley between the saloon and the dance hall with a girl named May, and his pay for four months on the trail was in May's silk garter inside half an hour. Wyatt did not look down the alley. The piano kept on. The night went forward. A pistol shot from the south side a little after midnight; nobody dead, somebody's hat ruined. Wyatt walked back the other way and the lamps in the front windows of the saloons threw long yellow blocks on the dust of the street.
+
+---
+
 ## 5. The Court
 
 The justice of the peace was the local elected magistrate. He heard small civil cases and minor criminal matters, could marry people, swore out warrants, fined drunks. He did not need legal training in most jurisdictions. The police court or mayor's court heard ordinance violations in town. The county or district court heard the major cases — often a circuit judge who rode a circuit of several counties, holding court in each in season.
@@ -199,9 +205,3 @@ This reality is missed in the screen-cowboy western. The cattle baron in the pag
 - **Sight.** Mud or dust in the streets, depending on weather. False-front frame buildings with the storefront one story taller than the building behind. Boardwalks with hitching rails out front. Tied horses. Loose dogs. Children. Few trees in most western towns; planted ones were a status symbol.
 
 A town scene with two or three of these on the page reads true. A town scene with none reads like a movie set, which is what too many published westerns settle for.
-
----
-
-## Vignette — Saturday Night in Front Street
-
-> The piano in the Long Branch was working over a tune nobody could place. The cowhands from the Slaughter outfit had come into town that afternoon, their horses tied three deep at the rail, and were down to silver dollars and shouting. Wyatt walked the boardwalk on the north side with the eight-pointed star on his vest and a sawed-off Belgian gun under his arm. The deadline ran along the tracks. The boys knew the deadline. None of them had crossed. One of them — Cleveland, the youngest, no older than seventeen — was in the alley between the saloon and the dance hall with a girl named May, and his pay for four months on the trail was in May's silk garter inside half an hour. Wyatt did not look down the alley. The piano kept on. The night went forward. A pistol shot from the south side a little after midnight; nobody dead, somebody's hat ruined. Wyatt walked back the other way and the lamps in the front windows of the saloons threw long yellow blocks on the dust of the street.

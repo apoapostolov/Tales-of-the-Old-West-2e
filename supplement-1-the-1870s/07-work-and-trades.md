@@ -30,6 +30,18 @@ The sheepherder's life was solitary. A man and a dog and a wagon followed severa
 
 ---
 
+## Branding at the Spring Roundup
+
+> They had the calf down on its left side and Tomás had its head and Roy had its heels and Wesley brought the iron from the fire. The iron was bright orange at the brand and dulling already in the morning air. Wesley set it square and the calf bawled and the smoke came up between his hands and through his fingers and the smell of burnt hair was in his mouth like a coin.
+>
+> “Off,” Tomás said.
+>
+> Wesley lifted the iron and turned it and looked at the brand and put the iron back in the fire. Roy took up the knife and bent and cut the ear and let the calf up. The calf went a few steps and stood and shook its head and its mother was already coming through the herd to it bawling.
+>
+> Wesley stood and wiped his forearm across his face and his sleeve came away black. He took up the next iron from the fire and turned to look at the next calf they were dragging in.
+
+---
+
 ## 2. Mining
 
 ### Placer mining
@@ -110,6 +122,34 @@ A character who claims to be a tracker should be shown doing the work in concret
 
 ---
 
+## The Dude at the Chuckwagon
+
+> The dude rode into the camp with his linen suit only moderately wrinkled and his hat brim still flat and he dismounted in front of the chuckwagon and tied his horse to the wagon wheel. The cook was at the stove with his back turned.
+>
+> “Good evening,” the dude said. “I am told this is the Henderson outfit.”
+>
+> “It might be.”
+>
+> “Mr. Henderson is here?”
+>
+> “Mr. Henderson is up at the herd. He will be down at supper. What is your business, mister?”
+>
+> “I have come from St. Louis on behalf of the Beef Trust to inquire about the contract for the autumn shipment.”
+>
+> “On behalf of the what.”
+>
+> “The Beef Trust.”
+>
+> “I have not heard of it.”
+>
+> “It is a consortium of the principal beef buyers of the Mississippi Valley.”
+>
+> “Well. There is the coffee pot. The cup is the one with the handle. We do not have any other kind. The biscuits in the dutch oven you can have one of if you keep your hands clean. Mr. Henderson will be down within the hour and he can take care of your trust for you.”
+>
+> The dude considered the cook's back for a moment and then went to the coffee pot and poured himself a cup with care and stood holding the cup in both hands as if he were not sure what to do with it.
+
+---
+
 ## 7. Scouting
 
 For the Army or for a wagon train. The job: find water and grass; find the enemy or the route; carry messages; interpret the country.
@@ -184,43 +224,3 @@ Brief notes — each could fill a chapter.
 - **Domestic servant.** Often immigrant or Black or Native woman.
 - **Soldier.** Thirteen dollars a month for a private. Three-year enlistment. Hard discipline, monotonous garrison life punctuated by campaigns. Heavy drinking, frequent desertion (a quarter to a third of enlistments deserted before the term was up). See Chapter 19.
 - **Cowboy.** See Chapter 16.
-
----
-
-## Vignette — Branding at the Spring Roundup
-
-> They had the calf down on its left side and Tomás had its head and Roy had its heels and Wesley brought the iron from the fire. The iron was bright orange at the brand and dulling already in the morning air. Wesley set it square and the calf bawled and the smoke came up between his hands and through his fingers and the smell of burnt hair was in his mouth like a coin.
->
-> “Off,” Tomás said.
->
-> Wesley lifted the iron and turned it and looked at the brand and put the iron back in the fire. Roy took up the knife and bent and cut the ear and let the calf up. The calf went a few steps and stood and shook its head and its mother was already coming through the herd to it bawling.
->
-> Wesley stood and wiped his forearm across his face and his sleeve came away black. He took up the next iron from the fire and turned to look at the next calf they were dragging in.
-
----
-
-## Vignette — The Dude at the Chuckwagon
-
-> The dude rode into the camp with his linen suit only moderately wrinkled and his hat brim still flat and he dismounted in front of the chuckwagon and tied his horse to the wagon wheel. The cook was at the stove with his back turned.
->
-> “Good evening,” the dude said. “I am told this is the Henderson outfit.”
->
-> “It might be.”
->
-> “Mr. Henderson is here?”
->
-> “Mr. Henderson is up at the herd. He will be down at supper. What is your business, mister?”
->
-> “I have come from St. Louis on behalf of the Beef Trust to inquire about the contract for the autumn shipment.”
->
-> “On behalf of the what.”
->
-> “The Beef Trust.”
->
-> “I have not heard of it.”
->
-> “It is a consortium of the principal beef buyers of the Mississippi Valley.”
->
-> “Well. There is the coffee pot. The cup is the one with the handle. We do not have any other kind. The biscuits in the dutch oven you can have one of if you keep your hands clean. Mr. Henderson will be down within the hour and he can take care of your trust for you.”
->
-> The dude considered the cook's back for a moment and then went to the coffee pot and poured himself a cup with care and stood holding the cup in both hands as if he were not sure what to do with it.

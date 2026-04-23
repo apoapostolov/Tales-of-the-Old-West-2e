@@ -83,6 +83,34 @@ A Chinese man on this country lived in a country whose laws and customs were arr
 
 ---
 
+## Two Voices in a Saloon
+
+> “You ride for him?”
+>
+> “I do.”
+>
+> “You been with him long?”
+>
+> “Long enough.”
+>
+> The bartender set the bottle down between them. The man on the right side of the bar took the bottle by the neck and poured for himself and set it back. He did not pour for the other man.
+>
+> “I knew his brother,” he said.
+>
+> “Did you.”
+>
+> “In Brownsville. Year before last.”
+>
+> “Then you know more about him than I do.”
+>
+> The man on the left took the bottle and poured. He filled the glass past the line a careful drinker would have stopped at and he watched the other man's face while he did it. The other man did not look up.
+>
+> “I am not looking for anything,” the first man said.
+>
+> “No man is, until he finds it.”
+
+---
+
 ## 5. The Native Nations
 
 Not _Indians_ as a single people. Hundreds of nations across the West, each with its own language, government, religion, law, economy. A few of the major ones a traveler in the West would have encountered are described here. They are presented region by region.
@@ -230,31 +258,3 @@ The mistake is to write or to play the West as a costume drama in which contempo
 Every character carries a specific history. A Comanche in 1875 has just lost his world. A Tejano in 1875 has watched his family's land grant pass into Anglo hands by lawyer's papers he could not read. A Black freedman in 1875 has lived through slavery and the war. A Mormon in 1875 has been driven across half a continent and now watches the Federal government move to prosecute his marriages. An Irish soldier in 1875 has crossed the ocean from a famine country. A Chinese laborer in 1875 has buried friends in the Sierra snowdrifts and is months from a mob's torches.
 
 Write each of them, and play each of them, as the carrier of his own history. The West gets larger and stranger and truer as you do.
-
----
-
-## Vignette — Two Voices in a Saloon
-
-> “You ride for him?”
->
-> “I do.”
->
-> “You been with him long?”
->
-> “Long enough.”
->
-> The bartender set the bottle down between them. The man on the right side of the bar took the bottle by the neck and poured for himself and set it back. He did not pour for the other man.
->
-> “I knew his brother,” he said.
->
-> “Did you.”
->
-> “In Brownsville. Year before last.”
->
-> “Then you know more about him than I do.”
->
-> The man on the left took the bottle and poured. He filled the glass past the line a careful drinker would have stopped at and he watched the other man's face while he did it. The other man did not look up.
->
-> “I am not looking for anything,” the first man said.
->
-> “No man is, until he finds it.”

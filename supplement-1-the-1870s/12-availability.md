@@ -116,6 +116,12 @@ The telephone is _no._ Patent 1876. New Haven exchange 1878. Reaches the Western
 
 ---
 
+## The Wrong Decade
+
+> The new hand at the bunkhouse pulled a metal cylinder from his pocket and thumbed a switch and a white beam fell across the floor. The boys looked at it. Charlie set down his coffee. “Where in the name of God,” he said, “did you get that.” The new hand looked at the thing in his hand and looked at Charlie and his face went the color of his shirt. The wind went out of the room. He put the thing back in his pocket and did not take it out again that winter and the boys did not speak of it but they did not forget it either, and when he drew his pay in the spring nobody was sorry to see him ride out.
+
+---
+
 ## 6. Food and Drink — What Is on the Table
 
 The cattle-country breakfast for a working cowman runs to coffee (Arbuckles', boiled, strong); a sourdough biscuit or hardtack; bacon or salt pork; beans warmed over from the night before; sometimes eggs in settled country where chickens are kept; sometimes beef.
@@ -211,9 +217,3 @@ The zipper — patented 1893, widespread post-1920; no zipper in 1870s clothing.
 The cowboy hat with the _ten-gallon_ shape — the high-crown white cowboy hat is a twentieth-century rodeo and movie shape; the 1870s working hat is a _Boss of the Plains_ Stetson, flat-crowned, modest brim, practical. The cowboy quick-drawing from a low-slung holster — the low-slung tied-down holster is a twentieth-century movie invention; period holsters ride high on the belt and the pistol comes out by lifting up and forward, not by dropping the hand to the thigh. The pearl-handled six-shooter — existed but rare; the standard SAA grip is walnut, with pearl, ivory, and mother-of-pearl grips the gambler's or the showman's affectation.
 
 The cowboy with mirrored sunglasses — sunglasses for general wear arrive in the early twentieth century; eye protection in 1875 is a hat brim and a bandanna (tinted glasses for medical use existed; Sam Colt wore tinted spectacles). The cowboy with a chrome belt buckle and a tooled belt — heavy show buckles are twentieth-century rodeo; the 1870s working cowboy's belt is plain leather, a simple brass or steel buckle, two inches wide. The cowboy listening to country music on the radio — radio is twentieth century; _singing_ is the music of the trail, by men around a fire and by riders on night-herd. The whiskey served on the rocks — ice in a glass of whiskey is rare in the 1870s saloon; whiskey is served neat or with water (and sometimes sugar — a _toddy_), and ice in the saloon is for the beer keg in the back.
-
----
-
-## Vignette — The Wrong Decade
-
-> The new hand at the bunkhouse pulled a metal cylinder from his pocket and thumbed a switch and a white beam fell across the floor. The boys looked at it. Charlie set down his coffee. “Where in the name of God,” he said, “did you get that.” The new hand looked at the thing in his hand and looked at Charlie and his face went the color of his shirt. The wind went out of the room. He put the thing back in his pocket and did not take it out again that winter and the boys did not speak of it but they did not forget it either, and when he drew his pay in the spring nobody was sorry to see him ride out.

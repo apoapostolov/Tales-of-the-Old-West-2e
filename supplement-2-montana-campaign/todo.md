@@ -13,7 +13,7 @@ This document is the master plan for building a massive sandbox campaign supplem
 
 ## Product Spine
 
-- [ ] Write territory introduction and scope statement
+- [x] Write territory introduction and scope statement
 - [ ] Write brief history of Montana Territory to January 1873
 - [ ] Write landscape chapter summary for western valleys, mining belt, Missouri corridor, and northern/eastern plains
 - [ ] Define the central sandbox proposition for the whole book

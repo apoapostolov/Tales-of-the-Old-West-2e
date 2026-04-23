@@ -151,6 +151,12 @@ The household with books had a Bible, a McGuffey Reader or two, a hymnal, someti
 
 ---
 
+## Caleb at the Woodpile
+
+> Caleb was at the woodpile when she called. He brought the chips in his apron held up by the corners and emptied them in the box by the stove. She was at the table flouring the board. He stood a moment and watched her hands. “Get on,” she said, not turning. He went out for the cow. The dog came around the corner of the barn and followed him. The cow was at the far end of the pasture. He went down through the grass with the halter over his shoulder.
+
+---
+
 ## 7. The Rites of Passage
 
 The frontier child's growing up was marked by specific transitions.
@@ -260,9 +266,3 @@ What the child smelled: the wood smoke of the cook fire; the lye of the washday 
 What the child heard: the mother's voice calling him in; the clock ticking; the wind in the eaves; the dog barking at the gate; the team's harness chains in the yard; the crackle of the fire; the rattle of the supper plates; the hymn the mother sang at the wash kettle; the father's silence; the neighbor's wagon on the trace; the schoolmarm's bell; the boys' shouts at recess; the cow lowing for the calf; the owl in the timber after dark.
 
 What the child saw: the country at adult-knee height; the stove from below; the mother's skirts at face level; the yard's specific surfaces — the chip pile, the well curb, the wood-block by the back door; the road to school in all four seasons; the schoolhouse from the doorway; the boys' faces at the recess line; the father's back as he plowed; the mother at the churn; the grave markers at the family plot at the edge of the section.
-
----
-
-## Vignette — Caleb at the Woodpile
-
-> Caleb was at the woodpile when she called. He brought the chips in his apron held up by the corners and emptied them in the box by the stove. She was at the table flouring the board. He stood a moment and watched her hands. “Get on,” she said, not turning. He went out for the cow. The dog came around the corner of the barn and followed him. The cow was at the far end of the pasture. He went down through the grass with the halter over his shoulder.

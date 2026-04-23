@@ -35,6 +35,38 @@ Treatment: probe for the ball with a bullet probe; extract if reachable; pack th
 
 ---
 
+## Two Holes
+
+> The bullet took Bowman through the side under the arm and went through and lodged in the muscle of the back. He sat down in the dust without taking his eyes off the man who had shot him. The man stood with the smoke still coming off the muzzle. He looked at Bowman a moment and turned and walked into the alley between the hardware and the bank.
+>
+> Pruitt got there first. He knelt and pulled Bowman's shirt up. The wound on the side was a hole the size of a dime and the blood was coming from it in a slow steady pulse. He could not see the back wound. He pulled the shirt all the way off and looked.
+>
+> “Lie down,” he said.
+>
+> Bowman lay down.
+>
+> “Where else,” Pruitt said.
+>
+> “Just the side,” said Bowman.
+>
+> “He hit you twice.”
+>
+> Bowman closed his eyes. Pruitt put the heel of his hand on the back wound and pressed. The blood ran out between his fingers and slowed. He held the pressure with one hand and reached behind him without looking.
+>
+> “Bandanna.”
+>
+> Someone put one in his hand. He folded it into a pad and set it under his palm and pressed again.
+>
+> “Where is Greer.”
+>
+> “Coming.”
+>
+> “Tell him to bring the laudanum and the bag and the lantern. Tell him there is two holes.”
+>
+> The man went. Pruitt knelt with both knees in the dust and his hand on Bowman's back and watched Bowman's eyes go and come back and go again.
+
+---
+
 ## 3. Infection — The Real Killer
 
 More men died of infection in the 19th century than of the original wounds. Sepsis, pyemia, gangrene, tetanus.
@@ -90,40 +122,7 @@ A scene of birth on the page should reflect this — not as horror for its own s
 
 ---
 
-## 7. Surgery
-
-A frontier doctor performed amputations, set fractures, sutured wounds, lanced abscesses, pulled teeth, delivered babies, and occasionally trephined the skull or removed a bullet from a limb. He almost never opened the chest or abdomen — the mortality was so near total it was not attempted.
-
-Anesthesia: **whiskey** straight (not a true anesthetic; reduced inhibition and dulled sensation; the patient screamed); **chloroform** on a cloth held over the face, after 1847 (risk of overdose; the patient occasionally died on the table from the chloroform itself); **ether** likewise; **local anesthesia** with cocaine after 1884. Many surgeries were done with the patient awake and held down.
-
----
-
-## 8. The Dying — What It Actually Looks Like
-
-For the writer. Real death is messier and stranger than the page usually allows.
-
-- **Cholera death.** Onset within hours of the first watery stool. Patient ages decades in a day. Eyes sink. Skin gray-blue (the _cholera face_). Hands and feet ice-cold while the body is fevered. Voice fails to a whisper. The man asks for water and water cannot stay in him. Death in 12–48 hours. The body is shrunken, the eyes still open.
-- **Pneumonia death.** The _old man's friend._ High fever, productive cough with bloody or rust-colored sputum. The breath grows shallow. By the third or fourth day a wet rattle is audible across the room (the _death rattle_ — fluid in the airways the patient can no longer clear). The patient becomes confused, then unconscious. Death is quiet.
-- **Gut-shot death.** Day 1: the man complains of the wound, of cold, of thirst; the doctor refuses water; laudanum is given. Day 2: fever; the belly distends; vomiting begins, dark and foul. Day 3: delirium; the man calls for his mother, for his wife, for men dead twenty years; the smell from the wound is foul. Day 4–7: coma. Death.
-- **Tuberculosis death.** Years of slow wasting. The patient is light as a child by the end. The cheek is flushed (the _hectic flush_) in the afternoon, pale by morning. The cough, the bloody handkerchief, the night sweats. Death often by sudden hemorrhage — the patient coughs and arterial blood fills the mouth, and he drowns in it in minutes. Or the patient slips quietly away in the morning after a long night.
-- **Hanging death.** The drop. The neck breaks if the drop is calculated correctly (4–6 feet for a man of average weight). Death in seconds. The slow strangle — if the drop is too short or the rope improperly placed: fifteen to twenty minutes of strangulation, the man's face purple, his tongue protruded, his bowels and bladder voiding. Witnesses said it was the worst thing they ever saw. The vigilante hanging from a tree branch with a horse pulled out from under: usually the slow strangle.
-- **Frozen death.** Hypothermia. Confusion. Then warmth and a feeling of well-being (terminal burrowing — the man undresses, paradoxical warming). Then unconsciousness, then death. Found in the spring melt with his shirt unbuttoned, his hat off.
-- **Thirst death.** 24 hours: thirst. 36: weakness, headache. 48: confusion. 60: the tongue swells, the lips crack and bleed, the man cannot swallow. 72: hallucination, fever, coma. 96: death. In hot sun the timeline shortens to two or three days.
-- **Old age death.** Pneumonia, often. Stroke. Heart failure, slow. A man of seventy in 1875 was an old man. A woman of sixty was an old woman. Life expectancy from birth was around 40 due to infant mortality; a man who reached 20 might reach 60 or 65.
-
----
-
-## 9. Burial
-
-- **Graveyards.** Town graveyards on a hill outside town, fenced if the town could afford it. Wooden markers usually, stone for the affluent. Many graves unmarked within twenty years of burial.
-- **Trail graves.** A rock cairn on the site, sometimes a marker. Many graves dug across the wagon trails.
-- **Boot Hill.** The graveyard for the violent dead — those who died with their boots on. Tombstone, Dodge City, Deadwood, many others had one. **Cremation** was almost unknown among Anglos in this period; practiced by some Native nations. **Sky burial / scaffold burial** by Lakota and other plains tribes — the body wrapped in a blanket and lashed to a platform on poles or in a tree, exposed to the elements and scavengers.
-- **Coffins.** Pine box, six boards, made by the town carpenter for $5–$15. The undertaker did not exist as a profession in many small towns; the carpenter built the coffin and the family or the deceased's friends dug the grave.
-- **Embalming.** Civil War practice spread; common by the 1880s for shipping a body home. Uncommon in working towns where the body went into the ground the next day.
-
----
-
-## Vignette — The Doctor in the Sickroom
+## The Doctor in the Sickroom
 
 > The doctor came in and shut the door behind him and set his bag on the table. The boy was on the bed under the blanket and the woman stood at the foot.
 >
@@ -157,32 +156,33 @@ For the writer. Real death is messier and stranger than the page usually allows.
 
 ---
 
-## Vignette — Two Holes
+## 7. Surgery
 
-> The bullet took Bowman through the side under the arm and went through and lodged in the muscle of the back. He sat down in the dust without taking his eyes off the man who had shot him. The man stood with the smoke still coming off the muzzle. He looked at Bowman a moment and turned and walked into the alley between the hardware and the bank.
->
-> Pruitt got there first. He knelt and pulled Bowman's shirt up. The wound on the side was a hole the size of a dime and the blood was coming from it in a slow steady pulse. He could not see the back wound. He pulled the shirt all the way off and looked.
->
-> “Lie down,” he said.
->
-> Bowman lay down.
->
-> “Where else,” Pruitt said.
->
-> “Just the side,” said Bowman.
->
-> “He hit you twice.”
->
-> Bowman closed his eyes. Pruitt put the heel of his hand on the back wound and pressed. The blood ran out between his fingers and slowed. He held the pressure with one hand and reached behind him without looking.
->
-> “Bandanna.”
->
-> Someone put one in his hand. He folded it into a pad and set it under his palm and pressed again.
->
-> “Where is Greer.”
->
-> “Coming.”
->
-> “Tell him to bring the laudanum and the bag and the lantern. Tell him there is two holes.”
->
-> The man went. Pruitt knelt with both knees in the dust and his hand on Bowman's back and watched Bowman's eyes go and come back and go again.
+A frontier doctor performed amputations, set fractures, sutured wounds, lanced abscesses, pulled teeth, delivered babies, and occasionally trephined the skull or removed a bullet from a limb. He almost never opened the chest or abdomen — the mortality was so near total it was not attempted.
+
+Anesthesia: **whiskey** straight (not a true anesthetic; reduced inhibition and dulled sensation; the patient screamed); **chloroform** on a cloth held over the face, after 1847 (risk of overdose; the patient occasionally died on the table from the chloroform itself); **ether** likewise; **local anesthesia** with cocaine after 1884. Many surgeries were done with the patient awake and held down.
+
+---
+
+## 8. The Dying — What It Actually Looks Like
+
+For the writer. Real death is messier and stranger than the page usually allows.
+
+- **Cholera death.** Onset within hours of the first watery stool. Patient ages decades in a day. Eyes sink. Skin gray-blue (the _cholera face_). Hands and feet ice-cold while the body is fevered. Voice fails to a whisper. The man asks for water and water cannot stay in him. Death in 12–48 hours. The body is shrunken, the eyes still open.
+- **Pneumonia death.** The _old man's friend._ High fever, productive cough with bloody or rust-colored sputum. The breath grows shallow. By the third or fourth day a wet rattle is audible across the room (the _death rattle_ — fluid in the airways the patient can no longer clear). The patient becomes confused, then unconscious. Death is quiet.
+- **Gut-shot death.** Day 1: the man complains of the wound, of cold, of thirst; the doctor refuses water; laudanum is given. Day 2: fever; the belly distends; vomiting begins, dark and foul. Day 3: delirium; the man calls for his mother, for his wife, for men dead twenty years; the smell from the wound is foul. Day 4–7: coma. Death.
+- **Tuberculosis death.** Years of slow wasting. The patient is light as a child by the end. The cheek is flushed (the _hectic flush_) in the afternoon, pale by morning. The cough, the bloody handkerchief, the night sweats. Death often by sudden hemorrhage — the patient coughs and arterial blood fills the mouth, and he drowns in it in minutes. Or the patient slips quietly away in the morning after a long night.
+- **Hanging death.** The drop. The neck breaks if the drop is calculated correctly (4–6 feet for a man of average weight). Death in seconds. The slow strangle — if the drop is too short or the rope improperly placed: fifteen to twenty minutes of strangulation, the man's face purple, his tongue protruded, his bowels and bladder voiding. Witnesses said it was the worst thing they ever saw. The vigilante hanging from a tree branch with a horse pulled out from under: usually the slow strangle.
+- **Frozen death.** Hypothermia. Confusion. Then warmth and a feeling of well-being (terminal burrowing — the man undresses, paradoxical warming). Then unconsciousness, then death. Found in the spring melt with his shirt unbuttoned, his hat off.
+- **Thirst death.** 24 hours: thirst. 36: weakness, headache. 48: confusion. 60: the tongue swells, the lips crack and bleed, the man cannot swallow. 72: hallucination, fever, coma. 96: death. In hot sun the timeline shortens to two or three days.
+- **Old age death.** Pneumonia, often. Stroke. Heart failure, slow. A man of seventy in 1875 was an old man. A woman of sixty was an old woman. Life expectancy from birth was around 40 due to infant mortality; a man who reached 20 might reach 60 or 65.
+
+---
+
+## 9. Burial
+
+- **Graveyards.** Town graveyards on a hill outside town, fenced if the town could afford it. Wooden markers usually, stone for the affluent. Many graves unmarked within twenty years of burial.
+- **Trail graves.** A rock cairn on the site, sometimes a marker. Many graves dug across the wagon trails.
+- **Boot Hill.** The graveyard for the violent dead — those who died with their boots on. Tombstone, Dodge City, Deadwood, many others had one. **Cremation** was almost unknown among Anglos in this period; practiced by some Native nations. **Sky burial / scaffold burial** by Lakota and other plains tribes — the body wrapped in a blanket and lashed to a platform on poles or in a tree, exposed to the elements and scavengers.
+- **Coffins.** Pine box, six boards, made by the town carpenter for $5–$15. The undertaker did not exist as a profession in many small towns; the carpenter built the coffin and the family or the deceased's friends dug the grave.
+- **Embalming.** Civil War practice spread; common by the 1880s for shipping a body home. Uncommon in working towns where the body went into the ground the next day.

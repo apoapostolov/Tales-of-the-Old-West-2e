@@ -176,6 +176,32 @@ A few sources: Wallace Stegner, _Mormon Country_ and _The Gathering of Zion_ (sy
 
 ---
 
+## The Funeral
+
+> The grave was a four-foot trench in the dry ground at the edge of the cemetery. Two men had dug it through the morning and the dirt stood in two piles beside it. The wind moved the piles slightly.
+>
+> Reverend Heaston stood at the head of the grave with his Bible open. The mourners stood around the grave: the widow Eliza Patten in her mother-in-law's black bonnet, her two children to either side, and a dozen people from the town behind them. Patten's partner Isaac Coberly stood with his hat in his hands.
+>
+> “The Lord is my shepherd,” Heaston said. “I shall not want.”
+>
+> The wind took some of the words. The widow's bonnet moved. The older child looked at the box and then looked at her mother and then looked at the box.
+>
+> “He maketh me to lie down in green pastures,” Heaston said. “He leadeth me beside the still waters.”
+>
+> The town had no green pastures and no still waters. The coffin was pine and had been built by Coberly in the morning. Patten was forty-one years old. He had died of a kick from a mule.
+>
+> Heaston closed the Bible.
+>
+> “We commit our brother to the ground,” he said. “Earth to earth. Ashes to ashes. Dust to dust. In the sure and certain hope of the resurrection unto eternal life.”
+>
+> The two men who had dug the grave lowered the box into it on ropes. Coberly stepped forward and threw the first handful of dirt onto the lid. The widow stepped forward and threw the second.
+>
+> Then the two men with the shovels filled the grave while the others stood and watched. The sound of the dirt on the lid lasted as long as it lasted. When the trench was full one of the men packed it down with the back of the shovel.
+>
+> Heaston put on his hat and walked over to the widow and said, “The supper at the church is ready when you are.”
+
+---
+
 ## 6. The Black Church on the Frontier
 
 A Black congregation in a western town in the 1870s was the community's most important institution. The church organized funerals, weddings, schooling (especially before public education was available to Black children), mutual aid, and political life.
@@ -241,29 +267,3 @@ The Catholic prayer is liturgical: the Our Father, the Hail Mary, the rosary's m
 The western Protestant church sang. Common 1870s hymns: _Amazing Grace, Rock of Ages, Just As I Am, What a Friend We Have in Jesus, Nearer My God to Thee, How Firm a Foundation, Shall We Gather at the River._ A scene with hymn singing should name the hymn (or quote a recognizable line) so that anyone who knows it hears it.
 
 Black congregations sang the spirituals listed earlier and many others. Catholic congregations sang the Latin hymns of the church year (_Tantum Ergo, Adoro Te Devote_, the Marian antiphons by season) and the Spanish folk hymns (_alabados_) in Hispanic communities.
-
----
-
-## Vignette — The Funeral
-
-> The grave was a four-foot trench in the dry ground at the edge of the cemetery. Two men had dug it through the morning and the dirt stood in two piles beside it. The wind moved the piles slightly.
->
-> Reverend Heaston stood at the head of the grave with his Bible open. The mourners stood around the grave: the widow Eliza Patten in her mother-in-law's black bonnet, her two children to either side, and a dozen people from the town behind them. Patten's partner Isaac Coberly stood with his hat in his hands.
->
-> “The Lord is my shepherd,” Heaston said. “I shall not want.”
->
-> The wind took some of the words. The widow's bonnet moved. The older child looked at the box and then looked at her mother and then looked at the box.
->
-> “He maketh me to lie down in green pastures,” Heaston said. “He leadeth me beside the still waters.”
->
-> The town had no green pastures and no still waters. The coffin was pine and had been built by Coberly in the morning. Patten was forty-one years old. He had died of a kick from a mule.
->
-> Heaston closed the Bible.
->
-> “We commit our brother to the ground,” he said. “Earth to earth. Ashes to ashes. Dust to dust. In the sure and certain hope of the resurrection unto eternal life.”
->
-> The two men who had dug the grave lowered the box into it on ropes. Coberly stepped forward and threw the first handful of dirt onto the lid. The widow stepped forward and threw the second.
->
-> Then the two men with the shovels filled the grave while the others stood and watched. The sound of the dirt on the lid lasted as long as it lasted. When the trench was full one of the men packed it down with the back of the shovel.
->
-> Heaston put on his hat and walked over to the widow and said, “The supper at the church is ready when you are.”

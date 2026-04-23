@@ -34,6 +34,24 @@ A faro game has its own pulse. The dealer pulls; pause; he pulls; pause. The two
 
 ---
 
+## Faro at Midnight
+
+> The dealer turned a king to the soda and a four to the hock and the layout went still while the bettors looked at the cards. Three coppers came off the king. One bet stayed on the four. The dealer pulled the cases (a six and a nine), then began the next turn.
+>
+> A jack to the loser. A queen to the winner. The dealer paid the queen bets and pulled the jack bets and the caseman moved the abacus beads. Two more turns went by without a hit on the bigger money on the table.
+>
+> Then the dealer turned a deuce to the loser and a deuce to the winner. A split. The house took half. The man who had the deuce stack — a little man in a Sunday coat from someplace east — pushed his chair back and stared at the dealer for a moment.
+>
+> “A split,” the dealer said. “House takes half. You want the other half down or pulled?”
+>
+> “Pulled.”
+>
+> The dealer counted out the half stack and pushed it across the layout to him. The man picked it up and put it in his coat pocket and stood up and walked out without looking back. He had been at the table four hours.
+>
+> “Cards,” the dealer said. The next turn began.
+
+---
+
 ## 3. Spanish Monte
 
 The dominant card game of the Southwest and of border country. Played with a Spanish 40-card deck (no 8s, 9s, 10s).
@@ -122,21 +140,3 @@ The respectable woman did not gamble. The disreputable woman did. The third cate
 - **The saloon girl.** Many saloons employed women whose job was to entice men to play and to drink. They were not professional gamblers; they steered customers to the games. They took a cut of the house's win and often a cut of the drinks.
 - **The brothel madam.** Some madams ran gambling tables in their houses (the sporting house was often part-saloon, part-brothel). The madam might deal faro or run the games herself. Some madams were known for fair dealing; others for the opposite.
 - **The professional.** Poker Alice. Lottie Deno (an alias; her real name was Carlotta Thompkins). Madame Mustache (Eleanore Dumont, a French-born faro dealer who worked the gold camps of California, Nevada, and Montana). These women were known by name and by reputation. The professional female gambler dressed well, played her own bank or sat at a private game, and was treated with the respect a successful gambler commanded. She was not, by virtue of being a gambler, a prostitute; the two trades overlapped but were not the same.
-
----
-
-## Vignette — Faro at Midnight
-
-> The dealer turned a king to the soda and a four to the hock and the layout went still while the bettors looked at the cards. Three coppers came off the king. One bet stayed on the four. The dealer pulled the cases (a six and a nine), then began the next turn.
->
-> A jack to the loser. A queen to the winner. The dealer paid the queen bets and pulled the jack bets and the caseman moved the abacus beads. Two more turns went by without a hit on the bigger money on the table.
->
-> Then the dealer turned a deuce to the loser and a deuce to the winner. A split. The house took half. The man who had the deuce stack — a little man in a Sunday coat from someplace east — pushed his chair back and stared at the dealer for a moment.
->
-> “A split,” the dealer said. “House takes half. You want the other half down or pulled?”
->
-> “Pulled.”
->
-> The dealer counted out the half stack and pushed it across the layout to him. The man picked it up and put it in his coat pocket and stood up and walked out without looking back. He had been at the table four hours.
->
-> “Cards,” the dealer said. The next turn began.

@@ -15,6 +15,23 @@ Vignettes will be integrated from `skills/western-writing/examples/scenes.md`.
 
 ---
 
+## Illustration Workstream
+
+- [x] Define the supplement-wide illustration language
+- [x] Complete the front matter illustration prompts
+- [x] Complete chapter opener prompts for chapters 1-5
+- [x] Complete chapter opener prompts for chapters 6-10
+- [x] Complete chapter opener prompts for chapters 11-15
+- [x] Complete chapter opener prompts for chapters 16-20
+- [x] Complete chapter opener prompts for chapters 21-25
+- [ ] Review prompts for historical accuracy and repeated motifs
+- [x] Add any needed spot illustrations for long chapters
+- [x] Finalize the image-generation handoff pack
+
+Prompt pack:
+
+- `illustration-prompts.md`
+
 ## Table of Contents & Progress Checklist
 
 ### Front Matter

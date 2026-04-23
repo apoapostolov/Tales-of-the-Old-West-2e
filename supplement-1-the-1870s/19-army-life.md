@@ -52,6 +52,30 @@ The frontier soldier's primary occupations, in order of time spent: manual labor
 
 ---
 
+## First Call
+
+> The bugle sounded First Call at five fifty-five and the barracks lit up where the sergeants began going through them. Reilly sat up in his bunk and put his feet on the floor and reached for his pants in the dim light. The man in the next bunk, Karpinski, was already standing and pulling on his shirt.
+>
+> “Cold this morning,” Karpinski said.
+>
+> “It's August.”
+>
+> “Cold for August. I tell you this country is not made for men.”
+>
+> “It's made for somebody. I have not figured out who.”
+>
+> The bugle sounded Reveille at six and they fell in on the parade ground in the gray light with their carbines at order arms and their mounts standing in the picket line behind the barracks. The lieutenant came out from the orderly room with his hat under his arm and read the morning report. Three men sick. One man on extra duty for drunkenness on guard. The detail to escort the quartermaster wagon to the agency would leave at seven sharp. Sergeant Voss would command. Reilly heard his own name in the detail list.
+>
+> “Karpinski,” Reilly said as they went back toward the barracks. “I drew the agency run. You want my mess for the day?”
+>
+> “Bacon and beans?”
+>
+> “Bacon and beans and whatever else they are giving out.”
+>
+> “All right. I will save you a coffee for tonight.”
+
+---
+
 ## 3. Pay, Enlistment, Desertion
 
 A private earned thirteen dollars a month in the 1870s (reduced from sixteen after 1871). Sergeants earned about twenty. Officers earned considerably more — a lieutenant about $120, a captain about $150. Pay came from the paymaster (a special officer) on his rounds, every two months at most posts. The paymaster carried the pay in cash, escorted by a detachment.
@@ -146,27 +170,3 @@ The army campaign in the West offered specific failure modes.
 - **Ambush.** When the column did find the enemy, it was often on the enemy's terms. The Fetterman fight (1866), the Wagon Box fight (1867), the Little Bighorn (1876), the Wounded Knee aftermath (1890) — each is a study in the army's vulnerabilities.
 
 A campaign novel that ends without a battle is historically more accurate than one that ends with glorious victory. The army's frustration is the campaign's real subject.
-
----
-
-## Vignette — First Call
-
-> The bugle sounded First Call at five fifty-five and the barracks lit up where the sergeants began going through them. Reilly sat up in his bunk and put his feet on the floor and reached for his pants in the dim light. The man in the next bunk, Karpinski, was already standing and pulling on his shirt.
->
-> “Cold this morning,” Karpinski said.
->
-> “It's August.”
->
-> “Cold for August. I tell you this country is not made for men.”
->
-> “It's made for somebody. I have not figured out who.”
->
-> The bugle sounded Reveille at six and they fell in on the parade ground in the gray light with their carbines at order arms and their mounts standing in the picket line behind the barracks. The lieutenant came out from the orderly room with his hat under his arm and read the morning report. Three men sick. One man on extra duty for drunkenness on guard. The detail to escort the quartermaster wagon to the agency would leave at seven sharp. Sergeant Voss would command. Reilly heard his own name in the detail list.
->
-> “Karpinski,” Reilly said as they went back toward the barracks. “I drew the agency run. You want my mess for the day?”
->
-> “Bacon and beans?”
->
-> “Bacon and beans and whatever else they are giving out.”
->
-> “All right. I will save you a coffee for tonight.”

@@ -54,6 +54,14 @@ The captive question is its own subject. Comanche bands held many captives, espe
 
 ---
 
+## A Comanche Scout in His Mother Tongue
+
+> The scout knelt at the edge of the grass and put his hand flat on the ground. The dust under his palm was warm from the sun and dry under that, and beneath the dryness was the cool that meant the rain three days back had not gone far. He held his hand still and listened with it. The horses had crossed here in the night. Six of them, unshod, two of them the same animal he had ridden behind out of Adobe Walls four summers before. He knew the print as another man knows a face.
+>
+> He stood and looked east where the sky was still pale. He did not speak. There was no one with him to speak to. He thought in the words his mother had given him and there were no English words for the thought and he did not need any. He thought, in his own tongue, that they had come the long way around, the way the grandfathers went, and that they would be at the seep by noon. He turned and went back to his horse.
+
+---
+
 ## 2. Northern Plains — the Lakota
 
 The dominant power of the northern plains in the 1870s. Agreed by treaty (Fort Laramie 1868) to a reservation including the Black Hills; gold discovered there in 1874; war 1876–77; defeat and confinement by 1881. Suggested reading: Joseph Marshall III, _The Day the World Ended at Little Bighorn_; James Welch (Blackfeet/Gros Ventre), _Killing Custer_; the WPA-era interviews collected by Walter Campbell and others.
@@ -227,11 +235,3 @@ A scene that includes inter-tribal contact can show sign being used. The signs a
 A few example signs, described, not pictured: _Friend_ is two fingers raised together at the chest. _White man_ is a horizontal line across the forehead, the brim of a hat. _Question_ is a flat hand raised, palm forward, rotated. _Buffalo_ is two index fingers held curved up at the temples — the horns. _River_ is a wavy horizontal motion of the hand.
 
 For a deeper reference, William Tomkins's _Indian Sign Language_ (1929; widely available reprint) preserves a substantial corpus.
-
----
-
-## Vignette — A Comanche Scout in His Mother Tongue
-
-> The scout knelt at the edge of the grass and put his hand flat on the ground. The dust under his palm was warm from the sun and dry under that, and beneath the dryness was the cool that meant the rain three days back had not gone far. He held his hand still and listened with it. The horses had crossed here in the night. Six of them, unshod, two of them the same animal he had ridden behind out of Adobe Walls four summers before. He knew the print as another man knows a face.
->
-> He stood and looked east where the sky was still pale. He did not speak. There was no one with him to speak to. He thought in the words his mother had given him and there were no English words for the thought and he did not need any. He thought, in his own tongue, that they had come the long way around, the way the grandfathers went, and that they would be at the seep by noon. He turned and went back to his horse.

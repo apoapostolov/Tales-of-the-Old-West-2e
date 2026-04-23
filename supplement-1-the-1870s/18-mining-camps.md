@@ -101,6 +101,30 @@ The **blacksmith** is the mine's own smith, who resharpens the drill steels. He 
 
 ---
 
+## Shift Change at Three
+
+> Brennan came on at three and Dolan went off at three and they passed each other in the drift with the carbide lamps throwing their shadows on the timbered walls. Dolan's face was black with the dust and his eyes were red where the dust had got in around the lamp.
+>
+> “Anything?” Brennan said.
+>
+> “The face is hard. We took out maybe four feet on the day shift. The vein's still there but she's narrower than she was on Tuesday.”
+>
+> “Water?”
+>
+> “Some. The pump's holding.”
+>
+> Brennan went on past him and Dolan went on past him and they did not say more. Brennan came up to the face and the two men of his shift were there setting up the drill. He set down his lunch pail and his second carbide tin in the niche at the side of the drift and he took up the sledge.
+>
+> “Heading?” Magruder said.
+>
+> “Same as before. Two holes high, two low, one in the middle. The vein's running west by the look of it. Brennan said the face is hard tonight.”
+>
+> “It's been hard all week.”
+>
+> The other man, the one called Pete, was holding the steel against the rock. Magruder swung the sledge and the steel rang and rock dust came off the face. Pete turned the steel a quarter and Magruder swung again. The rhythm came in within a minute and they did not speak again until the hole was three inches deep. Then Pete pulled out the dust and blew through the hole and put the steel back in and they went on.
+
+---
+
 ## 5. The Surface
 
 ### Headframe and hoist
@@ -175,27 +199,3 @@ A mine in the 1870s killed men reliably.
 - **Sounds.** Underground is not silent. It is the ring of steel on steel when a double-jack pair is drilling — a sustained metallic note that echoes down the drift and back. The crack and rumble of a blast behind the sealed drift door — felt in the chest before it reaches the ears. The drip of water on rock, irregular, constant. The creak of the square-set timber under pressure — the mine is always moving, always settling, always talking in the language of wood under load. After a big blast, the absolute silence before the dust arrives — a second of nothing, then the roar.
 - **Smells.** Spent black powder or dynamite: acrid, sulfurous, long-lasting, clings to wool. Carbide lamp: sharp, like a struck match. Wet timber: pine sap and rot at once. The miner's sweat: salt and iron. Hot rock: dry, mineral, faintly metallic at depth.
 - **Light.** A candle gives three to four feet of usable light. A carbide lamp gives eight to ten feet. Beyond that is the dark. The dark is total. Darker than any dark above ground because there is no sky for the eyes to reach toward. The man who drops his candle underground goes still and does not move until he finds it. The worked face catches the candle's light in the facets of fresh-broken rock — quartz crystals, flecks of native silver, the dull yellow of iron pyrite that fools no one who has been underground a week. The ore the company wants is often undistinguished: gray, heavy, sulfidic, nothing that looks like wealth.
-
----
-
-## Vignette — Shift Change at Three
-
-> Brennan came on at three and Dolan went off at three and they passed each other in the drift with the carbide lamps throwing their shadows on the timbered walls. Dolan's face was black with the dust and his eyes were red where the dust had got in around the lamp.
->
-> “Anything?” Brennan said.
->
-> “The face is hard. We took out maybe four feet on the day shift. The vein's still there but she's narrower than she was on Tuesday.”
->
-> “Water?”
->
-> “Some. The pump's holding.”
->
-> Brennan went on past him and Dolan went on past him and they did not say more. Brennan came up to the face and the two men of his shift were there setting up the drill. He set down his lunch pail and his second carbide tin in the niche at the side of the drift and he took up the sledge.
->
-> “Heading?” Magruder said.
->
-> “Same as before. Two holes high, two low, one in the middle. The vein's running west by the look of it. Brennan said the face is hard tonight.”
->
-> “It's been hard all week.”
->
-> The other man, the one called Pete, was holding the steel against the rock. Magruder swung the sledge and the steel rang and rock dust came off the face. Pete turned the steel a quarter and Magruder swung again. The rhythm came in within a minute and they did not speak again until the hole was three inches deep. Then Pete pulled out the dust and blew through the hole and put the steel back in and they went on.

@@ -58,6 +58,22 @@ Abilene from 1867 to 1871. Dodge City from 1875 to 1885. Ogallala on the Union P
 
 ---
 
+## Four Days on the Cimarron
+
+> The herd had been four days on the Cimarron with no water and the lead steer had begun to bawl. McNair sat his horse at the point and watched the gray morning come up over the grass. Behind him a thousand head moved slow in the dust their own hooves had raised. Mendez rode up out of the swing and reined in alongside.
+>
+> “They will smell water by noon,” Mendez said.
+>
+> “They will smell something.”
+>
+> They sat a while. The wind moved in the grass and a bird called once and went on. McNair pulled his hat down against the sun coming.
+>
+> “Ride back and tell the boy to bring the wagon up,” he said. “We will not make the river by dark and I want him close.”
+>
+> Mendez turned the horse and rode. McNair watched the steer bawl again and the herd lift its hundred heads and lower them. He spat into the dust and put his hand to the rein. The day was already old.
+
+---
+
 ## 4. The Chuck Wagon
 
 Designed by Charles Goodnight in 1866 from a converted Studebaker army wagon. The chuck box at the back, with a hinged lid that folded down into a worktable. Drawers for coffee, sugar, salt, flour, baking soda, lard, beans, dried fruit. A water barrel strapped to the side. A _coonie_ — a stretched cowhide hung underneath — for firewood collected on the trail.
@@ -102,6 +118,16 @@ The outfit was a small kingdom on the trail. The **trail boss** had absolute aut
 
 ---
 
+## Six Weeks to Newton
+
+> They left the Brazos in the second week of March with twenty-four hundred head and they crossed into the Indian Territory on the eighth day. The country opened out and the grass was good and they made fifteen miles a day. Two of the hands took fever at the Canadian and one of them died and they buried him in a sand draw and rode on.
+>
+> They crossed the Cimarron in late April. The cattle drank heavy and they lost an afternoon to it. North of the river the country changed. The grass was thinner and the wind was constant and at night the cold came down off the plains beyond. They had a stampede on the last night of the month and lost forty head and a horse with a broken leg they shot in the morning.
+>
+> They came up to the Arkansas on the eleventh of May and looked across at Kansas and the railhead at Newton was three days more. Henderson rode ahead to make the deal. The herd came in on the fourteenth, twenty-three hundred and nineteen head from the twenty-four hundred they had started with, and Henderson had eighteen dollars a head waiting for them at the bank.
+
+---
+
 ## 9. The Smell, the Sound, the Feel
 
 This is the texture you put on the page.
@@ -115,29 +141,3 @@ This is the texture you put on the page.
 ## 10. The Myth and the Work
 
 The 20th-century screen western removed almost everything in this chapter. The cowboy of the screen was clean, monogamous, hat-handed, slow to anger, fast to draw, alone on a horse against a sunset. The actual cowhand was filthy, single, profane, often cruel to stock and to himself, in a crew of ten or twelve, on a drive of weeks of monotony broken by hours of terror, paid poorly, used up by thirty. Write the actual cowhand. The myth is for a different shelf.
-
----
-
-## Vignette — Four Days on the Cimarron
-
-> The herd had been four days on the Cimarron with no water and the lead steer had begun to bawl. McNair sat his horse at the point and watched the gray morning come up over the grass. Behind him a thousand head moved slow in the dust their own hooves had raised. Mendez rode up out of the swing and reined in alongside.
->
-> “They will smell water by noon,” Mendez said.
->
-> “They will smell something.”
->
-> They sat a while. The wind moved in the grass and a bird called once and went on. McNair pulled his hat down against the sun coming.
->
-> “Ride back and tell the boy to bring the wagon up,” he said. “We will not make the river by dark and I want him close.”
->
-> Mendez turned the horse and rode. McNair watched the steer bawl again and the herd lift its hundred heads and lower them. He spat into the dust and put his hand to the rein. The day was already old.
-
----
-
-## Vignette — Six Weeks to Newton
-
-> They left the Brazos in the second week of March with twenty-four hundred head and they crossed into the Indian Territory on the eighth day. The country opened out and the grass was good and they made fifteen miles a day. Two of the hands took fever at the Canadian and one of them died and they buried him in a sand draw and rode on.
->
-> They crossed the Cimarron in late April. The cattle drank heavy and they lost an afternoon to it. North of the river the country changed. The grass was thinner and the wind was constant and at night the cold came down off the plains beyond. They had a stampede on the last night of the month and lost forty head and a horse with a broken leg they shot in the morning.
->
-> They came up to the Arkansas on the eleventh of May and looked across at Kansas and the railhead at Newton was three days more. Henderson rode ahead to make the deal. The herd came in on the fourteenth, twenty-three hundred and nineteen head from the twenty-four hundred they had started with, and Henderson had eighteen dollars a head waiting for them at the bank.

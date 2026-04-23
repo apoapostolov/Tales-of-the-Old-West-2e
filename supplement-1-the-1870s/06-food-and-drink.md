@@ -44,6 +44,22 @@ Specific protocols of the trail mess. The wagon faced forward in camp; the lower
 
 ---
 
+## The Trail Breakfast
+
+> Coosie had been up since three. The fire was a low bed of coals and the coffee was already on. The sourdough was in the Dutch oven and the lid had its coals piled on it and would have its biscuits done in fifteen minutes more.
+>
+> He went to the back of the wagon and took down the bacon and laid out a dozen strips on the cold side of the iron skillet. The skillet went on the coals beside the coffeepot. The bacon began to talk in a small voice.
+>
+> The horizon to the east was paling. Coosie poured himself a cup of the coffee and drank it standing beside the fire. The riders' bedrolls were scattered around the camp like dark stones. They would be moving in ten minutes when he started calling.
+>
+> He bent down and lifted the lid of the Dutch oven a quarter-inch and looked. The biscuits were rising and beginning to brown. He set the lid back and turned the bacon.
+>
+> The first man of the crew stirred and sat up and reached for his hat.
+>
+> “Coffee,” Coosie said, in the dawn quiet.
+
+---
+
 ## 2. The Homestead Kitchen — the Woman's Domain
 
 The homestead or farm kitchen was the woman's working space and represented an enormous daily labor.
@@ -146,6 +162,20 @@ A few sources: Iris Chang, _The Chinese in America_; Sucheng Chan, _This Bitters
 
 ---
 
+## Biscuit at Three O'Clock
+
+> Three o'clock and the cook had the fire down to a bed of coals. He set the Dutch oven in the coals and shoveled coals onto the lid. He took the keg of starter from where it had ridden warm against the chuck box and ladled a cup of it into the bowl. He poured in flour, salt, lard, water; worked it up with the heel of his hand until it was a stiff dough. He pinched off pieces the size of a hen's egg and laid them in the oven on top of one another in the bacon grease.
+>
+> The lid went back. He fed the keg of starter back: a cup of flour, a cup of water, the spoon. He covered the keg and set it in the chuck box where the warmth would keep it alive through the night.
+>
+> The biscuit would be twenty minutes. He set the coffee pot to one side of the fire and threw in three handfuls of Arbuckles' ground in the sack. The water was already hot. He let it come to a boil and stay there a minute and threw a dipper of cold water in to settle the grounds.
+>
+> He stood up. The horizon was red along the line where the sun had gone. The herd was bedded a quarter mile off and he could hear the hand on first watch riding the perimeter singing low. He could not make out the song.
+>
+> “Come and get it,” he said toward the camp. “Bread is coming up.”
+
+---
+
 ## 5. The Army Ration
 
 The army ration was its own food culture, treated in detail in Chapter 19. Brief reference: the standard ration — salt pork or beef, flour or cornmeal, beans or rice, coffee, sugar, salt. The field ration — hardtack, salt pork, coffee. Coffee as the army's fuel. The soldier-cook detail and its variable competence.
@@ -184,33 +214,3 @@ Many saloons offered a free lunch with the purchase of a drink: cold cuts, chees
 - **Side meat (salt pork).** Pork belly cured in salt brine, packed in barrels. Kept for months. Sliced and fried, the grease used for cooking. The trail-drive and homestead fat source.
 - **Hardtack.** The army cracker. Flour, water, salt, baked dry, dried further. Lasted indefinitely if kept dry. Eaten softened in coffee, fried in pork grease, or crumbled into stew. Often weevily after long storage; the soldiers tapped them on the table to shake out the weevils before eating.
 - **Fresh meat sources.** _Beef_ — common where available; trail-drive crews ate beef from the herd, ranches ate beef regularly, towns had butcher shops. _Pork_ — common in farming areas; salt pork from the smokehouse year-round, fresh pork at hog-killing time in fall. _Game_ — deer, antelope, elk where available; buffalo where the herds remained (declining rapidly through the 1870s); wild turkey in the southern plains and Texas; prairie chicken on the plains; sage hen in the Great Basin. _Fish_ — trout in mountain streams, catfish in the Mississippi-Missouri-Arkansas-Red drainages, salmon in the Pacific Northwest. Less universal than meat, but present.
-
----
-
-## Vignette — The Trail Breakfast
-
-> Coosie had been up since three. The fire was a low bed of coals and the coffee was already on. The sourdough was in the Dutch oven and the lid had its coals piled on it and would have its biscuits done in fifteen minutes more.
->
-> He went to the back of the wagon and took down the bacon and laid out a dozen strips on the cold side of the iron skillet. The skillet went on the coals beside the coffeepot. The bacon began to talk in a small voice.
->
-> The horizon to the east was paling. Coosie poured himself a cup of the coffee and drank it standing beside the fire. The riders' bedrolls were scattered around the camp like dark stones. They would be moving in ten minutes when he started calling.
->
-> He bent down and lifted the lid of the Dutch oven a quarter-inch and looked. The biscuits were rising and beginning to brown. He set the lid back and turned the bacon.
->
-> The first man of the crew stirred and sat up and reached for his hat.
->
-> “Coffee,” Coosie said, in the dawn quiet.
-
----
-
-## Vignette — Biscuit at Three O'Clock
-
-> Three o'clock and the cook had the fire down to a bed of coals. He set the Dutch oven in the coals and shoveled coals onto the lid. He took the keg of starter from where it had ridden warm against the chuck box and ladled a cup of it into the bowl. He poured in flour, salt, lard, water; worked it up with the heel of his hand until it was a stiff dough. He pinched off pieces the size of a hen's egg and laid them in the oven on top of one another in the bacon grease.
->
-> The lid went back. He fed the keg of starter back: a cup of flour, a cup of water, the spoon. He covered the keg and set it in the chuck box where the warmth would keep it alive through the night.
->
-> The biscuit would be twenty minutes. He set the coffee pot to one side of the fire and threw in three handfuls of Arbuckles' ground in the sack. The water was already hot. He let it come to a boil and stay there a minute and threw a dipper of cold water in to settle the grounds.
->
-> He stood up. The horizon was red along the line where the sun had gone. The herd was bedded a quarter mile off and he could hear the hand on first watch riding the perimeter singing low. He could not make out the song.
->
-> “Come and get it,” he said toward the camp. “Bread is coming up.”

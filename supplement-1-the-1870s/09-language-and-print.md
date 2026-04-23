@@ -12,6 +12,8 @@ What follows is the working dictionary and the working paper inventory both — 
 
 ## Part One — The Language
 
+---
+
 ## 1. The Big Rule
 
 A nineteenth-century westerner spoke a nineteenth-century English. The period English was: more formal in writing than ours; more biblical in cadence (the King James was the universal literary model); heavily Latinate among the educated; heavily idiomatic and regional among the working; profane among men in male company and constrained around women, children, in church, in print; and slow to take new words — the modern habit of fast slang turnover was not yet established.
@@ -193,6 +195,8 @@ The Portis line at the head of this chapter is the example. Notice: _give it cre
 
 ## Part Two — The Paper World
 
+---
+
 ## 10. The Newspaper
 
 By the 1870s every western town of any size had a newspaper. A small town might have a weekly with a two-man staff (publisher and printer); a larger town might have a daily with a substantial staff and imported wire-service news.
@@ -287,6 +291,24 @@ A letter in a scene can establish character through voice, deliver information d
 
 ---
 
+## A Letter Home
+
+> _Lampasas, Texas, March 12, 1875._
+>
+> _Dear Mother,_
+>
+> _Your letter of last month finally found me here. I am sorry I did not answer sooner but we have been on a drive to Kansas and back. I am well. The bay horse you remember me writing of has been sold. I have a sorrel now and he is a good one. We had two men killed coming home, one by drowning at Red River and one by lightning on the Canadian. I thank God I am safe._
+>
+> _I will send you twenty dollars by Wells Fargo when this reaches Austin next week. I wish it was more. The pay is what it is._
+>
+> _Tell Sister to write me at Lampasas care of Wright & Harris. Tell her I think of her every day._
+>
+> _Your son,_
+>
+> _Tom Pruitt_
+
+---
+
 ## 13. Telegrams
 
 The telegraph reached the major western cities by the 1860s and was extending to smaller towns through the 1870s. By 1875 most established western towns had telegraph service.
@@ -345,6 +367,22 @@ Indictments, court orders, judgments, transcripts. The 1870s western courthouse 
 
 ---
 
+## The Forged Bill of Sale
+
+> Lewes opened the desk drawer and took out the bundle of papers and laid them on the table. He untied the string and went through them.
+>
+> The first was the bill of sale. It read out fine in Lewes's hand on the cleanest paper in the bundle. _Forty head of mixed beef cattle branded with the J-bar-H brand on the left hip._ The date was the fourteenth of May. Lewes had not been within sixty miles of Henderson's place on the fourteenth of May.
+>
+> The second was the original. He had pinched it from the desk at Henderson's place the night he took the cattle. It read out in Henderson's hand, _Forty head of mixed beef cattle._ The brand description was the same. The date was the fourteenth of May. The signature was John Henderson.
+>
+> The forged paper had James Whittaker as the buyer. The original had been left blank. Lewes had filled the buyer line with his confederate's name and signed Henderson's name at the bottom.
+>
+> He held the two papers up to the lamp. The forgery was passable in good light. In bad light, in a trail-driver's saddlebag after a week of rain, nobody would look at it twice.
+>
+> He folded the forgery and put it in his vest. He took the original to the cookstove and lifted the lid and watched it burn.
+
+---
+
 ## 15. Diaries and Journals
 
 A substantial fraction of the literate 1870s population kept some form of diary or journal. Pioneer women's diaries, soldiers' journals, ranchmen's account books with personal entries, preachers' records of sermons preached and souls converted — these constitute the period's largest single archive of personal voice.
@@ -382,37 +420,3 @@ Beyond the basic 1870s formality already discussed, specific document types had 
 - **Sermon register.** Scripturally saturated, rhythmic, building.
 - **Government / military register.** Formal, bureaucratic, hierarchical. _I have the honor to report. In compliance with instructions. Most respectfully submitted._
 - **Cattle-trade register.** Brand-and-tally. _Forty head, three-up, mixed yearlings and twos, branded J-bar-H on left hip, swallow-fork in left ear._ The vocabulary is specific to the trade.
-
----
-
-## Vignette — The Forged Bill of Sale
-
-> Lewes opened the desk drawer and took out the bundle of papers and laid them on the table. He untied the string and went through them.
->
-> The first was the bill of sale. It read out fine in Lewes's hand on the cleanest paper in the bundle. _Forty head of mixed beef cattle branded with the J-bar-H brand on the left hip._ The date was the fourteenth of May. Lewes had not been within sixty miles of Henderson's place on the fourteenth of May.
->
-> The second was the original. He had pinched it from the desk at Henderson's place the night he took the cattle. It read out in Henderson's hand, _Forty head of mixed beef cattle._ The brand description was the same. The date was the fourteenth of May. The signature was John Henderson.
->
-> The forged paper had James Whittaker as the buyer. The original had been left blank. Lewes had filled the buyer line with his confederate's name and signed Henderson's name at the bottom.
->
-> He held the two papers up to the lamp. The forgery was passable in good light. In bad light, in a trail-driver's saddlebag after a week of rain, nobody would look at it twice.
->
-> He folded the forgery and put it in his vest. He took the original to the cookstove and lifted the lid and watched it burn.
-
----
-
-## Vignette — A Letter Home
-
-> _Lampasas, Texas, March 12, 1875._
->
-> _Dear Mother,_
->
-> _Your letter of last month finally found me here. I am sorry I did not answer sooner but we have been on a drive to Kansas and back. I am well. The bay horse you remember me writing of has been sold. I have a sorrel now and he is a good one. We had two men killed coming home, one by drowning at Red River and one by lightning on the Canadian. I thank God I am safe._
->
-> _I will send you twenty dollars by Wells Fargo when this reaches Austin next week. I wish it was more. The pay is what it is._
->
-> _Tell Sister to write me at Lampasas care of Wright & Harris. Tell her I think of her every day._
->
-> _Your son,_
->
-> _Tom Pruitt_

@@ -166,6 +166,12 @@ Letter postage was three cents the half-ounce within the United States; foreign 
 
 ---
 
+## Settling Up
+
+> Ramsey came down to the mercantile the morning after the drive paid off and laid out what he owed against the year. The sheriff had wanted his fee for the inquest on the Mexican boy who had drowned at Doan's, ten dollars. The doctor had wanted his fee for the broken arm Jim had taken in the stampede at the Cimarron, eight. The smith had wanted a dollar fifty for the new shoes on the bay. The bunkhouse cook had wanted a dollar he had advanced Charlie at Caldwell. Ramsey paid them out of the leather pouch on his hip, in twenty-dollar gold pieces and in silver dollars and in Mexican pesos that the merchant weighed on the small balance and credited at face. When he was done he had four gold pieces and eleven silver dollars left and he was the closest thing to rich he had been in three years. He bought a new hat and a Sunday coat and rode home.
+
+---
+
 ## 3. Transportation — Fares and Hires
 
 Stagecoach fare ran ten to fifteen cents a mile. Train fare in coach three to five cents a mile, first class five to ten, the emigrant car one to three. The Pullman berth two to three dollars a night extra. New York to San Francisco in 1879 was forty to sixty in coach, a hundred to a hundred and fifty first class, twenty to thirty in emigrant. Steamboat fare on the Missouri or Mississippi ran fifty cents to two dollars per hundred miles. Freight by rail ran one to three cents the ton-mile; by wagon ten to twenty.
@@ -272,6 +278,46 @@ Any wired town to any wired town: minutes for transmission, plus a delivery boy 
 
 ---
 
+## The Widow's Account
+
+> She set the basket on the counter and the merchant tipped his pencil to the page.
+>
+> “Five pounds flour. Two pounds beans. A pound of bacon. A quarter pound of coffee. A half pound of brown sugar. A tin of milk. Three boxes of matches. A bottle of laudanum the small bottle. A spool of black thread.”
+>
+> The merchant wrote, then turned the page so she could see what he had written.
+>
+> “Flour fifteen, beans sixteen, bacon fifteen, coffee seven, sugar five, milk thirty, matches fifteen, laudanum fifty, thread ten. One ninety-three.”
+>
+> She nodded.
+>
+> “On the book?”
+>
+> “Yes please.”
+>
+> The merchant wrote again.
+>
+> “Mrs. Pruitt your account is at twelve dollars and forty-seven cents. I do not press a widow but I would be obliged if some part could be paid by Christmas.”
+>
+> “The boy will be fit to ride by then. He is doing the Henson's chores already and Mr. Henson has spoken of regular work at five dollars a month. We will pay it down, Mr. Sutton.”
+>
+> “I do not doubt it, Mrs. Pruitt.”
+>
+> She lifted the basket. He raised the pencil to mark her goods off the counter.
+>
+> “Mrs. Pruitt.”
+>
+> She turned at the door.
+>
+> “Take the half-pound of crackers in the barrel by the stove. There is no charge. The boy is fond of them.”
+>
+> She did not answer for a moment. Then she nodded once.
+>
+> “Thank you, Mr. Sutton.”
+>
+> The bell rang as the door closed.
+
+---
+
 ## 8. Weights, Capacities, Sizes
 
 The average adult man in the 1870s ran five-foot-seven to five-foot-nine and a hundred and forty-five to a hundred and sixty-five pounds. The average adult woman five-foot-two to five-foot-four and a hundred and fifteen to a hundred and thirty-five.
@@ -341,49 +387,3 @@ A captain in the Army earns five dollars a day plus allowances. He can afford a 
 A small-town doctor in a slow year earns fifty dollars a month — about the same as a sergeant — but is in debt for his medical education and his stock of patent medicine.
 
 The largest gulf in the period's economy was between cash labor (the cowhand at a dollar a day) and the entrepreneurial classes (the cattleman, the saloon owner, the mine owner) who could clear thousands a year if they survived the cycle. A working cowhand who saved his pay for ten years could buy a small herd and become the next decade's small cattleman. Most did not save.
-
----
-
-## Vignette — Settling Up
-
-> Ramsey came down to the mercantile the morning after the drive paid off and laid out what he owed against the year. The sheriff had wanted his fee for the inquest on the Mexican boy who had drowned at Doan's, ten dollars. The doctor had wanted his fee for the broken arm Jim had taken in the stampede at the Cimarron, eight. The smith had wanted a dollar fifty for the new shoes on the bay. The bunkhouse cook had wanted a dollar he had advanced Charlie at Caldwell. Ramsey paid them out of the leather pouch on his hip, in twenty-dollar gold pieces and in silver dollars and in Mexican pesos that the merchant weighed on the small balance and credited at face. When he was done he had four gold pieces and eleven silver dollars left and he was the closest thing to rich he had been in three years. He bought a new hat and a Sunday coat and rode home.
-
----
-
-## Vignette — The Widow's Account
-
-> She set the basket on the counter and the merchant tipped his pencil to the page.
->
-> “Five pounds flour. Two pounds beans. A pound of bacon. A quarter pound of coffee. A half pound of brown sugar. A tin of milk. Three boxes of matches. A bottle of laudanum the small bottle. A spool of black thread.”
->
-> The merchant wrote, then turned the page so she could see what he had written.
->
-> “Flour fifteen, beans sixteen, bacon fifteen, coffee seven, sugar five, milk thirty, matches fifteen, laudanum fifty, thread ten. One ninety-three.”
->
-> She nodded.
->
-> “On the book?”
->
-> “Yes please.”
->
-> The merchant wrote again.
->
-> “Mrs. Pruitt your account is at twelve dollars and forty-seven cents. I do not press a widow but I would be obliged if some part could be paid by Christmas.”
->
-> “The boy will be fit to ride by then. He is doing the Henson's chores already and Mr. Henson has spoken of regular work at five dollars a month. We will pay it down, Mr. Sutton.”
->
-> “I do not doubt it, Mrs. Pruitt.”
->
-> She lifted the basket. He raised the pencil to mark her goods off the counter.
->
-> “Mrs. Pruitt.”
->
-> She turned at the door.
->
-> “Take the half-pound of crackers in the barrel by the stove. There is no charge. The boy is fond of them.”
->
-> She did not answer for a moment. Then she nodded once.
->
-> “Thank you, Mr. Sutton.”
->
-> The bell rang as the door closed.

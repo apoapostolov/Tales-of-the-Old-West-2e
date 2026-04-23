@@ -58,6 +58,14 @@ The pursuit was the same as a train robbery, with the addition that the town's c
 
 ---
 
+## The Killing at the Card Table
+
+> Ramsey came through the door fast and Bell was already standing. Bell shot him once and Ramsey kept coming and Bell shot him a second time and Ramsey took two more steps and sat down at the table where the hands of the dead man from the first round of cards were still face down on the green cloth. He sat there a moment looking at the table and the cards. Then he laid his head down on the table beside them. The pistol he had not yet drawn was still under his coat.
+>
+> Bell stood holding the gun. Smoke hung in the room and the bartender was gone behind the bar. A clock on the wall went on counting the seconds it had been counting before either man came in.
+
+---
+
 ## 5. The Stage Robbery
 
 The road agent's classic crime. Smaller take, smaller risk than a train, smaller crew. Often one or two men. Three at most. The road agent worked alone or with a partner.
@@ -114,11 +122,3 @@ A posse was deputized by the sheriff (or, in the Indian Territory, by a U.S. mar
 A posse rode hard for two days, slower for the third. By the fourth day the men were tired, hungry, and out of grain for the horses. Most posses turned back after three days because they could not be supplied in the field. The Pinkerton Agency and the Wells Fargo detectives did the long pursuit work the local posse could not. A Pinkerton man might follow a fugitive for months, across multiple states, hiring local help as needed. The fugitive who beat a posse usually still had the Pinkertons to deal with.
 
 A posse that caught its man sometimes did not bring him back for trial. The lynch posse hanged him on the spot. The justification: he was caught with the goods, the trial was a foregone conclusion, the trip back was expensive. This was illegal but widely practiced and almost never prosecuted. (See Chapter 14 of this supplement and Chapter 24 on the dark frontier.)
-
----
-
-## Vignette — The Killing at the Card Table
-
-> Ramsey came through the door fast and Bell was already standing. Bell shot him once and Ramsey kept coming and Bell shot him a second time and Ramsey took two more steps and sat down at the table where the hands of the dead man from the first round of cards were still face down on the green cloth. He sat there a moment looking at the table and the cards. Then he laid his head down on the table beside them. The pistol he had not yet drawn was still under his coat.
->
-> Bell stood holding the gun. Smoke hung in the room and the bartender was gone behind the bar. A clock on the wall went on counting the seconds it had been counting before either man came in.

@@ -66,6 +66,20 @@ The fence on the border was different from the fence in the U.S. interior becaus
 
 ---
 
+## The Trail Down to the River
+
+> The trail came down out of the Chisos in the late afternoon and the river was visible from the divide as a thin green line in the brown country. Carlson sat his horse and looked at it.
+>
+> “Three more hours,” Romero said. “The crossing is at Boquillas. The water will be low this time of year.”
+>
+> “And then?”
+>
+> “Then we are in Coahuila, and the man we want is at his ranch ten miles south. If he is there.”
+>
+> Carlson nodded and started his horse down the trail. The country between him and the river was ocotillo and creosote and the sotol stalks standing dry from last year's bloom. A roadrunner crossed the trail ahead of them and was gone into the brush.
+
+---
+
 ## 4. Mexican Law Enforcement — the Rurales
 
 The Mexican federal rural police force — the _Cuerpo de Rurales_ — was established by Benito Juárez in 1861 and built up under Porfirio Díaz, who became president in 1876. The rurales were a mounted national police force charged with maintaining order in the countryside and pursuing bandits.
@@ -158,19 +172,7 @@ A scene at a Mexican hacienda has specific furniture: the casco's adobe walls, t
 
 ---
 
-## Vignette — The Trail Down to the River
-
-> The trail came down out of the Chisos in the late afternoon and the river was visible from the divide as a thin green line in the brown country. Carlson sat his horse and looked at it.
->
-> “Three more hours,” Romero said. “The crossing is at Boquillas. The water will be low this time of year.”
->
-> “And then?”
->
-> “Then we are in Coahuila, and the man we want is at his ranch ten miles south. If he is there.”
->
-> Carlson nodded and started his horse down the trail. The country between him and the river was ocotillo and creosote and the sotol stalks standing dry from last year's bloom. A roadrunner crossed the trail ahead of them and was gone into the brush.
-
-## Vignette — The Casco at Vespers
+## The Casco at Vespers
 
 > They came up the long dusty road to the casco of Hacienda San Felipe in the late afternoon and the bell at the chapel was ringing for vespers. The walls of the casco were ten feet high and the gate stood open. Inside the courtyard the well was working — a woman in a black rebozo was drawing water and pouring it into the trough for the patron's horses.
 >

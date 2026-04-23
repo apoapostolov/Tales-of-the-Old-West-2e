@@ -8,6 +8,8 @@ The country in the West is a character, sometimes the antagonist. A player or GM
 
 ## Part One — The Country
 
+---
+
 ## 1. Water
 
 Water is the first problem on the western half of the continent. West of the 100th meridian — roughly a line through central Texas, Oklahoma, Kansas, Nebraska, the Dakotas — rainfall drops below twenty inches a year. West of the 105th meridian it drops below fifteen. Nothing grows without irrigation. Travel is structured around water, not around terrain.
@@ -77,6 +79,18 @@ Western weather kills more often than men do. Each region has its own killers.
 - **Tornado** alley.
 - **Drought** cycles.
 - **Hurricane** along the coast — the 1875 and 1886 Indianola hurricanes destroyed the Texas port.
+
+---
+
+## The Blue Norther
+
+> The sky in the north went black at noon. McNair saw it first because he was riding the point and had nothing else in front of him. He sat the horse a moment. Then he turned in the saddle and called to Mendez and Mendez looked north and saw it and started riding back along the herd without waiting for orders. The boy with the wagon was already turning the team.
+>
+> The temperature began to drop while McNair was still giving the order. The wind came twenty minutes after the first sight of the cloud and it came hard. The herd had begun to drift south as the cattle felt it. McNair pulled his slicker from behind the cantle and got it on with one hand on the rein. The slicker was stiff with cold by the time he had it tied.
+>
+> The first snow came not in flakes but in pellets that stung the face. The light went out of the day. McNair could no longer see the wagon. He could no longer see Mendez. He could see his horse's ears and the gray that was the herd in front of him and that was all.
+>
+> By dark he had lost the count and was riding by the sound of the cattle. By midnight he could no longer hear them and rode by the wind on his face and what he remembered of the country. The cold had got under the slicker and he could not feel his feet in the stirrups. He thought of the boy in the wagon and could not think of him long because his mind would not stay where he put it. He rode.
 
 ---
 
@@ -294,6 +308,12 @@ For the 1870s and 1880s, the market hunter is at his peak and is a recognized pr
 
 ---
 
+## The Stand at First Light
+
+> Mooar was on the rest at first light. The herd had bedded a quarter mile out and was up and grazing now and the wind was right. He picked the cow that was watching back at him on the rise and put the bullet through her chest. She went down and the herd milled and did not run. He worked the breech and loaded and shouldered and shot the next cow and the next. The powder smoke hung in the still air. The herd would not break while the leaders kept dropping where the others could not see them fall. He shot for an hour. When he stopped he counted forty-three down and the herd had finally moved off and Tom and the boys were coming up with the wagon.
+
+---
+
 ## 11. The Wolfer
 
 The wolfer killed wolves for the bounty and for the pelts. He held the lowest social standing of any of the western hunters. The reason was the method.
@@ -448,21 +468,3 @@ The trapper is a solitary figure. The trader is a social one. Both are working m
 The buffalo hide hunter is the frontier industrial worker. Render him at the stand with the Sharps on the rest, the herd milling, the smoke hanging, the methodical work. The market hunter is a craftsman of the approach and the careful shot. He works alone or with a small crew. He knows his country. He ships meat to the railroad camp and the Eastern restaurant. He is not yet a poacher. The wolfer holds the lowest social standing of the hunters. He works strychnine bait. He kills indiscriminately. He smells of his work. The Native nations hate him. The other frontier men do not invite him to the fire. The professional sporting guide serves the Eastern and European hunting tourist. The scene is the East meeting the West. The contract hunter at the army post is a civilian employee; he brings in the fresh meat, knows the officers, is not one of them. The trapper of the residual fur trade is a diminished figure compared to the mountain man of the 1830s but is present. The political consequence of the buffalo slaughter is the destruction of the Plains nations' material base; the Native witness is the second character in any buffalo hunting scene that is being honestly played. The sound of the Sharps, the smell of the carcasses three days old, the silence of the country a month after the wolfer has worked it — these are the sensory anchors.
 
 The frontier hunter was not a sportsman. He was a worker. The work emptied a continent of its animals in two generations. Render the work and the country and the consequence, and the hunter stands in his place.
-
----
-
-## Vignette — The Stand at First Light
-
-> Mooar was on the rest at first light. The herd had bedded a quarter mile out and was up and grazing now and the wind was right. He picked the cow that was watching back at him on the rise and put the bullet through her chest. She went down and the herd milled and did not run. He worked the breech and loaded and shouldered and shot the next cow and the next. The powder smoke hung in the still air. The herd would not break while the leaders kept dropping where the others could not see them fall. He shot for an hour. When he stopped he counted forty-three down and the herd had finally moved off and Tom and the boys were coming up with the wagon.
-
----
-
-## Vignette — The Blue Norther
-
-> The sky in the north went black at noon. McNair saw it first because he was riding the point and had nothing else in front of him. He sat the horse a moment. Then he turned in the saddle and called to Mendez and Mendez looked north and saw it and started riding back along the herd without waiting for orders. The boy with the wagon was already turning the team.
->
-> The temperature began to drop while McNair was still giving the order. The wind came twenty minutes after the first sight of the cloud and it came hard. The herd had begun to drift south as the cattle felt it. McNair pulled his slicker from behind the cantle and got it on with one hand on the rein. The slicker was stiff with cold by the time he had it tied.
->
-> The first snow came not in flakes but in pellets that stung the face. The light went out of the day. McNair could no longer see the wagon. He could no longer see Mendez. He could see his horse's ears and the gray that was the herd in front of him and that was all.
->
-> By dark he had lost the count and was riding by the sound of the cattle. By midnight he could no longer hear them and rode by the wind on his face and what he remembered of the country. The cold had got under the slicker and he could not feel his feet in the stirrups. He thought of the boy in the wagon and could not think of him long because his mind would not stay where he put it. He rode.
