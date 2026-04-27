@@ -3,8 +3,12 @@
 # Tales of the Old West 2E
 
 <div style="display: flex; width: 90%; gap: 1%; align-items: stretch;">
-  <img src="01-corebook/00-cover.jpg" alt="Tales of the Old West 2E corebook cover" style="display: block; width: 49%; max-width: 49%; min-width: 0; height: 24rem; object-fit: cover; object-position: center top;">
-  <img src="02-the-1870s/00-cover.png" alt="Supplement 1: The 1870s cover" style="display: block; width: 49%; max-width: 49%; min-width: 0; height: 24rem; object-fit: cover; object-position: center top;">
+  <div style="flex: 1 1 0; aspect-ratio: 210 / 297; overflow: hidden;">
+    <img src="01-corebook/00-cover.jpg" alt="Tales of the Old West 2E corebook cover" style="display: block; width: 100%; height: 100%; object-fit: cover; object-position: center top;">
+  </div>
+  <div style="flex: 1 1 0; aspect-ratio: 210 / 297; overflow: hidden;">
+    <img src="02-the-1870s/00-cover.png" alt="Supplement 1: The 1870s cover" style="display: block; width: 100%; height: 100%; object-fit: cover; object-position: center top;">
+  </div>
 </div>
 
 My big project is an unofficial, cleaned-up manuscript set for _Tales of the
@@ -63,27 +67,11 @@ What this book brings:
 - a full example adventure: `The Yellowstone Line`
 - appendix material for named NPCs and handouts
 
-## What this project brings
-
-- a cleaned and reorganized manuscript structure
-- a two-book layout with clear directory boundaries
-- a repository-local `western-writing` skill for voice and consistency
-- a versioned changelog for editorial history
-- a rights notice that keeps the project clearly unofficial
-- a usable workbench for further western manuscript drafting
-
 ## Why it matters
 
 The point of the repository is simple: keep the game readable, keep the
 setting sharp, and make new material feel like it belongs in the same hard,
 dry country.
-
-## Support files
-
-- `CHANGELOG.md` for the development record
-- `LICENSE.md` for rights and attribution
-- cover files and chapter assets that live alongside the manuscript
-- `skills/western-writing/` for prose voice, lore, and manuscript tone
 
 ## License and notice
 
