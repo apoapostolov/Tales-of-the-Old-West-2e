@@ -11,8 +11,8 @@
   </div>
 </div>
 
-My big project is an unofficial, cleaned-up manuscript set for _Tales of the
-Old West_ — a gritty tabletop RPG set on the American frontier of the 1870s.
+Unofficial manuscript set for _Tales of the Old West_ — a gritty tabletop
+ RPG set on the American frontier of the 1870s.
 
 This is a fan-made package for groups who want a sharper, more usable version
 of the game: one complete corebook, one full setting supplement, and the skill
