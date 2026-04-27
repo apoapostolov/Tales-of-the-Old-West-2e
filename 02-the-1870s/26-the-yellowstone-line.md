@@ -6,7 +6,7 @@
 
 ## Historical Frame
 
-The Yellowstone basin forces an `1873` Montana campaign open.
+The Yellowstone basin is a start of a `1873` Montana campaign.
 
 Nothing in it sits quiet. The Army wants prestige and safe roads. Surveyors want a route other men will turn into stock, town lots, and contracts. Gallatin merchants want the rails bent toward their stores. Crow scouts want the Army deaf to everything but Crow interests. Lakota riders mean to bleed the white line before it crosses good hunting ground. The margins wait to see which ruin arrives first. The player characters drop into that violence. They start as contract hands: guards, teamsters, scouts, hunters, clerks, discharged soldiers, gamblers, or guides. By the end of the chapter, they see Army weakness, private greed, Lakota force, and the cost of carrying paper men kill for.
 
