@@ -4,10 +4,10 @@
 
 <div style="display: flex; width: 90%; gap: 1%; align-items: stretch;">
   <div style="flex: 1 1 0; aspect-ratio: 210 / 297; overflow: hidden;">
-    <img src="01-corebook/00-cover.jpg" alt="Tales of the Old West 2E corebook cover" style="display: block; width: 49%; object-fit: cover; object-position: center top;">
+    <img src="01-corebook/00-cover.jpg" alt="Tales of the Old West 2E corebook cover" style="display: block; width: 47%; object-fit: cover; object-position: center top;">
   </div>
   <div style="flex: 1 1 0; aspect-ratio: 210 / 297; overflow: hidden;">
-    <img src="02-the-1870s/00-cover.png" alt="Supplement 1: The 1870s cover" style="display: block; width: 49%; object-fit: cover; object-position: center top;">
+    <img src="02-the-1870s/00-cover.png" alt="Supplement 1: The 1870s cover" style="display: block; width: 47%; object-fit: cover; object-position: center top;">
   </div>
 </div>
 
