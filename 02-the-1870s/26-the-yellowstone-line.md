@@ -4,8 +4,6 @@
 >
 > _It took one dead teamster and a saddle cut loose in the dark to show what the country thought of that."_
 
-This is the example adventure chapter for the Montana book. It uses the geography, politics, and faction pressure established in the setting chapters above and turns them into one long hard ride.
-
 ## Historical Frame
 
 The Yellowstone basin forces an `1873` Montana campaign open.
