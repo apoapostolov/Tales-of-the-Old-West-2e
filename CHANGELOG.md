@@ -60,19 +60,8 @@ bundle, and the repo structure that supports both.
  	- atmospheric scene and example-text guidance
  	- cleanup and style notes for western RPG copy
 
-- **Repository layout cleanup.**
- 	- added the `01-corebook/` and `02-the-1870s/` book structure
- 	- documented the repo as a two-book project
- 	- replaced the old loose `Unreleased` release-note approach
-
 ### Changed
-
-- Reframed the repository around named book directories rather than a single
- flat manuscript dump.
-- Updated the root documentation to match the new project structure and tone.
-- Tightened the rights and notice language so the repository is clearly
- unofficial.
 
 ### Removed
 
-- The old `## [Unreleased]` bucket.
+
