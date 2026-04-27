@@ -2,70 +2,116 @@
 
 # Tales of the Old West 2E
 
-Public workbench for a cleaned-up, restructured markdown manuscript of
-_Tales of the Old West_ — a gritty tabletop RPG set in the American frontier
-of the 1870s.
+<div style="display: flex; width: 90%; gap: 1%; align-items: flex-start;">
+  <img src="01-corebook/00-cover.jpg" alt="Tales of the Old West 2E corebook cover" style="display: block; width: 49%; max-width: 49%; min-width: 0; height: auto;">
+  <img src="02-the-1870s/00-cover.png" alt="Supplement 1: The 1870s cover" style="display: block; width: 49%; max-width: 49%; min-width: 0; height: auto;">
+</div>
 
-<p align="center">
-  <img src="corebook/00-cover.jpg" alt="Tales of the Old West 2E cover" width="90%" />
-</p>
+My big project is an unofficial, cleaned-up, restructured markdown manuscript
+set for _Tales of the Old West_ — a gritty tabletop RPG set on the American
+frontier of the 1870s.
 
-## Overview
+This is not an official release. It is a fan-made manuscript set and companion
+toolkit for groups who want to run, expand, and build on _Tales of the Old
+West_ with serious intent.
 
-This repository contains:
+## What is in this repository
 
-- an integrated `corebook/` manuscript split by chapter
-- a `skills/` folder with AI authoring skills adapted for western RPG writing
+- `01-corebook/` — the complete player-facing core book
+- `02-the-1870s/` — the setting supplement for the wider 1870s West
+- `skills/western-writing/` — the repo-local skill for prose voice, lore,
+  and editorial passes
+- `CHANGELOG.md` — the version-by-version development record
+- `LICENSE.md` — the rights and notice file for this repository
 
-The manuscript was converted from PDF, cleaned with automated tooling, and
-formatted to match professional RPG corebook standards. It remains a working
-draft and should be treated as editorial material rather than a finished
-publication.
+## The two books
 
-## Repository Layout
+### Book 01 — _Tales of the Old West_
 
-- `corebook/`
-  - The integrated manuscript, one file per chapter.
-  - **Contents**:
-    - `01-welcome-to-the-old-west.md` — Introduction and overview
-    - `02-your-player-character.md` — Character creation
-    - `03-rolling-the-bones.md` — Core dice mechanics
-    - `04-talents.md` — Talents and special abilities
-    - `05-conflict-and-damage.md` — Combat, brawling, and social conflict
-    - `06-life-in-the-old-west.md` — Daily life, work, property, and settlement
-    - `07-the-west-in-the-1870s.md` — Historical setting and context
-    - `08-campaigns-in-the-old-west.md` — GM tools and campaign frameworks
-    - `09-the-new-mexico-campaign.md` — The New Mexico starter campaign
-    - `10-patience-is-a-virtue.md` — Patience is a Virtue adventure module
-- `skills/`
-  - AI authoring and analysis skills for working with the manuscript.
-  - `western-writing/` — Prose voice, diction, and anti-AI rules for western RPG text
-  - `western-rpg-design/` — Mechanics analysis and design methodology
-  - `rpg-balance-analysis/` — Four-lens balance evaluation framework
-  - `rpg-synergy-analysis/` — Multi-rule interaction auditing
-  - `pdf-to-rpg-markdown/` — PDF-to-markdown extraction and cleanup pipeline
-- `scripts/`
-  - Utility scripts used during manuscript preparation.
-- `CHANGELOG.md`
-  - Version history.
-- `LICENSE.md`
-  - Rights and attribution notice.
+The corebook carries the game forward as a full working rules volume rather
+than a loose stack of chapters. It gathers character creation, core rolls,
+talents, conflict, damage, everyday survival, the historical frame, and the
+campaign tools a table needs to start and keep going.
 
-## Source Material
+What this book brings:
 
-_Tales of the Old West_ is a tabletop RPG by Galloping Horse Games. This
-repository contains a markdown conversion of the core rules PDF, cleaned and
-restructured for reference use. The original game and its content belong to
-the original creators.
+- a complete introduction and welcome chapter
+- character creation and player-facing guidance
+- the core dice engine and resolution procedures
+- talents and special abilities
+- conflict, damage, injuries, and recovery
+- life in the Old West, including work, gear, and settlement pressure
+- the west in the 1870s as a usable historical frame
+- campaign tools, GM-facing guidance, and starter support
+- the New Mexico campaign chapter
+- the Patience Is a Virtue adventure
+- outlaws, pursuit, and the shape of frontier trouble
 
-## Generative AI Disclosure
+### Book 02 — _Supplement 1: The 1870s_
 
-This repository includes AI-assisted PDF-to-markdown conversion, cleanup
-scripting, and editorial tooling. The game text itself is from the original
-published PDF.
+The 1870s supplement turns the broader American West into a usable setting
+book. It is built for table play, not just reference reading, so each chapter
+adds concrete ground, practical constraints, and the kind of detail that
+changes decisions in play.
 
-## Editorial Principle
+What this book brings:
 
-The goal is a clean, readable, properly structured markdown manuscript — not
-a rewrite. The text preserves the original author's voice, rules, and
-structure while fixing extraction artifacts from the PDF conversion process.
+- front matter and editorial framing for the setting
+- peoples, conflict, and frontier social pressure
+- Native cultures and borderlands context
+- childhood, women, food, work, and material culture
+- language, literacy, print, religion, and faith
+- frontier survival, hunting, and the costs of travel
+- availability, prices, towns, economy, law, and procedural detail
+- cowboy life, horse culture, mining camps, and army life
+- outlaw craft, gambling, music, entertainment, medicine, and death
+- the dark frontier and regional landscapes
+- a full example adventure: `The Yellowstone Line`
+- appendix material for named NPCs and handouts
+
+## What this project brings
+
+- a cleaned and reorganized manuscript structure
+- a two-book layout with clear directory boundaries
+- a repository-local `western-writing` skill for voice and consistency
+- a versioned changelog for editorial history
+- a rights notice that keeps the project clearly unofficial
+- a usable workbench for further western manuscript drafting
+
+## AI and campaign work
+
+The `skills/western-writing/` folder is the main copilot layer for this repo.
+It exists so an AI agent or human editor can keep new material in the same
+register without re-explaining the basics every time.
+
+### Use it for
+
+- western prose voice and manuscript tone
+- lore and historical consistency checks
+- editorial cleanup and formatting passes
+- example scenes, vignettes, and atmospheric text
+- new manuscript material that needs to match the existing book line
+
+### Local use
+
+If your agent supports repo-local skills, copy or symlink the folder into your
+workspace skill path and keep the `SKILL.md` entry point intact.
+
+## Back matter and support files
+
+- `CHANGELOG.md` for the development record
+- `LICENSE.md` for rights and attribution
+- cover files and chapter assets that live alongside the manuscript
+- editorial helpers and scripts used during cleanup
+
+## License and notice
+
+This repository is an unofficial project that references _Tales of the Old
+West_, a tabletop roleplaying game created and published by Galloping Horse
+Games.
+
+This project is not affiliated with, sponsored by, or endorsed by Galloping
+Horse Games.
+
+Read `LICENSE.md` before publishing, distributing, or remixing material from
+this repository.
