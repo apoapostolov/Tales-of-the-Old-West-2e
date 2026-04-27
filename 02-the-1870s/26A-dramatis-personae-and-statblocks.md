@@ -1,10 +1,8 @@
 # Dramatis Personae and Statblocks
 
-This appendix covers the named NPCs and the most useful generic profiles from [02-the-yellowstone-line.md](/mnt/c/git-public/tales-of-the-old-west-2e/supplement-2-montana-campaign/book-content/02-the-yellowstone-line.md).
+This appendix covers the named NPCs and the most useful generic profiles from [26-the-yellowstone-line.md](/mnt/c/git-public/tales-of-the-old-west-2e/supplement-2-montana-campaign/book-content/02-the-yellowstone-line.md).
 
 Every named figure the party is likely to talk to, fight, guard, chase, or bargain with appears here.
-
-The named blocks below follow the stronger-NPC guidance in [07-npc-creation-helper.md](/mnt/c/git-public/tales-of-the-old-west-2e/supplement-2-montana-campaign/research/07-npc-creation-helper.md). Starting player-character limits are not treated as caps for officers, scouts, fixers, or major antagonists.
 
 ## Named NPCs
 
