@@ -2,25 +2,24 @@
 
 # Tales of the Old West 2E
 
-<div style="display: flex; width: 90%; gap: 1%; align-items: flex-start;">
-  <img src="01-corebook/00-cover.jpg" alt="Tales of the Old West 2E corebook cover" style="display: block; width: 49%; max-width: 49%; min-width: 0; height: auto;">
-  <img src="02-the-1870s/00-cover.png" alt="Supplement 1: The 1870s cover" style="display: block; width: 49%; max-width: 49%; min-width: 0; height: auto;">
+<div style="display: flex; width: 90%; gap: 1%; align-items: stretch;">
+  <img src="01-corebook/00-cover.jpg" alt="Tales of the Old West 2E corebook cover" style="display: block; width: 49%; max-width: 49%; min-width: 0; height: 24rem; object-fit: cover; object-position: center top;">
+  <img src="02-the-1870s/00-cover.png" alt="Supplement 1: The 1870s cover" style="display: block; width: 49%; max-width: 49%; min-width: 0; height: 24rem; object-fit: cover; object-position: center top;">
 </div>
 
-My big project is an unofficial, cleaned-up, restructured markdown manuscript
-set for _Tales of the Old West_ — a gritty tabletop RPG set on the American
-frontier of the 1870s.
+My big project is an unofficial, cleaned-up manuscript set for _Tales of the
+Old West_ — a gritty tabletop RPG set on the American frontier of the 1870s.
 
-This is not an official release. It is a fan-made manuscript set and companion
-toolkit for groups who want to run, expand, and build on _Tales of the Old
-West_ with serious intent.
+This is a fan-made package for groups who want a sharper, more usable version
+of the game: one complete corebook, one full setting supplement, and the skill
+tools to keep new material in the same hard, western voice.
 
 ## What is in this repository
 
-- `01-corebook/` — the complete player-facing core book
-- `02-the-1870s/` — the setting supplement for the wider 1870s West
-- `skills/western-writing/` — the repo-local skill for prose voice, lore,
-  and editorial passes
+- `01-corebook/` — the complete player-facing game
+- `02-the-1870s/` — the 1870s setting book with history, people, danger, and
+  an example adventure
+- `skills/western-writing/` — the prose and lore skill bundle
 - `CHANGELOG.md` — the version-by-version development record
 - `LICENSE.md` — the rights and notice file for this repository
 
@@ -28,14 +27,11 @@ West_ with serious intent.
 
 ### Book 01 — _Tales of the Old West_
 
-The corebook carries the game forward as a full working rules volume rather
-than a loose stack of chapters. It gathers character creation, core rolls,
-talents, conflict, damage, everyday survival, the historical frame, and the
-campaign tools a table needs to start and keep going.
+The corebook carries the game forward as a full working rules volume. It keeps
+the core loop tight, playable, and grounded in frontier pressure.
 
 What this book brings:
 
-- a complete introduction and welcome chapter
 - character creation and player-facing guidance
 - the core dice engine and resolution procedures
 - talents and special abilities
@@ -50,13 +46,11 @@ What this book brings:
 ### Book 02 — _Supplement 1: The 1870s_
 
 The 1870s supplement turns the broader American West into a usable setting
-book. It is built for table play, not just reference reading, so each chapter
-adds concrete ground, practical constraints, and the kind of detail that
-changes decisions in play.
+book. It gives the table hard facts, hard choices, and the feel of a country
+that can reward the wrong people.
 
 What this book brings:
 
-- front matter and editorial framing for the setting
 - peoples, conflict, and frontier social pressure
 - Native cultures and borderlands context
 - childhood, women, food, work, and material culture
@@ -78,31 +72,18 @@ What this book brings:
 - a rights notice that keeps the project clearly unofficial
 - a usable workbench for further western manuscript drafting
 
-## AI and campaign work
+## Why it matters
 
-The `skills/western-writing/` folder is the main copilot layer for this repo.
-It exists so an AI agent or human editor can keep new material in the same
-register without re-explaining the basics every time.
+The point of the repository is simple: keep the game readable, keep the
+setting sharp, and make new material feel like it belongs in the same hard,
+dry country.
 
-### Use it for
-
-- western prose voice and manuscript tone
-- lore and historical consistency checks
-- editorial cleanup and formatting passes
-- example scenes, vignettes, and atmospheric text
-- new manuscript material that needs to match the existing book line
-
-### Local use
-
-If your agent supports repo-local skills, copy or symlink the folder into your
-workspace skill path and keep the `SKILL.md` entry point intact.
-
-## Back matter and support files
+## Support files
 
 - `CHANGELOG.md` for the development record
 - `LICENSE.md` for rights and attribution
 - cover files and chapter assets that live alongside the manuscript
-- editorial helpers and scripts used during cleanup
+- `skills/western-writing/` for prose voice, lore, and manuscript tone
 
 ## License and notice
 
