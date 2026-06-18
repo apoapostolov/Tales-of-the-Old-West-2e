@@ -82,10 +82,16 @@ What this domain brings:
   Cristos. A dead federal surveyor, a hidden field book, and a quiet-title
   suit drive a fight over land, gold, a railroad right of way, and the
   eastern boundary of the grant itself.
-- `01A-dramatis-personae-and-statblocks.md` — the expanded cast: full
+- `01A-towns-trails-road-to-cimarron.md` — the sandbox companion:
+  keyed gazetteers for San Esteban, Elizabethtown, and Cimarron, plus
+  pointcrawl travel procedures, route timings, and encounter/event tables
+  for the country between them.
+- `01B-dramatis-personae-and-statblocks.md` — the expanded cast: full
   profiles, wants, needs, fears, and statblocks for every named figure and
   every generic profile in the campaign.
-- `01B-historical-facts-and-authenticity.md` — the historian's treatise.
+- `01C-handouts.md` — player-facing papers, notices, extracts, and
+  field-book leaves sized for table use.
+- `01D-historical-facts-and-authenticity.md` — the historian's treatise.
   Documents the real Maxwell Land Grant history the campaign is built on,
   the surveyor's trade, the plaza's life, the mercury in the creek, and the
   psychology of the operators, with an explicit ledger of what is invented

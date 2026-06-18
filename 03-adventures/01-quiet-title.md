@@ -4,13 +4,13 @@
 >
 > By the first cutting of hay, the plaza was in the suit and the book was still missing.
 
-The Sangre de Cristo country is the right way to open a northern New Mexico campaign in `1873`.
+The Sangre de Cristo country is a strong place to open a northern New Mexico campaign in `1873`.
 
-Nothing in it is settled. A foreign-backed company claims a million and three quarter acres by paper and sends its riders to prove it. Hispano families who broke this ground before Maxwell was born are served notice that they squat on land they have always owned. Gold men at Baldy Mountain want the diggings free of royalty. A railroad company wants a right of way across the grant and does not much care whose name is on the deed so long as the deed is clean. Jicarilla and Ute hunters are being fenced off the high country where they have always taken their meat. The courts belong to the same men who own the paper. This chapter drops the player characters into that knot. They begin low. A hired hand, a vaquero, a teamster, a mine mucker, a discharged soldier, a courthouse clerk run out of Santa Fe, a newspaperman sent up from the _Cimarron News_ to cover the suit, a bounty hunter on a paper of his own. All of those fit. By the end of the chapter they will have seen corporate greed, a community's slow dispossession, frontier law bought and paid for, the cost of a true line run through country that wants the false one, and the price of carrying a book men are willing to kill for.
+Nothing in it is settled. A foreign-backed company claims a million and three quarter acres by paper and sends riders to prove the claim. Hispano families who broke this ground before Maxwell was born are told they squat on land they have always held. Gold men at Baldy Mountain want the diggings free of royalty. The railroad wants a right of way across the grant and cares little whose name sits on the deed so long as the deed will stand. Jicarilla and Ute hunters are being fenced out of high country where they have always taken game. The courts are tied to the same interests that hold the paper. This chapter drops the player characters into that knot at the low end of things: hired hands, vaqueros, teamsters, mine muckers, discharged soldiers, clerks turned out of Santa Fe, newspapermen sent up from the _Cimarron News_, bounty hunters riding on a notice of their own. All belong here. By the time the chapter ends, they will have seen purchased law, the slow stripping of a community, the cost of a true line run through country that wants the false one, and the price of carrying a book men are willing to kill for.
 
-The action has a hard reckoning and several true roads to it. The plaza of San Esteban sits at the mouth of a cañón on the eastern slope of the Sangre de Cristos, inside the Maxwell Grant boundary as the Company draws it. A dead surveyor, a frightened guide, and a missing field book begin the trouble before the player characters understand whose side they are on. Out in the field the quiet-title suit turns political, then openly violent. A Jicarilla warning offers one way through the high country while Company riders and gold-camp toughs push toward another. The railroad offers a quieter road, the ledger another, and both can prove as bloody in the end as the ridge. By the time the book surfaces and men begin shooting one another in the courtroom town of Cimarron, or by the time the party sells, buries, or outflanks it, the campaign is no longer about one surveyor's death. It is about who gets to name the ground and who gets driven off it. What the player characters carry out of Cimarron becomes the first real leverage they hold in New Mexico.
+This adventure has a hard reckoning ahead of it, but more than one honest road to reach it. San Esteban lies at the mouth of a cañón on the eastern slope of the Sangre de Cristos, inside the Maxwell Grant line as the Company chooses to draw it. A dead surveyor, a frightened guide, and a missing field book set the trouble in motion before the player characters know where they stand. In the field, the quiet-title suit turns political and then violent. A Jicarilla warning opens one road through the high country while Company riders and gold-camp roughs force another. The railroad offers a quieter bargain. The ledger offers another. Both can end as bloodily as the ridge. By the time the book surfaces and shots are fired in Cimarron, or by the time the party sells it, hides it, or makes it irrelevant, the story is no longer about one surveyor's death. It is about who has the right to name the ground and who gets driven off it. What the player characters carry out of Cimarron becomes the first real leverage they hold in New Mexico.
 
-> **For the Game Master.** The spine of this adventure is real history. The plaza, the surveyor, and the Company are invented; the grant, the boundary fraud, the owned court, the railroad, the gold camp, and the ruin are not. [01B-historical-facts-and-authenticity.md](01B-historical-facts-and-authenticity.md) is the treatise that documents exactly where the record ends and the fiction begins, with the surveyor's trade, the plaza's life, the mercury in the creek, the psychology of the operators, and the senses of the grant country in spring `1873`. Read it before you run. Run any scene against it and the ground under the scene will hold.
+> **For the Game Master.** The spine of this adventure is real history. The plaza, the surveyor, and the Company are invented; the grant, the boundary fraud, the owned court, the railroad, the gold camp, and the ruin are not. Use [01A-towns-trails-road-to-cimarron.md](01A-towns-trails-road-to-cimarron.md) for the gazetteers and pointcrawl travel, [01B-dramatis-personae-and-statblocks.md](01B-dramatis-personae-and-statblocks.md) for the cast, [01C-handouts.md](01C-handouts.md) for player-facing papers, notices, extracts, and field-book leaves, and [01D-historical-facts-and-authenticity.md](01D-historical-facts-and-authenticity.md) for the treatise that documents exactly where the record ends and the fiction begins. Read all four before you run. Run any scene in the adventure against them and the ground under it will hold.
 
 
 ## Historical Frame
@@ -29,9 +29,9 @@ The **Atchison, Topeka and Santa Fe Railroad**, chartered in `1859`, was buildin
 
 ## The Shape of It
 
-The line of events is plain enough. The player characters arrive at San Esteban as the spring court term opens and the first eviction notices go up. A dead surveyor and a frightened guide show that the trouble began before the notices were ever nailed to the doors. In the field the quiet-title suit turns into a fight over a field book that proves the Company's eastern line was run twelve miles east of where it should have been. A Jicarilla warning offers one path through the high country while private greed and Company riders push toward another. By the time the book splits and men begin shooting one another in the Cimarron courthouse, the campaign is no longer about one surveyor. It is about who owns the country and who owns the lie. What survives the ride down to Cimarron becomes the first real leverage the player characters hold in New Mexico.
+The broad course is simple enough. The player characters arrive as the spring term opens and the first eviction notices go up in San Esteban. A dead surveyor and a frightened guide make it plain that the trouble started well before the notices were nailed to any door. In the field, the quiet-title suit becomes a fight over a field book that can prove the Company's eastern line was run twelve miles too far east. A Jicarilla warning opens one road through the high country while private greed and Company riders force another. By the time the book is divided, copied, hidden, or fought over in Cimarron, the campaign is no longer about one surveyor. It is about who owns the country and who gets to make a lie official. Whatever survives the ride to Cimarron becomes the first real leverage the player characters hold in New Mexico.
 
-The shape is firm, but it should never feel locked. Parties will do what quiet-title suits never pretend they will not. They will read the survey before they are told to, ride after the wrong man in the dark, pocket a page that was meant to change hands later, threaten the judge, strike a private bargain with the Company's own surveyor, or decide the whole paper edifice can go to hell after the first child turns up burned out of a house. Let them. The strength of this chapter is not that the players obey the suit. The strength of it is that every attempt to seize control of the book changes who still trusts them, who fears them, and who thinks they can be used.
+The shape is firm, but it should never feel fixed. Parties will read the survey before anyone invites them to, ride after the wrong man in the dark, pocket a page meant to change hands later, threaten the judge, strike a private bargain with the Company's own surveyor, or decide the whole paper edifice can go to hell after the first family is burned out or ruined. Let them. The strength of this chapter is not that the players obey the suit. It is that every attempt to seize control of the truth changes who still trusts them, who fears them, and who believes they can be used.
 
 ## Why a Character Comes to the Plaza
 
@@ -39,53 +39,158 @@ No decent person has to love either side of this suit. The best motives are mixe
 
 A better hook is often personal. One character may have kin in the plaza and know that a line drawn on paper in Santa Fe can lift one family and ruin another. Another may have freighted for the Company and know from the look of the wagons that the survey was bent. A courthouse clerk, a draughtsman, a newspaperman, or a lawyer's runner may come because paper is the nearest thing he has to power in a hard country, and because men with soft hands and neat writing are often the first to know where the real money lies. If the group wants stronger ties from the start, give each character one thread into the suit: prior work for the dead surveyor Halladay, a bad debt to a Cimarron merchant, a sister married into the Archuleta family, a night's shelter once taken at the Montoya sheep camp, a long acquaintance with the guide Tomás Luján on the road between settlements. Those ties do more than bring the party together. They make the lies personal.
 
+### Personal motivations by starting allegiance
+
+If the group wants firmer ground under its first choices, use one of the following starting allegiances and ask each player to take at least one motive from that side. Three are given for each because a party that shares an employer should still want different things from the same country.
+
+#### Starting with the comunidad of San Esteban
+
+- **Blood on the ridge:** A character's mother was an Archuleta, a cousin married into the Montoyas, or a brother is buried on the ridge above the church. If the eastern line stands, the family's fields, graves, or water rights are taken with it.
+- **Sent for by the plaza:** Father Vigil or Eufemia asked the character to come up from Taos, Mora, or Las Vegas to read English notices, carry letters, guard the sheep camp, or help put the plaza's old papers in order before the hearing.
+- **Wages, stock, and old accounts:** Don Ignacio has promised a lawful share of recovered stock, wages for guarding the upper camp, or forgiveness of an old store debt if the character helps keep the flock and the witnesses alive through spring term.
+- **A favor not forgotten:** The character once wintered hungry at the Montoya camp, was doctored back to health by Pilar, or was given a horse on credit when no one else would risk it. He came back because some debts should be paid standing up.
+
+#### Starting with Hadley and the Company
+
+- **Company gold spends clean:** Hadley offers real wages in gold, regular meals, and the protection of Company paper. A discharged soldier, teamster, survey hand, or rider with no land of his own may see no cleaner offer in the territory.
+- **Riding on Company business:** The character has been sent to carry notices, escort chainmen, watch Tomás Luján, or quietly learn whether Halladay's missing field book still exists. He does not have to like the work to take it.
+- **Posted money and a name on it:** The Company has posted money for a missing witness, stolen survey gear, a saboteur on the freight road, or any information leading to the recovery of Halladay's private papers. A bounty hunter, deputy, or hard-pressed drifter may follow the money first and the truth later.
+- **Hadley holds the paper:** Hadley knows the character's debt, record, scandal, or warrant, and offers to smooth it over in Cimarron if the character proves useful. That is not friendship. It is still a reason to ride under Company orders.
+
+#### Starting with the Baldy gold camp
+
+- **Kin in the diggings:** A brother, former partner, or in-law has a claim at Elizabethtown and swears the Company's royalty is choking the camp dry. If the diggings go under, the family stake goes with them.
+- **Sent down off the mountain:** Strand, an assayer, or a camp committee sends the character to San Esteban and Cimarron to learn whether the plaza will break the Company's line, whether Ouida's grant language is real, or whether a hearing can be turned against the royalty claim.
+- **Dust for whoever finds him first:** The camp wants a claim jumper, dust thief, missing courier, or hired gun found before he reaches Company protection down the mountain. The reward is in gold dust, which speaks loudly to men already short on cash.
+- **A played-out claim:** The character's own cut above Willow Creek is pinched out, the assay slips are running light, and one good season tied to the right side of the suit may be the difference between starting over and starving.
+
+#### Starting from Cimarron, the court, or a private errand
+
+- **Town kin in bad paper:** A sister is married to a clerk in Cimarron, an uncle works the hotel, or kin are caught on the wrong side of a debt note tied to the suit. The character comes because paper in town is about to ruin blood in the country.
+- **Sent ahead of the hearing:** Filomeno Baca, Thaddeus Lowe, Father Vigil, or a parish contact in Taos has sent the character to gather testimony, copy records, find Halladay's guide, or carry messages between the plaza, the camp, and the courtroom town.
+- **A private reward on the truth:** A private reward is out for Halladay's killer, for the return of his missing field book, or for proof that the survey was falsified. A newspaperman, lawyer's runner, former deputy, or freelance hunter may start with the posted notice and only later discover what country the notice truly names.
+- **A future in one packet of papers:** The character believes one clean piece of paper can buy a future: a byline in the press, admission to the bar, a contract with the railroad, or a reputation as the one man in New Mexico who can fetch truth out of a crooked court.
+
+These allegiances are starting ground, not shackles. A Company rider may have cousins in the plaza. A gold-camp courier may be carrying a priest's letter in his saddle roll. A bounty hunter may discover, by the second night, that the reward he rode for is smaller than the thing itself. That is the right shape of it.
+
+### Group start survey: the measure of their souls
+
+If the table wants the starting side to grow out of the party's temperament rather than out of declared preference, use the following survey before play. Read each question aloud and have the players vote as a group for the answer that best describes the party's shared cast of mind. If the table is split, let them argue it out in character terms until one answer wins. If it is still tied, the Game Master may either take the answer that produced the strongest discussion or award the points for both tied answers.
+
+This is not a survey of tactics. It is a survey of conscience, appetite, pride, fear, and the kind of wrong the party can live with. The language should feel like the year. The result should feel like fate.
+
+Track four point pools:
+
+- `Plaza` for the comunidad of San Esteban
+- `Company` for Hadley and the Maxwell Company's hire
+- `Camp` for Strand, Elizabethtown, and the gold interest
+- `Court` for Cimarron, private inquiry, the press, or the lawyer's road into the story
+
+Each answer gives `2` points to the party's strongest impulse and `1` point to the neighboring impulse that most naturally follows it. Some answers also deduct `1` or `2` points from a truly opposed impulse. Men do not divide as cleanly as party labels do, but there are still convictions that harden against one another. A defender of home may still care deeply about proof. A Company hand may still have an eye for profit. A camp opportunist may still hate monopoly. Let the scoring reflect that.
+
+After ten questions, compare totals.
+
+- Highest `Plaza`: The party begins hired, welcomed, or called in by San Esteban.
+- Highest `Company`: The party begins on Company wages, Company errands, or Company protection.
+- Highest `Camp`: The party begins with Baldy interests, gold-camp business, or anti-royalty work.
+- Highest `Court`: The party begins from Cimarron, a legal errand, a newspaper lead, a church request, or a private hunt for proof.
+
+If two pools tie for first, use the tie as a mixed beginning.
+
+- `Plaza` and `Court`: The party comes as helpers, runners, or investigators already half-committed to the plaza's cause.
+- `Plaza` and `Camp`: The party comes from the diggings to treat with San Esteban against the Company.
+- `Plaza` and `Company`: The party starts under truce, escort, or doubtful hire, already divided in loyalty.
+- `Company` and `Camp`: The party begins as men trying to profit from both sides before the ground gives way under them.
+- `Company` and `Court`: The party starts as respectable hirelings, deputies, clerks, or paper-carriers near the suit's machinery.
+- `Camp` and `Court`: The party begins with a legal errand, a newspaper lead, or a witness hunt tied to the gold claim.
+
+If three or more pools tie, let the players choose among the tied results and keep the survey's answers as guidance for how the party behaves under pressure.
+
+#### The catechism
+
+**1. When a man in authority gives an order your conscience dislikes, what binds you more strongly?**
+
+- **A.** The ground under your feet and the people who sleep on it. `Plaza +2, Court +1, Company -1`
+- **B.** The promise made when wages were taken. `Company +2, Court +1`
+- **C.** Your own stake, so long as no man cheats you of it. `Camp +2, Company +1, Plaza -1`
+- **D.** The need to know by what right the order was given at all. `Court +2, Plaza +1, Company -1`
+
+**2. What kind of insult is hardest to forgive?**
+
+- **A.** A contempt shown to your kin, your dead, or your place. `Plaza +2, Camp +1, Company -1`
+- **B.** Being used and then denied your due. `Company +2, Camp +1, Court -1`
+- **C.** Having another man lay claim to what your labor uncovered. `Camp +2, Plaza +1, Company -1`
+- **D.** Being lied to with a straight face and a clean document. `Court +2, Company +1, Camp -1`
+
+**3. Suppose a starving family breaks a lawful fence for grazing. What first rises in you?**
+
+- **A.** Pity, because hunger outranks paper. `Plaza +2, Court +1, Company -1`
+- **B.** Concern, because once order fails all bargains rot. `Company +2, Plaza +1, Camp -1`
+- **C.** Recognition, because a man takes what he can keep. `Camp +2, Plaza +1, Company -1`
+- **D.** Curiosity about who wrote the law and who profits by it. `Court +2, Camp +1, Company -1`
+
+**4. Which sort of courage do you trust most?**
+
+- **A.** The courage to remain when the country is trying to drive you out. `Plaza +2, Company +1`
+- **B.** The courage to do hard duty without complaint. `Company +2, Plaza +1, Camp -1`
+- **C.** The courage to risk ruin on one rich strike. `Camp +2, Court +1, Company -1`
+- **D.** The courage to stand in public and name a lie for what it is. `Court +2, Plaza +1, Company -1`
+
+**5. What most often brings a man to grief?**
+
+- **A.** Forgetting who he belongs to. `Plaza +2, Company +1, Camp -1`
+- **B.** Taking wages and then imagining himself free of obligation. `Company +2, Plaza +1, Camp -1`
+- **C.** Hesitating when fortune finally opens a door. `Camp +2, Company +1, Court -1`
+- **D.** Mistaking custom and noise for truth. `Court +2, Camp +1, Company -1`
+
+**6. A man offers you money to keep quiet. What thought tempts you most?**
+
+- **A.** Whether silence would shame your people. `Plaza +2, Court +1, Camp -1`
+- **B.** Whether the offer proves you have become valuable. `Company +2, Camp +1, Plaza -1`
+- **C.** Whether the sum is large enough to change your station. `Camp +2, Company +1, Plaza -1`
+- **D.** Whether taking it would hide a fact that ought to be brought to light. `Court +2, Plaza +1, Company -2`
+
+**7. What do you believe most men are, when stripped bare?**
+
+- **A.** Loyal to their own, even when it costs them. `Plaza +2, Company +1, Court -1`
+- **B.** Governed by interest, discipline, and fear of consequences. `Company +2, Court +1, Plaza -1`
+- **C.** Hungry creatures chasing advantage in a mean world. `Camp +2, Company +1, Plaza -1`
+- **D.** Self-deceiving, and most dangerous when they think themselves righteous. `Court +2, Camp +1, Plaza -1`
+
+**8. Which failing is most pardonable?**
+
+- **A.** Violence done in defense of home. `Plaza +2, Camp +1, Court -1`
+- **B.** Coldness in a man carrying out necessary business. `Company +2, Court +1, Plaza -1`
+- **C.** Greed in a man who came up poor and means to die otherwise. `Camp +2, Company +1, Plaza -1`
+- **D.** Secrecy in a man trying to learn the whole of a matter before he speaks. `Court +2, Company +1`
+
+**9. What sort of victory feels truest to you?**
+
+- **A.** To keep what was already yours. `Plaza +2, Court +1, Company -1`
+- **B.** To secure the verdict and hold the line after it. `Company +2, Plaza +1, Camp -1`
+- **C.** To break a monopoly and open the ground. `Camp +2, Court +1, Company -2`
+- **D.** To force the truth into the record where it cannot be denied. `Court +2, Plaza +1, Company -1`
+
+**10. At the end of a bad season, what would you rather be able to say of yourselves?**
+
+- **A.** We did not abandon our own. `Plaza +2, Court +1, Company -1`
+- **B.** We finished the work we were paid to do. `Company +2, Plaza +1`
+- **C.** We did not let the chance pass us by. `Camp +2, Company +1, Plaza -1`
+- **D.** We learned what was really done and by whom. `Court +2, Camp +1, Company -1`
+
+#### Reading the result
+
+Do not treat the survey as a prison. It gives the party its first road into the chapter, not the only road out of it. A `Company` result does not mean the party is wicked. It means the party respects order, contract, leverage, and the rough dignity of doing paid work well. A `Plaza` result does not mean the party is pure. It means the party places belonging, memory, and obligation above paper. A `Camp` result means appetite, risk, and resentment of monopoly matter more to them than settled respectability. A `Court` result means they are drawn toward proof, testimony, exposure, and the dangerous hope that truth, once named, might still carry weight.
+
+If you want finer shading, note the second-highest pool as well. That second pool tells you what temptation is always closest at hand. A `Plaza` party with high `Court` points wants justice, not merely survival. A `Company` party with high `Camp` points is already half-ready to sell its employer for a better cut. A `Court` party with high `Plaza` points may begin as investigators and end as partisans. That is useful knowledge before the first rider ever comes up the road.
+
 ## The Plaza
 
 The player characters make their base in the plaza of **San Esteban**, a Hispano settlement on the Arroyo de las Vacas at the mouth of a cañón in the eastern Sangre de Cristos, inside the grant line as the Company draws it. The real anchors around it are the boom camp of **Elizabethtown** on Baldy Mountain to the north, the Company town of **Cimarron** and its courthouse to the east, **Fort Union** to the south, and **Santa Fe** beyond, where the Ring sits and the paper is filed.
 
 San Esteban was founded in `1847` by two families fleeing the Taos Rebellion and the chaos after it. Don Teodoro Montoya brought sheep and the Archuletas brought cattle and between them they broke the ground, dug the acequia, raised the church, and buried their dead on the ridge above. By `1873` the plaza holds sixty families and a few hundred souls, Hispano almost to a one, with a small Anglo contingent at the store and the assay office and a handful of Jicarilla who winter in the cañón and trade in the plaza. The families have run stock, sheared wool, cut hay, and panned enough color out of the creek to live on for twenty-six years. None of it has ever been inside any grant, until the Company's new line said it was.
 
-The plaza itself is a square of adobe around a dirt common, the church on the north side, the Montoya and Archuleta houses flanking it, the store and the saloon and the livery across the common, the acequia running down the middle. The cemetery stands on the ridge above, white crosses visible from the doors of the church. The cañón runs west into the mountains, narrow and timbered, the creek falling over ledges, the old trail up to the high parks and the Jicarilla country. East of the plaza the country opens out into the rolling sage and grass of the grant, the road running down to Cimarron and the court.
-
-### San Esteban Summary
-
-| San Esteban Summary | Value |
-| ----------------------- | ----- |
-| Settlement Points       | 0     |
-| Bonus SP per Season     | 1     |
-
-| Civic Offices | Holder | Notable Citizens | Role |
-| --- | --- | --- | --- |
-| Mayor (Juez de Agua) | Don Ignacio Montoya (unofficial) | Eufemia Archuleta | trader & matriarch |
-| Judge | None (suit pending in Cimarron) | Father Sabino Vigil | priest |
-| Sheriff | Bud Tatum (Company man, in Cimarron) | Tomás Luján | guide |
-| Deputy | None in the plaza | | |
-
-| Aspect | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Rank Milestones | I | | II | | | | III | | | | | | IV | | | | | | V | | | | | | | VI | | | | | |
-| Roll | -2 | -2 | -1 | -1 | -1 | -1 | 0 | 0 | 0 | 0 | 0 | 0 | +1 | +1 | +1 | +1 | +1 | +1 | +2 | +2 | +2 | +2 | +2 | +2 | +2 | +2 | +3 | +3 | +3 | +3 |
-| FARMING | X | X | X | X | X | | | | | | | | | | | | | | | | | | | | | | | | | |
-| MERCANTILE | X | X | X | X | | | | | | | | | | | | | | | | | | | | | | | | | |
-| NATURAL RICHES | X | X | X | X | X | X | | | | | | | | | | | | | | | | | | | | | | | | |
-| LAW | X | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| CIVIC | X | X | X | X | X | | | | | | | | | | | | | | | | | | | | | | | | |
-| WELFARE | X | X | X | X | | | | | | | | | | | | | | | | | | | | | | | | |
-
-| Prosperity | Value | 6 to 10 | 11 to 14 | 15 to 18 | 19 to 23 | 24 to 27 | 28 to 31 | 32 to 36 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Modifier | | Minus 2 from the Tens Die | Minus 1 from the Tens Die | Minus 3 from the Units Die | No modifier | Add 3 to the Units Die | Add 1 to the Tens Die | Add 2 to the Tens Die |
-| PROSPERITY | 12 | X | X | | | | | |
-
-| Year | Season | Amenity | Notes |
-| --- | --- | --- | --- |
-| 1847 | Spring | Wells (the acequia) | +1 SP per Season |
-| 1849 | Fall | Church | +1 SP per Season |
-| 1852 | Spring | Cemetery | |
-| 1858 | Summer | General Stores | |
-| 1863 | Fall | Maintained Tracks (the Cimarron road) | |
-| 1867 | Spring | Panning Claims | +1 SP per Season |
-| 1870 | Winter | Stables | |
+The plaza itself is a square of adobe around a dirt common, the church on the north side, the Montoya and Archuleta houses flanking it, the store and the saloon and the livery across the common, the acequia running down the middle. The cemetery stands on the ridge above, white crosses visible from the doors of the church. The cañón runs west into the mountains, narrow and timbered, the creek falling over ledges, the old trail up to the high parks and the Jicarilla country. East of the plaza the country opens out into the rolling sage and grass of the grant, the road running down to Cimarron and the court. The full settlement statblock for San Esteban, along with equivalent entries for Elizabethtown and Cimarron, appears in [01A-towns-trails-road-to-cimarron.md](01A-towns-trails-road-to-cimarron.md).
 
 San Esteban is older than most of the towns of the territory and it shows. The adobe is weathered smooth and the acequia has run clean for a quarter century and the cemetery has more graves than the plaza has living folk. The families know one another's debts and one another's dead. A stranger who comes into the plaza is measured in the first hour by people who have been measuring strangers for a long time. The Company has no office here and never has had. The Law aspect sits at rank one because no sheriff has ever worn a badge in the plaza and the nearest court is two days east in Cimarron. The community's strength is in its Civic rank and in its long memory, and the Company's first move in the suit will be to attack exactly those things.
 
@@ -140,7 +245,7 @@ These pressures should answer later choices, not merely decorate them. If the pa
 
 ## Core Cast
 
-These are the principal named figures of the chapter. What follows is the first impression each one gives — the paragraph a player reads across a crowded room or the GM reads the moment an NPC opens a door. The full profiles (backstory, want, need, fear, how to play them) and the complete statblocks for every named figure and every generic profile in the chapter live in [01A-dramatis-personae-and-statblocks.md](01A-dramatis-personae-and-statblocks.md). Run the social scenes below with both files open.
+These are the principal named figures of the chapter. What follows is the first impression each one gives — the paragraph a player reads across a crowded room or the GM reads the moment an NPC opens a door. The full profiles (backstory, want, need, fear, how to play them) and the complete statblocks for every named figure and every generic profile in the chapter live in [01B-dramatis-personae-and-statblocks.md](01B-dramatis-personae-and-statblocks.md). Run the social scenes below with both files open.
 
 `Cornelius V. Hadley` is a white man in his middle forties, Yale-educated, tall, narrow through the face, and dressed too well for the country he works in. The first impression he gives is of patience used as a weapon. He never raises his voice. He folds his hands when he listens. He writes down names in a small leather book without seeming to and he has the habit of answering a hard question with a softer question of his own that turns the matter back on the asker. He speaks in measured educated sentences and wastes no western color, which itself puts frontier men off their stride. In his general view, the player characters are labor and risk to be priced; if they prove themselves above their price he promotes them, and if they prove themselves below it he has them removed with paperwork rather than lead. He is the Company.
 
@@ -185,20 +290,20 @@ Before the player characters ride into the plaza, let each player hear one or tw
 
 ## How This Sandbox Runs
 
-The arcs below are scenery, not track. They exist so the game master always has a ready scene for any direction the party turns. They are not the order in which the tale must unfold. The party can ride for Baldy before it ever walks the plaza, ride into Cimarron on day one to read the suit, climb the cañón in the first week, or sit in the saloon and run a long con on Hadley's riders without ever drawing iron. None of those is wrong. The job here is not to move the party through a sequence. The job is to make the country and its factions push back, no matter where the party goes and no matter how cleverly it tries to cut the knot.
+The sections below are not a track. They are a working country, arranged so the Game Master always has a live scene ready no matter where the party turns. The party can ride for Baldy before it ever sees the plaza, reach Cimarron on the first day to read the suit, climb the cañón in the first week, or sit in a saloon and work a long fraud on Hadley's riders without ever drawing iron. None of that is wrong. Your task is not to push the group through a sequence. Your task is to let the country answer back, wherever they go and however cleverly they try to cut the knot.
 
 Three rules hold the sandbox up.
 
-First, the field book is the most obvious route, not the only one. A party that refuses the book, burns it, or never finds it still has four other ways to break the Company's case (the grant language, the affidavit, the cemetery register, the bought witness) and four other ways to win without breaking the case at all (buy the plaza's debt, sell the right of way, start a range war, or simply outlast the Company's London patience). A party that grabs the book in week one and rides for Santa Fe should find that Santa Fe has its own ideas about whose paper wins. Do not collapse the table because the party skipped a step. Step sideways to a different route and let the country answer.
+First, the field book is the clearest route, not the only one. A party that refuses it, burns it, or never finds it still has other ways to break the Company's case: the grant language, the affidavit, the cemetery register, the bought witness. It also has ways to win without breaking the case at all: buying the plaza's debt, selling the right of way, starting a range war, or simply outlasting London's patience. A party that seizes the book in week one and rides for Santa Fe should discover that Santa Fe has ideas of its own about whose paper matters. If the players skip a step, do not force them back onto it. Move sideways to the next live route and let the country answer.
 
-Second, the factions have their own clocks and they keep them whether the party watches or not. Hadley does not wait for the party to find the book. Strand does not wait for the party to broker a deal. Don Ignacio does not wait for the party to defend the plaza. The world advances on its own schedule and the party rides inside it. The next section gives the clocks.
+Second, the factions keep their own time. Hadley does not wait for the party to find the book. Strand does not wait for the party to broker peace. Don Ignacio does not wait for strangers to decide whether San Esteban is worth saving. The world advances on its own terms and the party rides within it. The clocks below keep that pressure visible.
 
-Third, give the party the consequences of its own competence. The players who shortcut a plot are usually the players most engaged with it. Reward the shortcut by making it mean something — it skips a fight and starts a different one, it wins a scene and loses a friend, it breaks the Company's line and brings the railroad's full attention down on the plaza. Never punish ingenuity with a reset. Punish it, if at all, with the next true problem the ingenuity created.
+Third, let the party feel the weight of its own competence. The players who bypass a plotted obstacle are usually the ones most engaged with the adventure. Reward that engagement by making the shortcut matter. It may skip one fight and start another. It may win a scene and lose a friend. It may break the Company's line and draw the railroad's full attention down on the plaza. Do not answer ingenuity with a reset. Answer it with the next true trouble the ingenuity has created.
 
 ## Faction Clocks
 
-Time moves whether the party watches or not. The table below syncs every
-clock to the same week track. When the party reaches a given week, every
+Time moves whether the party watches or not. The table below ties every
+clock to the same week count. When the party reaches a given week, every
 event in that row fires — unless the party has already slowed or broken
 that clock through their own actions. Read the current week's row aloud
 at the end of each session to let the table feel the country turning.
@@ -227,7 +332,7 @@ The party's choices push each clock forward or back:
   intelligence on the Company's weakest wagon, arm his men, point him
   at a target.
 - **Plaza (flour)** — Slow it: open a second freight road, run the wool
-  to Taos (Story 4), buy the community's debt, make the Company's
+  to Taos, buy the community's debt, make the Company's
   freight too expensive to run. Speed it: do nothing while the flour
   price holds.
 - **Mountain** — Slow it: earn `Mountain Trust` through honesty and
@@ -257,13 +362,32 @@ Tomás running for Taos and a Company eviction on the same morning is
 not a scheduling problem. It is the chapter working as designed. Run
 both. Let the party feel the country squeezing from every side at once.
 
+### When pressure turns to gunplay
+
+This chapter should not become a shooting gallery, but neither should the factions remain politely theoretical. If the party blocks a side twice, humiliates a boss in public, seizes paper, keeps a witness alive past the week when he should have died, or simply lets the clocks run hot, the dispute should break into force somewhere the players can see and answer.
+
+Use the following rule of thumb:
+
+- One setback produces threats, offers, spying, and men riding by too often.
+- Two setbacks produce sabotage, attempted seizure, an arson try, or a beating.
+- Three setbacks, or one public humiliation with paper attached, produces open gunplay.
+
+The best violence in this chapter is not random. It should answer a choice the party made or a problem it left unattended. Use the optional encounters below as the chapter's rougher answers:
+
+- **The first eviction** if the party tears down notices, sides openly with the plaza too early, or lets `Company Pressure` reach week `2` without answer.
+- **The acequia in the night** if the party protects Tomás but neglects the plaza's material survival, or if `Company Pressure` reaches week `4`.
+- **The assay room after midnight** if the party crosses Brubaker, steals duplicate ledgers, or pushes `Gold Camp` into armed panic.
+- **The stage-road snatch** if the party means to move Pell, Tomás, or a copied book by road and the Company still has reach.
+- **The pressroom defense** if the party leans on scandal, broadsides, or Lowe's press harder than on the courtroom itself.
+- **The courthouse stair** if the hearing is breaking apart and one side decides a dead witness is cheaper than a bad ruling.
+
 ## Multiple Ways In, Multiple Ways Through
 
-There is more than one way to win the chapter, and most of them are not "find the book and take it to court." Lay these out for yourself even if you never lay them out for the players. The party will find its own road through the menu; the menu exists so you always have somewhere for that road to go.
+There is more than one way to win this chapter, and most of them are not "find the book and take it to court." Keep these roads in mind even if you never spell them out for the players. The party will find its own way through the country. These options are here so that whatever road it chooses has somewhere solid to lead.
 
 ### Goals the party may set for itself
 
-The party does not have to share a goal. Different characters may want different things, and the tension between those wants is the campaign.
+The party does not need to share one goal. Different characters may want different outcomes, and the tension between those wants is part of the adventure.
 
 - **Win the suit for the comunidad.** Get the eastern line thrown back to its true position and the plaza's title confirmed.
 - **Free the diggings.** Break the Company's mineral claim so Strand's camp, and any prospector, can pan without royalty.
@@ -275,7 +399,7 @@ The party does not have to share a goal. Different characters may want different
 
 ### More Than One Way Through
 
-The field book is the chapter's most obvious route. It is not the only one. Each route below can break the Company's case, win the suit, or change the ending on its own. A clever party will stack two or three; a brutal party will use one and ride the consequences. Keep all of them live in your head so that when the party ignores the book, you are not stuck.
+The field book is the chapter's most obvious route, but it is not the only one. Each route below can break the Company's case, win the suit, or alter the ending by itself. A careful party may stack two or three together. A hard party may seize one and ride the consequences. Keep every route alive in your mind so that if the players ignore the book, the adventure does not narrow around them.
 
 - **The field book.** Halladay's true line, witnessed, in his hand. Strongest in court, most dangerous to carry.
 - **Pell's affidavit.** The false surveyor's sworn confession to filing the crooked return. Almost as strong as the book, weaker if coerced, gone if Pell runs.
@@ -293,7 +417,7 @@ Most roads still bend toward Cimarron in the end, because Cimarron is where the 
 
 ### Giving the Quieter Paths Their Due
 
-Some of these routes make less noise than the field book and are therefore easy for a GM to underplay. Do not. A sandbox lives or dies on whether the quieter roads feel as playable as the loud one.
+Some of these routes make less noise than the field book and are easy to underplay. Do not make that mistake. A sandbox lives or dies on whether the quieter roads feel as playable as the loud one.
 
 **The plaza's debt** should be a campaign of errands, arithmetic, and nerves, not a single purchase. Eufemia can name the sums, but to move the paper the party needs three things in hand at once: cash enough to matter, a buyer or lender in Taos or Cimarron willing to offend the Company, and one hard copy of the store ledger showing who owes what and to whom. Turn the route into scenes. Steal a look at the Cimarron books. Escort the wool south and sell it outside the Company's price. Convince Eufemia to let the party carry names that can ruin families if dropped. The debt road is slow, intimate, and ugly in the way real dispossession is ugly.
 
@@ -303,7 +427,7 @@ Some of these routes make less noise than the field book and are therefore easy 
 
 ### What the Other Roads Still Need
 
-Even when the party chooses a quieter path, that path usually still needs one more thing before it becomes real enough to stand against the Company.
+Even when the party chooses a quieter path, that path usually needs one more piece before it can stand against the Company.
 
 - **Debt** needs a transfer the Company cannot quietly deny. That may mean a notary, a county clerk's copy, or Lowe's press printing the sale before Hadley can call it fraud.
 - **Mail** needs custody. A stolen letter waved in a saloon is gossip. A copied letter shown to Baca, Lowe, Father Vigil, and one sober merchant in Cimarron is a public danger.
@@ -313,7 +437,7 @@ Even when the party chooses a quieter path, that path usually still needs one mo
 
 ## Where the Party Can Go First
 
-The party can open play in any of five places and find a real first session there. Each is a door, not a station on a track. Give the party the door it walks through and let the other four wait, advancing on their clocks, until the party turns toward them.
+The party can begin in any of five places and find a full first session there. Each is a door, not a stop on a predetermined line. Open the door the players choose, then let the other four continue on their clocks until the party turns toward them.
 
 **The plaza.** Hire on with the comunidad or with the Company's local crew. Walk into the supper, the willows killing, the night raid. The densest first session, the most NPCs up front, the slowest burn. Good for a table that wants to know everyone before the shooting.
 
@@ -338,7 +462,7 @@ Do not force the plaza if the party entered elsewhere. Earn the plaza. Let San E
 
 ## When the Party Shortcuts the Plot
 
-This section replaces the old "if the players break the plan" patch list. In a sandbox there is no plan to break. There are only the next true problems the party's cleverness creates. Below are the common shortcuts and the honest answers to each. The answers are not punishments. They are the country answering back.
+This section replaces the old "if the players break the plan" patch list. In a sandbox there is no plan to break. There are only the next true problems the party's cleverness creates. What follows are common shortcuts and the honest answers to them. These are not punishments. They are the country answering back.
 
 ### The party ignores the book entirely
 
@@ -350,7 +474,7 @@ Good. Now the book is a problem, not a quest. Everyone wants it and the party ca
 
 ### The party rides straight for Santa Fe with the paper
 
-Santa Fe is not a vending machine that accepts paper and dispenses justice. The Ring owns the territorial courts, the territorial press, and the territorial governor's ear. A party that rides to Santa Fe finds that the Attorney General's office is staffed by men who eat with Catron, the newspaper editor owes the Ring his press, and the governor's aide is a Ring man named (in this fiction) Williamson. The party can still win in Santa Fe, but it wins by finding the one faction in the capital that wants to embarrass the Company — a rival in the Ring, a federal land-office man with a grudge, a newspaper with nothing to lose — and that faction has its own price. Santa Fe is a harder road than Cimarron, not an easier one.
+Santa Fe is not a place where a man lays down paper and receives justice in exchange. The Ring owns the territorial courts, the territorial press, and the territorial governor's ear. A party that rides to Santa Fe finds that the Attorney General's office is staffed by men who eat with Catron, the newspaper editor owes the Ring his press, and the governor's aide is a Ring man named, in this fiction, Williamson. The party can still win in Santa Fe, but only by finding the one faction in the capital that wants to embarrass the Company: a rival in the Ring, a federal land-office man with a grudge, a newspaper with nothing left to lose. That faction will have its own price. Santa Fe is a harder road than Cimarron, not an easier one.
 
 ### The party kills Hadley
 
@@ -388,9 +512,9 @@ The double- and triple-game. It works until it does not. Each faction is watchin
 
 Say yes. Find the true consequence. The party dynamites the Cimarron freight road and the Company cannot move wool or flour for a month. The party kidnaps Judge Vail's wife to force a ruling. The party sets the Old Abe on fire to draw Strand's men off the line. The party prints the field book in the _Cimarron News_ and dares the Company to sue for libel. Each of these is a real western and each has a real answer. The dynamited road means federal troops out of Fort Union. The kidnapped wife means the army and a noose. The burned saloon means the gold camp at the party's throat. The printed book means the Company's stock price in London and a writ for the editor's arrest. The country answers every move. Trust the country to answer.
 
-## Arc I: The Plaza and the Dead Surveyor
+## The Plaza and the Dead Surveyor
 
-This opening arc should take time. Do not rush the player characters into the field. They need to hear the different claims men and women make for the suit before they see how little any of those claims hold under the ridge. It is the densest of the five entry points and the one the rest of this chapter assumes by default. If the party came in by a different door, fold the scenes below into whatever road the party actually walked.
+This opening movement should take time. Do not rush the player characters into the field. They need to hear the different claims men and women make for the suit before they see how little any of those claims hold under the ridge. It is the densest of the five entry points and the one the rest of this chapter assumes by default. If the party came in by a different door, fold the scenes below into whatever road it actually walked.
 
 ## San Esteban
 ### 1. Arrival and hire
@@ -412,6 +536,24 @@ Do not assume the party takes employment meekly. Some groups will haggle for mor
 Let the common itself work on the party before the chapter hurries into the willows. Father Vigil is at the church door, sweeping. If a player goes to him there he speaks more plainly than the suit allows. The line is bent, he says. The surveyor knew it and the surveyor died for it. The guide knows it and the guide is dying slower. The cemetery register is open to any man who can read a date. The dates do not lie and the dates go back to `1847`. A player who helps him with the sweeping should earn more than a nod. Later trust ought to remember it.
 
 Eufemia's side of the counter gives a different lesson. The store sells flour at six cents a pound when the Cimarron price is three, and there is no second seller. The Company controls the freight road and the Company's store in Cimarron undercuts the plaza's wool at the buyer and overcharges the plaza's flour at the wagon. The arithmetic is the chapter in miniature. Hadley cares what the court will say. Don Ignacio cares what the acequia will carry. Strand cares what a pan will yield. Eufemia cares what the ledger will balance. Nah-leh cares what the high country will hold. The player characters walk into the middle of all four accounts on the first afternoon and they do not yet know it.
+
+#### Optional Combat: The First Eviction
+
+Use this if the party tears down the Company's notices, if Hadley's riders decide to test the strangers early, or if `Company Pressure` reaches week `2` while the party is still treating the plaza as a room full of talk. The Company chooses one debtor family on the edge of the common and sends men to drag the household out before the paper has even had time to feel lawful.
+
+Read or paraphrase:
+
+> At first light a wagon rolls onto the common with two mounted Company men beside it and one man on the seat holding folded paper in his fist as if the paper itself were a weapon. Behind them comes a second wagon for the furniture and the grain bins. The family is already awake. The old woman is on the roof shouting before the horses stop.
+
+The point of the scene is not body count. It is whether the party will let process become dispossession in public. If the party does nothing, the eviction succeeds, the plaza loses face, and `Comunidad Trust` drops hard. If the party negotiates well, the Company may back off for the morning and return with more paper and more men. If the party lays hands on the wagons or the riders, the Company answers with clubs first and pistols second.
+
+**Combat Encounter: The First Eviction**
+
+- **Enemies:** `2 COMPANY RIDERS`, `1 PICKET CUTTER` acting as Company process muscle, and `1 COMPANY CHAINMAN` holding the papers and calling the move. If the party already bloodied Hadley's men, add `Sheriff Bud Tatum` arriving late and badly motivated.
+
+- **Area:** A plaza lane between two adobes, with a low roof, stacked firewood, a wagon tongue, loose chickens, and household goods half-piled in the dust.
+
+- **Terrain and Effects:** This is crowded, emotional fighting. Any missed shot risks hitting property, animals, or a bystander the whole plaza knows by name. A fighter on the roof has a height advantage but poor footing. A wagon can be overturned for cover with `LABOR`, but overturning it may crush the family's bedding, grain, or saint images and the plaza will remember that too.
 
 ### 2. Supper at the Montoya house
 
@@ -453,7 +595,7 @@ Offend him by pulling the Company's notices off the doorpost before the meal, by
 
 > _You read the English,_ she says, pencil behind the ear. _Good. Read it to them in Spanish tonight. They have a right to know what is nailing them to the doorpost._
 
-Intuit her by offering to carry the wool to Taos (Story 4) before she asks, or by asking to see the ledger rather than the suit. She will show the ledger. The ledger is the harder document and the truer one. `Comunidad Trust` rises and a useful ally is made.
+Intuit her by offering to carry the wool to Taos before she asks, or by asking to see the ledger rather than the suit. She will show the ledger. The ledger is the harder document and the truer one. `Comunidad Trust` rises and a useful ally is made.
 
 Offend her by haggling down her wage offer, by flirting, or by suggesting the plaza sell out and move. She will mark the name in her book — the same book that tracks the flour debts — and the party will find the plaza's credit closed to them inside a day.
 
@@ -493,6 +635,24 @@ Let Celso's death sit in the plaza for a moment before the night raid breaks ove
 
 If the party treats the willows like a murder scene and not a prelude, help them. The rider should not answer like a melodrama villain. He trims every sentence, turns the dead man meaner than he was, and tries to reduce murder to drink, debt, and bad company. The Company's men close ranks fast in the way hired crews do when they smell one of their own may be selected for punishment whether guilty or not. Don Ignacio will tolerate aggressive inquiry only so long as it still looks like the plaza's grief. Once it starts looking like Anglos running the acequia, he hardens. That is good pressure. It gives the party room without giving them ownership of the plaza.
 
+#### Optional Combat: The Acequia in the Night
+
+Use this on the night after Celso's death if the party guards Tomás closely but leaves the practical life of the plaza unwatched, or later if `Company Pressure` reaches week `4`. The Company's wiser men know hunger travels farther than gun smoke. They send saboteurs to foul the headgate, cut the ditch-bank, and ruin a week's irrigation under cover of dark and confusion.
+
+Read or paraphrase:
+
+> The first sound is not a shot. It is rushing water where no rushing water should be. Then somebody on the ditch line starts yelling that the bank is gone. By the time the party reaches the acequia, one lantern is in the mud, another is floating away upside down, and there are men with shovels working faster than honest labor usually works.
+
+If the party arrives quickly, it can save the headgate, catch one saboteur in the ditch, or force the riders covering him to show themselves. If it arrives late, the water is out in the fields, spring planting is hurt, and the scene becomes half rescue and half fight.
+
+**Combat Encounter: The Acequia in the Night**
+
+- **Enemies:** `1 PICKET CUTTER`, `2 COMPANY RIDERS` on the bank with carbines, and `1 PLAZA HAND` coerced or bought to show the weak point in the ditch. If `Company Pressure` is already severe, add a second `PICKET CUTTER` carrying lamp oil for the granary after the water work is done.
+
+- **Area:** The headgate above the common, ditch banks slick with overflow, willow roots, shovel cuts, mud to the calf, and one narrow footbridge.
+
+- **Terrain and Effects:** Mud punishes movement and knocks men prone. The ditch itself is shallow but fast enough to spoil powder, lanterns, and dropped papers. Anyone trying to fight and repair at once must divide hands and attention. A clever party may save the plaza by closing the breach under fire rather than by chasing the saboteurs into the dark.
+
 ### 4. Raid on the sheep camp
 
 Before the killing is settled, riders hit the upper sheep camp in the dark.
@@ -519,9 +679,9 @@ If a rider is taken alive, do not rush past him. A living attacker is not only a
 
 By the time the party beds down, they should know which leaders were useful under pressure and which looked mean, frightened, or slippery. Hand out private impressions if you like. The character who watched the riders sees the Company man flinch at the name of Hadley. The one who guarded Tomás notices the guide reach for the haversack three times in the dark. The one who held the flock hears a rider call to the inside man in English. The one who searched the dead sees Celso's pencil shaving in the rider's pocket, wrapped in a piece of the Company's own notice.
 
-## Arc II: Baldy Mountain and the Quiet Title
+## Baldy Mountain and the Quiet Title
 
-This middle arc takes the party north to the gold camp at Elizabethtown and into the Company's machinery. It is where the suit stops being a plaza quarrel and becomes a fight over mineral land, a railroad right of way, and the slow arithmetic of who can afford to bleed longest. The arc is not a track. The party may ride up the mountain for gold, for the surveyor Pell, for the grant language Ouida keeps, or simply because the plaza got too hot to sit still in. Any of those roads lead into the same knot of money and powder and the Company's patience running shorter by the week.
+This middle movement takes the party north to the gold camp at Elizabethtown and into the Company's machinery. Here the suit stops being a plaza quarrel and becomes a fight over mineral land, railroad passage, and the slow arithmetic of who can afford to bleed longest. This section is not a fixed road. The party may ride up the mountain for gold, for the surveyor Pell, for the grant language Ouida keeps, or simply because the plaza has grown too hot to sit still in. Any of those reasons lead into the same knot of money, powder, and Company patience running shorter by the week.
 
 ## The Gold Camp
 ### 5. Elizabethtown
@@ -540,7 +700,7 @@ Strand makes his approach the way a man like Strand always does: a drink, a stor
 
 > _You all look like you can ride and shoot,_ Strand says, pouring before he asks. _Half the men in this camp can ride and shoot. The other half lie about it. Sit. Drink. Tell me who sent you up my mountain, and I will tell you whether they did you a favor._
 
-The Company's counter-offer comes by way of a man named **Brubaker**, Hadley's royalty collector, who finds the party within the hour of their arrival and offers double whatever Strand offered and a Company brand on their horses. Brubaker is plain about what the brand means. It means the Company feeds them, shelters them, and pays them, and it means the Company owns the use of them. The choice between Strand's rough money and the Company's clean money is the arc's first real fork, and it is the fork the third path runs between.
+The Company's counter-offer comes by way of a man named **Brubaker**, Hadley's royalty collector, who finds the party within the hour of its arrival and offers double whatever Strand offered and a Company brand on its horses. Brubaker is plain about what the brand means. It means the Company feeds them, shelters them, and pays them, and it means the Company owns the use of them. The choice between Strand's rough money and the Company's clean money is the first real fork in the mountain country, and the third road runs between those two offers.
 
 #### How Strand bends to the party
 
@@ -554,6 +714,24 @@ Offend him by refusing the drink, by quoting the law at him, or by being unable 
 
 The deepest read on Strand is that he knows his claim to the creek is as crooked as the Company's, just older. A player who says so to his face, calmly, without judgment, earns a kind of respect Strand has not given since Denver. He will not admit the crookedness. He will buy the next round, and the round after that, and the party has an ally who will shoot for them and lie for them and never quite tell them the whole truth.
 
+#### Optional Combat: The Assay Room After Midnight
+
+Use this if the party steals the duplicate ledgers, sides too openly with Strand, publicly insults Brubaker, or drives `Gold Camp` to week `5` while still sleeping inside the camp. Somebody always decides to settle the matter after the saloons thin and before the shift whistles sound.
+
+Read or paraphrase:
+
+> The assay office is dark but not empty. A lamp burns low behind the scale and throws long brass shadows across the room. The lockbox is open. Gold dust is on the table like pollen. Then the back door slams and men start shouting all at once about thieves, dues, and whose hand reached first.
+
+Run this as a fight over proof and money at once. Maybe the party came to steal the duplicate ledger. Maybe Brubaker came to move it first. Maybe Strand's men mean to rob the Company's strongbox while the party is still deciding whether it came for paper or dust. In all three cases, shots in the assay office turn every miner in earshot into a future witness or future enemy.
+
+**Combat Encounter: The Assay Room After Midnight**
+
+- **Enemies:** `Brubaker` with `2 COMPANY RIDERS` if the Company is the aggressor, or `3 ELIZABETHTOWN TOUGHS` if Strand's side moved first. In the ugliest version, both arrive and the party is in the middle.
+
+- **Area:** Assay office or royalty room: scale table, locked dust box, ledger shelf, ore sacks, a rear door to the alley, and one front window onto the camp street.
+
+- **Terrain and Effects:** Dust on the floor makes quick movement treacherous. A knocked lamp risks fire in a room full of ledgers and dust receipts. A ruptured gold sack creates greed in the middle of the fight; men may break discipline to grab, hide, or accuse. If the party preserves the ledgers but loses the strongbox, the camp remembers one story; if it preserves the dust but loses the ledgers, it remembers another.
+
 ### 6. Ouida Beaubien
 
 Ouida keeps a room above the Elizabethtown store and a copy of the original `1841` grant in a tin box under her bed. She is the granddaughter of Carlos Beaubien, the original Mexican grantee, and she has been told all her life that the grant was stolen from her family by Maxwell and from Maxwell by the Company. She is right about the second and half-right about the first. What she can give the party is the language of the original grant, which conveyed the surface for stock and agriculture but reserved the mineral to the sovereign. The Company's claim to the gold rests on a later deed that does not mention minerals. With the grant language alone, the Company's gold claim collapses without touching the boundary. With the grant language and the field book together, the whole eastern half of the Company's case goes.
@@ -562,7 +740,7 @@ Read or paraphrase:
 
 > The stair to her room is unplaned lumber, and the room smells of cold coffee and old paper. A tin box sits open on the table. She is thirty and dressed without the least regard for the camp's opinion. Under a sheet of oiled paper lies the grant copy, its Spanish small and exact, its seal old and dark.
 
-Ouida is the arc's truest historian and its loneliest figure. She has read the grant language aloud in the store to anyone who would listen for two years, which is almost no one, and the almost-no-one has curdled her. She is not a disinterested witness. She wants her family's name restored to the gold, which means she wants a piece of what the camp pulls out of the creek, which means she is an ally with a price. Treat her as a person and not a plot device, and the scene does what it needs to.
+Ouida is the truest historian in this chapter and one of its loneliest figures. She has read the grant language aloud in the store to anyone who would listen for two years, which is almost no one, and the almost-no-one has curdled her. She is not a disinterested witness. She wants her family's name restored to the gold, which means she wants a piece of what the camp pulls out of the creek, which means she is an ally with a price. Treat her as a person rather than a convenience and the scene will do the rest.
 
 She will hand over the grant language, or a true copy of it in her own careful hand, for a promise. The promise is that the party will speak her family's claim in the Cimarron court, alongside the comunidad's, alongside the camp's. The party can promise and mean it, in which case the hearing gains a third claimant and the complexity that comes with one. They can promise and not mean it, in which case Ouida will know by the second day of the hearing and will become a dangerous enemy who knows where every body is buried because her family buried half of them. They can refuse, in which case she keeps the grant language and the Company's gold claim survives even a field-book victory. Or they can take the language by other means, which the camp will hear about inside a day and which will mark them as the kind of people who rob a lone woman in a room above a store.
 
@@ -592,7 +770,7 @@ Read or paraphrase:
 
 > The room smells of stale whiskey and the sweet rot of a man who has not changed his shirt in a week. Pell sits on the edge of the bed with an empty glass in both hands, watching it as if it might fill itself. His hands are still the hands of a man who once made his living by keeping them steady.
 
-Pell is the arc's broken hinge. He is the one man in the chapter who can sign an affidavit naming the false line, the false return, and the hand that paid for both, and an affidavit from the surveyor who filed the return is nearly as strong as the field book itself. The trouble is that Pell's nerve is gone and his price is not money. His price is a way out of the country that does not end in a Cimarron courtroom or a shallow grave.
+Pell is the chapter's broken hinge. He is the one man in it who can sign an affidavit naming the false line, the false return, and the hand that paid for both, and an affidavit from the surveyor who filed the return is nearly as strong as the field book itself. The trouble is that Pell's nerve is gone and his price is not money. His price is a way out of the country that does not end in a Cimarron courtroom or a shallow grave.
 
 Handle him gently and he will draw the false line and the true line on a piece of wrapping paper with a shaking hand and sign his name to an affidavit that names the fraud and the date and the dollar amount. That affidavit and the field book together are the strongest paper the party can carry into the hearing. Handle him roughly and he signs whatever is put in front of him, but the signing breaks something in him and he runs inside two days, and his running gives Hadley the cleanest possible argument: that the affidavit was beaten out of a drunk and signed under duress and worth nothing. The party can also sell Pell to Hadley, in which case Hadley thanks them, pays them well, and puts Pell on the next southbound stage with a fresh name, a closed mouth, and a Company pension paid through a lawyer in Las Vegas. The affidavit never existed and the witness is gone.
 
@@ -602,6 +780,24 @@ There is a fourth handling, which the best tables find on their own. A party tha
 
 The party that gets him out, by stage or by their own escort, earns a witness who will appear in Cimarron or in Santa Fe or wherever the case finally lands. The party that leaves him in the room above the Old Abe finds, by week's end, that the room is empty and the bottle is on the floor and Pell is in the creek or on a stage or simply gone, and the affidavit with him.
 
+#### Optional Combat: The Stage-Road Snatch
+
+Use this when the party finally tries to move a live witness, a copied book, or Pell's affidavit by stage or freight rather than by stealth on horseback. This is the Company's preferred kind of violence: not a fair fight, not a public one, just enough force in the right cut of road to make a man vanish into routine travel.
+
+Read or paraphrase:
+
+> The road narrows between a wash on one side and broken rock on the other. The stage horses begin to shy before the driver sees why. One trace has been cut clean through. A mule carcass lies in the road where it was dragged there after dark. Then a rifle cracks from the rock and the driver folds sideways off the box.
+
+This scene works for Pell, Tomás, Ouida, a notary, or even one packet of copied pages. The ambushers do not need to kill everyone. They only need to stop the coach, seize one person or one satchel, and be gone before the dust settles.
+
+**Combat Encounter: The Stage-Road Snatch**
+
+- **Enemies:** `1 PINKERTON MAN`, `2 COMPANY RIDERS`, and `1 PICKET CUTTER` or `COMPANY CHAINMAN` handling the roadblock. If Hadley is desperate, add a second `PINKERTON MAN` riding rear pursuit.
+
+- **Area:** Narrow road cut with wash, boulders, one disabled coach or freight wagon, spooked team, and bad lines of retreat uphill.
+
+- **Terrain and Effects:** Horses panic fast here. A wrecked coach gives good cover but traps the witness inside it. A frightened team can bolt and drag a wounded man or vital satchel out of reach. The ambushers know the road and mean to break contact once they have what they came for.
+
 ### 8. The freight road and the right of way
 
 Between the camp and the court runs the road the Company built, and on that road the chapter's slowest clock is the one the railroad keeps. **Oren Pell** (no relation to the surveyor, though the Company cultivates the confusion) rides the road between Cimarron, Elizabethtown, and the plaza by turns, never resident anywhere, buying nothing and selling nothing in the open, taking notes in a shorthand nobody can read. He wants the right of way across the grant for the Atchison, Topeka and Santa Fe, and he does not care whose name is on the deed so long as the deed is clean.
@@ -610,7 +806,7 @@ Read or paraphrase:
 
 > At dinner hour the Old Abe smells of beans, sweat, and pine knots snapping in the stove. A man in an Eastern coat sits alone with black coffee and a newspaper already three weeks old by the time it reached Baldy. His boots are new. His hands have never worked a sluice. He watches the room over the top edge of the paper, finishes his coffee, leaves two bits on the table, and walks out. The bartender sweeps the coins into the till without a word, and the room goes back to its business.
 
-Oren Pell is the arc's safest buyer and its most dangerous creditor. He will buy any clean copy of any paper that settles the boundary. He will pay in railroad drafts cashable in Topeka, Kansas City, or New York. He will ask no questions about where the paper came from and he will remember, in a ledger in Topeka, exactly who sold it and for how much. A party that sells him a copy of the field book leaves the chapter rich and leaves the chapter owing the railroad a favor the railroad will collect, in its own season, in its own country.
+Oren Pell is this chapter's safest buyer and its most dangerous creditor. He will buy any clean copy of any paper that settles the boundary. He will pay in railroad drafts cashable in Topeka, Kansas City, or New York. He will ask no questions about where the paper came from, and he will remember, in a ledger in Topeka, exactly who sold it and for how much. A party that sells him a copy of the field book may leave rich, but it leaves owing the railroad a favor the railroad will collect in its own season and in its own country.
 
 Meeting him is not a scene the party has to earn. If they sit still in any of the three towns for two days, he finds them. He is patient the way a glacier is patient. Let the party decide whether to sell to him, to use him as a counter-weight against Hadley, to ignore him, or to try to read his shorthand. Each of those is a real western.
 
@@ -657,9 +853,27 @@ If the party reaches Cimarron before the hearing, or chooses to work around it i
 
 None of these replaces the hearing. They shape what the hearing can mean, what survives it, and whether the town believes its own verdict.
 
-## Arc III: The Eastern Line
+#### Optional Combat: The Pressroom Defense
 
-This arc takes the party up the cañón and onto the line itself, with Tomás Luján and Nah-leh, to find the field book and to learn what really happened in the willows in March. It is the chapter's journey and its reversal. It can be played before Arc II, after it, interleaved with it, or not at all, if the party has chosen to win by another route. If the party never climbs the cañón, the book stays in the cairn and the line stays in the ground and the truth of March stays in Nah-leh's memory, and the chapter ends however the party's other routes end it. The arc is here for the party that wants to walk the fraud with its own eyes.
+Use this if the party leans on Lowe, broadsides, and public scandal. The Company will tolerate a lawyer it expects to beat. It is much less tolerant of type set in public against it.
+
+Read or paraphrase:
+
+> The pressroom smells of ink, hot metal, and lamp smoke. Lowe has the forme locked and his boy is reaching for the first sheet when somebody hurls a brick through the front window. Before the glass has finished falling, a man outside yells to smash the press and burn the copy.
+
+The fight is for time. Lowe only needs minutes to pull enough sheets to make the story unkillable. The Company only needs one wrecked press, one tipped lamp, or one broken compositor's hand.
+
+**Combat Encounter: The Pressroom Defense**
+
+- **Enemies:** `2 COMPANY RIDERS`, `1 PINKERTON MAN`, and `1-2 COMPANY CHAINMEN` or hired town roughs used as deniable labor. If Hadley wants no witnesses, make the leader Brubaker instead of the Pinkerton.
+
+- **Area:** Tight pressroom with composing stone, cases of type, ink rollers, stacked paper, stove, rear alley door, and shattered front window.
+
+- **Terrain and Effects:** Flying lead type turns the floor treacherous. A knocked lamp or stove can start the real disaster. Lowe and his printer's boy are not fighters, but either can keep working under protection; every round the party holds the room may mean another sheet pulled and another piece of truth out in town beyond recall.
+
+## The Eastern Line
+
+This section takes the party up the cañón and onto the line itself, with Tomás Luján and Nah-leh, to find the field book and to learn what really happened in the willows in March. It is the chapter's journey and its reversal. It can be played before the Baldy material, after it, interleaved with it, or not at all, if the party has chosen to win by another route. If the party never climbs the cañón, the book stays in the cairn and the line stays in the ground and the truth of March stays in Nah-leh's memory, and the chapter ends however the party's other routes end it. This section is here for the party that wants to walk the fraud with its own eyes.
 
 ### 10. The cañón
 
@@ -725,9 +939,11 @@ The ridge is not a safe place to make this choice. The Company's chainmen have b
 
 - **Terrain and Effects:** Thin air punishes any `LABOR` or extended `MOVE`. The deadfall is hard cover but it is also the only concealment, and a man behind a log is a man whose position is known. The cairn itself is cover for one crouching man. The wind pushes muzzle smoke east, blinding anyone shooting that direction after the first volley. A horse shot loose on the ridge runs and the party walks home, which is its own consequence.
 
-## Arc IV: Quiet Title
+## Cimarron and the Reckoning
 
-The reckoning belongs in the courtroom town of Cimarron. There should be boots, paper, witnesses, lies, and the feeling that men are now trying to do with offices what they failed to do with carbines in the willows and on the ridge. This arc is the convergence: every clock the party has run, every route it has taken, every faction it has courted or offended, lands in the same second-story courtroom in the same Company town on the same Monday morning. The arc is short because the work that decides it has already been done. The hearing is where the chapter's account comes due.
+The reckoning belongs in the courtroom town of Cimarron. There should be boots, paper, witnesses, lies, and the feeling that men are now trying to do with offices what they failed to do with carbines in the willows and on the ridge. Here every clock the party has run, every route it has taken, every faction it has courted or offended, lands in the same second-story courtroom in the same Company town on the same Monday morning. This last movement is short because the work that decides it has already been done. The hearing is where the chapter's account comes due.
+
+The hearing is the likeliest reckoning. It is not the only one. A sandbox this open needs the Game Master to be just as ready for the hearing that never convenes, the hearing that is broken halfway through, the scandal that outruns the judge, the private settlement that sells the country in a back room, or the escalation that drags Fort Union, Santa Fe, or Washington into a matter the Company meant to keep local. What follows assumes the hearing is still possible. The sections after it explain what to do when the party or the country makes some other answer truer.
 
 ### 13. The eve of term
 
@@ -777,6 +993,156 @@ The party does not have to answer all of them. It has to answer Baca, because th
 
 If the party means to spend the morning outside the room rather than in it, make that choice explicit the night before. Baca needs to know whether he is arguing with Tomás at his elbow or with Tomás hidden in Lowe's cellar while the party watches the alley and the stair. A party can assign half its number to the courtroom and half to the town, and in this chapter that is often the wisest division.
 
+### Other reckonings than the hearing
+
+Do not treat the hearing as sacred merely because the chapter has built toward it. In a true sandbox, momentum is not a promise of occurrence. If the party burns the road, kills the judge's courier, prints the wrong paper too soon, sells the right paper too late, loses Tomás, buys Baca's case out from under him, or simply chooses a more private victory, the reckoning changes form. Let it.
+
+The rule is simple: **preserve the political consequence even if the courtroom scene itself disappears**. The chapter is about who gets to name the ground and by what authority. A courtroom is one way to answer that. Public scandal, private sale, federal intervention, or organized violence are other ways. They are all true to the period and all strong western endings.
+
+#### The hearing is bypassed
+
+Sometimes the party never means to litigate. It may decide the court is too owned to matter, that the field book is worth more sold than filed, that the plaza's debt can be bought faster than the suit can be won, or that a railroad draft is a cleaner future than a righteous verdict.
+
+If that happens, shift the climax from **legal proof** to **custody and disclosure**.
+
+- The question is no longer whether Vail will admit the evidence.
+- The question is who will possess the evidence, who knows it exists, and who can make use of it before someone stronger takes it away.
+- Cimarron still matters because that is where deeds, debt notes, notaries, freight, and witnesses gather, but the town becomes a market and a battlefield rather than a courtroom drama.
+
+Good bypass endings include:
+
+- **Railroad bargain:** the party sells a copy to Oren Pell and spends the last act keeping the bargain intact long enough for the draft to clear and the corridor deal to close.
+- **Debt victory:** the party secures the ledgers, the outside cash, and the signatures needed to buy the plaza's debt and must then survive Hadley's attempt to nullify the transfer by force, fraud, or arson.
+- **Camp victory without the bench:** Ouida's grant language and Strand's miners break the Company's mineral claim in public before the hearing ever becomes necessary, and the ending becomes one of publication, intimidation, and camp muscle rather than legal finesse.
+- **Mountain refusal:** Nah-leh persuades the party that no paper clean enough to satisfy the court is worth the survey chain that follows it, and the ending becomes one of burial, warning, and the deliberate refusal to let the court decide the country at all.
+
+When the hearing is bypassed, do not punish the table by pretending it therefore "missed" the real adventure. Give it a different climax with the same weight.
+
+#### The hearing is postponed
+
+This is the most historically faithful failure mode, and one of the strongest if you mean to carry the campaign forward. Judges fall ill. Witnesses vanish. counsel move for continuance. A courthouse burns. Vail takes the safer coward's road and kicks the matter to fall term, to Santa Fe, or into procedural fog while the Company keeps squeezing the plaza by debt and freight.
+
+Use postponement when:
+
+- Judge Vail dies, flees, or loses nerve.
+- The party cannot produce the necessary paper in time.
+- The witnesses are alive but not presentable.
+- Public pressure is high enough that Vail dares not rule, but not high enough to force him.
+
+Postponement changes the chapter from **trial western** to **campaign of attrition**.
+
+- The flour clock becomes more important than ever.
+- The plaza starts thinning for real.
+- Strand grows less patient and more violent.
+- Hadley shifts from immediate courtroom maneuver to long pressure through warrants, foreclosures, freight, and selective killing.
+- Santa Fe enters the picture as a place of appeals, bribes, and worse law rather than of rescue.
+
+This is an excellent place to pivot into a longer New Mexico sandbox. The party has not lost. It has been made to keep fighting on meaner terms.
+
+#### The hearing is broken
+
+Sometimes the hearing opens and then ceases to be a hearing at all. A witness is seized on the stair. A juror is shot in the street. A broadside hits the boardwalk and the gallery empties to read it. A Company rider sets a fire below the courtroom. Strand's men decide the room will never give them justice and make a spectacle of that belief.
+
+In this version, let the hearing become **fragmented action**.
+
+- Cut between courtroom, hotel, livery, press, alley, and boardwalk.
+- Let Baca argue upstairs while the party fights for the right of the argument to matter.
+- Let Vail try to salvage authority and fail visibly.
+- Let the town decide, in real time, whether paper still governs or whether force has taken the day.
+
+This is not a failed scene. It is a different scene grammar. The courtroom has not disappeared. It has spilled.
+
+When the hearing breaks, decide three things immediately:
+
+1. What paper is now definitely public.
+2. Which witness is still alive and mobile.
+3. Whether the town believes the Company caused the collapse or merely benefited from it.
+
+Those three answers are enough to drive the rest of the climax.
+
+If you want the breakage to become force at once, use the following:
+
+**Combat Encounter: The Courthouse Stair**
+
+- **Enemies:** `1 PINKERTON MAN`, `2 COMPANY RIDERS`, and either `Sheriff Bud Tatum` trying weakly to preserve order or `2 ELIZABETHTOWN TOUGHS` if Strand's side made the first move. The goal is usually not slaughter. It is to seize Tomás, the book, Lowe's broadside, or the one juror who has suddenly found his conscience.
+
+- **Area:** Stairwell, landing, and boardwalk outside the courtroom. One rail, one narrow turn, too many bodies, and panic below.
+
+- **Terrain and Effects:** Sightlines are poor and the crush of civilians is the true obstacle. A shot on the stairs may send men tumbling and witnesses scattering. A party can win this scene by holding a landing, clearing a path for one witness, or forcing a retreat without turning the courthouse into a slaughter pen.
+
+#### The hearing is pre-empted by public scandal
+
+This is the best answer for a party that leans toward the press, the mail, and civic theater instead of formal law. Lowe prints the broadside. The field book is read on the boardwalk before it is read upstairs. Ouida's grant language is posted in both Spanish and English. Hadley's letter reaches every saloon in town before Pike can object to foundation, custody, or procedure.
+
+When scandal gets there first, the hearing still may occur, but it occurs in a different moral climate.
+
+- Vail is no longer ruling in private. He is ruling under spectatorship.
+- Jurors have already heard the essence, even if they should not have.
+- Hadley can still win, but now he wins with the whole town watching him do it.
+- Lowe's office, the hotel parlor, the boardwalk, and the church steps become rival forums of legitimacy.
+
+This route works especially well if the party lacks one decisive legal proof but has **many partial truths**: a copy of the book, a drunk confession, a clerk's transcript, a ledger entry, a letter, an old grave, a frightened witness. One overwhelming document is not the only way to create a scandal. Sometimes scandal is just enough true things arriving in public too fast to be put back under lock.
+
+If you run this version, let public opinion matter materially:
+
+- merchants stiffen their spine
+- one juror goes missing rather than rule openly for the Company
+- Tatum becomes more cautious because the town now has a story in its mouth
+- Hadley must spend force where he had hoped to spend paper
+
+#### The hearing is replaced by private settlement
+
+This is the darkest respectable ending and one of the most period-true. The party may discover that a back-room sale, railroad compromise, debt transfer, or partial boundary concession can save lives now at the cost of justice later. Hadley may offer a corridor, a payout, a quiet withdrawal from one tract if the larger grant remains untouched. Oren Pell may settle the matter in cash and right-of-way paper before Vail ever mounts the bench. Don Ignacio may accept a practical mercy because he is too old to bury more sons for a principle the court has already sold twice over.
+
+Run private settlement as tragedy with agency, not as failure.
+
+- Somebody is saved.
+- Somebody is sold.
+- The country remains marked by the decision.
+- The party leaves with money, guilt, influence, or all three.
+
+The important question in such an ending is not "did they win?" It is "what did they choose to preserve, and what did they agree could be lost?"
+
+If you use this form, make the terms concrete:
+
+- how many acres
+- whose debt
+- which road
+- what witness is silenced
+- what copy of what paper changes hands
+
+The more precise the compromise, the more it feels like history rather than handwaving.
+
+#### The hearing is overtaken by territorial escalation
+
+Some tables will make enough noise that the matter can no longer remain a county struggle. A kidnapped judge's kin, a burned Company road, a dead courier carrying federal paper, a published confession that reaches Santa Fe, a clash involving Jicarilla or Ute fighters, or the open intervention of the railroad can all drag larger powers in.
+
+When that happens, the climax becomes one of **scale change**.
+
+- Fort Union may send troops to keep the road open or the peace plausible.
+- Santa Fe lawyers may move to seize jurisdiction and remove the matter from local hands.
+- Federal survey or land-office scrutiny may re-enter the picture.
+- The Company may decide one superintendent is cheaper to sacrifice than the scandal itself.
+
+Escalation is not a cop-out. It is one of the truest endings for a western about land, capital, and paper. The local fight has succeeded in becoming too large to remain local.
+
+This form is especially useful if the party has changed the facts on the ground but not yet secured any local victory. A wider intervention lets those changed facts matter.
+
+### How to choose the right reckoning
+
+On the eve of climax, ask three questions:
+
+1. **What does the party actually hold?** Book, copy, affidavit, ledger, witness, mail, debt paper, or only rumor.
+2. **Who still trusts the party enough to stand near it in public?** Baca, Don Ignacio, Lowe, Strand, Nah-leh, Oren Pell, Ouida.
+3. **What kind of force has the party taught the country to expect from it?** Legal, public, clandestine, mercenary, communal, or openly violent.
+
+If the answers are mostly legal and public, the hearing should probably happen.
+If the answers are mostly clandestine and transactional, private settlement or bypass is truer.
+If the answers are mostly explosive and visible, scandal or breakage is truer.
+If the answers have already outrun county power, escalation is truer.
+
+Choose the ending grammar that matches the play already earned. Do not force the table back into the courtroom merely because the room has been written.
+
 ### 14. The hearing
 
 Judge Vail's court is the second story of the Company's store and it smells of dry goods and lamp oil and the tobacco the Company's lawyers chew. The Company's lead counsel is Harlan Pike, smooth, well-dressed, and certain, with two junior Ring lawyers behind him and a paralegal whose only job is to hand him paper. Filomeno Baca sits alone at the other table with his carpetbag. The courtroom is full.
@@ -808,7 +1174,7 @@ The party does not have to treat the hearing as one sealed scene. While Baca is 
 
 ### 15. The final standoff
 
-The hearing's outcome does not settle the country. It settles the courtroom. The country settles itself in the street afterward, and the street is where the arc's violence lives, if violence is what the party's choices have built.
+The hearing's outcome does not settle the country. It settles the courtroom. The country settles itself in the street afterward, and the street is where this chapter's violence lives, if violence is what the party's choices have built.
 
 The finale should fit the accumulated choices. Hadley may order the book seized by force in the alley behind the court before it can be filed. Strand's miners may decide the courtroom was a better place for a Winchester than a gavel and act on the belief. The Company's riders from Elizabethtown may ride into Cimarron at dusk looking for the party or for Pell or for anyone who spoke. Or one enemy may try to settle everything with a quiet knife behind the store while the town is at supper. The strongest ending usually forces a choice between lawful custody and practical control. One feels cleaner. The other is often safer. In New Mexico those are rarely the same thing.
 
@@ -830,23 +1196,23 @@ Use the party's earlier choices to decide which ending is most honest.
 
 ### 16. End states
 
-#### comunidad victory
+#### Comunidad Victory
 
 The field book is read in open court. The eastern line falls back to its true position. The plaza keeps its land, its acequia, its cemetery, and its twenty-six years. The Company's quiet title is denied. The party becomes known in the plaza as the people who carried the true line down the mountain, and the plaza opens to them for the rest of their days.
 
-#### gold camp victory
+#### Gold Camp Victory
 
 The grant language is read in open court. The Company's mineral claim collapses. The Baldy diggings go free. Strand holds the camp as his own. The party leaves with gold-camp credit, Strand's rough friendship, and the enmity of the Company.
 
-#### mountain understanding
+#### Mountain Understanding
 
 Nah-leh's testimony is heard, in court or out of it. The high country is recognized, if not by the court then by the people who live under it. The cañón road stays open. The Jicarilla hunt. The party has made a friend of a people who do not make friends lightly.
 
-#### railroad shadow victory
+#### Railroad Shadow Victory
 
 The party sells a copy of the field book to Oren Pell. The railroad settles the boundary to its own satisfaction and the right of way is built. No one outside a small circle knows the whole truth. The party leaves richer, less clean, and more important than before, and the railroad remembers their names.
 
-#### bad ending, good sandbox
+#### Bad Ending, Good Sandbox
 
 The field book is burned or buried. A liar prospers. The eastern line stands as the Company drew it. The party has to leave fast with only what proof they could hide under a coat. This is still a strong sandbox opening. New Mexico is full of unfinished business.
 
@@ -854,23 +1220,23 @@ The field book is burned or buried. A liar prospers. The eastern line stands as 
 
 The following outlines are provided as tales that can be played as standalone adventures or fitted into your campaign.
 
-##### Story 1 - The Brand Inspector
+##### Tale 1 - The Brand Inspector
 
 A brand inspector out of Cimarron rides into the plaza with a warrant to inspect the Montoya herd for stolen stock. The warrant is real. The inspector is Company-paid. What he is looking for is not a stolen brand but an excuse to seize the herd in lieu of the unpaid royalty the Company has just invented. How do the player characters handle a lawful warrant served by a corrupt man? Do they let him inspect, and trust the brands? Bribe him? Beat him? Ride down to Cimarron and demand the warrant be quashed? Each path costs the plaza something different.
 
-##### Story 2 - The Freight Wagon
+##### Tale 2 - The Freight Wagon
 
 A Company freight wagon breaks an axle in the cañón above the plaza and the driver, wounded in the fall, is brought down to Eufemia's store. The wagon carries flour for the Company store in Cimarron, but under the flour, in a nailed crate, is a strongbox. Inside the strongbox is two thousand dollars in gold and a letter from Hadley to a Ring lawyer in Santa Fe that names the eastern line a fiction and the field book a danger. The driver is dying and the wagon is the plaza's by salvage if the party wants it. Do they take the gold and burn the letter? Take the letter and leave the gold? Send the lot down to Cimarron and let the law sort it? Or read the letter aloud in the plaza and let the comunidad decide what to do with a confession that names its own crime?
 
-##### Story 3 - The Schoolteacher
+##### Tale 3 - The Schoolteacher
 
 A young Anglo schoolteacher out of Las Vegas comes to the plaza to teach the children their letters, sent by a charity the Company funds. She is earnest, well-meaning, and teaching the children to read English from a primer that calls the Hispano families squatters. Father Vigil is furious. Eufemia is calculating. Don Ignacio is patient. The teacher does not understand what she is doing. What do the player characters do with a woman whose harm is real and whose malice is absent?
 
-##### Story 4 - The Sheep Judge
+##### Tale 4 - The Sheep Judge
 
 The spring sheep shearing is the plaza's one reliable cash crop and the buyer is a Company man who has come to lowball the wool. Eufemia wants the party to ride with the fleece to Taos and sell it on the open market, breaking the Company's buyer and netting the plaza three times the price. The road to Taos is two weeks and it crosses the Moreno and the range of a small band of Ute who have not been paid for the grass the flock eats. The party can run the wool, fight the Ute, strike a deal, or sell to the Company man and keep the peace. Each choice writes a different line in Eufemia's ledger.
 
-##### Story 5 - The Penitente Cross
+##### Tale 5 - The Penitente Cross
 
 A wooden cross is found on the ridge above the cemetery, driven into the ground in the night, with a knotted cord hanging from it. Father Vigil knows what it means. The Penitentes of the Sangre de Cristo have taken an interest in the plaza's trouble, and the cross is both a warning and a promise. The brotherhood is old, Hispanic, and outside the Church's official blessing, and its help is real and its methods are not the court's. Do the player characters welcome a third party whose idea of justice predates the territory? Keep the plaza's fight in the courtroom? Or let the brotherhood do what brotherhoods do, and live with the story that tells?
 
@@ -940,32 +1306,32 @@ The chapter is a knot of truths held by fallible people. Remove one person and t
 
 ## Pacing the Chapter
 
-The broad rhythm is straightforward. The opening should spend time on arrival, hire, the supper, Celso's killing, and the first night raid. The middle should breathe long enough for the party to know the plaza, the camp, the suit, and the line before the cañón ride and the hearing begin tearing the chapter apart. The last movement should feel faster and meaner: the ride down to Cimarron, the hearing, one hard standoff, then the ride out with whatever paper and whatever enmity the party has earned. However long your table likes to take over a thing, do not let the opening pass without blood and suspicion, and do not let the ending arrive before the party has had to decide what is worth carrying out.
+The broad rhythm is simple. The opening should dwell on arrival, hire, supper, Celso's killing, and the first night raid. The middle should breathe long enough for the party to know the plaza, the camp, the suit, and the line before the cañón ride and the reckoning in Cimarron begin to tear the chapter open. The last movement should feel faster and meaner: the ride down to town, the hearing or its replacement, one hard standoff, then the ride out with whatever paper, allies, and grudges the party has earned. However long your table likes to take over a matter, do not let the opening pass without blood and suspicion, and do not let the ending arrive before the party has had to decide what is worth carrying out.
 
 ## Running the Major Combats
 
-Each big fight here should feel different. If they all turn into men standing in open ground rolling `SHOOTIN'`, the chapter flattens. The sheep-camp raid should feel confused, all loose wool, darkness, crossed lines of fire, and men shouting names they cannot place. Any fight in the Elizabethtown saloon should feel cramped and loud, with the stamp mill's beat underneath and a back door that may or may not be watched. The cañón ambush, if it comes, should be all verticality and broken timber, with the high ground belonging to whoever got there first. The fight at the cairn, if the Company's riders reach the party on the ridge, should feel thin-aired and cold and consequential, because the book is in hand and the shooting is over the book. The last standoff in Cimarron should feel dangerous in a different way because there are witnesses, law nearby, and one last chance to stop before the whole town chooses a side.
+Each major fight should have its own character. If they all become men standing in open ground rolling `SHOOTIN'`, the chapter goes flat. The sheep-camp raid should be confusion: loose wool, darkness, crossed fire, men shouting names they cannot place. A fight in an Elizabethtown saloon should feel cramped and deafening, with the stamp mill beating underneath it and a back door that may or may not be watched. The cañón ambush, if it comes, should belong to height, broken timber, and whoever took the high ground first. The fight at the cairn, if Company riders reach the party on the ridge, should feel thin-aired, cold, and final, because the book is in hand and the shots are over the book. The last standoff in Cimarron should be dangerous in a different way because there are witnesses, law nearby, and one final chance to stop before the whole town chooses a side.
 
 ## Reward, Reputation, and What the Party Carries Out
 
-Do not pay the party only in cash. Cash matters, and Don Ignacio or Hadley should pay what they can if the party lives long enough to collect, but the true rewards are rougher than coin. A party may leave this chapter with Don Ignacio's blessing and the plaza's open door, Eufemia's ledger in their favor, Strand's rough friendship and a stake at Baldy, Father Vigil's cemetery register as a witness to their good name, Nah-leh's memory and a guide in the high country, a copied field book worth money or blackmail in Santa Fe, or Ouida's grant language and a claim of their own on the mineral. They should also leave carrying damage. A lame horse. A cough from a night in the wet willows. Bad press in Cimarron. One faction convinced they stole what was rightfully theirs. A dead friend whose sister now knows the party's names. The best New Mexico rewards come with dirt on them.
+Do not pay the party only in cash. Cash matters, and Don Ignacio or Hadley should pay what they can if the party lives long enough to collect, but the real rewards are rougher than coin. A party may leave this chapter with Don Ignacio's blessing and the plaza's open door, Eufemia's ledger turned in its favor, Strand's hard friendship and a stake at Baldy, Father Vigil's register standing witness to its good name, Nah-leh's memory and a guide in the high country, a copied field book worth money or blackmail in Santa Fe, or Ouida's grant language and a claim of its own on the mineral. The party should also leave marked by the work. A lame horse. A cough from a night in the wet willows. Bad press in Cimarron. One faction certain it was robbed. A dead friend whose sister now knows every rider's name. The best New Mexico rewards always come with dirt on them.
 
 ## Carrying the Chapter into the Sandbox
 
-When this chapter closes, the party should have at least three living leads into the wider book. One may come from the comunidad, with Don Ignacio or Filomeno Baca sending for them when a land, water, or stock matter turns ugly elsewhere in the grant. One may come from paper, with Hadley's survivors, Oren Pell, or a Santa Fe banker wanting the surviving field book, its copies, or its originals. One may come from the gold camp, with Strand, Ouida, or a new prospector wanting help against claim-jumpers, royalty men, or the railroad. One may come from the high country, with Nah-leh offering warning, work, or one hard chance to prove earlier trust was not wasted. One may come from an enemy who lived. That is the proper ending here. Nobody is clean. Nobody is done. The country is still there when the smoke thins.
+When this chapter closes, the party should have at least three living leads into the wider book. One may come from the comunidad, with Don Ignacio or Filomeno Baca sending for them when a land, water, or stock matter turns ugly elsewhere on the grant. One may come from paper, with Hadley's survivors, Oren Pell, or a Santa Fe banker wanting the field book, its copies, or whatever remains of it. One may come from the gold camp, with Strand, Ouida, or a new prospector wanting help against claim-jumpers, royalty men, or the railroad. One may come from the high country, with Nah-leh offering warning, work, or one hard chance to prove earlier trust was not wasted. One may come from an enemy left alive. That is the right ending here. Nobody is clean. Nobody is finished. The country is still there when the smoke thins.
 
 ## Sandbox Exits
 
-The ending should throw the party into the wider New Mexico book with open hooks, not a ribbon tied around the matter. Cimarron and the Maxwell Grant are strong if the party wants court follow-up, range pressure, and the long slow work of land-title law. Santa Fe fits if they kept paper worth money, blackmail, or investment, and if they want to pull at the Ring directly. Elizabethtown and Baldy suit a group that wants the mining camp, the boom-and-bust cycle, and the rough end of the territory's economy. Fort Union and the army country to the south fit if the party's choices brought federal attention down on the grant. The Sangre de Cristo high country and the Jicarilla and Ute ranges fit best if trust or betrayal with Nah-leh was the heart of play. Taos and the Río Arriba suit a party that has made friends among the Hispano communities and wants the long game of a people who have been here three centuries and intend to be here three more.
+The ending should throw the party back into the wider New Mexico book with open hooks, not a ribbon tied around the matter. Cimarron and the Maxwell Grant are strong choices if the party wants court follow-up, range pressure, and the long work of land-title law. Santa Fe fits if it kept paper worth money, blackmail, or investment, and if it wants to pull directly at the Ring. Elizabethtown and Baldy suit a group that wants the mining camp, the boom-and-bust cycle, and the rough edge of the territory's economy. Fort Union and the army country to the south fit if the party's actions brought federal attention down on the grant. The Sangre de Cristo high country and the Jicarilla and Ute ranges fit best if trust or betrayal with Nah-leh was the heart of play. Taos and the Río Arriba suit a party that has made friends among Hispano communities and wants the long game of people who have been here three centuries and intend to be here three more.
 
 ## GM Notes on Tone
 
 Keep this chapter hard and specific.
 
-Men should want cash, wool, gold, paper, water, graves, and authority. They should not speak like a theme statement. Nobody in the plaza says he is resisting colonial dispossession. He says the flour is six cents, his father is on the ridge, and the creek at that bend is eight inches deep.
+People should want cash, wool, gold, paper, water, graves, and authority. They should not speak like a tract. Nobody in the plaza says he is resisting colonial dispossession. He says the flour is six cents, his father lies on the ridge, and the creek at that bend runs eight inches deep.
 
-The community is not a symbol of innocence and the Company is not a symbol of evil. The comunidad has its own cruelties: a sheep hand beaten for a bad night, a woman silenced at the table, a Jicarilla trader cheated at the store. The Company has its own decencies: Hadley pays his men on time and does not lie to them about the danger, and the court in Cimarron is, by the low standard of territorial courts, no worse than it has to be. The weight of the chapter is that decent people and indecent people are on both sides of the line, and the line itself is what is being fought over.
+The community is not an emblem of innocence and the Company is not an emblem of evil. The comunidad has its own cruelties: a sheep hand beaten for a bad night, a woman talked over at the table, a Jicarilla trader cheated at the store. The Company has its own decencies: Hadley pays on time and does not lie to his men about the danger, and the court in Cimarron is, by the low standards of territorial justice, no worse than it must be. The weight of the chapter lies here: decent and indecent people stand on both sides of the line, and the line itself is what is being fought over.
 
 > Historical note: The Maxwell Land Grant fight ran in the courts and in the country for decades after `1873`. The grant was eventually confirmed by the U.S. Supreme Court in `1887` on terms that favored the Company. The Hispano communities inside the grant lost most of what they had held. The gold camp at Elizabethtown boomed and busted and is a ghost town now. The plaza of San Esteban in this chapter is fiction, but the plazas it stands for were real, and what happened to them is a matter of record.
 
-The larger truth will show itself. It always does, in this country. The men who drew the false line are dead and the men who fought them are dead and the creek still runs shallow over gravel in the bend where the surveyor lay, and the creek does not care whose paper said what. That is enough.
+The larger truth will show itself. It always does in this country. The men who drew the false line are dead. The men who fought them are dead. The creek still runs shallow over gravel in the bend where the surveyor lay, and the creek does not care whose paper said what. That is enough.

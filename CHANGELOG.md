@@ -24,12 +24,21 @@ and this project follows Semantic Versioning.
     statblocks, a fully written opening arc (the plaza, the supper, the
     willows killing, the night raid), and written arcs through the gold
     camp, the cañón, and the Cimarron hearing.
-  - `03-adventures/01A-dramatis-personae-and-statblocks.md` — the expanded
+  - `03-adventures/01A-towns-trails-road-to-cimarron.md` — the
+    sandbox companion for _Quiet Title_: keyed gazetteers for San Esteban,
+    Elizabethtown, and Cimarron, plus pointcrawl travel procedures, route
+    timings, and encounter/event tables for both settlement pressure and the
+    country between nodes.
+  - `03-adventures/01B-dramatis-personae-and-statblocks.md` — the expanded
     cast for _Quiet Title_: backstory, wants, needs, fears, and how-to-play
     notes for every named NPC, plus statblocks and generic profiles for the
     chapter's muscle (Company riders, chainmen, Elizabethtown toughs, plaza
     hands, Jicarilla scouts, Pinkerton men).
-  - `03-adventures/01B-historical-facts-and-authenticity.md` — the historian's
+  - `03-adventures/01C-handouts.md` — a player-facing handout appendix for
+    _Quiet Title_, including notices, ledger extracts, register excerpts,
+    field-book leaves, letters, and other study-worthy papers sized for use
+    at the table.
+  - `03-adventures/01D-historical-facts-and-authenticity.md` — the historian's
     treatise for _Quiet Title_. Documents the real Maxwell Land Grant history
     the campaign is built on (the `1841` grant, the `1870` syndicate sale,
     the eastern-boundary survey fraud, the Santa Fe Ring, the `1887` Supreme

@@ -256,6 +256,34 @@ Sheriff Tatum is a white man of thirty-eight, the Company's sheriff, seated in C
 
 Tatum shoots well enough. The trouble is getting him to point the rifle at the right man.
 
+### BRUBAKER
+
+Brubaker is a white man of forty or so, Hadley's royalty collector at Baldy, thick through the shoulders, clean-shaved, and dressed better than the camp but worse than the court. The first impression he gives is of a man who has learned to make other men resent him and mistake resentment for power. He carries a little more scent of pomade than the mountain warrants and a little more certainty than the camp deserves. He is one of those men who never forgets an amount and rarely forgets an insult.
+
+**Backstory.** Amos Brubaker worked river freight on the Missouri, drifted into Kansas rail grading after the war, and discovered in both trades that he preferred counting another man's work to doing his own. The Maxwell Company found him useful because he could watch a scale, a strongbox, and three armed miners at once without blinking. He came into the Baldy diggings in `1871` to collect the royalty and has been hated there since the second week. He does not mind the hatred. Hatred that still pays is only another proof a man's hand is on the throat of a thing worth having.
+
+**Wants.** The royalty collected in full. The duplicate ledgers carried down to Cimarron clean. The camp reminded that Company paper is not a matter for argument.
+
+**Needs.** Hard men close by. A reputation for never blinking first. Proof for Hadley that every ounce of dust and every insult can still be counted.
+
+**Fears.** A public robbery he cannot explain away. Strand catching him alone. A ledger in the wrong hands.
+
+**How to play him.** Brubaker is not elegant like Hadley and not loud like Strand. He is the mean accountant between them. He speaks in dues, percentages, shortages, and arrears, and treats armed men the way a storekeeper treats inventory. He should feel competent in one narrow ugly way: he knows exactly what is owed, what was taken, and what it costs to answer theft with reputation instead of bullets. Play him as a man who thinks numbers are cleaner than blood and who is wrong about that.
+
+| GRIT       | 4   | QUICK    | 3   | CUNNING | 4   | DOCITY       | 3   |
+| ---------- | --- | -------- | --- | ------- | --- | ------------ | --- |
+| PRESENCE   | 3   | SHOOTIN' | 3   | HAWKEYE | 2   | BOOKLEARNIN' | 2   |
+| RESILIENCE | 3   | FIGHTIN' | 2   | INSIGHT | 3   |              |     |
+
+**Talents:** BUSINESS MINDED (Basic), HARD TO HIT (Basic), JUDGE OF CHARACTER (Basic), STEADY HAND (Basic).
+
+| Weapon             | Action | Draw Mod | Attack Mod | Damage | Critical | Range  | Ammo |
+| ------------------ | ------ | -------- | ---------- | ------ | -------- | ------ | ---- |
+| Colt .45 Peacemaker| Single | -1       | +1         | 3      | 1        | Medium | 6    |
+| Double-barrel shotgun | Breech | N/A   | +1         | 3      | 3        | Medium | 2    |
+
+Brubaker does not love violence. He loves winning by making violence look like the debtor's fault.
+
 ### ALDOUS PELL (THE SURVEYOR)
 
 Aldous Pell is a white man of forty, Ring-connected, precise, and cold in a way that passes for competence. He ran the false return under Halladay's name and he has been drinking since. He is the one man in the chapter who knows exactly how the line was bent and exactly how much it cost, and the cost is eating him.
@@ -356,6 +384,24 @@ A Company rider is Hadley's working muscle: a hired hand on a Company horse, pai
 | ------------------ | ------ | -------- | ---------- | ------ | -------- | ------ | ---- |
 | Colt .45 Peacemaker| Single | -1       | +1         | 3      | 1        | Medium | 6    |
 | 1873 Winchester    | Single | -1       | +1         | 3      | 1        | Long   | 15   |
+
+### PICKET CUTTER
+
+A picket cutter is the Company's deniable hand: the man sent to ruin a horse line, cut a trace, foul a ditch, torch a hayrick, or slip inside camp before the open shooting starts. The first impression is that there is almost no impression at all. He looks like a teamster, a hand, a drifter, the wrong sort of laborer in the wrong place one minute too long. By the time the party knows which man he is, the rope is already cut or the lamp is already tipped. In his general view, the player characters are not opponents to be beaten. They are obstacles to be got around quickly enough that the real job still gets done.
+
+| GRIT       | 3   | QUICK    | 4   | CUNNING | 3   | DOCITY       | 2   |
+| ---------- | --- | -------- | --- | ------- | --- | ------------ | --- |
+| MOVE       | 3   | SHOOTIN' | 2   | HAWKEYE | 2   | INSIGHT      | 2   |
+| RESILIENCE | 2   | FIGHTIN' | 2   |         |     | NATURE       | 2   |
+
+**Talents:** SILENT MOVEMENT (Basic), SURVIVOR (Basic), HARD TO HIT (Basic).
+
+| Weapon             | Action | Draw Mod | Attack Mod | Damage | Critical | Range  | Ammo |
+| ------------------ | ------ | -------- | ---------- | ------ | -------- | ------ | ---- |
+| '51 Navy Colt      | Single | -1       | +1         | 2      | 1        | Medium | 6    |
+| Belt knife         | N/A    | N/A      | +2         | 1      | 1        | Arms   | -    |
+
+Use picket cutters when you need one man already inside the trouble before the visible riders arrive.
 
 ### COMPANY CHAINMAN
 

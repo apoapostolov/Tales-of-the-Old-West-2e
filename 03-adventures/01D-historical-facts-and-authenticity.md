@@ -1,6 +1,6 @@
 # Quiet Title — A Treatise on Authenticity
 
-This document is the historian's companion to [01-quiet-title.md](01-quiet-title.md), with the expanded cast in [01A-dramatis-personae-and-statblocks.md](01A-dramatis-personae-and-statblocks.md). It is for the Game Master who wants to know, exactly, where the history in _Quiet Title_ ends and the fiction begins. It is a stamp. Run any scene in the adventure against the pages here and you will find the ground under it is real — the legal machinery, the survey methods, the economics, the smell of an Hispano plaza at spring melt, the mercury in the creek, the weight of a surveyor's chain. The characters are invented. The country, the law, the instruments, and the ruin are not.
+This document is the historian's companion to [01-quiet-title.md](01-quiet-title.md), with the sandbox support in [01A-towns-trails-road-to-cimarron.md](01A-towns-trails-road-to-cimarron.md) and the expanded cast in [01B-dramatis-personae-and-statblocks.md](01B-dramatis-personae-and-statblocks.md). It is for the Game Master who wants to know, exactly, where the history in _Quiet Title_ ends and the fiction begins. It is a stamp. Run any scene in the adventure against the pages here and you will find the ground under it is real — the legal machinery, the survey methods, the economics, the smell of an Hispano plaza at spring melt, the mercury in the creek, the weight of a surveyor's chain. The characters are invented. The country, the law, the instruments, and the ruin are not.
 
 The _1870s_ sourcebook covers the broad material world of the frontier West — what firearms, food, wages, law, mining, and religion looked like across the whole territory. This file does not repeat that work. It goes deep on the one corner of the West the adventure lives in: the Maxwell Land Grant country of the Sangre de Cristos in the spring of `1873`. Read it as a historian's notes to a fiction writer, or a fiction writer's promise to a historian.
 
@@ -109,6 +109,38 @@ The plaza cemetery on the ridge is the adventure's quietest argument and its tru
 ### The Penitente context
 
 Father Vigil's "Penitente-country" background and the cross driven into the ridge in Story 5 are real. The **Los Hermanos Penitentes** were (and are) a lay Catholic brotherhood, primarily Hispano, primarily in northern New Mexico and southern Colorado, whose practices — including processions, self-flagellation during Holy Week, and the reenactment of the crucifixion — were older than the diocese's formal authority over them and existed in an uneasy relationship with the institutional Church. By the `1870s` the Penitentes were a major social and moral force in the Sangre de Cristo plazas, often more present in a community's life than the parish priest, and a Penitente cross driven into the ground was a communication the community understood and the Company did not. The brotherhood's ideas of justice were older than the territory's. A Game Master who runs Story 5 should know that the Penitentes are not a costume. They are a real institution with a real theology and a real history of community self-governance under conditions where the official law was absent, hostile, or bought.
+
+### The gazetteer settlements
+
+The location file [01A-towns-trails-road-to-cimarron.md](01A-towns-trails-road-to-cimarron.md) takes three different kinds of place and treats each according to the real logic of the country.
+
+**San Esteban** is invented in name and exact placement, but it is historically sound in type. Its adobe square, church, cemetery ridge, acequia, family houses, store, stable yard, and nearby sheep camps are built from the real architecture and social organization of the Hispano plazas in the Maxwell Grant country. The settlement statblock given to San Esteban is therefore not the statblock of one documented historical town. It is the statblock of a **composite northern New Mexico plaza in `1873`**, weighted toward irrigation, memory, stock, and weak formal law. That is exactly what such a place was.
+
+**Elizabethtown** is real, and the gazetteer's treatment of it as a long dirty string of saloons, claim business, freight, assay work, and hardrock milling is historically accurate. The exact room placements, named interiors, and specific arrangement of Strand's sphere, Pell's room, and Ouida's quarters are invented for play. The camp functions attached to them are not. An assay office, a royalty collection point, boarding shanties, mule lines, stamp work, and played-out cuts were all ordinary features of Baldy's mining life by `1873`.
+
+**Cimarron** is also real, and the gazetteer is accurate in treating it less as a frontier village than as a **company town with a court in it**. The Company's store as the economic center, the hotel as witness ground, the livery and stage stand as custody points, the sheriff's office as an arm of Company pressure, and the newspaper office as the one semi-independent institution in town all reflect the actual kinds of places where territorial litigation was made practical. The exact offices and the exact editor are, again, inventions standing on real functions.
+
+### Small places, camps, and why there are not more villages
+
+The gazetteer gives short statblocks to the **upper sheep camp** and the **lower pasture line camp** because those are recurring habitation nodes in play, not because they were "towns." That distinction matters historically.
+
+Much of the country between Cimarron, the foothill plazas, and Baldy Mountain in `1873` was not filled with named villages every few miles. It was filled with **camps, line shacks, jacales, sheep grounds, abandoned prospect holes, freight halts, and isolated family places**. A western sandbox that invents too many tidy settlements for such country starts to feel more like a fantasy hex crawl than the Sangre de Cristo front. The new `01A` therefore does the right thing historically: it gives full treatment to the major settlements, short treatment to the recurring work sites, and leaves the rest of the country thinly peopled, hard to police, and easy to disappear in.
+
+If a Game Master later adds one or two extra farmsteads, line cabins, or jacal clusters to suit table play, that is still historically true to the region so long as they remain **small, kin-based, poor in formal institutions, and vulnerable to road pressure**.
+
+### The road, the trail, and the pointcrawl
+
+The pointcrawl procedure in `01A` is not an abstraction laid over the country from outside. It is a way of running the country that matches how the country actually constrained travel in `1873`.
+
+The distances used there are deliberately **real-world-feeling rather than survey-perfect**. Cimarron, the Baldy-Elizabethtown mining district, the foothill plaza country, and the rising cañón country all sat close enough to affect one another quickly, but far enough apart that every ride revealed intention and carried cost. A hard horseback day of roughly twenty to thirty miles on formed road, a slower mountain day into Baldy, and a punishing half day to day in the upper cañón and line country are historically plausible assumptions for the season, terrain, and loads involved.
+
+The route treatment is also accurate in type:
+
+- a **settled road** to Cimarron, carrying freight, notices, legal paper, and gossip
+- a **harder mining road** toward Elizabethtown, shaped by grade, weather, and freight traffic
+- a **narrow cañón trail** where stock, guides, weather, and visibility matter more than mileage
+
+The event density in `01A` is intentionally higher than life in order to produce gameable pressure, but the **kind** of pressure it assumes is historical: broken freight, bad weather, road agents, process servers, witnesses in motion, laborers carrying rumor, and the simple fact that in a watched country, strangers on horseback are noticed.
 
 ---
 
@@ -244,6 +276,10 @@ This is the ledger the user asked for. Everything above this line is the record.
 | Invented | Stands in for |
 | --- | --- |
 | The plaza of San Esteban | The real Hispano plazas of the grant country (Rayado, the Cimarron-area settlements, the Sangre de Cristo foothill communities) |
+| The exact keyed gazetteer of San Esteban | A playable composite of real plaza institutions, layout logic, and household functions from northern New Mexico in the territorial period |
+| The exact keyed gazetteer of Elizabethtown | The real Baldy boom camp, compressed and arranged into a usable set of recurrent playable sublocations |
+| The exact keyed gazetteer of Cimarron | The real courthouse and company town, arranged into a usable set of recurrent playable sublocations |
+| The upper sheep camp and lower pasture line camp | Real kinds of stock outposts and working camp nodes common to Hispano sheep country |
 | The fictive Company superintendent **Cornelius V. Hadley** | The real eastern-educated operators who ran the grant for the syndicate |
 | The fictive surveyor **Phineas Halladay** | The real honest GLO deputies and the real friction between federal and Company surveyors |
 | The fictive surveyor **Aldous Pell** | The real Company-connected surveyors whose lines moved (the real Griffin survey's alleged fraud) |
@@ -258,6 +294,7 @@ This is the ledger the user asked for. Everything above this line is the record.
 | **Ouida Beaubien** | The real Beaubien heirs (Carlos Beaubien had real descendants) and their real, unheard claims |
 | The specific events — the willows killing, the sheep-camp raid, the cairn on the ridge, the hearing, the standoff | Invented scenes built on the real pattern of grant-company violence, survey fraud, and territorial-court dispossession |
 | The spring `1873` timing of the climactic hearing | Compressed for play; the real great boundary fights and evictions came in the `1880s` |
+| The pointcrawl travel procedure and event cadence | A game structure built on historically plausible distances, route types, travel speed, and frontier travel hazards |
 
 ### The one large liberty
 
