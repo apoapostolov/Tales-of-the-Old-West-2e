@@ -100,7 +100,20 @@ until all six can be answered in two sentences each. See
 
 ### Phase 1 — Design
 
-1. **Pick a pressure, not a plot.** State the central pressure
+1. **Pick the structure type.** Decide first: is this adventure a
+   three-act **chapter** (the party drives toward a climax; pacing
+   cohesion is primary) or a fixed-node **sandbox** (the party
+   moves freely through a country of named locations, choosing
+   what to care about; freedom of movement and order of operations
+   is primary)? The two structures share most craft but diverge on
+   cold open, prize design, time pressure, and the "what if they
+   break it" section. See `references/sandbox-structure.md` for the
+   full comparison and the four sandbox properties (independent
+   levers, faction clocks, entry-point menu, shortcut doctrine).
+   Most adventures are one or the other; some combine them (a
+   chapter whose macro rhythm is three acts but whose scene layer
+   is a sandbox). State the choice before drafting.
+2. **Pick a pressure, not a plot.** State the central pressure
    in one sentence: "A railroad survey forces a wagon column
    across hunting ground." Pressure is what makes choices hurt.
 2. **Cast the factions.** Three to six. Each gets one line for
@@ -229,6 +242,23 @@ Run these steps after every live session of the adventure.
 - `references/node-based-design.md` — node-based scenario design.
   Node types, designing backward, floating clues, chokepoints,
   exit design, relationship maps.
+- `references/sandbox-structure.md` — the sandbox as a fourth
+  adventure shape, distinct from the three-act chapter. The
+  fixed-node sandbox, the three sandbox substyles (social,
+  pointcrawl, hexcrawl — what the nodes are made of and therefore
+  what the party's primary engagement is), the lever menu, faction
+  clocks that advance on time, the entry-point menu, shortcut
+  doctrine (true consequences, never resets), the sandbox
+  reckoning, and when to pick sandbox vs. chapter. Load this
+  before designing any adventure whose pleasure is the party
+  choosing what to care about in a rich situation.
+- `references/levers-and-fallbacks.md` — the lever menu: many
+  sufficient routes to the reckoning, none mandatory. Lever design
+  rules, the cost-distinctness rule, fallbacks for missed routes,
+  and the truth-survives-the-holder table. The action-layer
+  companion to clue-discipline's three-clue rule. Load for any
+  adventure, chapter or sandbox, that must survive the party
+  refusing the obvious path.
 - `references/horror-design.md` — dread and tension architecture.
   Gothic, cosmic, and survival horror modes. The unseen principle,
   the reveal economy, horror pacing, safety toolkit.
@@ -272,9 +302,26 @@ Run these steps after every live session of the adventure.
 ### examples/ — annotated exemplars
 
 - `examples/annotated-yellowstone.md` — a chapter from a
-  shipped adventure, annotated to show every pattern in this
-  bible at work. Read this before drafting your first chapter
-  with the skill.
+  shipped adventure (the _Yellowstone Line_, a three-act
+  chapter), annotated to show every pattern in this bible at
+  work. Read this before drafting your first chapter with the
+  skill.
+- `examples/annotated-quiet-title.md` — a sandbox from a
+  shipped adventure (_Quiet Title_, a fixed-node sandbox),
+  annotated to show the sandbox-specific patterns at work:
+  entry-point menu, lever menu, faction clocks, shortcut
+  doctrine, truth-survives table, split-party design. Read
+  this alongside the Yellowstone exemplar; the two are a pair
+  showing the same craft applied to different structures.
+- `examples/comparative-patterns.md` — ten design decisions
+  shown side by side across both adventures (cold open,
+  central prize, time pressure, "what if they break it,"
+  cast distribution, reckoning, historical grounding,
+  consequence ledger, robustness, sensory registers). The
+  agnostic tour: the architecture is portable, the shape
+  serves the situation. Read when deciding chapter vs.
+  sandbox, or when a pattern feels wrong and you suspect a
+  structure mismatch.
 
 ## How to use this bible
 
@@ -307,17 +354,24 @@ Run these steps after every live session of the adventure.
     paragraph before drafting Arc I.
 11. **For travel sequences or wilderness adventures**, load
     `travel-and-wilderness.md` and `location-design.md`.
-12. **Pull two or three exemplars** from
-    `examples/annotated-yellowstone.md` before drafting any
-    section. Match the cadence.
-13. **Draft, then run the anti-railroad pass.** Cut anything it
+12. **For a sandbox adventure** (the party moves freely through a
+    country of named locations, choosing what to care about), load
+    `sandbox-structure.md` and `levers-and-fallbacks.md` before
+    drafting. Pull exemplars from `examples/annotated-quiet-title.md`.
+    Read `examples/comparative-patterns.md` to keep the sandbox
+    patterns distinct from chapter patterns.
+13. **Pull two or three exemplars** from
+    `examples/annotated-yellowstone.md` (for a chapter) or
+    `examples/annotated-quiet-title.md` (for a sandbox) before
+    drafting any section. Match the cadence.
+14. **Draft, then run the anti-railroad pass.** Cut anything it
     catches. Rewrite.
-14. **End on weight.** The last beat of every section is a cost,
+15. **End on weight.** The last beat of every section is a cost,
     a decision, or an image — never a summary.
-15. **After every live session**, run Phase 3 (steps 15-17).
+16. **After every live session**, run Phase 3 (steps 15-17).
     Observe without explaining. Debrief 24 hours later. File
     learnings before starting the next adventure.
-16. **For an adventure with difficult content**, declare content
+17. **For an adventure with difficult content**, declare content
     types in the GM notes and recommend a session zero. See the
     Safety and content discipline section above. For horror
     specifically, the safety toolkit in `horror-design.md` is
@@ -347,6 +401,16 @@ Before you call an adventure done, run all six.
    without asking you a question? If they need clarification, the
    scene's instructions, NPC entries, or exit descriptions are
    underwritten. Fix before publication.
+7. **The sit-still test** (sandbox). If the party holes up and does
+   nothing for three in-game weeks, what has happened? The answer
+   must be "the country has changed in ways the party now has to
+   live with," not "nothing." If the country pauses when the party
+   pauses, it is not a sandbox.
+8. **The shortcut test** (sandbox). Open your "When the Party
+   Shortcuts" section (or, in a chapter, your failure-mode section).
+   Does every shortcut have a true consequence, not a reset? Is
+   there a line for "the party does something nobody planned for"?
+   A shortcut answered with a reset is a railroad in disguise.
 
 ## A note on iteration
 

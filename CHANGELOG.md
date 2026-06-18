@@ -7,6 +7,43 @@ All notable changes to My big project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project follows Semantic Versioning.
 
+## [Unreleased]
+
+### Added
+
+- **`03-adventures/` domain.** Adventures now live in their own folder,
+  separate from the two books, so a campaign module is not filed as a
+  chapter of a setting or rules volume.
+  - `03-adventures/01-quiet-title.md` — _Quiet Title_, a standalone northern
+    New Mexico campaign set in the spring of `1873`. The plaza of San
+    Esteban sits inside the Maxwell Land Grant boundary as the foreign-backed
+    grant company draws it, and a dead federal surveyor's hidden field book
+    is the lever that can break a quiet-title suit, free the Baldy Mountain
+    gold diggings, or be sold to a railroad that only wants a clean right of
+    way. The module carries a four-track consequence ledger, a full cast with
+    statblocks, a fully written opening arc (the plaza, the supper, the
+    willows killing, the night raid), and written arcs through the gold
+    camp, the cañón, and the Cimarron hearing.
+  - `03-adventures/01A-dramatis-personae-and-statblocks.md` — the expanded
+    cast for _Quiet Title_: backstory, wants, needs, fears, and how-to-play
+    notes for every named NPC, plus statblocks and generic profiles for the
+    chapter's muscle (Company riders, chainmen, Elizabethtown toughs, plaza
+    hands, Jicarilla scouts, Pinkerton men).
+  - `03-adventures/01B-historical-facts-and-authenticity.md` — the historian's
+    treatise for _Quiet Title_. Documents the real Maxwell Land Grant history
+    the campaign is built on (the `1841` grant, the `1870` syndicate sale,
+    the eastern-boundary survey fraud, the Santa Fe Ring, the `1887` Supreme
+    Court decision), the GLO deputy-surveyor's trade, the Hispano plaza and
+    the acequia, the mercury amalgamation poisoning the gold camp, and the
+    psychology of the operators, with an explicit ledger separating the
+    invented characters from the real history they stand in for.
+
+### Changed
+
+- Moved the adventure previously drafted as `02-the-1870s/27-quiet-title.md`
+  into the new `03-adventures/` domain and renumbered it `01-quiet-title.md`.
+  It was never committed under the old path.
+
 ## [1.0] - 2026-04-27
 
 This first release replaces the loose `Unreleased` bucket with a real versioned

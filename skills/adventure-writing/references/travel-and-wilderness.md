@@ -7,6 +7,18 @@ edges of maps. An adventure that compresses all travel
 into "you ride three days and arrive" is missing a
 third of its world.
 
+> **Scope note.** This file covers travel as a _mechanic_
+> that can sit inside any adventure: the journey beat, the
+> route entry, the encounter table, terrain effects, weather,
+> resupply, and the three travel structures (linear,
+> pointcrawl, hexcrawl). For travel as the _whole adventure's
+> structure_ — a pointcrawl or hexcrawl **sandbox** whose
+> nodes, clocks, and levers are all designed around geographic
+> movement as the primary engagement — see
+> `references/sandbox-structure.md`, "Three sandbox substyles."
+> The two files are complementary: this one is the toolkit;
+> that one is the architecture.
+
 ## Travel as story
 
 What the journey does that scenes inside buildings

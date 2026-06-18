@@ -23,11 +23,12 @@ tools to keep new material in the same hard, western voice.
 - `01-corebook/` — the complete player-facing game
 - `02-the-1870s/` — the 1870s setting book with history, people, danger, and
   an example adventure
+- `03-adventures/` — the standalone adventure domain, separate from the books
 - `skills/western-writing/` — the prose and lore skill bundle
 - `CHANGELOG.md` — the version-by-version development record
 - `LICENSE.md` — the rights and notice file for this repository
 
-## The two books
+## The two books, and the adventures domain
 
 ### Book 01 — _Tales of the Old West_
 
@@ -66,6 +67,29 @@ What this book brings:
 - the dark frontier and regional landscapes
 - a full example adventure: `The Yellowstone Line`
 - appendix material for named NPCs and handouts
+
+## The Adventures domain — `03-adventures/`
+
+Adventures live in their own domain, not as chapters of either book. Each
+entry is a complete, runnable campaign module with its own setting, cast,
+and consequence tracks, built to stand alone or to hook into a wider
+sandbox.
+
+What this domain brings:
+
+- `01-quiet-title.md` — _Quiet Title_, a northern New Mexico campaign set in
+  the spring of `1873` in the Maxwell Land Grant country of the Sangre de
+  Cristos. A dead federal surveyor, a hidden field book, and a quiet-title
+  suit drive a fight over land, gold, a railroad right of way, and the
+  eastern boundary of the grant itself.
+- `01A-dramatis-personae-and-statblocks.md` — the expanded cast: full
+  profiles, wants, needs, fears, and statblocks for every named figure and
+  every generic profile in the campaign.
+- `01B-historical-facts-and-authenticity.md` — the historian's treatise.
+  Documents the real Maxwell Land Grant history the campaign is built on,
+  the surveyor's trade, the plaza's life, the mercury in the creek, and the
+  psychology of the operators, with an explicit ledger of what is invented
+  and what is on the record.
 
 ## Why it matters
 
