@@ -33,6 +33,34 @@ shape of an adventure that resists collapse**.
 The skill is long because the job is large. Read this file first.
 Then load the modules you need.
 
+## Published register
+
+This skill distinguishes between **design language** and
+**published adventure language**.
+
+- **Design language** belongs in the skill files, learnings,
+  outlines, and private notes. It can use technical shorthand
+  such as `lever menu`, `consequence ledger`, `truth-survives
+  table`, or other internal labels that help the author think.
+- **Published adventure language** belongs in the manuscript the
+  GM will read at the table. It should sound like commercially
+  published RPG material: plain, instructive, confident, and easy
+  to run. Prefer `routes`, `options`, `approaches`, `faction
+  standing`, `consequences`, `timers`, `openings`, `scenes`, and
+  `developments` over workshop jargon.
+
+Two rules follow from this:
+
+1. **Do not print internal craft terms in the adventure text
+   unless they are already standard in commercial game writing.**
+   `Arc`, `clock`, and `track` are fine. Avoid terms like `beat`,
+   `lever`, `consequence ledger`, `toolkit`, or `payoff` when a
+   plain-language alternative will do the job.
+2. **GM guidance should read as usable module prose, not theory.**
+   Write "If the party opens in Baldy, bring in Eufemia's freight
+   problem early" rather than "make the second beat the freight
+   lever." The GM should feel instructed, not lectured on craft.
+
 ## The non-negotiables
 
 These rules are absolute. Violate them and the adventure becomes
@@ -65,7 +93,7 @@ a railroad, a quiz, or a tour.
 
 7. **The cold open shows tone, not exposition.** Open on a
    sensory image of the world's specific weight. Save the
-   briefing for the second beat.
+   briefing for the next section.
 
 8. **Every NPC has a stance toward the PCs.** Not just "what
    they want" — what they think the PCs _are_ (tools, threats,
@@ -75,8 +103,8 @@ a railroad, a quiz, or a tour.
    if they die early" branch. Every clue has a fallback carrier.
    The adventure must survive a TPK of any single NPC.
 
-10. **End on weight.** The closing beat of every scene is a cost,
-    a decision, or an image — never a summary.
+10. **End on weight.** The end of every scene is a cost, a
+    decision, or an image — never a summary.
 
 ## The workflow
 
@@ -256,7 +284,11 @@ Run these steps after every live session of the adventure.
   sufficient routes to the reckoning, none mandatory. Lever design
   rules, the cost-distinctness rule, fallbacks for missed routes,
   and the truth-survives-the-holder table. The action-layer
-  companion to clue-discipline's three-clue rule. Load for any
+  companion to clue-discipline's three-clue rule. **Contains the
+  language-register rule: design concepts stay in design files;
+  adventure text uses consumer-facing language (route, not lever;
+  faction standing, not consequence ledger; scene sequence, not
+  beat map).** Load for any
   adventure, chapter or sandbox, that must survive the party
   refusing the obvious path.
 - `references/horror-design.md` — dread and tension architecture.

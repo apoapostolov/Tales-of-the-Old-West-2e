@@ -498,3 +498,28 @@ Filomeno Baca is a Hispano man of twenty-six, lawyer out of Taos, brave, outgunn
 | '58 Remington      | Single | -1       | +1         | 3      | 1        | Medium | 6    |
 
 Baca carries the Remington because he rides between Taos and Cimarron alone. He has never drawn it on a man. The party's paper may change that.
+
+### THADDEUS LOWE (_Cimarron News and Press_)
+
+Thaddeus Lowe is a white man of thirty-nine, Yankee editor of the _Cimarron News and Press_, narrow-shouldered, ink-stained, careful in his movements, and colder in his angers than louder men ever are. The first impression is the wary intelligence of a man who has been insulted by better people than you and learned something from each of them. He wears his cuffs shiny, keeps his hat brushed, and smells faintly of lampblack and printer's ink.
+
+**Backstory.** Lowe came west from Missouri by way of Leavenworth, learned the case and the composing stick on hard-party newspapers before the war, printed casualty lists through the war, and landed in Cimarron in `1871` because a courthouse town always needs a newspaper and a newspaper near a courthouse always learns something worth printing. He bought into the _News and Press_ cheap because the previous editor discovered too late that a Company town prefers a timid printer. Lowe is not brave in the theatrical sense. He is brave in the printer's sense: he knows exactly which line will get his windows broken and sets it in type anyway if the line is true enough to be worth the glass.
+
+**Wants.** A document he can print that the Company cannot laugh off. A story that reaches Santa Fe before Hadley buries it. To keep the press independent long enough for it to matter.
+
+**Needs.** Copy that can be set fast. Witnesses willing to let their names be seen. One night where his forms, type, and press survive until dawn.
+
+**Fears.** A libel writ he cannot afford. A fire in the pressroom. Being forced to print the Company's version because the true one arrived too late.
+
+| GRIT       | 2   | QUICK    | 3   | CUNNING | 4   | DOCITY       | 3   |
+| ---------- | --- | -------- | --- | ------- | --- | ------------ | --- |
+| PRESENCE   | 3   | SHOOTIN' | 2   | HAWKEYE | 3   | PERFORMIN'   | 2   |
+| RESILIENCE | 2   |          |     | INSIGHT | 4   | BOOKLEARNIN' | 4   |
+
+**Talents:** BOOKLEARNIN' (Advanced), KEEN EYE (Basic), SHARP TONGUE (Advanced), STEADY NERVE (Basic).
+
+| Weapon             | Action | Draw Mod | Attack Mod | Damage | Critical | Range  | Ammo |
+| ------------------ | ------ | -------- | ---------- | ------ | -------- | ------ | ---- |
+| Pocket revolver    | Single | -1       | +0         | 2      | 1        | Short  | 5    |
+
+Lowe keeps the pocket revolver in the press drawer under the galley proofs. He trusts type more than lead and uses the lead only when the type has failed.

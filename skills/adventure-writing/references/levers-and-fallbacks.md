@@ -4,6 +4,45 @@
 
 This is the engine of the sandbox (`sandbox-structure.md`) and the backstop of the chapter. A chapter with one winning route is a puzzle with a fight at the end. A chapter with a lever menu is a story the party owns.
 
+## Language register — design theory vs. GM-facing text
+
+**This file teaches a design concept. The concept is real. The word
+"lever" belongs inside this file and in your design thinking — never
+in the adventure text a GM reads.**
+
+GMs are consumers, not game designers. They may be power users, but
+they read adventures for the world, the characters, and the
+guidance — not for the design theory that produced them. Designer
+language in a published adventure reads as jargon, breaks immersion,
+and signals that the author is talking to other designers instead of
+to the person who will run the game.
+
+### The translation rule
+
+When you write adventure text that a GM will read, translate design
+concepts into plain English:
+
+| Design term (use in this file, in your head) | GM-facing term (use in adventure text) |
+| --- | --- |
+| lever | route, path, way through, piece of evidence, card to play, advantage |
+| consequence ledger | faction standing, reputation, trust |
+| node | location, place, scene |
+| critical path | the only way through, single route |
+| fail state | bad ending, loss, the worst that can happen |
+| narrative arc | the story's shape, how events unfold |
+
+"Clock" and "sandbox" are exceptions: both are widely understood by
+GMs and have become part of the hobby's common vocabulary. Use them
+freely.
+
+### The test
+
+After drafting any section of an adventure, read it aloud as if you
+were a GM preparing for tonight's session. If you would not say a
+word to another person across a table, cut it. "The field book is
+the loudest lever" fails the test. "The field book is the most
+obvious route — but not the only one" passes.
+
 ## The lever, defined
 
 A **lever** is a route to the adventure's reckoning that does not depend on any other route. Each lever is:
