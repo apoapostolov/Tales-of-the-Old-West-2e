@@ -1,8 +1,8 @@
 # Quiet Title
 
-> The water of the Arroyo de las Vacas ran shallow over gravel and the surveyor's boots were still laced. He lay on his face in the willows with his field book under him and the back of his skull gone. The Company's return said he had drowned. The creek at that bend was not eight inches deep.
+> In the spring of `1873`, they found the surveyor in the willows at the Arroyo de las Vacas. He lay face down in water not eight inches deep, his boots still laced, his field book pinned under him, and the back of his skull blown out. The Company's return said he had drowned.
 >
-> That was the spring of `1873`. By the first cutting of hay the plaza was in the suit and the book had not been found.
+> By the first cutting of hay, the plaza was in the suit and the book was still missing.
 
 The Sangre de Cristo country is the right way to open a northern New Mexico campaign in `1873`.
 
@@ -419,7 +419,7 @@ That evening, Don Ignacio has the party to his table if they have come by the co
 
 Read or paraphrase:
 
-> The Montoya kitchen is long and low and warm with the cookfire and the lamp. Tallow and chili and the wet-wool smell of the roof. Don Ignacio sits at the head and his daughter Pilar serves and the men eat with tortillas and their hands. Across the table Eufemia sits with her pencil behind her ear though she is not at the store. Father Vigil sits at the far end and does not eat much and drinks more than he should.
+> The Montoya kitchen is long, low, and warm from the cookfire and the lamp. It smells of tallow, chili, and wet wool. Don Ignacio sits at the head of the table while his daughter Pilar serves, and the men eat with tortillas and their hands. Across from him Eufemia still has a pencil behind her ear, though the store is closed. Father Vigil sits at the far end, eating little and drinking more than he should.
 
 Let the important voices share the room and let the party move between them. Don Ignacio talks possession, acequia, graves, and the long memory of the plaza in the slow English he saves for Anglos. Eufemia talks freight, flour, wool, and the arithmetic of being undercut at both ends of the road. Father Vigil talks the cemetery register, the dates, and the dead. If you want a sharper local edge, have Tomás Luján come in late and sit by the door and not eat at all. By the end of the meal the players should know that Don Ignacio thinks the suit is lost before it is tried unless the field book surfaces, that Eufemia thinks the plaza is being starved out before it is sued out, that the priest thinks the dead are the only title the court cannot burn, and that Tomás Luján knows something he would rather die than tell and is half of the way to dying of it already. They should also know how these people carry themselves. Don Ignacio listens with his hands folded on the table. Eufemia talks with the pencil. The priest watches the door. Tomás watches the window.
 
@@ -481,7 +481,7 @@ It is a dead man. He is a young Hispano sheep hand named **Celso Baca**, and he 
 
 Read or paraphrase:
 
-> Celso lies on his side in the mud with one arm out and the ewes backed off up the bank. The wound under the arm is the size of a half dollar and the jaw is gone. The creek takes the blood and thins it and carries it on. Celso's hat is in the water twenty yards downstream and turning in the current.
+> Celso lies on his side in the mud with one arm flung out, while the ewes shy back up the bank. One shot took him under the arm. Another smashed his jaw. The creek pulls the blood away from him in thin red ribbons. His hat has drifted twenty yards downstream and turns slowly in the current.
 
 There should be enough on the ground to trouble a smart party. One set of hoofprints shows a shod horse, the plaza's fashion. Another shows a horse shod in the Company's fashion, the wide heel caulks the Elizabethtown smith puts on. A shaving of pencil lead sits in the mud near Celso's hand, the same kind Halladay used. Celso had been drinking at the saloon with one of Hadley's riders the night before, and earlier in the day he had spoken to Tomás Luján at the corral. Let the players question Tomás, the riders, the sheep hands, and the priest until the scene begins to tighten around them. If they press hard, reward them before the shooting starts. The rider lied about when he last saw Celso. Tomás has mud on his cuffs from the willows. One ewe hand admits a Company man offered two dollars to know which pasture Celso rode that night. Eufemia says Celso owed her three dollars for flour, which is true and not the point.
 
@@ -499,7 +499,7 @@ Before the killing is settled, riders hit the upper sheep camp in the dark.
 
 Read or paraphrase:
 
-> The first shot comes from above the camp and the second comes from inside it. Then the sheep break and a ewe screams the way a woman screams and the camp dogs go mad. Somebody in the dark is shouting for the book and somebody else is shouting for God.
+> The first shot cracks from above the camp. The second comes from inside it. Then the sheep break. A ewe screams like a woman in the dark, the dogs go mad on their chains, and men start shouting over one another. One voice is yelling for the book. Another is yelling for God.
 
 Use confusion. Use sheep breaking loose. Use muzzle flashes at bad angles. Make it hard to tell whether the riders are after the flock, the panic, the guide Tomás Luján, or one particular haversack. Put `6-8` mounted riders in the dark, one man already inside the camp cutting the picket rope, and enough panic in the animals to make wool and horn more dangerous than a single pistol. Their purpose is plain even if their employer is not. They mean to scatter the flock, cover the escape of the inside man, and seize Tomás Luján if they can, because Tomás is the one living witness to what happened in the willows in March. The fight matters because lost sheep can starve the plaza before the suit is tried, because a captured rider can point toward hired interference rather than a simple night raid, and because Don Ignacio will remember who held their head when the dark broke open around them. Afterward, let one dying rider carry something wrong in his pocket: an Elizabethtown assay chit, a Company cartridge he should not have, or a marked double eagle from Hadley's strongbox. It should start suspicion, not settle it.
 
@@ -530,7 +530,7 @@ The road north to Baldy climbs out of the plaza's cañón into the pinyon and ju
 
 Read or paraphrase:
 
-> The camp runs along the creek in a long untidy line of canvas and clapboard and the tailings run down off the cuts above it in pale fans of broken rock. The stamp mill at the upper end beats a slow rhythm the whole camp has stopped hearing. A line of men waits at the assay office with their pans and their paper. Two of them are armed. All of them are.
+> The camp runs along the creek in a crooked line of canvas and clapboard, with tailings fanned pale down the cuts above it. At the upper end, the stamp mill beats out a dull rhythm the camp has long since stopped hearing. Men stand in line at the assay office with pans in their hands and slips of paper folded in their pockets. Two of them show guns. The rest are wearing theirs under their coats.
 
 The camp is the Company's milk cow and the Company knows it. The royalty is a tenth of the gross and the gross is what keeps the camp alive and what keeps the Company's London directors patient through the slow suits. Strand pays the royalty because he has to and hates it because he has to, and the hatred is the opening he offers anyone with a strong back and a loose notion of whose gold the creek holds.
 
@@ -560,7 +560,7 @@ Ouida keeps a room above the Elizabethtown store and a copy of the original `184
 
 Read or paraphrase:
 
-> The stair up to her room was unplaned lumber and the room smelled of cold coffee and old paper. The tin box sat open on the table. She was thirty and she dressed without reference to the camp's opinion. The grant copy lay under oiled paper and the Spanish was small and exact and the seal was old and dark.
+> The stair to her room is unplaned lumber, and the room smells of cold coffee and old paper. A tin box sits open on the table. She is thirty and dressed without the least regard for the camp's opinion. Under a sheet of oiled paper lies the grant copy, its Spanish small and exact, its seal old and dark.
 
 Ouida is the arc's truest historian and its loneliest figure. She has read the grant language aloud in the store to anyone who would listen for two years, which is almost no one, and the almost-no-one has curdled her. She is not a disinterested witness. She wants her family's name restored to the gold, which means she wants a piece of what the camp pulls out of the creek, which means she is an ally with a price. Treat her as a person and not a plot device, and the scene does what it needs to.
 
@@ -590,7 +590,7 @@ In a room above the Old Abe, behind a door that has been kicked open more than o
 
 Read or paraphrase:
 
-> The room smelled of stale whiskey and the particular sweet-rot of a man who has not changed his shirt in a week. Pell sat on the edge of the bed with a glass in both hands and the glass was empty and he was watching the empty as if it might fill itself. His hands were the hands of a man who had once made his living by their steadiness.
+> The room smells of stale whiskey and the sweet rot of a man who has not changed his shirt in a week. Pell sits on the edge of the bed with an empty glass in both hands, watching it as if it might fill itself. His hands are still the hands of a man who once made his living by keeping them steady.
 
 Pell is the arc's broken hinge. He is the one man in the chapter who can sign an affidavit naming the false line, the false return, and the hand that paid for both, and an affidavit from the surveyor who filed the return is nearly as strong as the field book itself. The trouble is that Pell's nerve is gone and his price is not money. His price is a way out of the country that does not end in a Cimarron courtroom or a shallow grave.
 
@@ -608,7 +608,7 @@ Between the camp and the court runs the road the Company built, and on that road
 
 Read or paraphrase:
 
-> The Old Abe at the dinner hour smelled of beans and sweat and the pine knots popping in the stove. A man in an Eastern coat sat alone with black coffee and a folded newspaper three weeks out of Topeka. His boots were new and his hands had never run a sluice box. He watched the room over the paper. When the coffee was done he left two bits on the table and walked out and the bartender swept the coin into the till without comment and the room went back to its business.
+> At dinner hour the Old Abe smells of beans, sweat, and pine knots snapping in the stove. A man in an Eastern coat sits alone with black coffee and a newspaper already three weeks old by the time it reached Baldy. His boots are new. His hands have never worked a sluice. He watches the room over the top edge of the paper, finishes his coffee, leaves two bits on the table, and walks out. The bartender sweeps the coins into the till without a word, and the room goes back to its business.
 
 Oren Pell is the arc's safest buyer and its most dangerous creditor. He will buy any clean copy of any paper that settles the boundary. He will pay in railroad drafts cashable in Topeka, Kansas City, or New York. He will ask no questions about where the paper came from and he will remember, in a ledger in Topeka, exactly who sold it and for how much. A party that sells him a copy of the field book leaves the chapter rich and leaves the chapter owing the railroad a favor the railroad will collect, in its own season, in its own country.
 
@@ -625,7 +625,7 @@ The road down from Baldy is the road the Company built, and Cimarron is the Comp
 
 Read or paraphrase:
 
-> Cimarron ran along the river in a line of false fronts and muddy streets and it was the Company from one end to the other. The store was the biggest building on the street and the court was up the stairs at the back of it and the stairs creaked under the weight of the law. A Company sign hung over the door. The sheriff's office was across the street and the jail was behind it and both of them were Company too.
+> Cimarron runs along the river in a line of false fronts and muddy streets, and nearly every board in it belongs to the Company. The biggest building on the street is the store. The courtroom is upstairs at the back, and the stairs creak under every boot that climbs toward the law. A Company sign hangs over the door. Across the street sit the sheriff's office and the jail, and they are Company too.
 
 Do not let the party read Cimarron as a neutral venue. Every plank of it belongs to the suit's plaintiff. The judge is a Ring appointment. The sheriff is Hadley's man. The store is the Company's store. The hotel is the Company's hotel. The newspaper, the _Cimarron News and Press_, is the one institution in town that is not cleanly owned, and its editor, a Yankee named **Thaddeus Lowe**, hates the Company with a cold and careful hate that he has so far been too prudent to print. He is a man who could break the case wide open, and a party that finds him finds a press.
 
@@ -667,7 +667,7 @@ The cañón runs west out of the plaza into the Sangre de Cristos. It is narrow,
 
 Read or paraphrase:
 
-> The cañón narrowed and the spruce closed over the trail and the light went green and thin. The creek fell over a ledge to the left and the trail switchbacked up the right and the horses picked their footing one stone at a time. Above the spruce the aspen stood white and bare and not yet leafed and above the aspen the snow still lay in the gullies. A gray jay came down out of the timber and sat on a branch at Tomás's shoulder height and watched them pass and did not fly until they were past.
+> The cañón narrows until the spruce closes over the trail and the light turns green and thin. The creek drops over a ledge on the left. The trail claws upward on the right, and the horses pick their footing one stone at a time. Above the spruce, the aspen stand white and bare, not yet leafed. Above them, snow still lies in the gullies. A gray jay drops from the timber, perches level with Tomás's shoulder, and watches the party pass before it finally lifts away.
 
 The ride up is the chapter's one sustained piece of country, and it should do the work the country does in a western: it should wear the party down, sort the competent from the not, and teach the reader the ground the fraud was drawn across. Use the climb. A spring storm comes through in the afternoon and the party makes a cold camp in the spruce with the horses stamped tight against the wet. A snow bridge over a side creek gives way under a pack horse and the party works half the night to save the animal or the gear or both. The elk are up on the high parks in their calving bands and a cow bawls in the dark and the horses pull at the picket. None of this is decoration. A party that arrives at the line wet, tired, and short a horse reads the fraud differently than a party that arrives dry and fresh.
 
@@ -679,7 +679,7 @@ Where Halladay ran the true line is marked by his own blazes on the ponderosa, c
 
 Read or paraphrase:
 
-> Halladay's blaze was a foot long and level and the cambium had healed to a brown lip around it. A foot to the right and four feet higher was Pell's blaze, ragged, the bark splintered out, the hatchet having been swung by a man who did not care whether the tree lived or died.
+> Halladay's blaze is a foot long and dead level, with the cambium healed to a brown lip around it. A foot to the right and four feet higher is Pell's blaze, hacked in ragged and splintered, the work of a man who did not care whether the tree lived or died.
 
 Tomás put his hand on the clean blaze.
 
@@ -701,7 +701,7 @@ The field book is where Halladay hid it the morning he knew they were coming for
 
 Read or paraphrase:
 
-> The cairn was three feet high and built of the flat local stone and it sat on the ridgeline where a man with a transit would set up to shoot the eastern line. The stones were dry-fitted and the lichen had begun to close the joins. Nothing about it said _book._ Everything about it said _survey._
+> The cairn stands three feet high on the ridgeline, built from flat local stone where a surveyor with a transit would set up to shoot the eastern line. The rocks are dry-fitted, and lichen has begun to close the joins. Nothing about it says _book_. Everything about it says _survey_.
 
 Tomás knelt beside it and pulled the third stone from the north face. He reached in and came out with a bundle wrapped in oilcloth and then in canvas and then in a surveyor's leather sleeve stamped _P.H._ The oilcloth had kept the ink from running. The pages were the true line, run by chain and compass, signed and dated and witnessed by Tomás Luján and by the mark of Nah-leh's cousin, in their own hands, in March of `1873`.
 
@@ -735,7 +735,7 @@ The night before the hearing, the town is a market in paper and in fear. Everyon
 
 Read or paraphrase:
 
-> The lamp at the hotel desk had been turned low and the clerk had gone to bed and the hall smelled of kerosene and the cold drafts of a building thrown up fast over a dirt floor. Boots crossed the porch below the window at intervals and did not always come up the stairs.
+> The lamp at the hotel desk has been turned low. The clerk has gone to bed. The hall smells of kerosene and cold drafts rising through a building thrown up too fast over dirt. From time to time boots cross the porch below the window. Not all of them come up the stairs.
 
 Hadley comes himself, in the person of a courier, with a final offer: cash for the book, cash for the affidavit, cash for Pell's silence, and a Company draft for the party's future, in exchange for a quiet morning in which none of it reaches the courtroom. It is a large offer. It is meant to look like a large offer. Hadley would rather pay than fight, because paying is cheaper than a scandal and a scandal is the one thing his owners in London cannot forgive.
 
@@ -783,7 +783,7 @@ Judge Vail's court is the second story of the Company's store and it smells of d
 
 Read or paraphrase:
 
-> The room was hot from the lamp and the bodies and the closed windows. The Company's table had carafes of water and clean paper. Baca's table had a carpetbag and a sheaf of briefs read so many times the corners were soft as cloth. Vail sat behind the bench cleaning one lens of his spectacles as the room settled. The jury was twelve Anglo men from Cimarron and the ranches roundabout. Not one of them was from the plaza.
+> The room is hot from lamps, bodies, and closed windows. The Company's table is set with clean paper and carafes of water. Baca's table holds a carpetbag and a sheaf of briefs so often handled their corners have gone soft as cloth. As the room settles, Vail sits behind the bench polishing one lens of his spectacles. The jury is twelve Anglo men from Cimarron and the ranches around it. Not one is from the plaza.
 
 Who is in the room is who the party brought there or failed to bring. Hadley sits in the front row in a good coat. Don Ignacio sits in the back in his work clothes. Eufemia sits with the ledger open on her knee. Strand sits with two of his miners and he is sober, which is its own kind of warning. Father Vigil sits with the cemetery register. Tomás sits by the door, if he is still alive and not under the ground for running. Nah-leh does not come inside; he sits on the porch with his back to the wall, where he can see the street and the stair and the livery at the same time. Ouida is there if the party promised her, and she has her own copy of the grant and her own claim to press. Oren Pell is not in the room; he does not need to be. He has men in the room.
 
