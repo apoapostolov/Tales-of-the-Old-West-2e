@@ -1,6 +1,6 @@
 # Dramatis Personae and Statblocks
 
-This appendix covers the named NPCs and the most useful generic profiles from [01-quiet-title.md](01-quiet-title.md). The main chapter carries a first-impression paragraph for each principal; this file carries the rest: the backstory, the want, the need, the fear, how the character plays at the table, and the full statblock.
+This appendix covers the named NPCs and the most useful generic profiles from [01-quiet-title.md](01-quiet-title.md). The main chapter gives each principal in a quick first look. This file carries the rest: backstory, wants, needs, fears, table use, and full statblocks.
 
 Every named figure the party is likely to talk to, fight, guard, chase, or bargain with appears here. The chapter is built so that no single NPC's death ends it — see _Truth Survives the Holder_ in the main file — but each of these people is a load-bearing wall all the same. Read them before you run them.
 
@@ -8,7 +8,7 @@ Every named figure the party is likely to talk to, fight, guard, chase, or barga
 
 ### CORNELIUS V. HADLEY
 
-Hadley is a white man in his middle forties, Yale-educated, tall, narrow through the face, and dressed too well for the country he works in. The first impression he gives is of patience used as a weapon. He never raises his voice. He folds his hands when he listens. He writes down names in a small leather book without seeming to and he has the habit of answering a hard question with a softer question of his own that turns the matter back on the asker.
+Hadley is a white man in his middle forties, Yale-educated, tall, narrow through the face, and dressed too well for the country he works in. He gives the impression of a man who has made patience into a weapon. He never raises his voice. He folds his hands when he listens. He writes names in a small leather book without seeming to and answers hard questions with softer ones that turn the matter back on the asker.
 
 **Backstory.** Cornelius Van Arsdale Hadley came west in `1866` with a Yale degree, a small inheritance, and a letter of introduction to a Maxwell Company director who had been his father's roommate. He was meant to be a clerk. He was a superintendent inside four years because he understood, earlier than the men he replaced, that the grant's value was no longer in cattle or sheep but in paper — the survey return, the quiet-title decree, the mineral deed, the right-of-way survey. He built the eastern line fraud on that understanding. He stood in the willows in March and watched Halladay die on it. He has not lost a night's sleep over the surveyor, only over the field book.
 
@@ -18,7 +18,7 @@ Hadley is a white man in his middle forties, Yale-educated, tall, narrow through
 
 **Fears.** A field book in open court. A letter from the Land Office in Washington. His own London directors deciding he is more expensive than the scandal he is covering. The man in the good coat being named in a courtroom by a witness who will not be bought.
 
-**How to play him.** Hadley never raises his voice and never threatens in words. He makes offers. He writes names in his book. He answers hard questions with softer questions. He is at his most dangerous when he is most courteous, because courtesy is the mask he wears while he decides whether to buy you, remove you, or let the country do it. Play him as a man who has already decided the outcome and is now managing the cost of arriving at it. He will pay the party well, use them hard, and have them killed by paperwork rather than by his own hand if they become inconvenient.
+**How to play him.** Hadley does not threaten in plain words. He makes offers, keeps notes, and lets his manners do the unsettling. He is most dangerous when he is most courteous, because that is the moment he is deciding whether to buy you, remove you, or let the country do it for him. Play him as a man who already knows the outcome he wants and is only calculating the price of getting there.
 
 | GRIT       | 3   | QUICK    | 3   | CUNNING | 5   | DOCITY       | 4   |
 | ---------- | --- | -------- | --- | ------- | --- | ------------ | --- |
@@ -35,7 +35,7 @@ Hadley does not fight his own fights. When he draws the Peacemaker, the situatio
 
 ### DON IGNACIO MONTOYA
 
-Don Ignacio is a Hispano man of sixty-four, sun-cut, slow in the saddle, his hands gone permanent around the shape of a rope. The first impression he gives is weight. He stands like a man who has carried his own water and buried his own dead and intends to go on doing both. He speaks Spanish at home and slow careful English to Anglos, and he does not raise his voice either, because in the plaza his voice does not need raising.
+Don Ignacio is a Hispano man of sixty-four, sun-cut, slow in the saddle, his hands gone permanent around the shape of a rope. He has the kind of weight some men carry without trying. He stands like a man who has hauled his own water, buried his own dead, and expects to go on doing both. He speaks Spanish at home and slow careful English to Anglos, and in the plaza he has no reason to raise his voice.
 
 **Backstory.** Ignacio Montoya was eighteen when his father Teodoro brought the sheep up out of the Taos country in `1847`, fleeing the rebellion and the hanging that followed it. He helped dig the first acequia. He laid the first adobe of the church. He married a girl from the Archuleta family and buried her in `1859` in the cemetery he had helped his father clear on the ridge. He buried two sons — one to fever, one to a Comanche lance on the lower pasture in `1868`. His daughter Pilar runs his house now and his grandson, also Ignacio but called Nacho, is the boy most often sent to fetch the strangers. He has been the plaza's _juez de agua_, the water judge, for twenty years, and the acequia turns on his word. He has never held a piece of paper that said the land was his. He has the ridge full of graves that say it anyway.
 
@@ -45,7 +45,7 @@ Don Ignacio is a Hispano man of sixty-four, sun-cut, slow in the saddle, his han
 
 **Fears.** That the plaza will be starved out before the suit is tried. That Pilar will be left with nothing. That the cemetery will be plowed. That he will die in a country his father's bones are already in, with the country belonging to strangers.
 
-**How to play him.** Don Ignacio answers slowly, in English to Anglos and in Spanish to anyone who will have it. He is patient the way a stone is patient, and he measures strangers by whether they can sit through a silence without filling it. He does not command; he suggests, and the plaza obeys the suggestion. He carries the notebook of acequia turns and graves because memory must be written down or the courts will say it never happened. He will not start a war. He will outlast one. Play him as the slow center the whole comunidad orbits.
+**How to play him.** Don Ignacio answers slowly, in English to Anglos and in Spanish to anyone who will have it. He measures strangers by whether they can bear a silence without rushing to fill it. He rarely commands outright; he suggests, and the plaza takes the suggestion seriously. Play him as the slow center the whole comunidad turns around.
 
 | GRIT       | 4   | QUICK    | 2   | CUNNING | 3   | DOCITY       | 3   |
 | ---------- | --- | -------- | --- | ------- | --- | ------------ | --- |
@@ -64,7 +64,7 @@ Don Ignacio shoots the way he does everything else: slowly, at the right moment,
 
 ### EUFEMIA ARCHULETA
 
-Eufemia is a Hispano woman of fifty-eight, widow of the founder's son, who runs the Archuleta trade in wool, hides, and dry goods out of the long adobe across the common from the Montoya house. The first impression she gives is command. She stands behind the counter with a pencil behind her ear and she counts faster than the men who buy from her. She speaks Spanish, English, and enough Ute to trade, and she switches between them without warning to see who is listening.
+Eufemia is a Hispano woman of fifty-eight, widow of the founder's son, who runs the Archuleta trade in wool, hides, and dry goods out of the long adobe across the common from the Montoya house. She looks like command the moment you see her. She stands behind the counter with a pencil behind her ear and counts faster than the men buying from her. She speaks Spanish, English, and enough Ute to trade, and she changes languages without warning to see who is really listening.
 
 **Backstory.** Eufemia Archuleta née Trujillo married into the plaza's founding family at sixteen and was widowed at thirty-six when a Comanche raiding party caught her husband on the lower pasture in `1861`. She did not remarry. She turned the Archuleta store into the plaza's bank, its post office, its clearing house for news, and its memory of debt. She lost her eldest son to the diphtheria year and her middle son to the Baldy Mountain collapse in `1870` — the Company's mine, the Company's timber, the Company's refusal to shore the drift. Her youngest, Rafael, rides drag and drinks, and she keeps him on the outfit because he is all she has left and because firing him would be admitting what he has become. She keeps the store's ledger in Spanish because the law reads English and she does not want the law reading her arithmetic.
 
@@ -74,7 +74,7 @@ Eufemia is a Hispano woman of fifty-eight, widow of the founder's son, who runs 
 
 **Fears.** The flour at six cents until the families are gone. Rafael in the creek. The ledger closing red for the last time.
 
-**How to play her.** Eufemia counts everything — money, loyalty, slights, the days since her son died. She prices the party within the first hour and rarely revises the price. She speaks in the language most useful to excluding whoever she wants excluded, and she enjoys the small power of it. She is the plaza's economist and its record-keeper, and she knows to the cent what the Company is costing the comunidad. She is not sentimental. She is the hardest bargainer in the chapter, and the most useful friend, and she will be both at the same time.
+**How to play her.** Eufemia counts everything: money, loyalty, slights, and the days since her son died. She prices the party within the first hour and seldom revises that judgment. She uses language as another tool of control. She is not sentimental, but she is often right. Let her be the hardest bargainer in the chapter and one of its best friends at the same time.
 
 | GRIT       | 3   | QUICK    | 3   | CUNNING | 4   | DOCITY       | 3   |
 | ---------- | --- | -------- | --- | ------- | --- | ------------ | --- |
@@ -91,7 +91,7 @@ The Peacemaker lives under the counter, loaded, where her hand finds it without 
 
 ### "COL." EPHRAIM STRAND
 
-Strand is a white man of fifty, heavy in the chest and the gut, loud, and never actually a colonel of anything. The first impression he gives is force and the second is fraud, and most men stop at the first. He bought into the Baldy diggings in `1868` with money of unclear origin and he has run the camp's rougher end ever since.
+Strand is a white man of fifty, heavy in the chest and the gut, loud, and never actually a colonel of anything. He lands on people as force first and fraud second, and most men never get past the first part. He bought into the Baldy diggings in `1868` with money of unclear origin and has run the camp's rougher end ever since.
 
 **Backstory.** Ephraim Strand was born Ephraim Strnad in a Bohemian neighborhood of Cleveland, ran away from his father's shoe shop at fifteen, and drifted west by way of St. Louis and Denver. In Denver he kept a saloon on Larimer Street, ran a faro bank that was cleaner than it looked, and killed a man over a debt in `1865` — a killing that was ruled self-defense because the dead man's gun was found at the scene, which Strand had put there. The heat drove him south. He bought into the Baldy diggings in `1868` with the Denver money and a story about a Confederate cavalry past that would not survive five minutes with anyone who had actually served. He calls himself Colonel because the title gets him the first drink free in every camp between here and Santa Fe.
 
@@ -101,7 +101,7 @@ Strand is a white man of fifty, heavy in the chest and the gut, loud, and never 
 
 **Fears.** The plaza winning its case, because the plaza's claim to the creek is older than the camp's. The Denver killing catching up. A sober morning.
 
-**How to play him.** Strand reads as a blowhard and he is one, but he is a competent blowhard who has stayed alive in a hard trade for twenty years. He buys the first drink, sizes up the stranger over the rim, and decides in the first five minutes whether the stranger is muscle, mark, or menace. He is generous to his friends and savage to his enemies and the line between the two moves with his temper. Play the fraud at full volume and let the competence hide under it. He is the chapter's loudest character and one of its most dangerous.
+**How to play him.** Strand is a blowhard, but he is a capable one. He buys the first drink, sizes up a stranger over the rim, and decides fast whether he is looking at muscle, a mark, or trouble. The volume is real. So is the danger. Let the fraud show first and the competence reveal itself underneath.
 
 | GRIT       | 4   | QUICK    | 3   | CUNNING | 3   | DOCITY       | 3   |
 | ---------- | --- | -------- | --- | ------- | --- | ------------ | --- |
@@ -119,7 +119,7 @@ Strand shoots the way he talks: first, loud, and not always at the right man.
 
 ### NAH-LEH
 
-Nah-leh ("He Who Counts Coup") is a Jicarilla Apache man in mature adulthood, lean, quiet-faced, and harder to read than Hadley. The first impression he gives is stillness. He sits a horse as if horse and rider had settled the matter years ago. He does not fidget. He does not explain himself. He watches the men who watch him and he lets the watching do the work.
+Nah-leh ("He Who Counts Coup") is a Jicarilla Apache man in mature adulthood, lean, quiet-faced, and harder to read than Hadley. What he gives off first is stillness. He sits a horse as if horse and rider settled matters long ago. He does not fidget. He does not explain himself. He watches the men watching him and lets that do the work.
 
 **Backstory.** Nah-leh was born in the cañón above the plaza in a year his people count by the elk moon and the territorial census counts as roughly `1838`. He hunted these parks before the Montoyas dug the first acequia, traded with them when they came, fought the Comanche alongside them once, and watched the survey chain arrive in `1871` with the same expression he watches everything. His cousin **Tsa-leh** was on the ridge above the willows the night Halladay died, hunting elk, and saw what he saw. Nah-leh has kept that sight the way a man keeps a final cartridge — held in reserve, spent at the moment it matters most. He has a wife and two daughters at the Cimarron Creek agency and a son who will not go to the agency and hunts with him in the high parks.
 
@@ -129,7 +129,7 @@ Nah-leh ("He Who Counts Coup") is a Jicarilla Apache man in mature adulthood, le
 
 **Fears.** The high parks fenced. His son killed on the line by a chainman who will not be punished. His cousin's sight spent for nothing.
 
-**How to play him.** Nah-leh uses English last and least, and when he uses it, it is spare, exact, and cutting. He does not explain himself twice. He watches and he waits and he speaks when speech will do work that silence cannot. He holds the truth of March as a coin he will spend at the moment of his choosing, and the party earns the spending by proving it is worth his while to spend it. Play him as the chapter's truest witness and its least hurried man. He has more time than anyone else at the table because his people have been here longer than anyone else at the table.
+**How to play him.** Nah-leh uses English last and least, and when he does, it is spare and exact. He does not explain himself twice. He waits. He watches. He speaks only when speech will do work silence cannot. Play him as the chapter's truest witness and the least hurried man in it.
 
 | GRIT       | 4   | QUICK    | 4   | CUNNING | 3   | DOCITY       | 3   |
 | ---------- | --- | -------- | --- | ------- | --- | ------------ | --- |
@@ -258,7 +258,7 @@ Tatum shoots well enough. The trouble is getting him to point the rifle at the r
 
 ### BRUBAKER
 
-Brubaker is a white man of forty or so, Hadley's royalty collector at Baldy, thick through the shoulders, clean-shaved, and dressed better than the camp but worse than the court. The first impression he gives is of a man who has learned to make other men resent him and mistake resentment for power. He carries a little more scent of pomade than the mountain warrants and a little more certainty than the camp deserves. He is one of those men who never forgets an amount and rarely forgets an insult.
+Brubaker is a white man of forty or so, Hadley's royalty collector at Baldy, thick through the shoulders, clean-shaved, and dressed better than the camp but worse than the court. He comes off like a man who has learned to make other men resent him and mistake that resentment for power. He carries a little more pomade than the mountain warrants, a little more certainty than the camp deserves, and he almost never forgets an amount or an insult.
 
 **Backstory.** Amos Brubaker worked river freight on the Missouri, drifted into Kansas rail grading after the war, and discovered in both trades that he preferred counting another man's work to doing his own. The Maxwell Company found him useful because he could watch a scale, a strongbox, and three armed miners at once without blinking. He came into the Baldy diggings in `1871` to collect the royalty and has been hated there since the second week. He does not mind the hatred. Hatred that still pays is only another proof a man's hand is on the throat of a thing worth having.
 
@@ -268,7 +268,7 @@ Brubaker is a white man of forty or so, Hadley's royalty collector at Baldy, thi
 
 **Fears.** A public robbery he cannot explain away. Strand catching him alone. A ledger in the wrong hands.
 
-**How to play him.** Brubaker is not elegant like Hadley and not loud like Strand. He is the mean accountant between them. He speaks in dues, percentages, shortages, and arrears, and treats armed men the way a storekeeper treats inventory. He should feel competent in one narrow ugly way: he knows exactly what is owed, what was taken, and what it costs to answer theft with reputation instead of bullets. Play him as a man who thinks numbers are cleaner than blood and who is wrong about that.
+**How to play him.** Brubaker is not elegant like Hadley and not loud like Strand. He is the mean accountant between them. He speaks in dues, shortages, percentages, and arrears, and treats armed men like inventory. Play him as a man who thinks numbers are cleaner than blood and is wrong about it.
 
 | GRIT       | 4   | QUICK    | 3   | CUNNING | 4   | DOCITY       | 3   |
 | ---------- | --- | -------- | --- | ------- | --- | ------------ | --- |
@@ -296,7 +296,7 @@ Aldous Pell is a white man of forty, Ring-connected, precise, and cold in a way 
 
 **Fears.** Hadley's riders. The gallows. Himself, sober, in a room with no whiskey.
 
-**How to play him.** Pell is the chapter's broken hinge on the Company's side, as Tomás is broken on the plaza's. He is precise, technical, and ruined. He speaks in the jargon of the chain and the transit because the jargon is the only language in which he still feels competent. He wants absolution more than money, and the party that gives him a way out earns an affidavit that nearly matches the field book. The party that handles him roughly gets a signed paper and a runaway witness whose testimony Hadley will discredit. The party that listens to him gets the truth, whole, and the truth is worse than the party wants it to be.
+**How to play him.** Pell is the Company's broken hinge, just as Tomás is the plaza's. He is precise, technical, and coming apart. He retreats into the language of chain and transit because it is the only language in which he still feels competent. He wants absolution more than money. Give him a way out and he talks. Press him too hard and he bolts.
 
 | GRIT       | 2   | QUICK    | 3   | CUNNING | 3   | DOCITY       | 3   |
 | ---------- | --- | -------- | --- | ------- | --- | ------------ | --- |
@@ -323,7 +323,7 @@ Oren Pell is a white man of thirty-five, quiet, well-tailored, perpetually takin
 
 **Fears.** A boundary dispute that drags into the next decade. A scandal that reaches Washington and slows the railroad's federal land grants. Being recalled to Topeka without the corridor.
 
-**How to play him.** Pell is the chapter's glacier. He does not hurry, he does not threaten, he does not take sides. He makes offers, in clean English, in his unreadable shorthand, and the offers are fair by the railroad's standards, which are the only standards that will matter in ten years when the rail is laid. He is the safest buyer in the chapter because he asks no questions, and the most dangerous creditor because the railroad forgets nothing and forgives less. Play him as a man who is already living in `1883` and regards the `1873` suit as a temporary inconvenience on the way to the rail.
+**How to play him.** Pell is the chapter's glacier. He does not hurry, threaten, or take sides. He makes offers in clean English and unreadable shorthand, and by railroad standards the offers are fair. He is the safest buyer in the chapter because he asks no questions, and the most dangerous creditor because the railroad forgets nothing. Play him as a man already living in `1883`, treating the `1873` suit as an inconvenience on the way to the rail.
 
 | GRIT       | 3   | QUICK    | 3   | CUNNING | 4   | DOCITY       | 4   |
 | ---------- | --- | -------- | --- | ------- | --- | ------------ | --- |
@@ -350,7 +350,7 @@ Ouida Beaubien is a mixed-race woman of thirty, the granddaughter of the grant's
 
 **Fears.** Dying in the room above the store with the claim unheard. The Company buying the last copy of the grant language out from under her. Being right, and the rightness meaning nothing.
 
-**How to play her.** Ouida is the chapter's truest historian and its loneliest figure. She is not disinterested — she wants her family's name restored to the gold, which means she wants a piece of what the camp pulls out of the creek — and the disinterest she lacks makes her a harder ally than the party expects. She reads the grant language in Spanish first because the Spanish is the law and the English is the translation, and she watches the party's faces while she reads to see who is listening to the law and who is looking at the woman. Treat her as a witness and she cracks the Company's mineral claim in three sentences. Treat her as a curiosity and she becomes a dangerous enemy who knows where every body is buried because her family buried half of them.
+**How to play her.** Ouida is the chapter's truest historian and its loneliest figure. She is not disinterested. She wants her family's name restored to the gold, and that means she wants a piece of what the camp pulls out of the creek. That self-interest makes her a harder ally than the party expects. She reads the grant language in Spanish first because the Spanish is the law and the English is the translation, and she watches faces while she reads to see who is listening to the law and who is looking at the woman. Treat her as a witness and she cracks the Company's mineral claim in three sentences. Treat her as a curiosity and she becomes a dangerous enemy who knows where every body is buried because her family buried half of them.
 
 | GRIT       | 3   | QUICK    | 3   | CUNNING | 4   | DOCITY       | 4   |
 | ---------- | --- | -------- | --- | ------- | --- | ------------ | --- |
@@ -371,7 +371,7 @@ Use these for unnamed extras, reinforcements, and fast scene play. The list cove
 
 ### COMPANY RIDER
 
-A Company rider is Hadley's working muscle: a hired hand on a Company horse, paid out of the Elizabethtown strongbox, badgeless but unmistakable. The first impression is the calm of a man who knows his employer owns the court. He wears his Colt low, rides a good horse shod in the Elizabethtown fashion (the wide heel caulks the camp smith puts on), and treats the plaza as occupied territory he is being paid to patrol. He speaks little, drinks on the Company's tab, and writes nothing down. In his general view, the player characters are either fellow employees, future trouble, or men who will learn the cost of the wrong side.
+A Company rider is Hadley's working muscle: a hired hand on a Company horse, paid out of the Elizabethtown strongbox, badgeless but unmistakable. He has the calm of a man who knows his employer owns the court. He wears his Colt low, rides a good horse shod in the Elizabethtown fashion (the wide heel caulks the camp smith puts on), and treats the plaza as occupied territory he is being paid to patrol. He speaks little, drinks on the Company's tab, and writes nothing down. He tends to read the player characters as fellow employees, future trouble, or men who will learn the cost of the wrong side.
 
 | GRIT       | 4   | QUICK    | 3   | CUNNING | 3   | DOCITY       | 2   |
 | ---------- | --- | -------- | --- | ------- | --- | ------------ | --- |
@@ -387,7 +387,7 @@ A Company rider is Hadley's working muscle: a hired hand on a Company horse, pai
 
 ### PICKET CUTTER
 
-A picket cutter is the Company's deniable hand: the man sent to ruin a horse line, cut a trace, foul a ditch, torch a hayrick, or slip inside camp before the open shooting starts. The first impression is that there is almost no impression at all. He looks like a teamster, a hand, a drifter, the wrong sort of laborer in the wrong place one minute too long. By the time the party knows which man he is, the rope is already cut or the lamp is already tipped. In his general view, the player characters are not opponents to be beaten. They are obstacles to be got around quickly enough that the real job still gets done.
+A picket cutter is the Company's deniable hand: the man sent to ruin a horse line, cut a trace, foul a ditch, torch a hayrick, or slip inside camp before the open shooting starts. At first there is almost no impression at all. He looks like a teamster, a hand, a drifter, the wrong sort of laborer in the wrong place one minute too long. By the time the party knows which man he is, the rope is already cut or the lamp is already tipped. He does not think of the player characters as enemies to beat so much as obstacles to slip around before the real job is done.
 
 | GRIT       | 3   | QUICK    | 4   | CUNNING | 3   | DOCITY       | 2   |
 | ---------- | --- | -------- | --- | ------- | --- | ------------ | --- |
@@ -405,7 +405,7 @@ Use picket cutters when you need one man already inside the trouble before the v
 
 ### COMPANY CHAINMAN
 
-A Company chainman is the working end of Aldous Pell's false survey: a man who carries the chain, cuts the blazes, and drives the stakes that move the eastern line twelve miles east of where it belongs. The first impression is the weathered competence of a man who works outdoors for a living and has stopped thinking about what the work is for. He is armed because the country demands it, not because he is a fighter, and he will defend his transit and his line stakes more readily than he will defend his employer's reputation. In his general view, the player characters are a complication in a day's work he would rather finish and ride down from.
+A Company chainman is the working end of Aldous Pell's false survey: a man who carries the chain, cuts the blazes, and drives the stakes that move the eastern line twelve miles east of where it belongs. He reads as weathered competence: a man who works outdoors for a living and has stopped thinking too hard about what the work is for. He is armed because the country demands it, not because he is a fighter, and he will defend his transit and line stakes more readily than he will defend his employer's reputation. To him the player characters are mostly a complication in a day's work he would rather finish and ride down from.
 
 | GRIT       | 3   | QUICK    | 2   | CUNNING | 3   | DOCITY       | 3   |
 | ---------- | --- | -------- | --- | ------- | --- | ------------ | --- |
@@ -421,7 +421,7 @@ A Company chainman is the working end of Aldous Pell's false survey: a man who c
 
 ### COMPANY CHAIN BOSS
 
-A Company chain boss is a harder case put in charge of a chain crew because the chain crew works in contested country and needs a man who will shoot back. The first impression is the leathery authority of an ex-army noncom who has found better pay moving a line than holding one. He is a real fighter where his chainmen are not, and he takes his orders from Hadley through Pell and carries them out without asking what they are for. In his general view, the player characters are either trespassers on the line he is paid to run, or men who will shortly wish they had not crested that ridge.
+A Company chain boss is a harder case put in charge of a chain crew because the chain crew works in contested country and needs a man who will shoot back. He has the leathery authority of an ex-army noncom who has found better pay moving a line than holding one. He is a real fighter where his chainmen are not, and he takes orders from Hadley through Pell without asking what they are for. He tends to see the player characters as trespassers on the line he is paid to run, or men who will shortly wish they had not come over that ridge.
 
 | GRIT       | 4   | QUICK    | 3   | CUNNING | 3   | DOCITY       | 2   |
 | ---------- | --- | -------- | --- | ------- | --- | ------------ | --- |
@@ -437,7 +437,7 @@ A Company chain boss is a harder case put in charge of a chain crew because the 
 
 ### ELIZABETHTOWN TOUGH
 
-An Elizabethtown tough is the gold camp's rougher element: a miner, a mucker, a claim-jumper, or a saloon brawler who has drifted into Strand's orbit and stays there because Strand's orbit pays in dust and whiskey. The first impression is the raw health of a man who works hard and the raw temper of a man who drinks harder. He is armed because every man in the camp is armed, and he is loyal to Strand because Strand is the camp and the camp is the living. In his general view, the player characters are either future drinking companions, marks at the faro table, or Company men who have ridden up the wrong mountain.
+An Elizabethtown tough is the gold camp's rougher element: a miner, a mucker, a claim-jumper, or a saloon brawler who has drifted into Strand's orbit and stays there because Strand's orbit pays in dust and whiskey. He gives off the raw health of a man who works hard and the raw temper of a man who drinks harder. He is armed because every man in the camp is armed, and loyal to Strand because Strand is the camp and the camp is the living. He is likely to treat the player characters as future drinking companions, marks at the faro table, or Company men who have ridden up the wrong mountain.
 
 | GRIT       | 4   | QUICK    | 3   | CUNNING | 2   | DOCITY       | 2   |
 | ---------- | --- | -------- | --- | ------- | --- | ------------ | --- |
@@ -453,7 +453,7 @@ An Elizabethtown tough is the gold camp's rougher element: a miner, a mucker, a 
 
 ### PLAZA HAND
 
-A plaza hand is a working vaquero or shepherd of San Esteban: Hispano, sun-cut, lean from the winter and the flour price, armed with whatever the family owns and trained on horseback from childhood. The first impression is the quiet competence of a man who has been doing this work since he could sit a horse and who does not need to talk about it. He is loyal to the Montoyas or the Archuletas by blood and debt, and he will fight for the plaza because the plaza is his family's grave and his children's bread. In his general view, the player characters are strangers to be watched until they prove whose side they are on, and then helped or hindered accordingly.
+A plaza hand is a working vaquero or shepherd of San Esteban: Hispano, sun-cut, lean from the winter and the flour price, armed with whatever the family owns and trained on horseback from childhood. He has the quiet competence of a man who has been doing this since he could sit a horse and does not need to talk about it. He is loyal to the Montoyas or the Archuletas by blood and debt, and he will fight for the plaza because the plaza is his family's grave and his children's bread. He watches the player characters until they prove whose side they are on, then helps or hinders them accordingly.
 
 | GRIT       | 4   | QUICK    | 3   | CUNNING | 2   | DOCITY       | 2   |
 | ---------- | --- | -------- | --- | ------- | --- | ------------ | --- |
@@ -469,7 +469,7 @@ A plaza hand is a working vaquero or shepherd of San Esteban: Hispano, sun-cut, 
 
 ### JICARILLA SCOUT
 
-A Jicarilla scout is one of Nah-leh's people: a mounted hunter of the high parks, lean, quiet, and at home in the cañón in a way no Anglo will ever be. The first impression is the economy of a man who does not waste motion, word, or arrow. He is not a war chief and not a raider. He is a hunter whose hunting ground the survey chain is crossing, and his patience for the crossing is the same patience Nah-leh keeps, and it is running out at the same rate. In his general view, the player characters are part of the intrusion until they prove, by action and not by speech, that they understand whose country they are standing in.
+A Jicarilla scout is one of Nah-leh's people: a mounted hunter of the high parks, lean, quiet, and at home in the cañón in a way no Anglo will ever be. What stands out first is economy: no wasted motion, word, or arrow. He is not a war chief and not a raider. He is a hunter whose ground the survey chain is crossing, and his patience for that crossing is running out. He treats the player characters as part of the intrusion until they prove, by action and not speech, that they understand whose country they are in.
 
 | GRIT       | 3   | QUICK    | 4   | CUNNING | 3   | DOCITY       | 2   |
 | ---------- | --- | -------- | --- | ------- | --- | ------------ | --- |
@@ -485,7 +485,7 @@ A Jicarilla scout is one of Nah-leh's people: a mounted hunter of the high parks
 
 ### PINKERTON MAN
 
-A Pinkerton man is the professional the Company hires when its own riders are not enough and the matter must be handled quietly, with paper, and at a distance from Hadley's name. The first impression is the unsettling competence of a man who has done this before and will do it again and is already thinking about the next job while he finishes this one. He is neat, quiet, takes notes, and carries a star that is not a sheriff's star and carries more weight. In his general view, the player characters are a job — to be observed, reported on, separated from their paper, and, if the job requires it, ended.
+A Pinkerton man is the professional the Company hires when its own riders are not enough and the matter must be handled quietly, with paper, and at a distance from Hadley's name. He has the unsettling competence of a man who has done this before, will do it again, and is already thinking about the next job while finishing this one. He is neat, quiet, takes notes, and carries a star that is not a sheriff's star and carries more weight. To him the player characters are a job: to be observed, reported on, separated from their paper, and, if necessary, ended.
 
 | GRIT       | 4   | QUICK    | 3   | CUNNING | 4   | DOCITY       | 4   |
 | ---------- | --- | -------- | --- | ------- | --- | ------------ | --- |
@@ -501,7 +501,7 @@ A Pinkerton man is the professional the Company hires when its own riders are no
 
 ### HARLAN PIKE (Company lead counsel)
 
-Harlan Pike is a white man of forty-five, Ring lawyer out of Santa Fe, smooth, well-dressed, and certain. The first impression is the polished authority of a man who has never lost a case he was meant to win and who knows exactly which cases he is meant to win. He speaks in the rounded periods of the eastern bar laid over a western practicality about what a judge will and will not do. He is Catron's man, loaned to the Company for the spring term, and he regards the suit as a formality on the way to a verdict he has already drafted.
+Harlan Pike is a white man of forty-five, Ring lawyer out of Santa Fe, smooth, well-dressed, and certain. He carries the polished authority of a man who has never lost a case he was meant to win and knows exactly which cases he is meant to win. He speaks in the rounded periods of the eastern bar laid over a western practicality about what a judge will and will not do. He is Catron's man, loaned to the Company for the spring term, and he regards the suit as a formality on the way to a verdict he has already drafted.
 
 **Wants.** The quiet title signed, the eastern line upheld, the Catron practice enriched by the Company's gratitude.
 
@@ -524,7 +524,7 @@ Pike does not fight. He has people for that. The derringer is a formality, like 
 
 ### FILEMENO BACA (comunidad counsel)
 
-Filomeno Baca is a Hispano man of twenty-six, lawyer out of Taos, brave, outgunned, and aware of all three. The first impression is the exhausted intensity of a man who has read the Company's brief four times and his own twice and knows the arithmetic is against him. He speaks English in court and Spanish to his clients and his hand shakes when he is not holding paper. He took the case for a fee the plaza can mostly pay in wool. He is the only lawyer in the chapter who is not owned, and the not-being-owned is what will kill him or make him.
+Filomeno Baca is a Hispano man of twenty-six, lawyer out of Taos, brave, outgunned, and aware of all three. He gives off the exhausted intensity of a man who has read the Company's brief four times and his own twice and knows the arithmetic is against him. He speaks English in court and Spanish to his clients and his hand shakes when he is not holding paper. He took the case for a fee the plaza can mostly pay in wool. He is the only lawyer in the chapter who is not owned, and that may kill him or make him.
 
 **Wants.** To win. To go home to Taos and tell his mother he won. To not die in a Cimarron alley for a fee paid in wool.
 
@@ -547,7 +547,7 @@ Baca carries the Remington because he rides between Taos and Cimarron alone. He 
 
 ### THADDEUS LOWE (_Cimarron News and Press_)
 
-Thaddeus Lowe is a white man of thirty-nine, Yankee editor of the _Cimarron News and Press_, narrow-shouldered, ink-stained, careful in his movements, and colder in his angers than louder men ever are. The first impression is the wary intelligence of a man who has been insulted by better people than you and learned something from each of them. He wears his cuffs shiny, keeps his hat brushed, and smells faintly of lampblack and printer's ink.
+Thaddeus Lowe is a white man of thirty-nine, Yankee editor of the _Cimarron News and Press_, narrow-shouldered, ink-stained, careful in his movements, and colder in his angers than louder men ever are. He gives off the wary intelligence of a man who has been insulted by better people than you and learned something from each of them. He wears his cuffs shiny, keeps his hat brushed, and smells faintly of lampblack and printer's ink.
 
 **Backstory.** Lowe came west from Missouri by way of Leavenworth, learned the case and the composing stick on hard-party newspapers before the war, printed casualty lists through the war, and landed in Cimarron in `1871` because a courthouse town always needs a newspaper and a newspaper near a courthouse always learns something worth printing. He bought into the _News and Press_ cheap because the previous editor discovered too late that a Company town prefers a timid printer. Lowe is not brave in the theatrical sense. He is brave in the printer's sense: he knows exactly which line will get his windows broken and sets it in type anyway if the line is true enough to be worth the glass.
 

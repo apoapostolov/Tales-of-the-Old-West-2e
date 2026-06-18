@@ -1,8 +1,8 @@
 # Handouts
 
-This appendix presents the chapter's most important papers in player-facing form. They are meant to be readable at the table, studied for implication, and handed across without requiring the group to parse a full legal archive.
+This appendix gives the chapter's key documents in player-facing form. They are meant to be readable at the table, worth studying, and easy to hand over without asking the group to wade through a full legal archive.
 
-Do not treat these as literal diplomatic editions. They are selective, playable texts: enough substance to matter, enough texture to feel period, and not so much bulk that the paper dies in the players' hands.
+Do not treat these as literal diplomatic editions. They are playable extracts: enough substance to matter, enough texture to feel period, and not so much bulk that the paper goes dead in the players' hands.
 
 Use them in three ways:
 
@@ -10,7 +10,7 @@ Use them in three ways:
 - hand over the text as written if the party gains custody of it
 - excerpt or withhold lines if the party gets only part of the document, a hurried copy, or a damaged version
 
-Where a document would naturally exist in Spanish first, this appendix gives the Spanish text and then an English rendering fit for table use. That way the paper can remain true to the world of the chapter without turning language into a logistical nuisance at the table.
+Where a document would naturally exist in Spanish first, this appendix gives the Spanish text and then an English rendering fit for table use. That keeps the paper true to the world of the chapter without turning language into a logistical nuisance.
 
 ## Core Handouts
 

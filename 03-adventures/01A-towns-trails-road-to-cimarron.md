@@ -1,14 +1,14 @@
 # Quiet Title — Towns, Trails, Road to Cimarron
 
-This companion is the sandbox infrastructure for [01-quiet-title.md](01-quiet-title.md). The main adventure carries the pressure, the factions, the scenes, and the central struggle over the survey and the suit. This file carries the ground those things happen on: the settlements, the road between them, the little places where men talk too freely, and the route procedures that make travel feel like travel rather than a page turn.
+This companion supports [01-quiet-title.md](01-quiet-title.md). The main adventure carries the pressure: the factions, the scenes, and the fight over the survey and the suit. This file covers the ground under all of that: the settlements, the road between them, the places where men talk too freely, and the travel procedures that make a ride feel like a ride instead of a page turn.
 
 Run the chapter as a **pointcrawl**. The party moves from named place to named place, and each move costs time, reveals intention, and risks weather, witnesses, trouble, or opportunity.
 
 Use this file when:
 
-- when the party wants to know what is in town and where it can go
-- when the party rides between nodes and the country should answer
-- when the party lingers in one settlement long enough for the place itself to start pushing back
+- the party wants to know what is in town and where it can go
+- the party rides between nodes and the country should answer
+- the party lingers in one settlement long enough for the place itself to push back
 
 ## How to run the country
 
@@ -87,7 +87,7 @@ When an event occurs, use the town's own event table rather than a wilderness ta
 
 San Esteban is the chapter's heart and should be playable like a real plaza, not merely like an opening scene. Most parties should be able to spend a full session here before they ever ride to Baldy or Cimarron.
 
-The first thing a stranger notices is not poverty, though the plaza has that. It is age. The adobe is old enough to have rounded at the corners. The acequia has worn its own argument into the dirt. The cemetery stands above the houses the way memory stands above talk, always visible and never entirely silent. San Esteban does not feel temporary. That is what makes the Company's paper obscene here. This is a place built by people who expected grandchildren, not lawsuits.
+A stranger notices the age of the place before anything else. The adobe has rounded at the corners. The acequia has worn itself into the dirt. The cemetery stands over the houses, always in sight. San Esteban does not feel temporary, which is exactly what makes the Company's paper feel obscene here. This is a place built by people who expected grandchildren, not lawsuits.
 
 ### Settlement statblock
 
@@ -133,7 +133,7 @@ The first thing a stranger notices is not poverty, though the plaza has that. It
 
 The common is the plaza's public room. Children run beside the acequia. Women wash. Men mend tack in the shade and watch strangers without seeming to.
 
-By noon the ditch throws back enough light to make every face plain. Chickens scratch under wagon tongues, a mule switches flies beside the post, and the whole plaza seems to conduct its business here without admitting it is conducting anything. A Game Master should use the common whenever the party needs to feel the settlement looking back at it. Private words can be spoken in San Esteban, but public judgment is formed here.
+By noon the ditch throws back enough light to make every face plain. Chickens scratch under wagon tongues, a mule switches flies beside the post, and the whole plaza seems to conduct its business here without admitting it. Use the common whenever the party needs to feel the settlement looking back at it. Private words can be spoken in San Esteban, but public judgment is formed here.
 
 **Usually here:** plaza families, idle boys, one or two sheep hands, Don Ignacio if he means to be seen.
 
@@ -151,7 +151,7 @@ If the Company decides to make its authority felt in public, this is also where 
 
 The store is half mercantile, half ledger, and all memory. Flour, coffee, beans, lamp oil, harness parts, nails, cartridges, and cloth stand on the shelves. The real goods are in the books behind the counter.
 
-It smells of coffee burlap, axle grease, damp wool, and the paper-dust of accounts kept too long and too carefully to be innocent. Nothing in the place is wasted, not even courtesy. Eufemia's counter is where hard necessity dresses itself in the language of purchase and credit, and it is one of the best places in the chapter to show that conquest in New Mexico often comes item by item, line by line, until a family wakes to discover its ruin is already written down.
+It smells of coffee burlap, axle grease, damp wool, and the paper-dust of accounts kept too long and too carefully to be innocent. Nothing in the place is wasted, not even courtesy. Eufemia's counter is where hard necessity puts on the language of purchase and credit. It is also one of the clearest places to show how conquest in New Mexico arrives item by item, line by line, until a family wakes to find its ruin already written down.
 
 **Usually here:** Eufemia, a store boy, women buying on credit, one Anglo trader, a ranch hand pretending not to ask for more time.
 
@@ -199,7 +199,7 @@ The floor is worn by knees as much as by boots. Candles leave their own sweet sm
 
 White crosses and weathered markers stand over the plaza like a second settlement. The wind is harder up here and talk comes plain.
 
-This is one of the most important pieces of landscape in the whole module, and a Game Master should treat it as such. The graves are not only graves. They are continuity made visible. They let the party understand, without speechifying, why the plaza keeps insisting that possession is older than title and why the Company, if it were wise, would fear old bones more than hot tempers.
+This is one of the most important pieces of landscape in the whole module. The graves are not only graves. They are continuity made visible. They let the party understand, without speechifying, why the plaza keeps insisting that possession is older than title and why the Company, if it were wise, would fear old bones more than hot tempers.
 
 **Usually here:** mourners, Father Vigil, Don Ignacio alone, boys avoiding work, a watcher who means not to be seen.
 
@@ -231,7 +231,7 @@ The room is mean enough to be honest. Cards stick a little to the tables. Somebo
 
 The livery is small, understocked, and painfully informative. You learn a settlement by its horses.
 
-There is always one horse tied here that tells the truth about the week: blown, mud-splashed, new-shod, underfed, or better bred than the town has a right to expect. The stable yard is frontier bookkeeping in hair and leather. A Game Master can do a surprising amount with who rode in, how hard, on what tack, and whether the animal looks like it was ridden home or borrowed for business.
+There is always one horse tied here that tells the truth about the week: blown, mud-splashed, new-shod, underfed, or better bred than the town has a right to expect. The stable yard is frontier bookkeeping in hair and leather. You can do a surprising amount here with who rode in, how hard, on what tack, and whether the animal looks like it was ridden home or borrowed for business.
 
 **Usually here:** the stable hand, muleteers, a boy currying horses, travelers trying to buy remounts they will not get.
 
@@ -247,7 +247,7 @@ There is always one horse tied here that tells the truth about the week: blown, 
 
 The color in the creek is not enough to make a boom, but enough to sharpen tempers. The assay shack is a modest Anglo foothold in the plaza and a reminder that gold has already altered the place.
 
-That is what makes this place valuable. It is not the diggings themselves. It is the change in imagination they represent. Men who once judged a season by hay and lambs now pause by the shack to hear what dust did in Baldy, what new claim has struck, or whether the camp is about to break with the Company. A wise Game Master will use the assay shack as the first small crack through which mining-camp appetite enters plaza life.
+That is what makes this place valuable. It is not the diggings themselves. It is the change in imagination they represent. Men who once judged a season by hay and lambs now pause by the shack to hear what dust did in Baldy, what new claim has struck, or whether the camp is about to break with the Company. Use the assay shack as the first small crack through which mining-camp appetite enters plaza life.
 
 **Usually here:** a local assayer, hopeful men with pans, one camp intermediary, boys dreaming too large.
 
@@ -297,7 +297,7 @@ If the party has made itself useful but has not kept one eye on bread and water,
 
 Where the Montoyas are stock and water, the Archuletas are trade, counting, and kin spread outward by marriage and obligation.
 
-The yard is busy in a different key than the Montoya place. Wool gets sorted here. Harness gets argued over here. News from cousins and in-laws arrives here before it reaches the common. The Game Master should use the Archuleta yard when the party needs to feel the economic intelligence of the plaza rather than its ceremonial or patriarchal face.
+The yard is busy in a different key than the Montoya place. Wool gets sorted here. Harness gets argued over here. News from cousins and in-laws arrives here before it reaches the common. Use the Archuleta yard when the party needs to feel the economic intelligence of the plaza rather than its ceremonial or patriarchal face.
 
 **Usually here:** Eufemia's kin, freight hands, women sorting wool, visiting relations from nearby settlements.
 
@@ -313,7 +313,7 @@ The yard is busy in a different key than the Montoya place. Wool gets sorted her
 
 This is where settlement ends and the country begins to narrow. Once a party rides past this point, intention becomes legible.
 
-That is the moral importance of the place. Inside the plaza a man can still pretend he is only walking, visiting, or waiting. At the cañón mouth he is going somewhere. It is therefore the natural place for second thoughts, warnings, shadowing, and the last look back at civilization before rock, timber, and weather begin making decisions of their own.
+That is the moral importance of the place. Inside the plaza a man can still pretend he is only walking, visiting, or waiting. At the cañón mouth he is plainly going somewhere. It is the natural place for second thoughts, warnings, shadowing, and the last look back at civilization before rock, timber, and weather begin making decisions of their own.
 
 **Usually here:** Tomás, scouts, boys fishing, riders making one last decision whether to go on.
 
@@ -389,7 +389,7 @@ The camp should feel as though it was built in a hurry by men who expected eithe
 
 The Old Abe is saloon, meeting hall, unofficial court, and hiring floor. If the party means to deal with Strand, this is where it happens.
 
-The room wants noise and keeps getting it. Pine knots spit in the stove. Glassware clouds, chips, and survives. Men laugh too loudly because they are tired, hopeful, cornered, or lying. The Old Abe is the sort of place where a man can be ruined socially, financially, or physically before his coffee cools. That makes it one of the chapter's best stages for rough alliances and worse first impressions.
+The room wants noise and keeps getting it. Pine knots spit in the stove. Glassware clouds, chips, and survives. Men laugh too loudly because they are tired, hopeful, cornered, or lying. The Old Abe is the sort of place where a man can be ruined socially, financially, or physically before his coffee cools. It is one of the chapter's best stages for rough alliances and worse first impressions.
 
 **Usually here:** Strand, miners, Brubaker's people, gamblers, men waiting to hear assay returns.
 
@@ -419,7 +419,7 @@ If the chapter needs a midnight fight in Baldy that is about more than pride, th
 
 Whether it sits in the Old Abe or under a canvas awning in fair weather, this is where the Company turns dust into obedience.
 
-The table is worth dwelling on because it makes empire small enough to fit under a clerk's hand. A lockbox, a scale, a ledger, and a witness or two are all the Company needs to make a miner feel the whole weight of foreign capital pressing on his week's labor. If the Game Master wants to show why anti-Company feeling in Baldy is not rhetorical but lived, this is the place to do it.
+The table is worth dwelling on because it makes empire small enough to fit under a clerk's hand. A lockbox, a scale, a ledger, and a witness or two are all the Company needs to make a miner feel the whole weight of foreign capital pressing on his week's labor. If you want to show why anti-Company feeling in Baldy is not rhetorical but lived, this is the place.
 
 **Usually here:** Brubaker or his deputy, a lockbox, ledger copies, armed witnesses, furious miners trying not to look weak.
 
@@ -435,7 +435,7 @@ This is also where Brubaker's authority is most visible and therefore most vulne
 
 A private room in a public camp, and therefore never fully private.
 
-What gives the room its charge is contrast. Outside is the camp's rough democracy of dust and appetite. Inside is paper, memory, education, and a woman who has been forced to become her own archive because no one else would preserve her claim honestly. The room should inspire a different kind of attention from the saloon: lower voices, sharper shame, and the possibility that ideas, not merely gunmen, might crack the Company's case.
+What gives the room its charge is contrast. Outside is the camp's rough democracy of dust and appetite. Inside is paper, memory, education, and a woman who has had to become her own archive because no one else would preserve her claim honestly. The room should inspire a different kind of attention from the saloon: lower voices, sharper shame, and the possibility that ideas, not merely gunmen, might crack the Company's case.
 
 **Usually here:** Ouida, occasionally one trusted visitor, never enough warmth.
 
@@ -463,7 +463,7 @@ The best way to run the room is as a bad conscience made visible. The instrument
 
 Noise, mud, mercury, and labor. The romance of gold has long since worn off here.
 
-This is where the camp stops pretending it is about luck. Here it becomes work, fuel, poison, machinery, and the ugly patience of reduction. A Game Master should linger on the sound and the filth. Baldy is not only cards, whiskey, and stakes. It is also men feeding stone to iron and breathing what the process gives back.
+This is where the camp stops pretending it is about luck. Here it becomes work, fuel, poison, machinery, and the ugly patience of reduction. Linger on the sound and the filth. Baldy is not only cards, whiskey, and stakes. It is also men feeding stone to iron and breathing what the process gives back.
 
 **Usually here:** laborers, mule drivers, foremen, men whose hands shake too much.
 
@@ -505,7 +505,7 @@ They are also one of the best places to remind the table that mining booms are g
 
 This is where the nameless camp lives: cookfires, cards, sickness, dust, and unsteady dreams.
 
-Published adventures too often give the saloon and forget the sleeping quarters. That is a mistake here. Tent row is where the camp acquires moral density. If the party wants to know what Baldy costs ordinary people, this is where it learns: wet blankets, shared coffee, mercury coughs, unpaid tabs, women making a living out of endurance, and boys learning camp manners before they have learned much else.
+Published adventures often give the saloon and forget the sleeping quarters. That would be a mistake here. Tent row is where the camp acquires moral density. If the party wants to know what Baldy costs ordinary people, this is where it learns: wet blankets, shared coffee, mercury coughs, unpaid tabs, women making a living out of endurance, and boys learning camp manners before they have learned much else.
 
 **Usually here:** laborers, camp women, boarders, drunks, a child or two no one admits responsibility for.
 
@@ -534,7 +534,7 @@ Roll when the party spends a watch working the camp or makes three meaningful st
 
 Cimarron is law as property. It should feel tighter, more watched, and harder to breathe in than either the plaza or the camp.
 
-If San Esteban feels old and Elizabethtown feels hungry, Cimarron should feel arranged. The boards are straighter here because money wanted them straight. The mud is no less muddy, the whiskey no less raw, the men no less dangerous, but the whole town carries itself like a place that expects paperwork to do what violence elsewhere must do face to face. That is why it is unsettling. Cimarron does not look like a battlefield until the party learns how much can be killed by receipts, warrants, juries, and signatures.
+If San Esteban feels old and Elizabethtown feels hungry, Cimarron should feel arranged. The boards are straighter here because money wanted them straight. The mud is no less muddy, the whiskey no less raw, the men no less dangerous, but the whole town carries itself like a place that expects paperwork to do what violence elsewhere must do face to face. That is what makes it unsettling. Cimarron does not look like a battlefield until the party learns how much can be killed by receipts, warrants, juries, and signatures.
 
 ### Settlement statblock
 
@@ -578,7 +578,7 @@ If San Esteban feels old and Elizabethtown feels hungry, Cimarron should feel ar
 
 ## Minor outposts and recurring inhabited nodes
 
-There are no true villages between the three main settlements, only camps, line shacks, isolated jacales, and working ground. Most are too small or too temporary to deserve a full town sheet. Two recurring habitation nodes do matter enough to rate their own short statblocks because parties return to them and because they can be damaged, defended, or used as pressure points.
+There are no true villages between the three main settlements, only camps, line shacks, isolated jacales, and working ground. Most are too small or too temporary to deserve a full town sheet. Two recurring habitation nodes matter enough to rate their own short statblocks because parties return to them, and because they can be damaged, defended, or used as pressure points.
 
 ### Upper Sheep Camp
 
@@ -638,7 +638,7 @@ The stair is a threshold worth staging. Below it, men can still talk as if this 
 
 Travelers, clerks, jurors, out-of-county witnesses, Baca's overworked lamp, and walls too thin for comfort.
 
-Hotels in western adventures are often treated as neutral lodging. This one should not be. It is a sorting house for alliances. Every trunk, every hallway conversation, every late knock, and every breakfast silence can matter. If the saloon is where rumor becomes heat, the hotel is where intention learns to wear a collar.
+Hotels in western adventures are often treated as neutral lodging. This one should not be. It is a sorting house for alliances. Every trunk, hallway conversation, late knock, and breakfast silence can matter. If the saloon is where rumor becomes heat, the hotel is where intention learns to wear a collar.
 
 **Usually here:** Baca, one tired innkeeper, commercial travelers, witnesses, men who plan to leave at dawn and do not.
 
@@ -668,7 +668,7 @@ That is the room's real flavor: not dramatic brutality, but shabby official dang
 
 Ink, type, patience, and a grudge sharper than any bowie knife in town.
 
-The office is small enough to be broken and important enough to matter if it is. That makes it perfect for western politics. A press in a frontier town is never merely literary. It is an engine for deciding which private thing becomes a public thing, and at what cost. The room should feel cramped, purposeful, and just one hard shove away from wreckage.
+The office is small enough to be broken and important enough to matter if it is. That makes it perfect for western politics. A press in a frontier town is never merely literary. It decides which private thing becomes a public thing, and at what cost. The room should feel cramped, purposeful, and one hard shove away from wreckage.
 
 **Usually here:** Thaddeus Lowe, a printer's devil, one informant who came by the back way.
 
@@ -714,7 +714,7 @@ That pretense matters. These rooms are where legal respectability loosens its co
 
 The public face of Company logistics. Wagons, draft animals, barrels, crates, and the constant chance to lose something in movement.
 
-There is always mud somewhere here, and somebody always swears the load was counted right before it vanished. That is why freight yards are so good in a western. They make theft, delay, bureaucracy, exhaustion, and violence occupy the same ground. If the party wants to affect the Company's body rather than its courtroom face, this is where the body shows.
+There is always mud somewhere here, and somebody always swears the load was counted right before it vanished. That is why freight yards work so well in a western. They force theft, delay, bureaucracy, exhaustion, and violence onto the same ground. If the party wants to affect the Company's body rather than its courtroom face, this is where the body shows.
 
 **Usually here:** teamsters, laborers, guards, drifters seeking work, one clerk checking loads against paper.
 
@@ -755,13 +755,13 @@ Roll when the party spends a watch working the town or three meaningful stops du
 
 ## The pointcrawl routes
 
-These are the lines the party will most often travel. They are not abstract. Each should carry its own mood and kind of trouble.
+These are the lines the party will most often travel. They are not abstract. Each one should carry its own mood and kind of trouble.
 
 ### San Esteban to the lower pasture
 
 This is close country. You do not roll for travel here unless the clocks are hot, the ride is at night, or the party is already under watch.
 
-The ride leaves the plaza by ground everybody knows: trampled edges of field, ditch water slipping beside the path, stray chickens, barking dogs, and then the open smell of grass and creek mud. The country is low and workable here, the sort of land men glance over while talking because they think they have already mastered it. That confidence is part of what makes the willows so unsettling. A killing this near the houses feels like a hand laid on the table during supper.
+The ride leaves the plaza by ground everybody knows: trampled field edges, ditch water slipping beside the path, stray chickens, barking dogs, and then the open smell of grass and creek mud. The country is low and workable here, the sort of land men glance over while talking because they think they have already mastered it. That confidence is part of what makes the willows unsettling. A killing this near the houses feels like a hand laid on the table during supper.
 
 **Travel time:** under 1 hour on horseback or by wagon; about 45 minutes on foot. For practical play, this is a same-watch errand unless something goes wrong.
 
@@ -771,7 +771,7 @@ The ride leaves the plaza by ground everybody knows: trampled edges of field, di
 
 This is still the plaza's country, but less protected by being seen.
 
-The trail climbs in slow practical bends above the worked ground. Adobe and acequia give way to bunchgrass, low sage, scattered pinyon, and the bleached look of country used hard by stock and weather. From the right rise you can look back and see the church, the common, and the white crosses on the ridge all in one glance, which is useful because this is the last stretch of country where the plaza still feels close enough to answer a rifle shot or a fire in the dark.
+The trail climbs in slow practical bends above the worked ground. Adobe and acequia give way to bunchgrass, low sage, scattered pinyon, and the bleached look of country used hard by stock and weather. From the right rise you can look back and see the church, the common, and the white crosses on the ridge in one glance. This is the last stretch of country where the plaza still feels close enough to answer a rifle shot or a fire in the dark.
 
 **Travel time:** about 2 hours on horseback, 3 hours by wagon, or half a day on foot. In play terms, it is usually an out-and-back within one long day unless night, weather, or fighting intervenes.
 
@@ -783,7 +783,7 @@ The trail climbs in slow practical bends above the worked ground. Adobe and aceq
 
 The settled road east is the chapter's legal artery. Freight, notices, couriers, lawyers, and deputies all use it.
 
-The road east opens the country rather than closing it. The party leaves the shelter of the cañón mouth and rides into broader grass, sage flats, low swells, and a sky that feels bigger with every mile. Cottonwoods mark what water there is. Wagon ruts harden and split and rejoin. By the time Cimarron is near, the land has taken on that company-town look western roads get when money has used them harder than weather: more freight, more dung, more cut banks, more signs that every useful thing is being drawn toward one counting room.
+The road east opens the country rather than closing it. The party leaves the shelter of the cañón mouth and rides into broader grass, sage flats, low swells, and a sky that feels bigger with every mile. Cottonwoods mark what water there is. Wagon ruts harden, split, and rejoin. By the time Cimarron is near, the land has taken on the company-town look western roads get when money has used them harder than weather: more freight, more dung, more cut banks, more signs that every useful thing is being drawn toward one counting room.
 
 **Travel time:** a hard half day to a long day on horseback, a full day by wagon, or roughly 2 days on foot. In practical campaign terms, most mounted parties can leave after dawn and reach Cimarron by dusk if they push.
 
@@ -795,7 +795,7 @@ The road east opens the country rather than closing it. The party leaves the she
 
 This is a harder road than the mileage implies. The country rises, the weather turns quicker, and open appetite replaces communal memory.
 
-This road teaches the party the mountain by degrees. First come the pinyon and juniper above the worked valley, then the darker timber, then the aspen where the trunks stand pale as bone against the slope. Water gets colder, air thinner, and the ground more expensive under hoof. Tailings begin to appear before the camp itself does, pale fans of broken rock cast down the hillside like spoil from some patient animal eating the mountain from within.
+This road teaches the party the mountain by degrees. First come the pinyon and juniper above the worked valley, then darker timber, then the aspen where trunks stand pale as bone against the slope. Water gets colder, air thinner, and the ground more expensive under hoof. Tailings appear before the camp itself does, pale fans of broken rock cast down the hillside like spoil from some patient animal eating the mountain from within.
 
 **Travel time:** a long day on horseback in fair weather, `1.5 to 2 days` for loaded wagons, or about `2 days` on foot. In play, a fast mounted party can make it in one punishing day, but should feel the punishment.
 
@@ -807,7 +807,7 @@ This road teaches the party the mountain by degrees. First come the pinyon and j
 
 The Company road is the cleanest road in the chapter and therefore the most watched.
 
-The difference between this road and the San Esteban road is one of intention. This one has been cut, improved, used, and worried over by men who mean to carry value on it. The grades feel more deliberate, the bends more worked, the bridges and culverts more purposeful where they exist at all. The party rides through country that has already been translated into freight logic, and as the climb steepens the road begins to show the same raw compromise every western road shows when capital insists on speed through bad terrain.
+The difference between this road and the San Esteban road is intention. This one has been cut, improved, used, and worried over by men who mean to carry value on it. The grades feel more deliberate, the bends more worked, the bridges and culverts more purposeful where they exist at all. The party rides through country already translated into freight logic, and as the climb steepens the road begins to show the same raw compromise every western road shows when capital insists on speed through bad terrain.
 
 **Travel time:** a long day on horseback, a long day to `2 days` for freight, or about `2 days` on foot. This is the route for parties who want speed without wilderness, and it pays them back in visibility.
 
@@ -819,7 +819,7 @@ The difference between this road and the San Esteban road is one of intention. T
 
 The cañón is not a road. It is a test.
 
-The trail west into the cañón narrows almost at once. Spruce and ponderosa close in. The creek falls over ledges in green-black water and the air cools enough that sweat goes tacky under a shirt. Higher up, the switchbacks begin, and with them the country changes from worked New Mexico to hard mountain ground: bare aspen trunks, snow lying late in the gullies, rock shelves, blind turns, and those long ridge views that make a rider feel both lucky and exposed. By the time the party reaches the blazed line and the cairn country beyond it, the land has thinned into wind, stone, and distance.
+The trail west into the cañón narrows almost at once. Spruce and ponderosa close in. The creek falls over ledges in green-black water and the air cools enough that sweat goes tacky under a shirt. Higher up, the switchbacks begin, and with them the country changes from worked New Mexico to hard mountain ground: bare aspen trunks, snow lying late in the gullies, rock shelves, blind turns, and long ridge views that make a rider feel both lucky and exposed. By the time the party reaches the blazed line and the cairn country beyond it, the land has thinned into wind, stone, and distance.
 
 **Travel time:** from San Esteban to the cañón mouth is about 1 hour on horseback; from the mouth to Halladay's blazed line is a hard half day mounted or a long day on foot; from the blazed line to the true corner cairn is another half day in high country. Taken whole, the ride from the plaza to the cairn is usually `1.5 days` for a capable mounted party and `2 hard days` for anyone slower, burdened, or cautious.
 
@@ -890,7 +890,7 @@ Use for the cañón, the blazed line, and the ridge to the cairn.
 
 ## What each settlement is still good for after the first visit
 
-One danger in sandbox writing is that a place becomes "used up" after its first key scene. Do not let that happen here.
+One danger in sandbox writing is letting a place feel "used up" after its first key scene. Do not let that happen here.
 
 - **San Esteban** remains useful for debt, grief, family politics, food pressure, witness protection, and public legitimacy.
 - **Elizabethtown** remains useful for affidavits, duplicate ledgers, extra guns, rumor, and anti-Company alliances that stop well short of virtue.
