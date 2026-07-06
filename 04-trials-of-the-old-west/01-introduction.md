@@ -1,0 +1,49 @@
+<!-- markdownlint-disable MD013 MD041 -->
+
+# Trials of the Old West
+
+> _THE COUNTRY IS DRY AND THE COUNTRY IS WATCHED. THE LEDGER IS KEPT AT THE WAY-STATION AND THE LAW IS KEPT AT THE COUNTY SEAT AND THE WEATHER IS KEPT NOWHERE, WHICH IS WHY THE WEATHER KILLS MORE MEN THAN THE LEDGER OR THE LAW EVER WILL._
+>
+> — FROM A LETTER FOUND IN THE WAY-STATION'S POSTBOX, UNSIGNED
+
+## What This Book Is
+
+This is _Trials of the Old West_, a book of new rules for the game of the same name. It does not change the game you already have. It widens it. The corebook and the 1870s supplement give you the saloon, the trail, the camp, the mine, the posse, and the gang. This book gives you the things those books reach for and do not quite close: the trial that follows the arrest, the weather that buries the drive, the iron horse on the rail, the herd on the move, the claim in the rock, the fight too large for a pistol, and the county's interests pressing on all of it at once.
+
+Every chapter here is built from the same engine the corebook uses. You will not learn a new way to roll dice. You will find new ways to use the dice you already have, new gauges that sit beside the ones you already track, and new tables that decide what the country does to the people in it. The point is to make the West feel wider without making it feel different.
+
+The book is built around a small company of people who live in one corner of country — a trader who keeps the ledger, a trail boss who keeps his silence, a judge who keeps the rope, a miner who keeps his cough to himself, a sergeant who keeps the line, an engineer who keeps the throttle, and a man trying to keep clear of what he used to be. They open the chapters, and they appear in every example. They are not your player characters. They are the ground the rules walk on. You will meet them in `vignettes-and-cast.md`, and you are free to use them or to people your own county with your own.
+
+## How to Use This Book
+
+Take any chapter on its own, or take them as a set. Each is a complete thing that plugs into the game at a place the corebook already knows. Read the chapter once, use its tables at the table, and let its pressure do its work. The prose in each chapter is not decoration. It is the reason the rules exist, and a reader who skips it for the tables alone will miss the weight the tables are built to produce.
+
+A word on the country this book is set in. It is the high desert and grassland below the Sangres and the Cimarron country of northern New Mexico, with a railhead, a mining district, a cavalry post, and a county seat in a hard ride of each other. It is the country where every pressure in this book can be felt at once. It was not all Anglo, and neither is the cast. The honest rendering of the West's peoples is the business of the writing skill this book is built with, and that skill governs every scene in which they appear. Hold the country to the same standard the skill holds the prose: no noble savage, no flat villain, no town of stock parts, and no flinching from the uncomfortable truths the rules put on the page.
+
+## What You Will Find
+
+What follows is a short account of each chapter, what it is for, and what a game master and a table can expect to find in it. The chapters are in the order they were written, which is the order they lean on one another, but a table may take them in any order that suits the county.
+
+**Factions and Standing** is the chapter to read first, because half the other chapters reach for it. It gives you a way to track the county's organized interests — the land-grant operators, the cattleman's association, the railroad, the bench, the committee that meets behind the hardware store — and a way to feel them move when the player characters are not looking. You will find a ladder of how a faction regards the party, from sworn to hunted, and a simple roll you make once a season for each faction to see what it did with its time and its money while the party was elsewhere. It is the chapter that makes the world act back.
+
+**Weather and the Trail's Teeth** is the chapter that puts the sky on the table. You will find a table that rolls the day's weather for the region the party is in, season by season, and the travel it costs and the danger it brings. You will find the country's worst weather — the blue norther, the prairie fire, the flash flood — built as the same kind of extended scene the outlaw chapter uses for a score, with the shelter or the high ground as the goal and the cold or the flame as the cost. And you will find the drought as a slow pressure that withers a town and breaks an outfit across seasons. The weather does not add new ways to die. It decides when the ways you already have come due.
+
+**Justice, Trial, and Incarceration** is the chapter that closes the loop the outlaw chapter opens. The corebook follows a wanted man to the moment of capture and sets the rope down. This chapter picks it up. You will find the posse and the arrest, the trial run as a contest of words and wills in front of a judge and a jury, the sentencing tables for the misdemeanor, the felony, and the hanging, the jail and the territorial prison, the jailbreak planned from the inside or the outside, the pardon bought from a faction at a price, and the lynching when the law's grip is short and the rope is long. It is the chapter that makes a crime have a tail, and makes the tail bite.
+
+**Train Robbery and the Iron Horse** is the chapter for the iron horse on the rail. You will find the anatomy of a train, car by car, and what each carries and what each costs a robber. You will find the four ways to stop a moving train — the false signal, the obstruction, the sabotage, the desperate boarding from horseback — and what each one risks, up to and including the derailment that kills everyone aboard. You will find the robbery itself as an extended scene scaled to the take, from the wayside hold to the through-express, and the express messenger behind his dogged door as the robbery's central problem. You will find the railroad as an interest that does not forget, and the wire as the thing that ruins a clean getaway. The stagecoach folds in as the iron horse's poorer cousin.
+
+**Cattle Drives and the Open Range** is the chapter for the herd on the move. You will find the drive as an extended scene scaled to its length, with the miles to the railhead as the goal and the trail's teeth — storms, rivers, rustlers, sick crews, bad water — as the cost, paid in beeves. You will find the stampede as a disaster inside the drive, with its own resolution and its own dead men. You will find the ranch as a seasonal business, with its own table of good years and bad, and the open range as a country of factions — the association, the nesters, the rustlers, the railhead — all wanting a piece of the grass. It is the chapter that makes a herd a character, nervous and valuable and capable of killing the men who move it.
+
+**Mining Claims and the Ground's Promise** is the chapter for the diggings. You will find prospecting as a search across country, the claim staked and filed under the law of 1872, and the working mine as a seasonal business with its own table of yields and costs. You will find the company and the union as the two factions that contest every hardrock district, and the dust as a cost that accumulates in the background of a miner's life the way it accumulated in the actual camps, until the cough becomes the engine of a retirement or an end. You will find the mine itself as a place — the shaft, the drift, the stope — for the underground scenes the camp produces.
+
+**Mass Combat and the Skirmish Line** is the chapter for the fight too large for the player characters' pistols. You will find a way to treat a body of fighters as a single piece on the board, with its quality, its numbers, and its willingness to hold the line, and a way to resolve the exchange between two such bodies with the same dice the game uses for everything else. You will find the player character as a leader attached to a unit, carrying the day with his own ability, and the battle itself wrapped in the same extended-scene framework as the score and the drive. You will find the artillery, the Gatling, the charge, the fortification, the siege, and the running fight as special cases of the one engine. It is the chapter that lets the Indian Wars and the county war play out at their true size.
+
+## A Note on What Is Coming
+
+The book is growing. Chapters in development will treat the moving of goods across distance as a livelihood and the iron horse as a tool of commerce; the saloon and the brothel as a business and a crossroads; the sickness and the fever as a pressure on every body of people in the West; the family and the feud as the web of blood and property that holds the county together and tears it apart; the great operators of the period and the work and the trouble they bring to a party; and the atrocities and the trade in people that the West ran on, rendered honestly as outlaw operations and as the setting's hard truth. These chapters will be built on the same engine and held to the same standard as the ones here.
+
+## The Design Bible
+
+The understanding of the game that produced this book is written down in `/docs/design-bible.md`, at the repository root. That file is the engineering under the prose — the gauges, the tables, the resolution vocabulary, the downtime spine, and the map of how the chapters connect. A reader who wants to extend this book, audit it, or build another one beside it should read the design bible first. This book is one application of the engine. The bible is the engine itself.
+
+The country is dry and the country is watched. The rules in this book are written to make both of those things felt, at the table, in the choices the player characters make and the consequences the county hands back. That is the whole of the book's purpose.
