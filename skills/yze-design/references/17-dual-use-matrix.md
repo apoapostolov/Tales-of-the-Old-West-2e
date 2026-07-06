@@ -2,7 +2,7 @@
 
 # Dual-Use Matrix — One Mechanism, Many Psychologies
 
-> **STATUS: FILLED (Phase 2).** This is the **calibration** layer of the generative method. `16` gave the palette of primitives; this file shows that each primitive *changes what the game is about* depending on how its dials are set — proven empirically by FL and West, which are the same engine producing opposite tones. Read this when you need to choose *what a mechanism should feel like*, not just *which mechanism to use*.
+> This is the **calibration** layer of the generative method. `16` gave the palette of primitives; this file shows that each primitive *changes what the game is about* depending on how its dials are set — proven empirically by FL and West, which are the same engine producing opposite tones. Read this when you need to choose *what a mechanism should feel like*, not just *which mechanism to use*.
 
 ## Contents
 
@@ -22,7 +22,7 @@ Every claim below is grounded in the calibrated points FL and West already provi
 
 ## Abstraction target
 
-Phase 1 said: "set dial 1 (push-cost model) and the tone follows." This file makes that claim *actionable and exhaustive* across the primitives. The deliverable is a **matrix** showing, for each load-bearing primitive, the different psychologies it produces at different calibrations — with FL and West as two proven points and the genre-guidance for hitting each psychology in a new game.
+The design-dials layer says: "set dial 1 (push-cost model) and the tone follows." This file makes that claim *actionable and exhaustive* across the primitives. The deliverable is a **matrix** showing, for each load-bearing primitive, the different psychologies it produces at different calibrations — with FL and West as two proven points and the genre-guidance for hitting each psychology in a new game.
 
 **The core claim:** *there are no "good" or "bad" calibrations of a primitive — only calibrations that produce the psychology you want and calibrations that don't.* A mechanism that produces "aggression" in one game produces "caution" in another, *with the mechanism unchanged.* Genius-level design is knowing which calibration produces which psychology, and choosing deliberately.
 
@@ -190,7 +190,7 @@ There are no "right" calibrations. FL and West prove that opposite calibrations 
 
 ## 7. Design intent
 
-This file exists because Phase 1 documented the dials but did not name what they *do to the player.* A designer reading `00 §11` learns that "push-cost model" is a dial with two points — but not that those two points produce *opposite psychologies* (aggression vs caution), or that the choice *is* the choice of genre.
+This file exists because the engine systems documented the dials but did not name what they *do to the player.* A designer reading `00 §11` learns that "push-cost model" is a dial with two points — but not that those two points produce *opposite psychologies* (aggression vs caution), or that the choice *is* the choice of genre.
 
 The dual-use matrix makes the engine's most important property — *that the same mechanism produces opposite games at opposite calibrations* — into a *lookup table* rather than an insight you have to rediscover each time. With this file, a designer who wants "a game about the cost of ambition" can scan M1–M2 and see exactly which refuel and cost calibrations produce it, with FL or West as proof it works.
 

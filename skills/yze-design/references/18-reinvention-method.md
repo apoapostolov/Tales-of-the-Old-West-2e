@@ -2,7 +2,7 @@
 
 # Reinvention Method — How to Invent New Mechanics from Old Ones
 
-> **STATUS: FILLED (Phase 2).** This is the **composition** layer of the generative method — the final, highest-value layer of the skill. `16` gave the palette of proven-portable primitives; `17` showed how each primitive changes psychology at different calibrations. This file teaches the move that defines "genius-level design, reproducible": **take a primitive out of its home system and deploy it in a foreign system to produce a genuinely new mechanic that inherits the engine's balance and feel.** Read this when the task is *invent a new mechanic*, not *configure an existing one*.
+> This is the **composition** layer of the generative method — the final, highest-value layer of the skill. `16` gave the palette of proven-portable primitives; `17` showed how each primitive changes psychology at different calibrations. This file teaches the move that defines "genius-level design, reproducible": **take a primitive out of its home system and deploy it in a foreign system to produce a genuinely new mechanic that inherits the engine's balance and feel.** Read this when the task is *invent a new mechanic*, not *configure an existing one*.
 
 ## Contents
 
@@ -19,11 +19,11 @@
 
 This file is the generative *consequence* of `16` (primitives) and `17` (dual-use). The method it teaches is abstracted from the empirical fact that FL and West are *themselves* reinventions of each other — the same primitives, transplanted and recalibrated, producing opposite games. Every operator below is a generalization of a move the source designers actually made.
 
-Cross-links to Phase 1: `13-balance-and-synergy.md` (validate the reinvented mechanic before shipping), `14-recipes-new-game-new-rule.md` Recipe B (the validation pipeline this file's output must pass), `10-design-philosophy.md` §10 (the Warning Signs this file's anti-patterns extend).
+Cross-links to the engine systems: `13-balance-and-synergy.md` (validate the reinvented mechanic before shipping), `14-recipes-new-game-new-rule.md` Recipe B (the validation pipeline this file's output must pass), `10-design-philosophy.md` §10 (the Warning Signs this file's anti-patterns extend).
 
 ## Abstraction target
 
-Phase 1 (`14` Recipe A) assembles a new game from documented dials — *it does not invent new mechanics.* This file closes that gap. The deliverable is a **reproducible ideation method**: a small set of *operators* that take a primitive (from `16`) and a target domain, and produce a candidate mechanic — plus a composition checklist and worked examples showing the operators in action.
+The recipes layer (`14` Recipe A) assembles a new game from documented dials — *it does not invent new mechanics.* This file closes that gap. The deliverable is a **reproducible ideation method**: a small set of *operators* that take a primitive (from `16`) and a target domain, and produce a candidate mechanic — plus a composition checklist and worked examples showing the operators in action.
 
 **The thesis:** *almost no "new mechanic" is actually new.* Most are *transplants* — a primitive from one system, redeployed in another, recalibrated to produce a target psychology. The genius-level move is not invention ex nihilo; it is *recognition* — seeing that the activity-menu primitive (which powers travel) also powers heist planning; that the typed-D66 primitive (which powers crits) also powers social-consequence spirals; that the resource-die primitive (which powers food) also powers sanity. This file teaches that recognition as a method.
 
@@ -192,10 +192,10 @@ These extend `10 §10`'s Warning Signs into the generative layer.
 
 ## 8. Design intent
 
-This file exists because the original brief asked for a "genius-level designer" skill — and Phase 1, for all its rigor, produced an *analyst*, not a designer. An analyst can describe and configure; a designer *invents.* This file is the bridge.
+This file exists because the original brief asked for a "genius-level designer" skill — and the engine systems (`00`–`15`), for all their rigor, produce an *analyst*, not a designer. An analyst can describe and configure; a designer *invents.* This file is the bridge.
 
 The file's central claim — that *most new mechanics are transplants, not inventions* — is both a humbling and an empowering one. Humbling, because it says genius-level design is less about *inspiration* than *recognition* (seeing that sanity is a resource die; that heat is an inverted metacurrency; that a bridge crew is an activity menu). Empowering, because recognition is *teachable* in a way inspiration is not: the five operators, the palette of 15 primitives, and the dual-use matrix together form a *method* that an AI or a human can apply deliberately.
 
 The method's guarantee: a mechanic produced by these operators will (a) inherit a primitive's pre-balanced math and pre-playtested feel, (b) fit the engine by construction (because the primitive already uses ⚔/💀 and the push economy), and (c) produce a *targetable* psychology (because `17` maps calibrations to feels). The method's risk: a bad transplant or an inconsistent fusion can break the engine's pressure loop — which is why the composition checklist (§5) and the validation pipeline (`13 §8`) are non-negotiable.
 
-**The three generative files together — `16` (palette), `17` (calibration), `18` (composition) — complete the skill's design loop.** Phase 1 lets you *understand and configure* the engine. Phase 2 lets you *extend* it into genuinely new design space, reproducibly. Together they make the skill what the brief asked for: a tool that turns the YZE's hard-won design intelligence into a transferable, generative method.
+**The three generative files together — `16` (palette), `17` (calibration), `18` (composition) — complete the skill's design loop.** The engine systems (`00`–`15`) let you *understand and configure* the engine. The generative layer (`16`–`18`) lets you *extend* it into genuinely new design space, reproducibly. Together they make the skill what the brief asked for: a tool that turns the YZE's hard-won design intelligence into a transferable, generative method.

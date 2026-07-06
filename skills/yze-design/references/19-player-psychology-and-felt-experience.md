@@ -2,7 +2,7 @@
 
 # Player Psychology and Felt Experience
 
-> **STATUS: FILLED (Phase 3).** This is the **experiential** evaluative layer — the complement to `10`'s designer-side Warning Signs and `13`'s engineering-side validation pipeline. Those files catch rules that are *broken* (internally inconsistent, exploitable, ambiguous, GM-punishing). This file catches rules that are *technically sound but feel awful* — balanced but boring, fair but frustrating, evocative but exhausting. Read it alongside `13 §7` (table-behavior lenses) and `18 §5` (composition checklist); it supplies the *why* behind their *what*.
+> This is the **experiential** evaluative layer — the complement to `10`'s designer-side Warning Signs and `13`'s engineering-side validation pipeline. Those files catch rules that are *broken* (internally inconsistent, exploitable, ambiguous, GM-punishing). This file catches rules that are *technically sound but feel awful* — balanced but boring, fair but frustrating, evocative but exhausting. Read it alongside `13 §7` (table-behavior lenses) and `18 §5` (composition checklist); it supplies the *why* behind their *what*.
 
 ## Contents
 
@@ -17,7 +17,7 @@
 
 ## Source provenance
 
-This file is Phase 3's sole deliverable, scoped to avoid duplication. It is the *psychology* consequence of `10` (philosophy) and `13` (balance). The cognitive principles are not sourced from the two corebooks (which are silent on player psychology) — they are standard, well-established findings (loss aversion, the flow channel, perceived-randomness gaps) restated in the engine's vocabulary and tied to its specific mechanics. Where a principle explains a lens already in `13 §7`, the cross-link is explicit and the lens is not reproduced.
+This file is the experiential evaluative layer's sole deliverable, scoped to avoid duplication. It is the *psychology* consequence of `10` (philosophy) and `13` (balance). The cognitive principles are not sourced from the two corebooks (which are silent on player psychology) — they are standard, well-established findings (loss aversion, the flow channel, perceived-randomness gaps) restated in the engine's vocabulary and tied to its specific mechanics. Where a principle explains a lens already in `13 §7`, the cross-link is explicit and the lens is not reproduced.
 
 ## Abstraction target
 
@@ -32,7 +32,7 @@ This file delivers four things, each genuinely missing from the prior evaluative
 
 ## 3. Scope boundary — what this file does NOT duplicate
 
-To keep Phase 3 lean (and honor the no-duplication rule), this file **does not reproduce**:
+To keep this file lean (and honor the no-duplication rule), this file **does not reproduce**:
 
 - **`10 §10`'s seven Warning Signs** (subsystem inflation, silent invalidation, false realism, vague enforcement, misleading survivability, setting-laden language, sibling-skill duplication). Those are *designer-side engineering* failures. This file's failure modes are *player-side experiential* failures — a different axis. A rule can be engineering-clean (passes all seven) and still feel awful.
 - **`13 §7`'s nine table-behavior lenses.** Two of them (7.2 perceived balance, 7.6 player agency) touch psychology as *scoring rubrics*. This file supplies the *cognitive explanation* for why a rule scores poorly on those lenses — it does not re-score them.
@@ -199,6 +199,6 @@ One of: **Ship** (passes A–D) / **Revise** (fails one stage, fixable in-place)
 
 This file exists because the engine's two prior evaluative layers (`10` philosophy, `13` balance) are *designer-facing* and *engineering-facing* respectively. They answer "is this rule well-built?" A rule can be well-built and still produce a bad session — because sessions are had by *players*, whose experience is governed by cognition (loss aversion, flow, perceived randomness) and rhythm (tension curves, agency ledgers) that the engineering layers do not model.
 
-Phase 3 was scoped to close exactly this gap and nothing else. The four deliverables — felt-experience failure modes, the cognitive layer, the abstraction-authenticity dial, and the integrating protocol — are deliberately complementary, not duplicative: every failure mode (FE1–FE5) is distinct from `10`'s warning signs; every cognitive principle (C1–C5) explains a lens in `13 §7` without re-scoring it; the abstraction-authenticity dial turns `10 §8`'s sniff-test into a budgeting procedure; and the review protocol *orchestrates* rather than replaces the prior pipelines.
+This experiential layer was scoped to close exactly this gap and nothing else. The four deliverables — felt-experience failure modes, the cognitive layer, the abstraction-authenticity dial, and the integrating protocol — are deliberately complementary, not duplicative: every failure mode (FE1–FE5) is distinct from `10`'s warning signs; every cognitive principle (C1–C5) explains a lens in `13 §7` without re-scoring it; the abstraction-authenticity dial turns `10 §8`'s sniff-test into a budgeting procedure; and the review protocol *orchestrates* rather than replaces the prior pipelines.
 
-With this file, the skill's evaluative axis is complete: a rule can now be judged for **engineering soundness** (`10`), **mathematical soundness** (`13`), and **experiential soundness** (this file), in a single integrated pass. Together with the generative axis (`16`–`18`) and the understanding axis (`00`–`15`), this completes the skill's design loop: **understand → invent → judge.** There is no Phase 4; the loop is closed.
+With this file, the skill's evaluative axis is complete: a rule can now be judged for **engineering soundness** (`10`), **mathematical soundness** (`13`), and **experiential soundness** (this file), in a single integrated pass. Together with the generative axis (`16`–`18`) and the understanding axis (`00`–`15`), this completes the skill's design loop: **understand → invent → judge.** The loop is closed.

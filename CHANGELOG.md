@@ -11,6 +11,12 @@ and this project follows Semantic Versioning.
 
 ### Added
 
+- **`yze-design` — master Year Zero Engine design skill.** A comprehensive engine-agnostic design system for the Year Zero Engine (YZE) by Free League Publishing. Reverse-engineers Forbidden Lands 2E and Tales of the Old West 2E into a unified three-layer design toolkit:
+  - **UNDERSTAND** — core resolution, character, conflict, harm, power, travel, organizations, gear, GM procedures, philosophy, design dials, and a complete FL-vs-West divergence map.
+  - **INVENT** — 15 reusable mechanical primitives, a dual-use matrix showing how each primitive produces opposite player psychologies at different calibrations, and a 5-operator reinvention method for transplanting primitives into new systems (Domain Transfer, Inversion, Recalibration, Fusion, Abstraction-Climb).
+  - **VALIDATE** — an executable balance and synergy pipeline (expected-success math, attrition curves, exploit taxonomy, synergy stress-testing) plus a player-psychology layer (loss aversion, flow, perceived randomness, the abstraction-authenticity dial) and an integrating review protocol.
+  - Use it to build a new YZE game for any genre, invent rules from proven primitives, or stress-validate either for math and table feel.
+
 - **`03-adventures/` domain.** Adventures now live in their own folder,
   separate from the two books, so a campaign module is not filed as a
   chapter of a setting or rules volume.

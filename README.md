@@ -25,6 +25,7 @@ tools to keep new material in the same hard, western voice.
   an example adventure
 - `03-adventures/` — the standalone adventure domain, separate from the books
 - `skills/western-writing/` — the prose and lore skill bundle
+- `skills/yze-design/` — the master Year Zero Engine design skill for building new YZE games across any genre
 - `CHANGELOG.md` — the version-by-version development record
 - `LICENSE.md` — the rights and notice file for this repository
 
@@ -102,6 +103,51 @@ What this domain brings:
 The point of the repository is simple: keep the game readable, keep the
 setting sharp, and make new material feel like it belongs in the same hard,
 dry country.
+
+## AI and campaign work
+
+This repository is built so a GM, designer, or AI agent can do more than read
+it. The skill bundle helps you understand the game line, create new material
+in the same register, and keep your own campaign consistent.
+
+### Install the skills in another repository
+
+If your agent supports repo-local skills, copy or symlink the desired folders
+from this repository's `skills/` directory into your own local skill path.
+
+Common workspace-local destinations are:
+
+- `.github/skills/` for repo-scoped shared use
+- `.agents/skills/` for repo-scoped agent workflows
+
+Keep the folder names and each `SKILL.md` entry point intact.
+
+Only carry over the skills you actually need:
+
+- `western-writing`
+- `western-rpg-design`
+- `rpg-synergy-analysis`
+- `rpg-balance-analysis`
+- `adventure-writing`
+- `yze-design`
+
+### What each skill is for
+
+| Skill | Use it for |
+| --- | --- |
+| `yze-design` | Build a new Year Zero Engine game for any genre; invent, transplant, and stress-validate mechanics from proven YZE primitives |
+| `western-writing` | Final prose, rules voice, examples, flavor, and manuscript register |
+| `western-rpg-design` | New rules, subsystems, procedures, and campaign mechanics |
+| `rpg-synergy-analysis` | Balance stress-testing, dominant combos, loopholes, and exploit surfaces |
+| `rpg-balance-analysis` | Balance and synergy catalogs for the West game line |
+| `adventure-writing` | Adventure structure, plot, NPC design, and campaign framing |
+
+### Recommended skill stacks
+
+- **New YZE game for any genre:** `yze-design`
+- **New region or campaign frame:** `western-writing` and `adventure-writing`
+- **New subsystem or house rule:** `western-rpg-design` and `rpg-synergy-analysis`
+- **Adventure or campaign material:** `adventure-writing` and `western-writing`
 
 ## License and notice
 

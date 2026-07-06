@@ -1,12 +1,12 @@
 ---
 name: yze-design
 description: |
-  Use when designing, abstracting, extrapolating, or INVENTING mechanics for the Year Zero Engine (YZE) — the D6 dice-pool RPG engine shared by Forbidden Lands 2E and Tales of the Old West 2E. Reverse-engineers both corebooks into one engine-agnostic design system in three layers: UNDERSTAND — core resolution, character, conflict, harm, power, travel, orgs, gear, GM procedures, philosophy, dials, the FL-vs-West divergence map; INVENT — 15 reusable mechanical primitives, a dual-use matrix showing how each produces opposite psychologies at different calibrations, and a 5-operator reinvention method for transplanting primitives into new systems; VALIDATE — an executable balance/synergy pipeline (math, exploits, breakpoints) plus a player-psychology layer (loss aversion, flow, perceived randomness, the abstraction-authenticity dial) and an integrating review protocol. Use it to build a new YZE game for any genre, invent rules from proven primitives, or stress-validate either for math and feel.
+  Use when designing, abstracting, extrapolating, or INVENTING mechanics for the Year Zero Engine (YZE) by Free League Publishing — the D6 dice-pool RPG engine shared by Forbidden Lands 2E and Tales of the Old West 2E. Reverse-engineers both corebooks into one engine-agnostic design system in three layers: UNDERSTAND — core resolution, character, conflict, harm, power, travel, orgs, gear, GM procedures, philosophy, dials, the FL-vs-West divergence map; INVENT — 15 reusable mechanical primitives, a dual-use matrix showing how each produces opposite psychologies at different calibrations, and a 5-operator reinvention method for transplanting primitives into new systems; VALIDATE — an executable balance/synergy pipeline (math, exploits, breakpoints) plus a player-psychology layer (loss aversion, flow, perceived randomness, the abstraction-authenticity dial) and an integrating review protocol. Use it to build a new YZE game for any genre, invent rules from proven primitives, or stress-validate either for math and feel.
 ---
 
 # YZE Design
 
-An engine-agnostic design system for the **Year Zero Engine** (YZE) — the D6 dice-pool RPG engine instantiated by two corebooks:
+An engine-agnostic design system for the **Year Zero Engine** (YZE) by Free League Publishing — the D6 dice-pool RPG engine instantiated by two corebooks:
 
 - **Forbidden Lands 2E** (FL) — the *maximal* YZE: magic, hex journeys, strongholds, factions, mass combat, mercenaries, lifepaths.
 - **Tales of the Old West 2E** (West) — the *minimal / no-magic* YZE: the Trouble/Faith variant, pointcrawl travel, town/property/outlaw-band downtime, hard historical authenticity.
@@ -88,7 +88,7 @@ Load these on demand. Each opens with a TOC, a `## Source provenance` block, and
 - `references/14-recipes-new-game-new-rule.md` — **Load when** starting a new game or rule from scratch. Two cookbooks: (1) Build a new YZE game for any genre. (2) Design + validate a new rule/subsystem (intent→math→exploit→integration→readability).
 - `references/15-glossary-and-taxonomy.md` — **Load when** translating between generic and game-specific terms. Canonical generic↔FL↔West dictionary + master taxonomy of all engine systems.
 
-### Generative layer (Phase 2 — inventing new mechanics)
+### Generative layer — inventing new mechanics
 
 > The files above let you *understand and configure* the engine. These three let you *extend it into new design space* — the "genius-level designer" layer. Read `16` first when inventing; it is the palette the other two build on.
 

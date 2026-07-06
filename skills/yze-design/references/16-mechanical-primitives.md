@@ -2,7 +2,7 @@
 
 # Mechanical Primitives — The Reusable-Pattern Catalog
 
-> **STATUS: FILLED (Phase 2).** This is the **palette** for the generative layer. Phase 1 documented *what the engine is and how to configure it* (`00`–`15`). This file catalogs the ~15 load-bearing **patterns** that recur across both source games and are proven (by FL and West) to survive transplantation to new genres and new systems. `17-dual-use-matrix.md` shows what each pattern *does* at different calibrations; `18-reinvention-method.md` teaches how to combine and repurpose them. Read this file first when inventing new mechanics.
+> This is the **palette** for the generative layer. The engine systems (`00`–`15`) document *what the engine is and how to configure it*. This file catalogs the ~15 load-bearing **patterns** that recur across both source games and are proven (by FL and West) to survive transplantation to new genres and new systems. `17-dual-use-matrix.md` shows what each pattern *does* at different calibrations; `18-reinvention-method.md` teaches how to combine and repurpose them. Read this file first when inventing new mechanics.
 
 ## Contents
 
@@ -16,13 +16,13 @@
 
 ## Source provenance
 
-This file is a **synthesis over Phase 1**. Every primitive below is mined from the already-filled system files and cross-linked to where it is documented in depth. Primary evidence: both corebooks (see each system file's provenance). The empirical justification for calling these "primitives" is the **Divergence Map's synthesis** (`12 §12`): FL and West are the same invariant spine with five dials set to opposite ends — which means the *spine itself* is the reusable substrate, and each dial-setting *is* a primitive that has been proven to port.
+This file is a **synthesis over the engine systems documented in `00`–`15`**. Every primitive below is mined from the already-filled system files and cross-linked to where it is documented in depth. Primary evidence: both corebooks (see each system file's provenance). The empirical justification for calling these "primitives" is the **Divergence Map's synthesis** (`12 §12`): FL and West are the same invariant spine with five dials set to opposite ends — which means the *spine itself* is the reusable substrate, and each dial-setting *is* a primitive that has been proven to port.
 
 **Definition of "proven to port":** a pattern appears in *both* source games (so it is not genre-specific), OR it appears in one and its *absence* in the other is the proof it is optional/additive (so it can be added to a third). The Divergence Map's "absence as data" principle (`12 §3`) applies.
 
 ## Abstraction target
 
-Phase 1 answered *"what is the engine?"* and *"how do I configure it?"* This file answers the prior question a designer actually faces: *"what building blocks do I have to invent with?"* The goal is to lift the recurring patterns out of their home systems and present them as a **genre-neutral palette** — each one named, abstracted, parameterized, and tagged with the systems it already powers. A designer (human or AI) composing a new mechanic should be able to scan this catalog, pick a primitive, and instantiate it — rather than reinventing dice pools, push economies, or consequence tables from scratch.
+The engine systems (`00`–`15`) answer *"what is the engine?"* and *"how do I configure it?"* This file answers the prior question a designer actually faces: *"what building blocks do I have to invent with?"* The goal is to lift the recurring patterns out of their home systems and present them as a **genre-neutral palette** — each one named, abstracted, parameterized, and tagged with the systems it already powers. A designer (human or AI) composing a new mechanic should be able to scan this catalog, pick a primitive, and instantiate it — rather than reinventing dice pools, push economies, or consequence tables from scratch.
 
 This is the **palette** layer of the generative method. `17` is the **calibration** layer (what each primitive *does* at different settings). `18` is the **composition** layer (how to combine and repurpose them).
 
@@ -39,7 +39,7 @@ A primitive is *not* a complete system. Combat is not a primitive; the **action 
 
 ## 4. The primitive catalog (P1–P15)
 
-Each entry: **Name** · **One-line definition** · **Core tension it creates** · **Parameters** · **Where it already powers systems** (cross-links to Phase 1 files).
+Each entry: **Name** · **One-line definition** · **Core tension it creates** · **Parameters** · **Where it already powers systems** (cross-links to engine system files).
 
 ---
 
@@ -246,7 +246,7 @@ The Divergence Map (`12 §12`) established that the engine is an **invariant spi
 
 ## 7. Design intent
 
-This file exists because Phase 1, for all its completeness, answered the wrong first question for a *designer*. Phase 1 says "here is the engine; configure it." A designer's actual first question is "what do I have to build with?" Without a named palette of proven-portable patterns, a designer (especially an AI) will either (a) reinvent primitive mechanics badly from scratch, or (b) copy a whole system verbatim when only one of its primitives was needed.
+This file exists because the engine systems (`00`–`15`), for all their completeness, answer the wrong first question for a *designer*. Those files say "here is the engine; configure it." A designer's actual first question is "what do I have to build with?" Without a named palette of proven-portable patterns, a designer (especially an AI) will either (a) reinvent primitive mechanics badly from scratch, or (b) copy a whole system verbatim when only one of its primitives was needed.
 
 The primitives catalog solves both failure modes:
 
