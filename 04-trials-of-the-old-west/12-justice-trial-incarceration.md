@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD013 MD041 -->
 
-## Chapter 4 - Justice, Trial, and Incarceration
+## Chapter 12 - Justice, Trial, and Incarceration
 
 > _THE LAW IS A LONG ROPE WITH A SHORT REACH. IT WILL HANG A POOR MAN IN THE COUNTY SEAT AND TIP ITS HAT TO THE ONE WHO ROBBED HIM ACROSS THE LINE. KNOWING WHICH MAN YOU ARE IS HALF OF STAYING OUT OF THE WEATHER._
 >

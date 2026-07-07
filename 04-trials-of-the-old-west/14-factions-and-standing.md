@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD013 MD041 -->
 
-## Chapter 2 - Factions and Standing
+## Chapter 14 - Factions and Standing
 
 > _THE COUNTY IS NOT RUN FROM THE COURTHOUSE. IT IS RUN FROM THE COUNTERS WHERE THE DEBTS ARE KEPT, AND THE LEDGER DOES NOT CARE WHO HOLDS THE PEN._
 >

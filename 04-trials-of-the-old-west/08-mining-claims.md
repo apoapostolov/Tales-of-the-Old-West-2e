@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD013 MD041 -->
 
-## Chapter 7 - Mining Claims and the Ground's Promise
+## Chapter 8 - Mining Claims and the Ground's Promise
 
 > _THE GROUND DOES NOT PROMISE. THE GROUND IS. THE MEN WHO GO DOWN INTO IT ARE THE ONES DOING THE PROMISING, AND THEY ARE PROMISING IT TO THEMSELVES._
 >

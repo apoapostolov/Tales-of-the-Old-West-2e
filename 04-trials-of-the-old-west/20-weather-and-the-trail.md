@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD013 MD041 -->
 
-## Chapter 3 - Weather and the Trail's Teeth
+## Chapter 20 - Weather and the Trail's Teeth
 
 > _THE COUNTRY DOES NOT HATE YOU. HATING YOU WOULD REQUIRE IT TO NOTICE YOU. THE COUNTRY IS BUSY WITH ITS OWN BUSINESS, AND ITS BUSINESS IS THE WEATHER._
 >

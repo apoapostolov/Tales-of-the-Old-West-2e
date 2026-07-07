@@ -8,56 +8,64 @@ built from the engine the game already has.
 
 ## What is in this directory
 
-### Core chapters (drafted)
+### Front matter
 
-- `01-introduction.md` — what this book is, what it brings, how to use it
-- `vignettes-and-cast.md` — the recurring ensemble whose vignettes open
+- `00-introduction.md` — what this book is, what it brings, how to use it
+- `/docs/vignettes-and-cast.md` — the recurring ensemble whose vignettes open
   the chapters and whose voices carry every example
-- `02-factions-and-standing.md` — the Standing engine and the Faction
-  Roll that makes the world act on its own
-- `03-weather-and-the-trail.md` — a regional weather generator and three
-  disaster operations (blizzard, fire, flood) plus the drought
-- `04-justice-trial-incarceration.md` — the law's grip, closing the loop
-  the outlaw chapter's `Wanted` opens
-- `05-train-robbery.md` — the iron horse as score and setpiece, with the
-  railroad as a faction that remembers
-- `06-cattle-drives.md` — the drive as operation, the stampede, the
-  ranch as seasonal enterprise
-- `07-mining-claims.md` — prospecting, the claim, the working mine, the
-  company and the union
-- `08-mass-combat.md` — unit-scale skirmishes, attached player
-  characters, the battle as operation
-- `09-running-trade-and-resources.md` — moving goods across distance as
-  a livelihood; the freighting outfit, the supply run, the iron horse as
-  commerce, the railhead as trade hub
-- `10-saloons-and-the-trade.md` — the saloon and brothel as seasonal
-  enterprise; the keeper, the girls, the games, the trouble
-- `11-sickness-and-the-fever.md` — the diseases of the West as a pressure
-  on characters, camps, towns, and drives
-- `12-families-and-feuds.md` — designing families, their nationalities,
-  their traits, their properties, and the feuds and allegiances that
-  bind them
-- `13-robber-barons-and-their-work.md` — the great operators of the
-  period and the jobs and opportunities they offer a party
-- `14-atrocities-and-human-trade.md` — marauding, captive-taking, and the
-  trade in people, as outlaw operations and as the setting's hard truth
+
+### Part I — Person and Scene
+
+- `01-the-standoff.md` — the multi-party pre-shootout; who breaks first, the door into the fight
+- `02-the-holdout.md` — the PC-scale homestead and cabin siege; the defense track and the dawn
+
+### Part II — Hearth and Trade
+
+- `03-sickness-and-the-fever.md` — the diseases of the West as a spreading pressure; the outbreak as operation
+- `04-weddings-funerals-and-the-church.md` — the ceremonial scenes; wedding, funeral, revival
+- `05-saloons-and-the-trade.md` — the saloon and brothel as seasonal enterprise; the house gauge, the keeper's trouble
+- `06-running-trade-and-resources.md` — the spatial economy; freighting, the supply run, the iron horse as commerce
+- `07-cattle-drives.md` — the drive as operation, the stampede, the ranch as business
+- `08-mining-claims.md` — prospecting, the claim, the working mine, the company and the union
+- `09-logging-fur-trade-and-hunting.md` — the wild land's extractive trades; the river drive, the trapline, the market hunt
+- `10-banking-and-the-vault.md` — the bank job as operation; deposits, the safe-crack, the bank run
+
+### Part III — Crime and the Law
+
+- `11-train-robbery.md` — the iron horse as score; the anatomy, the stop, the railroad as a faction
+- `12-justice-trial-incarceration.md` — the law's grip; the trial, the sentence, the jail, the rope
+- `13-atrocities-and-human-trade.md` — the atrocity as operation; the trades in people; the army and the Committee at their worst
+
+### Part IV — The County
+
+- `14-factions-and-standing.md` — the Standing engine and the Faction Roll that makes the world act on its own
+- `15-families-and-feuds.md` — designing families; nationalities, trait tags, properties, the Feud Clock
+- `16-inheritance-land-office-and-speculation.md` — the paper war; the land office, the probate, insurance, speculation
+- `17-the-wire.md` — the telegraph as a mechanical system; cost, speed, cutting, the wire-down condition
+- `18-mail-and-the-post.md` — the U.S. Mail as routes, cargo, score, and vocation; the star-route contract
+- `19-the-press-and-the-election.md` — the press as faction instrument; the election as multi-session operation
+
+### Part V — The Wild Country
+
+- `20-weather-and-the-trail.md` — a regional weather generator and three disaster operations, plus the drought
+- `21-deep-wild-land-exploration.md` — river, forest, and mountain as three modes of wilderness travel
+- `22-regional-encounter-tables.md` — states grouped by terrain and temper; shared D66 encounter tables
+- `23-winter-and-wintering.md` — winter as the season of scarcity; the count, the attrition, the spring thaw
+
+### Part VI — The Nation and the Decade
+
+- `24-mass-combat.md` — unit-scale skirmishes, attached player characters, the battle as operation
+- `25-robber-barons-and-their-work.md` — the great operators; the baron as faction, the work table, historical profiles
+- `26-the-political-scene-of-the-1870s.md` — the national party layer; the acts, the year-by-year metaplot timeline
 
 ### Scaffolded (in development)
 
-- `15-the-standoff.md` — the multi-party pre-shootout tension scene;
-  who breaks first, who backs down, the door into the fight
-- `16-the-wire.md` — the telegraph as a mechanical system; cost, speed,
-  cutting, interception, the wire-down condition
-- `17-mail-and-the-post.md` — the U.S. Mail as routes, cargo, score, and
-  vocation; the star-route contract as a faction lever
-- `18-banking-and-the-vault.md` — the bank job as operation; deposits,
-  safekeeping, the time-lock, the vault, the bank run
-- `19-weddings-funerals-and-the-church.md` — the ceremonial scenes; the
-  wedding as alliance, the funeral as accounting, the revival as event
-- `20-the-holdout.md` — the PC-scale homestead and cabin siege; the
-  defense track, the assault tactics, the dawn
-- `21-winter-and-wintering.md` — winter as the season of scarcity; the
-  provisions/fuel/feed attrition, the spring-thaw resolution
+The remaining situational gaps await development when a campaign calls
+for them: the deep exploration of specific river systems (the Missouri,
+the Colorado), the survey party as operation, the doctor as a business,
+the bounty-hunter vocation, and the holiday and festival calendar. Each
+has its raw material already written in the corebook and the 1870s
+supplement; the work is conversion, not invention.
 
 ## Where the engine understanding lives
 
@@ -72,26 +80,28 @@ this book.
 The chapters are written to be read in order, but each is a complete
 subsystem that can stand alone. The dependency order of the core set is:
 
-```
-Ch.2 Factions ──► Ch.4 Justice ──► Ch.8 Mass Combat
-                  Ch.5 Train Robbery
-Ch.3 Weather ──►  Ch.6 Cattle Drives
-                  Ch.7 Mining Claims
-```
+The book is organized into six parts, by the scope of the pressure each
+addresses — from the single tense moment, through the hearth and the
+work, through crime and the law, through the county's web, out into the
+wild country, and up to the nation. Within each part the chapters lean
+on one another, but any chapter can stand alone.
 
-- **Factions (Ch.2)** is foundational. Justice, Mass Combat, Mining, and
-  Cattle Drives all reference Standing and the Faction Roll.
-- **Weather (Ch.3)** is cross-cutting. It touches travel, drives,
-  campaigns, and any scene in the open.
-- **Justice (Ch.4)** and **Train Robbery (Ch.5)** are the crime-and-law
-  spine, fed by the outlaw chapter of the corebook.
-- **Cattle Drives (Ch.6)** and **Mining (Ch.7)** are the economic pair,
-  built on the corebook's business-outfit rules.
-- **Mass Combat (Ch.8)** consumes factions, weather, morale, and the
-  operation framework — read it last.
-
-The in-development chapters will lean on Factions (Ch.2), the season
-rules, and the outlaw operation framework, in roughly that order.
+- **Factions (Ch.14)** is the one to read early, even though it sits in
+  Part IV. Half the book reaches for it — crime, the county, the nation.
+- **The operation engine** (Progress-versus-Trouble, from the outlaw
+  chapter of the corebook) is the frame most chapters build on: the
+  drive, the robbery, the trial, the outbreak, the holdout, the battle.
+- **The season and the town** (corebook Ch.8) is where the long arc
+  lives; most seasonal enterprises (Ch.5–10) and the Winter Quarter
+  (Ch.23) resolve there.
+- **Crime (Part III) feeds the law**: train robbery and the atrocity
+  produce the `Wanted` that the trial and the rope (Ch.12) answer.
+- **The county (Part IV) is the social layer** above the individual and
+  below the nation — factions, families, paper, the wire, the mail, the
+  press.
+- **The nation (Part VI) is the weather** the county sits in — mass
+  combat resolves the wars, the robber barons press from above, and the
+  political scene sets the decade's climate.
 
 ## Design discipline
 

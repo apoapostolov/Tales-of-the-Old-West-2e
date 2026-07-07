@@ -71,7 +71,7 @@ for her. Her beat is the pencil behind the ear, the hand turning the
 ledger, the eyes on the door while she talks. The laconic register
 borrowed from the hands she feeds, but with the grammar whole.
 
-**Anchors.** Chapter 2 (Factions & Standing) and Chapter 3 (Weather).
+**Anchors.** Chapter 14 (Factions & Standing) and Chapter 20 (Weather).
 Appears in justice, mining, and cattle vignettes — her counter is where
 the county's business gets done.
 
@@ -100,7 +100,7 @@ feeling. Will say _I'd hate to leave that horse_ and mean everything
 else. The pause before a hard answer is its own line. Builds a smoke when
 the question is hard. Looks at the herd, not the man.
 
-**Anchors.** Chapter 6 (Cattle Drives). Appears in mass combat (he has
+**Anchors.** Chapter 7 (Cattle Drives). Appears in mass combat (he has
 seen the herds stampede at the smell of powder) and in the weather
 chapter (he has been caught on the high plains by a blue norther and
 marked by it).
@@ -130,7 +130,7 @@ have done._ Refuses to bluster. Refuses to pretend the law is more than
 it is. His beat is the spectacles off and on, the hand on the bad knee,
 the long look at the man in the dock before he speaks.
 
-**Anchors.** Chapter 4 (Justice, Trial & Incarceration). Appears in the
+**Anchors.** Chapter 12 (Justice, Trial & Incarceration). Appears in the
 factions chapter (the bench as an institution) and in mass combat (the
 law at the edge of a county that cannot keep order by itself).
 
@@ -160,7 +160,7 @@ will not come. His beat is the palm flat on the rock to feel what the ear
 cannot hear, the chew tucked in the cheek, the eyes on the ceiling. He
 refuses to guess about ground. _I'll go look,_ he says, and goes.
 
-**Anchors.** Chapter 7 (Mining Claims & the Ground's Promise). Appears in
+**Anchors.** Chapter 8 (Mining Claims & the Ground's Promise). Appears in
 the factions chapter (the miners' union and the company) and in weather
 (what the rains do to the tailings and the timbers).
 
@@ -193,7 +193,7 @@ Latinate drops and the humor comes through, dry and aimed upward. His
 beat is the hand on the carbine, the eyes on the country, the unhurried
 way he sits a horse. He refuses to be hurried by a man who outranks him.
 
-**Anchors.** Chapter 8 (Mass Combat & the Skirmish Line). Appears in
+**Anchors.** Chapter 24 (Mass Combat & the Skirmish Line). Appears in
 weather (campaigning in the blue norther), justice (the army as the long
 arm of a court that cannot keep order), and factions (the post and the
 people it patrols).
@@ -228,7 +228,7 @@ watches the ledger. Refuses to be hurried by a conductor; will be
 hurried by a low water level. His beat is the hand on the Johnson bar, the
 coal shovel, the wipe of the face with the rag.
 
-**Anchors.** Chapter 5 (Train Robbery & the Iron Horse). Appears in
+**Anchors.** Chapter 11 (Train Robbery & the Iron Horse). Appears in
 factions (the railroad as a power) and in the cast web (he is the one who
 brings the newspapers to Sandoval and the mail to Voss).
 
@@ -343,14 +343,14 @@ Each entry below names the anchor, the crossover, and the pressure the
 vignette plants. The full vignettes are drafted with their chapters; this
 is the plan they will be written to.
 
-### Chapter 2 — Factions & Standing
+### Chapter 14 — Factions & Standing
 **Anchor:** Adelina Sandoval. **Crossover:** Sam Riddle.
 **Pressure:** the county's web of debts and favors, and what it costs to
 call one in. Sandoval reads the ledger and chooses whose name to cross
 out. The chapter that follows explains how a faction moves when the
 player characters are not looking, and what Standing actually buys.
 
-### Chapter 3 — Weather & the Trail's Teeth
+### Chapter 20 — Weather & the Trail's Teeth
 **Anchor:** Adelina Sandoval. **Crossover:** Webb Calder (caught on the
 plain).
 **Pressure:** the country indifferent to the people in it. Calder comes
@@ -359,7 +359,7 @@ Sandoval puts the kettle on and does not ask yet. The chapter that
 follows is the weather generator and the disaster procedures — the
 engine for the thing that just walked through the door.
 
-### Chapter 4 — Justice, Trial & Incarceration
+### Chapter 12 — Justice, Trial & Incarceration
 **Anchor:** Judge Harlan Voss. **Crossover:** Sam Riddle (in the back of
 the room).
 **Pressure:** the reach of the law and its short grip. Voss holds court
@@ -368,7 +368,7 @@ with is sitting ten feet away unindicted. The chapter that follows is
 the trial as social conflict, the sentencing table, the jail, and the
 wire that can summon Carver's troop when the bench cannot keep order.
 
-### Chapter 5 — Train Robbery & the Iron Horse
+### Chapter 11 — Train Robbery & the Iron Horse
 **Anchor:** Dutch Miller. **Crossover:** Sam Riddle (who has done this
 work and is trying not to again).
 **Pressure:** the iron horse as a target and as a thing that does not
@@ -376,7 +376,7 @@ forgive a mistake. Miller sees the men at the obstruction and knows what
 is coming. The chapter that follows is the train as an operation — stop
 it, take it, run from it — and the railroad as a faction that remembers.
 
-### Chapter 6 — Cattle Drives & the Open Range
+### Chapter 7 — Cattle Drives & the Open Range
 **Anchor:** Webb Calder. **Crossover:** Sam Riddle (riding as an extra
 hand).
 **Pressure:** the herd as money on the hoof and as a thing that can kill
@@ -384,7 +384,7 @@ the men moving it. Calder reads the sky and the grass and the crew and
 decides whether to push. The chapter that follows is the drive as
 operation, the stampede, and the roundup as a seasonal enterprise.
 
-### Chapter 7 — Mining Claims & the Ground's Promise
+### Chapter 8 — Mining Claims & the Ground's Promise
 **Anchor:** Eli Pensinger. **Crossover:** Adelina Sandoval (at the
 counter, with the assay).
 **Pressure:** the ground's promise and the ground's cost. Pensinger sets
@@ -393,7 +393,7 @@ Sandoval fronts him the provisions against the season's ore. The chapter
 that follows is prospecting, the claim, the strike as a seasonal roll,
 and the dust as a Trouble that does not ask permission.
 
-### Chapter 8 — Mass Combat & the Skirmish Line
+### Chapter 24 — Mass Combat & the Skirmish Line
 **Anchor:** Sergeant Moses Carver. **Crossover:** Webb Calder (whose herd
 is the cause of the fight); Sam Riddle (in the wrong place).
 **Pressure:** the fight that is too big for the player characters'
