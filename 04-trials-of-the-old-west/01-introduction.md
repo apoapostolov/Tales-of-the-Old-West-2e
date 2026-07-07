@@ -40,7 +40,7 @@ What follows is a short account of each chapter, what it is for, and what a game
 
 ## A Note on What Is Coming
 
-The book is growing. Chapters in development will treat the moving of goods across distance as a livelihood and the iron horse as a tool of commerce; the saloon and the brothel as a business and a crossroads; the sickness and the fever as a pressure on every body of people in the West; the family and the feud as the web of blood and property that holds the county together and tears it apart; the great operators of the period and the work and the trouble they bring to a party; and the atrocities and the trade in people that the West ran on, rendered honestly as outlaw operations and as the setting's hard truth. These chapters will be built on the same engine and held to the same standard as the ones here.
+The book is growing. Chapters already scaffolded and awaiting development will treat the standoff — the tense, multi-party scene before the guns; the wire, as a mechanical system of cost, speed, and cutting; the mail and the post, as routes, cargo, score, and vocation; the bank and its vault, as the train robbery's twin; the wedding, the funeral, and the church service, as the ceremonial scenes that settle the county's accounts; the holdout, the homestead and cabin siege at PC scale; and winter, the season of scarcity that contracts the country and tests everything in it. Beyond those, a longer list waits in the wings — river and water travel, the land office and the contested deed, the regional encounter table, the press and the newspaper, the logging camp, the fur trade, the election, and the work of finance. These chapters will be built on the same engine and held to the same standard as the ones here.
 
 ## The Design Bible
 

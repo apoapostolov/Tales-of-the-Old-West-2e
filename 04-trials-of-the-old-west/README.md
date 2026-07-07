@@ -27,24 +27,37 @@ built from the engine the game already has.
   company and the union
 - `08-mass-combat.md` — unit-scale skirmishes, attached player
   characters, the battle as operation
-
-### In development
-
-- `09-running-trade-and-resources.md` — moving goods across distance as a
-  livelihood; the freighting outfit, the pack train, the supply run, and
-  the iron horse as a tool of commerce; the railhead as trade hub
-- `10-saloons-and-the-trade.md` — running a saloon or brothel as a
-  seasonal enterprise; the keeper, the girls, the games, the trouble
-- `11-sickness-and-the-fever.md` — the diseases of the West as a
-  pressure on characters, camps, towns, and drives
+- `09-running-trade-and-resources.md` — moving goods across distance as
+  a livelihood; the freighting outfit, the supply run, the iron horse as
+  commerce, the railhead as trade hub
+- `10-saloons-and-the-trade.md` — the saloon and brothel as seasonal
+  enterprise; the keeper, the girls, the games, the trouble
+- `11-sickness-and-the-fever.md` — the diseases of the West as a pressure
+  on characters, camps, towns, and drives
 - `12-families-and-feuds.md` — designing families, their nationalities,
   their traits, their properties, and the feuds and allegiances that
   bind them
 - `13-robber-barons-and-their-work.md` — the great operators of the
   period and the jobs and opportunities they offer a party
-- `14-atrocities-and-human-trade.md` — running marauding, captive-taking,
-  and the trade in people, as outlaw operations and as the setting's
-  hard truth
+- `14-atrocities-and-human-trade.md` — marauding, captive-taking, and the
+  trade in people, as outlaw operations and as the setting's hard truth
+
+### Scaffolded (in development)
+
+- `15-the-standoff.md` — the multi-party pre-shootout tension scene;
+  who breaks first, who backs down, the door into the fight
+- `16-the-wire.md` — the telegraph as a mechanical system; cost, speed,
+  cutting, interception, the wire-down condition
+- `17-mail-and-the-post.md` — the U.S. Mail as routes, cargo, score, and
+  vocation; the star-route contract as a faction lever
+- `18-banking-and-the-vault.md` — the bank job as operation; deposits,
+  safekeeping, the time-lock, the vault, the bank run
+- `19-weddings-funerals-and-the-church.md` — the ceremonial scenes; the
+  wedding as alliance, the funeral as accounting, the revival as event
+- `20-the-holdout.md` — the PC-scale homestead and cabin siege; the
+  defense track, the assault tactics, the dawn
+- `21-winter-and-wintering.md` — winter as the season of scarcity; the
+  provisions/fuel/feed attrition, the spring-thaw resolution
 
 ## Where the engine understanding lives
 

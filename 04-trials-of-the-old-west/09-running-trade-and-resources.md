@@ -151,10 +151,6 @@ The way-station — Sandoval's place, and the model for any trading post, road r
 
 A way-station keeper has a `Refuge`-style gauge with the county's traffic — a measure of who knows the place is safe, who knows it is open, who owes the keeper a favor for the night they spent by the fire. A high gauge means the county's freight and riders come through; a low gauge means they go around, and the trade dries up. The keeper's Season Roll is the engine of the place's fortunes, and the freighter's runs are the engine of its traffic. The two feed each other, which is how a way-station becomes an institution or a ruin.
 
-### The Cast on the Road
-
-This chapter gives two cast members their mechanical home. Sandoval's freight concern — the runs she contracts out, the way-bills she keeps, the crossings she holds — is the model for the trader who reads the county. Riddle, riding those runs for her, is the model for the hand who does the work and earns the wage and keeps his name out of the Trouble the road can bring. Dutch Miller's train, setting the goods down at the platform, is the model for the iron horse as commerce — the engine that sets the floor price and the rhythm of everything the freighter carries. A campaign that uses this chapter will find the trade is what binds the cast together: the train, the way-station, the run, the mine, the post, and the snowbound camp are all one road, and the people on it are all in each other's ledger.
-
 ### A Note on the Honest Trade
 
 The freighter's trade is the honest trade, in a county full of dishonest ones. The outlaw robs the train; the freighter ships on it. The rustler takes the herd; the packer carries the goods that feed the men who guard it. The trade is not always clean — a freighter will run whiskey to a dry camp, guns to a faction, or stolen goods for a fence, and the engine's `Standing` and `Wanted` tracks will catch the dirty runs the way they catch any other crime. But the freighter's living is made by the carrying, not the taking, and that distinction is the chapter's reason for being. A party that wants to make its living by the road rather than by the gun finally has the rules to do it.

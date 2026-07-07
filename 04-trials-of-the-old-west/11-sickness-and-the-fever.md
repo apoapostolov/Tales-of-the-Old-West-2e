@@ -104,10 +104,6 @@ The disease touches every system that gathers people, which is most of them.
 - **The camp and the mine.** The camp fever closes a mine for a season; the Mine Roll's Penalty column is where the outbreak's cost is felt.
 - **The troop and the column.** The camp fever and the smallpox broke more armies than the enemy did; the mass combat chapter's unit Strength steps down for every body of men the sickness takes.
 - **The family.** The childhood diseases are the engine of the family chapter's "secret about its dead" trait, and the reason a family with a lost child carries a weight the county can read.
-- **The way-station and the saloon.** Sandoval's porch quarantine, in the vignette, is the keeper's work — the keeping of the sickness at the door, at the cost of the human thing, which is to take the sick boy in.
-
-### The Cast in the Ward
-
-The chapter finds its cast at the bedside and the door. Sandoval's refusal to let the sick boy inside is the keeper's hardest trade, and the engine should let it cost her. Voss's courtroom, in the 1870s supplement, opened with a fever vignette — the wound that went bad, the doctor who stood too long, the woman who washed and washed — and that is the register this chapter works in. Pensinger's cough is the chronic cousin of the acute diseases here, the silicosis that is the mine's slow epidemic, and the mining chapter's dust is the sickness chapter's longest outbreak. The doctor — a figure the cast bible has not yet named — is the natural anchor for this chapter, and a campaign that uses it may add one: a tired man with a bag and a bottle of calomel, who rides to the sick and sits with them and rolls the dice the period gives him, and lives with the outcomes.
+- **The way-station and the saloon.** The keeper's work is the keeping of the sickness at the door, at the cost of the human thing, which is to take the sick boy in.
 
 The chapter's honest accounting is its reason for being. The West died of sickness more than anything else, and a rulebook that gives the bullet a chapter and the fever none is lying about the country. This chapter gives the fever its chapter, and lets the engine do its work without spectacle and without flinching.
