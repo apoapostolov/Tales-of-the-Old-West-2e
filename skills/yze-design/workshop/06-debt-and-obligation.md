@@ -78,7 +78,21 @@ Run this whenever a PC accepts help they cannot pay for up front:
 
 *The named-up-front rule is the fairness spine of the module (`19` FE1/FE5): players always know the cost before they commit.*
 
-#### Pay-down procedure (how Debt decreases)
+#### Offering a debt opportunity — the GM's procedure
+
+Debt only enters play when the GM (or the fiction) offers the party a favor they cannot pay for up front. This is the module's hook-generation step. Run it whenever the party is in need and a creditor is present:
+
+1. **Identify the need.** The party lacks something — money, access, a rescue, information, a way out. The GM names it: "You're short on silver for the bribe," "The guard is closing in and you have no exit," "You need the Archivist's key and he won't lend it."
+2. **Introduce the creditor.** An NPC or faction present (or contactable) who *can* provide what's needed. The creditor must have a reason to help — greed, obligation, a future lever, genuine allyship, a pact's terms. "The Fence offers to front you the silver — but she'll remember this."
+3. **Name the price openly.** The GM states the favor's weight (1/2/3 per the scale above) and the type (financial/social/moral/supernatural) *before* the player decides. This is the fairness rule — no hidden costs, no retroactive debt. "That's a 2-weight social favor. She'll owe you one later, and she'll call it in."
+4. **The player chooses.** Accept (accrue the Debt, gain the help now) or refuse (struggle on without). The GM does not pressure — the pressure is the situation, not the offer.
+5. **Record and narrate.** On acceptance, record the debt and narrate the transaction *as a relationship event*, not a ledger entry. "The Fence slides you the coin with a smile that says she's just bought a piece of your future."
+
+**When to offer:** offer a debt opportunity when (a) the party is stuck without help, (b) a significant favor would change the scene's direction, or (c) the fiction naturally presents a creditor who'd want leverage. Do not offer trivial debts (a meal, a directions) — those are just favors, no track needed. Offer when the favor is *big enough to be a future hook*.
+
+**The creditor's perspective:** every NPC who extends a favor is buying a future lever. Play them accordingly — the Fence who fronted the silver *will* come calling; the Lord who lent his name *will* expect a vote. The module's pressure comes from the GM treating every outstanding debt as a loaded gun on the table, not a forgotten entry on a sheet.
+
+#### Pay-down procedure (when Debt decreases)
 
 Debt is reduced only by **settling** the obligation in-fiction. Run the appropriate path by type:
 

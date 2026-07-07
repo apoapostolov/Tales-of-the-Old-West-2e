@@ -74,15 +74,17 @@ A **shift** is ±1 rung, awarded by a graded chase roll (P3). The track is short
 
 Each Round, every participant (PC or NPC) picks **one** chase job from a fixed menu. The menu is designed so that the four critical demands of a chase — *move, navigate, threaten, keep going* — are **mutually exclusive**. You cannot drive flat-out, pick the fast line, shoot, and nurse an overheating engine at the same time. This is P6's load-bearing constraint, transferred from travel (`06 §5`) to pursuit: the crew is always short of hands, so *who does what* is the tactic.
 
-| Job | Action type | What it does | Core roll |
-| --- | --- | --- | --- |
-| **DRIVE / RUN** (move) | Slow | Gain a position shift toward your goal (hunter→0, quarry→escape). The baseline offensive action. | Drive / Running / Piloting |
-| **NAVIGATE** (cut them off) | Slow | Pick a faster line through terrain/traffic; on a graded success, grant a shift *or* impose a shift on the opponent (a wrong turn forced). Solo job — one navigator per vehicle. | Survival / Navigation / Streetwise |
-| **SHOOT / RAM / FORCE** (threaten) | Slow or Fast | Apply pressure that degrades the opponent's next roll, or force a **Hazard roll** (see below). Cannot also DRIVE this Round. | Ranged / Melee / Drive (for ramming) |
-| **REPAIR / BRACE** (keep going) | Slow | Roll the **resource die** up (P5) — cool the engine, patch a tire — *or* cancel an incoming Hazard. The defensive/supply action. | Crafting / Mechanics / Composure |
-| **JOCKEY** (fast) | Fast | A quick feint/block/reroute — a fast-action mini-DRIVE for a half-shift, or a deflection (the chase's "dodge"). | Drive / Running |
+**DRIVE / RUN** is a SLOW action and the baseline offensive move — you move toward your goal, the hunter toward Caught, the quarry toward escape. Roll DRIVE, RUNNING, or PILOTING (whichever the vehicle or pursuit warrants). On a graded success, gain a position shift toward your goal — one rung closer to the threshold that ends the chase.
 
-**The exclusions are the mechanic.** A two-person crew must split DRIVE + NAVIGATE and give up SHOOT and REPAIR; a four-person crew can cover all four but someone is still not doing something. A lone driver must pick *one* and accept the others go undone — which is exactly why a lone fugitive is vulnerable and a crewed vehicle is powerful. This is the same constraint that makes FL travel a labor puzzle (`06 §5`), now operating at combat speed.
+**NAVIGATE** is a SLOW action and the route-picking job — you choose the faster line through terrain or traffic, or force the opponent down a bad one. It is a solo job: only one navigator per vehicle per Round. Roll SURVIVAL, NAVIGATION, or STREETWISE. On a graded success, you may either grant yourself a position shift or impose a shift on the opponent — a wrong turn forced, an alley they have to back out of. A critical success can do both. This is the distinguishing tactic of a chase: the chase is won by route choice, not raw speed.
+
+**SHOOT / RAM / FORCE** is a SLOW or FAST action (your choice, set by the fiction — a shot from the hip is fast; a deliberate ram is slow) that applies pressure degrading the opponent's next roll, or forces a Hazard roll (see below). Roll RANGED, MELEE, or DRIVE (for ramming). You cannot also DRIVE this Round — you cannot shoot and drive flat-out at the same time.
+
+**REPAIR / BRACE** is a SLOW action and the defensive and supply move — you roll a resource die up (P5) to cool an overheating engine, patch a tire, or catch your breath, or you cancel an incoming Hazard. Roll CRAFTING, MECHANICS, or COMPOSURE. This is the action that keeps the chase going when the machine or the runner is failing — but it costs you a Round of ground, because you are not driving.
+
+**JOCKEY** is a FAST action — the chase's mini-move: a quick feint, a block, a reroute, or a deflection. It is the chase's "dodge." Roll DRIVE or RUNNING. On a success, gain a half-shift (round down — two JOCKEYs make one full shift), or cancel an opponent's shift. This is what you do when you have already spent your SLOW action and need to defend or press a small advantage.
+
+**The exclusions are the mechanic.** A two-person crew must split DRIVE and NAVIGATE and give up SHOOT and REPAIR. A four-person crew can cover all four jobs, but someone is still not doing something. A lone driver must pick one and accept that the others go undone — which is exactly why a lone fugitive is vulnerable and a crewed vehicle is powerful. This is the same constraint that makes travel a labor puzzle (`06 §5`), now operating at combat speed.
 
 #### Hazards (the consequence layer — typed D66)
 

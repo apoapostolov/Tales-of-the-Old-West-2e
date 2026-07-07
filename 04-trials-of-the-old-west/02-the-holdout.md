@@ -34,6 +34,56 @@ The holdout's clock is set when the operation begins. The most common clock is *
 
 A holdout is resolved in **Holdout Rounds**, each representing a beat of the siege — a rush, an exchange of fire, an hour of tension, a lull. Each Holdout Round, the attackers choose an assault tactic (below), the defenders choose a response, and the exchange is resolved with a single opposed roll: the attackers' pool against the defenders' pool.
 
+### The Cabin's Interior
+
+The Breach track (below) is the siege's outer measure — how close the attackers are to breaking in. But the interior of the cabin is its own problem, and the defenders are managing three things while they hold the walls: the **ammunition**, the **wounded**, and the **fire**. These are not a second operation layered on the Breach track; they are the *contents* of the Breach track's Trouble, made concrete and playable, so the GM can make the inside of the cabin feel like a place under siege rather than an abstraction.
+
+#### Ammunition as a Resource Die
+
+The cabin's ammunition is tracked as a **resource die** — the same primitive the outlaw band's `Provisions` die uses, applied to the cabin's powder and lead. The die is set by what the defenders laid in before the siege began.
+
+| The Cabin's Stores | Ammo Die |
+| --- | --- |
+| A few boxes, a handful of loose rounds | `D6` |
+| A decent stock — a full box per defender | `D8` |
+| A well-stocked cabin or a way-station's stores | `D10` |
+| A fort or a prepared position | `D12` |
+
+Each Holdout Round in which the defenders sustain fire (any Round that is not a pure lull or a parley), roll the ammo die. On a **1–2**, the die steps down one size. At **D4**, the cabin is down to the last rounds — sidearms, the shotgun's final shells, the few cartridges a defender kept in his pocket. At **D4 exhausted** (a 1–2 on the D4), the defenders are out of cartridges and down to edged weapons, revolvers held as clubs, and the ammunition's silent partner: the decision to shoot or not to shoot, which the ammo die forces on the defenders long before the Breach track would have.
+
+The ammunition is the defenders' clock inside the siege. A cabin that holds the walls until dawn may still lose the fight if the ammo runs out at 4 a.m. and the last rush comes at 5, and the engine should let that tell — the ammo die is the resource that makes the holdout a *management* problem, not just a rolling problem.
+
+#### The Wounded Gauge
+
+The cabin's wounded are tracked on a **Wounded gauge** (1–5), the inverse of the outlaw chapter's `Cohesion`. Each defender who is taken down a condition-ladder rung by the siege — a hit through the loophole, a splinter-wound to the eye, a man thrown by the blast of a charge — steps the Wounded gauge up by one.
+
+| Wounded | The Cabin's Medical State |
+| --- | --- |
+| `1-2` | A man hurt, still fighting. The `DOCTORIN'` roll patches him between Rounds; the defense holds. |
+| `3` | A medical problem. The wounded cannot all be treated between Rounds; one is out of the fight, the others are hurting. The `DOCTORIN'` roll is under fire and at `-1 die` for the work's conditions. |
+| `4` | The cabin is half a hospital. Two defenders are down; the remaining are splitting their time between the loops and the wounded. Defense rolls at `-1 die` while the work is split. |
+| `5` | The cabin is a hospital with guns. The defense is barely holding; the wounded are dying if they are not already dead, and the `DOCTORIN'` roll is the only thing between the cabin and a surrender. |
+
+The Wounded gauge is the holdout's human cost, and it gives the `DOCTORIN'` ability and the doctor-PC (or the hand with the bandages and the grit) a distinct role in the siege that the Breach track alone could not. A cabin that holds its walls but fills its Wounded gauge has won a siege it may not survive, and the engine should let that weight land on the defenders and the county.
+
+#### The Fire as a Procedure
+
+The Breach track is the slow clock. The fire, once it is lit, is the fast one. When the attackers choose the **Fire the roof** assault tactic (tactic 2, below), the fire is not a single Trouble step — it is a **second clock** that runs alongside the Breach track, and the defenders must answer it or lose the cabin to it.
+
+Once the roof is alight, the fire is tracked by its **spread**: each Holdout Round the fire is unchecked, it advances one **room** closer to the cabin's last defensible space (the cellar, the back room, the stone chimney-corner the cabin was built around). The spread is the fire's Progress track, and the defenders may spend a Round's actions fighting it — a `LABOR` roll to beat out the spot-fires and tear away the burning shakes, or a `MAKIN'` roll to rig a bucket-line from the water barrel — which, on success, holds the fire's spread for a Round (buys time) and, on a critical, pushes it back a room (the fire is losing). A failed roll means the fire spreads and the action was wasted, which is the cost of dividing the defense between the loopholes and the roof.
+
+A fire that reaches the last room is the fire that ends the holdout — the defenders must abandon the cabin (into the attackers' hands, or into the night) or burn. The fire is the holdout's most cinematic pressure and its most inexorable clock, and the engine should let it be what it was in the actual frontier: the thing that could end a siege in an hour that the Breach track would have taken all night to finish.
+
+> _Calder counted the ammo die — D8, which was two more Boxes than a man ought to need for one night, which was one more than a man ought to count on — and he counted the wounded gauge, which was at two, which was the hand with the splinters in his eye and the boy who had taken the ricochet in the shoulder and was lying behind the stove with the rifle he could not lift. And he counted the roof, which was not yet alight but which the eight men outside had the means to light, and which the cabin had no answer for that Calder had not already thought of and found wanting._
+>
+> "How many rounds?"
+>
+> "Twelve in the .50. Six in the cylinders. The shotgun."
+>
+> "Then we don't shoot unless we shoot to hit." Calder did not take his eye from the loophole. "And we pray they don't fire the roof, because if they fire the roof we are fighting two sieges and we have the men for one."
+>
+> _That was the cabin's interior — the ammo die, the wounded gauge, and the fire that had not come yet but that Calder could smell in the kerosene the attackers had brought, which was the smell a man learned to read the way he read the weather, which was the smell of a holdout that might not end at dawn._
+
 #### The Attackers' Pool
 
 The attackers' pool is set by their number and quality (read off the mass-combat chapter's Quality tiers if they are a unit, or the outlaw chapter's band factors if they are a gang). A larger, better-led force rolls more dice; a smaller or demoralized force rolls fewer.
@@ -77,6 +127,8 @@ Compare the attackers' and defenders' successes. The holdout's Breach track move
 
 When the Breach reaches the limit, the holdout's outer defense fails and the fight moves indoors (below). When the clock runs out before the Breach reaches the limit, the holdout succeeds — the attackers break, the relief arrives, the dawn exposes the attackers to a county that can see them.
 
+The Breach track is the siege's outer clock, but it is not the only clock running. The **Cabin's Interior** gauges (above) run alongside it. A Round of sustained fire from the defenders steps the **ammo die** down on a 1–2. A defender taken down a condition-ladder rung by a Breach result (a hit, a splinter, a blast) steps the **Wounded gauge** up by one. A fire that is lit and unchecked spreads a room each Round toward the cabin's last space. The GM should name which interior pressure each Breach result worsens — the wall that splintered also cost the defender at the loophole a `Hurts` (step the Wounded gauge), the rush that was repelled also spent the defenders' ammunition (roll the ammo die). The interior is the Breach track's human and material cost, and the holdout is won or lost on both.
+
 ### Assault Tactics Table
 
 Each Holdout Round, the attackers choose or roll an assault tactic. The tactic sets the character of the round and may apply a modifier.
@@ -84,7 +136,7 @@ Each Holdout Round, the attackers choose or roll an assault tactic. The tactic s
 | D6 | The Assault Tactic |
 | --- | --- |
 | `1` | **Rush the door.** A direct attempt to force the entry. The choke point favors the defenders (`+1 die`); the attackers are betting on numbers. |
-| `2` | **Fire the roof.** An attempt to burn the defenders out. `MAKIN'` or `LABOR` to set it; the defenders must spend the round fighting the fire or take a Breach step each Round it burns. Hooks the corebook's fire rules. |
+| `2` | **Fire the roof.** An attempt to burn the defenders out. `MAKIN'` or `LABOR` to set it; the defenders must spend the round fighting the fire or take a Breach step each Round it burns. Once the roof is alight, the fire becomes its own **spread clock** — see _The Fire as a Procedure_ (above), for the room-by-room spread and the defenders' options to hold or push it back. Hooks the corebook's fire rules. |
 | `3` | **Starve them out.** The attackers settle in and wait. No Breach this Round, but the clock advances and the defenders' `Provisions` (if used) and `RESILIENCE` are tested by the wait. |
 | `4` | **The parley.** The attackers offer terms — surrender, the thing they came for, a truce until dawn. A social conflict (the standoff chapter, the social-conflict rules); if the defenders refuse, the next rush is at `+1 die` (the attackers' blood is up). |
 | `5` | **The feint.** A false rush at the door to draw the defenders' fire while the real approach comes from the side. `INSIGHT` vs the defenders' `HAWKEYE` to read it; a failed read applies the attackers' rush at `+1 die`. |
@@ -110,6 +162,9 @@ The holdout is the PC-scale siege the mass-combat chapter skips and the standoff
 - **The mass-combat chapter** is the holdout's unit-scale cousin — when the attackers are a unit, the holdout uses the mass-combat Quality tiers to set the attackers' pool.
 - **The corebook's conflict rules** (Ch.5) resolve the room-by-room breach and any individual fight within the holdout. The holdout is the frame; the combat Round is the room.
 - **The weather chapter** sets the night's conditions — a blizzard holdout, a rain holdout, a dust-storm holdout — which apply to both sides and to the clock.
-- **The optional `Provisions` die** is the holdout's ammunition tracker, stepped down by each exchange, and its exhaustion is the holdout's quiet killer.
+- **The ammo die** (the Cabin's Interior, above) is the corebook's consumables-as-resource-dice rule and the outlaw chapter's `Provisions` die, applied to the cabin's powder and lead. Its exhaustion is the holdout's quiet killer.
+- **The Wounded gauge** (above) hooks the sickness chapter (the infection risk in a cabin that cannot keep its wounded clean) and the corebook's `DOCTORIN'` ability (the under-fire surgery, the triage between Rounds).
+- **The fire** (above) hooks the corebook's non-typical-harm fire rules and the weather chapter (a fire in a blizzard is a different crisis than a fire in a drought; the wind feeds it or the rain starves it).
+- **The optional `Provisions` die** (food and water, distinct from the ammo die) applies to a long siege's starvation clock, stepped down if the holdout runs past the night the defenders prepared for.
 
 The cabin was the only fort the frontier had, and the night some men tried to take it was the night the county learned what the people inside were made of. A chapter that gives the cabin a door, the walls a value, and the dawn a clock gives the campaign its most personal siege — not the column on the ridge, but the four people in the dark, with the door barred, counting the rounds and the hours, and praying the third outlasts the fourth.

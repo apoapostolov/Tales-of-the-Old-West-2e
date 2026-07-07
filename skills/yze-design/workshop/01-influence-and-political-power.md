@@ -45,14 +45,21 @@
 
 | Spend | Cost (Influence) | Effect |
 | --- | --- | --- |
-| Gain audience/access with a figure who would otherwise refuse | 1 | The meeting happens; no roll required. |
-| Compel a NPC of lesser standing to do something within their power | 1 | Minor ask (a letter, a passage, a small lie). |
-| Compel a NPC of equal standing | 2 | Moderate ask (a vote, a timely appearance, a concealment). |
-| Compel a NPC of greater standing | 3 | Major ask (a pardon, a contract, a public endorsement). |
-| Absorb a social failure (cancel one failed social roll's consequence) | 1 per consequence | "Throw your weight around" — the failure is negated, but the spend is visible. |
-| Shift a settlement/faction decision by one step | 2 | E.g. a verdict from "guilty" to "suspended," a tender from "rival" to "you." |
+#### Spend-cost schedule
 
-*Stakes test:* if the ask exceeds what the NPC *can* do or *would* do for anyone of your standing, the GM rules the spend invalid — Influence is not mind control.
+**Gain audience** with a figure who would otherwise refuse you. Cost: 1 Influence. The meeting happens; no roll is required. Your name opens the door.
+
+**Compel a NPC of lesser standing** to do something within their power. Cost: 1 Influence. This is a minor ask — a letter written, a passage granted, a small lie told on your behalf. The NPC complies because refusing you costs more than obeying.
+
+**Compel a NPC of equal standing.** Cost: 2 Influence. This is a moderate ask — a vote cast your way, a timely appearance at a gathering, a concealment of something you'd rather not have known. The NPC complies, but they expect the favor remembered.
+
+**Compel a NPC of greater standing.** Cost: 3 Influence. This is a major ask — a pardon issued, a contract awarded, a public endorsement. You are calling in chips with someone who outranks you, and the spend reflects the weight of the ask.
+
+**Absorb a social failure.** Cost: 1 Influence per consequence negated. You throw your weight around — the failed roll's consequence is canceled, the social misstep is smoothed over. The spend is visible: everyone saw you lean on your name to escape the result.
+
+**Shift a settlement or faction decision by one step.** Cost: 2 Influence. A verdict moves from "guilty" to "suspended." A tender moves from "the rival" to "you." A patrol route shifts away from your district. You are not changing minds; you are changing outcomes.
+
+*Stakes test:* if the ask exceeds what the NPC can do or would do for anyone of your standing, the GM rules the spend invalid. Influence is not mind control — it is the weight of your name, and it has limits.
 
 #### Earning Influence — the Public Act table (D66)
 

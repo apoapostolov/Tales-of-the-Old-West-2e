@@ -82,7 +82,129 @@ When a social scene has high stakes, an opponent with an agenda, and real conseq
 
 #### The action economy (identical to combat)
 
-Per Round: **1 slow + 1 fast, OR 2 fast.** Reactions (deflections) draw from the same budget. Slow actions: a speech, a revelation, a pointed question, an appeal. Fast actions: a quip, a deflection, a gesture, a small lie, a distance-move (except to Public). Defending (parry/dodge) is a reaction.
+Per Round: **1 slow + 1 fast, OR 2 fast.** Reactions (deflections) draw from the same budget — a reaction costs your fast action. Below are the full action lists for Social Combat. Each is a reskin of the combat action tables (`03 §7`); the verbs change, the economy does not.
+
+#### Slow actions (choose one per Round)
+
+**SPEECH** is a SLOW action and the baseline offensive move — a full rhetorical turn: a speech, an argument, a case laid out before the room. Roll MANIPULATION or PERFORMANCE (plus your attribute plus any leverage you spend). On a success, you deal Composure damage per the damage formula. This is what most attacks in a Social Combat look like.
+
+**REVELATION** is a SLOW action that deploys a secret, a fact, or a piece of evidence publicly. It requires leverage — you must have something to reveal. Roll MANIPULATION or PERFORMANCE plus the leverage die. The damage is as a SPEECH, but if the leverage was a secret, it is consumed and becomes public knowledge. You cannot take it back, and everyone in the room now knows what you revealed.
+
+**APPEAL TO VALUE** is a SLOW action that invokes something the audience holds dear — honor, piety, family, duty, profit, freedom. The audience is the target, not the opponent. Roll PERFORMANCE plus your attribute. On a success, the audience modifier shifts toward you by 1, and the opponent takes −1 to their next roll as the crowd's favor turns against them. This is the move for turning a room, not for breaking a person.
+
+**POINTED QUESTION** is a SLOW action that forces the opponent to answer. Roll MANIPULATION opposed against the opponent's INSIGHT. On a win, the opponent must either answer (costing their fast action) or dodge the question and take a −1 penalty to their next roll for evading. A POINTED QUESTION deals no damage, but it sets up your next move — the opponent is on the back foot, and the audience is watching how they respond.
+
+**PUBLIC DECLARATION** is a SLOW action that moves the conversation to Public distance and makes a statement that cannot be taken back — a denunciation, a proposal, a threat, a verdict. Roll PERFORMANCE plus your attribute. The damage is as a SPEECH at Public distance, and the statement is permanent: you cannot later claim you didn't say it. The speaker's Reputation is now on the line. A failed PUBLIC DECLARATION triggers a Scandal Roll (`workshop/01`) — the crowd watched you stake your name and lose.
+
+**EXPOSE / SHAME** is a SLOW action that turns the audience against the opponent by highlighting a flaw, failure, or hypocrisy. Roll MANIPULATION resisted by the opponent's Composure. On a success, the opponent loses 1 Composure per ⚔ rolled, and the audience shifts toward you by 1. On a failure, the audience finds you cruel rather than convincing — the audience shifts toward the opponent by 1. This is a high-risk, high-reward move: land it and the room turns; miss it and you look like a bully.
+
+**BUILD RAPPORT** is a SLOW action that lowers the opponent's guard — a warm anecdote, a shared memory, a concession, an appeal to your shared history. Roll MANIPULATION opposed against the opponent's INSIGHT. On a success, the opponent's next attack takes a −1 penalty; they are softened. This deals no damage. A failed BUILD RAPPORT makes you look weak — the audience shifts −1 toward the opponent. Use this when you have time to set up a bigger move.
+
+**COMPROMISE / OFFER** is a SLOW action that proposes a deal. No roll — the offer is the action. The opponent can accept, ending the scene on agreed terms, or refuse. A refusal is public: the audience sees them as unreasonable, and the opponent takes −1 to their next roll. This is the exit valve — when you want the scene to end without a clear winner, or when you're losing and want to salvage something.
+
+#### Fast actions (choose one per Round, or two if you forgo your slow action)
+
+**QUIP** is a FAST action — a quick jab, a one-liner, a sarcastic aside, a cutting remark. Roll MANIPULATION or PERFORMANCE. On 2 or more ⚔, deal 1 Composure damage. A QUIP cannot crit — it is light pressure, not a killing blow.
+
+**DEFLECT** is a FAST action — the social parry. Absorb an incoming attack with composure or insight. Roll INSIGHT or the relevant social ability against the attacker's ⚔ count. Each ⚔ you roll cancels one of the attacker's successes, reducing the damage. This is the reliable defense: it never fully avoids an attack, but it always reduces it.
+
+**COUNTER** is a FAST action that turns an opponent's attack against them — "you would say that," "is that what you told them, too?" You must DEFLECT first; the COUNTER is a follow-up. Roll INSIGHT against the attacker's MANIPULATION or PERFORMANCE. On a success, deal 1 Composure damage back to the attacker. A COUNTER uses both your fast actions — you cannot also QUIP or GESTURE this Round.
+
+**GESTURE / PROPS** is a FAST action — a gesture, a brandished letter, a meaningful glance at a witness. No roll. You bank a +1 bonus to your next SLOW action. This does not stack — you can only hold one banked bonus at a time. This is the setup move: it costs your fast action now to make your next speech land harder.
+
+**SMALL LIE** is a FAST action — a minor falsehood: "I heard he was there too," "the Cardinal said as much." Roll MANIPULATION opposed against the opponent's INSIGHT. On a success, bank a +1 to your next attack. On a failure, you take −1 to your next roll and the audience shifts −1 toward you — they caught you, and the room noticed.
+
+**INTERRUPT** is a FAST action that cuts the opponent off mid-speech. Risky but disruptive. Roll MANIPULATION opposed against the opponent's WITS. On a success, cancel the opponent's SLOW action — they lose it. On a failure, you lose your next SLOW action: the crowd finds you rude, and you've ceded the floor.
+
+**DISTANCE MOVE** is a FAST action that shifts the social distance one band — from Intimate to Personal, Personal to Professional, or back. No roll is required unless the opponent contests it (they may spend a fast action to block the move). Moving to Public distance is a SLOW action, not a fast one — a PUBLIC DECLARATION is a dramatic act, not a casual shift.
+
+#### Reactions
+
+Reactions cost your fast action. You may react once per incoming attack. If you have already spent your fast action, you cannot react.
+
+**DEFLECT** (parry) is a reaction used when an attack lands on you. Roll INSIGHT or the relevant social ability. Each ⚔ you roll cancels one of the attacker's ⚔, reducing the damage. This is the reliable defense — it always reduces, never fully avoids.
+
+**DODGE** is a reaction used when an attack lands on you. Roll WITS or the relevant social ability. On 2 or more ⚔, you avoid the attack entirely — no damage. On 0 or 1 ⚔, you take full damage. This is the high-risk, high-reward defense: it can save you completely, or it can fail and leave you exposed.
+
+**RIPOSTE** is a reaction used after a successful DEFLECT. Roll MANIPULATION or PERFORMANCE opposed against the attacker's INSIGHT. On a success, deal 1 Composure damage back to the attacker. A RIPOSTE costs your fast action — you cannot also act this Round. This is the counterattack: you defended, and now you sting back.
+
+#### Stunts (surplus successes)
+
+Any ⚔ beyond the first on an attack may be spent on stunts, exactly as in physical combat (`03 §7`). Choose one stunt per surplus ⚔:
+
+**Extra damage.** +1 Composure damage. May be taken multiple times if you have multiple surplus ⚔.
+
+**Force a distance shift.** Move the opponent one band — toward Intimate to soften them, toward Public to expose them. They cannot resist; the shift is the cost of your success.
+
+**Expose a tell.** Bank a +1 to your next attack against this opponent. They have shown a weakness, and you saw it.
+
+**Rally the audience.** Shift the audience modifier toward you by 1. The room is with you.
+
+**Discredit leverage.** If the opponent used leverage this Round, nullify its damage. The leverage is still consumed — they spent it for nothing, and everyone saw it fail.
+
+**Force a retreat.** The opponent loses their next FAST action. They are back on their heels, struggling to respond.
+
+**Open a vulnerability.** The opponent takes −1 to their next defense. They are off-balance, and your next move will land cleaner.
+
+#### Crowd / audience modifiers
+
+When the **audience-as-modifier** dial is on, the scene has an **audience rating** — a number from −3 (hostile) to +3 (favorable) representing the room's current lean. It starts at the GM's call: often 0 for a neutral room, or set by the fiction (a rival's home turf starts at +1 toward the rival). The audience rating applies as a modifier to both speakers' attack rolls, but in opposite directions — a favorable audience adds to your attacks and subtracts from your opponent's.
+
+**Hostile (−3).** The room is against you. You take −1 to your attacks; your opponent gains +1. The audience may interrupt — the GM rolls 1D6, and on a 1 a heckler disrupts your next action.
+
+**Cool (−1).** The room leans away from you. You take −1 to your attacks.
+
+**Neutral (0).** No modifier. The room is waiting to be convinced.
+
+**Warm (+1).** The room leans toward you. You gain +1 to your attacks.
+
+**Favorable (+2).** The room is with you. You gain +1 to your attacks; your opponent takes −1.
+
+**Rapt (+3).** The room hangs on your words. You gain +2 to your attacks; your opponent takes −1. But a failed attack at Rapt triggers an audience backlash — the rating drops to Cool (−1). "We expected better."
+
+**What shifts the audience.** A successful APPEAL TO VALUE shifts the audience +1 toward the speaker. A successful EXPOSE / SHAME does the same, but only if the audience shares the value invoked — a cynical crowd won't care about hypocrisy. A critical hit (3⚔) shifts the audience +1. A failed Public Declaration shifts the audience −2 toward the speaker — the crowd turned. A successful BUILD RAPPORT shifts the audience +1. A visibly cruel move — an EXPOSE that fails, or a QUIP targeting a sympathetic figure — shifts the audience −1 toward the speaker, at the GM's judgement.
+
+**Audience size matters.** A small audience (2–5 witnesses) shifts ±1 per trigger. A large audience (a ballroom, a courtroom gallery) shifts ±2 per trigger — the crowd amplifies everything. A mob (an angry crowd) shifts ±1 per Round toward its existing lean unless someone acts to sway it — a mob is a clock, and it is ticking.
+
+#### Environmental / social-context modifiers
+
+The setting of the social combat grants modifiers, exactly as terrain grants modifiers in physical combat (`03 §5`).
+
+**Formal / ritualized** settings — a court, a courtroom, a ceremony — grant +1 to appeals based on authority, protocol, or precedent, and impose −1 on intimacy or personal appeals. Speakers using rank, protocol, or formal procedure fight from strength here.
+
+**Informal / intimate** settings — a back room, a bedchamber, a fireside — grant +1 to intimacy, vulnerability, and threat, and impose −1 on formal protocol. Speakers at Personal or Intimate distance fight from strength here.
+
+**A public stage** — a podium, a dais, the floor of a hall — grants +1 to Public-distance moves and doubles all reputation effects, both gains and losses. A triumph on the stage is twice as sweet; a fall is twice as far.
+
+**Sacred ground** — a temple, a shrine, a consecrated hall — grants +1 to appeals to faith or piety and imposes −1 on lies and threats. A lie caught on sacred ground triggers a Scandal Roll (`workshop/01`) at +1 severity. The divine is watching.
+
+**A professional domain** — a guildhall, a barracks, a market floor — grants +1 to the domain's masters and imposes −1 on outsiders. The home team knows the room, the rules, and the people.
+
+**Neutral ground** — a roadside inn, a foreign court, a neutral meeting point — grants no modifier, but neither speaker gets a home advantage. Both fight on even terms.
+
+**Hostile territory** — the opponent's home, their faction's turf — imposes −1 on the visitor to all rolls. You are out of your element, and everyone knows it.
+
+#### Multi-participant social combat
+
+Social Combat scales beyond 1v1. The action economy and distance rules still apply; the differences are in how turns are allocated and how damage flows.
+
+**Two against one.** The lone speaker takes two full turns per Round — one against each opponent — but each turn is a separate slow+fast set. This is exhausting but not action-starved: the lone speaker is defending on two fronts. The pair may coordinate: one can set up (BUILD RAPPORT, POINTED QUESTION) while the other strikes. Coordination requires the fast action of the striker to receive the cue. The lone speaker may focus on one opponent per Round; the other gets a free QUIP — a fast jab, no roll needed, 1 damage on 2+ ⚔ — representing the ignored opponent pressing their advantage.
+
+**Two against two (or team versus team).** Each side rolls initiative once; teammates alternate turns. A teammate may defend another by spending their fast action to DEFLECT for their partner — the spokesperson shielding a principal. Optionally, a side may share a single Composure pool (the sum of both members') rather than tracking separately. This is simpler, but a single Broken breaks both.
+
+**Three-way or chaotic.** A debate, a council, a squabble — each speaker has their own Composure and their own agenda. The audience modifier splits: track the audience's lean toward each speaker, or simplify by giving the current frontrunner +1. Cross-fire is the danger: a speaker attacked by two others in one Round may only DEFLECT one of the attacks. The other lands unopposed. The exception is COVER GROUND — a general defense that costs a slow action, deals no damage, but reduces all incoming damage this Round by 1.
+
+#### Escalation — when a single roll becomes a Social Combat
+
+Not every social roll should become a scene. Use this procedure to decide when to escalate:
+
+1. **The roll is made** (a social skill check, per `03 §11`).
+2. **Check the triggers:** (a) high stakes (reputation, a marriage, an alliance, a confession, a verdict); (b) an opponent with an agenda who will not simply yield; (c) real consequence on failure.
+3. **If all three are present and the roll fails (or succeeds narrowly):** the GM offers escalation — "This isn't over with a single roll. Do you want to press this into a scene?" The player may accept or concede.
+4. **If the player accepts:** begin Social Combat. The initiating roll's result carries forward: a success grants the escalator +1 to their first attack (they have the floor); a failure grants the opponent +1 (they're on the back foot).
+5. **If the player declines:** the single-roll result stands. The NPC's reaction is as the roll dictated.
+
+**GM guidance:** escalate when the fiction demands a scene — when the outcome matters enough that a single roll feels like a cheat. Do not escalate for routine persuasion, bartering, or information-gathering. The rule of thumb: if the *players* would feel shortchanged by a single roll resolving this, escalate. If they'd feel bogged down by a scene, don't.
 
 #### The Social Fallout table (typed D66)
 

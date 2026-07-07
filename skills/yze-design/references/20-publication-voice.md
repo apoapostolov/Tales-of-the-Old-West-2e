@@ -331,11 +331,13 @@ This file teaches **register** — the designer-to-player translation. It does n
 
 - **Fiction voice** (prose style, tone, genre diction) → use `forbidden-lands-writing-voice` (FL) or `western-writing` (West).
 - **Adventure structure & published-adventure register** → use `adventure-writing` (system-agnostic; its "Published register" section is the companion to this file for adventure text specifically).
-- **Game-specific manuscript conventions** (statblock format, chapter structure, example-of-play format) → use `forbidden-lands-design` or `western-rpg-design`.
+- **Engine-level manuscript formatting** (ALL-CAPS names, paragraph format for maneuvers, SLOW/FAST inline, symbols, rule-voice) → use `21-manuscript-format.md` in this skill. These conventions are engine-level (true for any YZE game) and owned by `yze-design`.
+- **Game-specific manuscript chrome** (FL's statblock table layout, West's 8-column NPC table, chapter structure, example-of-play format) → use `forbidden-lands-design` or `western-rpg-design`. These are game-specific layout choices, not engine conventions.
 
 **The workflow when writing publication text for a YZE game:**
 1. Use `yze-design` to design the rule or subsystem.
-2. Load **this file** (`20-publication-voice`) to translate the design into publication register.
-3. Load the relevant game-specific writing skill (`forbidden-lands-writing-voice` or `western-writing`) for fiction voice and genre tone.
-4. Load `adventure-writing` if the text is an adventure (its "Published register" section complements this file).
-5. Write. Read aloud (§9). Ship.
+2. Load **this file** (`20-publication-voice`) to translate the design into publication register — strip designer jargon, write to the audience.
+3. Load `21-manuscript-format.md` to format the text correctly — ALL-CAPS names, paragraph format for maneuvers, tables only for roll results.
+4. Load the relevant game-specific writing skill (`forbidden-lands-writing-voice` or `western-writing`) for fiction voice and genre tone.
+5. Load `adventure-writing` if the text is an adventure (its "Published register" section complements this file).
+6. Write. Read aloud (§9). Ship.

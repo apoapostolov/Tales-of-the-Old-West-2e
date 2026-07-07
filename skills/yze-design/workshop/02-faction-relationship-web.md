@@ -110,6 +110,35 @@ At each downtime boundary, roll D66 and apply. Roll twice if the dial is set to 
    - **Renegotiate:** roll a social conflict (`03 §11`) or Social Combat (`workshop/03`). Success converts the Debt to a smaller one or a different form; failure doubles it.
 4. **Limit:** a faction may call at most one Debt per session. This prevents debt-spam (§6).
 
+#### What shifts Standing — the trigger table
+
+The propagation formula needs inputs: what player actions are worth ±1, ±2, or ±3? The GM applies these *as the party acts*, not retroactively. When an action clearly benefits or harms a faction's interests, shift Standing by the amount below, then propagate.
+
+| Magnitude | Player action examples | Standing shift |
+| --- | --- | --- |
+| **Minor** | A kind word to a faction member; a small trade; passing on a useful rumor; refusing a rival's request. | ±1 |
+| **Moderate** | A public favor (a rescue, a timely delivery, a sponsored event); a meaningful gift; brokering a minor deal; fighting alongside them once. | ±2 |
+| **Major** | A costly sacrifice for the faction (risking life, reputation, or significant resources); brokering an alliance; destroying a rival of theirs; saving their leader. | ±3 |
+| **Defining** | Single-handedly saving the faction from ruin; betraying them in a way that costs them dearly; founding or destroying a faction. | ±5 (cap; sets Standing to −5 or +5) |
+
+**GM guidance — how to call shifts in play:**
+- Don't shift for every nicety. Shift when the party does something a faction would *remember* and *talk about*.
+- When in doubt, ask: "Would the faction's leadership hear about this by next week?" If yes, it's worth at least ±1. If it would dominate their next council meeting, ±2. If it changes their strategy, ±3.
+- A single action can shift Standing with *multiple* factions (e.g. destroying the Coil's convoy helps the Pale Banner +2 and the Commune +1 — then propagate both).
+- **Tell the players when you shift Standing.** Make the web's reactivity visible: "The Pale Banner has heard what you did. They're warming to you — +2." This is the system's payoff moment.
+
+#### The faction turn at the table — procedure
+
+Run this at the end of each session (or season, per the event-frequency dial). It takes 5–10 minutes.
+
+1. **Apply the session's Standing shifts.** Go around the table: name each faction the party affected this session, and the shift (from the trigger table above). Update the Standing tracks. Propagate each shift through the graph (the propagation formula). Tell the players the results — "helping the Coil dropped you with the Banner."
+2. **Step any called debts.** If a faction intends to call a debt next session, set up the fiction now (an envoy arrives, a letter is delivered). Don't spring it cold.
+3. **Roll one Relationship Event (D66).** Narrate the result as in-fiction news the party hears: "There's been a marriage between the Commune and the Banner — they're closer now." Update Bonds/Debts per the table.
+4. **Name the active tensions.** State plainly what each faction *wants* from the party next session — "The Coil is going to ask you for something. The Banner is watching you." This is the hook-generation step.
+5. **Update any org Strength tracks** (if using `07`) — factions weakened by events step down; factions enriched step up.
+
+**The faction turn is the web's heartbeat.** Without it, the graph is a static map; with it, the world moves while the PCs act. The 5-minute investment is what makes the campaign feel politically alive.
+
 ## 3. The pressure loop
 
 - **Pressure:** standing propagates; debts come due; relationship events shift the graph.

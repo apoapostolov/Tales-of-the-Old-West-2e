@@ -69,14 +69,17 @@ Track clues as a single **Evidence die** (D6–D12) instead of a counted pool:
 
 The mystery is investigated in **Investigation Phases** — structured time blocks (an evening of work, a day of legwork), analogous to a travel Quarter Day (`06 §5`). Each phase, each PC picks **one** activity. The menu's demands are *mutually exclusive* — the party is always short of hands, and distributing labor is the core tactic (P6's signature tension).
 
-| Activity | What it does | Earns |
-| --- | --- | --- |
-| **SEARCH** | Comb a location for physical evidence | Soft clues (+ a hard clue on a strong success / at a rich scene) |
-| **QUESTION** | Interview a witness, suspect, or contact | Soft clues (+ leads to new scenes) |
-| **RESEARCH** | Archives, lore, contacts, public records | Soft clues (+ the *type* of threat, if applicable) |
-| **SURVEIL** | Tail, stake out, observe a person/place | Soft clues (+ a hard clue: a witnessed act) |
-| **ANALYZE** | Cross-reference existing clues (lab work, collation) | Converts soft → hard; clarifies what a clue *means* |
-| **WATCH / COVER** | Guard the party's flank against interference | No clues — instead **reduces the Threat Clock tick** this phase |
+**SEARCH** means combing a location for physical evidence — the crime scene, the suspect's rooms, the ditch where the body was found. Roll a core ability pool (INSIGHT, SCOUTING, INVESTIGATE, or equivalent). On a success, you earn soft clues: fibers, footprints, a misplaced letter, a stain. On a strong success, or at a rich scene, you may find a hard clue — the specific, named evidence a Conviction will later demand.
+
+**QUESTION** means interviewing a witness, a suspect, or a contact. Roll a social ability (MANIPULATION, INSIGHT, PERFORMANCE, or equivalent). On a success, you earn soft clues: what they saw, what they heard, what they suspect. You also earn leads to new scenes — another witness, another location, another name. A QUESTION that goes well opens the next door; one that goes badly may close it.
+
+**RESEARCH** means hitting the archives, the lore, the contacts, the public records. Roll a knowledge ability (LORE, BOOKLEARNIN', or equivalent). On a success, you earn soft clues and, if applicable, the *type* of threat you are facing — is this a cult? A serial killer? A corporate cover-up? RESEARCH contextualizes the evidence the other activities gather.
+
+**SURVEIL** means tailing a person or staking out a place — watching, waiting, following. Roll STEALTH, SCOUTING, or equivalent. On a success, you earn soft clues: patterns, routines, meetings. On a strong success, you earn a hard clue: a witnessed act, something seen with your own eyes that cannot be denied. SURVEIL is how you get the specific damning fact.
+
+**ANALYZE** means cross-referencing the clues you already have — lab work, collation, pattern-matching, consulting a specialist. Roll a knowledge or crafting ability (LORE, CRAFTING, or equivalent). ANALYZE does not earn new clues; it converts soft clues into hard ones, and clarifies what a clue *means*. The fiber becomes "imported Flemish wool, dyed with madder." The alibi gap becomes "he could not have been where he said he was." ANALYZE is the bridge between evidence and certainty.
+
+**WATCH / COVER** means guarding the party's flank against interference while the others investigate. You earn no clues. Instead, you reduce the Threat Clock's tick this phase — you are running interference, keeping the antagonist's agent busy, watching for the tail. WATCH is the pressure-relief valve, bought at the cost of earning nothing toward the mystery.
 
 **Activity resolution procedure:**
 
@@ -140,7 +143,24 @@ The mystery runs against a **Threat Clock**: a track (typically **6 segments**) 
 2. **How much it ticks.** **+1 segment** per phase by default (the Threat-Clock-speed dial: +1/phase = pressure-cooker; +1/session = relaxed). Two modifiers:
    - A **WATCH / COVER** activity taken this phase **reduces** the tick by 1 (minimum 0) — the pressure-relief valve, bought at the cost of earning no clues that phase.
    - A failed push's **Wrong Inference** result can **add** ticks (per the table: several rows advance the clock +1 or +2).
-3. **What happens at threshold.** When the clock fills (all segments marked), the threat **fires**: the ritual completes, the killer strikes again, the trail goes cold, the mole exfiltrates. The mystery becomes a *crisis* — the consequences are now in play and must be dealt with, not prevented.
+3. **What happens at threshold.** When the clock fills (all segments marked), the threat **fires**: the ritual completes, the killer strikes again, the trail goes cold, the mole exfiltrates. The mystery becomes a *crisis* — the consequences are now in play and must be dealt with, not prevented. Roll on the **Threat Consequence** table below (or choose the row that fits the fiction).
+
+4. **What happens after firing.** The clock **resets to half** (3 segments) — the threat is not over; it has *escalated*. The party now races a new deadline while dealing with the consequences of the first firing. Each subsequent firing is worse (step down the table's severity column). The clock only reaches 0 (the threat is over) when the party *resolves* the source — confronts the culprit, disrupts the ritual, exposes the mole.
+
+#### Threat Consequence table (D6)
+
+Roll when the clock fills. The severity column applies if this is a *second or later* firing — the threat escalates each cycle until resolved.
+
+| D6 | First firing (the threat advances) | Subsequent firings (the threat escalates) |
+| --- | --- | --- |
+| 1 | **A warning.** The antagonist's plan becomes visible — a body is found, a symbol is painted, a witness flees. No one is lost yet, but the stakes are now public. The party loses 1 soft clue (the scene is contaminated by the antagonist's move). | The antagonist sends a message — a threat, a taunt, a displayed victim. −1 to all social rolls with frightened NPCs for a phase. |
+| 2 | **A setback.** A clue source is destroyed or lost — the witness is killed, the document is burned, the scene is compromised. Any hard clue that was *there* is now gone; the party must find another path. | A second source is lost. The investigation narrows — the GM removes one clue source from play. |
+| 3 | **An escalation.** The antagonist gains ground — a new victim, a broader ritual, a deeper infiltration. The party's Standing with a faction investigating alongside them drops by 1 (they're seen as failing). | The antagonist secures an ally or resource. A faction the party needs shifts away (−1 Standing, propagates per `workshop/02` if using the web). |
+| 4 | **A confrontation.** The antagonist or their agent appears — not the final confrontation, but a skirmish, a chase, a narrowly-escaped ambush. Resolve as a combat/chase scene. | The confrontation is worse — a tougher agent, a tighter ambush. The party must flee or fight at a disadvantage. |
+| 5 | **A closing window.** The party's window to act *narrowrows* — the ritual nears completion, the killer prepares to flee, the mole's extraction is imminent. The clock's reset value is 4 segments, not 3. | The window is nearly shut. Reset is 5 segments. The next firing is likely the climax. |
+| 6 | **The crisis.** The threat's plan completes a major stage — the ritual's first phase succeeds, the killer claims a significant victim, the mole escapes with the key secret. The party has *failed to prevent* this; they must now deal with the consequences AND continue the investigation. At a subsequent firing on a 6, this is the **climax** — the antagonist's plan completes fully; the party must confront or concede. | The climax. The antagonist wins this round decisively. The mystery becomes a disaster the party must now *survive* or *avenge*, not prevent. |
+
+**GM guidance:** the table is a prompt, not a constraint. The point is that firing has *specific, escalating* consequences — not "the GM makes something bad happen." If a row doesn't fit the fiction, pick the one that does, but always make the firing *cost* the party something visible.
 
 ## 3. The pressure loop
 
