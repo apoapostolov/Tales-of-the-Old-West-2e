@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD013 MD041 -->
 
-## Chapter 26 - The Political Scene of the 1870s
+## Chapter 25 - The Political Scene of the 1870s
 
 > _THE COUNTY'S FACTIONS — THE RING, THE RAILROAD, THE POST, THE COMMITTEE — ARE THE MEN WHO RUN THE COUNTY'S DAY. THE PARTIES ARE THE MEN WHO RUN THE COUNTRY'S DECADE, AND THE COUNTRY'S DECADE IS THE WEATHER THE COUNTY'S DAY HAPPENS IN. THE PARTY IN THE ASCENDANT MAKES THE ACTS, AND THE ACTS MAKE THE COUNTRY THE COUNTY SITS IN, AND THE COUNTY SITS IN IT WHETHER IT NOTICES OR NOT._
 >
@@ -8,7 +8,7 @@
 
 ### The Political Scene and Its Work
 
-The faction engine (Ch.14) tracks the county's organized interests — the companies, the rings, the troops, the committees — and the robber baron chapter (Ch.25) tracks the great operators whose reach is territorial or federal. This chapter is the layer above both: the **national parties** and the **political metaplot** of the 1870s, the men and the acts that shaped the nation the campaign's county sits in, and the year-by-year weather those acts made for the country below.
+The faction engine (Ch.13) tracks the county's organized interests — the companies, the rings, the troops, the committees — and the robber baron chapter (Ch.24) tracks the great operators whose reach is territorial or federal. This chapter is the layer above both: the **national parties** and the **political metaplot** of the 1870s, the men and the acts that shaped the nation the campaign's county sits in, and the year-by-year weather those acts made for the country below.
 
 Where a faction is a company or an interest, a party is a coalition of factions, regions, and ideas, organized to win elections (the press and election chapter) and to make the acts that the country lives under. The Republican party of 1870 is not the railroad; it is the coalition of the railroad, the veterans, the freedmen's vote, the Protestant reformers, and the industrial North. The Democratic party of 1870 is not the South; it is the coalition of the Solid South, the immigrant cities, the hard-money West, and everyone the Republicans' coalition left out. The two parties are the weather the factions operate in, and the acts they pass — the Enforcement Acts, the Specie Resumption Act, the Desert Land Act, the Chinese Exclusion debate — are the climate the campaign's county sits in whether the county notices or not.
 

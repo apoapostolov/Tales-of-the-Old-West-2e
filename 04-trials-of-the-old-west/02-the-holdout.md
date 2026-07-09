@@ -8,7 +8,7 @@
 
 ### The Holdout and Its Work
 
-The mass-combat chapter (Ch.24) gives you the unit-scale siege — the battalion on the ridge, the battery on the hill, the column breaching the stockade. The standoff chapter (Ch.1) gives you the scene-level tension before the guns. Neither gives you the scene the frontier made its own: a handful of named defenders barricaded in a cabin, a homestead, a line shack, or a ranch house, against a larger force, through a night — the classic "hold the cabin until dawn." It is a different mechanical shape from the skirmish line. It is a tension-and-attrition track, fought at PC scale, where the walls, the windows, the ammunition, and the dawn are the things the engine tracks.
+The mass-combat chapter (Ch.23) gives you the unit-scale siege — the battalion on the ridge, the battery on the hill, the column breaching the stockade. The standoff chapter (Ch.1) gives you the scene-level tension before the guns. Neither gives you the scene the frontier made its own: a handful of named defenders barricaded in a cabin, a homestead, a line shack, or a ranch house, against a larger force, through a night — the classic "hold the cabin until dawn." It is a different mechanical shape from the skirmish line. It is a tension-and-attrition track, fought at PC scale, where the walls, the windows, the ammunition, and the dawn are the things the engine tracks.
 
 This chapter gives the holdout its own operation frame, reusing the Progress-versus-Trouble engine with the polarity flipped: the defenders are not accumulating Progress toward a goal. They are holding a line while Trouble climbs, and the question is whether the line holds until the relief, the dawn, or the attackers' nerve breaks before the defenders' walls, ammunition, or resolve do.
 

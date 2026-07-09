@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD013 MD041 -->
 
-## Chapter 16 - Inheritance, Land Office, and Speculation
+## Chapter 15 - Inheritance, Land Office, and Speculation
 
 > _THE WEST WAS BUILT ON PAPER. THE BULLET AND THE ROPE TOOK THE LIVES, BUT THE DEED AND THE NOTE AND THE PATENT TOOK THE LAND, AND THE LAND WAS WHAT THE WEST WAS FOR. THE LAND OFFICE WAS THE COURTHOUSE THE COUNTY FEARED MORE THAN THE BENCH, BECAUSE THE BENCH COULD HANG A MAN BUT THE LAND OFFICE COULD UNMAKE HIM._
 >
@@ -54,6 +54,25 @@ A contest is the land office's courtroom, and it is run as a **civil operation**
 The contest's Progress is the party's case — the evidence, the survey, the witness, the prior filing, the law. The contest's Trouble is the opposition's paper and the office's friction — the lost filing, the forged patent, the bribed clerk, the rival's surveyor, the lawyer who knows the land law better than the party does. The contest is resolved by `BOOKLEARNIN'` (the law), `INSIGHT` (the evidence and the office's reading), `HAWKEYE` (the survey and the ground), and `PRESENCE` (the witness, the clerk, the lawyer), with the `Lawyer` talent the centerpiece and the office's `Standing` and the clerk's `Refuge` the modifiers.
 
 A contest won is a patent defended or a rival's patent broken. A contest lost is the land lost on paper, which is the land lost — the troop will back the book, not the party's opinion of the book. A contest that fails badly is the party's name on the fraud list, which is a federal `Wanted` of a quieter and more permanent kind than the marshal's.
+
+#### The Evidence Economy
+
+A contest or a probate is not, in the end, a test of attrition — it is a test of **evidence**. The side with the better paper wins, and the paper is gathered before the hearing and spent at it. The paper war is an **evidence economy**: each side gathers evidence (the prior filing, the witness, the survey, the forged codicil, the clerk's testimony) as a currency, and spends it at the hearing to shift the judge's or the land officer's opinion.
+
+Evidence is gathered through casing-like actions in the season before the hearing — the `INSIGHT`/`HAWKEYE`/`BOOKLEARNIN'`/`LIGHT-FINGERED` work of finding the document, reading the survey, bribing the clerk, forging the codicil, locating the witness who saw the dead man sign. Each successful gathering action banks a **piece of evidence** — a consumable asset, spent at the hearing for a `+2` to one exchange of the contest or the probate, exactly as the justice chapter's evidence is spent at the trial (Ch.11). The hearing is a phased Quarrel (the same frame the trial uses), and the evidence is the leverage.
+
+| The Evidence | What It Banks |
+| --- | --- |
+| The prior filing (the oldest document in the chain of title) | `+2` to one exchange — the foundational document, if it is authentic |
+| The survey (the official measurement, or the rival's survey that contradicts it) | `+2` to a boundary exchange |
+| The witness (a named figure who saw the filing, the signing, the fence) | `+2` to an exchange; the witness must survive cross-examination (the justice chapter's frame) |
+| The clerk's testimony (the land office's own man, turned) | `+2` to any exchange; the clerk is the office's memory, and his word carries the office's weight |
+| The forged codicil / the fabricated patent | `+2` to any exchange — but the forgery is a crime if exposed, and a `HAWKEYE`/`BOOKLEARNIN'` read by the opposition may detect it (the Detection table, below) |
+| The character witness (the county's regard, the family's name) | `+1` to one exchange; persistent, but only as strong as the name |
+
+A hearing with no evidence is a hearing argued on the bare claim, and the bare claim favors whoever filed first, which is usually the faction that owns the office. A party that gathers and spends its evidence well can win a contest the bare claim was losing; a party that has no evidence and no lawyer is the family that loses the spring to the Ring's surveyor, and the engine should let that cost what it costs.
+
+**Detection.** Forged or fabricated evidence is a gamble. The opposition may attempt to detect a forgery with a `BOOKLEARNIN'` (the law and the handwriting) or `HAWKEYE` (the paper, the ink, the seal) roll, opposed by the forger's original roll. A detected forgery shifts the hearing sharply against the side that used it (the judge's opinion drops by two steps), and may trigger a criminal fraud charge (the justice chapter). The evidence economy's forgery is the paper war's equivalent of the train robbery's derailment — the high-risk, high-reward play that wins the case if it holds and ruins the case if it does not.
 
 ### Inheritance and the Estate
 
@@ -115,6 +134,22 @@ A speculation is a **downtime action** the party may take at the Turn of the Sea
 
 A speculation is resolved on the standard ladder: `0` successes loses the stake (the market moved against the speculator), `1` holds the stake, `2` returns the stake plus `D6 × 10%`, `3+` returns the stake plus `D6 × 25%` or more (the corner held, the lot multiplied, the cattle syndicate paid). A speculation that fails badly is a Capital loss the party may not recover from, which is the engine's honest accounting of the speculative ruin the West was also built on.
 
+#### The Market Track
+
+For a party that wants the speculation to be more than a single season's roll, the chapter offers the **Market Track** — a tracked position in one or two commodities, held across seasons, with the price shifting each Turn of the Season by a roll the party does not control. The Market Track is the protected-dial primitive applied to the speculative bet: the party cannot control the price, only their position, and the price's movement is the engine's honest accounting of the risk the actual speculators ran.
+
+Track each commodity the party has a position in as a **price die** (the stepped die, `D6` → `D12`, representing the price per unit relative to the party's entry price). The price die starts where the party bought in (a `D8` for a moderately-priced commodity), and at each Turn of the Season the GM rolls it:
+
+| The Price Die's Roll | The Market |
+| --- | --- |
+| `1-2` | The market dropped. The price die steps **down** one size (a `D8` becomes a `D6`). If it would step below `D6`, the position is wiped out (the corner broke, the lot is worthless, the cattle busted). |
+| `3-4` | The market held. The price die stays. |
+| `5-6` | The market rose. The price die steps **up** one size (a `D8` becomes a `D10`). If it steps above `D12`, the position pays out at the top and the party must decide whether to reinvest or take the profit. |
+
+The price die's roll is modified by the season's pressures: a drought (the weather chapter, Ch.19) steps the cattle price up; a silver strike (the mining chapter, Ch.7) steps the silver price down (glut); a national political act (the political-scene chapter, Ch.25) — the Bland-Allison Act, the Specie Resumption — shifts the metal markets sharply; a faction's corner (the robber barons chapter, Ch.24) may hold the price artificial for a season. The party's `INSIGHT` read of the market, made at the invest step, grants `+1` or `-1` to the price die's roll for the party's position only — the party read the market right, or wrong.
+
+Each season, the party may **hold** (keep the position), **add** (spend Capital to increase the position, which raises the stakes of the next roll), or **sell** (cash out at the current price die, realizing the profit or the loss). The three-option menu is the speculation's seasonal decision, and the market's movement is the thing the party is betting on, which is the engine's way of making the speculation a multi-season strategic decision rather than a single downtime roll. A party that holds a cattle position through a drought watches the price die climb; a party that holds a silver position through the Crime of '73 watches it fall; a party that sells at the top is the party that beat the market, which is the speculation's only victory and its rarest one.
+
 ### The Paper War and the Other Rules
 
 The paper war is the civil-law and finance layer the criminal-justice and trade chapters imply but do not deliver.
@@ -122,6 +157,6 @@ The paper war is the civil-law and finance layer the criminal-justice and trade 
 - **The justice chapter** is the criminal court; this chapter is the civil. The two share the social-conflict engine and the `Lawyer` talent, and a paper war that turns criminal (the forged patent, the arson fraud) ladders into the justice chapter's trials.
 - **The families chapter** holds the inheritance as a family's continuity; this chapter gives the probate its procedure and the estate its contested transfer.
 - **The robber barons chapter** holds the baron as the great speculator; this chapter gives the speculation and the insurance their instruments, so the baron's work has mechanical weight.
-- **The trade chapter** is the cargo the insurance insures; the bank chapter (Ch.10) is the deposit the speculation leverages.
+- **The trade chapter** is the cargo the insurance insures; the bank chapter (Ch.9) is the deposit the speculation leverages.
 
 The West was built on paper. A chapter that gives the land office its book, the inheritance its probate, and the speculation its gamble gives the campaign its quiet engine — the war that took the land while the bullet and the rope held the county's attention, the war that wore coats and worked in offices and never drew on anyone, and the war that, more than any other, decided whose name was on the deed when the country was finally settled.

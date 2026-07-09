@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD013 MD041 -->
 
-## Chapter 22 - Regional Encounter Tables
+## Chapter 21 - Regional Encounter Tables
 
 > _THE COUNTRY BETWEEN THE TOWNS IS NOT EMPTY. IT IS FULL OF THE PEOPLE AND THE ANIMALS AND THE WEATHER THAT LIVE THERE WHEN THE PARTY IS NOT, AND THE PARTY THAT RIDES THROUGH IT WITHOUT ROLLING ON THE TABLE IS A PARTY THAT MISSES THE COUNTRY THE GAME IS SET IN._
 >
@@ -128,6 +128,31 @@ The table is the frame, not the law. The GM should modify it for the campaign's 
 | A boom or a rush | The mining boom multiplies the prospector, the freighter, and the drifters; the cattle boom multiplies the drives and the rustlers |
 | The wire, the rail, and the stage | The communication and travel chapters' infrastructure shifts the table toward the stage, the wire crew, and the rail hand, where the country is opened |
 
+### The Region as a Stateful Layer
+
+The encounter table above is **stateless** — it does not remember what the party has met, so a region never *changes* in response to the party's actions. But the country is not a static encounter deck; it is a place the party changes by being in. The party that clears the bandits from a stretch of road should find the road quieter after; the party that hunts out the game should find the game thinner; the party that befriends the nation should find the war party rarer and the hunting camp commoner. The **Region State** is a light layer that makes the country remember.
+
+Each region the party travels in has three small ratings, tracked on the campaign record and shifted by the party's actions and the season's events:
+
+| The Rating | What It Tracks | Starts At |
+| --- | --- | --- |
+| **Tension** (`0`–`5`) | How hostile the region is to the party — raised by clashes (a fight with a war party, a raid on a camp), lowered by good deeds (a mediation, a service, a gift well-received). | `1` (the wild land's baseline wariness) |
+| **Game** (`0`–`5`) | How much wildlife is left in the region — lowered by market hunting (the logging/fur/hunt chapter's Decline track, Ch.8), raised by a season of rest and good weather. | `3` (the country's natural abundance) |
+| **Sign** (`0`–`5`) | How much traffic is in the country — raised by a boom (a mining rush, a cattle boom), lowered by a bust, a war that cleared the country, or a hard winter. | `2` (the frontier's moderate traffic) |
+
+These three ratings **shift the encounter table's roll**, the way the modifiers above do, but they are *persistent* — they carry across sessions and seasons, and they reflect what the party has done to the country:
+
+| The Rating's State | The Effect on the Encounter Roll |
+| --- | --- |
+| **Tension high** (`3+`) | `-1` to the Tens die — pushing the table toward the war party, the ambush, the raid. The country is hostile, and the party's presence is resented. |
+| **Tension low** (`0`–`1`) | `+1` to the Tens die — pushing the table toward the hunting camp, the trade, the lone rider who is a friend. The country accepts the party. |
+| **Game low** (`0`–`1`) | The grazing herd, the antelope band, and the predator entries are removed or reduced — the country is hunted out. (The Decline track, Ch.8, is the mechanic that drives Game down.) |
+| **Game high** (`4`–`5`) | The game entries are doubled — the country is rich with wildlife, the herds are thick, the predators follow. |
+| **Sign high** (`4`–`5`) | `+1` to the Tens die — pushing the table toward the freight outfit, the survey party, the stage, the traffic of a country being opened. |
+| **Sign low** (`0`–`1`) | `-1` to the Tens die — pushing the table toward the emptiness, the ruin, the abandoned camp. The country is emptying or emptied. |
+
+The Region State makes the country *respond* to the party's presence, which the flat table did not. A party that drives the market hunt hard in a region watches the Game rating fall and the encounter table's herds thin over seasons; a party that fights the Comanche watches the Tension rise and the war parties multiply; a party that brings the railroad through watches the Sign rise and the country fill with surveyors and freighters. The three ratings are the country's memory of the party, and they tie the encounter chapter to the trade, the hunt, and the factions chapters whose actions shift them — which is the integration the stateless table could not provide.
+
 ### The Encounter and the Other Rules
 
 The encounter table is the country between the towns, and it ties the book's travel and faction threads together.
@@ -135,6 +160,6 @@ The encounter table is the country between the towns, and it ties the book's tra
 - **The corebook's wildlife table** is the combat statblock for the encounter's predator entries; the encounter table decides when the party meets the wildlife.
 - **The weather chapter** sets the encounter's weather entries and the season's modifier.
 - **The faction engine** sets the `Standing` that turns the war party into the trading camp, and the faction entries (the patrol, the Ranger, the raider) are the factions' local face.
-- **The deep-wild-land chapter (Ch.21)** is the country the deep-wild entries (the emptiness, the ruin, the summit) describe.
+- **The deep-wild-land chapter (Ch.20)** is the country the deep-wild entries (the emptiness, the ruin, the summit) describe.
 
 The country between the towns is not empty. A chapter that gives each region a table, the table a roll, and the roll a frame gives the campaign the country the party rides through, and lets the engine make the road as full of the West as the road actually was — the herd, the hunter, the drifter, the patrol, the war party, the waterhole, the ruin, and the quiet day the country gave the party to itself, which was the rarest encounter of all.

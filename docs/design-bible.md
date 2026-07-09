@@ -354,6 +354,32 @@ This is the template for any **seasonal enterprise roll** in a new
 subsystem (a ranch, a mine): key ability, help dice, town-aspect
 modifiers, the 0/1/2+ ladder, a Bonus/Penalty D66.
 
+### The Investment Cycle
+
+The Season Business Roll above is the **reckon** beat of a larger
+five-beat cycle every business in Book 4 runs on. The cycle is the
+org-lifecycle pattern (`yze-design/references/07`) calibrated to the
+season; it wraps the existing roll rather than replacing it, and it
+gives the proprietor agency over the dials the roll reads against.
+
+```
+1. ASSESS   — read the market, the season, the gauges; decide the season's strategy
+2. INVEST   — spend Capital/cash/resources to set the season's dials
+3. OPERATE  — the working phase (events, trouble, the season's play)
+4. RECKON   — the Season Business Roll, read against the dials set in step 2
+5. REINVEST — pay out, recover, or reinvest into functions/growth
+```
+
+The beats are shared. The **dials** and the **currency** differ by trade.
+A ranch invests in stock and grass; a mine invests in timber and powder;
+a saloon invests in stock and reputation. The Reckon beat is where the
+die rolls, but the die rolls *against the dials the proprietor set* —
+not a flat ability check. Each business chapter (Ch.4–9) restates and
+skins these beats in its own trade's vocabulary, names its distinct
+resource as the cycle's dial, and defines its distinct loop at the
+Operate beat. A chapter that only points the reader here has missed the
+point: the cycle lives in the chapter, flavored to the trade.
+
 ### How Fortune rolls self-modify
 
 Personal Fortune → Welfare. Town Fortune → Prosperity. The modifier

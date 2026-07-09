@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD013 MD041 -->
 
-## Chapter 21 - Deep Wild Land Exploration
+## Chapter 20 - Deep Wild Land Exploration
 
 > _THE TRAIL ENDS WHERE THE MAP ENDS, AND THE MAP ENDS SOONER THAN THE COUNTRY DOES. PAST THE TRAIL IS THE WILD LAND — THE RIVER NO STAGE FOLLOWS, THE TIMBER NO AX HAS TOUCHED, THE RIDGE NO SURVEYOR HAS STAKED. THE MEN WHO GO THERE COME BACK CHANGED OR THEY DO NOT COME BACK._
 >
@@ -37,6 +37,37 @@ A deep-wild expedition — up a river, through a timber, over a divide — is an
 | `The Long Journey` | `8` | `5` | A season in the deep wild — a crossing of a range, a descent of an unknown river, a flight into country the law cannot follow |
 
 Each mode of travel — water, forest, mountain — sets the stages and the abilities. The GM chooses the mode by the country the party is in, or runs a mixed expedition (river to the fork, timber past the fork, the divide at the end) as a sequence of stages, each rolled in its own mode.
+
+### The Expedition's Supplies
+
+The Operation frame models the journey as a sequence of obstacles, but a real expedition is also a **resource-management problem** — the party is carrying finite supplies (food, feed, gear) into a country that does not resupply them, and the engine should model the depletion, not just the obstacles. The wild land's Trouble has a *source*: the supplies are running out, and the party's decisions about them — push on or turn back, ration or feast, repair or abandon — are the decisions the actual mountain men and explorers made every day.
+
+Track the expedition's supplies as **resource dice** (the corebook's consumables rule, extended to the expedition's full load):
+
+| The Supply Die | What It Represents | When It Steps Down (on a `1-2`) |
+| --- | --- | --- |
+| **Provisions** (food, coffee, salt) | The party's food | Each interval set by the country's strain — daily in hard country, every few days in easy |
+| **Feed** (for the pack animals) | The animals' sustenance | Each interval; a step down means the animals are hungry, and `Horsestock` is at risk |
+| **Gear** (ammunition, tack, tools, rope) | The stuff that breaks and is consumed | Each interval, and on any Trouble step that strains the gear (the rapids, the blowdown, the hard use) |
+
+Set the dice by the expedition's outfitting: a well-provisioned party starts at `D10` or `D12`; a light party at `D8`; a scrambling party at `D6`. Each die steps down on a `1-2` rolled at the interval — the same primitive the outlaw band's `Provisions` die uses, the same primitive the cabin's ammo die uses in the holdout (Ch.2). At `D4`, the supply is **exhausted**: Provisions at `D4` means `Starving` tests (the sickness chapter, Ch.3); Feed at `D4` means the animals are failing and `Horsestock` drops; Gear at `D4` means the party is improvising — tack mended with rawhide, tools jury-rigged, ammunition counted by the round.
+
+The resource dice give the expedition Operation's Trouble a *source*, and they give the party's decisions mechanical weight: push on through hard country (step the dice down faster) or travel carefully (conserve them); ration (step Provisions down slowly, but test `RESILIENCE` at `-1` for the hunger) or feast (step it down fast, but keep the crew strong). A party that enters the wild land with `D6` Provisions is a party that will be hungry in a week; a party that enters with `D12` is a party that can stay a month. The outfitting is the expedition's first decision, and the depletion is the expedition's daily pressure, which is the texture the flat Progress track lacked.
+
+### The Travel-Activity Menu
+
+Each Shift of overland travel, the party chooses its **travel activity** — the daily decision the flat Operation Progress abstracted away. The trade-off between speed, supply-conservation, recovery, and information is the wilderness-travel loop's core decision, and the activity menu makes it a choice the party makes every Shift.
+
+| The Activity | The Distance | The Supply Cost | The Other Effect |
+| --- | --- | --- | --- |
+| **Push** | full distance (the mode's travel row) | Provisions and Feed step down (roll the depletion) | No forage, no scouting; the party covers ground and eats its stores. |
+| **Careful** | reduced distance (`-25%`) | Provisions step down; Feed may be offset by grazing | A `NATURE`/`HAWKEYE` forage roll may offset the Provisions step (success feeds the party from the country); the careful pace reads the country and reduces the Trouble of the next stage. |
+| **Rest and repair** | no distance | Provisions step down (the party eats); Gear may step **up** by one (repair) | Recover conditions (`Exhausted`, `Freezing`); `MAKIN'`/`DOCTORIN'` work on the gear and the bodies. The party holds still and mends. |
+| **Scout** | reduced distance for the party (`-50%`); the scout moves ahead | normal | The scout (`HAWKEYE`/`NATURE`) reads the route ahead — the next stage's Trouble, the water, the sign (the encounter chapter's hook). A successful scout grants `+1 die` to the next stage's navigation; a failed scout may walk into the Trouble the party was trying to avoid. |
+
+The menu gives the party a *choice* each Shift: cover the ground (Push) or conserve the supplies (Careful); hold still and mend (Rest) or send the eyes ahead (Scout). A party that always Pushes covers miles and eats its stores and meets the country unready; a party that always Rests never arrives. The party that balances the four — pushing the easy ground, careful in the hard, resting when the bodies need it, scouting the unknown — is the party that arrives, which is the wilderness-travel loop the actual mountain men and explorers ran, and the engine should let the balancing be the skill it was.
+
+The activity menu and the supply dice are the expedition's *contents* — the daily decisions and the daily depletion that fill the Operation frame. The Operation remains the arc; the menu and the dice are what the party is doing inside it.
 
 ### By Water
 

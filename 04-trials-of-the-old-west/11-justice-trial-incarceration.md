@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD013 MD041 -->
 
-## Chapter 12 - Justice, Trial, and Incarceration
+## Chapter 11 - Justice, Trial, and Incarceration
 
 > _THE LAW IS A LONG ROPE WITH A SHORT REACH. IT WILL HANG A POOR MAN IN THE COUNTY SEAT AND TIP ITS HAT TO THE ONE WHO ROBBED HIM ACROSS THE LINE. KNOWING WHICH MAN YOU ARE IS HALF OF STAYING OUT OF THE WEATHER._
 >
@@ -10,7 +10,7 @@
 
 The outlaw chapter of the corebook follows a wanted man from the crime through the score, the pursuit, and the hard ride — and stops at the moment of capture. This chapter picks up where that one sets the rope down. It is the law's grip: the arrest and the posse, the trial in its several shapes, the verdict and the sentence, the jail and the prison, the wire to the troop when the bench cannot keep order, and the long fact that a man in the dock is a man whose choices have narrowed to a few bad doors.
 
-It is an optional framework for groups who want the consequences of a crime — or the consequences of a wrong charge — to play out at the table rather than be hand-waved. It is written to close the loop the outlaw chapter opens: a man with `Wanted` becomes a man arrested, tried, sentenced, and either hanged, imprisoned, pardoned, broken out, or left to rot. The gang that leaves a hand to the law in Chapter 11 now knows exactly what that hand is going through.
+It is an optional framework for groups who want the consequences of a crime — or the consequences of a wrong charge — to play out at the table rather than be hand-waved. It is written to close the loop the outlaw chapter opens: a man with `Wanted` becomes a man arrested, tried, sentenced, and either hanged, imprisoned, pardoned, broken out, or left to rot. The gang that leaves a hand to the law now knows exactly what that hand is going through, and this chapter is that knowledge.
 
 You do not need these rules for a quick arrest and a fine. Use them when the trial or the imprisonment is the campaign, or a major part of it — when a player character is in the dock, a compadre is in the territorial prison, the gang is planning a jailbreak, or the bench and the Committee are fighting over whose justice the county gets this week.
 
@@ -72,9 +72,25 @@ A man in the dock is in the dock for a charge. The charge sets the possible sent
 
 The tier is the starting point, not the verdict. A good defense can bring a capital charge down; a bad one can lift a felony to the rope. The bench, the jury, the town's temper, and the faction pressures on the court all bend the outcome, which is what the trial procedure models.
 
+### The Docket
+
+A circuit judge arrives on a schedule, and the schedule is the court's **docket** — the order in which the judge hears the criminal cases, the civil suits (the inheritance chapter's paper wars, Ch.15), the probates, and the bench's administrative business. The docket is the trial chapter's strategic layer, and it is the lever no amount of courtroom skill overcomes: the trial's *timing* is a faction's tool, and a faction that can move a case up the docket (to catch a hostile witness before he leaves the county) or down it (to let a sympathetic judge rotate in, or to let the county forget the charge) has an advantage the courtroom cannot match.
+
+The docket is the schedule-as-metronome primitive (the trade chapter's rhythm) applied to the law. A circuit court sits for a **session** — a week or two, twice a year, when the judge is in the county seat. Cases not heard in the session wait for the next, which may be a season away, and the waiting is itself a pressure (the defendant held in jail, the witness who drifts, the faction whose temper shifts). The party that wants its case heard — or wants to delay a rival's — must **work the docket**:
+
+| Working the Docket | The Roll | The Effect |
+| --- | --- | --- |
+| **Move a case up** (a hearing this session) | `PRESENCE`, `Lawyer`, or a faction's backing | Success hears the case this session; failure waits a season. A faction `Sworn` to the party grants `+1`; a faction that owns the bench may grant or deny the move at will. |
+| **Delay a case** (push it to the next session) | `INSIGHT`, `Lawyer`, or a bribe | Success delays; the witness may leave, the evidence may cool, the county may forget. Failure hears the case now, against the party's wish. |
+| **Stack the docket** (fill the session with friendly cases, starve the hostile ones) | a faction operation | A faction that owns the clerk or the bench can shape the whole session's order, which is the ring's oldest trick and the reformer's constant complaint. |
+
+The docket is the trial chapter's distinct strategic layer, and a campaign with a lawyer-PC or a faction invested in the court's outcome should let the docket be a lever — the case won or lost before the jury is ever sworn, by the timing the party arranged or failed to arrange. Voss, in the opening vignette, hears the case he hears because the docket put it before him, and the cottonwood outside is there because the Committee worked its own docket of a different kind.
+
 ### The Trial
 
-The trial is the heart of this chapter. It is run as a **social-conflict operation**: an extended social conflict whose Progress is the court's verdict and whose Trouble is the cost of getting there. This reuses the corebook's social conflict rules — `PRESENCE` or `PERFORMIN'` against `INSIGHT`, `Vexes` and `Doubts` as damage — wrapped in the operation framework from the outlaw chapter.
+The trial is the heart of this chapter. It is run as a **phased Quarrel** — a structured social conflict with distinct courtroom phases, the **jury as the prize** (a gauge both sides compete to shift), and **evidence as consumable leverage** (a document used is a document spent). The Quarrel frame is the same self-contained social-conflict the Families chapter (Ch.14) uses for the rites, calibrated here to the courtroom: it is deliberately not a full tactical social-combat system, and nothing in it reaches outside this chapter.
+
+The trial's gauge is the **jury's opinion** — a seven-step track from **conviction** (`-3`) through **the doubt** (`0`) to **acquittal** (`+3`). The jury's opinion starts where the town's temper and the faction pressures put it (see Trial Modifiers, below), and the trial's phases move it, one exchange at a time, until the verdict reads from where it landed.
 
 #### The Court
 
@@ -85,23 +101,36 @@ A trial needs a court. Define it before the operation begins.
 - **The Prosecutor.** The territory's man, or the aggrieved party's lawyer. In a small county, the sheriff or a storekeeper who has read some law. Rolls against the defense.
 - **The Defense.** The defendant, or his lawyer. A defendant with the `Lawyer` talent rolls his own defense at an advantage; a defendant without one is at the mercy of whoever the court appoints, which is usually no one.
 
-#### The Trial as Operation
+#### The Trial's Phases
 
-A trial is a `Medium` operation (`6` Progress, `4` Trouble) for an ordinary felony, a `Small` operation (`4` Progress, `3` Trouble) for a misdemeanor or a clear-cut case, and a `Big` operation (`8` Progress, `5` Trouble) for a capital charge or a politically charged trial the county is watching.
+A trial runs in **four phases**, each a contested exchange between the prosecution and the defense. Each phase, the two sides roll opposed social pools — `PRESENCE`, `PERFORMIN'`, `INSIGHT`, or `BOOKLEARNIN'` by the phase's nature — and the winner **shifts the jury's opinion one step** toward their side. Ties hold the opinion. The phases are the trial's shape, and they make a courtroom feel like a courtroom and not a heist or a negotiation.
 
-**Progress** is the verdict moving toward one side. Decide before the operation begins which direction Progress tracks. In a trial, Progress is almost always **the defense's case** — successes move the court toward acquittal, and the defense wins by filling the track. The prosecution wins by holding Progress below the target through the trial's rounds and by pushing Trouble onto the defense. For a trial where the bench is plainly corrupt or the verdict is fixed, the GM may invert the track and make Progress the prosecution's case, with the defense fighting to keep Progress low; the math is the same.
-
-**Trouble** is what the trial costs the defendant beyond the verdict: a witness who breaks him, an accusation that sticks to his name even if he walks, a faction that learns what he admitted on the stand, a juror intimidated, a friend subpoenaed, a Reputation that does not recover even if the gavel falls his way.
-
-| Stage of the Trial | The Problem | Likely Ability |
+| Phase | The Exchange | The Pool |
 | --- | --- | --- |
-| The charge and the plea | Read the court's mood; choose to fight or to bargain | `INSIGHT`, `PRESENCE` |
-| The territory's case | Survive the prosecution's witnesses and evidence; cross-examine | `INSIGHT`, `BOOKLEARNIN'` (Lawyer) |
-| The defense | Put up the defense's witnesses and story; turn the jury | `PERFORMIN'`, `PRESENCE`, `BOOKLEARNIN'` |
-| The summation | Close the case; land the last word | `PERFORMIN'`, `PRESENCE` |
-| The verdict | The court decides | read the Progress |
+| **The opening** | Each side states its thesis — the story the jury is to believe. The defense's opening is an attack on the prosecution's case; the prosecution's opening is the case itself. | `PERFORMIN'` or `PRESENCE` |
+| **The prosecution's case** | The territory's witnesses and evidence. Each witness is an exchange; the defense may **cross-examine** (a deflection, `INSIGHT` or `BOOKLEARNIN'`), **object** (a `BOOKLEARNIN'` reaction that may strike testimony), or **let it land** (absorb the hit). | `PRESENCE` (prosecution) vs `INSIGHT`/`BOOKLEARNIN'` (defense cross) |
+| **The defense's case** | The defense's witnesses and story, inverted. The defense puts its case; the prosecutor cross-examines. This is the phase where the leverage (below) is spent — the surprise witness, the damning letter, the alibi that holds. | `PERFORMIN'`/`PRESENCE` (defense) vs `INSIGHT` (prosecution cross) |
+| **The summation** | The closing arguments — the phase's most damaging moves, played in the trial's Public band, with all accumulated leverage that remains. The summation is where the jury's opinion swings hardest, because the closing is the speech the jury takes to the jury room. | `PERFORMIN'` |
 
-Each stage is one or more checks, tagged Safe / Risky / Desperate by the GM as the outlaw chapter tags a score's checks. A Desperate defense roll is one where a lie will be caught, a witness will break, or the defendant's own mouth is the danger. Trouble accrues on the standard ladder.
+A misdemeanor or clear-cut case may collapse to two phases (opening and summation); a capital charge or a politically charged trial the county is watching may run a phase across multiple exchanges (two or three witnesses in the prosecution's case, each its own shift). The GM sets the trial's scope by the charge tier, the way the operation's scale was set before.
+
+**The judge's lean** is a modifier on every exchange — read from the bench's `Standing` toward the defendant and the bench's disposition. Voss, leaning for a defendant he knows and trusts, grants `+1`; a hanging judge grants `-1` to `-2`. The judge may also **sustain or overrule** objections (`BOOKLEARNIN'` exchanges), which strike or admit testimony and shift the jury's opinion by the weight of the testimony in question.
+
+#### Evidence as Leverage
+
+A trial's leverage is its **evidence** — the documents, the depositions, the surprise witnesses, the damning letters — and the evidence is **consumable**, the way the Families chapter's documented secrets are consumable at the rites. A piece of evidence deployed in a phase grants `+2` to that exchange's roll, and the evidence is then **spent**: it is in the court record, it cannot be deployed again for the same bonus, and (for secrets) it is now public knowledge the county will remember.
+
+Leverage is gathered before the trial (by investigation, by the discovery process, by the Casing-the-jail mechanic if the defendant is held) and spent across the phases. A defense that saves its best evidence for the summation risks the prosecution's case landing unopposed; a defense that spends early may find the summation bare. The leverage economy is the trial's strategic layer — the decision of *when* to play the card — and it is the thing that makes two defenses with the same evidence have different outcomes, because the timing of the reveal is half the courtroom's art.
+
+| Leverage | The Bonus | Spent? |
+| --- | --- | --- |
+| A corroborated alibi, a surprise witness | `+2` to one exchange | Yes — the witness is on the record |
+| A documented contradiction (a deposition, a prior statement) | `+2` to a cross-examination | Yes — the document is filed |
+| The damning letter, the forged deed, the smoking gun | `+2` to any exchange; the trial's turning point | Yes — the county knows |
+| The character witness (a respected name) | `+1` to one exchange | No — persistent, but only as strong as the name |
+| The bench's trust (the judge's lean, if favorable) | `+1` to all exchanges | No — persistent |
+
+A trial with no leverage is a trial argued on the facts alone, and the facts favor whoever the jury believed first, which is usually the prosecution. A defense that gathers and spends its leverage well can turn a trial the facts were losing; a defense that has no leverage and no lawyer is the man in the dock in the opening vignette, reading his own charge for the first time, and the engine should let that cost what it costs.
 
 #### Trial Modifiers
 
@@ -125,19 +154,19 @@ The race modifier is not a game-balance knob. It is the historical fact of the t
 
 #### The Verdict
 
-When the trial's Progress fills (the defense succeeds) or the trial runs out of stages (the operation ends), read the verdict from where Progress landed and how much Trouble accrued.
+When the trial's phases are done, read the verdict from where the jury's opinion landed on the seven-step track.
 
-| Result | Verdict |
+| The Jury's Opinion | Verdict |
 | --- | --- |
-| Progress filled, Trouble `0-1` | **Acquittal.** The defendant walks, his name whole. |
-| Progress filled, Trouble `2+` | **Acquittal with a stain.** The defendant walks, but the Trouble marks the Reputation: a `Fame`/`Reputation` hit, a faction's enmity, a witness who will remember. |
-| Progress short by `1`, any Trouble | **Conviction on a lesser charge.** The court splits the difference. Read the sentence one tier below the charge. |
-| Progress short by `2+` | **Conviction as charged.** Proceed to sentencing. |
-| Progress short by `2+`, and the court is a `Law 1-2` town under pressure | **Lynching.** The Committee takes the verdict out of the court's hands. See below. |
+| `+2` / `+3` (acquittal) | **Acquittal.** The defendant walks, his name whole. |
+| `+1` (the doubt holds) | **Acquittal with a stain.** The defendant walks, but the prosecution's evidence is on the record: a `Fame`/`Reputation` hit, a faction's enmity, a witness who will remember. |
+| `0` / `-1` (the doubt splits) | **Conviction on a lesser charge.** The court splits the difference. Read the sentence one tier below the charge. |
+| `-2` / `-3` (conviction) | **Conviction as charged.** Proceed to sentencing. |
+| `-2` / `-3`, and the court is a `Law 1-2` town under pressure | **Lynching.** The Committee takes the verdict out of the court's hands. See below. |
 
-A jury that cannot agree is a **hung jury**. The operation ends with Progress within one of the target. The court may retry the case the next session (a new operation) or let the man go on a lesser plea. The bench decides, and the bench is tired.
+A jury that cannot agree is a **hung jury** — the opinion sits at `0` and will not move. The court may retry the case the next session (a new trial) or let the man go on a lesser plea. The bench decides, and the bench is tired.
 
-> _Voss knew the verdict before the foreman stood. The Progress had stalled on the cross-examination when the prosecutor put Riddle's old name in the defendant's mouth and the defendant had not denied it fast enough, and the Trouble had climbed when the storekeeper from the Committee front row had met the defendant's eye and shaken his head. The man was going to hang. The question was whether the court would do it or the cottonwood would._
+> _Voss knew the verdict before the foreman stood. The jury's opinion had stalled on the cross-examination when the prosecutor put Riddle's old name in the defendant's mouth and the defendant had not denied it fast enough, and the storekeeper from the Committee front row had met the defendant's eye and shaken his head, which was the county's opinion leaning on the jury's. The man was going to hang. The question was whether the court would do it or the cottonwood would._
 >
 > _Voss read the sentence and took off the spectacles and rubbed the bridge of his nose. The wire to the marshal in Santa Fe would go unanswered. He had known that too. He wrote it anyway._
 
@@ -196,23 +225,39 @@ A player character or a named compadre held for any length of time suffers the p
 | Disease | A county jail in summer is a fever ward. If the town's `Welfare` is `1-2`, test against the corebook's `Disease` rule; the disease contracted is the kind the season breeds. |
 | Time | A held player character loses the season's ordinary business, Fortune, and advancement; the character is, for that season, on ice. |
 | Reputation | A man inside is a man the county talks about. Apply a `Fame` shift up or down by what the cell did to his legend. |
-| The gang or the family | If the held man is a compadre or a named member of an outlaw band, the gang's `Cohesion` tests as if a member had been left behind (Chapter 11). |
+| The gang or the family | If the held man is a compadre or a named member of an outlaw band, the gang's `Cohesion` tests as if a member had been left behind (the corebook's outlaw chapter). |
 
 A man can be broken by a cell as surely as by a bullet. The engine handles this through the existing damage tracks; the incarceration procedure simply decides when the damage comes.
 
 ### Jailbreak
 
-A jailbreak is an operation, run from the inside or the outside, using the outlaw chapter's operation rules. It reuses the `Prison Break` score type from Chapter 11 — but run from the inside out, by the man in the cell and whoever comes for him.
+A jailbreak is an operation, run from the inside or the outside, using the outlaw chapter's operation rules. It reuses the `Prison Break` score type from the corebook's outlaw chapter — but run from the inside out, by the man in the cell and whoever comes for him.
 
 A jailbreak is almost always a `Medium` operation (`6` Progress, `4` Trouble) in a county seat, a `Small` one (`4` Progress, `3` Trouble) in a camp with a sod dugout and a single deputy, and a `Big` one (`8` Progress, `5` Trouble) in a territorial prison, which is a job for a campaign rather than a session.
 
+#### Casing the Jail
+
+A jailbreak is a heist, and a heist rewards the plan. The **Casing-the-jail** layer is the incarceration chapter's version of the train robbery's Casing Layer (Ch.10): a slow, multi-stage intelligence-gathering, run from the inside by the held man (and from the outside by whoever comes for him), that banks advantages for the break the way casing the run banks dice for the robbery. A jailbreak cased patiently is a jailbreak that succeeds; a jailbreak improvised in a riot is a jailbreak that gets the breaker killed.
+
+Each Shift of the held man's incarceration (or each week the outside crew works the county), the man (or the crew) may take **one casing action**, rolled against the jail's difficulty:
+
+| The Casing Action | The Pool | What It Banks |
+| --- | --- | --- |
+| **Read the lock** | `HAWKEYE` (from inside) or `LIGHT-FINGERED` (from outside, at the window) | The lock's make, its weak point, the tool it needs. Banks a casing die for the break stage. |
+| **Read the deputy** | `INSIGHT` | The deputy's pattern, his vice, his bribe price, his shift change. Banks a casing die for the timing or the inside stage. |
+| **Read the walls** | `HAWKEYE` or `NATURE` | The window's bar, the wall's soft spot, the route to the outside. Banks a casing die for the get-clear. |
+| **Turn the guard** | `PRESENCE` or a bribe | A bribable guard, a smuggled tool, a message out. Banks a casing die for any stage, or removes a stage's Trouble if the guard is fully turned. |
+| **Get a message out** | `LIGHT-FINGERED` or `PERFORMIN'` | Coordinate with the outside crew — the horses, the timing, the diversion. Banks a casing die for the outside stage. |
+
+Casing dice are spent on the break's stages, the way the train robbery's casing dice are spent on the robbery's. A man who cases the lock and the deputy and the walls for a season before the break enters the operation with a fistful of banked dice; a man who riots and runs without casing enters bare, and the Trouble is steeper for it. The casing layer makes patience the jailbreak's core virtue, which is the truth of every actual jailbreak on the frontier — the men who broke out were the men who watched the deputy's pattern for weeks before they moved.
+
 | Stage of the Break | The Problem | Likely Ability |
 | --- | --- | --- |
-| Casing the jail | Learn the lock, the deputy, the schedule, the walls | `HAWKEYE`, `INSIGHT` |
-| The inside | Get a tool, a key, a message out, a window open | `LIGHT-FINGERED`, `PERFORMIN'` |
-| The outside | Get the horses, the men, the timing, the diversion | `PRESENCE`, `OPERATE`, `SHOOTIN'` |
 | The break | Open the cell, take the man, get clear before the alarm | `LIGHT-FINGERED`, `MOVE`, `SHOOTIN'` |
-| The run | `Hard Ride and Flight` (Chapter 11), with the broken man's `Wanted` raised by the break | `NATURE`, `ANIMAL HANDLIN'` |
+| The outside | Get the horses, the men, the timing, the diversion | `PRESENCE`, `OPERATE`, `SHOOTIN'` |
+| The run | `Hard Ride and Flight` (the corebook's outlaw chapter), with the broken man's `Wanted` raised by the break | `NATURE`, `ANIMAL HANDLIN'` |
+
+(The casing stage of the break is handled by the Casing-the-jail layer above; the casing dice banked there are spent on these stages.)
 
 **Trouble** is what the break costs: a deputy killed (which raises the breaker's `Wanted` sharply), a witness made, the man wounded, a faction's enmity earned, the town's `Law` roused. A successful break that leaves bodies behind turns a `Felony` man into a `Capital` one and a `Capital` one into a man the marshals will not stop chasing. The gang that breaks a man out has signed onto his `Wanted` tier, which is the cost of the rescue and the engine's way of making the choice weigh.
 
@@ -228,7 +273,7 @@ A man in the dock or the cell is not without doors. The law's higher reach can o
 
 The court is not the only justice in the county. When the town's `Law` is low and the `Welfare` is hot, or when a faction the bench cannot reach has decided a man's guilt, the verdict comes out of the court's hands. This is the lynching, and it is the violence the law cannot or will not reach.
 
-A lynching is not a trial. It is a `Trouble` result on the trial operation, or the natural end of an arrest in a county where the `Law` aspect is `1-2` and the Committee is a faction with the reach to act. The GM frames it as a scene, not a roll: the body in the cottonwood at dawn, the silence of the men who did it, the bench's letter to the marshal that will go unanswered. The player characters may try to stop it (a `Standoff or Siege` operation, above), join it (which moves their `Standing` with the Committee and with every decent faction in the county), or survive it (which is its own kind of trial).
+A lynching is not a trial. It is a verdict that escapes the court — a jury's opinion driven to `conviction` in a county where the `Law` aspect is `1-2` and the Committee is a faction with the reach to act, or the natural end of an arrest the court never gets to hold. The GM frames it as a scene, not a roll: the body in the cottonwood at dawn, the silence of the men who did it, the bench's letter to the marshal that will go unanswered. The player characters may try to stop it (a `Standoff or Siege` operation, above), join it (which moves their `Standing` with the Committee and with every decent faction in the county), or survive it (which is its own kind of trial).
 
 The lynching is the engine's honest accounting of a country where the law's reach was short and the rope was long. Render it through the writing skill's `dark-frontier.md` and `uncomfortable-truths.md`, and let it do its work. A campaign that uses these rules and never has a lynching is lying about the country. A campaign that uses them and has one every session is lying about it a different way. The truth is in between, and the bench knows it.
 

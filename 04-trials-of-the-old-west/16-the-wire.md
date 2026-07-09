@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD013 MD041 -->
 
-## Chapter 17 - The Wire
+## Chapter 16 - The Wire
 
 > _THE WIRE IS FASTER THAN ANY HORSE AND IT DOES NOT TIRE AND IT DOES NOT FORGET. THE MAN WHO CUTS IT BUYS HIMSELF A DAY. THE MAN WHO DOESN'T BUYS THE COUNTY'S ATTENTION AT THE SPEED OF CURRENT._
 >
@@ -52,6 +52,10 @@ The telegraph office is the wire's door, and the operator is the man who holds t
 | The local hire | A county boy with a key and a wage; reads the wire's traffic to whoever is buying, which is often everyone. A `Refuge`-style contact (the outlaw chapter). |
 
 An operator's regard for the party is tracked the way a settlement's `Refuge` is tracked, on a small `-2` to `+2` scale, and it sets the modifier on any roll to read the wire's traffic, to send a wire the company would rather not send, to delay a wire the company would rather send fast, or to learn what the wire has been saying about the party. An operator at `+2` is the party's ear on the county's nerve; an operator at `-2` is the party's name on every wire the company sends.
+
+#### The Operator as an Influence Contact
+
+The operator's regard is more than a flat modifier — it is a small **Influence pool** (cap `5`), using the factions chapter's system (Ch.13). The party earns the operator's Influence by public acts the operator notices (a Christmas bottle, a favor done in the operator's sight, the company's regard paid in the operator's direction), and spends it to send a wire the company would rather not, delay a wire the company would rather send fast, or read the traffic the operator hears in the click of the sounder. The operator's Influence **decays** at each Turn of the Season the party has not cultivated the relationship — a bribe forgotten, a favor unreturned, and the operator's ear cools by a point, the way all Influence cools. The operator is a person, not a switch, and the Influence pool models the maintenance the relationship demands, which is the wire chapter's only concession to the factions chapter's political system and the right weight for a comms utility.
 
 ### Cutting the Wire
 

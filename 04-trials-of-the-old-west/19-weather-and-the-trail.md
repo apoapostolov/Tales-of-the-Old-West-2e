@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD013 MD041 -->
 
-## Chapter 20 - Weather and the Trail's Teeth
+## Chapter 19 - Weather and the Trail's Teeth
 
 > _THE COUNTRY DOES NOT HATE YOU. HATING YOU WOULD REQUIRE IT TO NOTICE YOU. THE COUNTRY IS BUSY WITH ITS OWN BUSINESS, AND ITS BUSINESS IS THE WEATHER._
 >
@@ -66,6 +66,38 @@ When a result says **test** a condition (`Freezing`, `Heatstroke`), apply the co
 #### Spooked-Stock Risk
 
 Several results carry a **spooked-stock risk**: hail, thunder, a hard squall, a fire. When the party is mounted or driving stock, the GM may call for an `ANIMAL HANDLIN'` roll from the rider or wrangler in the lead. On a failure, the stock spooks and the GM rolls on the corebook's **Spooked Horse Table** for mounts, or treats driven stock as beginning to stampede (see the chapter on cattle drives). This cross-references, not duplicates, the corebook's table.
+
+#### The Weather Pattern — Reading the Trend
+
+The daily weather table above produces the day's weather, but a real frontier traveler watched the sky for *trends* — a dry stretch building toward fire risk, a cold front dropping over days toward a blizzard, a hot spell deepening toward the killing heat. The daily roll, read independently, cannot show the trend, because each day is a disconnected result. The **Weather Pattern** is a small layer that tracks the trend the daily roll produces, so the watchful traveler can read what the weather is *building toward*, the way the actual travelers read the barometer of the bad knee and the color of the sunset.
+
+Track the current weather pattern as a **pattern die** — a `D6` that represents the trend's strength in its current direction. The pattern die starts at `3` (neutral) at the beginning of a season or a stretch of travel. Each day, after rolling the daily weather table, **step the pattern die** based on the day's result:
+
+| The Day's Weather | The Pattern Die |
+| --- | --- |
+| Clear and fine, good traveling | step toward **clear** (`-1`, toward 1) |
+| Hot, building heat, fire risk | step toward **heat** (`+1`, toward 6) |
+| Cold front dropping, bitter | step toward **cold** (`-1`, toward 1) |
+| Storm, wind, precipitation | step toward **storm** (`+1`, toward 6) |
+| Moderate, seasonal, unremarkable | no shift |
+
+The pattern die's **direction** (toward clear or toward storm; toward cold or toward heat) is the trend, and its **magnitude** (how far from `3`) is the trend's strength. A pattern die that has been climbing toward `6` for three days of hot, dry weather is a pattern that raises the **fire risk** — the GM should step the prairie fire's likelihood up, or foreshadow the smoke on the horizon. A pattern die falling toward `1` over days of cold front is a pattern that raises the **blizzard risk** — the blue norther is building, and the watchful traveler makes for shelter before the daily roll confirms it.
+
+The pattern die does not replace the daily weather table — it is rolled *alongside* it, and the daily table still produces the day's weather. The pattern die tracks *what the weather has been doing*, which is the early warning the watchful read and the unwatchful miss. This is the encounter-with-memory primitive applied to weather: the country remembers what it has been doing, and the trend is the thing the traveler reads in the sky and the knee and the behavior of the stock.
+
+#### The Exposure Gauge — the Weather's Cumulative Cost
+
+A single blizzard is a disaster Operation. But a week of cold rain, or three days of bitter wind without shelter, is a slow erosion the disaster frame does not capture — the weather wearing the party down, shift by shift, until the conditions fire not from a single exposure but from the accumulation. Track this accumulation as an **Exposure gauge** (`0`–`5`), the weather's attritional dimension.
+
+| The Exposure Gauge | What It Means |
+| --- | --- |
+| `0–1` | The party is managing. Conditions test only on direct exposure (the corebook's rules). |
+| `2` | The wear is showing. The party is cold, wet, or heat-worn, and the conditions are nearer. |
+| `3` | **The conditions test at `-1 die`.** Each Shift in the bad weather tests `Freezing`, `Heatstroke`, or `Exhausted` (by the weather's nature) at `-1` to the pool, because the bodies are already worn. |
+| `4` | **The conditions test at `-1 die`, and the party's travel is `-25%`.** The exhaustion is telling on the pace as well as the bodies. |
+| `5` | **The conditions test at `-2 dice`, and a `RESILIENCE` test is forced each Shift regardless of shelter.** The party is at the weather's mercy; the engine should let the gauge's cost land hard. |
+
+**Exposure climbs** by `1` for each Shift the party spends in sustained bad weather (a storm, extreme cold or heat, a blizzard's edge) without adequate shelter. It **steps down** by `1` for each Shift spent in shelter, by a fire, with dry clothes and hot food — the recovery the way-station and the line cabin provide, which is why Sandoval's door bar went up before Calder's horse was at the rail. The Exposure gauge is the weather's slow cost, and it is the reason a week of cold rain kills as surely as a single blizzard, just slower and quieter. The engine should let the gauge climb in the background of a hard season's travel, the way the actual weather wore the actual travelers down, until the conditions fire from the accumulation rather than the single event.
 
 ### Disasters
 

@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD013 MD041 -->
 
-## Chapter 6 - Running Trade and Resources
+## Chapter 5 - Running Trade and Resources
 
 > _A SACK OF FLOUR THAT SELLS FOR TWO DOLLARS AT THE RAILHEAD SELLS FOR TEN AT THE MINE AND TWENTY AT THE CAMP WHEN THE SNOW COMES. THE MAN WHO CARRIES IT THERE IS NOT A THIEF. HE IS THE REASON THE CAMP EATS._
 >
@@ -52,12 +52,49 @@ The GM should not make this table a spreadsheet. Name a price that feels right f
 
 ### The Freighting Outfit
 
-A freighting outfit is a business, run by the corebook's business rules with the following specifics. It is the livelihood of the freighter, the packer, the trader, and the way-station keeper who runs freight on the side.
+A freighting outfit is a business, run by the corebook's business rules with the following specifics. It is the livelihood of the freighter, the packer, the trader, and the way-station keeper who runs freight on the side. But the freighter's trade is not the rancher's or the keeper's, and the engine should not run it like either. The outfit runs on the **Investment Cycle** — assess, invest, operate, reckon, reinvest — but the cycle's dial is the **Route Ledger**, the freighter's growing asset that no other business has, and its operate beat is the run whose stakes were set by the **Cargo Bet** made at the invest step.
+
+**Assess** the market and the road. The freighter reads where the dear is, where the cheap is, and which road between them is open — the way Sandoval read the flour at the railhead and the snow coming down the pass. **Invest** in the route and the cargo — the Route Ledger is built here, one scouted road and one way-station relationship at a time, and the Cargo Bet is placed here, the risk-weighted decision that sets the season's shape. **Operate** the run, which is the supply-run Operation (below), but the dice roll against the dials the freighter set: a cargo bet on the snowbound mine and a route scouted through the Powder River crossing. **Reckon** the season with the Freight Roll, read against the routes run and the cargoes delivered. **Reinvest** in a new route, a new wagon, a bigger string — or take the profit and risk the railroad coming through and making the route obsolete.
 
 - **Key ability.** `OPERATE` for the wagon and the team, `ANIMAL HANDLIN'` for the pack string and the remuda, or `INSIGHT` for the trader who buys and sells more than he hauls. A way-station keeper like Sandoval rolls `INSIGHT` or `BOOKLEARNIN'` — the trade is the reading of the county, not the driving of the team.
 - **Prerequisites.** A team and a wagon, or a string of pack animals, or a contract and a place to put the goods through. The property rules of the corebook cover the way-station, the warehouse, and the corral. A freighter without transport is a man with a contract and no way to honor it.
 - **Town aspect modifiers.** The outfit reads the town's `Mercantile` (the strength of the market it buys from or sells to) and `Law` (the safety of the road), in addition to the universal `Law` modifier. A freighter based in a `Mercantile 1` town buys dear and has no local market to fall back on; a freighter running out of a `Law 1` county loses a string to the rustler every season.
 - **The Season Freight Roll** is made at the Turn of the Season, like any business roll. It cannot be pushed. Read it on the standard ladder: `0` a Penalty roll, `1` steady (the outfit covers its costs and pays a wage), `2+` a Bonus roll with `+1` to the Tens die per success beyond the first.
+
+#### The Route Ledger
+
+The freighter's distinct asset is not a herd or a vein or a house gauge. It is the **Route Ledger** — the set of roads the freighter knows, has run, and can run again. A route is a line between two markets: the railhead and the mine, the post and the frontier, the county seat and the snowbound camp. Each route has a distance, a terrain, a demand, and a **competition** rating, and the freighter who runs it regularly knows its water, its crossings, its trouble, and its shortcuts in a way a stranger to the road does not.
+
+Track three to five routes in the ledger — the freighter's working set. A route entry is a single line:
+
+| The Route | Miles | Terrain | Demand | Competition | Run before? |
+| --- | --- | --- | --- | --- | --- |
+| Railhead → Mine | 140 | Mountain | Powder, steady | Low | Yes — `+1` to run checks |
+
+A route the freighter has **run before** grants `+1` to all checks on the next run — the crossings are known, the camps are found, the faction's toll is paid. This is the freighter's version of the outlaw's cased job: the road that has been walked is the road that is safer. A new route is scouted at the invest step (a `HAWKEYE`/`NATURE` prospecting run, parallel to the mining chapter's prospecting), and once scouted it enters the ledger as a known road. A route the railroad reaches or the faction closes drops out of the ledger, which is how a freighter goes broke even when the books were good the season before.
+
+The Route Ledger is the freighter's long-term asset, the way the rancher's herd die is the rancher's: it grows with investment, it shrinks with the country's changes, and a freighter with five good routes is a freighter the county cannot easily replace.
+
+#### The Cargo Bet
+
+Each run, the freighter chooses a cargo — and the cargo is a **bet**, not a shipment. The trade chapter's spatial economy sets the buy and the sell, and the freighter's decision is the risk-weighted one that no flat season roll ever captured: do I run the safe flour to the county seat at a thin margin, or the powder to the snowbound mine at two hundred percent?
+
+The cargo choice sets the run Operation's stakes before the dice roll. The higher the margin, the higher the Trouble the run carries, because the dear destinations are dear for a reason.
+
+| The Cargo Bet | The Margin | The Trouble Modifier on the Run |
+| --- | --- | --- |
+| **Safe** — staple goods to a steady market, a known route | `5–25%` | `-1` to the run's Trouble checks (the road is easy and the buyer is patient) |
+| **Standard** — goods to a distant market, a moderate margin | `25–100%` | no modifier (the road is the road) |
+| **Speculative** — goods to a dear, distant, or desperate market | `100%+` | `+1` to the run's Trouble checks (the country is hard, the buyer is hungry, and the road knows it) |
+| **Famine** — goods to a starving, besieged, or cut-off market | name your price | `+2` to `+3` to Trouble (the country is at its worst, and so is the road) |
+
+The Cargo Bet is the freighter's strategic decision, and it is the thing that makes two freighters with the same wagon and the same route have wildly different seasons. The freighter who bets safe eats in every season and grows slowly; the freighter who bets famine gets rich or gets dead, and the engine should let both outcomes stand.
+
+#### The Schedule as Metronome
+
+The iron horse runs on a schedule the county lives by, and the freighter who knows the schedule knows things the county does not. The railhead's prices drop the day the train arrives (the goods are plentiful and the platform is full) and climb the week after (the goods have moved into the country and the platform is empty). A mine's powder runs out the day before the next scheduled run, and the mine's man is desperate on that day in a way he is not the day after. A missed train, a cut wire (Ch.16), or a washed-out bridge empties the railhead and sends the county's prices up the day it happens, and the freighter who knows the bridge is out before the county does is the freighter who buys cheap and sells dear.
+
+Treat the schedule as an `INSIGHT` read at the assess step — the freighter rolls to read the market's rhythm, and the successes translate into a modifier on the next Cargo Bet or the next run's margin. A freighter who reads the schedule well buys the flour the morning of the train and sells the powder the day before the run; a freighter who does not buys a week late and sells a day early, and the margin is the difference. The Schedule metronome is the trade's distinct information loop, and it ties the freighter to the wire (Ch.16) and the rail (Ch.10) in a way the flat season roll never did.
 
 #### Freight Bonus and Penalty Table
 
@@ -154,3 +191,5 @@ A way-station keeper has a `Refuge`-style gauge with the county's traffic — a 
 ### A Note on the Honest Trade
 
 The freighter's trade is the honest trade, in a county full of dishonest ones. The outlaw robs the train; the freighter ships on it. The rustler takes the herd; the packer carries the goods that feed the men who guard it. The trade is not always clean — a freighter will run whiskey to a dry camp, guns to a faction, or stolen goods for a fence, and the engine's `Standing` and `Wanted` tracks will catch the dirty runs the way they catch any other crime. But the freighter's living is made by the carrying, not the taking, and that distinction is the chapter's reason for being. A party that wants to make its living by the road rather than by the gun finally has the rules to do it.
+
+The freighter's three distinct dials are the Route Ledger (the growing asset), the Cargo Bet (the risk-weighted margin), and the Schedule metronome (the information loop). Together they make the freighter's season a series of strategic decisions — which road, which cargo, which timing — rather than a flat ability roll, and the Investment Cycle (assess, invest, operate, reckon, reinvest) is the frame each decision sits in. The wire chapter (Ch.16) is the freighter's ear on the schedule; the rail (Ch.10) is the metronome the schedule keeps time to; the weather (Ch.19) is the road's other master, and a freighter who ignores either is a freighter whose route ledger empties by the season.

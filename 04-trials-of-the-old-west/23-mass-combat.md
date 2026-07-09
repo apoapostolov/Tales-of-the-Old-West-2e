@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD013 MD041 -->
 
-## Chapter 24 - Mass Combat and the Skirmish Line
+## Chapter 23 - Mass Combat and the Skirmish Line
 
 > _THE SKIRMISH LINE IS NOT THE LINE OF MEN. IT IS THE LINE THE MEN ARE WILLING TO DIE ON. FINDING OUT WHERE THAT LINE IS, AND WHO IS ON WHICH SIDE OF IT, IS THE SERGEANT'S WORK AND THE OFFICER'S FEAR._
 >

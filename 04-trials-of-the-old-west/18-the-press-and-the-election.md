@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD013 MD041 -->
 
-## Chapter 19 - The Press and the Election
+## Chapter 18 - The Press and the Election
 
 > _THE NEWSPAPER AND THE BALLOT ARE THE COUNTY'S TWO PEACEFUL WEAPONS, AND THE MEN WHO WIELD THEM ARE THE MEN WHO CHANGE THE COUNTY WITHOUT FIRING A SHOT. THE EDITOR CAN RUIN A NAME THE ROPE CANNOT REACH, AND THE POLITICIAN CAN RUIN A FACTION THE GUN CANNOT. THE WEST WAS BUILT BY THE BULLET AND THE ROPE, BUT IT WAS GOVERNED BY THE PRESS AND THE POLL._
 >
@@ -50,6 +50,21 @@ A story printed in the press is a **single check** (not an operation) that moves
 
 A story that fails (the editor rolls `0` successes) is a story the county disbelieves, which is a `Reputation` hit to the press and a `Standing` drop with the faction that paid for it. A story that succeeds wildly (`3+`) is a story the county repeats for months, which is the press's power at its height — the editor who broke the scandal, the editor who made the candidate, the editor who broke the faction.
 
+#### The Press as a Reputation Engine
+
+A single story moves `Fame` or `Standing` by a step. But the press's true power is not the single story — it is the **campaign**, the sustained shifting of the county's regard over weeks and months, edition by edition, until the subject's name is what the paper made it. The press is a **reputation engine**: an Influence engine (the factions chapter's system, Ch.13) scaled to the county, that shifts a target's county-wide Influence over time rather than in a single check.
+
+Each edition the press prints about a subject shifts that subject's **county Influence** — a tracked pool (cap `5`, like the faction Influence pool, but measuring the *county's* aggregate regard rather than one faction's). A puff campaign (three or four favorable editions across a season) steps the subject's county Influence up; a smear campaign steps it down. The county Influence pool feeds the subject's `Standing` with every faction in the county (the factions propagate it), which is the press's reach: it shifts regard *at scale*, in a way no single social conflict or saloon gossip can. The press is the only engine in the book that moves the county's regard wholesale, which is why the factions fight to own it.
+
+| The Press Campaign | The Effect on the Target's County Influence |
+| --- | --- |
+| **The puff campaign** (3+ favorable editions in a season) | `+1` county Influence per edition that succeeds; the subject's name is read well. |
+| **The smear campaign** (3+ unfavorable editions) | `-1` county Influence per edition that succeeds; the subject's name is read badly. |
+| **The revelation** (a true scandal, exposed and repeated) | `-2` county Influence, and the beginning of a cascade (the factions propagate the drop; the justice chapter may open a case). |
+| **The suppression campaign** (killing the subject's story, edition after edition) | No shift — but the subject's own attempts to build Influence through the press are blocked, which is the suppression's quiet power. |
+
+The reputation engine makes the press a **strategic asset** the factions fight to own, not a single-check tool. A faction that owns the press and runs a season of favorable editions builds its county Influence methodically; a faction that owns the press and runs a smear against a rival tears the rival's Influence down. The press's power is its *reach* — it shifts Influence at scale — and its risk is the libel suit, the suppression raid, the rival paper, and the county's eventual realization that it has been reading the paper's opinion dressed as the county's news.
+
 #### Suppression and the Counter-Press
 
 A story can be suppressed — killed before it runs, by the faction that would be harmed. A suppression is an operation (the outlaw chapter's frame) whose Progress is the story's death and whose Trouble is the editor's conscience, the rival press, and the leak. The robber baron chapter's "suppression job" is this operation, and a faction that cannot suppress a story must counter it — with a rival story, a rival paper, or the simpler tools of the county's other peaceful weapon, the election.
@@ -67,6 +82,23 @@ An election — for sheriff, county commissioner, mayor, territorial delegate, j
 | `The Territorial Office` | `8` | `5` | Territorial delegate, territorial council — the territory's reach |
 
 The Progress is the party's vote share. The Trouble is the opposition's work and the election's friction — the rival's campaign, the smear, the bought vote, the challenged ballot, the faction that turned, the fraud that was caught or the fraud that was not.
+
+#### The Electorate Pool — the Election as a Cumulative Contest
+
+For a campaign that wants the election to feel like a *campaign* rather than a single Operation, the chapter offers the **electorate pool**: the election as a series of scenes — the debate, the rally, the back-room negotiation, the press exchange — whose **audience** is the **electorate**, a tracked pool (the votes) that each scene shifts. The electorate pool is the cumulative-contest shape, and it replaces the flat Progress track with a pool that climbs and falls across the campaign's scenes, the way an actual election's momentum does.
+
+Set the electorate pool by the office's scale: `20` votes for a local office, `50` for a county office, `100+` for a territorial office. The pool starts split — half leaning to the party, half to the rival, with a margin of undecided the campaign fights over. Each campaign scene (the debate, the stump, the press edition, the canvass) is a social conflict — a phased Quarrel (the justice chapter's frame, Ch.11) or a single `PERFORMIN'`/`PRESENCE` check — whose winner shifts the electorate pool by the scene's weight. The campaign's tactics (the canvass, the money, the machine, the fraud, below) are the **leverage** and the **activity menu** that feed the scenes, the way evidence feeds a trial.
+
+| The Campaign Scene | The Pool Shift (winner) |
+| --- | --- |
+| **The debate** (a phased Quarrel, both candidates) | `±3` to `5` votes — the debate is the campaign's set-piece, and a strong showing swings the undecided. |
+| **The rally / the stump speech** (a `PERFORMIN'` check) | `±1` to `3` votes — the candidate's reach, by the crowd's size and the speech's landing. |
+| **The press endorsement / the smear** (the press chapter's move) | `±2` to `4` votes — the press's reach applied to the electorate; a smear campaign across the season swings the pool cumulatively. |
+| **The canvass** (the door-to-door, `PRESENCE`) | `±1` vote per session of canvassing — the slow, honest work of turnout. |
+| **The machine** (the faction's turnout operation) | `±2` to `5` votes — the ward heelers and the party organization, by the faction's `Standing`. |
+| **The fraud** (the stuffed box, the bought count) | `±5` to `10` votes — the high-risk leverage. A fraud that succeeds swings the pool sharply; a fraud that is caught is a scandal (the press) and a crime (the justice chapter), and the pool swings back twice as hard. |
+
+The election resolves on the electorate pool's **final count** on election day, not on a Progress target. The party with the higher count takes the office; a count within `5` votes (by the office's scale) is a **contested election** — a paper war (the inheritance chapter) fought in the courthouse and the press. The electorate pool's cumulative shape — many scenes feeding one pool, across the campaign's weeks — is what makes the election feel like an election: a momentum that builds and breaks, a ground game that turns out votes, a press that shifts opinion, and a fraud that risks everything for the sharp swing. The cumulative contest is the election's distinct structure, and no other subsystem in the book has it.
 
 #### The Campaign
 

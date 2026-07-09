@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD013 MD041 -->
 
-## Chapter 5 - Saloons and the Trade
+## Chapter 4 - Saloons and the Trade
 
 > _THE KEEPER IS THE MAN WHO STANDS BEHIND THE BAR AND HEARS THE COUNTY LIE ABOUT ITSELF SIX NIGHTS A WEEK. ON THE SEVENTH HE POLISHES THE GLASSES AND THINKS ABOUT WHAT HE HEARD, AND THE GLASSES DON'T JUDGE HIM FOR IT._
 >
@@ -24,7 +24,9 @@ You do not need these rules for a saloon the party merely visits. Use them when 
 
 ### The House as Business
 
-A saloon or brothel is a business, run by the corebook's rules with the following specifics.
+A saloon or brothel is a business, run by the corebook's rules with the following specifics. But a house is not a ranch or a mine, and the engine should not run it like one. The saloon runs on the **Investment Cycle** the trade chapters share — assess, invest, operate, reckon, reinvest — but the cycle's dial and its operating loop are the saloon's own.
+
+**Assess** the room and the county. The keeper reads who is drinking, who is spending, who is hunting, and who is being hunted, and the reading is the season's first job. **Invest** in the stock and the house's name — the good whiskey, the faro bank, the girl's retainer, the mirror that does not get broken, the bribe that keeps the law friendly. **Operate** the trade-night, every night, which is where the saloon's engine runs and the other businesses do not (below). **Reckon** the season at the Turn of the Season with the House Roll, read against the dials set in the invest step — a house that stocked cheap and bribed no one reckons against a thin room. **Reinvest** in the house's Crossroads rating or its `Refuge`, or take the season's profit and risk the county forgetting the place.
 
 - **Key ability.** `INSIGHT` for the keeper who reads the room and keeps the ledger (the most common); `PERFORMIN'` for the keeper who is the house's draw, the host, the voice; `PRESENCE` for the keeper who holds the place by force of personality or the threat of what waits behind the bar. The keeper's player rolls the Season Roll.
 - **Prerequisites.** A property to trade from (a barroom, a back room, a kitchen, rooms above or behind), a license or the willingness to do without one, and stock — whiskey, beer, wine, the faro layout's bank, the girls' wages. The corebook's property and business rules cover the building and the capital.
@@ -46,9 +48,13 @@ A saloon or brothel is a business, run by the corebook's rules with the followin
 | `51-56` | A bonanza year, the house the center of everything. `+2` Capital. | A fire, a murder, a scandal — the house is the center of everything. `2D6 × $50` in losses; a name in the paper or a warrant. |
 | `61-66` | The year the house became an institution. `+1D3` Capital. | The year the house nearly burned, or was nearly bought, or nearly closed. Lose `1` Capital; cover it or sell. |
 
-### The House Gauge — Refuge and Reputation
+### The House Gauge — Refuge and the Crossroads Rating
 
 A house is more than its books. It is a place the county comes to, and the county's regard for it is the engine of its custom and its danger. Track the house's standing as a `Refuge`-style gauge, mirroring the outlaw chapter's settlement `Refuge` but applied to the house itself.
+
+But the saloon's distinct dial is not its safety. It is its **Crossroads rating** — how much of the county's traffic comes through the swinging doors. A high Crossroads rating means more custom, more information, and more trouble, all three in proportion; a low rating means the county goes around, and the house dries up. The Crossroads rating is the dial the keeper manages across the Investment Cycle: the good whiskey raises it, the broken mirror lowers it, the faction's patronage raises it and the committee's eye lowers it, and the keeper's nightly Trade-Night (below) is where it shifts one drink at a time.
+
+Track the Crossroads rating alongside `Refuge`, on the same `-2` to `+2` ladder. The two move together more often than not — a house the county trusts is a house the county visits — but they are not the same thing. A house can be a crossroads and a trap at once (high Crossroads, low `Refuge`): everyone comes, no one is safe, and the keeper hears everything because everyone is too busy watching the door to watch their drink. The county's boom-camp saloons were exactly this — the center of everything and the danger of it.
 
 | House Refuge | What It Means |
 | --- | --- |
@@ -92,3 +98,55 @@ The saloon is where the faction system lands hardest, because the saloon is wher
 The keeper's choice — to serve, to warn, to refuse, to send word up the road, to rent the back room to one faction and not another — is a `Standing` move with every faction in the county, every night. A keeper who lets the Committee meet earns the Committee's regard and the bench's suspicion; a keeper who warns the wanted man earns his gratitude and the marshal's. The saloon is the engine's densest crossroads of `Standing`, and a keeper played well will find her house's gauge shifting with every drink she pours and every door she opens or bars.
 
 The keeper is the one who hears everything, and the county's memory of what she heard is the house's ledger and its risk. A saloon the county uses is a saloon at the center of every tale that crosses its threshold, which is the chapter's promise and its danger in equal measure.
+
+### The Trade-Night
+
+The Trade-Night is the saloon's operating loop, and no other business in the book has one like it. A rancher works a season and reckons once; a keeper works a night and reckons every round. The Trade-Night is the **operate** beat of the Investment Cycle made into a scene-level frame — a light, distinct procedure that resolves a night behind the bar without becoming a combat or a full social conflict. Run it when a night at the saloon is the session's scene, not when the party only stops in for a drink.
+
+A Trade-Night runs in **Shifts** — the evening, the late trade, the small hours — and each Shift the keeper makes **one read** and **one move.**
+
+#### The Read
+
+The keeper (or a player character working the bar) rolls `INSIGHT` to read the room — who is drinking, who is talking to whom, who is holding a grudge, who is holding a card up his sleeve, who should not be here and who is missing who should be. The read is the intelligence-gathering that no other business does at its operate beat.
+
+| Read (`INSIGHT`) | What the keeper learns |
+| --- | --- |
+| `0` | The room is a blur. The keeper misses the trouble until it is trouble. |
+| `1` | The keeper reads the surface — who is drunk, who is paying, who is watching the door. |
+| `2+` | The keeper reads the undercurrent — the faction's man talking too quietly to the stranger, the girl's distress, the wire that has not arrived yet but whose absence is the news. `+1` to the next move's pool per success beyond the first. |
+
+#### The Move
+
+Each Shift, the keeper makes **one move** — the choice that is the saloon's real trade. Each move is a `Standing` shift with the faction whose man is in the room, and each shifts the Crossroads rating or `Refuge` by the weight of the move.
+
+| The Move | The Pool | The Effect |
+| --- | --- | --- |
+| **Serve** | none — the default | The drink goes out; the custom is honored; the faction's man is welcome. `Standing` with that faction `+1` step if the drink was on the house (and the books take the cost). |
+| **Warn** | `PRESENCE` | A quiet word to the man who is about to be trouble. Success sends him out without a scene; failure makes the scene. Crossroads rating `+1` if the warning holds, `-1` and `Refuge` `-1` if it doesn't. |
+| **Refuse** | `PRESENCE` | The keeper will not serve a man — the wanted, the drunk, the enemy of the house. `Standing` with that man's faction `-1`; `Standing` with the faction that wanted him refused `+1`. Crossroads rating `-1` (the county notices a door closed). |
+| **Listen** | `INSIGHT` | The keeper sets a glass down and lets the man talk. The keeper hears what the man came to say, which is the saloon's true stock-in-trade. A successful listen earns a piece of information worth `+1` to the next Trade-Night's read, or `+1` to a `Standing` roll with the man's faction. |
+| **Rent the back room** | `INSIGHT` or `BOOKLEARNIN'` (the ledger) | The keeper rents the back room to a faction's meeting, a private deal, a girl and a customer. The room's take is `D6 × $10`; the Crossroads rating `+1` (the house is where things happen); the `Refuge` shifts by the meeting's nature — a faction's planning raises it with that faction and lowers it with the faction's enemy. |
+
+A Trade-Night is three to five Shifts, and by the small hours the keeper has shifted `Standing` with half the county's factions, moved the Crossroads rating up or down by the night's trade, and assembled a ledger of what she heard that no one else in the county has. That ledger is the saloon's other currency, and the faction engine (Ch.13) is where it spends.
+
+> _The keeper poured the last round of the late trade and set the glass in front of the cornishman, who had been nursing the same drink since the evening because the cornishman's money was in his cough and not in his pocket. At the far end of the bar the deputy had not moved, and the two strangers who had come in out of the rain were at the faro layout losing money they did not seem to mind losing, which meant they were not there for the faro._
+>
+> _She read the room the way she read it every night — the deputy's stillness, the cornishman's poverty, the strangers' indifference to their own money — and she made her move, which was to send the girl with a bottle to the strangers' table and to leave the deputy's glass empty, which was the price she put on his company and the message she sent back._
+>
+> "Refill the strangers," she said to the girl, quietly. "On the house."
+>
+> _The cornishman heard it, because the cornishman heard everything, being too poor to do anything but listen. The deputy heard it, because the deputy was paid to hear. The strangers did not look up, which told the keeper what the free whiskey was for, which was the confirmation of the thing she had already read in their indifference._
+>
+> _That was the Trade-Night, and the keeper's ledger grew by a line the county would pay for later, in `Standing` or in cash, and the Crossroads rating of the house ticked up a notch, because a house where the strangers came in out of the rain and were read for what they were was a house the county's traffic came through, and the traffic was the trade._
+
+### The Saloon and the Other Rules
+
+The saloon ties the book's social and economic threads together, and it is the engine's densest crossroads — the place the faction system, the business rules, and the information economy all meet across a bar.
+
+- **The Crossroads rating** (above) is the saloon's distinct dial in the Investment Cycle, and it is where the faction chapter (Ch.13) lands hardest. The keeper manages it nightly; the faction engine reads it seasonally.
+- **The Trade-Night Procedure** is the saloon's operating loop, and no other business in the book has one. It is the operate beat of the Investment Cycle made into a scene, and the keeper's ledger is the intelligence-gathering that makes the saloon the county's ear.
+- **The Investment Cycle** (assess, invest, operate, reckon, reinvest) is shared with the other business chapters (Ch.4–9). The saloon's currency is its reputation and its information; its distinct resource is the Crossroads rating; its reckon is the House Roll.
+- **The sickness chapter** (Ch.3) is where the girl who is sick lands, and the trade in rooms is where the disease spreads; a keeper runs a house of disease as surely as a house of drink.
+- **The justice chapter** (Ch.11) is where the killing on the premises and the warrant for the wanted man drinking in plain sight both land.
+
+The keeper is the man or woman who stands behind the bar and hears the county lie about itself six nights a week, and on the seventh polishes the glasses and thinks about what was heard. The trade is the reading and the placing of the glasses, and the engine should let the keeper play the county's faction map one drink at a time, the way the actual keepers did, the way the ledger was kept, and the way the county's business got done across a bar that was always open and never quite honest about what it knew.

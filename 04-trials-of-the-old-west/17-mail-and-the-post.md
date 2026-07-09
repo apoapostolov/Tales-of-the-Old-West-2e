@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD013 MD041 -->
 
-## Chapter 18 - Mail and the Post
+## Chapter 17 - Mail and the Post
 
 > _THE MAIL IS THE COUNTY'S ONLY REGULAR VISITOR FROM THE WIDER WORLD. IT RIDES IN ON A SCHEDULE THE COUNTY CAN SET ITS CLOCK BY, AND IT CARRIES MORE THAN LETTERS — IT CARRIES THE DEED, THE NOTE, THE NEWSPAPER, THE PAYROLL, AND THE WORD FROM HOME THAT A MAN HAS BEEN WAITING A MONTH TO HEAR OR DREADING A MONTH TO HEAR._
 >
@@ -44,6 +44,14 @@ The mail runs on routes, and the routes are the county's arteries. A route is a 
 
 A letter's delivery time is the route's speed multiplied by the distance. A letter from the railhead to the mine camp, eighty miles of horseback on the star route, is two Shifts of travel, which is a day, plus the stop at the way-station, plus the rider from the way-station to the mine — call it two days, if the weather holds and the rider knows the country. A letter by express is faster and dearer. A letter by rail is the fastest the country can move paper, and it only goes where the rail goes.
 
+#### The Mail Schedule as a Metronome
+
+The mail arrives on a **known schedule**, and the schedule is the county's clock. The star-route rider comes through on Tuesdays and Fridays; the stage arrives on Wednesday; the rail mail lands at the platform three times a week. The county knows these days the way it knows the weather, and the county times its life by them — the letter mailed on Monday to arrive Thursday, the payroll that rides the Wednesday stage, the newspaper that comes in on the rail and is read at the way-station counter by Friday. Put the mail days on the campaign calendar, and let the county and the party set their clocks by them.
+
+The schedule is a **strategic lever**, the same schedule-as-metronome primitive the trade chapter (Ch.5) uses for the railroad's rhythm. A faction that wants to control information times its moves to the mail's arrival — the smear printed in the weekly that mails Thursday, the warrant sworn on Wednesday so it rides the stage to the next county by Friday. A party that wants to intercept a letter, or send one, or be absent when one arrives, knows the window, and the window is the lever. A party that knows the southern route is cut and the mail is sitting at the toll gate is a party that knows the mine's powder is late and the mine's round is in jeopardy, which is the kind of information the schedule makes mechanical — the party reads the calendar the way Sandoval read it, and acts on what the calendar says is coming.
+
+The mail schedule is also the county's vulnerability, and the party that knows it can use it. A wire cut (the wire chapter) and a mail holdup on the same day is a county deaf and blind for the duration, which is the outlaw's oldest combination. The schedule metronome makes the timing of the move as important as the move itself, which is the truth of every mail robbery and every mail-borne fraud the actual West ran.
+
 #### What's in the Mailbag
 
 The mail carries more than letters. The mailbag is the county's regular shipment of everything the rail and the road bring that is light enough to ride in a sack, and the GM should let the mailbag be what it was.
@@ -68,11 +76,21 @@ A mail run — carrying the mail from one stop to the next, on contract or on hi
 
 The mail-run rider's pay is the contract rate (the star route) or whatever the hirer will pay (the special), and the mail-run's Trouble is the reason the mail runs on a schedule the county lives by: the mail is late when the rider is late, and the county's powder, payroll, and letters are late with it. A rider who loses the mail — to weather, to a raid, to the river — owes the county the mail's contents, which is a debt the post office and the express company both remember.
 
-#### The Mail Robbery
+#### The Mail Robbery — the Roadside Ambush
 
-The mail robbery is the train robbery's older, poorer cousin, and it is run on the same operation frame. A mail robbery is a `Small` to `Medium` operation (`4` to `6` Progress, `3` to `4` Trouble), depending on whether the mail rides a star-route rider (Small), a stage (Small to Medium), or a rail mail car (Medium, and the train robbery chapter's territory).
+The mail robbery is the train robbery's older, poorer cousin, and it should feel *smaller and meaner* than the iron-horse job — a roadside affair, not a set-piece. Where the train robbery is a multi-stage Operation with casing and Heat and a dedicated chapter, the mail robbery is a **roadside ambush**: a single extended scene, one or two checks, resolved fast and mean. The distinction is the *weight*, not just the nouns. The train job is a campaign event; the mail job is a risky errand.
 
-The mail robbery's central fact is the federal protection. A mail sack carried by U.S. Mail is under federal law, and the man who takes it has made a federal enemy the marshal's office does not drop. A mail robbery raises the gang's `Wanted` to `Federal` on the mail alone, regardless of the take, exactly as the train robbery chapter establishes for the mail car. A gang that means to keep its `Wanted` at `Regional` must know which sacks are federal mail and leave them, which is a `HAWKEYE` or `INSIGHT` read at the scene, and which is the kind of distinction a mail robber learns to make or hangs for not making.
+A roadside ambush is **not** a Progress-versus-Trouble Operation. It is a single scene with two or three exchanges: the stop (a log across the road, a rifle aimed at the rider, a grade the horses cannot hurry), the take (the mail sack or the express pouch, lifted from the rider or the stage), and the flight (before the county notices the mail is late). Each exchange is one check — `PRESENCE` or `SHOOTIN'` for the stop, `LIGHT-FINGERED` or `PRESENCE` for the take, `ANIMAL HANDLIN'` or `NATURE` for the flight — and the whole scene resolves in a quarter the time a train job takes.
+
+| The Ambush's Exchange | The Check | The Failure |
+| --- | --- | --- |
+| **The stop** | `PRESENCE` (the threat), `SHOOTIN'` (the shot across the bow), or `LABOR` (the obstruction) | The rider runs, or the stage bolts, or the shotgun messenger draws. |
+| **The take** | `LIGHT-FINGERED` (the pouch cut free), `PRESENCE` (the rider's nerve) | The take is partial, or the rider hides the express pouch, or the messenger gets a shot off. |
+| **The flight** | `ANIMAL HANDLIN'`, `NATURE` | The pursuit forms; the gang's `Wanted` climbs; the wire (if not cut) goes out. |
+
+A roadside ambush that succeeds cleanly is a poor man's score — the mail sack's contents (a payroll, a deed, a bundle of letters) are the take, and the gang is gone before the schedule's absence is noticed. A roadside ambush that fails is a federal crime on the mail alone, and the marshal's office does not drop it. The mail robbery's central fact — the federal protection — raises the gang's `Wanted` to `Federal` on any U.S. Mail taken, regardless of the take's size, exactly as the train robbery chapter (Ch.10) establishes. A gang that means to keep its `Wanted` at `Regional` must know which sacks are federal mail and leave them, which is a `HAWKEYE` or `INSIGHT` read at the scene, and which is the kind of distinction a mail robber learns to make or hangs for not making.
+
+The roadside ambush is mechanically *lighter* than the train job by design. A gang that wants the iron horse's payoff runs the train job's full Operation; a gang that wants a quick score or a specific letter runs the roadside ambush. The two are the same trade at different weights, and the engine should let the weight tell — the train job is the campaign's climax, the mail job is a Tuesday.
 
 #### The Star-Route Swindle
 

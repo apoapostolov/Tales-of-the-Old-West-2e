@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD013 MD041 -->
 
-## Chapter 11 - Train Robbery and the Iron Horse
+## Chapter 10 - Train Robbery and the Iron Horse
 
 > _SHE WILL DO WHAT YOU TELL HER. THAT IS THE ENGINE. THE MEN BEHIND HER ARE THE ONES YOU HAVE TO WATCH, AND THE WIRE IS FASTER THAN YOU ARE._
 >
@@ -80,6 +80,30 @@ The sabotage is also the gang's chance to cut the wire ahead of the robbery, whi
 The desperate stop, and the one the dime novels love. The gang rides alongside the rear of the train at a gallop and boards from horseback, taking the caboose and working forward. This is the only stop that does not require the train to slow — and it is the most dangerous, because a man between a horse at speed and an iron car at speed is a man the physics will write off.
 
 A boarding is a `MOVE` or `ANIMAL HANDLIN'` roll to make the jump, with a penalty die for every ten miles an hour the train is making over a walk. On a failure, the boarder is down — a fall, a crushed limb, a man under the wheels — and the gang is one short and has made noise the crew heard. The boarding uses the **chase range ladder** from Chapter 6 of the corebook to track the boarders' progress through the train: the caboose is the entry, the express car is the target, and each car between is a range category the boarders must close against the resistance of the crew and any armed passengers.
+
+### The Casing Layer
+
+A heist's pleasure is half in the plan, and the engine should reward the plan mechanically, not just narratively. The **Casing Layer** is the gang's pre-Operation intelligence-gathering phase — distinct from the robbery itself, run in the Shifts before the job, where each gang member takes one **casing action** to learn the run and bank an advantage for the stages to come.
+
+The Casing Layer is the investigation primitive inverted: the gang is gathering clues *about the job*, and the clues become dice. A gang that cases well enters the Operation with a pool of banked dice that reward the plan; a gang that improvises enters the Operation bare and pays for it in steeper Trouble.
+
+#### Casing Actions
+
+Each Shift of preparation, each gang member takes **one** casing action. Each successful casing action grants the gang a **casing die** — a bonus die banked for a specific stage of the Operation (the signal, the express car, the wire, the get clear). A casing die is spent on the stage it was banked for, adding its pool to that stage's roll.
+
+| The Casing Action | The Pool | What It Banks |
+| --- | --- | --- |
+| **Case the run** | `HAWKEYE` | Learn the schedule, the crew, the habitual stops, the grades where the train slows. Banks a casing die for the stop or the get-clear. |
+| **Read the railroad** | `INSIGHT` | The wire traffic, the detective's pattern, the mail car's contents, the company's mood. Banks a casing die for the wire stage or the Heat Track (below). |
+| **Turn the inside man** | `LIGHT-FINGERED` or `PRESENCE` | Turn the clerk, sweet-talk the fireman, buy the agent. Banks a casing die for the express car or the signal, depending on the inside man's position. |
+| **Work the wire** | `OPERATE` or `LIGHT-FINGERED` | Cut the wire ahead of time, or plant the dummy message (the wire chapter, Ch.16). Banks a casing die for the wire stage, or removes the wire as a Trouble source for the whole job if fully cased. |
+| **Scout the ground** | `NATURE` or `HAWKEYE` | Read the country the gang will ride into — the crossings, the blind ground, the pursuit's likely path. Banks a casing die for the get-clear and the `Hard Ride and Flight` after. |
+
+A gang typically takes **two to four Shifts** of casing before a job. Each casing action is rolled on the standard success ladder: `0` reveals nothing (and may alert the railroad — see below), `1` banks one casing die, `2+` banks a casing die and grants `+1` to its face when spent. A gang member may case the same aspect twice to bank two dice for the same stage, or spread the casing across stages to cover the job's several problems.
+
+**The risk of casing.** Each failed casing action (`0`) raises the railroad's awareness — roll a `D6`: on a `1`, the railroad's detective or agent notices the interest, and the gang's **Heat** (below) climbs one step before the job even begins. A gang that cases clumsily is a gang that has told the railroad a job is coming, and the railroad listens.
+
+The Casing Layer makes the plan mechanically rewarding, which is the heist genre's core pleasure. A gang that cases the run, turns the inside man, and works the wire enters the Operation with a fistful of banked dice that a gang that rides up at dusk and improvises lacks — and the Operation's Trouble is steeper for the unprepared, because the unprepared gang meets the express messenger cold and the wire hot.
 
 ### The Robbery as Operation
 
@@ -172,4 +196,41 @@ The railroad's Faction Roll each season is the engine of its memory. A `Pressure
 
 The wire is the railroad's great advantage and the gang's great enemy. The gang that cannot cut the wire, or send the dummy message, is a gang the company tracks in real time. Treat the wire as a standing modifier on the gang's `Hard Ride and Flight` after a train job: if the wire got out, the pursuit begins at `Regional` and climbs toward `Federal` as the company's wires ahead of the gang assemble the picture. If the gang cut the wire or sent the dummy, the pursuit begins at `Local` and the gang has the head start the wire would have stolen.
 
-A campaign that uses these rules will find that the iron horse changes the county the way it changed the actual West: it brings money, witnesses, the wire, and the long reach of a company that does not forget. A gang that robs a train has taken from the most organized interest in the country, and the country will collect. The train robbery is the most lucrative score in the outlaw's trade, and it is the score most likely to end the gang.
+### The Heat Track
+
+The railroad's `Standing` drops when the gang robs it, but `Standing` is the county's general regard — it resets, it softens, it can be repaired with a service. The railroad's **memory** is different. The railroad keeps a file, and the file grows with every train job in its territory, and the file does not soften. Track the railroad's memory as a **Heat gauge** (`0`–`5`), distinct from `Wanted` and from `Standing`. Heat is the railroad-faction's distinct expression — the faction-web primitive scoped to one adversary — and it makes the railroad's pursuit escalate across jobs rather than reset each score.
+
+| The Heat Gauge | The Railroad's Response |
+| --- | --- |
+| `0` | **Cold.** The railroad has no file on the gang, or the file is closed. Jobs are cased and run at ease. |
+| `1–2` | **Warm.** The railroad has noticed. The company's local detective reads the patterns; a rider watches the way-station platforms. Casing actions face a `-1` pool (the railroad is alert); `Wanted` after a job begins at `Regional`. |
+| `3` | **Hot.** The railroad assigns a **dedicated detective** — a recurring NPC with a name and a file, who appears on the gang's trail across sessions. Casing actions face a `-1` pool; the detective adds `+1` Trouble die to any job in the territory; `Wanted` begins at `Federal` if mail was involved. |
+| `4` | **Burning.** The railroad hires the Pinkertons or petitions for federal marshals. The detective is now a squad; patrols ride the line; the gang's fence and way-station contacts are leaned on. Every job in the territory adds `+1` Trouble die. |
+| `5` | **Inferno.** The railroad has made the gang its specific business. Federal troops may be petitioned (the political chapter, Ch.25); the railroad offers rewards; the gang's name is on wires in three territories. Running a train job at Heat `5` is a `Desperate` operation on every stage, and the railroad will not stop until the gang is broken, hanged, or gone from the territory. |
+
+**Heat climbs** by one step with each train job in the railroad's territory — the file grows. It climbs an additional step if the job killed passengers or crew, if the mail was taken, or if the railroad's detective was made a fool of. It **decays** by one step per season the gang lies low in that territory (no train jobs, no casing, no fence-work for the railroad's paper), which is the engine's way of saying the file never closes but the urgency fades. A gang that robs one train and then rides to another railroad's territory for a year comes back to find the Heat at `1` or `0` — the file is still there, but the detective has been reassigned, and the gang is yesterday's problem.
+
+The Heat Track is the railroad's persistence, and it is the thing that makes a gang that robs trains different from a gang that robs banks. A bank job is a local crime with a local tail; a train job is a crime against an institution that keeps files, assigns detectives, and escalates its response across the season and the campaign. A gang that robs the same railroad three times is a gang the railroad has decided to break, and the Heat gauge is the engine's way of tracking the railroad's decision, one step at a time, until the gang is broken or the file is the gang's epitaph.
+
+> _Miller brought the newspapers from the platform, the way he always did, and he laid the one from Denver on Sandoval's counter with his finger on the third column. The column said the railroad had put a man on the Cimarron run — a Pinkerton, by the paper's read, which meant the company was no longer playing at detection and had decided to spend real money on whoever had hit the line three times since the spring._
+>
+> "Three times," Sandoval said, reading it.
+>
+> "Three times." Miller did not take his finger off the column. "The heat's up, Adelina. They're not sending a local man this time. They're sending a name."
+>
+> "Whose name does Riddle carry on this?"
+>
+> "Riddle's name is in the file now, if the inside man talked, which the inside man always talks. The heat doesn't cool by robbing the same road. It cools by leaving the road alone, or by leaving the road's territory, and Riddle is in no shape to leave the territory."
+>
+> _Sandoval read the column twice and folded the paper and put it under the ledger. The Heat gauge had climbed another notch, and the gang that had been the railroad's problem was becoming the railroad's business, and the railroad's business was the kind that ended in a wire and a troop and a rope, in that order, unless the gang found a different road to rob or a different territory to rob it in._
+
+### The Iron Horse and the Other Rules
+
+The train robbery ties the book's crime and commerce threads together, and it is the engine's most lucrative score — and the most likely to end the gang.
+
+- **The Casing Layer and the Heat Track** are the robbery's two distinct layers beyond the Operation. The Casing Layer rewards the plan (banked dice for cased stages); the Heat Track makes the railroad a persistent adversary whose response escalates across jobs. The Operation itself is unchanged.
+- **The wire chapter** (Ch.16) is the gang's great enemy and the Casing Layer's great tool — a wire cut ahead of time is a cased stage; a wire that gets out is the Heat Track's accelerant.
+- **The justice chapter** (Ch.11) is where the mail's federal reach and the Heat Track's detective both land — the detective's file is the prosecutor's evidence.
+- **The banking chapter** (Ch.9) is the train robbery's twin — the same Operation frame, the same anatomy, the different institution. A gang that robs both is a gang whose Heat and whose `Wanted` are both climbing, and the engine should let both climb.
+
+A campaign that uses these rules will find that the iron horse changes the county the way it changed the actual West: it brings money, witnesses, the wire, and the long reach of a company that does not forget. A gang that robs a train has taken from the most organized interest in the country, and the country will collect, with interest, across seasons. The train robbery is the most lucrative score in the outlaw's trade, and it is the score most likely to end the gang — not in a shootout, but in a file that grew until the file was a noose.

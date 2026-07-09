@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD013 MD041 -->
 
-## Chapter 13 - Atrocities and Human Trade
+## Chapter 12 - Atrocities and Human Trade
 
 > _THE WEST WAS BUILT ON LAND TAKEN AND PEOPLE SOLD AND PEOPLE KILLED WHO WERE IN THE WAY. A RULEBOOK THAT HIDES THAT IS LYING ABOUT THE COUNTRY. A RULEBOOK THAT CELEBRATES IT IS WORSE THAN A LIE, AND A RULEBOOK THAT MAKES A GAME OF IT WITHOUT ITS WEIGHT IS THE WORST THING OF ALL._
 >
@@ -48,14 +48,38 @@ The engine's damage tracks are the chapter's moral instrument. A character who p
 
 | Trouble Step | What the Doer Takes |
 | --- | --- |
-| `1` | `1` `Doubts`. The act is in the character's head and will not leave. |
-| `2` | `1` `Doubts` and `1` `Vexes`. The character is short with his company, drinks later, does not sleep. |
-| `3` | `1` `Doubts` and `1` `Vexes`, and the character's `Reputation` begins to carry the act — the county talks. |
-| `4+` | `1` `Doubts` and `1` `Vexes`, a permanent `Reputation` shift toward the violent and the feared, and a `Cohesion` test for any unit or band that did the work together. |
+| `1` | `1` `Doubts`. The act is in the character's head and will not leave. Steps the **Corrosion Track** (below) up by `1`. |
+| `2` | `1` `Doubts` and `1` `Vexes`. The character is short with his company, drinks later, does not sleep. Steps the Corrosion Track up by `1`. |
+| `3` | `1` `Doubts` and `1` `Vexes`, and the character's `Reputation` begins to carry the act — the county talks. Steps the Corrosion Track up by `1`. |
+| `4+` | `1` `Doubts` and `1` `Vexes`, a permanent `Reputation` shift toward the violent and the feared, and a `Cohesion` test for any unit or band that did the work together. Steps the Corrosion Track up by `1`. |
 
 A character pushed to `Broken` on `Docity` by these `Doubts` is a character the act has broken, and the engine should let that play — the drink, the desertion, the sermon, the suicide, the long quiet life of a man who cannot forget a face. The chapter does not offer absolution. It offers the engine's honest accounting, which is that the men who did these things in the actual West carried them, and many of them were broken by the carrying, and the broken ones were not less real than the unrepentant ones.
 
-A character who refuses the order — who will not move the people, will not fire the camp, will not take the captives — makes an enemy of the faction that gave the order and risks `Wanted`, court-martial, or the rope. The engine makes the refusal costly too, because it was, in the actual West, costly and rare, and a rule that made it easy would be lying about the country. A refusal is a `Standing` drop with the ordering faction (often to `Hunted`), a `Fame` shift toward the principled (which cuts both ways), and the beginning of a different campaign — the campaign of the man who said no, and what the country did to him for it.
+#### The Moral Corrosion Track
+
+The `Doubts` and `Vexes` the table above assigns are the immediate cost — the act's weight in the doer's damage tracks, which heal and push and pay the way damage always does. But the moral weight of atrocity does not reset the way a damage track does. It **accumulates**, across atrocities and across the campaign, in a character's `Reputation`, his `Standing` with the county's decent factions, and the kind of man the county reads him as. Track this accumulation as a **Corrosion gauge** (`0`–`5`), the corruption/taint primitive calibrated to moral weight rather than the supernatural. The Corrosion gauge is the chapter's long-term instrument, and it is the thing that makes a man who has done three atrocities a different man from one who has done one, even if his damage tracks have healed between them.
+
+| The Corrosion Gauge | What the Character Has Become |
+| --- | --- |
+| `0–2` | The character carries what he has done, but the county does not know him by it. The damage tracks tell the private cost; the public man is whole, for now. |
+| `3` | **The Reputation shifts.** The character's `Reputation` takes a permanent lean toward the violent and the feared. The county's decent factions (the church, the reformers, the law-abiding) drop `Standing` by one step; the county's hard men (the Committee, the rustlers, the corrupt) rise by one. The character is read as a man who has done a thing, whether he admits it or not. |
+| `4` | **The name travels.** The character's `Fame` shifts toward the feared; the decent factions drop another step; strangers have heard the name and the story. The character is the man who did the thing, and the thing is the first thing the county says about him. |
+| `5` | **Corroded.** The character is the thing he did. The decent factions are at `Hunted` or worse; the county's worst factions court him; the character's `Docity` is capped (he cannot fully heal the `Doubts` the work left). The engine should let this be a slow moral death the campaign tracks — the man the atrocity made, carrying it until he is undone by it or redeems it at a cost the ledger will name. |
+
+The Corrosion gauge climbs with every atrocity the character participates in (one step per Operation, plus the Trouble steps above). It **does not decay on its own** — a season of peace does not wash the work off the man, the way a season of peace does not wash a rusted nail. The only way to step the Corrosion gauge down is the **atonement dial**: costly, risky acts of repair or refusal — freeing captives taken by one's own side, testifying against the faction that gave the order, standing between the Committee and its target. Each atonement act is a `RESILIENCE`/`DOCITY` roll made under real danger (the faction's enmity, the county's ridicule, the physical risk), and success steps the Corrosion gauge down by one. Atonement is slow, dangerous, and never complete — a man who reaches `Corrosion 5` and works his way back to `2` has done heroic work, and the `2` he carries is still the record of what he did. The chapter does not offer absolution. It offers the engine's honest accounting, which is that the men who did these things and then tried to undo them were rarer than the men who did them, and the undoing cost the undoiners more than the doing cost the doers.
+
+#### The Refusal
+
+A character who refuses the order — who will not move the people, will not fire the camp, will not take the captives — has made the chapter's central moral choice, and the engine makes the choice a real one by making it costly on both sides. The refusal is a **protected dial**: it steps the Corrosion gauge *down* by one (the character chose not to do the thing, and the choosing is a kind of repair), but it shifts the character's `Standing` with the ordering faction sharply toward `Hunted` and risks the court-martial, the rope, or the bullet in the back for the refusal itself.
+
+| The Refusal's Cost | The Effect |
+| --- | --- |
+| **With the ordering faction** | `Standing` drops to `Hunted` (or worse, if the faction is the army and the refusal is in the field — the court-martial, the firing squad). |
+| **With the county's decent factions** | `Standing` rises by one step — the church, the reformers, the people who were spared. The refusal is the only act in this chapter that *improves* a character's regard with the decent, which is why it is rare and why the engine makes it hurt. |
+| **On the Corrosion gauge** | Steps *down* by one. The refusal is an atonement act made under fire, and it counts as one. |
+| **On the character's safety** | The refusal risks `Wanted` (if the faction frames it as a crime), the Committee's attention (if the faction is the county's hard men), or the physical danger of being the man who said no in front of men with guns who said yes. The GM should frame the refusal's consequence as a real and present danger, not a footnote. |
+
+The refusal is the chapter's central moral choice because it is the only choice the engine makes genuinely *both-sided* — costly on the side of the faction whose order was refused, and redeeming on the side of the Corrosion gauge and the decent factions. A character who refuses is a character who has bet his life, his `Standing`, and his career against the weight of the act he would not do, and the engine should let that bet be as dangerous and as redeeming as it was in the actual West, where the men who refused were few, and the country did not thank most of them, and the ones it did thank were thanked long after the cost was paid.
 
 ### The Trade in People
 
@@ -68,6 +92,14 @@ The trades of the period, each a faction or an outlaw operation:
 - **Convict leasing.** The system by which the Black freedman was returned to bondage by the law — arrested on a trumped charge, fined beyond his means, leased to the railroad, the mine, or the plantation at a profit to the state and a cost to the convict that exceeded the slave's cost, because the convict was cheaper to work to death than the slave had been. The engine treats the convict lease as a faction's resource and the party's encounter with it (a party that breaks a convict out of a lease camp has made a Federal enemy) as the engine's hard choice.
 - **The Chinese trade.** The movement of women across the Pacific and through the railheads for the brothels of the West, run by the tongs, underwritten by the exclusion that made the women worth more for their scarcity. The engine treats the trade as the saloon chapter's hardest edge — the rooms that are not voluntary, the women who are not free to leave, the keeper who may or may not know, and the party's choice to disrupt the trade at the cost of the tong's enmity and the law's indifference.
 - **The re-enslavement and the terror.** The Black codes, the Klan, the lynching (the justice chapter's hardest result), and the practical unfreedom of Black life in the former Confederacy and the territories. The engine treats the terror as a faction (the Klan, the Committee, the Rangers) operating outside or beside the law, and the party's relation to it as the chapter's central moral test — to oppose, to endure, to flee, or to be complicit.
+
+#### The Captive as a Tracked Person
+
+The trade's cargo is a person, and the engine treats the person as a person, not a commodity. A captive is a **named NPC** — with a name, attributes, the corebook's condition ladder, and a `Standing` with the captor (a small gauge, `-3` to `+3`, that shifts with treatment). The captive's condition tracks are **live**: a captive who is starved takes the `Starving` condition; a captive who is beaten takes real harm on the damage tracks; a captive who is `Broken` on an attribute is a captive the captor has harmed in a way the engine makes the player *see*, not a Trouble step the dice abstract away.
+
+The captive's `Standing` with the captor is the gauge the captor's treatment moves. A captive treated as a human being (fed, sheltered, not beaten) sees `Standing` climb toward `0` or above — which, in the trade's grim logic, means the captive is more likely to be kept alive, sold for a higher price, or (rarely) freed. A captive treated as cargo (starved, beaten, broken) sees `Standing` drop below `0` — which means the captive is nearer to death, to the abuse that kills, or to the sale that disperses the person into the trade's machinery. The engine does not reward cruelty (cruelty steps the Corrosion gauge up, regardless of the captive's `Standing`), but it makes the captive's `Standing` the mechanical face of the trade's central horror: the captive's survival depends on the captor's reading of her, and the captor's reading is a gauge the dice track.
+
+A party that encounters a captive — by taking one, by buying one (the rescue, the redemption), by finding one in a raid — must decide what to do with the person, and the engine makes the decision a tracked one. Freeing a captive is an atonement act (steps the Corrosion gauge down); holding one is the trade; selling one is the trade's economy; and a captive who travels with the party is a named NPC whose condition and `Standing` the party tracks, the way it tracks any compadre, which is the engine's way of refusing to let the cargo be abstract. The captive is a person. The rules treat her as one. The player cannot look away, which is the chapter's whole purpose.
 
 ### The Army and the Ranger at Their Worst
 
