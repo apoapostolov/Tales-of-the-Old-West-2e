@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD013 MD024 -->
+<!-- markdownlint-disable MD013 MD024 MD033 -->
 
 # Tales of the Old West 2E
 
@@ -15,8 +15,8 @@ Unofficial manuscript set for _Tales of the Old West_ — a gritty tabletop
  RPG set on the American frontier of the 1870s.
 
 This is a fan-made package for groups who want a sharper, more usable version
-of the game: one complete corebook, one full setting supplement, and the skill
-tools to keep new material in the same hard, western voice.
+of the game: one complete corebook, two full supplements, and the skill tools
+to keep new material in the same hard, western voice.
 
 ## What is in this repository
 
@@ -24,12 +24,15 @@ tools to keep new material in the same hard, western voice.
 - `02-the-1870s/` — the 1870s setting book with history, people, danger, and
   an example adventure
 - `03-adventures/` — the standalone adventure domain, separate from the books
+- `04-trials-of-the-old-west/` — _Trials of the Old West_, the rules
+  supplement for trials, trade, towns, weather, factions, and the larger
+  campaign turn order
 - `skills/western-writing/` — the prose and lore skill bundle
 - `skills/yze-design/` — the master Year Zero Engine design skill for building new YZE games across any genre
 - `CHANGELOG.md` — the version-by-version development record
 - `LICENSE.md` — the rights and notice file for this repository
 
-## The two books, and the adventures domain
+## The books, and the adventures domain
 
 ### Book 01 — _Tales of the Old West_
 
@@ -69,7 +72,7 @@ What this book brings:
 - a full example adventure: `The Yellowstone Line`
 - appendix material for named NPCs and handouts
 
-## The Adventures domain — `03-adventures/`
+### Book 03 — _Adventures_
 
 Adventures live in their own domain, not as chapters of either book. Each
 entry is a complete, runnable campaign module with its own setting, cast,
@@ -97,6 +100,21 @@ What this domain brings:
   the surveyor's trade, the plaza's life, the mercury in the creek, and the
   psychology of the operators, with an explicit ledger of what is invented
   and what is on the record.
+
+### Book 04 — _Trials of the Old West_
+
+_Trials of the Old West_ is the mechanics supplement for the line. It pulls
+the county outward, where disputes become trials, businesses become seasonal
+loops, factions become living pressure, and the town itself becomes part of
+campaign play.
+
+What this book brings:
+
+- standoffs, holdouts, sickness, and the daily work of a hard frontier
+- saloons, trade, freight, cattle, mining, logging, and banking
+- train robbery, justice, atrocities, factions, families, and paper war
+- the wire, the post, the press, elections, weather, winter, and exploration
+- mass combat, robber barons, and the political scene of the 1870s
 
 ## Why it matters
 

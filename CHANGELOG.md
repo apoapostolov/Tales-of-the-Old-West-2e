@@ -11,6 +11,16 @@ and this project follows Semantic Versioning.
 
 ### Added
 
+- **`04-trials-of-the-old-west/` domain.** _Trials of the Old West_ is now
+  part of the manuscript set: a rules supplement for trials, trade, towns,
+  weather, factions, winter, and the larger campaign turn order.
+  - `04-trials-of-the-old-west/00-introduction.md` — the supplement
+    introduction and book-facing framing
+  - `04-trials-of-the-old-west/01-the-standoff.md` through
+    `04-trials-of-the-old-west/25-the-political-scene-of-the-1870s.md` —
+    the full run of mechanic chapters, from person-and-scene procedures
+    through the national politics of the decade
+
 - **`yze-design` — master Year Zero Engine design skill.** A comprehensive engine-agnostic design system for the Year Zero Engine (YZE) by Free League Publishing. Reverse-engineers Forbidden Lands 2E and Tales of the Old West 2E into a unified three-layer design toolkit:
   - **UNDERSTAND** — core resolution, character, conflict, harm, power, travel, organizations, gear, GM procedures, philosophy, design dials, and a complete FL-vs-West divergence map.
   - **INVENT** — 15 reusable mechanical primitives, a dual-use matrix showing how each primitive produces opposite player psychologies at different calibrations, and a 5-operator reinvention method for transplanting primitives into new systems (Domain Transfer, Inversion, Recalibration, Fusion, Abstraction-Climb).
