@@ -138,5 +138,6 @@ Winter is the season the rest of the book's pressures converge, and the Winter Q
 - **The optional `Provisions` die** is the winter's main gauge, stepped down each month.
 - **The outlaw `Horsestock` and `Cohesion`** are the winter's secondary gauges — the horses the hay did not save, the band the cabin fever broke.
 - **The town aspects** (`Welfare`, `Natural Riches`, `Civic`) take the winter's pressure, and the Town Fortune roll (the corebook) may produce the winter's events as the season's result.
+- **The town tracker** counts the thaw. A winter survived with stores, neighbor-work, and little loss may add `1` `Civic` or `Welfare` point, or earn `1` SP toward `Grain Silos`, `Wells`, `Firehouse`, or `Maintained Tracks`. A hungry winter removes `1` `Welfare`; a winter that kills stock or closes mines may also remove `1` `Farming` or `Natural Riches`.
 
 The country closes in winter, and the people who winter in it are the people the country has. By thaw, the ledger tells who counted well, who rationed too late, who kept the fire, who left, and who will not be there to see the spring.

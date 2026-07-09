@@ -39,27 +39,27 @@ A disease moves through a body of people before the table knows who will die of 
 | `3` | High. `RESILIENCE` test each day; on a failure, `1` `Hurts` and the condition `Exhausted`. A stricken person who is `Broken` on `Grit` while the fever is on him makes a death roll each day, as the corebook's conditions describe. |
 | `4` | Catastrophic. The disease is a killer. `RESILIENCE` test each day at `-1 die`; failure is `1` to all attributes and a death roll if `Broken`. Children, the old, and the already sick die at a further `-1 die`. |
 
-The GM sets the Severity from the disease's profile (below) and lets the Spread climb by the disease's vector. A disease spreads when the well share the sick's water, air, bedding, or company; when the camp does not quarantine; when the drive cannot be split; when the town will not close its doors. Each week the sickness runs unchecked, roll a die equal to the current Spread — on a `4+`, the Spread climbs by `1`. Quarantine, clean water, and the doctor's work cut against this, which is what the outbreak operation models.
+The GM sets the Severity from the disease's profile (below) and lets the Spread climb by the disease's vector. A disease spreads when the well share the sick's water, air, bedding, or company; when the camp does not quarantine; when the drive cannot be split; when the town will not close its doors. Each week the sickness runs unchecked, roll a die equal to the current Spread — on a `4+`, the Spread climbs by `1`. Quarantine, clean water, and the doctor's work cut against this. The outbreak procedure turns those acts into the table's choices.
 
 ### The Diseases of the West, Named
 
-The diseases that shaped the actual West, each a short profile for the GM's use. The period names are kept, because the period used them and the chapter should sound like the country.
+Use the period names for the diseases. They are the names people in the country would have used at the bedside, in the fort, and in the camp.
 
 **Cholera.** The great killer of the trail and the camp. Spread by foul water — the compromised well, the river the wagon train drank above the ford, the camp drawn too close to its own privies. Incubation is hours to a day; the sickness strikes as rice-water flux, cramps, and the rapid collapse of the body's fluids. A stricken person can die in a day of the dehydration. `Severity 3` in the open country with no doctor and no clean water; `Severity 2` in a town with a well that can be closed and a doctor who knows to replace the fluids. The disease that emptied the wagon trains and the camps, and the reason the West's graveyards are full of single seasons.
 
-**Smallpox.** The fort and the nation. Spread by air and contact; incubation is two weeks, during which the carrier is well and contagious. The fever, the eruption, the pustules, the scabs, the survival with scars or blindness or not at all. `Severity 4` in a population with no immunity and no vaccination; `Severity 1` where the cowpox vaccination has been kept (and the chapter assumes the vaccination exists in the 1870s but is unevenly distributed — the army has it, the town doctor may, the mine camp and the reservation almost certainly do not). The disease the nation remembers as a weapon as well as a sickness, which is a truth the chapter will not let the table forget.
+**Smallpox.** The fort and the nation. Spread by air and contact; incubation is two weeks, during which the carrier is well and contagious. The fever, the eruption, the pustules, the scabs, the survival with scars or blindness or not at all. `Severity 4` in a population with no immunity and no vaccination; `Severity 1` where the cowpox vaccination has been kept. Vaccination exists in the 1870s, but unevenly: the army has it, the town doctor may, the mine camp and the reservation almost certainly do not. The nation remembers smallpox as a weapon as well as a sickness. Let the table remember it too.
 
 **Camp Fever (Typhoid).** The mine, the town, the army post — anywhere the water is bad and the privies are close to the well. Incubation is a week to three; the fever climbs in steps, the rash of rose spots, the delirium, the bowel's failure. `Severity 3` untreated, `Severity 2` with care. The sickness of every place that did not mind its water, which was most of them.
 
 **The Flux (Dysentery).** The drive, the campaign, the camp. Spread by fouled water and bad food; `Severity 2`, rarely fatal to the strong but devastating to a body of people on the move, because the flux disables the hands and the horses go unwatered and the herd goes unguarded. The sickness that lost drives and scattered columns as surely as any enemy.
 
-**Ague (Malaria).** The bottomlands, the river country, the southern tier. Spread by the mosquito, which the period does not yet know; the fever's quotidian return, the shaking, the anemia. `Severity 2`, chronic and recurring; a man who has had the ague has it for years, and the chapter should let it return each season in the bottom country.
+**Ague (Malaria).** The bottomlands, the river country, the southern tier. Spread by the mosquito, which the period does not yet know; the fever's quotidian return, the shaking, the anemia. `Severity 2`, chronic and recurring. A man who has had the ague has it for years. In bottom country, let it return with the season.
 
 **Childhood Diseases (Diphtheria, Scarlet Fever, Whooping Cough, Measles).** The graveyard fillers. Each is `Severity 3` to `4` in children and `Severity 1` to `2` in adults who had them young. The diseases that took the Calder daughters and the children of every family the county built, and the reason the family chapter's traits include "secret about its dead."
 
 **Wound Sepsis.** Not a disease that spreads, but the sickness that takes the man who survived the bullet. `Severity 3` for an untreated wound in the country; resolve treatment with the corebook's `DOCTORIN'` and condition rules. This is the death that comes a week after the fight, which is the death most frontier fighters actually died.
 
-**The Pox (Syphilis, Gonorrhea).** The trade's cost, and the cost of the trade. `Severity 1` acutely, chronic and progressive over years; the pox is the slow sickness the saloon and brothel chapter's women carry and the county does not name. The chapter treats it as it treats the others: honestly, without spectacle, and with the weight the disease put on the actual people who had it.
+**The Pox (Syphilis, Gonorrhea).** The trade's cost, and the cost of the trade. `Severity 1` acutely, chronic and progressive over years; the pox is the slow sickness the saloon and brothel chapter's women carry and the county does not name. Treat it without spectacle. Let the weight land on the people who have it.
 
 ### The Outbreak and the Contagion Loop
 
@@ -126,18 +126,18 @@ The outbreak ends after the Spread die stops climbing long enough to burn out. T
 
 ### The Doctor and the Limits of the Period
 
-The `DOCTORIN'` ability and the `Healing Touch` talent are the rules' tools against sickness, and the chapter uses them directly. But the medicine of 1873 is what it is, and the chapter does not pretend otherwise.
+The `DOCTORIN'` ability and the `Healing Touch` talent are the table's tools against sickness. Medicine in 1873 still has hard limits.
 
 - **The miasma theory.** The period believes disease travels on bad air, not in the water or on the hands — even as the best doctors of the decade are beginning to suspect otherwise. A keeper who cleans the well is doing the right thing for the wrong reason. Let it work without explaining why.
 - **The calomel and the bleeding.** The doctor's kit is mercury (calomel), the lancet, the opium, the whiskey, the quinine for the ague, and the ipecac. Each is a treatment the period used, and each is as likely to kill as to cure. A `DOCTORIN'` roll with the period's tools is a roll at the period's odds, which are not the modern's odds. The medicine resource die (above) models the kit's depletion; this entry models the kit's _limits_ — the tools themselves are flawed, and a well-supplied doctor is still a doctor bleeding the sick to balance the humors.
 - **The quarantine.** The one measure the period had that worked, when it was kept. The doctor who can hold a quarantine saves more lives than the doctor with the best calomel. The Spread die (above) is the mechanic that makes this true — the quarantine's `-1 die` step is worth more than any treatment roll.
-- **The odds.** A good doctor in 1873 saves a third to a half of the patients a good doctor in 1925 saves, and almost none that a modern doctor would save. The chapter lets the dice say so. A `DOCTORIN'` roll of `0` successes is the doctor who cannot help and knows it; a roll of `3+` is the doctor who pulled a man back from the edge by the simple work of clean hands, clean water, and the willingness to sit with the dying.
+- **The odds.** A good doctor in 1873 saves a third to a half of the patients a good doctor in 1925 saves, and almost none that a modern doctor would save. Let the dice say so. A `DOCTORIN'` roll of `0` successes is the doctor who cannot help and knows it; a roll of `3+` is the doctor who pulled a man back from the edge by the simple work of clean hands, clean water, and the willingness to sit with the dying.
 
 ### Sickness and the Other Rules
 
 The disease touches every system that gathers people, which is most of them.
 
-- **The town.** A sickness drops the town's `Welfare` and, often, its `Mercantile` (the trade leaves a sick town). The Town Fortune roll may produce an outbreak as a result, or an outbreak may force a Fortune's worth of consequences on the season.
+- **The town.** A sickness drops the town's `Welfare` and, often, its `Mercantile` (the trade leaves a sick town). If the outbreak stayed inside one household or crew, treat it as a local scene. If it shaped the season, remove `1` `Welfare` tally point at the next Turn of the Season. If it closed the town, emptied the saloons, or filled the graveyard, remove `1` `Welfare` and `1` `Mercantile` tally point, or resolve it as the Town Fortune it has become. A successful quarantine or public health effort may make `Doctor`, `Public Latrines`, `Wells`, or `Hospital` available as the town's next amenity at `3` SP, if the prerequisites fit.
 - **The drive (the cattle chapter).** The flux or the cholera in a crew disables the hands and scatters the herd; a sick drive is a drive in Trouble.
 - **The camp and the mine.** The camp fever closes a mine for a season; the Mine Roll's Penalty column is where the outbreak's cost is felt.
 - **The troop and the column.** The camp fever and the smallpox broke more armies than the enemy did; the mass combat chapter's unit Strength steps down for every body of men the sickness takes.

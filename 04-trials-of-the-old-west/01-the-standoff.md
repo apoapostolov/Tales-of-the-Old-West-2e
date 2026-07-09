@@ -140,6 +140,6 @@ The standoff is a door, not a room. It ladders cleanly into the book's other sce
 - **Into social conflict.** A standoff that resolves into a demand, a threat, or a back-down ladders into the social-conflict rules for whatever is negotiated at the point of the gun. A threat made in a standoff and backed by a winning roll is a social conflict the other side begins at a `-1 die`.
 - **Into the holdout (Ch.2).** A standoff that neither side breaks and neither side can leave becomes a siege — the door barred, the windows covered, the night coming on. The holdout chapter picks up where the standoff runs out of room.
 
-### A Word on the Table
+### At the Table
 
-The standoff is the scene the dice are worst at and the table is best at. The rules here give the dice a way to resolve the _whether_ and the _who first_, but the _feel_ of a standoff — the silence, the eye contact, the hand on the wood — is the players' and the GM's to carry. Read the room before you roll. Name what each side wants and what each side is afraid of. Let the silence sit for a beat before the dice hit the table. The Tension die is the one die the GM rolls in the scene: the room's pressure, climbing while the players decide, and its roll on the break is the moment the silence pays off. Everything else is the players'.
+The dice answer _whether_ the room breaks and _who moves first_. The players and GM carry the silence before that answer. Read the room before anyone rolls. Name what each side wants and what each side fears. Let the silence sit for a beat before the dice hit the table. The Tension die is the GM's one die in the scene: pressure climbing while the players decide, then the cost of the break when the silence pays off.

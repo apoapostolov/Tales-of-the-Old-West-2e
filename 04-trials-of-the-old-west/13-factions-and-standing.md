@@ -78,7 +78,7 @@ Standing moves when the player characters do something the faction notices and h
 | A whole season passes with the party in the faction's good graces and active help | `+1` (a held favor ripens) |
 | A whole season passes with the party ignoring a faction that once helped it | `-1` (a held favor sours) |
 
-A faction's Standing should not swing every session. Save changes for moments that genuinely tell on the relationship. A favor done in passing is the weather; a debt paid in blood is the climate.
+A faction's Standing should not swing every session. Save changes for moments that tell on the relationship. A favor done in passing is the weather; a debt paid in blood is the climate.
 
 #### Standing and the Outlaw Gauges
 
@@ -219,7 +219,7 @@ At the Turn of the Season, the party spends `1` railroad Influence to ask the op
 
 ### The Faction Roll — When the World Acts
 
-The heart of this chapter is the simple truth that the factions do not wait for the player characters. The railroad builds. The Ring lobbies. The union organizes. The army rides. The vigilance committee meets on Tuesday whether the party is in town or a hundred miles up the trail.
+Factions do not wait for the player characters. The railroad builds. The Ring lobbies. The union organizes. The army rides. The vigilance committee meets on Tuesday whether the party is in town or a hundred miles up the trail.
 
 At the end of each Turn of the Season, after the season's ordinary business is resolved, the GM makes a **Faction Roll** for each tracked faction.
 
@@ -282,7 +282,9 @@ When a faction acts through a settlement — running its court, working its mine
 | `Law 1-2` and `Welfare 1-2` | The faction holds on by force or not at all. Its agents are armed and nervous. |
 | `Civic 1-2` | There is no institution to lean on. The faction acts through personalities, not offices. |
 
-This cross-reference is what makes a faction feel rooted. The Ring is a different animal in the county seat where it owns the judge than it is in the mining camp where its only man is a foreman with a handgun.
+When a Faction Roll changes public life for a season, mark the town tracker. A faction that builds, funds, or protects something may add `1` tally point to the aspect it strengthened. A faction that closes a road, buys a court, breaks a strike, burns a rival, or drives people off land may remove `1` point from the aspect it damaged. Do not move the town for every faction move; use the town tracker only when ordinary people can see the change in work, safety, trade, institutions, or health.
+
+Root a faction in a place or it floats above the county. The Ring is a different animal in the county seat where it owns the judge than it is in the mining camp where its only man is a foreman with a handgun.
 
 ### Faction Clocks and Operations
 
@@ -343,6 +345,6 @@ The Committee is the violence the bench cannot or will not reach. It is small, l
 
 Steal the three above, or build your own. Answer the five questions, set the Standing, and put the faction on an index card. The best factions are the ones whose purpose puts them naturally in the party's path — not villains, but interests. A cattleman's association that hires the party to drive off nesters is not an enemy; it is an employer with a purpose, and the party's choice to take the work or refuse it is what moves Standing.
 
-A faction needs a name, a purpose, a means, a reach, and a Standing. Everything else — the named figures inside it, the town it holds, the clock it is running — is what makes it playable rather than a line on a sheet. Give it a man with a desk, a woman with a ledger, a sergeant with a letter in his pocket. The rules do the rest.
+A faction needs a name, a purpose, a means, a reach, and a Standing. Then give it a person: a man with a desk, a woman with a ledger, a sergeant with a letter in his pocket. The town it holds and the clock it runs matter because someone in the county is doing the work.
 
-A campaign that uses these rules should feel, at the table, as if the country has its own business and the player characters are inside it — not the center of it. That is the point of the chapter.
+At the table, the country should feel as if it has its own business and the player characters are inside it, not at the center of it.

@@ -26,7 +26,7 @@ Roll encounters the way the weather chapter rolls the sky: by region, season, te
 
 ### The Regional Groupings
 
-The West is not one country, and an encounter on the Llano Estacado is not an encounter in the Yosemite high country. The chapter groups the states and territories by the terrain and the political temper that shape what the party meets, and each group shares a table. A campaign in a specific place uses the table for its group, adjusted by the season and the party's distance from the settled country.
+The West is not one country. An encounter on the Llano Estacado is not an encounter in the Yosemite high country. Group states and territories by the terrain and political temper that shape what the party meets, then use the matching table for the campaign's county. Adjust by season and distance from settled country.
 
 | Region | The Country | The Typical States & Territories |
 | --- | --- | --- |
@@ -167,5 +167,6 @@ The encounter table is the country between the towns, and it ties the book's tra
 - **The weather chapter** sets the encounter's weather entries and the season's modifier.
 - **The faction chapter** sets the `Standing` that turns the war party into the trading camp, and the faction entries (the patrol, the Ranger, the raider) are the factions' local face.
 - **The deep-wild-land chapter (Ch.20)** is the country the deep-wild entries (the emptiness, the ruin, the summit) describe.
+- **The town tracker** records repeated road reputation, not every passing encounter. A safe road, opened waterhole, or regular market contact may add `1` `Mercantile`, `Welfare`, or `Civic` tally point. Raids, missing travelers, poisoned water, or a road everyone now avoids may remove `1` `Law`, `Welfare`, or `Mercantile`, or make `Maintained Tracks`, `Warning Bells`, `Posses`, or `Stagecoach` the obvious next amenity.
 
 The country between towns is not empty. The herd, hunter, drifter, patrol, war party, waterhole, ruin, bad sign, and quiet day all belong on the road. The rarest encounter may be the day the country leaves the party alone.

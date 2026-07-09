@@ -175,6 +175,7 @@ The bank ties the book's commerce and crime threads together.
 
 - **The train robbery chapter** is the bank job's template — the anatomy, the operation scales, the score seeds, the federal reach. A gang that robs trains is a gang that will rob banks, and the procedures are parallel.
 - **The corebook's Capital rules** cover the bank's civil side — the loan, the investment, the property — while the deposit rule bridges that money to robbery, panic, and safekeeping.
+- **The town tracker** records confidence. A sound bank that lends through a hard season may add `1` `Mercantile` or `Civic` tally point, or make `Bank`, `County Auction House`, `Trading Exchange`, or `County Appraiser's Office` available at `3` SP. A failed bank, exposed fraud, or Reserve-breaking robbery removes `1` `Mercantile` and usually `1` `Welfare`; if the bank held public money, remove `1` `Civic` instead of or in addition to `Welfare`.
 - **The wire chapter** defines the alarm wire and the marshal's response time, which the bank robbery's Trouble leans on.
 - **The justice chapter** defines the robbery's legal tail — the `Felony` or `Capital` charge, the trial, the sentence, the rope.
 - **The robber baron chapter** holds the bank as a faction's instrument — the baron's bank is the baron's lever, and the gang that robs it has made a baron's enemy.

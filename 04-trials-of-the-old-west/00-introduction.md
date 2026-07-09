@@ -20,9 +20,26 @@ The country assumed here is high desert and grassland below the Sangres and the 
 
 ## How the Parts Work
 
-Each part widens the frame. The first two chapters handle the tense scene before or during violence. The next seven make work and business into campaign play. Crime, law, factions, family, paper, mail, and press pull the party into the county's public life. Weather, deep country, encounters, and winter give the land its teeth. The final part lets the table handle battles, barons, and the national politics pressing down on the county.
+The frame widens as play moves outward. First come the tense scenes before and during violence. Then work, sickness, and business become campaign play. Crime, law, factions, family, paper, mail, and press pull the party into the county's public life. Weather, deep country, encounters, and winter give the land its teeth. Battles, barons, and national politics press down last.
 
 Read only the chapter the next session needs, or let the whole book change the campaign's weather.
+
+### The Town Tracker
+
+The corebook's town tracker is still the settlement's public ledger: `Farming`, `Mercantile`, `Natural Riches`, `Law`, `Civic`, `Welfare`, Prosperity, amenities, Settlement Points, and the Turn of the Season. _Trials of the Old West_ does not replace that ledger. It gives more ways for play to mark it.
+
+When a _Trials of the Old West_ procedure changes the town, settle the effect at the next Turn of the Season unless the chapter says otherwise. Pick the lightest effect that fits what happened.
+
+| Scale | When to Use It | Town Effect |
+| --- | --- | --- |
+| **Local scene** | A public fight, a useful favor, a bad night at a house, a small shortage, a single court day | Shift `Standing`, `Refuge`, Competition, or one named roll next season by `+1` or `-1`; do not change tally points. |
+| **Seasonal pressure** | An outbreak, shortage, strike, drive, bank scare, faction project, drought, election, or winter quarter that shapes the whole season | Add or remove `1` tally point from the most affected town aspect. |
+| **County event** | A bank failure, boom strike, range war, epidemic, public scandal, siege, railroad decision, or political act that changes where people work, trade, vote, or flee | Add or remove `2` tally points, either both in one aspect or split across two aspects. The GM may also add or remove `1D3` SP if the event creates or destroys public will. |
+| **Public work** | The party spends a season, Capital, labor, or political favor making the change permanent | Let the town buy a fitting amenity this season for `3` SP if prerequisites are met, or count the work as the chosen amenity for the season. |
+
+No single _Trials of the Old West_ event should move the same aspect by more than `2` tally points unless a Town Fortune, an amenity, or a chapter's explicit rule says so. A profitable player business does not automatically grant an amenity; the corebook is clear on that. It may make the amenity available, lower its SP cost, or give the town a reason to build it.
+
+Use the town's existing aspects before inventing a new score. A saloon's Crossroads rating, a bank's Reserve, a faction's Standing, or a winter's Provisions die can all explain why a town changes, but the town tracker records what the public feels afterward: money, safety, law, institutions, welfare, land, or work.
 
 ### Part I — Person and Scene
 
@@ -58,7 +75,7 @@ These are the chapters of the county's violent and judicial underside — the sc
 
 **Train Robbery and the Iron Horse (Ch.10).** The train can be stopped by signal, obstruction, sabotage, or boarding. Casing, Heat, derailment, armed messengers, federal mail, and railroad memory turn the score into more than a strongbox.
 
-**Justice, Trial, and Incarceration (Ch.11).** Posse, arrest, trial, docket, sentence, jail, prison, jailbreak, pardon, and lynching follow the shot. Evidence becomes leverage. The jury moves. The court calendar becomes a weapon.
+**Justice, Trial, and Incarceration (Ch.11).** Posse, arrest, trial, docket, sentence, jail, prison, jailbreak, pardon, and lynching follow the shot. Evidence becomes pressure. The jury moves. The court calendar becomes a weapon.
 
 **Atrocities and Human Trade (Ch.12).** This material belongs only at tables willing to handle it with restraint. Atrocity marks the doer. Captives remain named people with needs and futures. Refusal, rescue, testimony, and repair all cost.
 
@@ -99,11 +116,3 @@ These are the chapters of the largest scales — the war, the great operators, a
 **Robber Barons and the Long Reach (Ch.24).** The baron is a faction of one with money, lawyers, railroads, and reach. Survey jobs, land jobs, dirty jobs, war jobs, patronage, and obligation put the party under men whose offices sit far east of the county.
 
 **The Political Scene of the 1870s (Ch.25).** National parties make the weather the county lives under. Republican and Democratic coalitions, Liberal Republicans, Greenbackers, federal acts, the Panic, the Great Sioux War, the Compromise of 1877, and the silver fight press downward into local play.
-
-## A Note on What Is Coming
-
-The rules here do not exhaust the West. Specific river systems, survey parties, doctors as businesses, bounty hunters, holidays, and festival calendars can all be built from the same material when a campaign needs them. Start with the historical fact. Name the table choice. Charge the cost.
-
-## The Shape of the Book
-
-The country is dry and the country is watched. A drive does not end when the herd reaches the railhead. A robbery does not end when the gang rides clear. A trial does not end when the judge speaks. The county remembers.

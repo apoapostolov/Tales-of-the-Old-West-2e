@@ -79,7 +79,7 @@ A character who refuses the order — who will not move the people, will not fir
 | **On the Corrosion gauge** | Steps _down_ by one. The refusal is an atonement act made under fire, and it counts as one. |
 | **On the character's safety** | The refusal risks `Wanted` (if the faction frames it as a crime), the Committee's attention (if the faction is the county's hard men), or the physical danger of being the man who said no in front of men with guns who said yes. The GM should frame the refusal's consequence as a real and present danger, not a footnote. |
 
-The refusal is the chapter's central moral choice because it is genuinely _both-sided_: costly on the side of the faction whose order was refused, and redeeming on the side of the Corrosion gauge and the decent factions. A character who refuses is a character who has bet his life, his `Standing`, and his career against the weight of the act he would not do. Let that bet be as dangerous and as redeeming as it was in the actual West, where the men who refused were few, and the country did not thank most of them, and the ones it did thank were thanked long after the cost was paid.
+Refusal is the hard choice because it cuts both ways. The faction whose order was refused turns hostile; the Corrosion gauge and decent factions move toward repair. A character who refuses bets his life, `Standing`, and career against the weight of the act he would not do. Make that bet dangerous. Most men who refused paid before anyone thanked them, if anyone ever did.
 
 ### The Trade in People
 
@@ -111,7 +111,7 @@ The example is not a way to make the act clean. It is a way to make the refusal 
 
 ### The Army and the Ranger at Their Worst
 
-The massacre is the order the sergeant is given and the order he may or may not refuse. The Indian Wars, the border wars, and the labor wars are the contexts in which the order comes, and the mass combat and faction chapters are the tools for running them. This chapter is the place where the honest work of naming what those orders were gets done — the Washita, the Marias, Camp Grant, Sand Creek — and the GM who uses this chapter should name them, and let the names carry the weight the names carry, rather than reducing them to a generic "clearance."
+The massacre is the order the sergeant is given and the order he may or may not refuse. Indian Wars, border wars, and labor wars are the contexts in which the order comes; mass combat and faction rules handle the fighting around it. Name what those orders were: the Washita, the Marias, Camp Grant, Sand Creek. Let the names carry their own weight. Do not reduce them to a generic "clearance."
 
 The Texas Rangers are rendered as the paramilitary instrument they were — a state-sanctioned force with a documented record of ethnic cleansing along the Rio Grande, the massacre of Mexican and Mexican-American communities, and the terrorizing of the border population under the authority of the State of Texas. The chapter does not soften this. A campaign with the Rangers in play has them as a faction whose methods are atrocity, and the party's relation to them as a hard choice.
 
@@ -122,3 +122,5 @@ The vigilance committee is the atrocity the county does to itself — the lynchi
 Let the consequences land on the characters who earned them. The actual West often failed to make that accounting; the table does not have to repeat the failure. Name the act, name the people harmed, move the gauges, and let the campaign change around the damage.
 
 The country was built on these things. Saying so matters only if play changes afterward: a faction loses legitimacy, a soldier cannot sleep, a survivor's testimony shifts the county, a patron's money becomes poisonous, and a future opportunity closes because the past finally has a cost.
+
+If the harm becomes public town history, mark the town as well as the people. A rescue, testimony, or refusal that forces the county to act may add `1` `Civic` or `Law` tally point, or earn `1` SP toward `Orphanage`, `Hospital`, `Church`, `Newspaper`, or `Town Council`. A tolerated atrocity, slave market, captive trade, or official cover-up removes `1` `Civic`, `Law`, or `Welfare` tally point, and may cap the town's `Refuge` for the people harmed until repair is made in play.

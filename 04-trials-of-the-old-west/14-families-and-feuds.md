@@ -41,7 +41,7 @@ Define a family by six things, written on an index card or a page of the campaig
 
 #### Nationalities and Origins
 
-The families of the West came from somewhere, and the somewhere matters. The chapter gives no bonuses or penalties by nationality — these are not racial stat blocks — but it gives the GM the cultural defaults each origin carries, as the floor the family is built up from, not the ceiling.
+The families of the West came from somewhere, and the somewhere matters. Nationality gives no bonuses or penalties. These are not racial stat blocks. Use origin as the floor the family is built from, never the ceiling.
 
 | Origin | The Cultural Floor (use as defaults, not limits) |
 | --- | --- |
@@ -57,7 +57,7 @@ The families of the West came from somewhere, and the somewhere matters. The cha
 | **Black, Exoduster and otherwise** | The families of the exodus from the South, often to Kansas and the plains; the Buffalo Soldier's family in the post's shadow; the freedman's family holding its forty acres against every claim laid on them. The family most often defrauded of its land, and the family most often still holding it. |
 | **Mormon** | The Utah corridor and the satellite settlements, the plural household (before 1890), the irrigation, the temple, and the long memory of the march and the martyrdom. |
 | **Jewish** | The mercantile families of every railhead, often German-Jewish, often the trade and the credit that built the town, often the synagogue in the back room until there are enough to build a proper one. |
-| **Native (Diné, Apache, Pueblo, Lakota, etc.)** | The peoples the county was taken from, each a nation rather than a family. The "family" here is the extended kin group, the clan, the tiospaye, and the chapter does not flatten it. |
+| **Native (Diné, Apache, Pueblo, Lakota, etc.)** | The peoples the county was taken from, each a nation rather than a family. The "family" here is the extended kin group, the clan, the tiospaye. Do not flatten it. |
 
 The floor is the starting point. A Nuevomexicano family may be atheist and Anglo-married; a German family may run the saloon, not the bakery. The floor gives the GM the family's first read and the county's first assumption; the traits and the holdings give the family its actual character.
 
@@ -114,7 +114,7 @@ The traits are the GM's handle on the family. A family that is _slow to forgive_
 
 A family's holdings are its power and its exposure. Tie them to the corebook's property and business rules directly: the ranch is a ranch business (the cattle chapter), the store is a mercantile business (the corebook), the mine share is a mining interest (the mining chapter), the courthouse office is a faction asset (the faction chapter). The family's Season Rolls are the rolls of its holdings, made by the family's named members, and the family's fortunes rise and fall with them.
 
-To be rid of a family, a rival takes the holdings; to defend a family, the family defends the holdings. This is the heart of every range war, every courthouse fight, every contested water right in the West: the family's ground is the family's life, and the chapter should let the trade chapter, the faction rules, and the feud procedure below all converge on the family's deed.
+To be rid of a family, a rival takes the holdings. To defend a family, the family defends the holdings. This is the heart of every range war, courthouse fight, and contested water right in the West: the family's ground is the family's life. Let trade, factions, and feud moves all converge on the deed.
 
 ### Feuds and Allegiances
 
@@ -177,7 +177,7 @@ An allegiance between families is built and sealed by marriage, by shared busine
 
 The county's rites — the wedding, the funeral, the church-going — are not color. They are the moments the families do their loudest business, in front of the whole county, with the stakes written in `Standing` and blood. A wedding joins or breaks a family's future. A funeral settles or opens a feud's account. A church-going lifts one family's name and drags another's through the dust. These are the scenes the campaign returns to season after season, and they deserve a frame lighter than a full operation but heavier than a single roll.
 
-Each rite is a **Quarrel** — a short, self-contained social exchange between two families, resolved in three exchanges of opposed rolls. The Quarrel is deliberately not a full tactical social-combat system; it is a simplified frame built for the family's rites, with a distinct goal and a distinct gauge for each event type. Nothing in this section reaches outside the chapter. Use it when the rite is the session's centerpiece, not when it is a sentence of color.
+Each rite is a **Quarrel**, a short social exchange between two families resolved in three opposed rolls. It is not a full tactical social-combat system. It is a frame for rites, with a distinct goal and gauge for each event type. Use it when the rite is the session's centerpiece, not when it is a sentence of color.
 
 #### The Quarrel, in General
 
@@ -319,5 +319,7 @@ A hand who marries is the bridge between the Generational Clock and the Family E
 ### The Family as Campaign Frame
 
 A party that marries into a family, works for a family, or crosses a family has signed onto its web, and the campaign stops being a backdrop and becomes a living relation. The county's families are its longest clock — their feuds run for generations, their holdings are the county's geography, and their traits are the county's character. A campaign run with this chapter will find that the player characters cannot walk through the county without walking through a family's ground, and that every choice the party makes is read by the families as a move in a game the families have been playing longer than the player characters have been alive.
+
+Family turns can move the town tracker when holdings, labor, or public rites change the settlement. A marriage that joins holdings, a funeral that reconciles enemies, or a family expansion into a needed trade may add `1` `Civic`, `Farming`, `Mercantile`, or `Natural Riches` tally point. A feud killing, burned holding, inheritance quarrel, or family collapse may remove `1` `Law`, `Civic`, or the aspect tied to the lost holding. A family that spends a season organizing public life may make `Church`, `Festivals`, `Town Council`, `Schools`, `Orphanage`, or a holding-specific amenity available at `3` SP.
 
 The county is a web of families, and the player characters are the new knot in it, which the web will either hold or cut, depending on what the player characters do and what the families remember.

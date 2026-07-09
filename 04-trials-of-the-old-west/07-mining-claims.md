@@ -106,7 +106,7 @@ The placer and the lode are both run this way, with different key abilities and 
 
 #### The Season Mine Roll
 
-The mine's Season Roll is made at the Turn of the Season, like any business roll, by the proprietor or the shift boss. It cannot be pushed, and it does not generate Trouble — the mine generates its own Trouble, in the dust and the cave-in, which is what the Bonus/Penalty table is for. Read the roll on the standard business ladder: `0` a Penalty roll, `1` steady (wages and powder paid), `2+` a Bonus roll with `+1` to the Tens die per success beyond the first.
+The mine's Season Roll is made at the Turn of the Season, like any business roll, by the proprietor or the shift boss. It cannot be pushed, and it does not generate Trouble. The mine has its own Trouble already, in the dust and the cave-in; the Bonus/Penalty table tells you where it breaks. Read the roll on the standard business ladder: `0` a Penalty roll, `1` steady (wages and powder paid), `2+` a Bonus roll with `+1` to the Tens die per success beyond the first.
 
 #### Mine Yield Table
 
@@ -164,7 +164,7 @@ The mine's operating loop is the **shift** — the work done underground, shift 
 | **Prospect-the-drift** | `HAWKEYE`, `BOOKLEARNIN'` | Read the vein's continuation. Success reveals whether the vein deepens (the next shaft-sink will find color) or pinches out (the vein is dying, and the miner knows it before the vein die tells the season). This is the discovery option — the mine's version of prospecting, done underground. |
 | **Shore-up** | `MAKIN'` | Reinforce a bad stretch. Success removes a standing Trouble (a dangerous drift, a weeping wall) without losing a full shift to muck-and-timber. The middle option — faster than timbering, safer than blasting. |
 
-The Shift Menu is the mine's heart, and it is the thing that makes a mine feel like a mine and not a ranch or a saloon. Every shift is a choice: blast for the ore and breathe the dust, or timber for the safety and lose the ore; prospect for the vein's future, or shore up its present. A crew that always blasts has a rich season and a dying miner; a crew that always timbers has a safe mine and a thin yield; the crew that balances the four is the crew that lasts, and the balancing is the miner's craft, the thing the shift boss is paid for, and the thing the dust eventually takes from every man who works underground long enough.
+The Shift Menu is the mine's heart. Every shift forces the underground choice: blast for ore and breathe the dust, timber for safety and lose the ore, prospect for the vein's future, or shore up its present. A crew that always blasts has a rich season and a dying miner. A crew that always timbers has a safe mine and a thin yield. The crew that balances the four lasts longest, until the dust takes the judgment from the men who learned it underground.
 
 #### Example: Three Shifts Underground
 
@@ -194,7 +194,8 @@ The mine ties the book's extractive and political threads together. It is the de
 
 - **The Vein Ledger, the Dust Track, and the Shift Menu** are the mine's working parts in the season order. The vein is the depletable mystery; the dust is the accumulating doom; the shift is the tactical choice. No other business has all three.
 - **The company-vs-union web** (above) is the mine's political layer — the faction relationship scoped to one mine, where helping the union chills the company and vice versa.
+- **The town tracker** records what the mine does above ground. A public strike, assay boom, or productive season may add `1` `Natural Riches` tally point, or `1` `Mercantile` point if the camp's trade swells. A cave-in, dust scandal, claim-jump, or company gunfight may remove `1` from `Welfare`, `Law`, or `Civic`. A season spent organizing the district may make `Mines`, `Panning Claims`, `Mining Cooperatives`, `Gem Cutters`, `County Appraiser's Office`, or `Hospital` available at `3` SP.
 - **The sickness chapter** (Ch.3) is where the dust's final bill comes due — the chronic cough becomes the disease, and the disease becomes the death, the way the actual camps let it.
 - **The robber baron chapter** (Ch.24) holds the company's distant hand — the baron's mine is the baron's lever, and the miner who works it is the baron's man whether he unions or not.
 
-A campaign that uses these rules will find that the ground has a memory — of the men who worked it, the dust they breathed, and the dividend it paid or refused. The mine is the prospector's outlaw score, run across seasons instead of hours, paid in ore instead of cash, and judged by the ground rather than the county.
+The ground keeps its own account: the men who worked it, the dust they breathed, and the dividend it paid or refused. The mine is the prospector's score, run across seasons instead of hours, paid in ore instead of cash, and judged by the ground rather than the county.

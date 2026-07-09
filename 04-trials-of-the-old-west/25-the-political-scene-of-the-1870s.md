@@ -8,7 +8,7 @@
 
 ### The Weather Made in Washington
 
-The faction chapter (Ch.13) tracks the county's organized interests — the companies, the rings, the troops, the committees — and the robber baron chapter (Ch.24) tracks the great operators whose reach is territorial or federal. This chapter stands above both: the **national parties** and the political weather of the 1870s, the men and the acts that shaped the nation the campaign's county sits in, and the year-by-year pressure those acts made for the country below.
+The faction rules track the county's organized interests: companies, rings, troops, committees. The robber baron rules track great operators with territorial or federal reach. Above both sit the **national parties** and the political weather of the 1870s: the men and acts that shaped the nation around the campaign's county, year by year.
 
 A faction is a company, an institution, or an interest. A party is a coalition of factions, regions, and ideas, organized to win elections (the press and election chapter) and to make the acts the country lives under. The Republican party of 1870 gathers the railroad, veterans, the freedmen's vote, Protestant reformers, and the industrial North. The Democratic party of 1870 gathers the Solid South, immigrant cities, the hard-money West, and many of the people the Republican coalition left out. The two parties are the weather the factions operate in, and the acts they pass — the Enforcement Acts, the Specie Resumption Act, the Desert Land Act, the Chinese Exclusion debate — are the climate the campaign's county sits in whether the county notices or not.
 
@@ -136,9 +136,9 @@ Garfield wins the presidency; the Republicans return, narrowly. The census decla
 
 ### The Metaplot and the Campaign
 
-The national weather matters, and a campaign set in a given year plays under it. The GM chooses the campaign's year (or the campaign's years, if it runs across the decade) and applies that year's modifiers to the factions, the acts, and the county's pressures. This history is not a script — the campaign's county is the campaign's own, and the party's choices matter — but it is the weather the campaign's choices happen in, and a campaign that ignores it is a campaign that pretends the county is not in the country.
+The GM chooses the campaign's year, or years if play crosses the decade, and applies that year's modifiers to the factions, acts, and county pressures. The history is not a script. The county is the table's own, and the party's choices matter. But those choices happen under national weather, and a county that ignores it pretends it is not part of the country.
 
-A campaign that runs across the decade will feel the modifiers shift. A Republican-collaborationist party in 1870 finds its federal patronage gone by 1877; a freedmen's-community campaign in 1870 finds its federal protection gone by 1877; a cattle boom campaign in 1873 finds the depression; a silver campaign in 1873 finds the Crime of '73 and spends the decade fighting for the Bland-Allison Act; a labor campaign in 1877 finds the strike and the troops; a Chinese-community campaign in 1879 finds the exclusion. Those shifts make the campaign's decade the campaign's, and not a generic West that could be any decade.
+Across the decade, the modifiers shift under the party's feet. A Republican-collaborationist party in 1870 finds its federal patronage gone by 1877. A freedmen's-community campaign in 1870 finds its federal protection gone by 1877. A cattle boom campaign in 1873 meets the depression; a silver campaign meets the Crime of '73 and spends the decade fighting for the Bland-Allison Act. Labor in 1877 meets strike and troops. A Chinese-community campaign in 1879 meets exclusion. Those shifts make the decade specific, not a generic West that could be any year.
 
 #### Example: Starting in 1877
 
@@ -152,9 +152,10 @@ The timeline does not script the campaign. It sets the pressure the county wakes
 
 The parties are the layer above the factions, and the acts are the layer above the county.
 
-- **The faction chapter** holds the county's and the territory's interests; this chapter holds the national coalitions those interests belong to. A faction's `Standing` with a party is the faction's access to the acts.
-- **The robber baron chapter** holds the great operators; this chapter holds the parties those operators buy. Stanford is a Republican; Gould plays both. The baron's party affiliation is the baron's access to the legislature and the act.
-- **The press and election chapter** holds the county's election; this chapter holds the national election the county's election is part of. The party's national ticket shapes the county's down-ballot.
+- **Factions:** County and territorial interests belong to national coalitions. A faction's `Standing` with a party is its access to the acts.
+- **Robber barons:** Great operators buy into parties. Stanford is a Republican; Gould plays both. A baron's party affiliation is access to legislatures, committees, and acts.
+- **Press and elections:** The county's election sits inside a national election. The party's national ticket shapes the county's down-ballot.
 - **The justice, land-office, and labor chapters** are where the acts land — the Enforcement Act in the justice chapter, the land acts in the land-office chapter, the Posse Comitatus in the army's role.
+- **The town tracker** records national politics only when the act reaches local life. Federal enforcement may add `1` `Law`; withdrawal of troops may remove `1` `Law` or `Welfare`; silver, railroad, land, or tariff policy may move `Mercantile` or `Natural Riches`; election reform may move `Civic`. Most national events should be a modifier, a faction move, or a Town Fortune seed before they become tally points.
 
 The parties run the country's decade, and the acts become the weather the county sits in. The county notices late: the troop leaves the post, the marshal's office changes hands, the deed law shifts, the silver bill passes, or the troop comes South no more. By then the weather has already arrived.

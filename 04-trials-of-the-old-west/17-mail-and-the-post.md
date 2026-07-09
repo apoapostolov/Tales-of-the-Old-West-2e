@@ -94,7 +94,7 @@ The roadside ambush is _lighter_ than the train job. A gang that wants the iron 
 
 #### The Star-Route Swindle
 
-The star-route contract is a patron's lever, and the man who holds it is the man who controls the mail's movement through the county. The star-route swindle — the padded contract, the phantom route, the kickback — is the robber baron's and the county commissioner's oldest trick, and it is a faction operation (the factions chapter) rather than a score. A party that takes a star-route contract is a party with a federal patron's eye on it, and a party that exposes a star-route swindle is a party that has made a baron's enemy.
+The star-route contract is a patron's handle on the county road. The man who holds it controls the mail's movement through the county. The star-route swindle, padded contract, phantom route, kickback, is the robber baron's and county commissioner's old trick, and it runs as a faction operation (the factions chapter) rather than a score. A party that takes a star-route contract gets a federal patron's eye on it. A party that exposes the swindle makes a baron's enemy.
 
 ### The Mail Contract as Faction Lever
 
@@ -118,5 +118,6 @@ The mail is the durable cousin of the wire (the wire chapter) and the lightest c
 - **The trade chapter** is the mail's heavy cousin — the mail carries the light cargo, the freighter carries the heavy. A mail run and a supply run share the same road and the same Trouble.
 - **The train robbery chapter** defines the mail's federal protection, and the mail robbery above extends it to the stage and the star route.
 - **The robber baron chapter** holds the contract as a patron's lever, and the factions chapter holds the operator and the postmaster as the contract's local face.
+- **The town tracker** treats a reliable route as public confidence. Winning, protecting, or reforming a route may add `1` `Civic` or `Mercantile` tally point, or make `Express Mail Route`, `Post Office`, `Stagecoach`, `Maintained Tracks`, or `Warning Bells` available at `3` SP. Losing the contract, exposing a swindle, or letting the mail fail for a season may remove `1` `Civic`, `Mercantile`, or `Law` point.
 
-The mail is the county's pulse, and a chapter that gives it a route, a cost, and a federal weight gives the rest of the book a shared definition for the thing the county has been waiting on. The mail runs on a schedule the county lives by, and the man who carries it — the rider, the driver, the engineer — is the man who keeps the county's connection to the wider world alive, one sack at a time, one stop at a time, one schedule the county can set its clock by.
+The mail is the county's pulse. It has a route, a cost, and federal weight. The rider, driver, or engineer who carries it keeps the county tied to the wider world one sack at a time, one stop at a time, one schedule the county can set its clock by.

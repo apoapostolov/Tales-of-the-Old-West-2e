@@ -8,7 +8,7 @@
 
 ### After the Arrest
 
-The outlaw chapter of the corebook follows a wanted man from the crime through the score, the pursuit, and the hard ride — and stops at the moment of capture. This chapter picks up where that one sets the rope down. It is the law's grip: the arrest and the posse, the trial in its several shapes, the verdict and the sentence, the jail and the prison, the wire to the troop when the bench cannot keep order, and the long fact that a man in the dock is a man whose choices have narrowed to a few bad doors.
+The outlaw rules follow a wanted man from the crime through the score, the pursuit, and the hard ride, then stop at capture. After that comes the law's grip: arrest and posse, trial, verdict, sentence, jail and prison, the wire to the troop when the bench cannot keep order, and the long fact that a man in the dock has only a few bad doors left.
 
 A quick arrest and a fine can pass in a sentence. A trial, a wrong charge, or a prison term changes the campaign's ground. A character with `Wanted` becomes a defendant, a convict, a fugitive from a sentence, a man facing the rope, or a name on a pardon petition. The gang that leaves a hand to the law now knows where he sleeps, who can reach him, how long he has, and what it will cost to get him back.
 
@@ -56,7 +56,7 @@ When the posse corners the man, the GM frames the taking as a short operation, s
 
 **Progress** is cornering and securing the quarry. **Trouble** is what the taking costs: a deputy shot, a witness made, the quarry wounded (which complicates the trial), the county's patience worn, or the quarry's friends turning the posse's flank. The abilities that matter are `SHOOTIN'` and `FIGHTIN'` if it comes to iron, `PRESENCE` to talk him down, `INSIGHT` to read whether he will run or fight, `HAWKEYE` to track him to ground.
 
-A taken man is wounded or dead if the Trouble says so, and a dead man needs no trial. The interesting case is the man taken alive, which is where this chapter does its work.
+A taken man is wounded or dead if the Trouble says so, and a dead man needs no trial. Trouble sharpens when the fugitive is taken alive and the county has to decide what kind of justice it can bear.
 
 ### The Charge
 
@@ -68,7 +68,7 @@ A man in the dock is in the dock for a charge. The charge sets the possible sent
 | `Felony` | horse or cattle theft, armed robbery, stage holdup, assault with a deadly weapon | jail time in seasons, territorial prison |
 | `Capital` | murder, murder in the course of a felony, rape, arson with loss of life, train robbery with a death | the rope, or territorial prison for years |
 
-The tier is the starting point, not the verdict. A good defense can bring a capital charge down; a bad one can lift a felony to the rope. The bench, the jury, the town's temper, and the faction pressures on the court all bend the outcome, which is what the trial procedure models.
+The tier is the starting point, not the verdict. A good defense can bring a capital charge down; a bad one can lift a felony to the rope. The trial procedure lets the bench, the jury, the town's temper, and the faction pressures on the court bend the outcome in play.
 
 ### The Docket
 
@@ -86,7 +86,7 @@ The docket is the trial chapter's distinct strategic layer, and a campaign with 
 
 ### The Trial
 
-The trial is the heart of this chapter. It is run as a **phased Quarrel** — a structured social conflict with distinct courtroom phases, the **jury as the prize** (a gauge both sides compete to shift), and **evidence as consumable leverage** (a document used is a document spent). The Quarrel frame is the same self-contained social-conflict the Families chapter (Ch.14) uses for the rites, calibrated here to the courtroom: it is deliberately not a full tactical social-combat system, and nothing in it reaches outside this chapter.
+The trial runs as a **phased Quarrel**: a structured social conflict with distinct courtroom phases, the **jury as the prize** (a gauge both sides compete to shift), and **evidence as a spent asset** (a document used is a document spent). The Quarrel frame is the same self-contained social conflict the Families chapter (Ch.14) uses for the rites, calibrated here to the courtroom. It is not a full tactical social-combat system, and nothing in it reaches outside the trial.
 
 The trial's gauge is the **jury's opinion** — a seven-step track from **conviction** (`-3`) through **the doubt** (`0`) to **acquittal** (`+3`). The jury's opinion starts where the town's temper and the faction pressures put it (see Trial Modifiers, below), and the trial's phases move it, one exchange at a time, until the verdict reads from where it landed.
 
@@ -107,20 +107,20 @@ A trial runs in **four phases**, each a contested exchange between the prosecuti
 | --- | --- | --- |
 | **The opening** | Each side states its thesis — the story the jury is to believe. The defense's opening is an attack on the prosecution's case; the prosecution's opening is the case itself. | `PERFORMIN'` or `PRESENCE` |
 | **The prosecution's case** | The territory's witnesses and evidence. Each witness is an exchange; the defense may **cross-examine** (a deflection, `INSIGHT` or `BOOKLEARNIN'`), **object** (a `BOOKLEARNIN'` reaction that may strike testimony), or **let it land** (absorb the hit). | `PRESENCE` (prosecution) vs `INSIGHT`/`BOOKLEARNIN'` (defense cross) |
-| **The defense's case** | The defense's witnesses and story, inverted. The defense puts its case; the prosecutor cross-examines. This is the phase where the leverage (below) is spent — the surprise witness, the damning letter, the alibi that holds. | `PERFORMIN'`/`PRESENCE` (defense) vs `INSIGHT` (prosecution cross) |
-| **The summation** | The closing arguments — the phase's most damaging moves, played in the trial's Public band, with all accumulated leverage that remains. The summation is where the jury's opinion swings hardest, because the closing is the speech the jury takes to the jury room. | `PERFORMIN'` |
+| **The defense's case** | The defense's witnesses and story, inverted. The defense puts its case; the prosecutor cross-examines. This is where the surprise witness, damning letter, or alibi is spent. | `PERFORMIN'`/`PRESENCE` (defense) vs `INSIGHT` (prosecution cross) |
+| **The summation** | The closing arguments, played in the trial's Public band, with whatever evidence remains. The closing is the speech the jury takes to the jury room, so it swings opinion hardest. | `PERFORMIN'` |
 
 A misdemeanor or clear-cut case may collapse to two phases (opening and summation); a capital charge or a politically charged trial the county is watching may run a phase across multiple exchanges (two or three witnesses in the prosecution's case, each its own shift). The GM sets the trial's scope by the charge tier, the way the operation's scale was set before.
 
 **The judge's lean** is a modifier on every exchange — read from the bench's `Standing` toward the defendant and the bench's disposition. Voss, leaning for a defendant he knows and trusts, grants `+1`; a hanging judge grants `-1` to `-2`. The judge may also **sustain or overrule** objections (`BOOKLEARNIN'` exchanges), which strike or admit testimony and shift the jury's opinion by the weight of the testimony in question.
 
-#### Evidence as Leverage
+#### Evidence as Pressure
 
-A trial's leverage is its **evidence** — the documents, the depositions, the surprise witnesses, the damning letters — and the evidence is **consumable**, the way the Families chapter's documented secrets are consumable at the rites. A piece of evidence deployed in a phase grants `+2` to that exchange's roll, and the evidence is then **spent**: it is in the court record, it cannot be deployed again for the same bonus, and (for secrets) it is now public knowledge the county will remember.
+The trial's pressure comes from **evidence**: documents, depositions, surprise witnesses, damning letters. Evidence is **consumable**, the way the Families chapter's documented secrets are consumable at the rites. A piece of evidence deployed in a phase grants `+2` to that exchange's roll, then is **spent**. It is in the court record, it cannot be deployed again for the same bonus, and any secret in it is public knowledge the county will remember.
 
-Leverage is gathered before the trial (by investigation, by the discovery process, by casing the jail if the defendant is held) and spent across the phases. A defense that saves its best evidence for the summation risks the prosecution's case landing unopposed; a defense that spends early may find the summation bare. The leverage economy is the trial's strategic layer — the decision of _when_ to play the card — and it is the thing that makes two defenses with the same evidence have different outcomes, because the timing of the reveal is half the courtroom's art.
+Gather evidence before the trial through investigation, discovery, or casing the jail if the defendant is held. Spend it across the phases. A defense that saves its best evidence for summation risks letting the prosecution land unopposed; a defense that spends early may reach summation bare. Timing the reveal is half the courtroom's art.
 
-| Leverage | The Bonus | Spent? |
+| Pressure | The Bonus | Spent? |
 | --- | --- | --- |
 | A corroborated alibi, a surprise witness | `+2` to one exchange | Yes — the witness is on the record |
 | A documented contradiction (a deposition, a prior statement) | `+2` to a cross-examination | Yes — the document is filed |
@@ -128,7 +128,7 @@ Leverage is gathered before the trial (by investigation, by the discovery proces
 | The character witness (a respected name) | `+1` to one exchange | No — persistent, but only as strong as the name |
 | The bench's trust (the judge's lean, if favorable) | `+1` to all exchanges | No — persistent |
 
-A trial with no leverage is a trial argued on the facts alone, and the facts favor whoever the jury believed first, which is usually the prosecution. A defense that gathers and spends its leverage well can turn a trial the facts were losing; a defense that has no leverage and no lawyer is the man in the dock in the opening vignette, reading his own charge for the first time, and that should cost what it costs.
+A trial with no evidence in reserve is argued on the facts alone, and the facts favor whoever the jury believed first, usually the prosecution. A defense that gathers and spends evidence well can turn a trial the facts were losing. A defense with no evidence and no lawyer is the man in the dock in the opening vignette, reading his own charge for the first time. That should cost what it costs.
 
 #### Trial Modifiers
 
@@ -170,11 +170,11 @@ A jury that cannot agree is a **hung jury** — the opinion sits at `0` and will
 
 #### Example: The Alibi Held Back
 
-Riddle is tried on a felony charge after a stage holdup. The jury's opinion starts at `-1`, leaning toward conviction, because the town is tired of road agents. The defense has two pieces of leverage: a corroborated alibi and a character witness from Sandoval.
+Riddle is tried on a felony charge after a stage holdup. The jury's opinion starts at `-1`, leaning toward conviction, because the town is tired of road agents. The defense has two pieces of evidence: a corroborated alibi and a character witness from Sandoval.
 
 The defense spends the character witness during the opening, gaining `+1` and holding the jury at `-1` instead of letting the prosecutor push it lower. During the prosecution's case, the defense saves the alibi and risks a cross-examination without it. The prosecutor wins that exchange, moving the jury to `-2`. In the defense's case, the alibi is spent for `+2`; the defense wins and shifts the jury back to `-1`. At summation, the defense wins by one exchange and moves the jury to `0`, the doubt.
 
-The verdict is not clean acquittal. It is hung, reduced, or bargained, by the court's temper. Saving the alibi almost lost the trial; spending it too early might have left the summation bare. That is evidence as leverage: the paper matters, but when it lands matters just as much.
+The verdict is not clean acquittal. It is hung, reduced, or bargained, by the court's temper. Saving the alibi almost lost the trial; spending it too early might have left the summation bare. The paper matters, but when it lands matters just as much.
 
 ### Sentencing
 
@@ -215,7 +215,7 @@ A sentenced man is held. Holding a man is its own pressure, on him and on whoeve
 
 #### The County Jail
 
-The county jail is a cell in the sheriff's office, a sod dugout, or a box of heavy timber behind the courthouse. It holds a man for a season or two; it does not hold him for years. A man in the county jail is within reach of his friends and his enemies both, which is what makes the county jail the natural site of a jailbreak (below) and the natural site of a lynching (also below).
+The county jail is a cell in the sheriff's office, a sod dugout, or a box of heavy timber behind the courthouse. It holds a man for a season or two; it does not hold him for years. Friends can reach him. So can enemies. That is why the county jail draws jailbreaks and lynch mobs.
 
 #### The Territorial Prison
 
@@ -281,12 +281,14 @@ The court is not the only justice in the county. When the town's `Law` is low an
 
 A lynching is not a trial. It is a verdict that escapes the court — a jury's opinion driven to `conviction` in a county where the `Law` aspect is `1-2` and the Committee is a faction with the reach to act, or the natural end of an arrest the court never gets to hold. The GM frames it as a scene, not a roll: the body in the cottonwood at dawn, the silence of the men who did it, the bench's letter to the marshal that will go unanswered. The player characters may try to stop it (a `Standoff or Siege` operation, above), join it (which moves their `Standing` with the Committee and with every decent faction in the county), or survive it (which is its own kind of trial).
 
-The lynching is the chapter's honest accounting of a country where the law's reach was short and the rope was long. Render it plainly and let it do its work. A campaign that uses these rules and never has a lynching is lying about the country. A campaign that uses them and has one every session is lying about it a different way. The truth is in between, and the bench knows it.
+Lynching belongs in a country where the law's reach was short and the rope was long. Render it plainly. A campaign that never faces it has cleaned the county too much; a campaign that reaches for it every session has turned history into spectacle. Use it when the county's respectable men choose the rope and the law either cannot stop them or will not.
 
 ### The Wire to the Troop
 
 When the bench swears a warrant the county cannot serve — a faction's man behind stockade walls, a gang the sheriff will not ride against, a murderer sheltered by a powerful interest — the wire goes to the post. The Tenth, in this book's county, is the long arm of the court; in another campaign, it is whatever Federal-reach force the bench can summon. The warrant is a `Calling on a Faction` roll by the bench against the troop, with the bench's legal standing and the warrant's seriousness setting the modifier. On a success, the troop rides, and the party (if it is on the troop's side) rides with it; on a failure, the wire goes unanswered and the bench is on its own, which is the colony's oldest problem.
 
-The bench, the Committee, and the troop are each factions in their own right, and a trial's Trouble moves Standing with whichever ones are watching. A warrant the bench cannot serve is a warrant the troop is sworn for, and a mail robbery the marshals will not drop is a debt the railroad collects in its own time. The chapter closes the loop the outlaw chapter opens: a wanted man becomes an arrested man, a tried man, a sentenced man, and finally a man who hangs, or serves, or breaks out, or is pardoned at a price the ledger remembers.
+The bench, the Committee, and the troop are factions in their own right, and a trial's Trouble moves Standing with whichever ones are watching. A warrant the bench cannot serve becomes a warrant the troop is sworn for. A mail robbery the marshals will not drop becomes a debt the railroad collects in its own time. A wanted man becomes an arrested man, a tried man, a sentenced man, and finally a man who hangs, serves, breaks out, or is pardoned at a price the ledger remembers.
 
-A campaign that uses these rules will find that a drawn gun and a robbed stage have a long tail. That is the point. The outlaw chapter makes the crime and the flight exciting; this chapter makes the consequences stick. Together they make the county a place where the law, the rope, and the rope's rivals all have a claim on every man who ever broke the peace, and where the player's choices about whose claim to answer are the campaign.
+A drawn gun and a robbed stage have a long tail. Crime and flight can thrill the table; consequence makes the county remember. The law, the rope, and the rope's rivals all have a claim on every man who broke the peace. The player's choice is whose claim to answer.
+
+When a case changes how the town believes in law, mark the town tracker at the Turn of the Season. A fair trial, public acquittal, exposed frame-up, or lawman held to account may add `1` `Law` or `Civic` tally point, or make `Sheriff's Office`, `Sheriff Elections`, `Courthouse`, `County Courthouse`, `Prison`, or `Federal Marshal's Office` available at `3` SP. A lynching, corrupt verdict, jail fever, failed execution, or courthouse riot may remove `1` `Law`, `Civic`, or `Welfare`.

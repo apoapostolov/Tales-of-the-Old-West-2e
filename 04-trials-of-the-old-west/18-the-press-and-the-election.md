@@ -87,7 +87,7 @@ The Progress is the party's vote share. The Trouble is the opposition's work and
 
 When an election deserves more than one operation roll, use the **electorate pool**. Debate, rally, back-room bargain, press exchange, canvass, and fraud attempt each shift a tracked pool of votes. The count climbs and falls across scenes, so momentum becomes something the players can win, squander, or steal.
 
-Set the electorate pool by the office's scale: `20` votes for a local office, `50` for a county office, `100+` for a territorial office. The pool starts split — half leaning to the party, half to the rival, with a margin of undecided the campaign fights over. Each campaign scene (the debate, the stump, the press edition, the canvass) is a social conflict — a phased Quarrel (the justice chapter's frame, Ch.11) or a single `PERFORMIN'`/`PRESENCE` roll — whose winner shifts the electorate pool by the scene's weight. The campaign's tactics (the canvass, the money, the machine, the fraud, below) are the leverage that feeds the scenes, the way evidence feeds a trial.
+Set the electorate pool by the office's scale: `20` votes for a local office, `50` for a county office, `100+` for a territorial office. The pool starts split, half leaning to the party, half to the rival, with undecided votes between them. Each campaign scene, debate, stump, press edition, canvass, runs as a social conflict: a phased Quarrel (the justice chapter's frame, Ch.11) or a single `PERFORMIN'`/`PRESENCE` roll. The winner shifts the pool by the scene's weight. Tactics such as money, machine work, and fraud feed the scenes the way evidence feeds a trial.
 
 | The Campaign Scene | The Pool Shift (winner) |
 | --- | --- |
@@ -96,7 +96,7 @@ Set the electorate pool by the office's scale: `20` votes for a local office, `5
 | **The press endorsement / the smear** (the press chapter's move) | `±2` to `4` votes — the press's reach applied to the electorate; a smear campaign across the season swings the pool cumulatively. |
 | **The canvass** (the door-to-door, `PRESENCE`) | `±1` vote per session of canvassing — the slow, honest work of turnout. |
 | **The machine** (the faction's turnout operation) | `±2` to `5` votes — the ward heelers and the party organization, by the faction's `Standing`. |
-| **The fraud** (the stuffed box, the bought count) | `±5` to `10` votes — the high-risk leverage. A fraud that succeeds swings the pool sharply; a fraud that is caught is a scandal (the press) and a crime (the justice chapter), and the pool swings back twice as hard. |
+| **The fraud** (the stuffed box, the bought count) | `±5` to `10` votes. Fraud swings the pool sharply if it works. If it is caught, it becomes a scandal (the press) and a crime (the justice chapter), and the pool swings back twice as hard. |
 
 The election resolves on the electorate pool's **final count** on election day. The party with the higher count takes the office; a count within `5` votes for a local or county office, or within `10` for a territorial office, is a **contested election** — a paper war (the inheritance chapter) fought in the courthouse and the press. This shape gives the election momentum: a ground game that turns out votes, a press that shifts opinion, and a fraud that risks everything for the sharp swing.
 
@@ -144,10 +144,11 @@ An election is not one speech. It is momentum, turnout, press, money, and risk, 
 
 The press and the election are the county's peaceful weapons, and they tie the book's faction and political threads together.
 
-- **The faction chapter** holds the press as a faction asset and the election as a faction contest; this chapter gives both their procedures.
-- **The robber baron chapter** holds the baron as the press's owner and the election's funder; this chapter gives the baron's media and political work table weight.
-- **The justice chapter** holds the criminal trial; this chapter holds the civil election and the contested count, the county's other courtroom.
-- **The families chapter** holds the family's political trait ("political," "commands"); this chapter is where that trait is spent.
-- **The political-scene chapter (the next chapter)** holds the national party layer above the factions; this chapter holds the county election that the party's politics descend into.
+- **Factions:** A newspaper can be a faction asset, and an election can be a faction contest.
+- **Robber barons:** A baron may own the press, fund the ticket, or buy the quiet that lets both work.
+- **Justice:** A criminal trial tests guilt; a contested count tests whether the county believes its own election.
+- **Families:** Political families spend the traits that put cousins on committees, sheriffs on payroll, and enemies out of office.
+- **The national scene:** Party politics descend into county tickets, ballot boxes, and editorials with names in them.
+- **The town tracker** records public trust. A clean election, durable reform campaign, or newspaper that exposes a real public harm may add `1` `Civic` or `Law` tally point, or make `Newspaper`, `Mayoral Elections`, `Sheriff Elections`, `Town Council`, or `County Hall` available at `3` SP. Fraud, suppression, libel, or a contested count that leaves the county divided may remove `1` `Civic` or `Law` point.
 
-The newspaper and the ballot are the county's two peaceful weapons, and a chapter that gives the press a reach and the election a vote gives the campaign its civil layer — the war that changed the county without firing a shot, fought in type and at the ballot box, and won by the men who could pay for the ink and turn out the vote. The West was built by the bullet and the rope, but it was governed by the press and the poll, and both should matter at the table.
+The newspaper and the ballot are the county's two peaceful weapons. Let them give the campaign its civil war: fought in type and at the ballot box, paid for in ink, turnout, and suspicion, and won by the people who can make the county believe them.

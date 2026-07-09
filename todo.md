@@ -1,17 +1,17 @@
 <!-- markdownlint-disable MD013 -->
 
-# Book 04 Publication Rescue Todo
+# Trials of the Old West Publication Rescue Todo
 
 Status key: audit, voice rewrite, rules rewrite, examples, balance pass, final polish.
 
 ## Foundation
 
 - [x] Create long-running rescue goal.
-- [x] Inspect Book 04 structure, Book 02 voice benchmark, corebook rules spine, and local writing/design skills.
+- [x] Inspect Trials of the Old West structure, Book 02 voice benchmark, corebook rules spine, and local writing/design skills.
 - [x] Create this tracked project checklist.
-- [x] Create the Book 04 publication rescue analysis.
+- [x] Create the Trials of the Old West publication rescue analysis.
 - [x] Create the chapter rewrite template and acceptance checklist.
-- [x] Remove publication-breaking internal references from all player-facing Book 04 chapters.
+- [x] Remove publication-breaking internal references from all player-facing Trials of the Old West chapters.
 - [x] Run banned-term scan on the current load-bearing rewrite pass.
 - [x] Run a banned-term scan on the full numbered manuscript after remaining chapters are rewritten.
 - [x] Run markdown/lint checks on the first edited file set.

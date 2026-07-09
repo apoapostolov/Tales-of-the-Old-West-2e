@@ -189,7 +189,7 @@ The pattern die did not replace weather. It warned the table what the weather wa
 
 ### Weather and the Other Rules
 
-The weather in this chapter touches almost every other system in the game, which is why it is built from existing pieces rather than new ones.
+Weather touches almost every system in the game, so it uses existing pieces wherever it can.
 
 - **Travel (Chapter 6).** The travel modifiers apply directly to the Traveling Table. Rushing on a bad-weather day stacks the rush modifier with the weather modifier and opens the door to the conditions.
 - **Conditions (Chapter 5).** `Freezing`, `Heatstroke`, `Exhausted`, and `Dehydrated` are the rules the weather fires into. Nothing here duplicates them.
@@ -197,5 +197,6 @@ The weather in this chapter touches almost every other system in the game, which
 - **Conflict (Chapter 5).** Ranged conflict is the system the weather touches most. Apply the ranged modifiers from the weather table as penalty dice where they plainly matter. A gunfight in a dust storm is a different fight from one on a clear day, and the table should feel it.
 - **The drive and the campaign (this book).** A cattle drive crosses weather every day; a campaign in the field lives or dies by it. The weather generator gives both chapters the country's pressure.
 - **The gang and the town (corebook).** A drought or a hard winter hits the outlaw's `Horsestock` and `Provisions` and the town's aspects and Fortune rolls, as above. The weather is not a side system; it is the country doing what the country does, felt wherever the party is.
+- **The town tracker** records weather only at seasonal scale. One bad storm is a scene. A season of drought, repeated floods, fire, or closed roads removes `1` tally point from `Farming`, `Natural Riches`, `Mercantile`, or `Welfare`, whichever took the hurt. A season spent preparing may make `Firebreaks`, `Firehouse`, `Wells`, `Reservoir`, `Maintained Tracks`, `Tumbleweed Clearance`, or `Warning Bells` available at `3` SP.
 
-A campaign that uses these rules will find that the party begins to read the sky. That is the point. The traveler who checks the weather table before he saddles and the trail boss who reads the barometer of his bad knee before he pushes the herd are doing what the men and women of the actual West did every day of their lives. The rules should make that reading matter, and let the country do its work when the reading is wrong.
+The party should begin to read the sky before it saddles. The traveler checking the weather table and the trail boss reading the ache in his knee are doing what men and women in the actual West did every day. Let that reading matter. When it is wrong, let the country answer.

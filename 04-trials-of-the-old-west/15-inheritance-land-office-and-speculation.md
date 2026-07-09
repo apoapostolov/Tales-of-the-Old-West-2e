@@ -10,7 +10,7 @@
 
 The corebook's property and Capital rules handle the buying and selling of land and business. The justice chapter handles the criminal court. Neither handles the West's great quiet contest: the **paper war**. The contested title, the fraudulent patent, the will that disinherits and the codicil that reverses it, the speculator's corner, the insurance on a cargo that conveniently burned, the lien that waits twenty years to mature — the West was taken as much by the deed as by the rifle, and the men who did the taking wore coats and worked in offices and never drew on anyone.
 
-Run the paper war through the land office, probate, insurance, and speculation. The land office is both faction and forum. Inheritance is a contested operation over the dead man's estate. Insurance and speculation turn cargo, deed, and rumor into leverage for the men who can afford to wait. Campaigns built around the Santa Fe Ring, the Maxwell Grant, or any contested county need the civil-law twin of the criminal court.
+Run the paper war through the land office, probate, insurance, and speculation. The land office is both faction and forum. Inheritance is a contested operation over the dead man's estate. Insurance and speculation turn cargo, deed, and rumor into weapons for the men who can afford to wait. Campaigns built around the Santa Fe Ring, the Maxwell Grant, or any contested county need the civil-law twin of the criminal court.
 
 > _Voss set the patent on the bar and read it for the third time and set it down again. The patent was for the north section of the way-station's spring, which Sandoval's grandfather had filed in forty-three and which the land office in Santa Fe had recorded in forty-four and which a clerk in the Ring's pay had re-recorded in sixty-eight in the name of a company the Ring's lawyer had drawn up the week before._
 >
@@ -59,7 +59,7 @@ A contest won is a patent defended or a rival's patent broken. A contest lost is
 
 A contest or a probate is not, in the end, a test of attrition — it is a test of **evidence**. The side with the better paper wins, and the paper is gathered before the hearing and spent at it. The paper war is an **evidence economy**: each side gathers evidence (the prior filing, the witness, the survey, the forged codicil, the clerk's testimony) as a currency, and spends it at the hearing to shift the judge's or the land officer's opinion.
 
-Evidence is gathered through casing-like actions in the season before the hearing — the `INSIGHT`/`HAWKEYE`/`BOOKLEARNIN'`/`LIGHT-FINGERED` work of finding the document, reading the survey, bribing the clerk, forging the codicil, locating the witness who saw the dead man sign. Each successful gathering action banks a **piece of evidence** — a consumable asset, spent at the hearing for a `+2` to one exchange of the contest or the probate, exactly as the justice chapter's evidence is spent at the trial (Ch.11). The hearing is a phased Quarrel (the same frame the trial uses), and the evidence is the leverage.
+Evidence is gathered through casing-like actions in the season before the hearing: finding the document, reading the survey, bribing the clerk, forging the codicil, locating the witness who saw the dead man sign. Use `INSIGHT`, `HAWKEYE`, `BOOKLEARNIN'`, or `LIGHT-FINGERED`, as the action demands. Each success banks a **piece of evidence**, spent at the hearing for `+2` to one exchange of the contest or probate, exactly as the justice chapter spends evidence at trial (Ch.11). The hearing is a phased Quarrel, and evidence is the thing both sides time and spend.
 
 | The Evidence | What It Banks |
 | --- | --- |
@@ -162,9 +162,10 @@ The land is not merely "won." The office's clerk is now a dangerous witness, the
 
 The paper war is the civil-law and finance layer the criminal-justice and trade chapters imply but do not deliver.
 
-- **The justice chapter** is the criminal court; this chapter is the civil. The two share the social-conflict rules and the `Lawyer` talent, and a paper war that turns criminal (the forged patent, the arson fraud) ladders into the justice chapter's trials.
-- **The families chapter** holds the inheritance as a family's continuity; this chapter gives the probate its procedure and the estate its contested transfer.
-- **The robber barons chapter** holds the baron as the great speculator; this chapter gives the speculation and the insurance their instruments, so the baron's work has table weight.
-- **The trade chapter** is the cargo the insurance insures; the bank chapter (Ch.9) is the deposit the speculation leverages.
+- **Justice:** The criminal court lives there; the civil court lives here. The two share the social-conflict rules and the `Lawyer` talent, and a paper war that turns criminal (the forged patent, the arson fraud) ladders into trials.
+- **Families:** Inheritance is a family's continuity; probate is the contested transfer that decides who holds the estate.
+- **Robber barons:** The baron is the great speculator. Land instruments, insurance, and paper ownership give that ambition weight at the table.
+- **The trade chapter** is the cargo the insurance insures; the bank chapter (Ch.9) is the deposit speculation borrows against.
+- **The town tracker** records whether paper makes the county more legible or more crooked. A fair land-office victory may add `1` `Civic` or `Law` tally point, or make `Land Claim Office`, `County Appraiser's Office`, `County Courthouse`, or `Town Expansion` available at `3` SP. A forged patent, courthouse fraud, arson insurance swindle, or corner that ruins ordinary holders may remove `1` `Law`, `Civic`, or `Mercantile` point.
 
 The West was built on paper. The quiet war takes land while the bullet and the rope hold the county's attention elsewhere. It wears coats, works in offices, rarely draws on anyone, and decides whose name is on the deed when the country is finally settled.

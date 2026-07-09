@@ -113,5 +113,6 @@ The wire is a thread that runs through half the book, and this chapter is the kn
 - **The justice chapter** leans on the wire as the way a warrant reaches the troop — the wire goes to the post. The wire-down condition says the warrant does not arrive today, and the troop does not ride until the line is up.
 - **The factions and robber-barons chapters** lean on the wire as the medium a baron's pressure travels through — a name on a wire, by Thursday. The operator is the baron's ear, and a party that owns the operator owns a piece of the baron's reach.
 - **The mail chapter (the next chapter)** leans on the wire as the fast cousin of the mail — the wire for the urgent, the mail for the durable.
+- **The town tracker** treats a working telegraph as civic infrastructure. A season spent winning or building reliable service may make the `Telegraph`, `Railroad Station`, `Post Office`, or `Federal Marshal's Office` amenity available at `3` SP. A cut line that costs the town a season's trade, law, or rescue may remove `1` `Mercantile`, `Law`, or `Civic` tally point.
 
 The wire is the country's nervous system. Once its cost, speed, and failure are known, every warrant, robbery, faction order, and rescue call moves at the same hard pace.

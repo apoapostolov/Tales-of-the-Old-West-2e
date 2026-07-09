@@ -8,7 +8,7 @@
 
 ### Money on the Hoof
 
-The cattle industry is half the economy of the West, and the corebook's setting chapters render it well: the chuckwagon, the hierarchy, the pay, the daily grind. This chapter carries that work onto the trail and the range — the herd as a thing to be moved across country, the stampede as a thing that can kill the men moving it, the ranch as a business to be rolled at the Turn of the Season.
+The cattle industry is half the economy of the West, and the corebook's setting chapters render it well: the chuckwagon, the hierarchy, the pay, the daily grind. On the trail, that daily life becomes a moving business with horns and hunger: the herd has to cross country, the stampede can kill the men moving it, and the ranch still answers at the Turn of the Season.
 
 A montage drive needs weather, pay, and one hard choice on the road. A campaign drive needs the herd itself: miles as Progress, river crossings and stampedes as Trouble, the roundup as seasonal work, and the open range pressing in through cattlemen's associations, nesters, wire, rustlers, and brands. Put the herd on the table when the party is the trail crew, the beeves are the stake, and the country between home range and railhead is the dangerous ground.
 
@@ -18,7 +18,7 @@ A montage drive needs weather, pay, and one hard choice on the road. A campaign 
 
 ### The Drive as Operation
 
-A cattle drive is the archetypal operation: a long, linked sequence of situations, each of which can go well or badly, with a fixed destination and a hundred miles of country between. The outlaw chapter's operation rules model it almost perfectly, and this chapter uses them directly.
+A cattle drive is the archetypal operation: a long, linked sequence of situations, each of which can go well or badly, with a fixed destination and a hundred miles of country between. Run it as an operation from the outlaw rules, with the herd itself as the prize under pressure.
 
 | Drive Scale | Progress Needed | Trouble Limit | The Drive |
 | --- | --- | --- | --- |
@@ -205,10 +205,12 @@ The drive reaches the railhead at `8` Progress and `3` Trouble. It pays, but it 
 
 A cattle drive and a ranch do not happen in an empty country. The open range is a contested thing in the 1870s, and the factions that contest it are the campaign.
 
+When the herd changes a town's season, use the town tracker. A clean drive that reaches the railhead, pays local hands, and fills the pens may add `1` tally point to `Farming`, `Mercantile`, or `Natural Riches`, matching the corebook's Cattle Drive fortune. A stampede through town, a range war, a drought loss, or a fence fight may remove `1` point from `Law`, `Civic`, `Welfare`, or `Farming`. A party that turns a seasonal cattle economy into public work may make `Paddocks / Corrals`, `Livestock Roundup`, `Horse Traders`, `Sheriff's Office`, or `Maintained Tracks` available at `3` SP.
+
 - **The Cattleman's Association** is a faction whose purpose is to hold the open range for stockmen against the nesters, the wire, and the rustler. Its means are the association's detectives (the corebook's `Ranch Outfit or Range Detectives` pursuer), the social pressure of the county, and occasionally the rope. A drive backed by the association rides easier; a drive the association opposes meets wire across the trail and a detective at every waterhole.
 - **The Nesters** are a faction whose purpose is to fence and farm the range the stockmen hold open. They are poor, numerous, and increasingly backed by the homestead laws and, sometimes, the bench. A drive through a nester's fence is a `Standing` shift with the nester faction and, often, a warrant sworn at the county seat.
 - **The Rustlers** are a faction (or an outlaw band, run by the corebook's outlaw rules) whose purpose is the stock the rancher has not yet branded or cannot guard. Rustling is the corebook's `Rustling` score type; the ranch's Season Roll and the drive's Trouble are where its cost is felt.
-- **The Railroad at the Railhead** is a faction whose purpose is to ship the beeves east and take a cut. The railhead is where the drive ends and the railroad's money begins, and the shipping rates and the buyers are the railroad's leverage over every rancher who has driven a herd a thousand miles to find one buyer.
+- **The Railroad at the Railhead** is a faction whose purpose is to ship the beeves east and take a cut. The railhead is where the drive ends and the railroad's money begins. Shipping rates and buyers give the railroad power over every rancher who has driven a herd a thousand miles to find one buyer.
 
 ### The Drive's Crew and the Cast
 
@@ -216,4 +218,4 @@ A drive is a crew, and the crew is the cast this book is built around. Calder is
 
 The cattle drive is also the natural site of the campaign's weather, its mass combat (when the drive meets the raiders), and its faction pressures (the association, the nesters, the rustlers). A drive run with this book's full rules is a campaign in miniature: a destination, a stake, a crew, a country, and every pressure the West can bring to bear on a thousand beeves and the men moving them.
 
-A campaign that uses these rules will find that the herd is a character: nervous, valuable, and capable of killing the people who work it. The trail drive is the cowboy's outlaw score, run across weeks instead of hours, paid in beeves instead of cash, and judged by the country it crosses rather than the fence it leaves behind. The Herd Ledger answers how much the ranch has. The Breeding Track answers what the herd is worth. The shared grass die answers how much the range can bear. Between them, the ranch's season becomes an argument with grass, weather, winter, and every neighbor on the same range.
+Treat the herd as a living stake: nervous, valuable, and capable of killing the people who work it. The trail drive is the cowboy's score, run across weeks instead of hours and paid in beeves instead of cash. The Herd Ledger answers how much the ranch has. The Breeding Track answers what the herd is worth. The shared grass die answers how much the range can bear. Between them, the ranch's season becomes an argument with grass, weather, winter, and every neighbor on the same range.

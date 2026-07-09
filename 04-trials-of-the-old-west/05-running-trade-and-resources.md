@@ -180,7 +180,7 @@ A party based at the railhead is a party plugged into the wider world; a party a
 
 ### Resources and Scarcity
 
-The county's resources are the things the trade carries and the things the trade runs short of. A campaign that uses this chapter should let scarcity do its work, the way the outlaw chapter lets `Wanted` do its work.
+The county's resources are the things the trade carries and the things the trade runs short of. Scarcity should press on play the way `Wanted` presses on an outlaw: slowly at first, then all at once.
 
 The core resources a county runs on, and the pressure their scarcity creates:
 
@@ -196,6 +196,8 @@ The core resources a county runs on, and the pressure their scarcity creates:
 
 Scarcity presses on the whole season: prices, `Fortune` rolls, faction moves, and the choices ordinary people make when the shelves thin out. Declare it through events — a missed train, a burned range, a closed pass — and let the spatial economy carry the pressure. A county short of powder is a county where the mine's faction gets meaner; a county short of flour is a county where `Welfare` drops and the Committee starts looking for someone to blame.
 
+At the Turn of the Season, a shortage that shaped the whole county removes `1` tally point from the aspect it hurt most: flour and salt usually hit `Welfare`, powder and lead hit `Natural Riches` or `Law`, lumber and nails hit `Civic`, coal and oil hit `Mercantile` or `Welfare`, medicine hits `Welfare`, feed and tack hit `Farming`, and cash hits `Mercantile`. A relief run that arrives in time may cancel that loss, restore one tally point lost to the shortage, or earn `1` SP if the town publicly sees who kept the shelves from going bare.
+
 ### The Way-Station and the Trade
 
 The way-station — Sandoval's place, and the model for any trading post, road ranch, or stage station the party might run or rely on — is the hinge of the county's trade. It sits where the roads cross, and it is the place a freighter waters the team, a rider swaps a horse, a traveler buys a meal, and a contract gets struck at the counter. The way-station is a business (the corebook's rules), but it is also a crossroads, and the crossroads is where the county's pressures meet.
@@ -204,6 +206,6 @@ A way-station keeper has a `Refuge`-style gauge with the county's traffic — a 
 
 ### A Note on the Honest Trade
 
-The freighter's trade is the honest trade in a county full of dishonest ones. The outlaw robs the train; the freighter ships on it. The rustler takes the herd; the packer carries the goods that feed the men who guard it. The trade is not always clean — whiskey to a dry camp, guns to a faction, stolen goods for a fence — and `Standing` and `Wanted` catch dirty runs the way they catch any other crime. Still, the living is made by carrying, not taking. A party can now make its money by road, contract, weather, and judgment instead of by the gun.
+The freighter's trade is the honest trade in a county full of dishonest ones. The outlaw robs the train; the freighter ships on it. The rustler takes the herd; the packer carries the goods that feed the men who guard it. The work is not always clean. Whiskey to a dry camp, guns to a faction, or stolen goods for a fence still bring `Standing` and `Wanted` down on the runner. But the living is made by carrying, not taking. The party can make its money by road, contract, weather, and judgment instead of by the gun.
 
 The freighter's season comes down to three questions: which road, which cargo, and which day. The Route Ledger answers the road. The Cargo Bet answers the risk. The schedule answers the day. The wire chapter is the freighter's ear, the rail is the clock, the weather is the road's other master, and a freighter who ignores any of them will watch the ledger empty by the season.

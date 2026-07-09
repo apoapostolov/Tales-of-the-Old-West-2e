@@ -202,6 +202,8 @@ The railroad is a faction, and it is the faction most likely to ruin a train rob
 
 The railroad's Faction Roll each season is how its memory acts. A `Pressure` result means the company's detectives have closed a town against the gang, or leaned on a fence, or put a man on the platform at the way-station. A `Bold Move` result means the company has sworn federal warrants, or brought in the Pinkertons, or leaned on the bench to set an example. A gang that robs the same railroad twice is a gang the railroad has decided to break, and the railroad's memory is longer than any horse.
 
+If a train job changes the town rather than only the gang, mark the town tracker. A protected payroll, saved mail car, or restored line may add `1` `Mercantile`, `Law`, or `Civic` tally point. A derailment, repeated robbery, burned depot, or frightened company may remove `1` `Mercantile` or `Law`, or make the `Railroad Station`, `Telegraph`, or `Express Mail Route` amenity unavailable until the line trusts the town again.
+
 The wire is the railroad's great advantage and the gang's great enemy. The gang that cannot cut the wire, or send the dummy message, is a gang the company tracks in real time. Treat the wire as a standing modifier on the gang's `Hard Ride and Flight` after a train job: if the wire got out, the pursuit begins at `Regional` and climbs toward `Federal` as the company's wires ahead of the gang assemble the picture. If the gang cut the wire or sent the dummy, the pursuit begins at `Local` and the gang has the head start the wire would have stolen.
 
 ### The Heat Track

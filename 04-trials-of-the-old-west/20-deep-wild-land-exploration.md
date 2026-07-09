@@ -8,7 +8,7 @@
 
 ### Past the Known Road
 
-The corebook's Traveling table covers the trail and the road — the country the wagon, the stage, and the rail have opened. The trade chapter covers the freighting outfit moving goods along the known ways. Neither covers the country past the known ways: the river no steamboat runs, the timber no logger has cut, the ridge no trail crosses. This is the **deep wild land**, and the party that goes there — to trap, to prospect, to survey, to hunt, to find a lost column, or simply to get out of the county's reach for a season — is a party traveling in a different medium than the road.
+The Traveling table covers the trail and the road, the country the wagon, stage, and rail have opened. Trade covers the freighting outfit moving goods along known ways. Past those ways lies the river no steamboat runs, the timber no logger has cut, the ridge no trail crosses. That is the **deep wild land**. A party that goes there to trap, prospect, survey, hunt, find a lost column, or get beyond the county's reach travels in a different medium than the road.
 
 Deep-wild travel comes in three modes: **by water, through forest, and over mountain**. Each is the same hard question in different country: does the party arrive, what is lost on the way, and what is found past the last known road? Run each mode as an operation with its own stages, abilities, and Trouble, so the wild land costs more than a line on the travel table.
 
@@ -40,7 +40,7 @@ Each mode of travel — water, forest, mountain — sets the stages and the abil
 
 ### The Expedition's Supplies
 
-The Operation frame models the journey as a sequence of obstacles, but a real expedition is also a **resource-management problem** — the party is carrying finite supplies (food, feed, gear) into a country that does not resupply them, and the chapter tracks depletion as closely as obstacles. The wild land's Trouble has a _source_: the supplies are running out, and the party's decisions about them — push on or turn back, ration or feast, repair or abandon — are the decisions the actual mountain men and explorers made every day.
+An expedition is a sequence of obstacles and a **resource-management problem**. The party carries finite supplies, food, feed, and gear, into a country that does not resupply them. Track depletion as closely as obstacles. The wild land's Trouble has a source: the supplies are running out, and the party must decide whether to push on or turn back, ration or feast, repair or abandon.
 
 Track the expedition's supplies as **resource dice** (the corebook's consumables rule, extended to the expedition's full load):
 
@@ -180,9 +180,10 @@ Arrival is only half the answer. The wild land also asks what condition the part
 
 The wild land is the country past the rest of the book's reach.
 
-- **The corebook's Traveling table** is the road; this chapter is the country past the road. The two share travel logic and extend it where the table stops.
+- **The corebook's Traveling table** is the road; the deep wild is the country past the road. The two share travel logic and extend it where the table stops.
 - **The weather chapter** sets the wild land's conditions, harder than the settled country's — the storm on the river, the blowdown in the forest, the blizzard on the divide.
 - **The sickness chapter** and the conditions (`Starving`, `Dehydrated`, `Exhausted`, `Freezing`) are the wild land's daily pressure — the party far from the doctor and the way-station pays the full cost of every condition the country imposes.
-- **The mining, fur-trade, and logging chapters** are the wild land's trades — the prospect, the trapline, the timber cruise are the reasons a party goes into the deep country, and this chapter is the going.
+- **Mining, fur trade, and logging** give the wild land its trades. The prospect, trapline, and timber cruise are reasons to go into the deep country; the expedition is the going itself.
+- **The town tracker** changes when exploration finds or loses something public. A surveyed pass, reliable ford, timber stand, spring, or mineral lead may add `1` `Natural Riches`, `Mercantile`, or `Welfare` tally point, or make `Prospecting`, `Town Expansion`, `Maintained Tracks`, `Wells`, `Fishing Rights`, or `Timber Mill` available at `3` SP. A failed expedition that costs lives, animals, or public money may remove `1` `Welfare` or `Civic`.
 
 The trail ends before the country does. Past the map, the river, forest, and mountain each have their own price, and the party pays it in food, gear, time, nerve, and sometimes names. Let the finding be worth something, because the going has already cost something.

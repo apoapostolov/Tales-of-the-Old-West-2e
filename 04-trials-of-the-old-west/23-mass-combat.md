@@ -141,10 +141,10 @@ In the second Round, the war party refuses the ridge and swings toward the horse
 
 Some fights have weapons that change the skirmish line. Treat them as modifiers and special resolutions.
 
-- **Artillery** (a mountain howitzer, a field gun) is a unit of its own, with `Quality 2`, no Strength die but a fixed effect, and the ability to fire at any range. An artillery exchange is `+2 dice` to the firing side and forces a Morale check on the target unit regardless of casualties, which is what artillery actually did to men who had never been under it.
+- **Artillery** (a mountain howitzer, a field gun) is a unit of its own, with `Quality 2`, no Strength die but a fixed effect, and the ability to fire at any range. An artillery exchange is `+2 dice` to the firing side and forces a Morale check on the target unit regardless of casualties. Men who had never stood under shellfire often broke before the iron found them.
 - **The Gatling gun** is an infantry-breaker. Treat it as `+3 dice` to the unit it supports in a volley, with the caveat that it jams on a roll of all `1`s (the GM applies a Trouble step and the gun is silent until cleared). A unit facing a Gatling tests Morale at `-1 die` the first time it fires.
 - **The charge** is the melee's desperate cousin. A charging unit adds `+1 die` to its melee roll but steps its Strength down by one on a loss, regardless of margin — a failed charge is a broken charge, and the men who made it are the men who pay for it.
-- **Fortifications** (a stockade, a blockhouse, a breastwork) add their cover modifier to the defender's volley and melee rolls, and force the attacker to win two exchanges to step the defender's Strength down once, which is what makes a siege a siege.
+- **Fortifications** (a stockade, a blockhouse, a breastwork) add their cover modifier to the defender's volley and melee rolls. The attacker must win two exchanges to step the defender's Strength down once.
 
 ### The Siege and the Running Fight
 
@@ -154,11 +154,13 @@ A **siege** is an operation whose Progress is the breach (for the attacker) or t
 
 A **running fight** — a retreat, a pursuit, a column's withdrawal — is a series of skirmishes linked by the corebook's `Chases` and the outlaw chapter's `Hard Ride and Flight`. Each skirmish is a `Skirmish`-scale operation, and the column's Cohesion and Horsestock erode across the run. A running fight that ends in the column's breaking is the campaign's disaster. Let it land with its full weight.
 
+At the Turn of the Season, a battle that spared the town, opened a road, or ended a raid may add `1` `Law`, `Civic`, or `Welfare` tally point. A siege, occupation, massacre, burned storehouse, or rout through town may remove `1` or `2` points from `Law`, `Civic`, `Welfare`, or `Mercantile`, by the shared town-consequence scale. A town that organizes defense may make `Warning Bells`, `Posses`, `Sheriff's Office`, `Firehouse`, or `Maintained Tracks` available at `3` SP.
+
 ### The Cast on the Line
 
-This book's cast is built for this chapter. Carver is the sergeant whose `PRESENCE` and `SHOOTIN'` carry the troop's line; Calder's herd is the stake the war party has come for; Riddle is the man in the wrong place whose `SHOOTIN'` may save him or expose him; Sandoval's way-station is the ground the column falls back to. The GM should let the battle be a place the cast's histories surface, the way the drive and the trial are. A war party under a leader the troop has wronged fights differently from one driven by hunger; a lieutenant the sergeant has saved twice is a lieutenant who will listen on the third.
+Carver's `PRESENCE` and `SHOOTIN'` can carry a troop's line; Calder's herd can be the stake the war party has come for; Riddle may be the man in the wrong place whose `SHOOTIN'` saves him or exposes him; Sandoval's way-station may be the ground the column falls back to. Let the battle bring histories to the surface, the way a drive or trial does. A war party under a leader the troop has wronged fights differently from one driven by hunger; a lieutenant the sergeant has saved twice is a lieutenant who will listen on the third.
 
-The mass combat chapter is also the chapter where this book's honest rendering of the Indian Wars must do its work. The nations the troop campaigns against are not statblocks; they are peoples with their own causes, their own factions, and their own claims on the country. A campaign that runs mass combat with only one side humanized is lying about the war, the way a campaign that runs justice with only one side of the law is lying about the bench.
+Mass combat carries the book's hardest military history. The nations the troop campaigns against are not statblocks; they are peoples with their own causes, factions, and claims on the country. A battle with only one side humanized lies about the war, the way a trial with only one side of the law lies about the bench.
 
 ### Sample Units
 
@@ -204,4 +206,4 @@ Four units, in the statblock voice the rest of the book uses, so a GM can see ho
 
 **Notes:** The crew is not a military unit, and it should not be played as one. It fights to hold what it has — the herd, the chuck, the horses — and it breaks the moment the herd stamps or the horses are taken. A trail crew that holds a war party for two exchanges has done a remarkable thing, and the GM should let the table feel it.
 
-A campaign that uses these rules will find that the skirmish line is where the book's pressures meet. Battle is the book's largest scale, and it should feel like the work it was: loud, confused, costly, and decided as often by the cohort and the country as by the player characters' courage. The war is the setting's central fact, and the rules here account for it with the same dice and gauges as the saloon brawl and the jailbreak, because the country is one country and the rules that govern it should hold together.
+The skirmish line is where the book's pressures meet. Battle is the largest scale here, and it should feel like the work it was: loud, confused, costly, and decided as often by the cohort and the country as by the player characters' courage. The war is the setting's central fact. It uses the same dice and gauges as the saloon brawl and the jailbreak because the country is one country, and its rules should hold together.
