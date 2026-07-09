@@ -6,15 +6,15 @@
 >
 > — SERGEANT MOSES CARVER, TO A LIEUTENANT WHO HAD DRAWN THE LINE IN THE WRONG PLACE
 
-### Mass Combat and Its Trade
+### Fights Too Large for Pistols
 
 There are fights in the West that are too large for the player characters' pistols. The Indian Wars are the setting's central fact, and the army's campaign against the horse nations cannot be run as a saloon brawl. The Lincoln County War, the fence wars, the railroad's strike-breaking, the Committee's raid on a camp, the gang war that spills past the posse and into the column — all of these are fights of dozens and hundreds, and the corebook's conflict rules, which are built for the handful, do not reach them.
 
-This chapter is an optional framework for groups who want those fights on the table. It builds a **unit abstraction** — a body of fighters treated as a single entity with a Quality rating, a Strength die, and a Cohesion gauge — and resolves the skirmish between units with the same dice the engine uses for everything else. It lets **player characters attach** to a unit as leaders, in which case their own abilities carry the day. It wraps the whole in the **operation framework**, so a battle that matters is run as a battle and not as a single mass roll.
+A body of fighters becomes a **unit** with Quality, Strength, Cohesion, and a name the campaign recognizes. Player characters may attach as leaders, scouts, officers, champions, surgeons, or saboteurs; their abilities can carry the line or get them killed in front of it. A battle that matters has an objective, a cost, and consequences that carry into the county afterward.
 
-It is written to sit alongside the corebook's `Morale & Rout` rule, which is the engine's native mass-morale mechanic, and to reuse the outlaw chapter's `Cohesion` gauge rather than invent a new one. The point is to make a skirmish feel like a fight the engine understands, not a different game bolted on.
+Use the corebook's `Morale & Rout` rule and the outlaw chapter's `Cohesion` gauge for the human pressure inside the unit: fear, trust, hunger, anger, leadership, and the sight of the first body falling.
 
-You do not need these rules for a barroom brawl or a posse's running fight. Use them when the fight is thirty or more a side, when the player characters are officers or war leaders rather than just shooters, and when the outcome of the battle changes the campaign — who holds the ground, who keeps the herd, who survives the column.
+A barroom brawl or posse chase stays in ordinary conflict. Thirty or more fighters on a side, player characters acting as leaders rather than only shooters, and an outcome that changes who holds the ground all call for the unit rules.
 
 > _Carver dismounted the troop on the ridgeline and read the ground below him and the enemy on the next ridge and the order in his lieutenant's hand that had put them there, and he did not like any of the three. The ground said the troop was sky-lined against the morning. The enemy said it knew the troop was there and had not moved, which meant it was where it wanted to be. The order said hold the ridgeline until relieved, which was the kind of order a man wrote when he did not intend to be the one holding it._
 >
@@ -34,7 +34,7 @@ You do not need these rules for a barroom brawl or a posse's running fight. Use 
 
 ### The Unit
 
-A unit is a body of fighters treated as one. It is the abstraction that lets a battle of sixty run as a fight between four pieces on the GM's map. A unit is defined by four things.
+A unit is a body of fighters treated as one for the battle's purposes. It lets a fight of sixty people run as a fight between a few named bodies on the GM's map. A unit is defined by four things.
 
 - **Quality.** The fighters' training and nerve, rated `1` to `3`, which is also the number of base dice the unit rolls.
 - **Strength.** The unit's numbers and condition, a stepped die (`D6` at full strength, stepping down with casualties like the optional `Provisions` die). When the Strength die is exhausted, the unit breaks.
@@ -64,11 +64,20 @@ A unit begins at `D6` (or `D8` if it is reinforced or oversized for its scale, s
 
 #### Cohesion
 
-A unit's `Cohesion` works exactly as the outlaw chapter's gang Cohesion works, on the same `1-5` scale with the same states (`Keen`, `Solid`, `Uneasy`, `Fraying`, `Broken`) and the same effects. A unit at `Fraying` is a unit one bad moment from a rout; a unit at `Broken` is a unit that must be held together by its leader on every round or it comes apart. Reuse the outlaw chapter's table verbatim. This is the engine's discipline: a body of people holds together by the same pressure whether they are a gang in a hideout or a troop on a ridgeline.
+A unit's `Cohesion` works exactly as the outlaw chapter's gang Cohesion works, on the same `1-5` scale with the same states (`Keen`, `Solid`, `Uneasy`, `Fraying`, `Broken`) and the same effects. A unit at `Fraying` is one bad moment from a rout. A unit at `Broken` must be held together by its leader on every round or it comes apart. Reuse the outlaw chapter's table verbatim.
 
 ### The Skirmish Turn
 
-A skirmish is resolved in Rounds, like the corebook's conflict. Each Round, every unit on the line takes a turn, in an order set by a single initiative draw (one card for the whole side, or one `Quick` roll per side, as the corebook's Fast Initiative option allows). On its turn, a unit acts: it moves, it fires, it charges, it holds, it rallies. The skirmish is the linked sequence of these turns.
+A skirmish is resolved in Rounds, like the corebook's conflict. Before the first Round, name the objective for each side: hold the ridge, take the camp, drive off the raiders, break the mob, protect the herd, buy time for the wagons. The objective tells the GM what counts as Progress and what the battle costs when Trouble rises.
+
+Run each Round in this order.
+
+1. **Read the line.** State each side's immediate aim this Round: hold, move, fire, charge, rally, withdraw, or cover a retreat.
+2. **Set initiative.** Draw one initiative card for each side, or make one `Quick` roll per side using the corebook's Fast Initiative option.
+3. **Take unit turns.** On its turn, each unit moves, fires, charges, holds, rallies, withdraws, or performs a battlefield task such as dragging a gun, carrying a wounded leader, or closing a gate.
+4. **Resolve exchanges.** When one unit attacks or contests another, make the opposed unit roll below.
+5. **Check morale.** Test Morale when a unit's Strength is exhausted, its leader falls, it loses a melee, or the corebook's `Morale & Rout` triggers apply.
+6. **Mark the battle.** Add Progress for won exchanges and Trouble for cost, lost ground, broken units, low ammunition, wounded leaders, or weather turning against the plan.
 
 #### The Volley and the Melee
 
@@ -86,17 +95,17 @@ When a unit attacks another unit, resolve it as an **opposed unit roll**. Each s
 | Unit at `Cohesion 1` (Broken) | `-2 dice` |
 | Unit at `Cohesion 5` (Keen) | `+1 die` |
 
-Read the opposed roll by successes. The side with more successes wins the exchange. The loser steps its Strength die down by the margin (each extra success the winner rolled is one step of loss). A draw means both sides hold and neither loses Strength this exchange, though the GM may apply `Trouble` (a casualty among named figures, ammunition spent, a flank turned) at her judgment.
+Read the opposed roll by successes. The side with more successes wins the exchange. The loser steps its Strength die down once. If the winner won by `3+` successes, the loser steps Strength down one additional time. A draw means both sides hold and neither loses Strength this exchange, though the GM may apply `Trouble` (a casualty among named figures, ammunition spent, a flank turned) at her judgment.
 
 A melee is resolved the same way, with the same opposed roll, the difference being that the loser of a melee is more likely to break (the Morale check after a lost melee is at `-1 die`).
 
 #### Attached Player Characters
 
-A player character attached to a unit is its leader, and the unit fights with the PC's ability on the line. Choose the ability that fits the unit's action: `SHOOTIN'` for a volley, `FIGHTIN'` for a melee, `PRESENCE` for a rally or a charge, `ANIMAL HANDLIN'` for a mounted unit, `INSIGHT` to read the enemy's move. The PC's ability rating is added as help dice to the unit's opposed roll, to the `+3` cap — the same help-dice discipline the engine uses everywhere.
+A player character attached to a unit is its leader, and the unit fights with the PC's ability on the line. Choose the ability that fits the unit's action: `SHOOTIN'` for a volley, `FIGHTIN'` for a melee, `PRESENCE` for a rally or a charge, `ANIMAL HANDLIN'` for a mounted unit, `INSIGHT` to read the enemy's move. The PC's ability rating is added as help dice to the unit's opposed roll, to the `+3` cap.
 
 An attached PC can also **peel off** to resolve a personal fight using the corebook's Chapter 5 conflict rules — the PC's duel with the enemy captain, the sergeant's charge into the breach, the player character's attempt to reach the wounded man under fire. These scenes run in the corebook's Rounds, nested inside the skirmish's Round, and their outcome can swing the unit's next roll (a captain killed is a unit at `-1 die`; a breach forced is a defender's lost exchange).
 
-An attached PC is also a target. A unit that loses an exchange with a PC attached may, at the GM's judgment, have put the PC in harm's way: the PC takes `1` point of `Hurts` from the firefight, or rolls on the Critical Injury table if the exchange was a melee or a close-range volley. The player character who attaches to a unit is not insulated by the abstraction; the PC bleeds.
+An attached PC is also a target. A unit that loses an exchange with a PC attached may, at the GM's judgment, have put the PC in harm's way: the PC takes `1` point of `Hurts` from the firefight, or rolls on the Critical Injury table if the exchange was a melee or a close-range volley. The player character who attaches to a unit is not protected by distance; the PC bleeds.
 
 #### Morale and Rout
 
@@ -106,7 +115,7 @@ A unit that flees or scatters may be rallied by an attached PC's `PRESENCE` roll
 
 ### The Battle as Operation
 
-A skirmish that matters — one whose outcome changes the campaign — is run as an **operation**, with the Progress-versus-Trouble track wrapped around the exchange-resolution above. This is the engine's way of making a battle more than a series of dice rolls, by giving it a destination.
+A skirmish that matters — one whose outcome changes the campaign — is run as an **operation**, with the Progress-versus-Trouble track wrapped around the exchange resolution above. This gives the battle a destination instead of letting it become a loose sequence of volleys.
 
 | Battle Scale | Progress Needed | Trouble Limit | The Fight |
 | --- | --- | --- | --- |
@@ -118,14 +127,22 @@ A skirmish that matters — one whose outcome changes the campaign — is run as
 
 Each exchange in a battle operation is tagged Safe / Risky / Desperate, the way a score's checks are. A volley from good cover against an enemy at Long range is `Safe`. A charge across open ground against a defended ridge is `Desperate`. The GM's tagging is the pressure that makes the player characters' choices about when to push and when to hold feel like the choices a war leader actually makes.
 
-When the Progress fills, the battle is won — the objective taken, the enemy broken, the ground held. When the Trouble hits its limit, the plan is dead: the line is broken, the unit is routing, the player characters must decide whether to rally, retreat, or go down with the fight. The engine does not soften the latter. A battle lost is a battle lost, and its consequences run through the faction system, the season, and the campaign.
+When the Progress fills, the battle is won: the objective taken, the enemy broken, the ground held. When the Trouble hits its limit, the plan is dead: the line is broken, the unit is routing, and the player characters must decide whether to rally, retreat, or go down with the fight. A battle lost is a battle lost, and its consequences run through the faction system, the season, and the campaign.
+
+#### Example: Holding the Ridge
+
+Carver's dismounted troop is a `Veteran` unit (`Quality 3`, Strength `D6`, Cohesion `3`) holding a ridge against a mounted war party (`Quality 3`, Strength `D8`, Cohesion `4`). The GM sets the fight as a `Skirmish` operation: `4` Progress to hold until the wagons pass, `3` Trouble before the line breaks or the retreat becomes desperate.
+
+In the first Round, Carver pulls the line back into scrub cover. The troop fires from cover, so it gains `+1 die`; Carver is attached and adds help dice, capped at `+3`. The troop wins the exchange by `2` successes. The war party's Strength steps down from `D8` to `D6`, and the player side marks `2` Progress toward holding the ridge.
+
+In the second Round, the war party refuses the ridge and swings toward the horses. The troop wins no exchange this time; instead, the GM marks `1` Trouble because the horse-holder is exposed and the line must shift. The players can keep firing for Progress, peel Carver off to save the horses, or withdraw before the war party turns the objective. The battle is doing its work: not asking who shoots best, but what the line can afford to lose.
 
 ### Artillery, the Gatling, and the Charge
 
-Some fights have weapons that change the skirmish line. These are modifiers and special resolutions, not a separate engine.
+Some fights have weapons that change the skirmish line. Treat them as modifiers and special resolutions.
 
 - **Artillery** (a mountain howitzer, a field gun) is a unit of its own, with `Quality 2`, no Strength die but a fixed effect, and the ability to fire at any range. An artillery exchange is `+2 dice` to the firing side and forces a Morale check on the target unit regardless of casualties, which is what artillery actually did to men who had never been under it.
-- **The Gatling gun** is an infantry-broken. Treat it as `+3 dice` to the unit it supports in a volley, with the caveat that it jams on a roll of all `1`s (the GM applies a Trouble step and the gun is silent until cleared). A unit facing a Gatling tests Morale at `-1 die` the first time it fires.
+- **The Gatling gun** is an infantry-breaker. Treat it as `+3 dice` to the unit it supports in a volley, with the caveat that it jams on a roll of all `1`s (the GM applies a Trouble step and the gun is silent until cleared). A unit facing a Gatling tests Morale at `-1 die` the first time it fires.
 - **The charge** is the melee's desperate cousin. A charging unit adds `+1 die` to its melee roll but steps its Strength down by one on a loss, regardless of margin — a failed charge is a broken charge, and the men who made it are the men who pay for it.
 - **Fortifications** (a stockade, a blockhouse, a breastwork) add their cover modifier to the defender's volley and melee rolls, and force the attacker to win two exchanges to step the defender's Strength down once, which is what makes a siege a siege.
 
@@ -133,15 +150,15 @@ Some fights have weapons that change the skirmish line. These are modifiers and 
 
 Two special cases deserve a word.
 
-A **siege** is an operation whose Progress is the breach (for the attacker) or the holding out (for the defender), and whose Trouble is starvation, disease, the ammunition, the relief column, the weather. A siege runs across days and Turn-of-the-Season increments, not Rounds, and it uses the town's `Welfare` and `Natural Riches` aspects and the optional `Provisions` die to model the slow pressure of a place cut off. A siege is the engine's way of making the campaign's long arc do the work of a siege, which is patience and attrition.
+A **siege** is an operation whose Progress is the breach (for the attacker) or the holding out (for the defender), and whose Trouble is starvation, disease, ammunition, the relief column, and the weather. A siege runs across days and Turn-of-the-Season increments, not Rounds, and it uses the town's `Welfare` and `Natural Riches` aspects and the optional `Provisions` die to model the slow pressure of a place cut off. A siege is patience and attrition made playable.
 
-A **running fight** — a retreat, a pursuit, a column's withdrawal — is a series of skirmishes linked by the corebook's `Chases` and the outlaw chapter's `Hard Ride and Flight`. Each skirmish is a `Skirmish`-scale operation, and the column's Cohesion and Horsestock (the outlaw gauge, applied to a troop as readily as a gang) erode across the run. A running fight that ends in the column's breaking is the campaign's disaster, and the engine should let it be.
+A **running fight** — a retreat, a pursuit, a column's withdrawal — is a series of skirmishes linked by the corebook's `Chases` and the outlaw chapter's `Hard Ride and Flight`. Each skirmish is a `Skirmish`-scale operation, and the column's Cohesion and Horsestock erode across the run. A running fight that ends in the column's breaking is the campaign's disaster. Let it land with its full weight.
 
 ### The Cast on the Line
 
 This book's cast is built for this chapter. Carver is the sergeant whose `PRESENCE` and `SHOOTIN'` carry the troop's line; Calder's herd is the stake the war party has come for; Riddle is the man in the wrong place whose `SHOOTIN'` may save him or expose him; Sandoval's way-station is the ground the column falls back to. The GM should let the battle be a place the cast's histories surface, the way the drive and the trial are. A war party under a leader the troop has wronged fights differently from one driven by hunger; a lieutenant the sergeant has saved twice is a lieutenant who will listen on the third.
 
-The mass combat chapter is also the chapter where this book's honest rendering of the Indian Wars must do its work. The nations the troop campaigns against are not statblocks; they are peoples with their own causes, their own factions, and their own claims on the country, and the writing skill's `native-material-culture.md` governs every scene in which they appear. A campaign that runs mass combat with only one side humanized is lying about the war, the way a campaign that runs justice with only one side of the law is lying about the bench.
+The mass combat chapter is also the chapter where this book's honest rendering of the Indian Wars must do its work. The nations the troop campaigns against are not statblocks; they are peoples with their own causes, their own factions, and their own claims on the country. A campaign that runs mass combat with only one side humanized is lying about the war, the way a campaign that runs justice with only one side of the law is lying about the bench.
 
 ### Sample Units
 
@@ -153,7 +170,7 @@ Four units, in the statblock voice the rest of the book uses, so a GM can see ho
 | --- | --- | --- | --- |
 | `3` Veteran | `D6` | `3` Solid | Twenty-two carbines, a sergeant who reads, a lieutenant who does not |
 
-**Talents:** Attached leader `— Sergeant Moses Carver` `SHOOTIN' 4`, `PRESENCE 4`, `ANIMAL HANDLIN' 3`. Adds `+4` dice (capped to `+3`) when Carver leads the unit's fire or rally.
+**Talents:** Attached leader `— Sergeant Moses Carver` `SHOOTIN' 4`, `PRESENCE 4`, `ANIMAL HANDLIN' 3`. Adds `+3` dice when Carver leads the unit's fire or rally, because attached leader help is capped at `+3`.
 
 **Notes:** The troop fights dismounted in four-to-one doctrine — one man in four holds the horses. A dismounted troop at full Strength fields about sixteen carbines. The horse-holder is the unit's soft flank; if the horses are stampeded or taken, the troopers are afoot and the unit's effective Quality drops to `2` for pursuit and flight.
 
@@ -185,6 +202,6 @@ Four units, in the statblock voice the rest of the book uses, so a GM can see ho
 
 **Talents:** Attached leader `— Webb Calder` `SHOOTIN' 3`, `ANIMAL HANDLIN' 4`, `PRESENCE 3`. Adds `+3` dice (capped) when Calder holds the crew on the line.
 
-**Notes:** The crew is not a military unit, and it should not be played as one. It fights to hold what it has — the herd, the chuck, the horses — and it breaks the moment the herd stamps or the horses are taken. A trail crew that holds a war party for two exchanges has done a remarkable thing, and the GM should let the engine say so.
+**Notes:** The crew is not a military unit, and it should not be played as one. It fights to hold what it has — the herd, the chuck, the horses — and it breaks the moment the herd stamps or the horses are taken. A trail crew that holds a war party for two exchanges has done a remarkable thing, and the GM should let the table feel it.
 
-A campaign that uses these rules will find that the skirmish line is where the book's pressures meet. The battle is the engine's largest scale, and it is built to make the fight feel like the work it was — loud, confused, costly, and decided as often by the cohort and the country as by the player characters' courage. The war is the setting's central fact, and the rules here are the engine's honest accounting of it, run on the same dice and the same gauges as the saloon brawl and the jailbreak, because the country is one country and the rules that govern it should be one engine.
+A campaign that uses these rules will find that the skirmish line is where the book's pressures meet. Battle is the book's largest scale, and it should feel like the work it was: loud, confused, costly, and decided as often by the cohort and the country as by the player characters' courage. The war is the setting's central fact, and the rules here account for it with the same dice and gauges as the saloon brawl and the jailbreak, because the country is one country and the rules that govern it should hold together.

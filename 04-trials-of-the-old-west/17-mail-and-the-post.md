@@ -6,11 +6,11 @@
 >
 > — ADELINA SANDOVAL, TO A RIDER WHO WONDERED WHY THE MAIL MATTERED
 
-### The Mail and Its Work
+### The County's Regular Visitor
 
 The mail is the county's connection to the wider world, and it runs on a schedule the railroad and the stagecoach and the star-route rider set and the county lives by. The mail day is the day the newspaper comes in, the day the deed arrives, the day the letter from Leavenworth or from home is at the way-station counter, and the day the payroll or the specie rides the express pouch. The mail is also the federal government's quiet reach into the county — a letter carried by U.S. Mail is under federal protection, and a man who robs the mail robs the United States, which is a hanging the marshals do not forget.
 
-The mail is referenced across this book — the train robbery chapter leans on the federal-mail hanging offense, the trade chapter leans on the mail as a cargo the way-station puts through, the robber-baron chapter leans on the star-route contract as a patron's lever — but it has no shared mechanical definition. This chapter gives the mail a small subsystem: routes and delivery times, the mail as cargo, the mail as score and vocation, and the mail contract as a faction's instrument.
+At the table, the mail needs a route, a delivery time, a value as cargo, and a legal weight heavier than ordinary freight. The same sack may hold love letters, a deed, a powder order, payroll paper, or the evidence that ruins a patron. A star-route contract can feed a way-station, enrich a faction, or become the lever a robber baron uses to buy a county road without buying the county.
 
 > _Sandoval counted the mail sacks as the stage driver threw them down at the platform — three for the county seat, one for the post, one for her, which was the way-station's bundle and the bundle for the two ranches past her spring. She signed for them and the driver spat and climbed back up._
 >
@@ -48,7 +48,7 @@ A letter's delivery time is the route's speed multiplied by the distance. A lett
 
 The mail arrives on a **known schedule**, and the schedule is the county's clock. The star-route rider comes through on Tuesdays and Fridays; the stage arrives on Wednesday; the rail mail lands at the platform three times a week. The county knows these days the way it knows the weather, and the county times its life by them — the letter mailed on Monday to arrive Thursday, the payroll that rides the Wednesday stage, the newspaper that comes in on the rail and is read at the way-station counter by Friday. Put the mail days on the campaign calendar, and let the county and the party set their clocks by them.
 
-The schedule is a **strategic lever**, the same schedule-as-metronome primitive the trade chapter (Ch.5) uses for the railroad's rhythm. A faction that wants to control information times its moves to the mail's arrival — the smear printed in the weekly that mails Thursday, the warrant sworn on Wednesday so it rides the stage to the next county by Friday. A party that wants to intercept a letter, or send one, or be absent when one arrives, knows the window, and the window is the lever. A party that knows the southern route is cut and the mail is sitting at the toll gate is a party that knows the mine's powder is late and the mine's round is in jeopardy, which is the kind of information the schedule makes mechanical — the party reads the calendar the way Sandoval read it, and acts on what the calendar says is coming.
+The schedule is a **strategic lever**. A faction that wants to control information times its moves to the mail's arrival — the smear printed in the weekly that mails Thursday, the warrant sworn on Wednesday so it rides the stage to the next county by Friday. A party that wants to intercept a letter, or send one, or be absent when one arrives, knows the window, and the window is the lever. A party that knows the southern route is cut and the mail is sitting at the toll gate is a party that knows the mine's powder is late and the mine's round is in jeopardy. The party reads the calendar the way Sandoval read it, and acts on what the calendar says is coming.
 
 The mail schedule is also the county's vulnerability, and the party that knows it can use it. A wire cut (the wire chapter) and a mail holdup on the same day is a county deaf and blind for the duration, which is the outlaw's oldest combination. The schedule metronome makes the timing of the move as important as the move itself, which is the truth of every mail robbery and every mail-borne fraud the actual West ran.
 
@@ -78,7 +78,7 @@ The mail-run rider's pay is the contract rate (the star route) or whatever the h
 
 #### The Mail Robbery — the Roadside Ambush
 
-The mail robbery is the train robbery's older, poorer cousin, and it should feel *smaller and meaner* than the iron-horse job — a roadside affair, not a set-piece. Where the train robbery is a multi-stage Operation with casing and Heat and a dedicated chapter, the mail robbery is a **roadside ambush**: a single extended scene, one or two checks, resolved fast and mean. The distinction is the *weight*, not just the nouns. The train job is a campaign event; the mail job is a risky errand.
+The mail robbery is the train robbery's older, poorer cousin, and it should feel _smaller and meaner_ than the iron-horse job — a roadside affair, not a set-piece. Where the train robbery is a multi-stage Operation with casing and Heat and a dedicated chapter, the mail robbery is a **roadside ambush**: a single extended scene, one or two checks, resolved fast and mean. The distinction is the _weight_, not just the nouns. The train job is a campaign event; the mail job is a risky errand.
 
 A roadside ambush is **not** a Progress-versus-Trouble Operation. It is a single scene with two or three exchanges: the stop (a log across the road, a rifle aimed at the rider, a grade the horses cannot hurry), the take (the mail sack or the express pouch, lifted from the rider or the stage), and the flight (before the county notices the mail is late). Each exchange is one check — `PRESENCE` or `SHOOTIN'` for the stop, `LIGHT-FINGERED` or `PRESENCE` for the take, `ANIMAL HANDLIN'` or `NATURE` for the flight — and the whole scene resolves in a quarter the time a train job takes.
 
@@ -90,7 +90,7 @@ A roadside ambush is **not** a Progress-versus-Trouble Operation. It is a single
 
 A roadside ambush that succeeds cleanly is a poor man's score — the mail sack's contents (a payroll, a deed, a bundle of letters) are the take, and the gang is gone before the schedule's absence is noticed. A roadside ambush that fails is a federal crime on the mail alone, and the marshal's office does not drop it. The mail robbery's central fact — the federal protection — raises the gang's `Wanted` to `Federal` on any U.S. Mail taken, regardless of the take's size, exactly as the train robbery chapter (Ch.10) establishes. A gang that means to keep its `Wanted` at `Regional` must know which sacks are federal mail and leave them, which is a `HAWKEYE` or `INSIGHT` read at the scene, and which is the kind of distinction a mail robber learns to make or hangs for not making.
 
-The roadside ambush is mechanically *lighter* than the train job by design. A gang that wants the iron horse's payoff runs the train job's full Operation; a gang that wants a quick score or a specific letter runs the roadside ambush. The two are the same trade at different weights, and the engine should let the weight tell — the train job is the campaign's climax, the mail job is a Tuesday.
+The roadside ambush is _lighter_ than the train job. A gang that wants the iron horse's payoff runs the train job's full Operation; a gang that wants a quick score or a specific letter runs the roadside ambush. The two are the same trade at different weights: the train job is the campaign's climax, the mail job is a Tuesday.
 
 #### The Star-Route Swindle
 
@@ -101,6 +101,14 @@ The star-route contract is a patron's lever, and the man who holds it is the man
 The mail contract is a federal instrument, and the man who holds it is the man the federal government has chosen to carry its reach into the county. The contract is a faction asset (the factions chapter) — a `Standing` lever with the federal government, the railroad (which often holds the rail-mail contract), and the county (which depends on the route). A party that holds a contract holds a piece of the county's pulse, and a party that loses a contract (to a swindle, to a rival, to the weather that closed the route too many times) loses the county's good regard.
 
 The contract is also the robber baron's quiet instrument (the robber barons chapter). The Central Pacific and the stage companies held the mail contracts as a way of holding the country's arteries, and the contract was the patronage a baron dispensed to keep a county loyal. A campaign with the mail in play will find the contract is the lever the baron pulls when the county's `Standing` wobbles — take the contract, and the county's mail runs again; lose the contract, and the county's powder and payroll and letters ride a slower road.
+
+#### Example: The Powder Letter
+
+Riddle needs to get a powder order to the mine before Friday. The rail mail reaches Sandoval's station on Wednesday, then the star-route rider carries it another eighty miles. In clear weather, that is two days. A winter squall turns the pass, and the GM marks the southern route cut.
+
+The players hire a special rider instead of waiting for the route to reopen. The ride uses the horseback travel row and a weather penalty. On success, the letter reaches the mine in time and the mine's round goes ahead. On failure, the powder order waits at the toll gate, the mine loses a week, and the mine's `Standing` with Sandoval cools because her station promised a schedule the winter did not honor.
+
+The mail matters because the county times work around it. A late letter is not color; it is a missed blast, a delayed payroll, a warrant that arrives after the quarry is gone.
 
 ### The Mail and the Other Rules
 

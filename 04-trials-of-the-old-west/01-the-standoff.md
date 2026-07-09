@@ -6,11 +6,11 @@
 >
 > — SAM RIDDLE, TO A YOUNG HAND WHO ASKED WHY NOBODY DREW
 
-### The Standoff and Its Work
+### Before the Draw
 
-The duel is the formal thing — two men, an agreed distance, a structured draw, the rules written down. The standoff is the informal thing, and it is the scene the West is built on. Three men at a table, or four across a bar, hands on the butts of their six-guns, nobody willing to be first and nobody willing to back down, the room holding its breath around them. The standoff is not a fight. It is the door the fight comes through, or the door the fight is pushed back from, and the engine should be able to resolve which door it is without jumping straight to the combat Round.
+The duel is the formal thing — two men, an agreed distance, a structured draw, the rules written down. The standoff is the informal thing, and it is the scene the West is built on. Three men at a table, or four across a bar, hands on the butts of their six-guns, nobody willing to be first and nobody willing to back down, the room holding its breath around them. The standoff is not a fight. It is the door the fight comes through, or the door the fight is pushed back from, and these rules decide which door opens without jumping straight to the combat Round.
 
-This chapter gives the standoff a short scene-level mechanic. It does not replace the duel, the combat Round, or the social-conflict rules. It resolves the *whether* and the *who first* — whether the standoff breaks into iron, and whose hand goes for the gun or comes away from it — and then hands off to the existing rules for whatever comes next.
+At the table, the standoff belongs before initiative. Set the sides, let every hand declare whether it is reading the room, threatening, or readying to draw, then roll to learn whether iron comes out and whose nerve moves first. If a shot is fired, the ordinary fight takes over. If somebody backs down, talks the room lower, or finds a third way out, the county remembers that too.
 
 > _The saloon had gone quiet the way saloons do, which is all at once and from the walls inward. Riddle had his hand on the Colt and his back to the post and his eyes on the two men at the bar who had come in out of the storm with a name in their mouths and a debt behind it. The keeper had her hand under the bar on the shotgun. The cornishman at the far end had not moved, because cornishmen in saloons with debts in their mouths do not move._
 >
@@ -26,13 +26,13 @@ Most standoffs resolve in one to three Standoff Rounds. If it runs longer than t
 
 ### The Tension Track
 
-A standoff is not a static silence. It is a silence that *builds*, and the longer it holds the more dangerous it is when it breaks. The Tension Track is the engine's way of making the held breath cost something, so the table is pushed to resolve the standoff rather than let it sit.
+A standoff is not a static silence. It is a silence that _builds_, and the longer it holds the more dangerous it is when it breaks. The Tension Track makes the held breath cost something, so the table is pushed to resolve the standoff rather than let it sit.
 
 The Tension Track is a single die — the **Tension die** — that starts at **D6** when the standoff begins and steps up one size each Standoff Round that ends without a clean break (a draw, or a 1-success margin that holds the standoff another beat). The die climbs: D6, D8, D10, D12. A standoff that reaches D12 is a room about to come apart at the seams.
 
 #### Rolling the Tension Die on the Break
 
-When the standoff finally breaks — someone draws, someone backs down, a third party intervenes — the GM rolls the current Tension die and reads the break's *quality*. The Standoff Roll (below) decides the break's *direction* (who acts, who yields). The Tension die decides the break's *cost*.
+When the standoff finally breaks — someone draws, someone backs down, a third party intervenes — the GM rolls the current Tension die and reads the break's _quality_. The Standoff Roll (below) decides the break's _direction_ (who acts, who yields). The Tension die decides the break's _cost_.
 
 | Tension Die Result | The Break's Quality |
 | --- | --- |
@@ -48,12 +48,12 @@ A side may, as its action for the Standoff Round, choose to **defuse** instead o
 
 To defuse, the acting side rolls `INSIGHT` (reading the room, finding the off-ramp) or `PRESENCE` (the calm voice, the authority, the threat of what comes after). The roll is unopposed, read on the standard ladder.
 
-- **0 successes:** The defuse fails and the Tension die steps *up* one size. The attempt to calm the room read as weakness, and the room's nerve dropped a notch.
+- **0 successes:** The defuse fails and the Tension die steps _up_ one size. The attempt to calm the room read as weakness, and the room's nerve dropped a notch.
 - **1 success (limited):** The Tension die holds where it is. The defuse bought a beat but did not relieve the pressure.
-- **2 successes (full):** The Tension die steps *down* one size (to a minimum of D6). The room breathed. The next Standoff Roll — if the defusing side chooses to make one — is at `+1 die`.
-- **3 successes or more:** The Tension die steps down one size *and* the defusing side may shift the standoff's distance one band toward de-escalation (a standoff at the draw shifts to a standoff of words; a standoff of words shifts toward a backing-down). The defuse is working.
+- **2 successes (full):** The Tension die steps _down_ one size (to a minimum of D6). The room breathed. The next Standoff Roll — if the defusing side chooses to make one — is at `+1 die`.
+- **3 successes or more:** The Tension die steps down one size _and_ the defusing side may shift the standoff's distance one band toward de-escalation (a standoff at the draw shifts to a standoff of words; a standoff of words shifts toward a backing-down). The defuse is working.
 
-A side that defuses cannot also press the Standoff Roll in the same Round. The choice — press or defuse — is the side's action, and it is the engine's way of giving the peacekeeper the same mechanical weight the gunslinger has.
+A side that defuses cannot also press the Standoff Roll in the same Round. The choice — press or defuse — is the side's action, and it gives the peacekeeper the same weight at the table as the gunslinger.
 
 > _The keeper watched the two men at the bar and the cornishman at the far end and the kid with his hand on the Colt, and the room was at the Tension die's first step, which was the D6, which was one chance in six of a bad break, and the keeper did not care for those odds because the cornishman was her best customer and the kid was going to shoot the wrong man if the break went wrong._
 >
@@ -109,7 +109,7 @@ Compare the successes of the opposing sides. The highest-rolling side controls t
 | A draw | **The standoff holds, tense.** Nobody blinks. The silence stretches. Roll another Standoff Round, or — if the table agrees the tension has played itself out — the standoff fizzles into the uneasy peace below. |
 | All sides fail (`0` successes) | **The standoff fizzles.** Nobody draws, nobody backs down, but the moment passes. The parties disengage with their hands still on their guns and their pride intact. The standoff ends without a fight and without a winner, which is often the most dangerous outcome, because the debt is still on the page. |
 
-The Standoff Roll decides the break's *direction* — who acts, who yields, whether it holds another Round. The **Tension die** (above) decides the break's *cost* — whether the shot that breaks the standoff is clean, ordinary, or messy. When a side breaks the standoff by drawing, the GM rolls the Tension die immediately after the Standoff Roll is read, and the messy or clean result describes the shot that the Standoff Roll's winner fired. A break that backs down (no shot fired) does not roll the Tension die — the back-down is its own resolution, and the Tension die's collateral only applies when iron is drawn.
+The Standoff Roll decides the break's _direction_ — who acts, who yields, whether it holds another Round. The **Tension die** (above) decides the break's _cost_ — whether the shot that breaks the standoff is clean, ordinary, or messy. When a side breaks the standoff by drawing, the GM rolls the Tension die immediately after the Standoff Roll is read, and the messy or clean result describes the shot that the Standoff Roll's winner fired. A break that backs down (no shot fired) does not roll the Tension die — the back-down is its own resolution, and the Tension die's collateral only applies when iron is drawn.
 
 #### Breaking Into the Combat Round
 
@@ -119,15 +119,21 @@ The opening action cannot be Blocked or Dodged unless the target's side had a `C
 
 #### Backing Down
 
-When a side backs down, the standoff ends without a fight. The backing side takes the cost of the retreat: a `Standing` drop with whichever faction witnessed it (the county reads a backed-down gun as a gun that wasn't ready), a `Reputation` shift toward the cautious or the cowardly (the GM's call, by the county's temper), and the debt or the grievance that caused the standoff left unresolved, to fester into the next scene. Backing down is not defeat — it is often the smart play — but the engine should make it cost something, because in the West it did.
+When a side backs down, the standoff ends without a fight. The backing side takes the cost of the retreat: a `Standing` drop with whichever faction witnessed it (the county reads a backed-down gun as a gun that wasn't ready), a `Reputation` shift toward the cautious or the cowardly (the GM's call, by the county's temper), and the debt or the grievance that caused the standoff left unresolved, to fester into the next scene. Backing down is not defeat — it is often the smart play — but it should cost something, because in the West it did.
 
 ### The Uneasy Peace
 
-A standoff that fizzles or holds past three Rounds resolves into the **uneasy peace**. The guns stay on the hips, the room goes back to its drinking, and the parties leave with the matter unsettled. The uneasy peace is the engine's way of saying the standoff was a draw, and the debt is still owed. The GM should note the unsettled standoff as a grudge the county remembers — the next time the parties meet, the standoff resumes with the memory of the last one on the table, which is often the thing that pushes it over into iron.
+A standoff that fizzles or holds past three Rounds resolves into the **uneasy peace**. The guns stay on the hips, the room goes back to its drinking, and the parties leave with the matter unsettled. The uneasy peace means the standoff was a draw, and the debt is still owed. The GM should note the unsettled standoff as a grudge the county remembers — the next time the parties meet, the standoff resumes with the memory of the last one on the table, which is often the thing that pushes it over into iron.
+
+#### Example: The Doorway at Sandoval's
+
+Riddle faces a railroad detective in Sandoval's doorway. Neither has drawn. The Tension die starts at `D6`. In the first Standoff Round, Riddle rolls `PRESENCE` to make the detective name his business; the detective rolls `INSIGHT` to read whether Riddle is bluffing. Riddle wins by `1`, so the standoff holds and the Tension die steps up to `D8`.
+
+In the second Round, Sandoval defuses from the bar with `PRESENCE`, gets `1` success, and steps the Tension die back to `D6`. The detective still presses. Riddle backs down in public, letting the detective pass but keeping his hands clear. No combat starts. Riddle loses face with the room, but Sandoval's `Refuge` holds because no blood was spilled under her roof. The standoff changed the county without firing a shot.
 
 ### The Standoff and the Other Rules
 
-The standoff is a door, not a room. It ladders cleanly into the engine's other scenes.
+The standoff is a door, not a room. It ladders cleanly into the book's other scenes.
 
 - **Into the duel.** A standoff between two parties that agree to formalize it becomes a duel — use the corebook's duel procedure, with the standoff's tensions setting the modifiers. A standoff that breaks into a duel is a standoff that found its form.
 - **Into the combat Round.** A standoff that breaks into iron hands off to the corebook's combat rules, with the breaking side's free opening action as the bridge.
@@ -136,4 +142,4 @@ The standoff is a door, not a room. It ladders cleanly into the engine's other s
 
 ### A Word on the Table
 
-The standoff is the scene the dice are worst at and the table is best at. The rules here give the dice a way to resolve the *whether* and the *who first*, but the *feel* of a standoff — the silence, the eye contact, the hand on the wood — is the players' and the GM's to carry. Read the room before you roll. Name what each side wants and what each side is afraid of. Let the silence sit for a beat before the dice hit the table. The standoff is the scene where the engine's gauges matter least and the table's nerve matters most, and the chapter is built to get out of the way of the table when the table is doing its work. The Tension die is the one die the GM rolls in the scene — it is the room's pressure, climbing while the players decide, and its roll on the break is the moment the silence pays off. Everything else is the players'.
+The standoff is the scene the dice are worst at and the table is best at. The rules here give the dice a way to resolve the _whether_ and the _who first_, but the _feel_ of a standoff — the silence, the eye contact, the hand on the wood — is the players' and the GM's to carry. Read the room before you roll. Name what each side wants and what each side is afraid of. Let the silence sit for a beat before the dice hit the table. The Tension die is the one die the GM rolls in the scene: the room's pressure, climbing while the players decide, and its roll on the break is the moment the silence pays off. Everything else is the players'.

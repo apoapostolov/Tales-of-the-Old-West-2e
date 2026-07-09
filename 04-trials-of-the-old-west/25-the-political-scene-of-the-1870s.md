@@ -6,13 +6,13 @@
 >
 > — JUDGE HARLAN VOSS, TO A YOUNG LAWYER WHO ASKED WHY THE BENCH READ THE DISPATCHES
 
-### The Political Scene and Its Work
+### The Weather Made in Washington
 
-The faction engine (Ch.13) tracks the county's organized interests — the companies, the rings, the troops, the committees — and the robber baron chapter (Ch.24) tracks the great operators whose reach is territorial or federal. This chapter is the layer above both: the **national parties** and the **political metaplot** of the 1870s, the men and the acts that shaped the nation the campaign's county sits in, and the year-by-year weather those acts made for the country below.
+The faction chapter (Ch.13) tracks the county's organized interests — the companies, the rings, the troops, the committees — and the robber baron chapter (Ch.24) tracks the great operators whose reach is territorial or federal. This chapter stands above both: the **national parties** and the political weather of the 1870s, the men and the acts that shaped the nation the campaign's county sits in, and the year-by-year pressure those acts made for the country below.
 
-Where a faction is a company or an interest, a party is a coalition of factions, regions, and ideas, organized to win elections (the press and election chapter) and to make the acts that the country lives under. The Republican party of 1870 is not the railroad; it is the coalition of the railroad, the veterans, the freedmen's vote, the Protestant reformers, and the industrial North. The Democratic party of 1870 is not the South; it is the coalition of the Solid South, the immigrant cities, the hard-money West, and everyone the Republicans' coalition left out. The two parties are the weather the factions operate in, and the acts they pass — the Enforcement Acts, the Specie Resumption Act, the Desert Land Act, the Chinese Exclusion debate — are the climate the campaign's county sits in whether the county notices or not.
+A faction is a company, an institution, or an interest. A party is a coalition of factions, regions, and ideas, organized to win elections (the press and election chapter) and to make the acts the country lives under. The Republican party of 1870 gathers the railroad, veterans, the freedmen's vote, Protestant reformers, and the industrial North. The Democratic party of 1870 gathers the Solid South, immigrant cities, the hard-money West, and many of the people the Republican coalition left out. The two parties are the weather the factions operate in, and the acts they pass — the Enforcement Acts, the Specie Resumption Act, the Desert Land Act, the Chinese Exclusion debate — are the climate the campaign's county sits in whether the county notices or not.
 
-This chapter gives the GM the parties as a layer above the factions, the acts as the engine's national modifiers, and a **year-by-year timeline** of the 1870s' political and world events, with the modifier shifts each event produces. The result is a metaplot: the parties rise and fall across the decade, the acts shift the country's pressures, and the campaign set in a given year plays under that year's weather.
+A campaign set in 1870 should not feel politically identical to one set after the Panic, after Custer's defeat, or after Reconstruction ends. Use the parties above the factions, the acts as national modifiers, and the year-by-year timeline to set the pressure of the chosen year. The county may notice only when the troop leaves the post, the marshal changes, the deed law shifts, or silver rises in Congress, but the weather was made before it arrived.
 
 > _Voss read the dispatch from Washington in the county seat's paper, three weeks late and two columns in, and he read it the way he read the weather — as the thing that would set the conditions for everything the county did under it. The dispatch said the compromise was made and the troops were leaving the South and the Democrat was in the White House and the Republican coalition of the last twenty years was broken, and Voss read it twice and folded the paper and put it down._
 >
@@ -40,7 +40,7 @@ The party of Lincoln, of Reconstruction, of the railroad and the industrial Nort
 
 The party of the Solid South, of the immigrant cities, of the hard-money West and the agrarian discontent. In 1870 the Democrats are the party out of power at the federal level, holding the South by terror and fraud where they cannot hold it by vote, and building the northern urban machines (New York's Tammany, and the Catholic immigrant vote) that will make them competitive again. The Democratic coalition is the former Confederacy, the Irish and German immigrants, the hard-money and small-government West, the Catholic church, and everyone the Republicans' coalition excluded or offended. The Democrats are the party that opposed Reconstruction, the land grants, and the high tariff, and the party that will spend the 1870s clawing back the country the Republicans took in the 1860s.
 
-**The Democratic internal tension:** between the Redeemers (the white-supremacist southern faction that takes the South back by violence and fraud) and the northern moderates (the reform Democrats, the hard-money men, the urban machines that need to win northern votes and cannot run openly on the Redeemer program). The tension is the Democratic party's central deceit, and the engine of its return to power.
+**The Democratic internal tension:** between the Redeemers (the white-supremacist southern faction that takes the South back by violence and fraud) and the northern moderates (the reform Democrats, the hard-money men, the urban machines that need to win northern votes and cannot run openly on the Redeemer program). The tension is the Democratic party's central deceit, and the source of its return to power.
 
 #### The Third Parties
 
@@ -52,7 +52,7 @@ The **Greenback Party** (from 1874) is the agrarian and labor response to the Pa
 
 The parties make the acts, and the acts make the country's modifiers. Each act is a national event that shifts the pressures on the campaign's county — the `Standing` of factions, the law's reach, the economy's weather, the army's presence. The GM applies an act's modifiers in the year the act passes, and lets them run until the next act changes them.
 
-This is the engine's national layer: the acts are the climate, the parties are the climate's makers, and the county's factions operate in the climate the acts set. The acts below are the 1870s' significant national legislation and executive action, with the modifier each produces.
+The acts below are the 1870s' significant national legislation and executive action, with the modifier each produces. Treat them as national weather: distant in origin, local in consequence.
 
 | The Act | The Year | The Modifier |
 | --- | --- | --- |
@@ -70,7 +70,7 @@ This is the engine's national layer: the acts are the climate, the parties are t
 
 ### The Year-by-Year Timeline
 
-The 1870s as the campaign's metaplot. Each year's entry is the political and world weather the county sits in, the modifier shifts the year produces, and the hooks a campaign set in that year might use.
+Each year's entry is the political and world weather the county sits in, the modifier shifts the year produces, and the hooks a campaign set in that year might use.
 
 #### 1870 — The Ascendant Republic
 
@@ -106,7 +106,7 @@ The Long Depression deepens. The Democrats take the House in 1874 — the first 
 
 #### 1876 — The Centennial, the War, the Stolen Election
 
-The Centennial Exposition in Philadelphia. Custer and the 7th Cavalry die at the Little Bighorn (June) — the Great Sioux War's great Native victory, and the engine's mass-combat chapter's set-piece. The campaign ends with the Sioux's surrender in 1877. The presidential election (Hayes vs. Tilden) is the closest and most contested in American history, resolved by the Electoral Commission and the Compromise of 1877.
+The Centennial Exposition in Philadelphia. Custer and the 7th Cavalry die at the Little Bighorn (June) — the Great Sioux War's great Native victory, and a set-piece for the mass-combat chapter. The campaign ends with the Sioux's surrender in 1877. The presidential election (Hayes vs. Tilden) is the closest and most contested in American history, resolved by the Electoral Commission and the Compromise of 1877.
 
 **Modifiers:** The Lakota and Cheyenne factions' `Standing` peaks at the Little Bighorn, then collapses with the war's end. The national political weather is unstable — the election is unresolved for months. A campaign in 1876-77 plays under the war and the contested election.
 
@@ -136,17 +136,25 @@ Garfield wins the presidency; the Republicans return, narrowly. The census decla
 
 ### The Metaplot and the Campaign
 
-The metaplot is the engine's national weather, and a campaign set in a given year plays under it. The GM chooses the campaign's year (or the campaign's years, if it runs across the decade) and applies that year's modifiers to the factions, the acts, and the county's pressures. The metaplot is not a script — the campaign's county is the campaign's own, and the party's choices matter — but the metaplot is the weather the campaign's choices happen in, and a campaign that ignores it is a campaign that pretends the county is not in the country.
+The national weather matters, and a campaign set in a given year plays under it. The GM chooses the campaign's year (or the campaign's years, if it runs across the decade) and applies that year's modifiers to the factions, the acts, and the county's pressures. This history is not a script — the campaign's county is the campaign's own, and the party's choices matter — but it is the weather the campaign's choices happen in, and a campaign that ignores it is a campaign that pretends the county is not in the country.
 
-A campaign that runs across the decade will feel the modifiers shift. A Republican-collaborationist party in 1870 finds its federal patronage gone by 1877; a freedmen's-community campaign in 1870 finds its federal protection gone by 1877; a cattle boom campaign in 1873 finds the depression; a silver campaign in 1873 finds the Crime of '73 and spends the decade fighting for the Bland-Allison Act; a labor campaign in 1877 finds the strike and the troops; a Chinese-community campaign in 1879 finds the exclusion. The metaplot is the engine's way of making the campaign's decade the campaign's, and not a generic West that could be any decade.
+A campaign that runs across the decade will feel the modifiers shift. A Republican-collaborationist party in 1870 finds its federal patronage gone by 1877; a freedmen's-community campaign in 1870 finds its federal protection gone by 1877; a cattle boom campaign in 1873 finds the depression; a silver campaign in 1873 finds the Crime of '73 and spends the decade fighting for the Bland-Allison Act; a labor campaign in 1877 finds the strike and the troops; a Chinese-community campaign in 1879 finds the exclusion. Those shifts make the campaign's decade the campaign's, and not a generic West that could be any decade.
+
+#### Example: Starting in 1877
+
+The GM sets the campaign's opening year in 1877. The Compromise has ended Reconstruction, the Great Railroad Strike is in the papers, and the Desert Land Act has opened new opportunities in arid country. Before play begins, the GM applies the year's weather: Redeemer factions rise in the South, freedmen's protection falls sharply, labor visibility surges, and land-office pressure increases across the dry West.
+
+In the county, this means the railroad can call on troops less easily for domestic labor trouble, but the marshal and local law matter more. The land office sees new filings. A labor faction that was background in 1873 becomes loud in 1877. A party trying to protect a Chinese community in 1879 will feel a different national weather again.
+
+The timeline does not script the campaign. It sets the pressure the county wakes up under.
 
 ### The Parties and the Other Rules
 
 The parties are the layer above the factions, and the acts are the layer above the county.
 
-- **The faction engine** holds the county's and the territory's interests; this chapter holds the national coalitions those interests belong to. A faction's `Standing` with a party is the faction's access to the acts.
+- **The faction chapter** holds the county's and the territory's interests; this chapter holds the national coalitions those interests belong to. A faction's `Standing` with a party is the faction's access to the acts.
 - **The robber baron chapter** holds the great operators; this chapter holds the parties those operators buy. Stanford is a Republican; Gould plays both. The baron's party affiliation is the baron's access to the legislature and the act.
 - **The press and election chapter** holds the county's election; this chapter holds the national election the county's election is part of. The party's national ticket shapes the county's down-ballot.
 - **The justice, land-office, and labor chapters** are where the acts land — the Enforcement Act in the justice chapter, the land acts in the land-office chapter, the Posse Comitatus in the army's role.
 
-The parties are the men who run the country's decade, and the acts are the weather the county sits in. A chapter that gives the parties their coalitions, the acts their modifiers, and the decade its timeline gives the campaign its national layer — the slow, distant making of the country the county wakes up in, the making the county notices only when the troop leaves the post, or the marshal's office changes hands, or the deed law changes, or the silver bill passes, or the troop comes South no more. The county notices the weather. The weather is what the party made, and the party is what the chapter is for.
+The parties run the country's decade, and the acts become the weather the county sits in. The county notices late: the troop leaves the post, the marshal's office changes hands, the deed law shifts, the silver bill passes, or the troop comes South no more. By then the weather has already arrived.

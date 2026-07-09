@@ -6,11 +6,11 @@
 >
 > — WEBB CALDER, TO A DUDE WHO ASKED WHAT WAS PAST THE OPEN RANGE
 
-### The Wild Land and Its Work
+### Past the Known Road
 
 The corebook's Traveling table covers the trail and the road — the country the wagon, the stage, and the rail have opened. The trade chapter covers the freighting outfit moving goods along the known ways. Neither covers the country past the known ways: the river no steamboat runs, the timber no logger has cut, the ridge no trail crosses. This is the **deep wild land**, and the party that goes there — to trap, to prospect, to survey, to hunt, to find a lost column, or simply to get out of the county's reach for a season — is a party traveling in a different medium than the road.
 
-This chapter builds three modes of deep-wild travel — **by water, through forest, and over mountain** — as variants on the same problem: the party is moving through country that has no table row, no way-station, and no relief, and the engine must decide whether it arrives, what it costs, and what it finds. Each mode reuses the operation engine (the outlaw chapter's Progress-versus-Trouble track) with its own stages, abilities, and Trouble. Together they give the wild land the same weight the road already has.
+Deep-wild travel comes in three modes: **by water, through forest, and over mountain**. Each is the same hard question in different country: does the party arrive, what is lost on the way, and what is found past the last known road? Run each mode as an operation with its own stages, abilities, and Trouble, so the wild land costs more than a line on the travel table.
 
 > _Calder watched the cornishman read the river from the bank, the way the cornishman read the rock underground — by the look of the surface and the lie of the current and the color of the water where it ran over what was underneath. The river was the only road into the country they were going into, and the river was not a road. The river was a thing with its own opinion about who used it._
 >
@@ -24,7 +24,7 @@ This chapter builds three modes of deep-wild travel — **by water, through fore
 >
 > "Past the timber is why we're going, Webb. You don't pay a man to read a river to a place he's already been."
 >
-> _Calder did not answer that, because it was true. The wild land was the country the map did not cover, and the men who went there were the men the map could not help. The engine should make the going cost what it cost, and the finding worth what it was worth, and the country indifferent to both, the way the country was indifferent to everything except itself._
+> _Calder did not answer that, because it was true. The wild land was the country the map did not cover, and the men who went there were the men the map could not help. The going should cost what it cost, and the finding should be worth what it was worth, and the country should remain indifferent to both, the way the country was indifferent to everything except itself._
 
 ### The Wild-Land Expedition
 
@@ -40,7 +40,7 @@ Each mode of travel — water, forest, mountain — sets the stages and the abil
 
 ### The Expedition's Supplies
 
-The Operation frame models the journey as a sequence of obstacles, but a real expedition is also a **resource-management problem** — the party is carrying finite supplies (food, feed, gear) into a country that does not resupply them, and the engine should model the depletion, not just the obstacles. The wild land's Trouble has a *source*: the supplies are running out, and the party's decisions about them — push on or turn back, ration or feast, repair or abandon — are the decisions the actual mountain men and explorers made every day.
+The Operation frame models the journey as a sequence of obstacles, but a real expedition is also a **resource-management problem** — the party is carrying finite supplies (food, feed, gear) into a country that does not resupply them, and the chapter tracks depletion as closely as obstacles. The wild land's Trouble has a _source_: the supplies are running out, and the party's decisions about them — push on or turn back, ration or feast, repair or abandon — are the decisions the actual mountain men and explorers made every day.
 
 Track the expedition's supplies as **resource dice** (the corebook's consumables rule, extended to the expedition's full load):
 
@@ -50,13 +50,13 @@ Track the expedition's supplies as **resource dice** (the corebook's consumables
 | **Feed** (for the pack animals) | The animals' sustenance | Each interval; a step down means the animals are hungry, and `Horsestock` is at risk |
 | **Gear** (ammunition, tack, tools, rope) | The stuff that breaks and is consumed | Each interval, and on any Trouble step that strains the gear (the rapids, the blowdown, the hard use) |
 
-Set the dice by the expedition's outfitting: a well-provisioned party starts at `D10` or `D12`; a light party at `D8`; a scrambling party at `D6`. Each die steps down on a `1-2` rolled at the interval — the same primitive the outlaw band's `Provisions` die uses, the same primitive the cabin's ammo die uses in the holdout (Ch.2). At `D4`, the supply is **exhausted**: Provisions at `D4` means `Starving` tests (the sickness chapter, Ch.3); Feed at `D4` means the animals are failing and `Horsestock` drops; Gear at `D4` means the party is improvising — tack mended with rawhide, tools jury-rigged, ammunition counted by the round.
+Set the dice by the expedition's outfitting: a well-provisioned party starts at `D10` or `D12`; a light party at `D8`; a scrambling party at `D6`. Each die steps down on a `1-2` rolled at the interval, the same stepped-die treatment used for the outlaw band's `Provisions` and the cabin's ammunition in a holdout (Ch.2). At `D4`, the supply is **exhausted**: Provisions at `D4` means `Starving` tests (the sickness chapter, Ch.3); Feed at `D4` means the animals are failing and `Horsestock` drops; Gear at `D4` means the party is improvising — tack mended with rawhide, tools jury-rigged, ammunition counted by the round.
 
-The resource dice give the expedition Operation's Trouble a *source*, and they give the party's decisions mechanical weight: push on through hard country (step the dice down faster) or travel carefully (conserve them); ration (step Provisions down slowly, but test `RESILIENCE` at `-1` for the hunger) or feast (step it down fast, but keep the crew strong). A party that enters the wild land with `D6` Provisions is a party that will be hungry in a week; a party that enters with `D12` is a party that can stay a month. The outfitting is the expedition's first decision, and the depletion is the expedition's daily pressure, which is the texture the flat Progress track lacked.
+The resource dice give the expedition Operation's Trouble a _source_, and they give the party's decisions weight: push on through hard country (step the dice down faster) or travel carefully (conserve them); ration (step Provisions down slowly, but test `RESILIENCE` at `-1` for the hunger) or feast (step it down fast, but keep the crew strong). A party that enters the wild land with `D6` Provisions is a party that will be hungry in a week; a party that enters with `D12` is a party that can stay a month. The outfitting is the expedition's first decision, and the depletion is the expedition's daily pressure, which is the texture the flat Progress track lacked.
 
 ### The Travel-Activity Menu
 
-Each Shift of overland travel, the party chooses its **travel activity** — the daily decision the flat Operation Progress abstracted away. The trade-off between speed, supply-conservation, recovery, and information is the wilderness-travel loop's core decision, and the activity menu makes it a choice the party makes every Shift.
+Each Shift of overland travel, the party chooses its **travel activity**. The trade-off between speed, supply-conservation, recovery, and information is the wilderness journey's central decision, and the choice belongs to the party every Shift.
 
 | The Activity | The Distance | The Supply Cost | The Other Effect |
 | --- | --- | --- | --- |
@@ -65,9 +65,9 @@ Each Shift of overland travel, the party chooses its **travel activity** — the
 | **Rest and repair** | no distance | Provisions step down (the party eats); Gear may step **up** by one (repair) | Recover conditions (`Exhausted`, `Freezing`); `MAKIN'`/`DOCTORIN'` work on the gear and the bodies. The party holds still and mends. |
 | **Scout** | reduced distance for the party (`-50%`); the scout moves ahead | normal | The scout (`HAWKEYE`/`NATURE`) reads the route ahead — the next stage's Trouble, the water, the sign (the encounter chapter's hook). A successful scout grants `+1 die` to the next stage's navigation; a failed scout may walk into the Trouble the party was trying to avoid. |
 
-The menu gives the party a *choice* each Shift: cover the ground (Push) or conserve the supplies (Careful); hold still and mend (Rest) or send the eyes ahead (Scout). A party that always Pushes covers miles and eats its stores and meets the country unready; a party that always Rests never arrives. The party that balances the four — pushing the easy ground, careful in the hard, resting when the bodies need it, scouting the unknown — is the party that arrives, which is the wilderness-travel loop the actual mountain men and explorers ran, and the engine should let the balancing be the skill it was.
+The menu gives the party a _choice_ each Shift: cover the ground (Push) or conserve the supplies (Careful); hold still and mend (Rest) or send the eyes ahead (Scout). A party that always Pushes covers miles and eats its stores and meets the country unready; a party that always Rests never arrives. The party that balances the four — pushing the easy ground, careful in the hard, resting when the bodies need it, scouting the unknown — is the party that arrives, because wilderness travel is a skill of judgment as much as endurance.
 
-The activity menu and the supply dice are the expedition's *contents* — the daily decisions and the daily depletion that fill the Operation frame. The Operation remains the arc; the menu and the dice are what the party is doing inside it.
+The travel activities and the supply dice are the expedition's daily life: the decisions and the depletion that fill the larger journey. The Operation remains the arc; the activities and the dice are what the party is doing inside it.
 
 ### By Water
 
@@ -102,7 +102,7 @@ A party traveling upstream is working for every mile — poling, lining (walking
 | The camp | Find the eddy, the landing, the dry ground for the night | `NATURE`, `HAWKEYE` |
 | The river's people | Pass the nations whose river it is, and the traders on it | `PRESENCE`, `INSIGHT` (the borderlands and the native-material-culture knowledge) |
 
-The river's Trouble is the water itself — a capsize in a rapid is a swim that can drown (the corebook's drowning rules), lose the cargo, and end the expedition. The river is faster than a horse on the downstream and slower than a walk on the upstream, and the engine should make both felt.
+The river's Trouble is the water itself — a capsize in a rapid is a swim that can drown (the corebook's drowning rules), lose the cargo, and end the expedition. The river is faster than a horse on the downstream and slower than a walk on the upstream, and both should be felt at the table.
 
 ### Through Forest
 
@@ -119,7 +119,7 @@ Forest travel extends the Traveling table where the corebook's `hard terrain` ro
 | Old growth / dense | `1-2 miles` | `3-5 miles` | high — cutting a path for the pack string, the horse-busting deadfall |
 | Burn / blowdown | `a mile, if that` | `2-3 miles` | extreme — the forest knocked flat, climbing over the wreck |
 
-A mounted party in the deep forest is often a dismounted party leading the horses — the horse cannot pass what a man can climb over, and the pack string must be led, lifted, and coaxed through the blowdown a foot at a time. The engine should make the horse a cost as often as a help in the deep timber, which is the truth the mountain men knew and the dude did not.
+A mounted party in the deep forest is often a dismounted party leading the horses — the horse cannot pass what a man can climb over, and the pack string must be led, lifted, and coaxed through the blowdown a foot at a time. In the deep timber, the horse should be a cost as often as a help, which is the truth the mountain men knew and the dude did not.
 
 #### Forest Stages
 
@@ -160,7 +160,7 @@ The mountain's great modifier is the **elevation** — for every `2,000 feet` ab
 | The altitude | The air, the sickness, the exhaustion at height | `RESILIENCE`, `DOCTORIN'` |
 | The descent | The loose rock, the bad step, the ledges down | `LABOR`, `MOVE` |
 
-The mountain's Trouble is the consequence of a wrong decision in a way the river's and the forest's Trouble is not — the wrong pass in the wrong weather is a death the engine should not soften, and a party that turns back from a pass it cannot cross is a party that made the right read, which the engine should reward with survival and the story the county tells of the expedition that came back when it did not have to.
+The mountain's Trouble is the consequence of a wrong decision in a way the river's and the forest's Trouble is not — the wrong pass in the wrong weather is a death the rules should not soften, and a party that turns back from a pass it cannot cross is a party that made the right read. Reward that judgment with survival and the story the county tells of the expedition that came back when it did not have to.
 
 ### The Wild Land's Find
 
@@ -168,13 +168,21 @@ The wild land's payoff is not always a destination. A deep-wild expedition may f
 
 A wild-land find worth staking (a prospect, a meadow, a pass) is the seed of the next chapter's work — the mining chapter's claim, the cattle chapter's range, the trade chapter's route. The wild land is where the county's future comes from, and the party that goes there is the party that finds it first, which is worth what it is worth and costs what it costs.
 
+#### Example: The Fork Above the Rapids
+
+The party runs a `Deep Trip` by canoe with Provisions `D10`, Feed irrelevant, and Gear `D8`. Each Shift, they choose an activity. On the first day they **Push** downstream, making strong Progress but rolling depletion; Provisions hold, Gear steps down to `D6` after a hard scrape on rock. On the second day they **Scout**, losing distance but learning the next stage is a bad rapid with a portage trail on the east bank.
+
+They choose the portage. It costs a Shift and a `LABOR` roll, but avoids a Desperate rapid. Trouble still rises when a pack tears and powder gets wet. The expedition reaches the fork with Progress filled, Provisions at `D8`, Gear at `D6`, and one future problem: the wet powder means the next encounter in the timber may be settled with fewer shots.
+
+Arrival is only half the answer. The wild land also asks what condition the party is in, what powder stayed dry, what gear was left behind, and whether the thing found is worth the shape the journey left them in.
+
 ### The Wild Land and the Other Rules
 
 The wild land is the country past the rest of the book's reach.
 
-- **The corebook's Traveling table** is the road; this chapter is the country past the road. The two share the engine's travel logic and extend it where the table stops.
+- **The corebook's Traveling table** is the road; this chapter is the country past the road. The two share travel logic and extend it where the table stops.
 - **The weather chapter** sets the wild land's conditions, harder than the settled country's — the storm on the river, the blowdown in the forest, the blizzard on the divide.
-- **The sickness chapter** and the conditions (`Starving`, `Dehydrated`, `Exhausted`, `Freezing`) are the wild land's daily pressure — the party far from the doctor and the way-station pays the full cost of every condition the engine imposes.
+- **The sickness chapter** and the conditions (`Starving`, `Dehydrated`, `Exhausted`, `Freezing`) are the wild land's daily pressure — the party far from the doctor and the way-station pays the full cost of every condition the country imposes.
 - **The mining, fur-trade, and logging chapters** are the wild land's trades — the prospect, the trapline, the timber cruise are the reasons a party goes into the deep country, and this chapter is the going.
 
-The trail ends where the map ends, and the country past the map is the deep wild land. A chapter that gives the river, the forest, and the mountain their own modes of travel and Trouble gives the party the country the road does not reach, and lets the engine make the going cost what it cost and the finding worth what it was worth, in the country that does not care about the party except as another thing the weather and the ground and the water can take.
+The trail ends before the country does. Past the map, the river, forest, and mountain each have their own price, and the party pays it in food, gear, time, nerve, and sometimes names. Let the finding be worth something, because the going has already cost something.

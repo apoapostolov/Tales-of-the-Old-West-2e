@@ -6,13 +6,11 @@
 >
 > — ADELINA SANDOVAL, TO A HAND WHO SAID THE PRICE WAS ROBBERY
 
-### Trade and Its Work
+### The Price of Distance
 
-The West is a country of distance, and distance is the engine of every trade. A sack of flour, a keg of powder, a bolt of cloth, a box of cartridges — all are cheap where the railroad sets them down and dear everywhere the railroad has not reached. The man who carries them the miles between is the man who turns the cheap into the dear, and the county pays him for the carrying or it goes without. The freighter, the packer, the trader, and the supply runner are the veins of the frontier, and the iron horse is the heart at the railhead that pumps the country full or leaves it dry.
+The West is a country of distance, and distance sets the price of every trade. A sack of flour, a keg of powder, a bolt of cloth, a box of cartridges — all are cheap where the railroad sets them down and dear everywhere the railroad has not reached. The man who carries them the miles between is the man who turns the cheap into the dear, and the county pays him for the carrying or it goes without. The freighter, the packer, the trader, and the supply runner are the veins of the frontier, and the iron horse is the heart at the railhead that pumps the country full or leaves it dry.
 
-This chapter is an optional framework for groups who want that trade on the table. It builds the **freighting outfit** as a seasonal enterprise and the **supply run** as an operation, using the engine you already have. It gives you the **iron horse as a tool of commerce** — the way goods move by rail, the way the schedule sets the price, the way a missed shipment or a cut wire empties a town. And it builds the **railhead** as the trade hub where the county meets the wider world, and where the price of everything is set by the distance from the track.
-
-You do not need these rules for a merchant who sits behind a counter. Use them when the party carries goods across country for the living it pays — when the mine is two weeks from the railhead and the powder is low, when the army post needs its stores before the snow, when the way-station is the hinge the county's freight turns on, or when a man with a wagon and a contract is the only thing between a camp and starvation.
+A counter sale can stay in the ordinary price list. A supply run needs more: the railhead price, the miles, the weather, the road, the contract, and the appetite of the people waiting at the far end. Put the freighting outfit on the table when the mine is two weeks from powder, the army post needs stores before the snow, the way-station is the hinge of the county's freight, or a wagon and a contract are the only things between a camp and hunger.
 
 > _Sandoval unfolded the way-bill on the counter and put the pencil to the figures. The flour was thirty-two dollars a hundredweight at the railhead and the mine was a hundred and forty miles of bad road and the snow was coming down the pass by Friday. She figured the carrying and the risk and the season and wrote the number she would charge the mine's man, who was standing at the counter watching her write it._
 >
@@ -28,7 +26,7 @@ You do not need these rules for a merchant who sits behind a counter. Use them w
 
 Before the procedures, the principle. In the West of the 1870s, the price of a good is set by where it is, not what it is. The same sack of flour that costs a dollar and change at the railhead costs five at the county seat forty miles away, ten at the mine a hundred miles further, and twenty at the snowbound camp when the road closes. The freighter's profit is the difference between the cheap and the dear, and the freighter's risk is the road, the weather, the rustler, and the simple fact that a wagon can break an axle a hundred miles from anywhere and leave the camp to starve.
 
-This chapter does not replace the corebook's `prices-and-anchors.md` and the 1870s supplement's pricing tables. It builds on them. The railhead price is the floor. The price at the destination is the railhead price plus the cost of the carrying, which is what this chapter models.
+Keep the core prices as the railhead floor. The destination price is that floor plus the cost of carrying the goods through country that can break a wheel, lame a mule, close a pass, or make a freighter rich.
 
 #### The Price at the Destination
 
@@ -43,7 +41,7 @@ When the party buys goods at the railhead or a strong market and carries them to
 | Off the iron horse entirely (no rail within 50 miles) | `+50%` to the base, the country pays for its isolation |
 | Season: winter or monsoon, road closing soon | `+50%` to `+100%`, the country pays for its fear |
 | Destination is a boom, a mine, or an army post | `+25%` to `+100%`, the buyer has money and need |
-| Destination is starving, besieged, or cut off | name your price; the buyer pays or goes without |
+| Destination is starving, besieged, or cut off | `+100%` to `+200%`, and the price becomes a `Standing` and `Welfare` question, not only a profit |
 | A glut (many freighters ran the same route) | `-25%` to `-50%`, the cheap has caught up to the dear |
 
 These stack, to the GM's judgment of what the country will bear. A hundredweight of flour hauled a hundred and forty miles of mountain road to a mine in the week before the pass closes is not the same flour that sat on the railhead platform at a dollar-eighty. It is forty-one dollars, and the mine pays it because the mine eats or the mine closes.
@@ -52,9 +50,17 @@ The GM should not make this table a spreadsheet. Name a price that feels right f
 
 ### The Freighting Outfit
 
-A freighting outfit is a business, run by the corebook's business rules with the following specifics. It is the livelihood of the freighter, the packer, the trader, and the way-station keeper who runs freight on the side. But the freighter's trade is not the rancher's or the keeper's, and the engine should not run it like either. The outfit runs on the **Investment Cycle** — assess, invest, operate, reckon, reinvest — but the cycle's dial is the **Route Ledger**, the freighter's growing asset that no other business has, and its operate beat is the run whose stakes were set by the **Cargo Bet** made at the invest step.
+A freighting outfit is a business, run by the corebook's business rules with the following specifics. It is the livelihood of the freighter, the packer, the trader, and the way-station keeper who runs freight on the side. But the freighter's trade is not the rancher's or the keeper's. The outfit runs on the same seasonal order as other businesses, but its special asset is the **Route Ledger**, and its main gamble is the **Cargo Bet** made before the run begins.
 
-**Assess** the market and the road. The freighter reads where the dear is, where the cheap is, and which road between them is open — the way Sandoval read the flour at the railhead and the snow coming down the pass. **Invest** in the route and the cargo — the Route Ledger is built here, one scouted road and one way-station relationship at a time, and the Cargo Bet is placed here, the risk-weighted decision that sets the season's shape. **Operate** the run, which is the supply-run Operation (below), but the dice roll against the dials the freighter set: a cargo bet on the snowbound mine and a route scouted through the Powder River crossing. **Reckon** the season with the Freight Roll, read against the routes run and the cargoes delivered. **Reinvest** in a new route, a new wagon, a bigger string — or take the profit and risk the railroad coming through and making the route obsolete.
+Run a freighting season in this order:
+
+1. **Assess the market and the road.** The freighter reads where the dear is, where the cheap is, and which road between them is open.
+2. **Choose one route.** Pick a known route from the Route Ledger, or spend the season scouting a new one before the run.
+3. **Place the Cargo Bet.** Choose Safe, Standard, Speculative, or Famine before any run check is rolled.
+4. **Read the schedule.** A freighter who studies the rail, mail, weather, and market rhythm may roll `INSIGHT` for a timing edge.
+5. **Run the supply operation.** Use the scale, Progress, Trouble, and stages below.
+6. **Reckon the season.** Make the Season Freight Roll at the Turn of the Season. It cannot be pushed.
+7. **Reinvest or take profit.** Improve a route, replace losses, buy stock, build Capital, pay debt, or take the cash and accept that the outfit may be thinner next season.
 
 - **Key ability.** `OPERATE` for the wagon and the team, `ANIMAL HANDLIN'` for the pack string and the remuda, or `INSIGHT` for the trader who buys and sells more than he hauls. A way-station keeper like Sandoval rolls `INSIGHT` or `BOOKLEARNIN'` — the trade is the reading of the county, not the driving of the team.
 - **Prerequisites.** A team and a wagon, or a string of pack animals, or a contract and a place to put the goods through. The property rules of the corebook cover the way-station, the warehouse, and the corral. A freighter without transport is a man with a contract and no way to honor it.
@@ -63,7 +69,7 @@ A freighting outfit is a business, run by the corebook's business rules with the
 
 #### The Route Ledger
 
-The freighter's distinct asset is not a herd or a vein or a house gauge. It is the **Route Ledger** — the set of roads the freighter knows, has run, and can run again. A route is a line between two markets: the railhead and the mine, the post and the frontier, the county seat and the snowbound camp. Each route has a distance, a terrain, a demand, and a **competition** rating, and the freighter who runs it regularly knows its water, its crossings, its trouble, and its shortcuts in a way a stranger to the road does not.
+The freighter's special asset is not a herd or a vein or a house gauge. It is the **Route Ledger**: the set of roads the freighter knows, has run, and can run again. A route is a line between two markets: the railhead and the mine, the post and the frontier, the county seat and the snowbound camp. Each route has a distance, a terrain, a demand, and a **competition** rating, and the freighter who runs it regularly knows its water, its crossings, its trouble, and its shortcuts in a way a stranger to the road does not.
 
 Track three to five routes in the ledger — the freighter's working set. A route entry is a single line:
 
@@ -71,7 +77,7 @@ Track three to five routes in the ledger — the freighter's working set. A rout
 | --- | --- | --- | --- | --- | --- |
 | Railhead → Mine | 140 | Mountain | Powder, steady | Low | Yes — `+1` to run checks |
 
-A route the freighter has **run before** grants `+1` to all checks on the next run — the crossings are known, the camps are found, the faction's toll is paid. This is the freighter's version of the outlaw's cased job: the road that has been walked is the road that is safer. A new route is scouted at the invest step (a `HAWKEYE`/`NATURE` prospecting run, parallel to the mining chapter's prospecting), and once scouted it enters the ledger as a known road. A route the railroad reaches or the faction closes drops out of the ledger, which is how a freighter goes broke even when the books were good the season before.
+A route the freighter has **run before** grants `+1 die` to checks on the next run over that road. The crossings are known, the camps are found, the faction's toll is paid. This bonus applies only once per route per season; a road stays useful, but it does not become a free ladder to success. A new route is scouted before the run with `HAWKEYE` or `NATURE`. On a success, it enters the ledger as a known road. On a failure, the road may still be used, but it gives no route bonus and the first run over it starts with `+1` Trouble. A route the railroad reaches, the weather closes, or a faction shuts down drops out of the ledger until the party reopens it.
 
 The Route Ledger is the freighter's long-term asset, the way the rancher's herd die is the rancher's: it grows with investment, it shrinks with the country's changes, and a freighter with five good routes is a freighter the county cannot easily replace.
 
@@ -86,15 +92,15 @@ The cargo choice sets the run Operation's stakes before the dice roll. The highe
 | **Safe** — staple goods to a steady market, a known route | `5–25%` | `-1` to the run's Trouble checks (the road is easy and the buyer is patient) |
 | **Standard** — goods to a distant market, a moderate margin | `25–100%` | no modifier (the road is the road) |
 | **Speculative** — goods to a dear, distant, or desperate market | `100%+` | `+1` to the run's Trouble checks (the country is hard, the buyer is hungry, and the road knows it) |
-| **Famine** — goods to a starving, besieged, or cut-off market | name your price | `+2` to `+3` to Trouble (the country is at its worst, and so is the road) |
+| **Famine** — goods to a starving, besieged, or cut-off market | `200%+`, capped by what the buyer can pay and what the county will forgive | `+2` to `+3` to Trouble; on delivery, test `Standing` with the buyer or the county if the price was predatory |
 
-The Cargo Bet is the freighter's strategic decision, and it is the thing that makes two freighters with the same wagon and the same route have wildly different seasons. The freighter who bets safe eats in every season and grows slowly; the freighter who bets famine gets rich or gets dead, and the engine should let both outcomes stand.
+The Cargo Bet is the freighter's main decision. It is chosen before the run begins and cannot be changed after the first operation check. The freighter who bets safe eats in every season and grows slowly. The freighter who bets famine gets rich, gets dead, or gets hated. A famine price that saves a camp may make the freighter a hero; a famine price that strips a starving camp to the walls should cost `Standing`, lower the town's `Welfare`, or create a debt the county will answer later.
 
 #### The Schedule as Metronome
 
 The iron horse runs on a schedule the county lives by, and the freighter who knows the schedule knows things the county does not. The railhead's prices drop the day the train arrives (the goods are plentiful and the platform is full) and climb the week after (the goods have moved into the country and the platform is empty). A mine's powder runs out the day before the next scheduled run, and the mine's man is desperate on that day in a way he is not the day after. A missed train, a cut wire (Ch.16), or a washed-out bridge empties the railhead and sends the county's prices up the day it happens, and the freighter who knows the bridge is out before the county does is the freighter who buys cheap and sells dear.
 
-Treat the schedule as an `INSIGHT` read at the assess step — the freighter rolls to read the market's rhythm, and the successes translate into a modifier on the next Cargo Bet or the next run's margin. A freighter who reads the schedule well buys the flour the morning of the train and sells the powder the day before the run; a freighter who does not buys a week late and sells a day early, and the margin is the difference. The Schedule metronome is the trade's distinct information loop, and it ties the freighter to the wire (Ch.16) and the rail (Ch.10) in a way the flat season roll never did.
+Treat the schedule as an `INSIGHT` read at the assess step. On `1` success, the freighter learns the best buying day or the best selling day. On `2` successes, choose one: raise the run's margin by `+25%`, reduce the Cargo Bet's Trouble modifier by `1`, or learn which faction or rival will interfere. On `3+` successes, choose two. On `0` successes, the freighter misreads the timing; the GM either lowers the margin by `25%` or starts the run with `+1` Trouble. A freighter who reads the schedule well buys the flour the morning of the train and sells the powder the day before the run. A freighter who does not buys a week late and sells a day early.
 
 #### Freight Bonus and Penalty Table
 
@@ -111,11 +117,11 @@ Treat the schedule as an `INSIGHT` read at the assess step — the freighter rol
 | `51-56` | A bonanza run, every figure in your favor. `+2` Capital. | A disaster on the road — a wreck, a flood, a stampede of the pack string. `2D6 × $60` in losses; a hand or a name lost. |
 | `61-66` | The year the outfit became an institution. `+1D3` Capital. | The year the outfit nearly broke. Lose `1` Capital; cover the loss or sell out. |
 
-A freighter who rolls Penalty season after season is a freighter going broke or going dead, and the engine allows it. A freighter who rolls Bonus season after season is a freighter the faction system will notice — the railroad, the ring, the rival trader, and the rustler all want a piece of a profitable road, and the faction engine is how they come for it.
+A freighter who rolls Penalty season after season is going broke or going dead. A freighter who rolls Bonus season after season is a freighter the faction chapter will notice. The railroad, the Ring, the rival trader, and the rustler all want a piece of a profitable road.
 
 ### The Supply Run as Operation
 
-A single run — a contract to carry goods from the railhead to the mine, the post, the camp, or the snowbound settlement — is the freighter's score, and it is run as an operation using the outlaw chapter's framework. The Progress is the miles to the destination; the Trouble is the road.
+A single run — a contract to carry goods from the railhead to the mine, the post, the camp, or the snowbound settlement — is the freighter's score. Run it as an operation using the outlaw rules. The Progress is the miles to the destination; the Trouble is the road.
 
 | Run Scale | Progress Needed | Trouble Limit | The Run |
 | --- | --- | --- | --- |
@@ -140,11 +146,19 @@ Each stage is tagged Safe / Risky / Desperate, as the outlaw chapter tags a scor
 
 The run's payoff is the difference between the buy price and the sell price, set by the spatial economy table above, minus the costs of the run. The costs are the freighter's wages (if he is not the owner), the feed and the shoeing, the tolls, and the wear on the wagon and the team. A run that arrives with its goods intact pays the full margin; a run that arrives light — goods spoiled, stock lost, a wagon abandoned — pays the margin on what is left, which is how a freighter has a good year and a bad one in the same season.
 
-A run that fails outright — the Trouble hits its limit before the destination — does not pay. The freighter eats the cost of the goods, if he owned them, or breaks the contract, if he did not. A broken contract is a `Standing` drop with the buyer and, often, a debt the county remembers. The freighter's trade is the trade of the man who is always one bad road from ruin, and the engine should make that feel like what it is.
+A run that fails outright — the Trouble hits its limit before the destination — does not pay. The freighter eats the cost of the goods, if he owned them, or breaks the contract, if he did not. A broken contract is a `Standing` drop with the buyer and, often, a debt the county remembers. The freighter's trade is the trade of the man who is always one bad road from ruin.
+
+#### Example: The Powder Run
+
+Sandoval takes a **Speculative** cargo bet: powder and candles from the railhead to Pensinger's mine, a hundred and forty miles of mountain road with snow coming. The margin is high, so the run takes `+1` Trouble. She has run the road before, so the Route Ledger grants `+1 die` on the first road check. Her schedule read earns `2` successes, and she chooses to reduce the Cargo Bet's Trouble modifier by `1` — she knows the mine needs the powder before Friday, but she also knows the pass will hold until then.
+
+The GM sets the run as a `Supply Run` (`6` Progress, `4` Trouble). Loading goes clean. The road check succeeds and marks Progress. At the crossing, the weather turns, and a failed `NATURE` roll adds Trouble: a wagon wheel drops into the mud, and a mule comes up lame. The players choose to spend a Shift on repairs instead of pushing. That costs feed and time, but keeps the goods dry.
+
+The run reaches the mine at `6` Progress and `2` Trouble. Sandoval gets the full speculative margin, less the cost of the mule's treatment and the repair. The mine gets its powder before the pass closes. If the repair had been skipped, the run might have arrived faster and poorer — or not arrived at all. That is the chapter's wager: price, road, weather, and judgment, all in the same ledger.
 
 ### The Iron Horse as Commerce
 
-The railroad is not only a target for robbery (the train robbery chapter). It is the engine of the legitimate economy, and a party that runs freight or trades goods will deal with it every season. The iron horse sets the floor price of everything it carries, and it sets the rhythm of the county's trade by its schedule.
+The railroad is the heart of the legitimate economy as surely as it is a robber's target. A party that runs freight or trades goods deals with it every season. The iron horse sets the floor price of everything it carries, and its schedule sets the rhythm of the county's trade.
 
 #### Shipping by Rail
 
@@ -160,7 +174,7 @@ A missed train, a cut wire, or a washed-out bridge (the weather chapter, the tra
 
 #### The Railhead as Trade Hub
 
-The railhead is where the county meets the iron horse, and it is the trade hub around which the freighter's life turns. Define it as you would define a town (the corebook's town rules), with a high `Mercantile` rank (the railroad makes the market), a `Law` rank set by the company's investment in its property, and a `Civic` rank set by whether the railhead is a real town or a platform and a shed. The railhead's Season Fortune roll (the corebook's Town Fortune) is the engine of the county's supply — a boom at the railhead means goods are plentiful and cheap; a bust, a fire, or a strike means the county goes hungry, and the freighter's runs get harder and dearer.
+The railhead is where the county meets the iron horse, and it is the trade hub around which the freighter's life turns. Define it as you would define a town, with a high `Mercantile` rank, a `Law` rank set by the company's investment in its property, and a `Civic` rank set by whether the railhead is a real town or a platform and a shed. The railhead's Season Fortune roll is the county's supply weather. A boom at the railhead means goods are plentiful and cheap. A bust, a fire, or a strike means the county goes hungry, and the freighter's runs get harder and dearer.
 
 A party based at the railhead is a party plugged into the wider world; a party a hundred miles from it is a party on its own, and the trade reflects it. The railhead is also the natural site of the cast's crossings — Dutch Miller's train sets the goods down; Sandoval's way-station is the hinge between the railhead and the back country; Riddle rides the runs Sandoval contracts.
 
@@ -180,16 +194,16 @@ The core resources a county runs on, and the pressure their scarcity creates:
 | Horse feed and tack | the freighter's and the rancher's | a drought (the weather chapter), a burned range | `Horsestock` drops across the county; the trade slows |
 | Cash and coin | the medium of it all | a bank failure, a panic, a company's paper refused | the county runs on credit and barter, and the ledger gets longer |
 
-A scarcity is not a single roll. It is a pressure on the season, felt in the prices, the `Fortune` rolls, and the choices the county's people make. The GM declares a scarcity by the season's events — a missed train, a burned range, a closed pass — and lets the spatial economy and the faction system do the work. A county short of powder is a county where the mine's faction gets meaner; a county short of flour is a county where the `Welfare` aspect drops and the Committee starts looking for someone to blame.
+Scarcity presses on the whole season: prices, `Fortune` rolls, faction moves, and the choices ordinary people make when the shelves thin out. Declare it through events — a missed train, a burned range, a closed pass — and let the spatial economy carry the pressure. A county short of powder is a county where the mine's faction gets meaner; a county short of flour is a county where `Welfare` drops and the Committee starts looking for someone to blame.
 
 ### The Way-Station and the Trade
 
 The way-station — Sandoval's place, and the model for any trading post, road ranch, or stage station the party might run or rely on — is the hinge of the county's trade. It sits where the roads cross, and it is the place a freighter waters the team, a rider swaps a horse, a traveler buys a meal, and a contract gets struck at the counter. The way-station is a business (the corebook's rules), but it is also a crossroads, and the crossroads is where the county's pressures meet.
 
-A way-station keeper has a `Refuge`-style gauge with the county's traffic — a measure of who knows the place is safe, who knows it is open, who owes the keeper a favor for the night they spent by the fire. A high gauge means the county's freight and riders come through; a low gauge means they go around, and the trade dries up. The keeper's Season Roll is the engine of the place's fortunes, and the freighter's runs are the engine of its traffic. The two feed each other, which is how a way-station becomes an institution or a ruin.
+A way-station keeper has a `Refuge`-style gauge with the county's traffic — a measure of who knows the place is safe, who knows it is open, who owes the keeper a favor for the night they spent by the fire. A high gauge means the county's freight and riders come through; a low gauge means they go around, and the trade dries up. The keeper's Season Roll decides the place's fortunes, and the freighter's runs feed its traffic. The two feed each other, which is how a way-station becomes an institution or a ruin.
 
 ### A Note on the Honest Trade
 
-The freighter's trade is the honest trade, in a county full of dishonest ones. The outlaw robs the train; the freighter ships on it. The rustler takes the herd; the packer carries the goods that feed the men who guard it. The trade is not always clean — a freighter will run whiskey to a dry camp, guns to a faction, or stolen goods for a fence, and the engine's `Standing` and `Wanted` tracks will catch the dirty runs the way they catch any other crime. But the freighter's living is made by the carrying, not the taking, and that distinction is the chapter's reason for being. A party that wants to make its living by the road rather than by the gun finally has the rules to do it.
+The freighter's trade is the honest trade in a county full of dishonest ones. The outlaw robs the train; the freighter ships on it. The rustler takes the herd; the packer carries the goods that feed the men who guard it. The trade is not always clean — whiskey to a dry camp, guns to a faction, stolen goods for a fence — and `Standing` and `Wanted` catch dirty runs the way they catch any other crime. Still, the living is made by carrying, not taking. A party can now make its money by road, contract, weather, and judgment instead of by the gun.
 
-The freighter's three distinct dials are the Route Ledger (the growing asset), the Cargo Bet (the risk-weighted margin), and the Schedule metronome (the information loop). Together they make the freighter's season a series of strategic decisions — which road, which cargo, which timing — rather than a flat ability roll, and the Investment Cycle (assess, invest, operate, reckon, reinvest) is the frame each decision sits in. The wire chapter (Ch.16) is the freighter's ear on the schedule; the rail (Ch.10) is the metronome the schedule keeps time to; the weather (Ch.19) is the road's other master, and a freighter who ignores either is a freighter whose route ledger empties by the season.
+The freighter's season comes down to three questions: which road, which cargo, and which day. The Route Ledger answers the road. The Cargo Bet answers the risk. The schedule answers the day. The wire chapter is the freighter's ear, the rail is the clock, the weather is the road's other master, and a freighter who ignores any of them will watch the ledger empty by the season.

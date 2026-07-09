@@ -6,11 +6,11 @@
 >
 > — A KEEPER'S WORD, OVERHEARD AT THE BACK BAR
 
-### The Bank and Its Work
+### The Door Everyone Knows
 
-The bank is the county's treasury and its temptation. The corebook handles the bank's civil side — loans, the `Bank` amenity, the Capital that flows through a town's stronger market — and it notes that the frontier banks were fly-by-night, robbery-prone, and sometimes the front for a fraud. What the corebook does not give you is the bank as a target: the bank robbery as an operation, the vault as a problem, the safe-crack as a centerpiece, and the deposit and the safety-deposit box as the legitimate services a party might use or abuse. Train robbery got a full chapter. Its twin — the bank job — got nothing. This is the missing half.
+The bank is the county's treasury and its temptation. Loans, the `Bank` amenity, and Capital cover the civil side: credit, investment, property, and market strength. The other side is the target everyone can see from the street: the vault, the teller's cage, the manager's office, the safe-deposit box, and the door the gang means to open before the county understands what is happening.
 
-This chapter builds the bank robbery as an operation parallel to the train robbery, gives the bank an anatomy the way the train got its cars, and adds the deposit and safekeeping rules the corebook's Capital system implies but does not state. It is an optional framework for groups who want the county's most iconic score on the table.
+A bank job works like a train robbery with different rooms and fewer miles: plan the anatomy, beat the clock, open the strong place, and live with the pursuit after. The same building also holds deposits, mortgages, payrolls, deeds, and safety boxes, which means a robbery can wound more than the banker. If the vault door protects a player character's money or a faction's credit, the bank belongs in play long before anyone puts a gun on the teller.
 
 > _The gang's planner had the bank's layout on the table in the hideout, drawn in pencil on the back of a way-bill, and he was walking the hands through it the way a trail boss walks a crew through a river crossing. The counter here. The manager's cage here. The vault in the back, behind the iron door, with the time-lock that the planner swore he had the combination to because the manager's daughter was sweet on the right hand._
 >
@@ -94,15 +94,15 @@ A bank fails when its depositors lose faith and demand their cash at once, or wh
 - Drafts are worthless. A character holding a failed bank's draft holds paper.
 - The town's `Mercantile` and `Welfare` aspects drop, as the county's savings evaporate and the county's trust with them.
 
-A bank run is a scene the GM may run at the table — the rumor, the line at the door, the depositor who gets his cash and the one who does not, the manager who locks the door and the one who bolts out the back. The engine's job is to make the deposit a trade with a risk the depositor understood, and the failure the cost the depositor sometimes paid.
+A bank run is a scene the GM may run at the table: the rumor, the line at the door, the depositor who gets his cash and the one who does not, the manager who locks the door and the one who bolts out the back. A deposit should always be a trade the depositor understands: safety from thieves and fire in exchange for the bank's own chance of failure.
 
 ### The Bank as Institution
 
-The bank is not only a target for robbery and a vault for deposits. It is a **financial institution** — a fractional-reserve lender whose solvency is a managed bet on the county's future, and whose distinct dial is its **reserve**: the ratio of its deposits to its loans. The other businesses in the book run on the Investment Cycle with a trade resource; the bank runs on the Investment Cycle with a **reserve ratio**, which is the financial primitive no other trade carries. A bank is either a target, a vault, or a living institution, and this section makes it the third.
+Behind the vault, the bank is a wager on confidence. It lends more than it keeps in cash, trusting that depositors will not all ask for their money on the same bad morning. Its central measure is **reserve**: the cash it can put in a depositor's hand when confidence turns sour.
 
 #### The Reserve Track
 
-Track the bank's solvency as a **Reserve gauge** (`1`–`5`), the ratio of cash on hand to deposits and loans outstanding. The reserve is the bank's health, and it is the dial the banker (or the faction that owns the bank) sets and manages.
+Track the bank's solvency as a **Reserve gauge** (`1`-`5`), the ratio of cash on hand to deposits and loans outstanding. The reserve is the bank's health, and it is the measure the banker, owner, or faction must protect.
 
 | The Reserve Gauge | What It Means |
 | --- | --- |
@@ -112,11 +112,20 @@ Track the bank's solvency as a **Reserve gauge** (`1`–`5`), the ratio of cash 
 | `4` | **Conservative.** The bank holds more than it lends; safe, but the county grumbles about tight money and the banker's profit is thin. |
 | `5` | **Hoarding.** The bank holds its cash and lends little; the county's businesses starve for credit, and the banker is safe and unpopular. |
 
-The reserve is the bank's version of the rancher's herd die or the miner's vein die — a managed, depletable, growable resource. It **drops** when the bank lends (the profit-making move) or when a robbery takes the vault's cash (the robbery as a reserve shock, below). It **climbs** when the bank calls loans, attracts deposits, or hoards. A bank run (above) tests the reserve directly: at `3+`, the run is weathered and the depositors are paid; at `2`, the run breaks the bank and the depositors take the haircut; at `1`, the bank is already broken, and the run is the county's catastrophe.
+The reserve **drops** when the bank lends hard, eats a fraud, suffers a robbery, or pays out under panic. It **climbs** when the bank calls loans, attracts deposits, sells assets, or hoards. A bank run tests the reserve directly: at `3+`, the run is weathered and the depositors are paid; at `2`, the run breaks the bank and the depositors take the haircut; at `1`, the bank is already broken, and the run is the county's catastrophe.
 
-#### The Banker's Dial
+#### The Bank Season
 
-For a player character who runs a bank (or the faction that owns one), the **invest** beat of the Investment Cycle is the **reserve decision** — the strategic choice no other business makes. The banker decides how much to lend (profit, risk) versus how much to hold (safety, opportunity cost):
+Run a player-owned or faction-owned bank once per season. The banker is not choosing a color on a ledger; the banker is choosing who gets credit, who gets squeezed, and how many men can be paid if a rumor starts at noon.
+
+1. **Assess the county's confidence.** Check the bank's Reserve, the town's `Mercantile` and `Civic` aspects, the season's rumors, and any outstanding loans to player characters or factions. Make an `INSIGHT`, `BOOKLEARNIN'`, or `PRESENCE` check. On a success, learn whether the coming season favors lending, hoarding, calling loans, or guarding the vault. On a failure, the GM adds one hidden pressure: a doubtful loan, a nervous depositor, a rival bank, or a robber's scout.
+2. **Choose the lending posture.** Pick one Banker's Decision from the table below. Apply the Reserve change immediately.
+3. **Operate the books.** Make the Bank Roll using the proprietor's `BOOKLEARNIN'`, helped by `PRESENCE` for reputation, `INSIGHT` for doubtful paper, or `Lawyer` for contracts. A bank with Reserve `1` rolls at `-2` dice. Reserve `2` rolls at `-1` die. Reserve `4` or `5` rolls at `+1` die for safety but pays less profit if it is holding or hoarding.
+4. **Reckon profit and pressure.** On `0` successes, choose or roll a Penalty from the bank's trouble: bad loan, forged draft, run rumor, robbery opportunity, or political pressure. On `1` success, the bank pays wages and keeps trust. On `2+` successes, gain the season's profit and one opportunity: a valuable mortgage, a grateful merchant, a political favor, or advance warning of a score.
+5. **Apply shocks.** Robberies, exposed frauds, crop failures, mining busts, or panic rumors reduce Reserve by `1` to `3`, depending on scale. If Reserve falls to `2` or lower, test for a run.
+6. **Reinvest or repair confidence.** Spend profit or Capital to raise Reserve, settle depositors, hire guards, improve the vault, buy political protection, or keep credit loose and accept the risk.
+
+#### The Banker's Decision
 
 | The Banker's Decision | The Effect |
 | --- | --- |
@@ -124,13 +133,21 @@ For a player character who runs a bank (or the faction that owns one), the **inv
 | **Lend normally** | No reserve change; standard profit. The bank runs as a sound institution. |
 | **Hold (tighten)** | Reserve gauge `+1`; the bank's profit halves. The county's businesses grumble; the banker sleeps well. |
 
-The banker's dial is the bank's distinct loop, and it is the thing that makes banking feel like banking and not like ranching or mining. Every season the banker is balancing profit against solvency, the county's credit against the bank's survival, and the reserve gauge is the needle that moves with each decision. A banker who lends aggressively season after season is a banker whose bank is profitable and one bad run from collapse — which is the history of the frontier banks, most of which were exactly that, and most of which ended exactly as the reserve gauge predicted.
+Every season the banker balances profit against solvency and the county's credit against the bank's survival. A banker who lends aggressively season after season makes money and makes enemies of arithmetic: one bad run from collapse, one robbery from a locked door, one bad harvest from a line of depositors in the street.
 
 #### The Robbery as a Reserve Shock
 
-The bank robbery Operation (above) is not only a crime that takes cash — it is a **reserve shock** that can break the institution. A robbery that takes the vault's cash drops the Reserve gauge by `1` to `3` sizes (by the take's size relative to the bank's reserves), and a reserve driven to `1` or below by a robbery is a reserve that triggers a run, which can break the bank, which can take the county's deposits with it.
+A bank robbery that takes cash also strikes the institution's **reserve**. Drop the Reserve gauge by `1` to `3` sizes, depending on the take's size relative to the bank's cash. If the robbery drives Reserve to `1` or below, a run begins; the bank may fail, and the county's deposits may fail with it.
 
-The robbery's weight is therefore not just the cash the gang carries off. It is the institutional consequence: a gang that robs a stretched bank (`Reserve 2`) and takes the vault may trigger a run that empties the county's savings, destroys the town's `Mercantile` and `Welfare`, and makes the bank's failure the campaign's next crisis. A gang that robs a hoarding bank (`Reserve 5`) takes cash the bank can absorb, and the robbery is a crime but not a catastrophe. The engine should let the gang's choice of target carry the institutional weight it carries — a bank job is not just a score, it is a blow against the county's credit, and the county remembers it in the prices, the wages, and the closed doors of the season that follows.
+The robbery's weight is therefore not just the cash the gang carries off. It is the institutional consequence: a gang that robs a stretched bank (`Reserve 2`) and takes the vault may trigger a run that empties the county's savings, destroys the town's `Mercantile` and `Welfare`, and makes the bank's failure the campaign's next crisis. A gang that robs a hoarding bank (`Reserve 5`) takes cash the bank can absorb, and the robbery is a crime but not a catastrophe. Let the gang's choice of target carry the institutional weight it carries. A bank job is not just a score; it is a blow against the county's credit, and the county remembers it in prices, wages, and closed doors.
+
+#### Example: The Stretched Bank
+
+The county bank begins the season at Reserve `2`: stretched, profitable, and one bad rumor from trouble. The banker assesses the county and gets `1` success, learning that merchants need credit but depositors are nervous after a mine bust. He chooses **Lend aggressively** anyway. Reserve drops to `1`, and profit will double if the season holds.
+
+The Bank Roll is made at `-2` dice for Reserve `1`. It comes up `1` success: the bank stays open and pays wages, but the GM keeps the nervous depositor as a pressure. Then a robbery in another county starts a rumor. The GM applies a `1`-step shock. Reserve would fall below `1`, so a bank run triggers. The bank cannot weather it. Depositors take a haircut, the town's `Mercantile` suffers, and the banker has profit on paper but no confidence in the street.
+
+The decision was not wrong because it was aggressive. It was dangerous because it was aggressive while the bank was already stretched. A banker at Reserve `4` could make the same choice and merely become sounder and richer; a banker at Reserve `2` has bet the county's credit on a quiet season.
 
 ### Bank Score Seeds
 
@@ -157,9 +174,9 @@ Roll `D66` or choose a seed that fits the campaign's county.
 The bank ties the book's commerce and crime threads together.
 
 - **The train robbery chapter** is the bank job's template — the anatomy, the operation scales, the score seeds, the federal reach. A gang that robs trains is a gang that will rob banks, and the procedures are parallel.
-- **The corebook's Capital rules** are the bank's civil side — the loan, the investment, the property. This chapter is the bank's criminal side, and the deposit rule bridges the two.
+- **The corebook's Capital rules** cover the bank's civil side — the loan, the investment, the property — while the deposit rule bridges that money to robbery, panic, and safekeeping.
 - **The wire chapter** defines the alarm wire and the marshal's response time, which the bank robbery's Trouble leans on.
 - **The justice chapter** defines the robbery's legal tail — the `Felony` or `Capital` charge, the trial, the sentence, the rope.
 - **The robber baron chapter** holds the bank as a faction's instrument — the baron's bank is the baron's lever, and the gang that robs it has made a baron's enemy.
 
-The bank is the county's treasury and its temptation, and a chapter that gives the vault a door and the deposit a risk gives the gang the score the train robbery chapter promised was waiting. The bank job is the outlaw's other great set-piece, and the engine's job is to make it pay what it should pay and cost what it should cost, by the bank's strength and the gang's nerve and the county's memory of the morning the vault door stood open and the county's savings walked out of it on a horse.
+The bank is the county's treasury and its temptation. Give the vault a door, give the deposit a risk, and the gang has the score the train robbery chapter promised was waiting. The bank job is the outlaw's other great set-piece. It should pay what it ought to pay and cost what it ought to cost, by the bank's strength, the gang's nerve, and the county's memory of the morning the vault door stood open and the county's savings walked out of it on a horse.

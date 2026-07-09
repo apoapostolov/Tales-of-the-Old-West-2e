@@ -1,1 +1,0 @@
-Plan already approved. Proceeding to implement: define the Investment Cycle in design-bible, then reframe and extend each of Ch.4-9 with the cycle skinned to its trade (self-contained in each chapter, no pointers to docs).

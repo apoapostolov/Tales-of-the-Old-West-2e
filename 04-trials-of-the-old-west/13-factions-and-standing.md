@@ -6,13 +6,11 @@
 >
 > — ADELINA SANDOVAL, TO A RIDER WHO ASKED WHO REALLY OWNED THE SPRING
 
-### Factions and Their Trade
+### The County's Long Memory
 
 Every tale of the Old West worth the telling is set inside a web of interests that were there before the player characters arrived and will be there after they are buried. The Santa Fe Ring. The cattleman's association. The railroad and its detectives. The mining company and the union hall. The cavalry post and the nations it campaigns against. The circuit court and the men who appoint it. The vigilance committee that meets in the back of the hardware store. None of these are dungeons to be cleared. They are neighbors, creditors, employers, enemies, and kin, and they remember everything.
 
-This chapter is an optional framework for groups who want that web on the table instead of in the GM's head. It gives the GM a reusable engine for tracking how a handful of named interests stand toward the player characters, how that standing shifts with the choices the table makes, and how a faction acts on its own when the player characters are somewhere else. It is written to sit alongside the town and outlaw rules in the corebook, not replace them. A settlement already has `Law`, `Mercantile`, `Civic`, and `Welfare` aspects; an outlaw band already has `Refuge` with the places it uses. This chapter is for the interests too large or too far or too political to fit inside a single town's tally sheet — the ones that press on the whole county.
-
-You do not need these rules to run a one-off feud or a short tale about a single rivalry. Use them when the campaign has at least two organized interests pushing on the same people and the same ground, and the table wants the pressure of those interests to be felt across sessions.
+A single rivalry can live in ordinary scenes. Two organized interests pushing on the same people and the same ground need a ledger the whole table can see. Track the factions too large, distant, or political for a town's `Law`, `Mercantile`, `Civic`, and `Welfare` scores: how they stand toward the player characters, how their relationships pull on one another, and what they do during the seasons when the player characters are somewhere else.
 
 > _Sandoval turned the ledger so the rider could read it. Three columns: the name, the favor, the date. The favor column was the only one that mattered and they both knew it. She put the pencil behind her ear._
 >
@@ -89,17 +87,22 @@ A faction's Standing should not swing every session. Save changes for moments th
 - `Refuge` is a single settlement's regard for the gang. `Standing` is an interest's regard for the party, and an interest may sit inside many settlements or none. When a faction controls a town — a company town, a Ring county seat — its Standing sets the tone for the `Refuge` the gang can build there. Hostile Standing caps Refuge at `0` until the faction is dealt with.
 - `Fame` and `Reputation` are the face the whole country sees. `Standing` is what one interest thinks of that face. Dangerous `Fame` earned through crime can sour a faction's Standing by one step the first time it hears of it, and warm an outlaw or radical faction's Standing by the same step. The bench and the Ring do not love a famous killer; the miners' union and the rival gang might.
 
-### The Faction Web — Bonds, Debts, and Propagation
+### The Faction Web — Bonds, Debts, and Who Notices
 
-The `Standing` ladder above tracks how each faction regards the *party*. But the county's factions also regard *each other*, and those relationships are the web's missing dimension. The railroad and the Ring are allies (the Ring's title work clears the railroad's right-of-way); the cattleman's association and the nesters are enemies (the fence war); the union and the company are sworn foes. When the party helps the railroad, the railroad's allies warm to the party and the railroad's enemies cool — and the flat `Standing` ladder, which models each faction as a silo, cannot show that.
+The `Standing` ladder above tracks how each faction regards the _party_. But the county's factions also regard _each other_, and those relationships are the web's missing dimension. The railroad and the Ring are allies (the Ring's title work clears the railroad's right-of-way); the cattleman's association and the nesters are enemies (the fence war); the union and the company are sworn foes. When the party helps the railroad, the railroad's allies warm to the party and the railroad's enemies cool — and the flat `Standing` ladder, which models each faction as a silo, cannot show that.
 
-Track the **bonds between factions** on a small grid: factions on both axes, and each pair scored on the same `-3` to `+3` ladder (use the coarser scale to control bookkeeping — `+3` sworn allies, `0` indifferent, `-3` sworn enemies). The bond between the Ring and the railroad is `+2`; the bond between the association and the nesters is `-3`. Bonds are set when the factions are designed and shift by the Relationship Event table (below) and by the campaign's events.
+Track the **bonds between factions** on a small grid: factions on both axes, and each pair scored on the same `-3` to `+3` ladder. Use the coarse marks to control bookkeeping: `+3` sworn allies, `0` indifferent, `-3` sworn enemies. The bond between the Ring and the railroad is `+2`; the bond between the association and the nesters is `-3`. Bonds are set when the factions enter the campaign and shift by the Relationship Event table and by the campaign's events.
 
-#### Propagation
+#### When Allies and Enemies Notice
 
-When the party's `Standing` with faction A changes by **Δ**, every faction B whose bond with A is `+2` or better shifts its `Standing` with the party by **+1** (the ally warms), and every faction B whose bond with A is `-2` or worse shifts its `Standing` with the party by **-1** (the enemy cools). Bonds of `+1`, `0`, or `-1` do not propagate — the relationship is too weak to carry the shift. Propagation does not cascade: only the direct allies and enemies of A shift, not their allies' allies.
+When the party's `Standing` with faction A changes by `1` or more, check the bonds faction A has with the other tracked factions.
 
-This is the single highest-value mechanic in the chapter. It makes the county's politics *relational* rather than siloed: helping the railroad is never just helping the railroad, because the railroad has allies who notice and enemies who notice, and the party's name moves through the web the way a stone moves through a pond. A party that tries to stay neutral in a polarized county will find that neutrality has a cost, because every faction's allies and enemies are reading the party's choices, and the propagation moves their `Standing` accordingly.
+- Every faction bonded to A at `+2` or better shifts its `Standing` with the party by `+1`.
+- Every faction bonded to A at `-2` or worse shifts its `Standing` with the party by `-1`.
+- Bonds of `+1`, `0`, or `-1` are too weak to carry the change.
+- This check never cascades. Only A's direct allies and enemies shift.
+
+Helping the railroad is never only helping the railroad. Allies notice, enemies notice, and the party's name moves through the county by road, wire, ledger, and mouth. In a polarized county, neutrality has a cost because everyone is keeping score.
 
 > _Sandoval put the name on the page for the railroad, and she knew what the page would do. The railroad's `Standing` with the rider went up a step, and the Ring's `Standing` — the Ring that was bonded to the railroad at_ `+2` _— went up a step too, because the Ring read the rider's help to the railroad as help to the Ring's own title work. The Committee's `Standing`, bonded to neither, did not move. But the nesters' `Standing`, who were the railroad's enemies at_ `-2` _, went down a step, because the right-of-way the railroad was surveying was the nesters' fenced ground, and the rider who helped the railroad helped survey the nesters off their claims. One favor, three shifts. That was the web._
 
@@ -126,17 +129,17 @@ At each Turn of the Season, after the Faction Roll, roll `D66` once for the **fa
 | `61-63` | **War declared.** Two factions enter open conflict. | Bond drops to `-3`; both may call debts on the party. |
 | `64-66` | **Shift in the wind.** A faction's leadership or fortune changes. | Roll `D6`: `1-3` the faction turns hostile to its previous allies (bond drops by `2` with one ally); `4-6` continuity, but the faction's `Standing` with the party shifts by `±1` (the GM's call, by whether the party backed the right side). |
 
-The Relationship Event table is the web's engine — it makes the graph a living thing that shifts under the party, the way the Faction Roll makes each faction a living thing that acts on its own. Together, the Faction Roll and the Relationship Event are the county's autonomous motion, and the party is inside it, not above it.
+The Relationship Event table keeps the county from sitting still. Together, the Faction Roll and the Relationship Event show what the county did while the player characters were elsewhere. The party is inside that motion, not above it.
 
 #### The Debt-Call Procedure
 
 A faction owed a debt (by another faction or by the party) may **call it** — a GM action, not a roll. The creditor names what it wants (a service, a vote, a non-aggression pact, a resource, access), proportionate to the debt's size (`1` = a small favor; `3` = a major ask). The debtor has three options:
 
 - **Pay.** Perform the demand. The debt steps down by `1` (or to `0` if the demand was major). `Standing` with the creditor rises by `1` (good faith).
-- **Refuse.** The debt is voided, but the creditor's `Standing` drops to `-3` (Hunted) and **propagates**: the creditor's allies drop the party's `Standing` by `1` each. The debtor has made an enemy.
+- **Refuse.** The debt is voided, but the creditor's `Standing` drops to `-3` (Hunted). Then check the creditor's allies and enemies as above. The debtor has made an enemy.
 - **Renegotiate.** A `PRESENCE`/`INSIGHT` social conflict roll. Success converts the debt to a smaller or different form; failure doubles it.
 
-A faction may call at most one debt per season, which prevents debt-spam. The debt-call is the web's primary pressure valve — it turns past favors into current traps, and it is the mechanic that makes the county's factions *dangerous* in a way the flat ladder never was. A party that owes the railroad a debt is a party that will be asked to pay, and the asking will come at the worst moment, which is the nature of debts and the nature of the county.
+A faction may call at most one debt per season, which prevents debt-spam. The debt-call is the web's primary pressure valve — it turns past favors into current traps, and it is the mechanic that makes the county's factions _dangerous_ in a way the flat ladder never was. A party that owes the railroad a debt is a party that will be asked to pay, and the asking will come at the worst moment, which is the nature of debts and the nature of the county.
 
 ### Reading a Faction
 
@@ -186,33 +189,49 @@ Read the roll on the standard ladder.
 
 #### Influence — Standing Made Spendable
 
-`Standing` is the relationship's *temperature*; **Influence** is the political capital that relationship generates, and it is a **spendable, decaying pool** that replaces the flat modifier on the "Calling on a Faction" roll with a managed resource. Influence is the engine's way of making standing a *current* rather than a reservoir — a party that hoards it watches it evaporate; a party that spends it must rebuild it.
+`Standing` is the relationship's _temperature_; **Influence** is the political capital that relationship generates. It is spendable, and it fades when neglected. A party that hoards it watches it evaporate. A party that spends it must rebuild it.
 
-Each player character (or the party as a whole, by the table's preference) has an **Influence pool** per faction they are tracking, capped at `5` (use the lower cap to control bookkeeping). The pool starts at `0` for a faction the party has no relationship with, and it is **earned by public, witnessed acts** that build the party's name with that faction — the service rendered, the enemy defeated, the favor done in front of witnesses. Each such act rolls on the standard ladder: `1` success earns `1` Influence; `2+` earns `2`; `3+` earns `3` and the county talks. Private acts earn nothing — Influence is the *county's* regard, not the party's self-regard, and the county only counts what it sees.
+Each player character (or the party as a whole, by the table's preference) has an **Influence pool** per faction they are tracking, capped at `5` (use the lower cap to control bookkeeping). The pool starts at `0` for a faction the party has no relationship with, and it is **earned by public, witnessed acts** that build the party's name with that faction — the service rendered, the enemy defeated, the favor done in front of witnesses. Each such act rolls on the standard ladder: `1` success earns `1` Influence; `2+` earns `2`; `3+` earns `3` and the county talks. Private acts earn nothing — Influence is the _county's_ regard, not the party's self-regard, and the county only counts what it sees.
 
 | Influence Spend | Effect |
 | --- | --- |
 | `1` | Gain an audience with a figure who would otherwise refuse; compel a minor ask (a letter, a passage, a small lie). |
 | `2` | Compel a moderate ask (a vote, a timely appearance, a concealment); shift a faction decision by one step. |
-| `3` | Compel a major ask (a pardon, a contract, a public endorsement); absorb one social failure (negate a failed social roll's consequence). |
+| `3` | Put a major ask on the table (a pardon, a contract, a public endorsement) with `+3 dice`, or absorb one social failure's consequence if the faction can plausibly cover it. |
 
-Influence does not replace the "Calling on a Faction" roll — it feeds it. A party may spend Influence to add `+1 die` per point spent to a Calling roll, or to buy the ask outright (bypassing the roll for a minor favor). The spend is visible (the party threw its weight around), which is the cost of the shortcut.
+Influence does not replace the "Calling on a Faction" roll — it feeds it. A party may spend Influence to add `+1 die` per point spent to a Calling roll, to the normal `+3` cap, or to claim an ordinary minor favor from that faction as already settled. A minor favor can be claimed this way only once per faction per season, and it cannot buy murder, erase a capital charge, create free Capital, or force a faction to act against its purpose. The spend is visible (the party threw its weight around), which is the cost of the shortcut.
 
-#### The Decay Valve
+#### When Influence Fades
 
 Influence **decays**. At each Turn of the Season, each Influence pool the party has not actively cultivated that season steps down by `1` (to a minimum of `0`). Cultivation is a public, faction-appropriate act — a service, a show of support, a visible presence at the faction's event. A party that earned the railroad's Influence in the spring and then rode north for the summer comes back to find the Influence has cooled by `1`, because the railroad's regard is a current, not a reservoir, and the county's memory is shorter than the party hopes.
 
-The decay valve is what makes Influence *different* from `Standing`. `Standing` is the long-term relationship (it shifts slowly, by the events table); Influence is the short-term capital the relationship generates, and it must be circulated or it evaporates. A political campaign lives on Influence — earned, spent, rebuilt — and a party that treats Influence as a savings account will find the account empty when it needs it most, which is the rhythm of political life the actual West ran on.
+`Standing` is the long relationship. Influence is the current favor the party can spend. A political campaign lives on Influence — earned, spent, rebuilt — and a party that treats it like savings will find the account empty when it needs it most.
 
 > _Sandoval read the ledger and saw the Influence the way she saw the flour — a thing that spoiled if it sat. The railroad's Influence was at_ `3` _, earned in the spring when the rider had run the right-of-way survey past the nesters' fence, and it had not been touched since, and the season had turned, and the decay would take it to_ `2` _by the fall unless the rider did the railroad another visible service. The Ring's Influence was at_ `0` _, which was honest, because the rider had done the Ring nothing it could see. The post's Influence was at_ `1` _, fading, because the last patrol Carver had watered at the spring was two months ago and the post's memory was a season long._
 >
 > _She put the pencil behind her ear. Influence was a current. The party that forgot that lost the current and kept the ledger, which was the same as having nothing, in a county that only counted what it could see._
 
+#### Example: One Favor, Three Consequences
+
+Riddle helps the railroad survey a right-of-way past a nester fence. The railroad's `Standing` with the party rises from `0` to `+1`, and the public nature of the help earns `2` railroad Influence. Because the railroad is bonded to the Ring at `+2`, the Ring's `Standing` also rises by `1`. Because the nesters are bonded to the railroad at `-2`, the nesters' `Standing` drops by `1`.
+
+At the Turn of the Season, the party spends `1` railroad Influence to ask the operator to delay a hostile wire. The ask succeeds, but the Influence is spent and visible. The nesters hear who helped the railroad, and their next Faction Roll comes up `Pressure`: a fence goes up across Sandoval's road. The favor did not create a bonus and vanish. It moved the county.
+
 ### The Faction Roll — When the World Acts
 
 The heart of this chapter is the simple truth that the factions do not wait for the player characters. The railroad builds. The Ring lobbies. The union organizes. The army rides. The vigilance committee meets on Tuesday whether the party is in town or a hundred miles up the trail.
 
-At the end of each Turn of the Season, after the season's ordinary business is resolved, the GM makes a **Faction Roll** for each tracked faction. This is the engine that makes the county act on its own.
+At the end of each Turn of the Season, after the season's ordinary business is resolved, the GM makes a **Faction Roll** for each tracked faction.
+
+Resolve the faction turn in this order:
+
+1. Apply any `Standing` changes earned by the player characters during the season.
+2. Check which allies and enemies notice those changes.
+3. Step down any Influence pools the party did not cultivate this season.
+4. Resolve one Relationship Event for the whole faction web.
+5. Make one Faction Roll for each tracked faction.
+6. Advance, erase, or reveal Faction Clocks.
+7. Put at least one visible result in front of the table next session: a rumor, a wire, a rider, a newspaper notice, a lien, a warrant, a job offer, or a body in the road.
 
 One roll per faction. Roll `D6` and modify by the faction's current Standing toward the party.
 
@@ -271,7 +290,7 @@ When a faction sets out to do something large — drive a people off a grant, br
 
 A Faction Clock is a track of `4`, `6`, or `8` segments, set by the scale of the faction's ambition. Each season the faction works the project, fill one segment (more, if a bold Faction Roll warrants it). When the clock fills, the project completes: the right-of-way is surveyed, the lien is filed, the warrant is sworn, the strike is broken, the raid is launched.
 
-The player characters interact with a Faction Clock the way they interact with any operation in this engine. They can investigate it (`INSIGHT`, `HAWKEYE`), interfere with it (sabotage, argument, a counter-filing, a bribe to the right clerk), or help it along. A successful interference erases one or more segments and may raise the faction's readiness; a critical interference may turn the clock into a visible confrontation. The `Hidden Bad Luck` rule applies when the party keeps poking a faction's project without covering its tracks.
+The player characters interact with a Faction Clock the way they interact with any operation. They can investigate it (`INSIGHT`, `HAWKEYE`), interfere with it (sabotage, argument, a counter-filing, a bribe to the right clerk), or help it along. A successful interference erases one or more segments and may raise the faction's readiness; a critical interference may turn the clock into a visible confrontation. The `Hidden Bad Luck` rule applies when the party keeps poking a faction's project without covering its tracks.
 
 A campaign should not run more than two Faction Clocks at once. They are for the things the party can see coming and choose to do something about, not for background the GM is running for its own sake.
 
@@ -322,8 +341,8 @@ The Committee is the violence the bench cannot or will not reach. It is small, l
 
 ### Designing Your Own Factions
 
-Steal the three above, or build your own. Answer the five questions, set the Standing, and put the faction on an index card. The best factions for this engine are the ones whose purpose puts them naturally in the party's path — not villains, but interests. A cattleman's association that hires the party to drive off nesters is not an enemy; it is an employer with a purpose, and the party's choice to take the work or refuse it is what moves Standing.
+Steal the three above, or build your own. Answer the five questions, set the Standing, and put the faction on an index card. The best factions are the ones whose purpose puts them naturally in the party's path — not villains, but interests. A cattleman's association that hires the party to drive off nesters is not an enemy; it is an employer with a purpose, and the party's choice to take the work or refuse it is what moves Standing.
 
-A faction needs a name, a purpose, a means, a reach, and a Standing. Everything else — the named figures inside it, the town it holds, the clock it is running — is what makes it playable rather than a line on a sheet. Give it a man with a desk, a woman with a ledger, a sergeant with a letter in his pocket. The mechanic does the rest.
+A faction needs a name, a purpose, a means, a reach, and a Standing. Everything else — the named figures inside it, the town it holds, the clock it is running — is what makes it playable rather than a line on a sheet. Give it a man with a desk, a woman with a ledger, a sergeant with a letter in his pocket. The rules do the rest.
 
 A campaign that uses these rules should feel, at the table, as if the country has its own business and the player characters are inside it — not the center of it. That is the point of the chapter.

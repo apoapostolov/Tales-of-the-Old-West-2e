@@ -6,13 +6,11 @@
 >
 > — WEBB CALDER, TO A WRANGLER WHO WANTED TO PUSH
 
-### The Open Range and Its Trade
+### Money on the Hoof
 
-The cattle industry is half the economy of the West, and the corebook's setting chapters render it well: the chuckwagon, the hierarchy, the pay, the daily grind. What the corebook does not give you is the drive and the roundup as procedures — the herd as a thing to be moved across country, the stampede as a thing that can kill the men moving it, the ranch as a business to be rolled at the Turn of the Season. This chapter is the missing half.
+The cattle industry is half the economy of the West, and the corebook's setting chapters render it well: the chuckwagon, the hierarchy, the pay, the daily grind. This chapter carries that work onto the trail and the range — the herd as a thing to be moved across country, the stampede as a thing that can kill the men moving it, the ranch as a business to be rolled at the Turn of the Season.
 
-It is an optional framework for groups who want the herd on the table. It builds the drive as an **operation**, using the outlaw chapter's Progress-versus-Trouble track, with the herd's miles as the Progress and the trail's teeth as the Trouble. It builds the **stampede** as a discrete Trouble event with its own resolution. It builds the **roundup** and the ranch as a **seasonal enterprise**, parallel to the corebook's business-outfit rules. And it folds in the cross-pressures of the open range: the cattleman's association as a faction, the nesters and the wire, the rustler, the brand.
-
-You do not need these rules for a trail drive that is a montage. Use them when the drive is the campaign — when the party is the trail crew, the herd is the stake, and the country between the home range and the railhead is the dungeon.
+A montage drive needs weather, pay, and one hard choice on the road. A campaign drive needs the herd itself: miles as Progress, river crossings and stampedes as Trouble, the roundup as seasonal work, and the open range pressing in through cattlemen's associations, nesters, wire, rustlers, and brands. Put the herd on the table when the party is the trail crew, the beeves are the stake, and the country between home range and railhead is the dangerous ground.
 
 > _Calder read the sky to the west and the grass ahead and the herd's temper behind and the crew's condition around the fire, and he did not like what any of the four told him. The sky said rain by midnight. The grass said two more days of good feed and then the dry stretch. The herd said it had been holding too close for too long and was ready to run at any excuse. The crew said the wrangler from the wash was green and the night hawk had been in the bottle._
 >
@@ -88,9 +86,16 @@ A hand down in front of a stampede is a `RESILIENCE` roll against the trampling 
 
 The drive moves the herd. The roundup makes the herd. In the spring and again in the fall, the range is worked: the cattle gathered out of the country, the calves branded, the mavericks cut, the culls separated for the drive or the sale. A ranch that does not work its herd loses it — to the country, to the rustler, and to the brand of the next man who runs the iron.
 
-The roundup is a `Roundup`-scale operation, as above, and it is also the ranch's season of business. The ranch itself runs on the **Investment Cycle** — assess, invest, operate, reckon, reinvest — but the cycle's dial is the **Herd Ledger**, the rancher's living asset, and its long-term investment is the **Breeding Dial** that raises the herd's quality over seasons. The open range the herd grazes is a **common-pool resource** the rancher shares with every other rancher on the same grass, which is where the range war lives.
+The roundup is a `Roundup`-scale operation, as above, and it is also the ranch's season of business. The ranch itself runs on the same seasonal order as other businesses, but its main asset is the **Herd Ledger**, its long investment is the **Breeding Track**, and its shared danger is the open range all the neighboring ranchers draw from.
 
-**Assess** the range and the herd. The rancher reads the grass, the water, the calf crop's promise, and the rustler's sign, and the reading is the season's first job — Calder reading the sky and the grass and the herd's temper. **Invest** in the herd and the range — breeding (the Breeding Dial), grass (the common-pool Range), hands, and the brand's defense. **Operate** the roundup and the drive, which is where the herd die is tested against the trail's teeth. **Reckon** the season with the Ranch Roll, read against the herd die and the range's condition — a herd that grazed bare grass and was bred to nothing reckons against a thin calf crop. **Reinvest** in the herd die (let it step up on a good season) or the breeding (spend the capital to raise Quality), or take the season's profit and risk the rustler and the weather taking next year's.
+Run a ranch season in this order:
+
+1. **Assess the range and the herd.** Read the grass, the water, the calf crop's promise, and the rustler's sign.
+2. **Choose a ranch posture.** Hold steady, push the herd hard, invest in breeding, hire hands, guard the brand, or rest grass.
+3. **Work the roundup or drive.** Use the operation scale above when the season turns on the work itself.
+4. **Reckon the range.** Apply herd pressure to the shared grass die.
+5. **Make the Season Ranch Roll.** It cannot be pushed and does not generate Trouble.
+6. **Reinvest or take profit.** Step up the herd on a good season, raise Quality through breeding, replace losses, pay debts, or take the cash and leave next year's risk where it lies.
 
 The ranch itself is run as a **seasonal enterprise** parallel to the corebook's business-outfit rules, using the same pool and the same ladder, with a ranch-specific key ability and a ranch-specific Bonus/Penalty table.
 
@@ -116,19 +121,19 @@ The ranch's distinct asset is not a building or a ledger of debts. It is the **h
 
 The herd die **steps down** on a bad season: a drought (Ch.19) drops it a size, a stampede drops it, winter kill drops it (Ch.22), a rustler's raid drops it. It **steps up** on a good one: a strong calf crop, good grass, a clean drive with no losses and a premium market. The Season Ranch Roll's Bonus/Penalty table is where the step lands — a Bonus roll may step the herd die up (the calf crop came in, the grass held), and a Penalty roll steps it down (the drought, the disease, the winter). A rancher who drives the herd to the railhead and sells steps the die down by the sale's size, and the cash is the reinvest step's capital.
 
-The **Quality rating** (`1`–`3`) is the herd's breeding — the difference between a scrub herd that brings a low price per head and a graded herd that brings a premium. Quality raises the per-head sale price at the railhead (`Quality 1` = base price, `Quality 2` = `+25%`, `Quality 3` = `+50%`) and improves the calf crop (the chance the herd die steps up in a good season). Quality is raised by the Breeding Dial, below.
+The **Quality rating** (`1`–`3`) is the herd's breeding — the difference between a scrub herd that brings a low price per head and a graded herd that brings a premium. Quality raises the per-head sale price at the railhead (`Quality 1` = base price, `Quality 2` = `+25%`, `Quality 3` = `+50%`) and improves the calf crop (the chance the herd die steps up in a good season). Quality is raised by the Breeding Track, below.
 
-#### The Breeding Dial
+#### The Breeding Track
 
 The rancher's long-term investment is **breeding** — spending Capital across seasons to raise the herd's Quality rating, which is the difference between a range operation that scrapes by and a ranch that lasts. Breeding is slow, expensive, and the thing the actual cattle dynasties were built on.
 
 Raising Quality by one step costs `1` Capital and takes a full season of careful work: buying bred stock (a bull or cows of the right bloodline), culling the scrubs, and keeping the herd from backsliding. The rancher rolls `ANIMAL HANDLIN'` at the invest step; success raises Quality by one step at the next roundup; failure wastes the Capital and the season's breeding effort. A rancher cannot raise Quality above `3` — the top of the ladder is the graded herd, and further improvement is the breeding operation's ceiling.
 
-Breeding is the rancher's "functions" track — the slow, multi-season arc the Investment Cycle's reinvest beat feeds. A rancher who breeds well and loses few beeves climbs from `Quality 1` to `Quality 3` over three or four seasons, and the per-head premium at the railhead is the compounding return. A rancher who breeds nothing and runs scrubs stays at `Quality 1` and wonders why the neighbor's calf crop is twice his.
+Breeding is the rancher's slow, multi-season work. A rancher who breeds well and loses few beeves climbs from `Quality 1` to `Quality 3` over three or four seasons, and the per-head premium at the railhead is the compounding return. A rancher who breeds nothing and runs scrubs stays at `Quality 1` and wonders why the neighbor's calf crop is twice his.
 
 #### The Open Range as a Common Resource
 
-The open range is not the rancher's private grass — not in the 1870s, before the fence laws and the wire. It is a **common-pool resource**, and the engine should model it as one. Track the range's grass as a **shared grass die** per region (the same stepped-die primitive): `D6` (overgrazed, thin) → `D8` → `D10` → `D12` (rich, abundant). All the ranchers drawing on the same range draw down the same grass die.
+The open range is not the rancher's private grass — not in the 1870s, before the fence laws and the wire. Track the range's grass as a **shared grass die** per region: `D6` (overgrazed, thin) → `D8` → `D10` → `D12` (rich, abundant). All the ranchers drawing on the same range draw down the same grass die.
 
 | The Grass Die | The Range |
 | --- | --- |
@@ -137,9 +142,27 @@ The open range is not the rancher's private grass — not in the 1870s, before t
 | `D10` | Good range. The grass holds through the season; the calf crop is strong. |
 | `D12` | Abundant. The range is rich and understocked; the herd thrives. |
 
-Each rancher running stock on the range **steps the grass die down** by the size of their herd die at the reckon step — a `D12` herd takes more grass than a `D6` herd, and a range with three `D10` ranchers on it is a range heading for `D6`. A drought (Ch.19) drops the grass die one or two sizes regardless of stocking. A season of rest (a rancher who pulls stock, or a mild winter and a wet spring) steps it up. The tragedy is mechanical: each rancher benefits from running more stock, and the cost is shared by all — which is the engine of every range war, every fence cutting, and every cattleman's association meeting in the decade.
+At the reckon step, total the pressure on the grass.
 
-A faction's range war is a fight over who gets to draw on the grass die, and the association (above) is the faction whose purpose is to allocate it. A rancher who overstocks against the association's agreement loses `Standing` with the association; a nester who fences the common range takes grass the ranchers count on. The common-pool range is the cattle chapter's distinct political mechanic, and it makes the open range's tragedy a thing the dice track, not just a thing the history books describe.
+| Herd on the Range | Grass Pressure |
+| --- | --- |
+| `D6` or `D8` herd | `1` |
+| `D10` or `D12` herd | `2` |
+| Rancher pushed the herd hard this season | `+1` |
+| Rancher rested grass or moved stock off range | `-1` |
+
+Then compare total pressure to the grass die's capacity.
+
+| Grass Die | Capacity |
+| --- | --- |
+| `D6` | `1` |
+| `D8` | `2` |
+| `D10` | `3` |
+| `D12` | `4` |
+
+If pressure exceeds capacity, step the grass die down once. If pressure exceeds capacity by `2` or more, step it down twice. If pressure is lower than capacity by `2` or more, and the season was not drought or hard winter, step the grass die up once. A drought drops the grass die one or two sizes before this comparison. The tragedy is plain: each rancher benefits from running more stock, and the cost is shared by all.
+
+A faction's range war is a fight over who gets to draw on the grass die, and the association is the faction whose purpose is to control it. A rancher who overstocks against the association's agreement loses `Standing` with the association; a nester who fences the common range takes grass the ranchers count on. The shared range makes the open range's tragedy a thing the dice track, not just a thing the history books describe.
 
 > _Calder counted the herd in the fall corral the way he counted it every fall, and the count was the herd die and the herd die was the ranch. A `D10` herd this year, up from `D8` the season before, because the calf crop had come in strong on the good grass and the drive had lost only thirty head to the river and none to the rustler. Quality two, because the boss had spent the capital on the Hereford bull two seasons back and the grading was showing in the calves' straight backs and straight legs._
 >
@@ -151,7 +174,7 @@ A faction's range war is a fight over who gets to draw on the grass die, and the
 >
 > "Then we talk to the association," the boss said, "or we talk to the fence wire, and the wire talks louder than either."
 >
-> _Calder did not answer, because the grass die was the ranch's longest argument and the argument was the one the open range had been having since the first cow walked onto it, and the engine of the argument was the simple fact that the grass was finite and the herds were not, and the rancher who forgot it lost the herd that remembered._
+> _Calder did not answer, because the grass die was the ranch's longest argument and the argument was the one the open range had been having since the first cow walked onto it. The grass was finite and the herds were not, and the rancher who forgot it lost the herd that remembered._
 
 #### Ranch Bonus and Penalty Table
 
@@ -168,7 +191,15 @@ A faction's range war is a fight over who gets to draw on the grass die, and the
 | `51-56` | A bonanza calf crop and a clean brand. `+2` Capital in stock. | A bad winter and a worse spring. `2D6 × $75` in stock; the ranch's future in question. |
 | `61-66` | The year the ranch became an outfit. `+1D3` Capital. | The year the ranch nearly broke. Lose `1` Capital; the owners must cover the loss or sell. |
 
-A ranch that rolls Penalty season after season is a ranch going broke, and the engine allows it. A ranch that rolls Bonus season after season is a ranch the faction system will notice — the cattleman's association, the nesters, the rustlers, the railroad at the railhead all want a piece of a profitable outfit, and the faction engine is how they come for it.
+A ranch that rolls Penalty season after season is a ranch going broke. A ranch that rolls Bonus season after season is a ranch the faction chapter will notice. The cattleman's association, the nesters, the rustlers, and the railroad at the railhead all want a piece of a profitable outfit.
+
+#### Example: The Cimarron Drive
+
+Calder starts a `Trail Drive` with a `D10` herd at `Quality 2`, bound for the railhead. The drive needs `8` Progress before it hits `5` Trouble. The crew is seasoned (`+1 die`), but the country is in drought (`-1 die`), so the first checks ride on Calder's own judgment and the herd's temper.
+
+The players choose to push across a dry stretch before the weather turns. The road check succeeds, marking Progress, but the water check fails and adds Trouble: the herd reaches the next water restless and thirsty. That Trouble costs `D6 × 10` beeves, and the GM narrates the loss as strays and two animals bogged at the tank. Later, a night storm triggers a `Run` stampede (`4` Progress, `3` Trouble). Calder turns the herd before it reaches the cutbank, but the stampede still adds a Trouble step and kills a horse.
+
+The drive reaches the railhead at `8` Progress and `3` Trouble. It pays, but it does not pay cleanly: the herd is lighter, the horse string is poorer, and the ranch's herd die may step down if the season's Ranch Roll turns bad. The players earned the sale, but the sale carried the trail with it.
 
 ### The Open Range and Its Factions
 
@@ -185,4 +216,4 @@ A drive is a crew, and the crew is the cast this book is built around. Calder is
 
 The cattle drive is also the natural site of the campaign's weather, its mass combat (when the drive meets the raiders), and its faction pressures (the association, the nesters, the rustlers). A drive run with this book's full rules is a campaign in miniature: a destination, a stake, a crew, a country, and every pressure the West can bring to bear on a thousand beeves and the men moving them.
 
-A campaign that uses these rules will find that the herd is a character — nervous, valuable, and capable of killing the people who work it. The trail drive is the cowboy's outlaw score, run across weeks instead of hours, paid in beeves instead of cash, and judged by the country it crosses rather than the fence it leaves behind. The Herd Ledger, the Breeding Dial, and the common-pool Range are the rancher's three distinct dials in the Investment Cycle (assess, invest, operate, reckon, reinvest), and together they make the ranch's season a strategic argument with the grass, the weather (Ch.19), the winter (Ch.22), and the other ranchers on the same range — which is the argument the open range was always having, and the argument the engine should let the dice settle, one calf crop and one drought at a time.
+A campaign that uses these rules will find that the herd is a character: nervous, valuable, and capable of killing the people who work it. The trail drive is the cowboy's outlaw score, run across weeks instead of hours, paid in beeves instead of cash, and judged by the country it crosses rather than the fence it leaves behind. The Herd Ledger answers how much the ranch has. The Breeding Track answers what the herd is worth. The shared grass die answers how much the range can bear. Between them, the ranch's season becomes an argument with grass, weather, winter, and every neighbor on the same range.

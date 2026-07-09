@@ -6,13 +6,11 @@
 >
 > — ELI PENSINGER, TO A YOUNG MINER WHO SAID HE HAD A GOOD FEELING
 
-### The Ground and Its Trade
+### Below the County's Daylight
 
-The prospector and the hardrock miner are half the West's other economy, and the corebook's setting chapter and the 1870s supplement's `mining-camps.md` knowledge render the camp, the shift, the hierarchy, and the cost in the dust. What neither gives you is the claim and the strike as procedures — the act of finding color, the legal fact of staking the ground, the season's roll of a working mine, and the long, grinding Trouble of the dust in a man's lungs. This chapter is the missing half.
+The prospector and the hardrock miner are half the West's other economy. The camp has its own weather: tin cups on the assay counter, powder smoke in the drift, a union handbill folded in a coat pocket, a cough a man pretends belongs to the cold. This chapter brings that life to the table as play: finding color, staking ground, working a mine through a season, and watching the dust collect in a man's lungs.
 
-It is an optional framework for groups who want the diggings on the table. It builds **prospecting** as a multi-check search across country. It builds **claim staking** as a legal and factional procedure, grounded in the Mining Law of 1872. It builds the **working mine** as a seasonal enterprise parallel to the corebook's business rules, with a `Mine Yield` Bonus/Penalty table that pays in clean cash and charges in dust and cave-ins. And it folds in the mine as a place — the shaft, the drift, the stope — as a site-generator for the underground scenes the camp produces.
-
-You do not need these rules for a prospector's one-off pan in a creek. Use them when the diggings are the campaign — when the party has a claim to defend or to jump, a mine to work, or a company town's factions pressing on the county.
+One pan in a creek is a color roll and a rumor. A claim that can be jumped, a shaft that must be timbered, or a company town that owns the store and the law needs stronger handling. Prospecting becomes a search across country; claim staking becomes a legal and factional contest under the Mining Law of 1872; the working mine becomes a seasonal enterprise that pays in clean cash and charges in dust, cave-ins, bad air, powder bills, and trouble with the company store.
 
 > _Pensinger set the round and lit the fuse and came around the corner of the drift and waited with his palm flat on the wet wall. The shot went and the wall took the sound and gave back the smaller sound of the rock coming down. He did not cough on the fumes, because he had stopped coughing in front of the men months ago, but he coughed on the walk back to the cage, alone, in the way a man coughs when the cough is his own business and the business is bad._
 >
@@ -84,18 +82,25 @@ The mine is not a neutral place, and the men who work it are not neutral men. Tw
 - **The Company** is the faction that owns the shaft, the mill, the company store, and often the county seat's recorder. Its purpose is the dividend, and its means are the wage, the debt, the detective, and the closed room where the price of powder is set. A claim the company wants is a claim the company takes, by law or by purchase or by the simple pressure of being the only buyer and the only store.
 - **The Union** (the Western Federation, the Knights, whatever form the district's organization takes) is the faction of the men in the drift. Its purpose is the wage, the eight-hour shift, and the living man over the dividend. Its means are the strike, the boycott, and the closed meeting. A prospector who becomes an owner is no longer the union's man, and a miner who works the company's drift is no longer his own.
 
-The tension between company and union is the mine's engine at the faction level. A campaign in a hardrock district will find the party choosing a side, or being chosen by one, the way every man in the district was made to choose.
+The tension between company and union is the mine's political weather. A campaign in a hardrock district will find the party choosing a side, or being chosen by one, the way every man in the district was made to choose.
 
 ### The Working Mine as Business
 
-A claim that is filed and worked is an enterprise, and it runs on the **Investment Cycle** — assess, invest, operate, reckon, reinvest — but the cycle's dial is the **Vein Ledger** (the ore's richness and depth), its operating loop is the **Shift Menu** (the underground tactical choice), and its accumulating cost is the **Dust Track** (silicosis, the doom that does not ask permission). The mine is the book's deepest trade, and a miner-PC should feel that depth: a depletable mystery in the vein, a tactical work loop in the shift, and a personal doom in the dust.
+A claim that is filed and worked is an enterprise. Run it once per season, and run dangerous stretches of work as shifts when the table wants the underground choices close enough to feel. The mine's working parts are the **Vein Ledger** (the ore's richness and depth), the **Shift Menu** (the underground choices), and the **Dust Track** (silicosis, the doom that does not ask permission). The mine is the book's deepest trade: a mystery in the vein, a wager in every shift, and a personal cost in the dust.
 
-**Assess** the vein and the shaft. The miner reads the assay, the wall, the drift's promise — the way Pensinger set his palm on the rock to feel what the ear could not hear. **Invest** in the timber and the powder, the machinery and the crew, and (if the vein is playing out) the sinking of the shaft deeper to find its continuation. **Operate** the shift, which is the mine's distinct loop — each shift underground is a tactical choice between speed, safety, and discovery (the Shift Menu, below). **Reckon** the season with the Mine Roll, read against the vein die and the shaft's condition — a mine worked fast and dusty reckons against a rich yield and a rising Dust gauge. **Reinvest** in the vein (sink the shaft), the claim (file new ground), or the crew (the company-vs-union web) — or take the season's ore and risk the vein playing out and the dust catching up.
+Run a working mine in this order at the Turn of the Season.
+
+1. **Assess the vein and shaft.** Read the assay, the wall, the timber, the water, and the crew. Make one `BOOKLEARNIN'`, `HAWKEYE`, or `LABOR` check. On a success, the proprietor learns one true thing: whether the vein is likely to hold, whether the shaft is unsafe, whether the company is buying low, or whether the union is ready to move. On `2+` successes, learn two. On a failure, the GM states a visible worry and adds `+1` Trouble to the first shift or sinking operation this season.
+2. **Invest in the season.** Choose one investment before the first shift: **Timber and Safety** (the first cave-in result this season becomes lost time instead of injury), **Powder and Crew** (`+1` die to the Mine Roll, but every underground worker gains `+1` Dust this season), **Assay and Survey** (`+1` die to prospect-the-drift and shaft-sinking checks), or **Wages and Peace** (`+1` die to company/union negotiations this season).
+3. **Operate the shifts.** Play one to three shifts using the Shift Menu. One shift is enough for a background mine. Play more when the mine is the session's center. Each shift produces ore, safety, knowledge, or repairs.
+4. **Reckon the season.** Step the vein die down once if ore was taken from the mine this season. Make the Season Mine Roll and read the Mine Yield Table.
+5. **Pay the dust.** Apply Dust gains from underground work and dry drilling. If a Dust threshold is crossed, mark the condition immediately, not after the next adventure.
+6. **Reinvest or take profit.** Spend Capital to sink the shaft, file new ground, settle labor trouble, repair damage, or pocket the season's clean-up and accept what was neglected.
 
 The placer and the lode are both run this way, with different key abilities and different yields.
 
 - **Key ability (placer):** `LABOR` (the work is surface, the men are few, the equipment is the rocker and the sluice). A hydraulic operation shifts the key ability to `OPERATE` and the scale up.
-- **Key ability (lode):** `Miner 49 Er` or `LABOR`, the proprietor's or the shift boss's. A lode worked by a crew reads `MAKIN'` (the timber, the machinery) and `BOOKLEARNIN'` (the engineering) as help abilities.
+- **Key ability (lode):** `LABOR`, using the proprietor's or the shift boss's pool. The `Miner 49 Er` talent is a natural edge here. A lode worked by a crew reads `MAKIN'` (the timber, the machinery) and `BOOKLEARNIN'` (the engineering) as help abilities.
 - **Prerequisites:** a filed claim, a property (a shaft, a drift, a mill site), and stock or capital sufficient to the scale. A lone miner with a single-jack works a prospect; a company works a mine.
 - **Town aspect modifiers:** the mine reads the town's `Natural Riches` (the district's grade) and `Law` (the claim's protection), in addition to the universal `Law` modifier. A mine in a `Natural Riches 1` district is a mine that plays out; a mine in a `Law 1` district is a mine the claim-jumper takes.
 
@@ -118,7 +123,7 @@ The mine's Season Roll is made at the Turn of the Season, like any business roll
 | `51-56` | A strike of high-grade the likes of which the district has not seen. `+2` Capital. | A bad blast, a bad shaft, a bad season. `2D6 × $75` in losses; a named man dead or maimed. |
 | `61-66` | The mother lode. `+1D3` Capital and the district's attention — for good and ill. | The mine played out. The claim is exhausted; the Capital is gone; the men move on. |
 
-A mine that rolls Penalty season after season is a mine going broke or going dark, and the engine allows it. A mine that rolls Bonus season after season is a mine the faction system will notice — the company, the union, the claim-jumper, and the bench all want a piece of a paying dig, and the faction engine is how they come for it. The dust is the Trouble that does not ask permission: a Bonus roll does not stop the dust from collecting, and a campaign in a hardrock district should let the silicosis accumulate in the background, the way the actual camps let it accumulate, until the cough becomes the engine of a miner's retirement or his end.
+A mine that rolls Penalty season after season is a mine going broke or going dark. A mine that rolls Bonus season after season is a mine the district will notice: the company, the union, the claim-jumper, and the bench all want a piece of a paying dig. The dust is the Trouble that does not ask permission. A Bonus roll does not stop the dust from collecting, and a campaign in a hardrock district should let the cough become a fact at the table before it becomes a funeral.
 
 #### The Vein Ledger
 
@@ -133,20 +138,20 @@ The mine's distinct asset is the **vein** — a depletable mystery in the rock. 
 
 Each season of work **steps the vein die down** by one size — the ore that came out is the ore that is gone. When the vein die reaches `D6` and would step down again, the vein is **exhausted**, and the miner must **sink the shaft deeper** to find the vein's continuation. Sinking the shaft is a `LABOR`/`MAKIN'` operation (the mine's version of the drive): the Progress is the new level, the Trouble is the cave-in, the water, the bad air, and the simple geological fact that you do not know if the vein continues until you sink the shaft and look. A successful sink finds the vein again (reset the vein die to `D8` or higher, and the Depth rating climbs); a failed sink loses the mine — the vein is gone, the shaft is flooded or collapsed, and the claim plays out.
 
-This is the **depletable-resource primitive** with a discovery twist: you don't know what's deeper until you dig, and the dig can kill you. A mine's life is a series of vein die step-downs punctuated by shaft-sinking operations, and the mine that lasts is the mine whose vein keeps surprising the man willing to sink for it.
+You do not know what is deeper until you dig, and the dig can kill you. A mine's life is a series of vein die step-downs punctuated by shaft-sinking operations, and the mine that lasts is the mine whose vein keeps surprising the person willing to sink for it.
 
 #### The Dust Track
 
-The mine's accumulating doom is the **dust** — the silicosis that the dry drill and the powder put into a miner's lungs, season after season, until the cough becomes the man's retirement or his end. Track the dust as a **Dust gauge** (`0`–`5`), the mine's version of the corruption/taint primitive, calibrated to industrial disease. Each season a miner works underground steps the Dust gauge up by `1` — more with dry drilling (the shift menu's fast option, below), less with wet drilling or time off.
+The mine's accumulating doom is the **dust**: the silicosis that the dry drill and the powder put into a miner's lungs, season after season, until the cough becomes retirement or death. Track dust as a **Dust gauge** (`0`-`5`) for each character who works underground. Each season a miner works underground steps the Dust gauge up by `1`. Dry drilling, bad ventilation, or a Powder and Crew investment adds more. Wet drilling, time off, or a safety-first season can hold the gain down.
 
 | The Dust Gauge | What It Means |
 | --- | --- |
 | `0–2` | The cough is occasional. The miner is hale, or the dust has not collected enough to tell. |
 | `3` | The chronic cough. The miner takes a permanent `-1` to `RESILIENCE` and `LABOR`. The dust is collecting, and the miner knows it. |
 | `4` | The shortness of breath on the stairs. `-1` to all physical pools. The miner cannot work a full shift without resting, and the crew knows why. |
-| `5` | The dust is killing the miner. The miner is dying, slowly, and the engine should let that be a slow death the mine's seasons track. Work underground is no longer possible; the miner retires to the porch or goes down for the last time. |
+| `5` | The dust is killing the miner. The death is slow, and the seasons should have room to show it. Work underground is no longer possible; the miner retires to the porch or goes down for the last time. |
 
-The Dust gauge is the mine's personal cost that no other trade carries — the rancher's herd can be rebuilt, the keeper's reputation can be repaired, but the dust in a miner's lungs does not come out. A Bonus roll on the Mine Yield does not stop the dust from climbing; a prosperous season underground is still a season of dust. The engine's job is to make the dust accumulate in the background, the way the actual camps let it accumulate, until the cough becomes the thing the campaign is about — the way Pensinger's cough is the thing his vignette is about, and the way the actual Cornish and the actual hardrock men carried it home or did not.
+The Dust gauge is the mine's personal cost that no other trade carries. The rancher's herd can be rebuilt, the keeper's reputation can be repaired, but the dust in a miner's lungs does not come out. A Bonus roll on the Mine Yield does not stop dust from climbing; a prosperous season underground is still a season underground. Let it accumulate in the background, the way the actual camps let it accumulate, until the cough becomes the thing the campaign is about.
 
 #### The Shift Menu
 
@@ -159,7 +164,15 @@ The mine's operating loop is the **shift** — the work done underground, shift 
 | **Prospect-the-drift** | `HAWKEYE`, `BOOKLEARNIN'` | Read the vein's continuation. Success reveals whether the vein deepens (the next shaft-sink will find color) or pinches out (the vein is dying, and the miner knows it before the vein die tells the season). This is the discovery option — the mine's version of prospecting, done underground. |
 | **Shore-up** | `MAKIN'` | Reinforce a bad stretch. Success removes a standing Trouble (a dangerous drift, a weeping wall) without losing a full shift to muck-and-timber. The middle option — faster than timbering, safer than blasting. |
 
-The Shift Menu is the mine's heart, and it is the thing that makes a mine feel like a mine and not a ranch or a saloon. Every shift is a choice: blast for the ore and breathe the dust, or timber for the safety and lose the ore; prospect for the vein's future, or shore up its present. A crew that always blasts has a rich season and a dying miner; a crew that always timbers has a safe mine and a thin yield; the crew that balances the four is the crew that lasts, and the balancing is the miner's actual skill, the thing the shift boss is paid for, and the thing the dust eventually takes from every man who works underground long enough.
+The Shift Menu is the mine's heart, and it is the thing that makes a mine feel like a mine and not a ranch or a saloon. Every shift is a choice: blast for the ore and breathe the dust, or timber for the safety and lose the ore; prospect for the vein's future, or shore up its present. A crew that always blasts has a rich season and a dying miner; a crew that always timbers has a safe mine and a thin yield; the crew that balances the four is the crew that lasts, and the balancing is the miner's craft, the thing the shift boss is paid for, and the thing the dust eventually takes from every man who works underground long enough.
+
+#### Example: Three Shifts Underground
+
+Pensinger's mine has a `D10` vein and Depth `2`. At the assess step, he gets `1` success and learns the shaft is safe enough, but the vein may turn. He invests in **Assay and Survey**, giving `+1 die` to prospect-the-drift and shaft-sinking checks this season.
+
+On the first shift, the crew chooses **Drill-and-blast**. The roll succeeds, raising the season's ore yield, but every underground worker marks the season's Dust gain. On the second shift, Pensinger chooses **Prospect-the-drift** instead of blasting again. The roll succeeds, and the GM tells him the vein turns left rather than dying. On the third shift, the crew chooses **Muck-and-timber** to keep the drift safe before following the turn.
+
+At the Reckon step, the mine takes ore, so the vein die steps down to `D8`. The Season Mine Roll pays steady, not rich, but the next shaft-sinking operation has a known direction and the drift has been kept safe. The crew gave up short-term ore to avoid blind sinking, which is exactly the mine's central choice: profit now, safety now, or knowledge that may keep the claim alive.
 
 > _Pensinger set his palm on the wall of the drift and felt what the ear could not hear, and what the wall said was that the vein was pinching. The drill-and-blast had taken the color out of the stope for three shifts, and the vein die was down, and the question was whether to blast deeper into the pinch or to timber back and prospect the drift for the vein's turn._
 >
@@ -171,15 +184,15 @@ The Shift Menu is the mine's heart, and it is the thing that makes a mine feel l
 
 ### The Mine as a Place
 
-The mine is also a dungeon. A working hardrock mine is a three-dimensional site — shaft, drift, stope, winze, raise — driven into the mountain by the work, and the GM who needs an underground scene has the mine's vocabulary to draw on. The `mining-camps.md` knowledge file in the writing skill is the reference for the shaft, the drift, the stope, the timber, the skip, the drill, the powder, the muck, and the smell of the drift at the end of a shift. The mine is a place the party goes into for rescue, for theft, for a meeting, or for the working of a claim, and the procedures of this chapter are what make the place live.
+The mine is also a dungeon. A working hardrock mine is a three-dimensional site — shaft, drift, stope, winze, raise — driven into the mountain by the work. Use its vocabulary at the table: the shaft drops from daylight; the drift runs along the vein; the stope is the opened working; the winze drops inside the mine; the raise climbs toward a level above; the timber groans; the skip rattles; the powder smoke hangs low; the muck smells wet and metallic at the end of a shift. The mine is a place the party goes into for rescue, theft, a meeting, or the working of a claim, and the procedures of this chapter are what make the place live.
 
 A cave-in is a `Trouble` result on the Mine Roll, and it is also a scene: the drift that closed on the men, the race to dig them out, the man at the face whose air is running. A rescue is a `Small` operation, with `LABOR`, `MAKIN'`, and `RESILIENCE` as the abilities and the clock of the trapped men's air as the Trouble. The mine's underground scenes use the corebook's conditions — `Exhausted`, `Dehydrated`, the disease rules — and the mine's own Trouble: the gas, the dust, the bad air that kills a man at the face before anyone knows it is there.
 
 ### The Mine and the Other Rules
 
-The mine ties the book's extractive and political threads together, and it is the engine's deepest trade — the one where the work is underground, the asset is a mystery, and the cost is in the lungs.
+The mine ties the book's extractive and political threads together. It is the deepest trade in the book: the work is underground, the asset is a mystery, and the cost is in the lungs.
 
-- **The Vein Ledger, the Dust Track, and the Shift Menu** are the mine's three distinct dials in the Investment Cycle (assess, invest, operate, reckon, reinvest). The vein is the depletable mystery; the dust is the accumulating doom; the shift is the tactical loop. No other business has all three.
+- **The Vein Ledger, the Dust Track, and the Shift Menu** are the mine's working parts in the season order. The vein is the depletable mystery; the dust is the accumulating doom; the shift is the tactical choice. No other business has all three.
 - **The company-vs-union web** (above) is the mine's political layer — the faction relationship scoped to one mine, where helping the union chills the company and vice versa.
 - **The sickness chapter** (Ch.3) is where the dust's final bill comes due — the chronic cough becomes the disease, and the disease becomes the death, the way the actual camps let it.
 - **The robber baron chapter** (Ch.24) holds the company's distant hand — the baron's mine is the baron's lever, and the miner who works it is the baron's man whether he unions or not.

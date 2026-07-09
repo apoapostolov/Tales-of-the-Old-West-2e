@@ -6,13 +6,11 @@
 >
 > — JUDGE HARLAN VOSS, TO A DEFENDANT WHO HAD ASKED ABOUT HIS CHANCES
 
-### Justice and Its Trade
+### After the Arrest
 
 The outlaw chapter of the corebook follows a wanted man from the crime through the score, the pursuit, and the hard ride — and stops at the moment of capture. This chapter picks up where that one sets the rope down. It is the law's grip: the arrest and the posse, the trial in its several shapes, the verdict and the sentence, the jail and the prison, the wire to the troop when the bench cannot keep order, and the long fact that a man in the dock is a man whose choices have narrowed to a few bad doors.
 
-It is an optional framework for groups who want the consequences of a crime — or the consequences of a wrong charge — to play out at the table rather than be hand-waved. It is written to close the loop the outlaw chapter opens: a man with `Wanted` becomes a man arrested, tried, sentenced, and either hanged, imprisoned, pardoned, broken out, or left to rot. The gang that leaves a hand to the law now knows exactly what that hand is going through, and this chapter is that knowledge.
-
-You do not need these rules for a quick arrest and a fine. Use them when the trial or the imprisonment is the campaign, or a major part of it — when a player character is in the dock, a compadre is in the territorial prison, the gang is planning a jailbreak, or the bench and the Committee are fighting over whose justice the county gets this week.
+A quick arrest and a fine can pass in a sentence. A trial, a wrong charge, or a prison term changes the campaign's ground. A character with `Wanted` becomes a defendant, a convict, a fugitive from a sentence, a man facing the rope, or a name on a pardon petition. The gang that leaves a hand to the law now knows where he sleeps, who can reach him, how long he has, and what it will cost to get him back.
 
 > _Voss sat on the raised plank the hotel called the bench and looked at the man in the dock and then at the back of the room where Sam Riddle sat with his hat in his lap. The man in the dock had ridden with Riddle once. Riddle had not been caught. The man had. The court knew both things and the county knew both things and the rope was already up in the cottonwood outside, put there by men the court could not name and did not wish to._
 >
@@ -74,9 +72,9 @@ The tier is the starting point, not the verdict. A good defense can bring a capi
 
 ### The Docket
 
-A circuit judge arrives on a schedule, and the schedule is the court's **docket** — the order in which the judge hears the criminal cases, the civil suits (the inheritance chapter's paper wars, Ch.15), the probates, and the bench's administrative business. The docket is the trial chapter's strategic layer, and it is the lever no amount of courtroom skill overcomes: the trial's *timing* is a faction's tool, and a faction that can move a case up the docket (to catch a hostile witness before he leaves the county) or down it (to let a sympathetic judge rotate in, or to let the county forget the charge) has an advantage the courtroom cannot match.
+A circuit judge arrives on a schedule, and the schedule is the court's **docket** — the order in which the judge hears the criminal cases, the civil suits (the inheritance chapter's paper wars, Ch.15), the probates, and the bench's administrative business. The docket is the trial chapter's strategic layer, and it is the lever no amount of courtroom skill overcomes: the trial's _timing_ is a faction's tool, and a faction that can move a case up the docket (to catch a hostile witness before he leaves the county) or down it (to let a sympathetic judge rotate in, or to let the county forget the charge) has an advantage the courtroom cannot match.
 
-The docket is the schedule-as-metronome primitive (the trade chapter's rhythm) applied to the law. A circuit court sits for a **session** — a week or two, twice a year, when the judge is in the county seat. Cases not heard in the session wait for the next, which may be a season away, and the waiting is itself a pressure (the defendant held in jail, the witness who drifts, the faction whose temper shifts). The party that wants its case heard — or wants to delay a rival's — must **work the docket**:
+The docket is the law's calendar, and the calendar is power. A circuit court sits for a **session** — a week or two, twice a year, when the judge is in the county seat. Cases not heard in the session wait for the next, which may be a season away, and the waiting is itself a pressure (the defendant held in jail, the witness who drifts, the faction whose temper shifts). The party that wants its case heard — or wants to delay a rival's — must **work the docket**:
 
 | Working the Docket | The Roll | The Effect |
 | --- | --- | --- |
@@ -120,7 +118,7 @@ A misdemeanor or clear-cut case may collapse to two phases (opening and summatio
 
 A trial's leverage is its **evidence** — the documents, the depositions, the surprise witnesses, the damning letters — and the evidence is **consumable**, the way the Families chapter's documented secrets are consumable at the rites. A piece of evidence deployed in a phase grants `+2` to that exchange's roll, and the evidence is then **spent**: it is in the court record, it cannot be deployed again for the same bonus, and (for secrets) it is now public knowledge the county will remember.
 
-Leverage is gathered before the trial (by investigation, by the discovery process, by the Casing-the-jail mechanic if the defendant is held) and spent across the phases. A defense that saves its best evidence for the summation risks the prosecution's case landing unopposed; a defense that spends early may find the summation bare. The leverage economy is the trial's strategic layer — the decision of *when* to play the card — and it is the thing that makes two defenses with the same evidence have different outcomes, because the timing of the reveal is half the courtroom's art.
+Leverage is gathered before the trial (by investigation, by the discovery process, by casing the jail if the defendant is held) and spent across the phases. A defense that saves its best evidence for the summation risks the prosecution's case landing unopposed; a defense that spends early may find the summation bare. The leverage economy is the trial's strategic layer — the decision of _when_ to play the card — and it is the thing that makes two defenses with the same evidence have different outcomes, because the timing of the reveal is half the courtroom's art.
 
 | Leverage | The Bonus | Spent? |
 | --- | --- | --- |
@@ -130,7 +128,7 @@ Leverage is gathered before the trial (by investigation, by the discovery proces
 | The character witness (a respected name) | `+1` to one exchange | No — persistent, but only as strong as the name |
 | The bench's trust (the judge's lean, if favorable) | `+1` to all exchanges | No — persistent |
 
-A trial with no leverage is a trial argued on the facts alone, and the facts favor whoever the jury believed first, which is usually the prosecution. A defense that gathers and spends its leverage well can turn a trial the facts were losing; a defense that has no leverage and no lawyer is the man in the dock in the opening vignette, reading his own charge for the first time, and the engine should let that cost what it costs.
+A trial with no leverage is a trial argued on the facts alone, and the facts favor whoever the jury believed first, which is usually the prosecution. A defense that gathers and spends its leverage well can turn a trial the facts were losing; a defense that has no leverage and no lawyer is the man in the dock in the opening vignette, reading his own charge for the first time, and that should cost what it costs.
 
 #### Trial Modifiers
 
@@ -150,7 +148,7 @@ The court is not neutral. Apply the modifiers that plainly matter, to the ±3 ca
 | A faction with `Standing +2` or better toward the defendant backs him | `+1 die` |
 | A faction with `Standing -2` or worse owns the bench | `-1 die` to `-2 die` |
 
-The race modifier is not a game-balance knob. It is the historical fact of the territorial court, and it should be on the table because it was on the country. The bench in 1870s New Mexico did not treat a Nuevomexicano, a Black man, a Chinese man, or an Apache the way it treated a white Anglo with a lawyer, and a rule that hid that fact would be lying about the country the game is set in. The writing skill's `uncomfortable-truths.md` governs how this is rendered, and the GM should let the modifier do its honest work.
+The race modifier is not a game-balance knob. It is the historical fact of the territorial court, and it should be on the table because it was on the country. The bench in 1870s New Mexico did not treat a Nuevomexicano, a Black man, a Chinese man, or an Apache the way it treated a white Anglo with a lawyer, and a rule that hid that fact would be lying about the country the game is set in. Render it plainly, without relish, and let the modifier do its honest work.
 
 #### The Verdict
 
@@ -169,6 +167,14 @@ A jury that cannot agree is a **hung jury** — the opinion sits at `0` and will
 > _Voss knew the verdict before the foreman stood. The jury's opinion had stalled on the cross-examination when the prosecutor put Riddle's old name in the defendant's mouth and the defendant had not denied it fast enough, and the storekeeper from the Committee front row had met the defendant's eye and shaken his head, which was the county's opinion leaning on the jury's. The man was going to hang. The question was whether the court would do it or the cottonwood would._
 >
 > _Voss read the sentence and took off the spectacles and rubbed the bridge of his nose. The wire to the marshal in Santa Fe would go unanswered. He had known that too. He wrote it anyway._
+
+#### Example: The Alibi Held Back
+
+Riddle is tried on a felony charge after a stage holdup. The jury's opinion starts at `-1`, leaning toward conviction, because the town is tired of road agents. The defense has two pieces of leverage: a corroborated alibi and a character witness from Sandoval.
+
+The defense spends the character witness during the opening, gaining `+1` and holding the jury at `-1` instead of letting the prosecutor push it lower. During the prosecution's case, the defense saves the alibi and risks a cross-examination without it. The prosecutor wins that exchange, moving the jury to `-2`. In the defense's case, the alibi is spent for `+2`; the defense wins and shifts the jury back to `-1`. At summation, the defense wins by one exchange and moves the jury to `0`, the doubt.
+
+The verdict is not clean acquittal. It is hung, reduced, or bargained, by the court's temper. Saving the alibi almost lost the trial; spending it too early might have left the summation bare. That is evidence as leverage: the paper matters, but when it lands matters just as much.
 
 ### Sentencing
 
@@ -227,7 +233,7 @@ A player character or a named compadre held for any length of time suffers the p
 | Reputation | A man inside is a man the county talks about. Apply a `Fame` shift up or down by what the cell did to his legend. |
 | The gang or the family | If the held man is a compadre or a named member of an outlaw band, the gang's `Cohesion` tests as if a member had been left behind (the corebook's outlaw chapter). |
 
-A man can be broken by a cell as surely as by a bullet. The engine handles this through the existing damage tracks; the incarceration procedure simply decides when the damage comes.
+A man can be broken by a cell as surely as by a bullet. Use the existing damage tracks; the incarceration procedure simply decides when the damage comes.
 
 ### Jailbreak
 
@@ -259,7 +265,7 @@ Casing dice are spent on the break's stages, the way the train robbery's casing 
 
 (The casing stage of the break is handled by the Casing-the-jail layer above; the casing dice banked there are spent on these stages.)
 
-**Trouble** is what the break costs: a deputy killed (which raises the breaker's `Wanted` sharply), a witness made, the man wounded, a faction's enmity earned, the town's `Law` roused. A successful break that leaves bodies behind turns a `Felony` man into a `Capital` one and a `Capital` one into a man the marshals will not stop chasing. The gang that breaks a man out has signed onto his `Wanted` tier, which is the cost of the rescue and the engine's way of making the choice weigh.
+**Trouble** is what the break costs: a deputy killed (which raises the breaker's `Wanted` sharply), a witness made, the man wounded, a faction's enmity earned, the town's `Law` roused. A successful break that leaves bodies behind turns a `Felony` man into a `Capital` one and a `Capital` one into a man the marshals will not stop chasing. The gang that breaks a man out has signed onto his `Wanted` tier, which is the cost of the rescue and the weight of the choice.
 
 ### Pardon, Bargain, and the Wire
 
@@ -275,7 +281,7 @@ The court is not the only justice in the county. When the town's `Law` is low an
 
 A lynching is not a trial. It is a verdict that escapes the court — a jury's opinion driven to `conviction` in a county where the `Law` aspect is `1-2` and the Committee is a faction with the reach to act, or the natural end of an arrest the court never gets to hold. The GM frames it as a scene, not a roll: the body in the cottonwood at dawn, the silence of the men who did it, the bench's letter to the marshal that will go unanswered. The player characters may try to stop it (a `Standoff or Siege` operation, above), join it (which moves their `Standing` with the Committee and with every decent faction in the county), or survive it (which is its own kind of trial).
 
-The lynching is the engine's honest accounting of a country where the law's reach was short and the rope was long. Render it through the writing skill's `dark-frontier.md` and `uncomfortable-truths.md`, and let it do its work. A campaign that uses these rules and never has a lynching is lying about the country. A campaign that uses them and has one every session is lying about it a different way. The truth is in between, and the bench knows it.
+The lynching is the chapter's honest accounting of a country where the law's reach was short and the rope was long. Render it plainly and let it do its work. A campaign that uses these rules and never has a lynching is lying about the country. A campaign that uses them and has one every session is lying about it a different way. The truth is in between, and the bench knows it.
 
 ### The Wire to the Troop
 

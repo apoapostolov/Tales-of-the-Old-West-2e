@@ -6,13 +6,11 @@
 >
 > — FROM THE BEDSIDE, UNTYPED, UNSIGNED
 
-### Sickness and Its Work
+### When Fever Reaches the Door
 
 More men, women, and children died in the West of sickness than of all the bullets and ropes and bad horses put together. The cholera took a third of a wagon train in a bad summer. The smallpox emptied a fort and a nation alike. The camp fever closed a mine for a season. The childhood diseases — diphtheria, scarlet fever, the whooping cough — filled the graveyards the way the weather filled the passes, regularly and without opinion. A man who survived the bullet and the rope could still die of a bad drink of water, and most of them did.
 
-The corebook has a `Disease` entry and conditions for the body's slow failure, but no engine for the sickness that moves through a body of people — a town, a drive, a camp, a troop, a family — and takes its toll. This chapter is that engine. It builds the **disease as a pressure** that spreads and kills, the **outbreak as an operation** the player characters fight the way they fight a fire or a flood, and the **doctor of the period** as the figure who stands against it with the tools of 1873, which save fewer men than anyone at the table may be comfortable with.
-
-It is an optional framework, and it is a hard one. The chapter does not soften the mortality of the period. Use it when the table wants the country's oldest killer on the board, and the weight of it felt.
+Sickness at the table should not vanish into one `Disease` roll when it reaches a town, a drive, a camp, a troop, or a family. Track how far it has spread, how hard it kills, what the doctor still has in the bag, and who must be refused the door so others may live. The procedure is hard because the period was hard: the doctor can reduce death, not command it away.
 
 > _Sandoval would not let the boy from the southern road into the kitchen. She stood in the doorway of the way-station with the bar up and the pistol on the shelf behind her and she told him to sit on the porch and she would bring him water, but he was not to come inside, and he was not to touch the children, and he was not to come inside if she had to tell him a third time._
 >
@@ -24,7 +22,7 @@ It is an optional framework, and it is a hard one. The chapter does not soften t
 
 ### The Disease as Pressure
 
-A disease is not a single roll. It is a pressure that moves through a body of people, and the engine tracks it with two small gauges: the **Spread** (how far the sickness has reached in the body of people) and the **Severity** (how many it is taking). The Spread climbs as the disease passes from person to person; the Severity sets the mortality, which is the chance that a stricken person dies of it before the doctor or the constitution can turn it.
+A disease moves through a body of people before the table knows who will die of it. Track that movement with two small gauges: **Spread** (how far the sickness has reached in the body of people) and **Severity** (how many it is taking). Spread climbs as the disease passes from person to person; Severity sets the mortality, which is the chance that a stricken person dies of it before the doctor or the constitution can turn it.
 
 | Spread | What It Means |
 | --- | --- |
@@ -59,13 +57,13 @@ The diseases that shaped the actual West, each a short profile for the GM's use.
 
 **Childhood Diseases (Diphtheria, Scarlet Fever, Whooping Cough, Measles).** The graveyard fillers. Each is `Severity 3` to `4` in children and `Severity 1` to `2` in adults who had them young. The diseases that took the Calder daughters and the children of every family the county built, and the reason the family chapter's traits include "secret about its dead."
 
-**Wound Sepsis.** Not a disease that spreads, but the sickness that takes the man who survived the bullet. `Severity 3` for an untreated wound in the country; the corebook's `DOCTORIN'` and the conditions are the engine. The death that comes a week after the fight, which is the death most frontier fighters actually died.
+**Wound Sepsis.** Not a disease that spreads, but the sickness that takes the man who survived the bullet. `Severity 3` for an untreated wound in the country; resolve treatment with the corebook's `DOCTORIN'` and condition rules. This is the death that comes a week after the fight, which is the death most frontier fighters actually died.
 
 **The Pox (Syphilis, Gonorrhea).** The trade's cost, and the cost of the trade. `Severity 1` acutely, chronic and progressive over years; the pox is the slow sickness the saloon and brothel chapter's women carry and the county does not name. The chapter treats it as it treats the others: honestly, without spectacle, and with the weight the disease put on the actual people who had it.
 
 ### The Outbreak and the Contagion Loop
 
-A real outbreak — a cholera in the camp, a smallpox in the fort, a camp fever in the mine — is not a heist and should not resolve as one. The outbreak is a *medical* scene, and the engine should make it feel medical: the disease is a self-reproducing threat (the Spread die), the doctor's work is a *triage* under pressure (the Triage Menu), and the outbreak ends when the disease burns out or is contained, not when a Progress track fills.
+A real outbreak — a cholera in the camp, a smallpox in the fort, a camp fever in the mine — is not a heist and should not resolve as one. The outbreak is a _medical_ scene: the disease is a self-reproducing threat (the Spread die), the doctor's work is triage under pressure (the Triage Menu), and the outbreak ends when the disease burns out or is contained, not when a Progress track fills.
 
 The outbreak is resolved as a **per-Shift cycle** — the Contagion Loop — that runs while the sickness is active in a body of people. The loop has four steps, run each Shift the outbreak continues.
 
@@ -80,32 +78,32 @@ The outbreak is resolved as a **per-Shift cycle** — the Contagion Loop — tha
 | The camp split or thinned (the drive divided, the school closed) | `-1 die` step |
 | Crowding, bad water, no quarantine, or a faction hiding its sick | `+1 die` step each |
 
-On a **4+** on the Spread die, the Spread gauge (the disease's reach in the body of people) climbs by `1`. On a `1`, the disease's spread has slowed — the GM may step the Spread gauge *down* by one if the containment work warrants it (the quarantine is working, the water is clean). The Spread die is the disease's engine, and the containment work is the lever the player characters pull to slow it. This is the **encounter-with-memory primitive** — the disease's spread is a function of what the party has done about it, not a flat weekly roll.
+On a **4+** on the Spread die, the Spread gauge (the disease's reach in the body of people) climbs by `1`. On a `1`, the disease's spread has slowed — the GM may step the Spread gauge _down_ by one if the containment work warrants it (the quarantine is working, the water is clean). The Spread die responds to what the party has done about the sickness, not to a flat weekly roll.
 
 **2. The Triage.** Each stricken person tests the disease's `Severity` (the mortality ladder, above). This is where the doctor's player makes **triage choices** — the Triage Menu, below.
 
 **3. The Mortality.** Those who fail the Severity test by margin die, recover, or take the permanent condition (the critical injury table for the fever's mark, the chronic cough, the blindness). The doctor's `DOCTORIN'` roll (in the Triage step) is the modifier; the period's limits (calomel, miasma, the odds) set the floor no roll can break.
 
-**4. The Burn-out.** The outbreak ends when the Spread stops climbing for `1D6` Shifts (the disease has run out of susceptibles, the quarantine has held, or the season has turned against the vector). This is the disease's clock — not a Progress track, not a Trouble limit, but the natural exhaustion of a sickness that burns through a body of people and then is done. A disease contained by the party's work burns out faster; a disease uncontained burns out when it has taken everyone it can, which is the engine's honest accounting of an epidemic's natural end.
+**4. The Burn-out.** The outbreak ends when the Spread stops climbing for `1D6` Shifts (the disease has run out of susceptibles, the quarantine has held, or the season has turned against the vector). This is the disease's clock — not a Progress track, not a Trouble limit, but the natural exhaustion of a sickness that burns through a body of people and then is done. A disease contained by the party's work burns out faster; a disease uncontained burns out when it has taken everyone it can.
 
 #### The Triage Menu
 
-The doctor is the outbreak's central figure, and the doctor's work is not a single `DOCTORIN'` roll — it is a **triage**, the moral and medical core of the chapter. Each Shift of an active outbreak, a character with `DOCTORIN'` ≥ 2 may **treat a number of patients equal to their `DOCTORIN'` rank.** Each treatment is a `DOCTORIN'` roll, modified by the supplies (the medicine resource die, below) and the conditions (clean water, rest, a real bed, the disease's Severity). A successful treatment steps the patient's Severity test down one level of mortality (a `Severity 3` test becomes a `Severity 2` test for the treated patient); a `3+` success steps it down two levels.
+The doctor is the outbreak's central figure, but the work is **triage**, not one heroic `DOCTORIN'` roll. Each Shift of an active outbreak, a character with `DOCTORIN'` >= 2 may **treat a number of patients equal to their `DOCTORIN'` rank.** Each treatment is a `DOCTORIN'` roll, modified by the supplies (the medicine resource die, below) and the conditions (clean water, rest, a real bed, the disease's Severity). A successful treatment steps the patient's Severity test down one level of mortality (a `Severity 3` test becomes a `Severity 2` test for the treated patient); a `3+` success steps it down two levels.
 
-The doctor who treats fewer patients than are sick must **choose who goes untreated**, and the untreated test their Severity unaided. This is the subsystem's moral weight — the engine should let that choice sit on the player, the way Sandoval sat with the boy on the porch. The doctor is not deciding who lives and who dies, exactly; the doctor is deciding whose odds are improved and whose are not, and the odds are the period's odds, which means even the treated may die and the untreated may live, and the choice is no less heavy for that.
+The doctor who treats fewer patients than are sick must **choose who goes untreated**, and the untreated test their Severity unaided. This is the outbreak's moral weight. Let that choice sit on the player, the way Sandoval sat with the boy on the porch. The doctor is not deciding who lives and who dies, exactly; the doctor is deciding whose odds are improved and whose are not, and the odds are the period's odds, which means even the treated may die and the untreated may live, and the choice is no less heavy for that.
 
 | The Triage Choice | When to Make It |
 | --- | --- |
 | Treat the worst cases first (the lowest odds, the highest Severity) | The doctor who will not let the dying go untreated, at the cost of the recoverable |
 | Treat the most likely to survive (the best odds, the most useful) | the doctor who is saving the camp's hands and mothers, at the cost of the worst cases |
-| Treat by rank or relation (the boss's son, the doctor's kin) | The doctor who is human, and whose triage is not the engine's to judge |
+| Treat by rank or relation (the boss's son, the doctor's kin) | The doctor who is human, and whose triage is not the rules' to judge |
 | Treat no one (the disease is too contagious, the doctor will not enter the sick house) | The doctor who is saving himself, or who has judged the outbreak beyond his help |
 
-The choice is the doctor's, each Shift, and the engine records it only in who lived and who did not.
+The choice is the doctor's, each Shift, and the rules record it only in who lived and who did not.
 
 #### Medicine as a Resource Die
 
-The doctor's supplies — the calomel, the opium, the quinine, the lancets, the bandages, the ipecac — are tracked as a **medicine resource die**, the same primitive the outlaw band's `Provisions` die uses, applied to the doctor's kit. The die is set by what the doctor has laid in:
+The doctor's supplies — the calomel, the opium, the quinine, the lancets, the bandages, the ipecac — are tracked as a **medicine resource die**, like the outlaw band's `Provisions` die, applied to the doctor's kit. The die is set by what the doctor has laid in:
 
 | The Doctor's Kit | Medicine Die |
 | --- | --- |
@@ -114,16 +112,24 @@ The doctor's supplies — the calomel, the opium, the quinine, the lancets, the 
 | A well-supplied doctor in a town with an apothecary | `D10` |
 | A hospital's stores, or a fort's surgeon's kit | `D12` |
 
-Each Shift of active treatment rolls the medicine die; on a **1–2**, the die steps down one size (the supplies are running low — the calomel is gone, the bandages are reused, the quinine is rationed). At **D4 exhausted** (a 1–2 on the D4), the doctor is out of period medicine and is down to clean water, clean hands, and the willingness to sit with the dying — which is, as the odds note below, sometimes enough and sometimes not. The medicine die is the doctor's clock inside the outbreak, and a long outbreak or a remote camp may exhaust the kit before the disease burns out, which is the engine's honest accounting of the frontier doctor's material limits.
+Each Shift of active treatment rolls the medicine die; on a **1-2**, the die steps down one size (the supplies are running low — the calomel is gone, the bandages are reused, the quinine is rationed). At **D4 exhausted** (a 1-2 on the D4), the doctor is out of period medicine and is down to clean water, clean hands, and the willingness to sit with the dying — which is, as the odds note below, sometimes enough and sometimes not. The medicine die is the doctor's clock inside the outbreak, and a long outbreak or a remote camp may exhaust the kit before the disease burns out.
 
 A `DOCTORIN'` roll made with the medicine die exhausted is at `-1 die` (the doctor is working without the period's tools, however imperfect); a roll made with no medicine die at all (the doctor never had one) is at the base pool, unmodified.
 
+#### Example: Camp Fever at the Mine
+
+Pensinger's mine camp starts with Spread `D8`, three sick miners, and a doctor's kit at `D8`. The doctor chooses **Isolate** for the first Shift, moving the sick men to the empty storehouse. The quarantine reduces the next Spread roll by `-1 die`, but the camp loses workers and the mine's next shift takes `-1 die`.
+
+On the next Shift, the doctor chooses **Treat the worst case** and rolls `DOCTORIN'` with the medicine die. The treatment succeeds for one miner, but the medicine die rolls a `1` and steps down to `D6`. The Spread die does not climb that Shift, so the GM starts counting toward burn-out. When the mine owner demands the men return to work, the players can see the cost: break quarantine and protect the season's ore, or hold quarantine and let the mine's yield suffer.
+
+The outbreak ends after the Spread die stops climbing long enough to burn out. The mine survives, but the medicine is thinner, the season's work is poorer, and the company and union both remember who ordered the sick men back underground.
+
 ### The Doctor and the Limits of the Period
 
-The `DOCTORIN'` ability and the `Healing Touch` talent are the engine's tools against the sickness, and the chapter uses them directly. But the medicine of 1873 is what it is, and the chapter does not pretend otherwise.
+The `DOCTORIN'` ability and the `Healing Touch` talent are the rules' tools against sickness, and the chapter uses them directly. But the medicine of 1873 is what it is, and the chapter does not pretend otherwise.
 
-- **The miasma theory.** The period believes disease travels on bad air, not in the water or on the hands — even as the best doctors of the decade are beginning to suspect otherwise. A keeper who cleans the well is doing the right thing for the wrong reason, and the engine should let it work without explaining why.
-- **The calomel and the bleeding.** The doctor's kit is mercury (calomel), the lancet, the opium, the whiskey, the quinine for the ague, and the ipecac. Each is a treatment the period used, and each is as likely to kill as to cure. A `DOCTORIN'` roll with the period's tools is a roll at the period's odds, which are not the modern's odds. The medicine resource die (above) models the kit's depletion; this entry models the kit's *limits* — the tools themselves are flawed, and a well-supplied doctor is still a doctor bleeding the sick to balance the humors.
+- **The miasma theory.** The period believes disease travels on bad air, not in the water or on the hands — even as the best doctors of the decade are beginning to suspect otherwise. A keeper who cleans the well is doing the right thing for the wrong reason. Let it work without explaining why.
+- **The calomel and the bleeding.** The doctor's kit is mercury (calomel), the lancet, the opium, the whiskey, the quinine for the ague, and the ipecac. Each is a treatment the period used, and each is as likely to kill as to cure. A `DOCTORIN'` roll with the period's tools is a roll at the period's odds, which are not the modern's odds. The medicine resource die (above) models the kit's depletion; this entry models the kit's _limits_ — the tools themselves are flawed, and a well-supplied doctor is still a doctor bleeding the sick to balance the humors.
 - **The quarantine.** The one measure the period had that worked, when it was kept. The doctor who can hold a quarantine saves more lives than the doctor with the best calomel. The Spread die (above) is the mechanic that makes this true — the quarantine's `-1 die` step is worth more than any treatment roll.
 - **The odds.** A good doctor in 1873 saves a third to a half of the patients a good doctor in 1925 saves, and almost none that a modern doctor would save. The chapter lets the dice say so. A `DOCTORIN'` roll of `0` successes is the doctor who cannot help and knows it; a roll of `3+` is the doctor who pulled a man back from the edge by the simple work of clean hands, clean water, and the willingness to sit with the dying.
 
@@ -135,9 +141,8 @@ The disease touches every system that gathers people, which is most of them.
 - **The drive (the cattle chapter).** The flux or the cholera in a crew disables the hands and scatters the herd; a sick drive is a drive in Trouble.
 - **The camp and the mine.** The camp fever closes a mine for a season; the Mine Roll's Penalty column is where the outbreak's cost is felt.
 - **The troop and the column.** The camp fever and the smallpox broke more armies than the enemy did; the mass combat chapter's unit Strength steps down for every body of men the sickness takes.
-- **The family.** The childhood diseases are the engine of the family chapter's "secret about its dead" trait, and the reason a family with a lost child carries a weight the county can read.
+- **The family.** The childhood diseases are the source of the family chapter's "secret about its dead" trait, and the reason a family with a lost child carries a weight the county can read.
 - **The way-station and the saloon.** The keeper's work is the keeping of the sickness at the door, at the cost of the human thing, which is to take the sick boy in.
-- **The medicine resource die** is the same primitive as the outlaw `Provisions` die and the holdout chapter's ammo die — the engine's consumables-as-resource-dice rule, applied to the doctor's kit. The Triage Menu is the doctor's distinct loop, and no other chapter has it.
+- **The medicine resource die** works like the outlaw `Provisions` die and the holdout chapter's ammo die, applied to the doctor's kit. The Triage Menu is the doctor's distinct loop, and no other chapter has it.
 
-The chapter's honest accounting is its reason for being. The West died of sickness more than anything else, and a rulebook that gives the bullet a chapter and the fever none is lying about the country. This chapter gives the fever its chapter, and lets the engine do its work without spectacle and without flinching.
-
+The West buried more people from fever than from bullets. Put that truth on the table without spectacle: the closed schoolhouse, the burned blanket, the doctor choosing which bed gets the last medicine, and the family that survives because someone else was kept outside.

@@ -6,11 +6,11 @@
 >
 > — JUDGE HARLAN VOSS, TO A LAWYER WHO ASKED WHY THE DEED MATTERED MORE THAN THE VERDICT
 
-### The Paper and Its Work
+### The Paper War
 
-The corebook's property and Capital rules handle the buying and selling of land and business. The justice chapter handles the criminal court. Neither handles the West's great quiet engine: the **paper war**. The contested title, the fraudulent patent, the will that disinherits and the codicil that reverses it, the speculator's corner, the insurance on a cargo that conveniently burned, the lien that waits twenty years to mature — the West was taken as much by the deed as by the rifle, and the men who did the taking wore coats and worked in offices and never drew on anyone.
+The corebook's property and Capital rules handle the buying and selling of land and business. The justice chapter handles the criminal court. Neither handles the West's great quiet contest: the **paper war**. The contested title, the fraudulent patent, the will that disinherits and the codicil that reverses it, the speculator's corner, the insurance on a cargo that conveniently burned, the lien that waits twenty years to mature — the West was taken as much by the deed as by the rifle, and the men who did the taking wore coats and worked in offices and never drew on anyone.
 
-This chapter gives the paper war its procedures. It builds the **land office** as a faction and a forum, the **inheritance** as a contested operation, and **insurance and speculation** as the financial instruments the robber barons chapter gestures at but does not deliver. These are the civil-law and finance twins of the criminal-justice chapter, and a campaign that runs the Santa Fe Ring, the Maxwell Grant, or any contested county will need them.
+Run the paper war through the land office, probate, insurance, and speculation. The land office is both faction and forum. Inheritance is a contested operation over the dead man's estate. Insurance and speculation turn cargo, deed, and rumor into leverage for the men who can afford to wait. Campaigns built around the Santa Fe Ring, the Maxwell Grant, or any contested county need the civil-law twin of the criminal court.
 
 > _Voss set the patent on the bar and read it for the third time and set it down again. The patent was for the north section of the way-station's spring, which Sandoval's grandfather had filed in forty-three and which the land office in Santa Fe had recorded in forty-four and which a clerk in the Ring's pay had re-recorded in sixty-eight in the name of a company the Ring's lawyer had drawn up the week before._
 >
@@ -70,13 +70,13 @@ Evidence is gathered through casing-like actions in the season before the hearin
 | The forged codicil / the fabricated patent | `+2` to any exchange — but the forgery is a crime if exposed, and a `HAWKEYE`/`BOOKLEARNIN'` read by the opposition may detect it (the Detection table, below) |
 | The character witness (the county's regard, the family's name) | `+1` to one exchange; persistent, but only as strong as the name |
 
-A hearing with no evidence is a hearing argued on the bare claim, and the bare claim favors whoever filed first, which is usually the faction that owns the office. A party that gathers and spends its evidence well can win a contest the bare claim was losing; a party that has no evidence and no lawyer is the family that loses the spring to the Ring's surveyor, and the engine should let that cost what it costs.
+A hearing with no evidence is a hearing argued on the bare claim, and the bare claim favors whoever filed first, which is usually the faction that owns the office. A party that gathers and spends its evidence well can win a contest the bare claim was losing; a party that has no evidence and no lawyer is the family that loses the spring to the Ring's surveyor. Let that loss be real: the fence moves, the water is denied, the mortgage comes due, and the rival's name is written into the book.
 
 **Detection.** Forged or fabricated evidence is a gamble. The opposition may attempt to detect a forgery with a `BOOKLEARNIN'` (the law and the handwriting) or `HAWKEYE` (the paper, the ink, the seal) roll, opposed by the forger's original roll. A detected forgery shifts the hearing sharply against the side that used it (the judge's opinion drops by two steps), and may trigger a criminal fraud charge (the justice chapter). The evidence economy's forgery is the paper war's equivalent of the train robbery's derailment — the high-risk, high-reward play that wins the case if it holds and ruins the case if it does not.
 
 ### Inheritance and the Estate
 
-A death in the county transfers property, and the transfer is the inheritance — the will, the estate, the heirs, the creditors, and the law that sorts them. The corebook's Fortune roll may produce a death or a legacy; the families chapter treats inheritance as a family's continuity. This chapter gives the inheritance its procedure: the **probate**, the contested will, the estate's resolution.
+A death in the county transfers property: the will, the estate, the heirs, the creditors, and the law that sorts them. A Fortune roll may produce a death or a legacy; a family may treat inheritance as continuity. Probate turns that continuity into a public contest over paper, memory, debt, and greed.
 
 #### The Will and the Probate
 
@@ -94,11 +94,11 @@ A probate won is an estate settled and the heirs paid. A probate contested and l
 
 #### The Estate's Distribution
 
-The estate's distribution follows the will, or — if there is no will — the law of intestate succession, which the GM should set by the territory (the Spanish law in New Mexico, the common law in the Anglo territories, the community-property regimes in the former Mexican states). The distribution is the engine's transfer of Capital and property from the dead to the living, and a contested distribution is the inheritance chapter's payoff — the ranch, the mine share, the bank account, the spring's north section, moved to the heir the law and the paper and the contest favor.
+The estate's distribution follows the will, or — if there is no will — the law of intestate succession, which the GM should set by the territory (the Spanish law in New Mexico, the common law in the Anglo territories, the community-property regimes in the former Mexican states). The distribution transfers Capital and property from the dead to the living, and a contested distribution is the inheritance chapter's payoff — the ranch, the mine share, the bank account, the spring's north section, moved to the heir the law and the paper and the contest favor.
 
 ### Insurance
 
-Insurance is the gambit the robber barons and the trade houses run on the country's risk. A cargo insured against loss, a building insured against fire, a life insured against death — the premium is the cost of the risk, and the payout is the company's bet that the risk will not come due. The insurance is the engine's way of making the risk a commodity, and the commodity a score.
+Insurance is the gambit the robber barons and the trade houses run on the country's risk. A cargo insured against loss, a building insured against fire, a life insured against death — the premium is the cost of the risk, and the payout is the company's bet that the risk will not come due. Insurance turns risk into a commodity, and a commodity into a score.
 
 #### Insuring the Risk
 
@@ -111,11 +111,11 @@ An insurance policy is bought from a company (a faction, the robber barons chapt
 | A life (the key man, the hand) | `1-3%` of the covered sum per year | The sum on death, by any cause |
 | A crop (the farm, the ranch's hay) | `5-15%` of the expected yield | The yield if lost to drought, hail, or fire |
 
-An insurance policy is a bet the company expects to win, which is why the company sells it. The engine should let the policy pay when the risk comes due — and let the party or the keeper who holds the policy breathe easier for having it, and the party or the keeper who does not wish they had.
+An insurance policy is a bet the company expects to win, which is why the company sells it. When the risk comes due, the policy pays if the paper is clean, the premiums are current, and the company cannot prove fraud. A party or keeper who holds the policy breathes easier for having it; the one who did not buy it feels the loss in Capital and reputation.
 
 #### The Arson and the Wager
 
-Insurance is also the score's quiet engine. A building insured for more than it is worth is a building that may burn, by the owner's hand or the owner's friend's, and the company's investigator is the faction the fraud wakes. An insurance fraud is an operation (the outlaw chapter's frame) whose Progress is the payout and whose Trouble is the investigator, the marshal, and the company's memory. The company is a faction (the robber barons chapter), and a fraud against it is a `Wanted` of a civil kind — the company's lawyers, the company's detectives, the company's long memory for the men who burned its building for the money.
+Insurance is also the score's quiet wager. A building insured for more than it is worth is a building that may burn, by the owner's hand or the owner's friend's, and the company's investigator is the faction the fraud wakes. An insurance fraud is an operation (the outlaw chapter's frame) whose Progress is the payout and whose Trouble is the investigator, the marshal, and the company's memory. The company is a faction (the robber barons chapter), and a fraud against it is a `Wanted` of a civil kind — the company's lawyers, the company's detectives, the company's long memory for the men who burned its building for the money.
 
 ### Speculation
 
@@ -132,11 +132,11 @@ A speculation is a **downtime action** the party may take at the Turn of the Sea
 | The corner | Buy the supply of a thing to control its price | `PRESENCE`/`INSIGHT` and enough Capital to hold the corner; a federal crime if it works too well |
 | The short | Bet against a thing's price (the ranch's herd, the mine's yield) | `INSIGHT` and the willingness to profit from a neighbor's ruin |
 
-A speculation is resolved on the standard ladder: `0` successes loses the stake (the market moved against the speculator), `1` holds the stake, `2` returns the stake plus `D6 × 10%`, `3+` returns the stake plus `D6 × 25%` or more (the corner held, the lot multiplied, the cattle syndicate paid). A speculation that fails badly is a Capital loss the party may not recover from, which is the engine's honest accounting of the speculative ruin the West was also built on.
+A speculation is resolved on the standard ladder: `0` successes loses the stake (the market moved against the speculator), `1` holds the stake, `2` returns the stake plus `D6 × 10%`, `3+` returns the stake plus `D6 × 25%` or more (the corner held, the lot multiplied, the cattle syndicate paid). A speculation that fails badly is a Capital loss the party may not recover from, because speculative ruin was as much a part of the West as speculative fortune.
 
 #### The Market Track
 
-For a party that wants the speculation to be more than a single season's roll, the chapter offers the **Market Track** — a tracked position in one or two commodities, held across seasons, with the price shifting each Turn of the Season by a roll the party does not control. The Market Track is the protected-dial primitive applied to the speculative bet: the party cannot control the price, only their position, and the price's movement is the engine's honest accounting of the risk the actual speculators ran.
+For a party that wants the speculation to be more than a single season's roll, use the **Market Track** — a tracked position in one or two commodities, held across seasons, with the price shifting each Turn of the Season by a roll the party does not control. The party cannot control the price, only its position, and that is the risk the actual speculators ran.
 
 Track each commodity the party has a position in as a **price die** (the stepped die, `D6` → `D12`, representing the price per unit relative to the party's entry price). The price die starts where the party bought in (a `D8` for a moderately-priced commodity), and at each Turn of the Season the GM rolls it:
 
@@ -148,15 +148,23 @@ Track each commodity the party has a position in as a **price die** (the stepped
 
 The price die's roll is modified by the season's pressures: a drought (the weather chapter, Ch.19) steps the cattle price up; a silver strike (the mining chapter, Ch.7) steps the silver price down (glut); a national political act (the political-scene chapter, Ch.25) — the Bland-Allison Act, the Specie Resumption — shifts the metal markets sharply; a faction's corner (the robber barons chapter, Ch.24) may hold the price artificial for a season. The party's `INSIGHT` read of the market, made at the invest step, grants `+1` or `-1` to the price die's roll for the party's position only — the party read the market right, or wrong.
 
-Each season, the party may **hold** (keep the position), **add** (spend Capital to increase the position, which raises the stakes of the next roll), or **sell** (cash out at the current price die, realizing the profit or the loss). The three-option menu is the speculation's seasonal decision, and the market's movement is the thing the party is betting on, which is the engine's way of making the speculation a multi-season strategic decision rather than a single downtime roll. A party that holds a cattle position through a drought watches the price die climb; a party that holds a silver position through the Crime of '73 watches it fall; a party that sells at the top is the party that beat the market, which is the speculation's only victory and its rarest one.
+Each season, the party may **hold** (keep the position), **add** (spend Capital to increase the position, which raises the stakes of the next roll), or **sell** (cash out at the current price die, realizing the profit or the loss). The three choices make speculation a multi-season decision rather than a single downtime roll. A party that holds a cattle position through a drought watches the price die climb; a party that holds a silver position through the Crime of '73 watches it fall; a party that sells at the top is the party that beat the market, which is the speculation's only victory and its rarest one.
+
+#### Example: The Spring's North Section
+
+Sandoval contests a forged patent on the north section of her spring. The GM sets the case as a `Quiet-Title Suit` (`6` Progress, `4` Trouble). Before the hearing, the party gathers two pieces of evidence: the prior filing and the testimony of an old clerk. The Ring produces a clean-looking patent with the right seal.
+
+At the hearing, Sandoval spends the prior filing early for `+2`, winning the first exchange and marking Progress. The Ring answers with the forged patent. Riddle holds the clerk out of the first exchange and spends him in the second, when the Ring's lawyer overreaches. The clerk's testimony wins the exchange and exposes a contradiction in the book. Progress fills before Trouble does, so the patent is broken.
+
+The land is not merely "won." The office's clerk is now a dangerous witness, the Ring's `Standing` drops toward the party, and the spring is legally Sandoval's until the Ring tries the next paper war.
 
 ### The Paper War and the Other Rules
 
 The paper war is the civil-law and finance layer the criminal-justice and trade chapters imply but do not deliver.
 
-- **The justice chapter** is the criminal court; this chapter is the civil. The two share the social-conflict engine and the `Lawyer` talent, and a paper war that turns criminal (the forged patent, the arson fraud) ladders into the justice chapter's trials.
+- **The justice chapter** is the criminal court; this chapter is the civil. The two share the social-conflict rules and the `Lawyer` talent, and a paper war that turns criminal (the forged patent, the arson fraud) ladders into the justice chapter's trials.
 - **The families chapter** holds the inheritance as a family's continuity; this chapter gives the probate its procedure and the estate its contested transfer.
-- **The robber barons chapter** holds the baron as the great speculator; this chapter gives the speculation and the insurance their instruments, so the baron's work has mechanical weight.
+- **The robber barons chapter** holds the baron as the great speculator; this chapter gives the speculation and the insurance their instruments, so the baron's work has table weight.
 - **The trade chapter** is the cargo the insurance insures; the bank chapter (Ch.9) is the deposit the speculation leverages.
 
-The West was built on paper. A chapter that gives the land office its book, the inheritance its probate, and the speculation its gamble gives the campaign its quiet engine — the war that took the land while the bullet and the rope held the county's attention, the war that wore coats and worked in offices and never drew on anyone, and the war that, more than any other, decided whose name was on the deed when the country was finally settled.
+The West was built on paper. The quiet war takes land while the bullet and the rope hold the county's attention elsewhere. It wears coats, works in offices, rarely draws on anyone, and decides whose name is on the deed when the country is finally settled.

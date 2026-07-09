@@ -6,11 +6,11 @@
 >
 > — DUTCH MILLER, TO A FIREMAN WHO ASKED WHY THE WHISTLE MATTERED
 
-### The Wire and Its Work
+### The Message Outruns the Horse
 
 The telegraph is the new thing in the West, newer than the railroad in most counties, and it has changed the country more quietly and more completely than the iron horse. A wire sent from the railhead in the morning is in Santa Fe by noon and in Washington by the evening, and the man who robbed the morning train is on a warrant in three territories before his horse is cool. The wire is the reason a clean getaway stopped being clean. It is the reason the posse knows your name before you do.
 
-The wire is load-bearing across this book — the train robbery chapter leans on it as the pursuit accelerant, the justice chapter leans on it as the way a warrant reaches the troop, the factions chapter leans on it as the medium a baron's pressure travels through. This chapter gives the wire a small, shared mechanical definition so every chapter that invokes it draws from the same well, and the GM does not have to invent the cost, the speed, or the cut every time a wire enters the scene.
+Whenever the wire matters, settle three things fast: what the message costs, how quickly it arrives, and who can cut, delay, read, or misuse it. The train robbery's pursuit, the justice chapter's warrant, the faction's pressure, and the baron's reach all use that same table reality.
 
 > _Miller had the fireman hold the boiler while he walked back to the station agent's window with the way-bill and the message he had written on the back of it in the careful print of a man who had been a telegrapher before he was an engineer. The agent read the message and read it again and looked at Miller._
 >
@@ -55,7 +55,7 @@ An operator's regard for the party is tracked the way a settlement's `Refuge` is
 
 #### The Operator as an Influence Contact
 
-The operator's regard is more than a flat modifier — it is a small **Influence pool** (cap `5`), using the factions chapter's system (Ch.13). The party earns the operator's Influence by public acts the operator notices (a Christmas bottle, a favor done in the operator's sight, the company's regard paid in the operator's direction), and spends it to send a wire the company would rather not, delay a wire the company would rather send fast, or read the traffic the operator hears in the click of the sounder. The operator's Influence **decays** at each Turn of the Season the party has not cultivated the relationship — a bribe forgotten, a favor unreturned, and the operator's ear cools by a point, the way all Influence cools. The operator is a person, not a switch, and the Influence pool models the maintenance the relationship demands, which is the wire chapter's only concession to the factions chapter's political system and the right weight for a comms utility.
+The operator's regard is a small **Influence pool** (cap `5`), using the factions chapter's system (Ch.13). The party earns it by public acts the operator notices — a Christmas bottle, a favor done in the office, company regard paid in the operator's direction — and spends it to send a wire the company would rather refuse, delay one the company wants fast, or read the traffic clicking through the sounder. Influence cools at each Turn of the Season the party has not cultivated the relationship. The operator is a person, not a switch.
 
 ### Cutting the Wire
 
@@ -84,7 +84,7 @@ When the wire is cut, jammed, or held, the county enters a **wire-down** conditi
 | The dummy message | Until the dummy and the truth collide, which is `1D6` Shifts to `1D6` days, by how far the messages must travel to meet |
 | A storm (the weather chapter) | Until the storm passes and the crew can work |
 
-While the wire is down, the county's timelines slow to horse-speed. Pursuit that would have been `Regional` by wire is `Local` until the wire returns. A warrant that would have reached the next county today reaches it in three days. A baron's order that would have moved a faction this season does not arrive until the line is up. The wire-down is the engine's way of making the party's cut matter, and the GM should let it shift every timeline the wire would have compressed.
+While the wire is down, the county's timelines slow to horse-speed. Pursuit that would have been `Regional` by wire is `Local` until the wire returns. A warrant that would have reached the next county today reaches it in three days. A baron's order that would have moved a faction this season does not arrive until the line is up. Let the cut matter by shifting every timeline the wire would have compressed.
 
 ### Interception and the Traffic
 
@@ -99,13 +99,19 @@ The wire carries the county's traffic, and the traffic is readable by anyone wit
 
 A failed read is a wrong guess or a stale one. A successful read is the party's ear on the county's nerve, which is often worth more than the dollar a word the wire cost to send.
 
+#### Example: Buying a Day
+
+The gang knows a warrant will leave the railhead by wire at noon. They choose to **climb and clip the line** instead of axing a pole. The roll is `LIGHT-FINGERED`; it succeeds. The wire-down condition lasts `1D6+1` Shifts because the line crew must walk the poles to find the break.
+
+For that day, pursuit stays at horse-speed. The marshal in the next county does not get the warrant until the line is fixed, and the gang's `Regional` trouble remains local long enough for them to cross the dry wash. But the company now knows the line was cut, and the operator's regard cools because the break happened on his watch. The cut bought time. It did not erase consequence.
+
 ### The Wire and the Other Rules
 
-The wire is a thread that runs through half the book, and this chapter is the knot that ties the thread to the engine.
+The wire is a thread that runs through half the book, and this chapter is the knot that ties the thread to the table.
 
 - **The train robbery chapter** leans on the wire as the pursuit accelerant — the wire that ruins a clean getaway. The cut and the dummy (above) are the mechanics that chapter already needs, and a gang that cuts the wire or holds the office before a score is a gang that buys itself the head start the wire would have stolen.
-- **The justice chapter** leans on the wire as the way a warrant reaches the troop — the wire goes to the post. The wire-down condition is the engine's way of saying the warrant does not arrive today, and the troop does not ride until the line is up.
+- **The justice chapter** leans on the wire as the way a warrant reaches the troop — the wire goes to the post. The wire-down condition says the warrant does not arrive today, and the troop does not ride until the line is up.
 - **The factions and robber-barons chapters** lean on the wire as the medium a baron's pressure travels through — a name on a wire, by Thursday. The operator is the baron's ear, and a party that owns the operator owns a piece of the baron's reach.
 - **The mail chapter (the next chapter)** leans on the wire as the fast cousin of the mail — the wire for the urgent, the mail for the durable.
 
-The wire is the country's nervous system, and a chapter that gives it a cost, a speed, and a cut gives the rest of the book a shared definition for the thing it has been invoking by name. That is the chapter's whole job, and the reason it sits where it does.
+The wire is the country's nervous system. Once its cost, speed, and failure are known, every warrant, robbery, faction order, and rescue call moves at the same hard pace.

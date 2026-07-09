@@ -6,13 +6,13 @@
 >
 > — ADELINA SANDOVAL, TO A HAND WHO WONDERED WHY GOD HAD SENT THE HAIL
 
-### Weather and Its Trade
+### Reading the Sky
 
 The West of the 1870s is a country of weather, and the weather is a character in every tale that crosses it. The blue norther comes down the plains in a wall and kills cattle and men who were sweating at noon. The prairie fire runs before a wind and takes the horses and the wagons and the grass for fifty miles. The cloudburst turns a dry wash into a river in ten minutes and the river takes the camp. The drought comes on slow and does not leave and the town withers around its dry spring. A man who travels the country without reading the sky is a man the country will write off.
 
-This chapter is an optional rules set for groups who want the weather on the table instead of in the GM's narration. It does three things. It gives the GM a **weather generator** keyed to the regions and seasons of the West. It builds the country's worst weather — the blizzard, the fire, the flood — as **operations**, using the same Progress-versus-Trouble track the outlaw chapter uses for scores. And it folds the slow pressure of drought into the town and outlaw downtime systems already in the corebook.
+Put weather on the table when it changes choices: how far the party rides, whether the herd pushes, whether the ferry runs, whether the camp survives the night. Roll region and season for ordinary days, frame blizzards, prairie fires, and flash floods as operations, and let drought work slowly through town, ranch, and outlaw downtime.
 
-It does not invent new conditions. The corebook already has `Starving`, `Dehydrated`, `Exhausted`, `Freezing`, and `Heatstroke`, each with a damage schedule and a death-roll clause. The weather in this chapter produces those conditions. The new work is the *generators* that decide when the conditions come, and the *operation framing* that turns a bad storm into a scene instead of a single roll.
+It does not invent new conditions. The corebook already has `Starving`, `Dehydrated`, `Exhausted`, `Freezing`, and `Heatstroke`, each with a damage schedule and a death-roll clause. The weather in this chapter produces those conditions. The new work is the _generators_ that decide when the conditions come, and the _operation framing_ that turns a bad storm into a scene instead of a single roll.
 
 > _Calder came in off the plain at dusk with two beeves short and the wrangler across the saddle like a sack of grain. The norther had come down on them at noon and the boy had not been dressed for it and the horses had been leg-weary from the morning's push and Calder had made the choice to ride for the way-station instead of making camp, because making camp in a blue norther with a half-frozen hand and no wood was the kind of choice that ended in a line shack with four men and three horses come spring._
 >
@@ -55,13 +55,13 @@ The result sets the weather and a travel modifier applied to the Traveling Table
 | `61-63` | **Rain squall, brief and hard.** Spooked-stock risk. | **Thunderhead building.** Roll again in two Shifts; storm is coming. | **Cold front dropping.** Temperature falls sharply by nightfall. | **Snow, steady.** Travel `-50%`. |
 | `64-66` | **Clear and fine.** The country at its best. | **Clear, with thunderheads to the south.** Good for now. | **Clear and gold.** The country before the weather turns. | **Clear and still.** The cold of the century, or the calm before a storm (50/50). |
 
-This is a base table for the high desert and plains country the game's setting is built on. The GM should adjust for the specific region: a summer day in the Mojave Desert shifts every `Heatstroke` risk toward the severe; a winter day in the high Rockies treats any `clear and cold` as `Freezing` risk; the Pacific Northwest's wet is a near-constant `-25%` travel modifier through the winter. Use `regional-landscapes.md` in the writing skill's knowledge base as the guide for what each region does to the table. The numbers are the same; the names and the risks shift.
+This base table fits high desert and plains country. Adjust the name and risk to the ground under the party's boots: Mojave summer pushes `Heatstroke` toward severe, the high Rockies turn any clear winter cold into `Freezing` risk, and the Pacific Northwest can make wet travel `-25%` for most of a winter.
 
 #### Reading the Result
 
 The result's travel modifier applies to the Traveling Table's miles-per-Shift distances. A `-50%` day halves the day's travel; a `-25%` day cuts it by a quarter. The `rushed` distances from Chapter 6 stack with these modifiers, and rushing on a bad-weather day is the open door to the conditions below.
 
-When a result says **test** a condition (`Freezing`, `Heatstroke`), apply the corebook's rule for that condition directly. The condition is the engine; the weather table only decides when it fires. There is no new damage track here. A character caught in a `Full blizzard` rolls `RESILIENCE` against `Freezing` exactly as Chapter 5 describes, and dies of it exactly as Chapter 5 describes, if the dice and the exposure say so.
+When a result says **test** a condition (`Freezing`, `Heatstroke`), apply the corebook's rule for that condition directly. The weather table decides when the condition fires; it does not add a new damage track. A character caught in a `Full blizzard` rolls `RESILIENCE` against `Freezing` exactly as Chapter 5 describes, and dies of it exactly as Chapter 5 describes, if the dice and the exposure say so.
 
 #### Spooked-Stock Risk
 
@@ -69,21 +69,21 @@ Several results carry a **spooked-stock risk**: hail, thunder, a hard squall, a 
 
 #### The Weather Pattern — Reading the Trend
 
-The daily weather table above produces the day's weather, but a real frontier traveler watched the sky for *trends* — a dry stretch building toward fire risk, a cold front dropping over days toward a blizzard, a hot spell deepening toward the killing heat. The daily roll, read independently, cannot show the trend, because each day is a disconnected result. The **Weather Pattern** is a small layer that tracks the trend the daily roll produces, so the watchful traveler can read what the weather is *building toward*, the way the actual travelers read the barometer of the bad knee and the color of the sunset.
+The daily weather table above produces the day's weather, but a real frontier traveler watched the sky for _trends_ — a dry stretch building toward fire risk, a cold front dropping over days toward a blizzard, a hot spell deepening toward the killing heat. The daily roll, read independently, cannot show the trend, because each day is a disconnected result. The **Weather Pattern** is a small layer that tracks the trend the daily roll produces, so the watchful traveler can read what the weather is _building toward_, the way the actual travelers read the barometer of the bad knee and the color of the sunset.
 
-Track the current weather pattern as a **pattern die** — a `D6` that represents the trend's strength in its current direction. The pattern die starts at `3` (neutral) at the beginning of a season or a stretch of travel. Each day, after rolling the daily weather table, **step the pattern die** based on the day's result:
+Track the current weather pattern with a **trend** and a **pattern die**. The trend names what the weather is building toward — `Clear`, `Heat`, `Cold`, or `Storm`. The pattern die is a `D6` that measures the trend's strength. It starts at `3` at the beginning of a season or a stretch of travel. Each day, after rolling the daily weather table, set or step the trend based on the day's result:
 
 | The Day's Weather | The Pattern Die |
 | --- | --- |
-| Clear and fine, good traveling | step toward **clear** (`-1`, toward 1) |
-| Hot, building heat, fire risk | step toward **heat** (`+1`, toward 6) |
-| Cold front dropping, bitter | step toward **cold** (`-1`, toward 1) |
-| Storm, wind, precipitation | step toward **storm** (`+1`, toward 6) |
+| Clear and fine, good traveling | Trend becomes or remains **Clear**; step the die down by `1`, toward `1`. |
+| Hot, building heat, fire risk | Trend becomes or remains **Heat**; step the die up by `1`, toward `6`. |
+| Cold front dropping, bitter | Trend becomes or remains **Cold**; step the die up by `1`, toward `6`. |
+| Storm, wind, precipitation | Trend becomes or remains **Storm**; step the die up by `1`, toward `6`. |
 | Moderate, seasonal, unremarkable | no shift |
 
-The pattern die's **direction** (toward clear or toward storm; toward cold or toward heat) is the trend, and its **magnitude** (how far from `3`) is the trend's strength. A pattern die that has been climbing toward `6` for three days of hot, dry weather is a pattern that raises the **fire risk** — the GM should step the prairie fire's likelihood up, or foreshadow the smoke on the horizon. A pattern die falling toward `1` over days of cold front is a pattern that raises the **blizzard risk** — the blue norther is building, and the watchful traveler makes for shelter before the daily roll confirms it.
+The trend names the danger; the die measures how hard it is bearing down. A `Heat 5` pattern raises the **fire risk** — the GM should step the prairie fire's likelihood up, or foreshadow the smoke on the horizon. A `Cold 5` pattern raises the **blizzard risk** — the blue norther is building, and the watchful traveler makes for shelter before the daily roll confirms it. A `Storm 5` pattern means rivers rise, roads fail, and every low camp starts to look foolish. A `Clear 1` pattern is good travel, but if the season is dry it may also mean grass ready to burn.
 
-The pattern die does not replace the daily weather table — it is rolled *alongside* it, and the daily table still produces the day's weather. The pattern die tracks *what the weather has been doing*, which is the early warning the watchful read and the unwatchful miss. This is the encounter-with-memory primitive applied to weather: the country remembers what it has been doing, and the trend is the thing the traveler reads in the sky and the knee and the behavior of the stock.
+The pattern die does not replace the daily weather table — it is kept _alongside_ it, and the daily table still produces the day's weather. The pattern die tracks _what the weather has been doing_, which is the early warning the watchful read and the unwatchful miss. The country remembers what it has been doing, and the trend is the thing the traveler reads in the sky and the knee and the behavior of the stock.
 
 #### The Exposure Gauge — the Weather's Cumulative Cost
 
@@ -95,13 +95,13 @@ A single blizzard is a disaster Operation. But a week of cold rain, or three day
 | `2` | The wear is showing. The party is cold, wet, or heat-worn, and the conditions are nearer. |
 | `3` | **The conditions test at `-1 die`.** Each Shift in the bad weather tests `Freezing`, `Heatstroke`, or `Exhausted` (by the weather's nature) at `-1` to the pool, because the bodies are already worn. |
 | `4` | **The conditions test at `-1 die`, and the party's travel is `-25%`.** The exhaustion is telling on the pace as well as the bodies. |
-| `5` | **The conditions test at `-2 dice`, and a `RESILIENCE` test is forced each Shift regardless of shelter.** The party is at the weather's mercy; the engine should let the gauge's cost land hard. |
+| `5` | **The conditions test at `-2 dice`, and a `RESILIENCE` test is forced each Shift regardless of shelter.** The party is at the weather's mercy; let the gauge's cost land hard. |
 
-**Exposure climbs** by `1` for each Shift the party spends in sustained bad weather (a storm, extreme cold or heat, a blizzard's edge) without adequate shelter. It **steps down** by `1` for each Shift spent in shelter, by a fire, with dry clothes and hot food — the recovery the way-station and the line cabin provide, which is why Sandoval's door bar went up before Calder's horse was at the rail. The Exposure gauge is the weather's slow cost, and it is the reason a week of cold rain kills as surely as a single blizzard, just slower and quieter. The engine should let the gauge climb in the background of a hard season's travel, the way the actual weather wore the actual travelers down, until the conditions fire from the accumulation rather than the single event.
+**Exposure climbs** by `1` for each Shift the party spends in sustained bad weather (a storm, extreme cold or heat, a blizzard's edge) without adequate shelter. It **steps down** by `1` for each Shift spent in shelter, by a fire, with dry clothes and hot food — the recovery the way-station and the line cabin provide, which is why Sandoval's door bar went up before Calder's horse was at the rail. The Exposure gauge is the weather's slow cost, and it is the reason a week of cold rain kills as surely as a single blizzard, just slower and quieter. Let it climb in the background of a hard season's travel, the way the actual weather wore the actual travelers down, until the conditions fire from the accumulation rather than the single event.
 
 ### Disasters
 
-The worst weather is not a single roll. It is a scene. A blizzard that traps the party on the high plains, a prairie fire that runs before a wind, a flash flood that takes the dry wash the party camped in — these are the weather at its worst, and they deserve the same weight the outlaw chapter gives a score. Frame them as **operations**, using the Progress-versus-Trouble track.
+A blizzard that traps the party on the high plains, a prairie fire running before the wind, or a flash flood taking the wash where the party camped deserves scene weight. Frame the disaster as an **operation** with Progress for survival or escape and Trouble for what the weather takes.
 
 A weather disaster uses the operation rules in full. The GM sets the scale by the disaster's ferocity and the party's exposure, tags each attempt Safe / Risky / Desperate, and reads Trouble on the standard ladder. The abilities that matter shift with the disaster and the party's choices — `NATURE` to read the country, `HAWKEYE` to find the way, `MOVE` or `ANIMAL HANDLIN'` to outrun it, `LABOR` and `MAKIN'` to build what shelter can be built, `RESILIENCE` to hold together when holding together is all that is left.
 
@@ -164,7 +164,7 @@ A hand caught in the water is a `RESILIENCE` roll against the drowning rules in 
 
 ### Drought and the Long Dry
 
-Not every weather pressure is a single storm. The drought comes on slow and does not leave, and it is the engine that withers a town and breaks an outfit. The drought is not a single operation. It is a pressure on the downtime systems already in the game.
+Not every weather pressure is a single storm. The drought comes on slow and does not leave, and it withers a town and breaks an outfit. The drought is not a single operation. It is a pressure on the downtime systems already in the game.
 
 When the GM declares a drought — by the season's weather rolls, by the campaign's fiction, or by a Fortune roll result that names it — apply its pressure at the Turn of the Season.
 
@@ -177,17 +177,25 @@ When the GM declares a drought — by the season's weather rolls, by the campaig
 | `Welfare` aspect pressure: roll the Town Fortune with an additional `-1` to the Tens die | Town Fortune, Chapter 8 |
 | Water and grass scarcity: travel through the district is `-25%` and `Dehydrated` risk applies if the party cannot carry water | Traveling, Chapter 6 |
 
-A drought that runs three seasons breaks the country it is in. The town may fail, the outfit may go bust, the gang may have to move. This is the engine working as intended. The drought is the weather at campaign scale, and it should be allowed to do its work.
+A drought that runs three seasons breaks the country it is in. The town may fail, the outfit may go bust, the gang may have to move. The drought is the weather at campaign scale, and it should be allowed to do its work.
+
+#### Example: Heat Building Toward Fire
+
+The party crosses dry grass country in August. The first day rolls clear and hot, setting the trend to `Heat 4`. The second day is a hot south wind; the trend climbs to `Heat 5`, and the GM foreshadows smoke far off. The party can keep pushing for distance, but every Shift in the open risks `Heatstroke`, and the fire risk is now real.
+
+On the third day, a prairie fire starts ahead of the herd. The GM frames it as a `Storm`-scale disaster (`6` Progress, `4` Trouble). The players choose to make a firebreak rather than outrun the front. A successful `LABOR` roll marks heavy Progress, but a failed `ANIMAL HANDLIN'` roll adds Trouble as the remuda scatters. The party reaches burned ground before Trouble breaks the plan, but loses gear and a horse.
+
+The pattern die did not replace weather. It warned the table what the weather was building toward, and gave the players a chance to act before the country acted first.
 
 ### Weather and the Other Rules
 
 The weather in this chapter touches almost every other system in the game, which is why it is built from existing pieces rather than new ones.
 
 - **Travel (Chapter 6).** The travel modifiers apply directly to the Traveling Table. Rushing on a bad-weather day stacks the rush modifier with the weather modifier and opens the door to the conditions.
-- **Conditions (Chapter 5).** `Freezing`, `Heatstroke`, `Exhausted`, and `Dehydrated` are the engine the weather fires into. Nothing here duplicates them.
+- **Conditions (Chapter 5).** `Freezing`, `Heatstroke`, `Exhausted`, and `Dehydrated` are the rules the weather fires into. Nothing here duplicates them.
 - **Chases (Chapter 6).** A chase in mud, snow, or a dust storm takes the cross-terrain pursuit modifiers and adds the weather's ranged and visibility penalties. A `High wind` day is `-1 die` to any long shot, for the pursued and the pursuer both.
 - **Conflict (Chapter 5).** Ranged conflict is the system the weather touches most. Apply the ranged modifiers from the weather table as penalty dice where they plainly matter. A gunfight in a dust storm is a different fight from one on a clear day, and the table should feel it.
-- **The drive and the campaign (this book).** A cattle drive crosses weather every day; a campaign in the field lives or dies by it. The weather generator is the engine both chapters draw on for the country's pressure.
+- **The drive and the campaign (this book).** A cattle drive crosses weather every day; a campaign in the field lives or dies by it. The weather generator gives both chapters the country's pressure.
 - **The gang and the town (corebook).** A drought or a hard winter hits the outlaw's `Horsestock` and `Provisions` and the town's aspects and Fortune rolls, as above. The weather is not a side system; it is the country doing what the country does, felt wherever the party is.
 
 A campaign that uses these rules will find that the party begins to read the sky. That is the point. The traveler who checks the weather table before he saddles and the trail boss who reads the barometer of his bad knee before he pushes the herd are doing what the men and women of the actual West did every day of their lives. The rules should make that reading matter, and let the country do its work when the reading is wrong.
